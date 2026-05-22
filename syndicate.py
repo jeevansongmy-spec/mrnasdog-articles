@@ -228,6 +228,13 @@ def main(argv):
         i = argv.index("--only")
         only = argv[i + 1]
         del argv[i:i + 2]
+    # Internal reference id, e.g. "mrnasdog.com_1" = first article from that site.
+    # Tracked in state only — never written onto the article itself.
+    ref = None
+    if "--ref" in argv:
+        i = argv.index("--ref")
+        ref = argv[i + 1]
+        del argv[i:i + 2]
     files = [a for a in argv[1:] if not a.startswith("--")]
     if not files:
         print(__doc__)
@@ -238,7 +245,10 @@ def main(argv):
     for path in files:
         art = parse_article(path)
         st = all_state.setdefault(art["slug"], {"site": art["site"]})
+        if ref:
+            st["internal_ref"] = ref
         print(f"\n=== {art['site']}/{art['slug']} — \"{art['title']}\""
+              f"{'  [' + st['internal_ref'] + ']' if st.get('internal_ref') else ''}"
               f"{'  [DRY RUN]' if dry else ''} ===")
         print(f"    canonical: {art['canonical_url']}")
         for ch in channels:

@@ -1,4 +1,20 @@
 {
+  "hyperliquid-pressure-framework": {
+    "devto_id": 3727860,
+    "devto_url": "https://dev.to/mrnasdog/hyperliquid-hype-the-buyback-is-bigger-than-the-unlock-8eg",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/hyperliquid-pressure-framework.md",
+    "internal_ref": "mrnasdog.com_2",
+    "site": "crypto",
+    "telegram_message_id": 10
+  },
+  "mrnasdog-pressure-framework": {
+    "devto_id": 3727859,
+    "devto_url": "https://dev.to/mrnasdog/mrnasdog-pressure-framework-4h93",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/mrnasdog-pressure-framework.md",
+    "internal_ref": "mrnasdog.com_1",
+    "site": "crypto",
+    "telegram_message_id": 9
+  },
   "the-quiet-strategy": {
     "devto_id": 3727637,
     "devto_url": "https://dev.to/mrnasdog/the-quiet-strategy-5g6e-temp-slug-5995754",
