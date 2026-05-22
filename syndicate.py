@@ -34,10 +34,18 @@ The site (crypto|growth) is inferred from the folder.
 import json
 import os
 import re
+import ssl
 import subprocess
 import sys
 import urllib.request
 import urllib.error
+
+# macOS system Python often lacks a usable CA bundle for urllib; prefer certifi.
+try:
+    import certifi
+    _SSL_CTX = ssl.create_default_context(cafile=certifi.where())
+except Exception:
+    _SSL_CTX = ssl.create_default_context()
 
 REPO_DIR = os.path.dirname(os.path.abspath(__file__))
 STATE_PATH = os.path.join(REPO_DIR, ".pipeline-state.json")
@@ -113,9 +121,12 @@ def parse_article(path):
 
 def http(method, url, headers=None, payload=None):
     data = json.dumps(payload).encode() if payload is not None else None
-    req = urllib.request.Request(url, data=data, headers=headers or {}, method=method)
+    headers = dict(headers or {})
+    # A real User-Agent is required — Dev.to's Cloudflare 403s the default urllib UA.
+    headers.setdefault("User-Agent", "MrNasdog-Pipeline/1.0")
+    req = urllib.request.Request(url, data=data, headers=headers, method=method)
     try:
-        with urllib.request.urlopen(req, timeout=30) as r:
+        with urllib.request.urlopen(req, timeout=30, context=_SSL_CTX) as r:
             txt = r.read().decode()
             return r.status, (json.loads(txt) if txt else {})
     except urllib.error.HTTPError as e:
