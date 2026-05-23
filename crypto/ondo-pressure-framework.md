@@ -1,12 +1,12 @@
 ---
 title: "Ondo Finance (ONDO): Scheduled Supply, Empty Buy Side"
 description: "A MrNasdog Pressure Framework read of Ondo Finance's ONDO: scheduled annual January unlock cliffs through 2029 against zero structural buy pressure — no buyback, no burn, no fee-share. Real protocol revenue, none of it reaches the token (yet)."
-canonical_url: "https://mrnasdog.com/research/ondo"
+canonical_url: "https://mrnasdog.com/research/ondo/full"
 tags: ["crypto", "ondo", "rwa", "defi"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/research/ondo](https://mrnasdog.com/research/ondo)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/ondo/full](https://mrnasdog.com/research/ondo/full)** by MrNasdog.
 
 This is a **MrNasdog Pressure Framework** analysis of **Ondo Finance (ONDO)** on Metric 1 (sell pressure) and Metric 2 (buy pressure). Narrative (Metric 3) is covered separately. The short version: ONDO unlocks ~1.7–1.9B tokens every January through 2029 — with nothing in the protocol buying them back.
 
