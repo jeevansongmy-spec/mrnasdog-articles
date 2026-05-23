@@ -1,12 +1,12 @@
 ---
 title: "Hyperliquid (HYPE): The Buyback Is Bigger Than the Unlock"
 description: "A MrNasdog Pressure Framework read of Hyperliquid's HYPE — the Assistance Fund buys back ~2.95M HYPE per 90 days against ~1.0M of unlock selling, a ~2.95× buy-to-sell ratio. Every number is pulled from Hyperliquid's own API."
-canonical_url: "https://mrnasdog.com/research/hype"
+canonical_url: "https://mrnasdog.com/research/hype/full"
 tags: ["crypto", "hyperliquid", "defi", "hype"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/research/hype](https://mrnasdog.com/research/hype)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/hype/full](https://mrnasdog.com/research/hype/full)** by MrNasdog.
 
 This is a **MrNasdog Pressure Framework** analysis of **Hyperliquid (HYPE)** on Metric 1 (sell pressure) and Metric 2 (buy pressure). Narrative (Metric 3) is covered separately. Every number is pulled from Hyperliquid's own API. The short version: the protocol buys back more of its own token than its insiders unlock.
 
