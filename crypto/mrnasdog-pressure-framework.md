@@ -1,12 +1,12 @@
 ---
 title: "MrNasdog Pressure Framework"
 description: "The MrNasdog Pressure Framework — a three-metric system for evaluating altcoins by sell pressure, buy pressure, and narrative, each scored 0 to 1 for a total out of 3."
-canonical_url: "https://mrnasdog.com/research/pressure-framework"
+canonical_url: "https://mrnasdog.com/research/pressure-framework/full"
 tags: ["crypto", "investing", "framework", "altcoins"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/research/pressure-framework](https://mrnasdog.com/research/pressure-framework)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/pressure-framework/full](https://mrnasdog.com/research/pressure-framework/full)** by MrNasdog.
 
 The **MrNasdog Pressure Framework** is a three-metric system for evaluating altcoins. It scores any coin on **sell pressure**, **buy pressure**, and **narrative** — each rated 0 to 1, for a total out of 3 — to judge how favorable a coin's *structural* conditions are. It is built by MrNasdog (Zhiyi Song).
 
