@@ -1,226 +1,147 @@
 ---
 title: "MrNasdog Pressure Framework"
-description: "The MrNasdog Pressure Framework — a three-metric system for evaluating altcoins by sell pressure, buy pressure, and narrative, each scored 0 to 1 for a total out of 3."
+description: "A three-metric system for reading altcoin price pressure — inflation, narrative, and the spiral business model, scored out of 10. Why no stock-market framework works for crypto, and what to use instead."
 canonical_url: "https://mrnasdog.com/research/pressure-framework/full"
-tags: ["crypto", "investing", "framework", "altcoins"]
+tags: ["crypto", "framework", "tokenomics", "altcoins"]
 published: true
 ---
 
 > Originally published at **[mrnasdog.com/research/pressure-framework/full](https://mrnasdog.com/research/pressure-framework/full)** by MrNasdog.
 
-The **MrNasdog Pressure Framework** is a three-metric system for evaluating altcoins. It scores any coin on **sell pressure**, **buy pressure**, and **narrative** — each rated 0 to 1, for a total out of 3 — to judge how favorable a coin's *structural* conditions are. It is built by MrNasdog (Zhiyi Song).
+*A three-metric system for reading altcoin price pressure.*
 
-## Why crypto needs its own framework
+### Why I built this framework
 
-Why does no traditional financial framework work well for crypto? Why do most crypto analysts produce poor predictions? And what would a framework designed specifically for crypto actually look like?
+Let me start with the honest answer. I built this to make money.
 
-This article answers those questions and presents a framework — the MrNasdog Pressure Framework — that emerges from the answers.
+I am an investor. The whole job of an investor is to buy low and sell high. This framework is a tool for doing that in crypto. Its purpose is to find coins that are likely to rise over the long run — somewhere between three months and four years — so I can buy them before the move and sell after it.
 
-Traditional financial analysis doesn't work well in crypto for two structural reasons.
+I want to be direct about that purpose, because everything in this framework serves it. This is not an academic model. It is a practical instrument for an investor with one goal.
 
-**Reason 1: Stock supply dynamics are regulated; crypto supply dynamics are wild.**
+### The problem I was trying to solve
 
-Public companies can't issue new shares whenever they want. Insider trading is illegal. Major insider sales must be disclosed. Regulators bound supply dynamics through legal mechanisms. As a result, supply mechanics don't dominate stock analysis — they're handled by regulation.
+When I started, I did what everyone does. I borrowed the tools that already existed: value investing from Warren Buffett, thematic investing, chart-reading and technical analysis. Every one of these was built for the stock market.
 
-In crypto, none of this exists. Token unlocks aren't illegal — they're written into protocols. Teams can sell allocations whenever vesting allows. New supply can flood the market on schedules that aren't governed by anything outside the protocol itself. This means supply mechanics dominate crypto in ways they don't in stocks.
+I tested them on crypto. I ran them against past cycles to see if they would have worked. They didn't. Not reliably, not for the long-term investing I care about.
 
-**Reason 2: Stock data is institutionally gated; crypto data is on-chain.**
+The conclusion was uncomfortable but clear: there is no native crypto framework. Everyone is using borrowed stock-market tools on a market that doesn't behave like the stock market. That's why most crypto analysis is either hype or chart-reading, and why most predictions are poor.
 
-In stocks, the information edge belongs to institutions. Real-time data, insider information, founder access — these are available to institutions but not retail investors. The information asymmetry between institutions and retail is what gives institutional finance its edge over time.
+So I built one from the ground up, starting from what is actually different about crypto.
 
-Crypto data is fundamentally different. Token balances are public. Unlock schedules are written into smart contracts. Burn rates are visible to anyone with a block explorer. The information asymmetry that protects institutional finance doesn't exist here. Transparent, trackable data makes everyone even.
+### Why this framework couldn't have existed in the stock market
 
-**The combination matters.** Supply mechanics dominate crypto AND data is transparent. This means a systematic framework based on tracking supply pressure, structural buy pressure, and narrative position can work in crypto in a way it wouldn't work for stocks. The conditions specifically favor it.
+This is the heart of it. The framework uses three forces. To understand why it's new, you have to see which of these forces exist in stocks and which don't.
 
-## The framework
+**Force 1 — Inflation pressure. Exists in crypto, barely exists in stocks.**
 
-Three metrics, each scored 0 to 1, for a total out of 3.
+A public company can't issue new shares whenever it likes. Regulators bound it. Insiders must disclose when they sell. The amounts are small relative to the whole. So in stocks, share supply is not a force that dominates the price, and it is not governed by a clean, predictable rule.
 
-**Sell pressure** measures the predictable selling baked into the coin's design.
+Crypto is the reverse on every point. New token supply is written into the protocol as a fixed rule. It can be enormous — a new coin with few buyers can have an inflation rate so high it crushes the price by itself. And all of it is visible on-chain, in advance.
 
-**Buy pressure** measures the predictable buying baked into the coin's design.
+This combination — supply that is both dominant and predictable — exists in crypto and essentially nowhere else. It is the single biggest reason a crypto-native framework can work where stock frameworks fail. We already track it: every coin on our overview page has a predicted next-90-day inflation rate.
 
-**Narrative** measures whether the coin sits inside a developing story that will attract money during the next altcoin season.
+**Force 2 — Narrative. Exists in both.**
 
-The total score describes how favorable the structural conditions are for the coin's price to hold and potentially appreciate. It doesn't predict price. Price depends on the interaction between structural conditions and unpredictable demand. The framework addresses only the structural side.
+This is the one force crypto shares with stocks. In stocks it's called thematic investing — buying the theme that's about to catch fire. In crypto we call it narrative. Same idea. So this metric is the bridge between the two worlds, and the part of the framework that would feel familiar to a traditional investor.
 
-## The precondition across Metric 1 and Metric 2: transparency
+**Force 3 — The spiral business model. Exists only in crypto.**
 
-Before scoring sell pressure or buy pressure, one condition must be met: the underlying mechanism must be transparent.
+This is the one that never existed before. No company can turn its own stock into a required key for a money-making activity.
 
-Transparency means the mechanism is publicly documented, hard-coded into the protocol or operating under public rules, and verifiable from on-chain data or other public sources. Without transparency, neither metric is measurable. You can't track what you can't see. You can't predict what isn't documented.
+Think about it. You don't need to own Amazon stock to shop on Amazon. You don't need to own Amazon stock to make money as a seller on Amazon. The stock is just a claim on the company's profits — it is never the key that unlocks the activity.
 
-A coin that fails the transparency precondition fails both Metric 1 and Metric 2 by default. Hidden allocations, opaque team holdings, off-chain agreements between insiders, undisclosed selling — these break the framework entirely. The framework is for coins where supply dynamics can actually be tracked.
+In crypto, a token can be exactly that key. To invest in ICOs in 2017, you had to hold ETH. To join exchange launches in 2019, you had to hold BNB. To trade memecoins in 2023, you had to hold SOL. The token isn't a side bet — it's the door you must walk through to reach the money. Nothing in the stock market works this way. It is unique to crypto, and crypto uses it again and again.
 
-This is why the framework works in crypto specifically. The transparency that comes from on-chain data and open-source protocols is what makes systematic measurement possible. In a market where transparency wasn't the default — like traditional stocks before mandatory disclosure rules — this kind of framework couldn't exist.
+### The three metrics
 
-## Metric 1: Sell pressure
+**Metric 1 — Inflation Pressure (5 points out of 10).**
 
-Sell pressure measures the predictable selling built into the coin's design.
+This carries the most weight, for four reasons: it is predictable, it is rule-based, it is trackable, and it is one of the strongest single forces acting on price.
 
-**Sources of predictable sell pressure include:**
+It folds two things into one number. On one side, new tokens are created — through protocol inflation, vesting unlocks, treasury releases. New supply pushes the price down, because buyers have to absorb it. On the other side, supply is removed — through burns and revenue-funded buybacks. That pushes the price up.
 
-1. Protocol inflation — new tokens minted by the protocol on a fixed schedule
-2. Vesting unlocks — team and investor allocations releasing on disclosed schedules
-3. Treasury releases — DAO or foundation treasury distributions on schedule
-4. Locked stake unlocks — staked tokens that become available to sell
-5. Bankruptcy estate distributions — like the FTX estate releasing SOL into circulation
-6. Large concentrated holdings — whales or groups whose intentions to sell are publicly known
+The net of these two is the inflation rate. This matters: a coin can mint a large amount of new supply and still be deflationary if it burns or buys back even more. We don't look at issuance alone or buybacks alone. We look at the net.
 
-This is not an exhaustive list. Any source of selling that's transparent and trackable counts as predictable sell pressure.
+The goal is plain. Buy coins where the net supply is shrinking. Avoid coins where new supply is flooding in. A coin with low or negative inflation is structurally durable — there's little new supply to soak up. A coin with high inflation needs constant fresh demand just to hold its price steady.
 
-**Example: protocol inflation in Solana.**
+**Metric 2 — Narrative (3 points out of 10).**
 
-To make this concrete, let me walk through one specific source — protocol inflation — and show how it gets tracked.
+A coin's narrative is the story that pulls money toward it. But narratives are not random, and they rarely appear from nowhere. They develop quietly for years and then crystallize when two things meet: the infrastructure is finally ready, and a real-world trigger arrives.
 
-Solana's inflation schedule is fixed at the protocol level. The initial inflation rate was 8% per year at launch in 2020. The rate decreases by 15% each year until it reaches a long-term floor of 1.5% per year. This is not subject to discretion. It is hard-coded into the protocol.
+The history is consistent. The smart-contract technology behind the 2017 ICO boom had existed since Ethereum launched in 2015 — the boom came two years later, once enough was built. The DeFi protocols that drove the 2021 boom — Uniswap, Aave, Compound — were built and tested in 2019. DeFi is the clearest example: it created an entirely new product category that didn't exist before, and once that category matured, it pulled in a wave of mass adoption. The infrastructure was laid years before the money arrived.
 
-Because the rule is fixed, the inflation rate for any given year is calculable in advance. The approximate yearly rates:
+The goal here is to buy coins sitting inside a theme that is about to reach mass adoption — coins that a large number of people will need or want to buy in the near future. A coin at the center of a rising narrative gets a tailwind. A coin with no narrative faces the market alone.
 
-| Year | Approx. inflation rate |
-|------|------------------------|
-| 2020 | 8.0% |
-| 2021 | 6.8% |
-| 2022 | 5.8% |
-| 2023 | 4.9% |
-| 2024 | 4.2% |
-| 2025 | 4.0% |
-| 2026 | 3.84% |
+**Metric 3 — Spiral Business Model (2 points out of 10).**
 
-*Hard-coded: −15% each year, toward a 1.5% long-term floor.*
+This metric asks one question: to make money from this opportunity, must you hold this token as the key?
 
-If nothing changes in the protocol, the rate continues declining toward 1.5% on a known schedule.
+When the answer is yes, you get a self-reinforcing spiral. The 2019 exchange launches show it cleanly. To join a launch sale, you had to hold the exchange's token. People bought the token to get access. Their buying pushed the price up. A higher price made the launches look more rewarding, which drew more people in, which made them buy more of the token. The loop fed on itself and spiraled upward — partly from the launch profits, partly from the rising token price itself.
 
-This is what "trackable and predictable" means. The inflation rate isn't speculation about what Solana might do — it's a known consequence of a rule already written. Anyone with access to the protocol parameters can verify the rate today and project the rate forward.
+You see the same shape in ETH and the ICO boom of 2017, in SOL and the memecoin wave of 2023 (you needed SOL to buy any memecoin), and in Filecoin in 2021, where you had to lock up FIL as collateral to earn from storage mining.
 
-For scoring purposes: a lower inflation rate scores higher. A coin with 1% inflation creates less sell pressure per year than a coin with 10% inflation. Bitcoin at sub-1% inflation is at the strong end. A high-emission memecoin at 30%+ annual inflation is at the weak end. Solana at 3.84% in 2026 sits in the middle.
+There is a downside, and I want to be honest about it. These spirals collapse as fast as they climb. When the season ends and the narrative fades, both groups leave at the same time — the people who held the token as a key, and the speculators who came for the ride. The price falls hard. Filecoin rose enormously and fell enormously for exactly this reason.
 
-**Why this works:** because the rule is transparent and fixed, the sell pressure from this source can be calculated, not guessed. Combined with the other sources of sell pressure (vesting unlocks, treasury releases, etc.), it gives a complete picture of how much new supply will hit the market.
+But that downside is not a flaw in the framework. It is predictable, and it tells you how to use the metric: buy before the spiral starts, and sell while it is spiraling up.
 
-**The logic:** coins with low and predictable sell pressure are structurally more durable. There's less new supply for buyers to absorb. Coins with high or unpredictable sell pressure require constant new demand just to maintain price.
+### What this framework ignores on purpose
 
-## Metric 2: Buy pressure
+It ignores revenue, profit, and every traditional financial metric used for stocks. It ignores price charts, moving averages, and all technical analysis. These three forces are the whole framework. Nothing else enters the score.
 
-Buy pressure measures the predictable buying built into the coin's design.
+### The two real limitations
 
-The same transparency precondition applies. The buying mechanism must be publicly documented, hard-coded or operating by public rule, and verifiable from on-chain data. Without transparency, the mechanism can't be scored.
+**Sentiment — what people are actually doing.** We cannot sense it. People buy and sell on memes, on news, on fear and excitement. This behavior moves price more than anything else in the short term, and it cannot be predicted. The moment anyone finds a way to predict it, the behavior changes and the prediction breaks. So the framework doesn't try. It tracks what can be tracked and accepts that short-term moves will sometimes run against the score.
 
-**Sources of predictable buy pressure include:**
+**The market cycle.** Crypto moves in tides. In a bear market, almost everything falls, no matter how good its score. In a bull market, almost everything rises. The framework reads one coin at a time — it cannot override the direction of the whole market. A strong score in a falling market still falls.
 
-1. Revenue-backed buybacks — protocol uses fees or revenue to buy tokens off the market
-2. Burn mechanisms — transactions destroy tokens, permanently reducing supply
-3. Locked allocations — tokens removed from circulation through staking or other locks
-4. Protocol-level demand mechanisms — required token holdings for ecosystem participation
+These two limits are why this is a framework for the medium-to-long run, measured in months and years, not days.
 
-This is not an exhaustive list. Any mechanism that creates transparent, rule-based buying or supply removal counts.
+### Conclusion — how it all fits the goal
 
-**Example: Solana's burn mechanism.**
+Step back and the whole thing is simple. There is one goal — buy low, sell high — and all three metrics are three different ways of finding coins to buy low.
 
-To make this concrete, let me walk through Solana's burn mechanism.
+The first metric, inflation pressure, points you toward coins where supply is shrinking, so the price has structural support instead of constant selling. The second metric, narrative, points you toward coins inside a story about to reach mass adoption, so a wave of demand is coming. The third metric, the spiral business model, points you toward coins whose self-reinforcing loop hasn't started yet, so you can be in before it spins up.
 
-Solana burns 50% of every transaction fee. The other 50% goes to validators. This rule is part of the protocol — it isn't subject to discretion, and it operates automatically with every transaction.
+Three angles, one act: identifying coins with the structural forces aligned to rise over the long run, while they are still cheap.
 
-Because the rule is transparent and the data is on-chain, the burn rate is fully trackable. Anyone can pull the historical transaction fee data from a block explorer and calculate how much SOL has been burned over any time period.
-
-As of May 2026, Solana burns approximately 87,800 SOL per 30 days. Annualized, this is roughly 1.05 million SOL per year. Compared to Solana's circulating supply of ~578 million, the burn removes about 0.18% of supply annually.
-
-The same trackability that applies to inflation applies here. Historical burn data is on-chain. Future burn depends on transaction volume, which varies, but the mechanism is fully transparent — anyone watching the chain can see the burn happening in real time and project recent rates forward.
-
-**The scoring question:** is the burn large enough to meaningfully offset sell pressure?
-
-Solana's burn rate (0.18% of supply per year) compared to Solana's inflation rate (3.84% per year) means the burn covers only about 4.7% of new issuance. The mechanism exists and is real, but it's not large enough to meaningfully offset the sell pressure from inflation. For scoring purposes, this fails the metric. A burn that destroys 30-50% of new supply each year would pass. A burn that destroys 4.7% does not.
-
-**Why this works:** because the burn rule is transparent and the data is on-chain, the buy pressure from this source can be calculated, not guessed. The framework can compare the predictable buy pressure against the predictable sell pressure and produce a meaningful score.
-
-**The logic:** coins with significant, predictable buy pressure have a mechanical buyer baked into the protocol. There's a structural floor under the price that doesn't depend on retail sentiment. Coins without this pressure rely entirely on unpredictable demand to maintain price.
-
-## Metric 3: Narrative
-
-Narrative is qualitatively different from sell pressure and buy pressure. Sell and buy pressure are measurable from on-chain data — the transparency precondition makes them calculable. Narrative is about the future direction of demand, which can't be measured directly.
-
-But narrative is also not random. Crypto narratives follow a historical pattern, and the pattern is what makes this metric scoreable.
-
-### The historical pattern
-
-Every major altcoin season in crypto history has been driven by narratives that were quietly developing for years before they became dominant. The pattern is consistent across multiple cycles.
-
-**2017-2018 ICO boom.** The smart contract technology that powered the ICO boom existed since Ethereum's launch in 2015. The boom happened two to three years later, after enough infrastructure was built and enough projects had launched to make the narrative visible.
-
-**2021 DeFi boom.** The protocols that drove DeFi summer 2020 and the DeFi boom of 2021 — Compound, Aave, Uniswap, Yearn — had been built and tested since 2019. The narrative was developing for two years before it became the dominant story.
-
-**2021 NFT boom.** NFT infrastructure (ERC-721 standard, OpenSea, NFT projects) had existed for years before 2021. CryptoKitties was 2017. CryptoPunks was 2017. The boom came when the cumulative infrastructure plus celebrity adoption plus pandemic-era retail attention created the conditions for the narrative to take off.
-
-**2023 Solana memecoin boom.** Solana's ecosystem — Phantom wallet, Jupiter, Raydium, the DEX infrastructure — had been built years before 2023. When retail attention shifted to memecoins, the infrastructure was already in place to support the boom.
-
-The pattern across all of these: the strongest narratives come from things that have been developing for years. The narrative doesn't appear out of nowhere — it crystallizes around existing infrastructure that has been quietly maturing.
-
-### What this means for prediction
-
-If the strongest narratives always come from years of prior development, then the next major narratives are already developing now. They just aren't dominant yet. The question becomes: what's developing now that hasn't yet become the dominant story?
-
-The framework identifies developing narratives by looking at two factors:
-
-1. **Technology developments within existing crypto narratives.** What's being built and tested now that could become the next catalyst? Examples in 2026: AI x blockchain integration, account abstraction, restaking protocols, ZK-proof applications.
-2. **Real-world changes that drive crypto adoption.** What's happening outside crypto that creates demand for specific crypto categories? Examples in 2026: the GENIUS Act and CLARITY Act creating regulatory clarity for RWA; institutional capital flows looking for tokenized real-world exposure; AI development creating demand for decentralized compute and data.
-
-A narrative scores high in the framework when these two factors converge — when there's both internal crypto development and external real-world changes pointing in the same direction.
-
-### Concrete example: RWA
-
-RWA (Real World Assets) is the cleanest current example of a developing narrative the framework would score highly.
-
-**Internal crypto development:** Tokenization infrastructure has been built and tested for years. Centrifuge, MakerDAO's RWA collateral, Ondo Finance, Maple Finance, and others have been operating since 2020-2022. The infrastructure exists. It's been stress-tested through multiple market cycles.
-
-**External real-world change:** The GENIUS Act and CLARITY Act, both passed in the U.S. in 2025, created the regulatory clarity that institutional capital needs to deploy into tokenized assets at scale. Before these laws, institutional RWA was bounded by regulatory uncertainty. After, the path is open.
-
-**The convergence:** Years of internal development meet a major external regulatory shift. This is the pattern that has produced every major altcoin season in crypto history. By the framework, RWA scores at the top of the narrative metric.
-
-A coin scores 1.0 on narrative if it sits at the center of this kind of developing narrative. It scores 0.5 if it has tangential relevance. It scores 0 if it has no connection.
-
-### Why this works
-
-The pattern of years-of-development-before-dominant-narrative is consistent enough across crypto history to be predictive. Not certain — narratives can fail to materialize, regulatory shifts can reverse, technology developments can stall. But the base rate of new narratives emerging from nowhere with no prior development is very low. Narratives almost always come from something that has been quietly maturing.
-
-This means the framework can score narrative position with reasonable confidence even though narrative itself isn't measurable from on-chain data. The historical pattern provides the structure that makes scoring possible.
-
-### The underlying logic
-
-Coins that sit at the center of developing narratives benefit when those narratives become dominant. They attract the demand that flows in during altcoin seasons. Coins with no narrative connection face the unpredictable demand alone, with no tailwind from a broader story.
-
-Sell pressure and buy pressure tell you whether a coin's structural conditions are favorable. Narrative tells you whether the demand side is likely to provide the tailwind. The combination of all three is what the framework scores.
-
-## Conclusion
-
-The MrNasdog Pressure Framework exists because crypto is structurally different from stocks in two specific ways — supply mechanics matter more, and data is transparent. Those two facts make a systematic framework focused on sell pressure, buy pressure, and narrative position viable in crypto when it wouldn't work elsewhere.
-
-The framework doesn't predict price. It identifies which coins have favorable structural conditions for price durability and upside, and which coins face headwinds.
-
-Sell pressure measures the predictable selling baked into the coin's design. Buy pressure measures the predictable buying baked in. Narrative measures whether the coin sits inside a developing story that will attract future demand. Each metric scores 0 to 1, for a total out of 3.
-
-The framework works because:
-
-- Crypto supply dynamics are unregulated and dominant in ways stock supply dynamics aren't
-- Crypto data is on-chain and verifiable in ways stock data isn't available to retail
-- Crypto narratives follow a historical pattern of years-of-development-before-dominance that makes them partially predictable
-
-Used as a filter — eliminating coins with bad structural conditions, identifying coins with favorable conditions for further analysis — and combined with separate judgment on demand-side dynamics and macro conditions, the framework provides a structural edge in evaluating which altcoins are worth holding through cycles.
-
-In a market where most analysis is hype or chart-reading, having a systematic structure for evaluating supply mechanics, structural buy pressure, and narrative position is a small but durable advantage. Applied consistently over years, combined with public track record and willingness to be wrong publicly, it compounds.
-
-## Limitations
-
-**Limit 1: Supply-side bias.** The framework weights supply-side and structural buy-side dynamics. It doesn't capture demand-side drivers, which usually dominate short-term price action. The framework provides perhaps 30-40% of the picture; the rest is unpredictable.
-
-**Limit 2: Narrative subjectivity.** Reasonable analysts disagree on which narratives matter and which coins are central versus peripheral. The framework provides structure but not objectivity on this metric.
-
-**Limit 3: Trust assumption.** The framework assumes publicly stated supply mechanics will be honored. Teams that violate vesting commitments or operate with hidden allocations break this assumption. Higher risk for newer projects, lower risk for established ones.
-
-**Limit 4: Market regime sensitivity.** The framework is calibrated for normal markets. In crisis events — regulatory crackdowns, major exchange failures, fundamental crypto-wide stress — structural metrics matter less than survival mechanics.
-
-**Limit 5: Time horizon.** The framework is designed for multi-month to multi-year positioning. For short-term trading, the metrics move too slowly to be useful. Short-term traders need different tools.
-
-**Limit 6: Score-outcome disconnect.** A 3/3 score is not a guarantee. A 0/3 score is not a death sentence. The score describes structural conditions, not outcomes. Outcomes depend on how structure interacts with unpredictable demand.
+One honest note. This framework is the buy side. It tells you what to buy and when the conditions are favorable. It does not yet cover the sell side — exactly when to exit. That selling discipline is its own subject, and it will come in a future version. For now, the framework answers the first half of the investor's job: which coins have the forces aligned to rise, so you can buy them low.
 
 ---
 
-*This article describes the MrNasdog Pressure Framework. Data + explanation only. Not financial advice. Last updated May 2026. By MrNasdog (Zhiyi Song).*
+### The scoring standard
+
+**Metric 1 — Inflation Pressure (5 points)**, using the predicted next-90-day net rate from the overview page:
+
+| Net supply over next 90 days | Score |
+|---|---|
+| Shrinks more than 1% (strong deflation) | 5 |
+| Shrinks up to 1% (any deflation) | 4 |
+| Flat — no change (zero) | 3 |
+| Grows 0–1% (mild inflation) | 2 |
+| Grows 1–3% (moderate inflation) | 1 |
+| Grows more than 3% (high inflation) | 0 |
+
+A coin like Bitcoin today, with roughly 0–1% annual issuance and no burn, sits in the "2" band — shown only to illustrate the bands, not as a judgment on any coin.
+
+**Metric 2 — Narrative (3 points):**
+
+| Position | Score |
+|---|---|
+| Sits at the dead center of a developing narrative — internal crypto progress and an external real-world trigger both pointing the same way | 3 |
+| Strongly related to a developing narrative | 2 |
+| Loosely or tangentially related | 1 |
+| No narrative connection | 0 |
+
+**Metric 3 — Spiral Business Model (2 points):**
+
+| Fit | Score |
+|---|---|
+| Fully fits — you must hold the token as the required key to a money-making activity | 2 |
+| Partially fits — required for some money-making paths but not the main one | 1 |
+| No fit — you can make money without holding the token | 0 |
+
+**Total: 10 points.**
+
+A higher total means stronger structural conditions for the price to rise and hold over the long run. It is not a promise. A high score in a bear market still falls; a low score can still pump on pure sentiment. The score is a filter — a way to find coins worth buying low and holding until the structural forces play out.
+
+*Data and explanation only. Not financial advice.*
