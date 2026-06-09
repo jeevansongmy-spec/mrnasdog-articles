@@ -1,105 +1,55 @@
 ---
-title: "Bittensor (TAO): 27% Inflation Now, Halving in 10 Months"
-description: "A MrNasdog Pressure Framework read of Bittensor (TAO): currently the highest annual inflation in our lineup (~27% of circulating), with a BTC-style programmed halving in ~10 months that cuts emission by 50% — no governance vote required. Origin-first from the Subtensor mainnet RPC."
-canonical_url: "https://mrnasdog.com/research/tao/full"
+title: "TAO Inflation Analysis · June 2026 · Net Zero to Market"
+description: "Bittensor mints ~324K TAO per 90 days post-halving, but subnet auto-stake absorbs nearly all of it — the MrNasdog Pressure Framework reads ~0% net inflation on the active float against a 21M hard cap."
+canonical_url: "https://mrnasdog.com/research/tao/inflation"
 tags: ["crypto", "tao", "bittensor", "ai"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/research/tao/full](https://mrnasdog.com/research/tao/full)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/tao/inflation](https://mrnasdog.com/research/tao/inflation)** by MrNasdog.
 
-This is a **MrNasdog Pressure Framework** analysis of **Bittensor (TAO)** on Metric 1 (sell pressure) and Metric 2 (buy pressure). Narrative (Metric 3) is covered separately. The short version: TAO has the highest annual inflation in our coverage today (~27% of circulating), but it also has the only **programmed structural catalyst** in the lineup — a BTC-style halving in ~10 months that automatically halves the emission, with no governance vote needed.
+Bittensor mints about 324,000 TAO every 90 days. Almost all of it ends the window bonded into subnet stake, not on an exchange. Framework reading: **~0% inflation on the active float**, against a 21M hard cap.
 
-## The setup
+## The verdict, in one paragraph
 
-Bittensor (TAO) is an AI-focused, Substrate-based proof-of-stake network. It launched with **no ICO, no pre-mine, and no team allocation** — every TAO in existence was minted from block rewards. The max supply is **21M** (BTC-style). Block reward starts at **1 TAO/block** and **halves every 10.5M blocks** (~4 years), so the emission curve mirrors Bitcoin's.
+For the 90-day window ending June 10, 2026, the framework reads **TAO at +0.00% net inflation** — sell-side flow of about 324,000 newly-minted TAO is structurally offset by an equivalent 324,000 absorbed into bonded subnet stake. The aggregator-side inflation monitor reads **−0.19%** (a small deflation), well inside the framework's 0.5-percentage-point tolerance, so no data-conflict flag is raised. The two readings agree. Bittensor in June 2026 is, in supply-pressure terms, a **quiet chain** — it mints aggressively and locks aggressively, and the net flow reaching the market is essentially nil.
 
-Live parameters, origin-first from the Subtensor mainnet RPC (`entrypoint-finney.opentensor.ai`):
+## Sell pressure: where new TAO comes from
 
-- **Current block: 8,249,997** (read via `chain_getHeader`)
-- **Halvings completed: 0** (we're ~78.6% through the first cycle)
-- **Current emission: 1.0 TAO/block** → **~2.63M TAO/year**
-- **Blocks to first halving: 2,250,003** → **~10 months** (around Q1–Q2 2027)
-- **Active subnets: 60+** (Dynamic TAO active since Feb 2025)
-- Circulating supply (CoinGecko cross-check): **~9.6M TAO**
-- Max supply: **21M TAO** (fixed, BTC-style)
-- Price: **~$280** → market cap ~**$2.68B** · FDV (at 21M) ~$5.87B
+Bittensor has exactly one source of new supply: **block subsidies to subnet participants**. The first halving fired on **December 14, 2025**, cutting the per-day emission from 7,200 TAO to 3,600. At 3,600 TAO per day, the 90-day window mints **~324,000 TAO**. The annualised inflation rate sits at roughly **12.5%** of current circulating supply — high in absolute terms, but the rate compresses with every halving and with every additional TAO that enters circulation. The fixed **21-million** cap is the absorbing barrier.
 
-The big number: 2.63M new TAO per year against 9.6M circulating ≈ **~27% annualized dilution today**. That's the highest inflation rate by far in our analyzed lineup. After the first halving it drops to ~1.31M/yr against ~11.8M circulating ≈ **~11%/yr**. After the second halving (~2031), ~5%/yr. The curve looks exactly like BTC's, in years 3–4 of the same shape.
+The halving schedule is issuance-based, not time-based: the next halving fires automatically when cumulative issuance reaches **15,750,000 TAO**, roughly four and a half years out at the current rate. One wrinkle pushes that date later — subnet registration fees are **recycled back into the emission pool** rather than burned, which slows the march toward the next threshold. None of this changes the 90-day picture, but it explains why the rate decays gradually rather than on a fixed calendar.
 
-The 2025 Dynamic TAO (DTAO) upgrade changed *how* emission is distributed across subnets (price-weighted alpha tokens per subnet, root TAO claim mechanics) but did not change the headline 1-TAO-per-block cap or the halving schedule.
+The other three sell rows are empty. There is **no vesting schedule** — Bittensor was a fair launch in 2023, with no premine, no team allocation, and no investor cliff. There is no Foundation unlock programme and no bankruptcy estate. The only sell-side row that carries a real number on the TAO ledger is the post-halving emission itself.
 
-## The sell ledger
+## Buy pressure: where new TAO goes
 
-*What the design predictably puts on the market.*
+Bittensor distributes block subsidies via the **dTAO subnet model**. The protocol mints a fixed **0.5 TAO per block** post-halving, divided across whichever of the network's 128-plus subnets receive emission that block. Within each subnet the split is roughly **41% to validators, 41% to miners, and 18% to subnet owners**. All three groups have strong economic reasons to re-stake their rewards: validators need bonded stake to keep their slot, miners need stake to register and stay competitive, and subnet owners need locked reserves to bootstrap their incentive curves. Selling TAO means selling future emission; holding and re-bonding it means compounding future emission.
 
-| # | Source | Tag | Value |
-|---|---|---|---|
-| 1 | Protocol inflation | **Tag A** | **~2.63M TAO / yr** (~27% of circulating) |
-| 2 | Vesting unlocks (still-locked allocations) | — | **0** (no pre-mine, no team allocation, no ICO) |
-| 3 | Team / DAO / identified-group holdings | **Tag B** | OpenTensor Foundation + key founder/operator wallets — TBD pending enumeration |
-| 4 | Bankruptcy estate distributions | — | **0** |
+The result is that most of the freshly-minted 3,600 TAO per day flows directly back into bonded stake within the same block cycle. The framework books this as a **Buy #4 — new long-term lock** at the same magnitude as Sell #1, producing a structural round-trip. The buyback row is empty (no protocol-revenue buyback exists on TAO), the fee-burn row is empty (Bittensor does not burn transaction fees at the protocol level — fees reward validators and miners instead), and there is no Foundation accumulation programme. The single non-trivial buy-side flow is the auto-stake absorption.
 
-The headline is **inflation**. At 1 TAO/block × ~7,200 blocks/day, TAO mints ~7,200 new tokens daily, ~2.63M/year. At today's $280, that's ~**$2 million / day of structural sell-pressure cost** — paid to validators, miners, and (since DTAO) subnet stakers. The portion they sell to cover operating costs is the actual market sell pressure.
+## Foundation and overhang
 
-**Vesting: zero.** This matters a lot for Bittensor: there is no founder cliff, no investor cliff, no team unlock. Everything was earned through mining/staking participation. So source #2 contributes nothing today, and won't tomorrow either.
+The Opentensor Foundation operates the protocol but does not control a transparently-tracked treasury. Whatever operational allocation exists is small relative to the chain's supply, and there is no documented schedule of discretionary deploys to market — so the framework leaves Sell #3, Foundation and unscheduled unlocks, at zero, with a standing watch line on any future on-chain Opentensor wallet activity.
 
-**Tag B is the OpenTensor Foundation + key validator entities.** OpenTensor Foundation (the steward of the protocol) accumulates TAO via subnet participation and stewardship rewards. Founder (Const / Jacob Steeves) and operator entities (Yuma Group, RAO Labs, etc.) are visible on the chain but require subnet-by-subnet enumeration to quantify. Flagged as TBD here — same caveat we used for ONDO's Foundation Safe and NEAR's lockup contracts.
+The far larger pool to watch is the cumulative **subnet validator and miner stake**: more than **70% of supply** currently sits bonded, at the boundary between circulating and locked. That bonded stake is the real overhang on TAO — not a team wallet, but the staked float itself. If a large coordinated un-stake occurred, it would flush bonded TAO back into the active market and flip the framework reading from neutral to inflationary inside a single window. The trigger is explicit: **if the bonded-stake balance falls between refreshes, the outflow enters Sell #3 at the next refresh.**
 
-**Bankruptcy estate: zero.** No FTX-style estate distributing TAO.
+## How TAO compares to other halving-model chains
 
-## The buy ledger
+The closest structural analogues are Bitcoin and Litecoin, both of which use a hard cap plus a halving schedule. The differences are practical. Bitcoin's emission rewards miners who provide hashpower, and the hashpower market is mature enough that most newly-minted BTC sells immediately to cover electricity costs — Bitcoin's framework reading is therefore inflationary at the protocol rate. Litecoin behaves similarly. TAO is structurally different: its block rewards pay validators and miners who provide a different kind of work (AI inference, retrieval, prediction), and those participants have strong economic reasons to bond rather than sell. Same supply discipline, very different demand-side absorption.
 
-*What the design predictably takes off the market.*
+Against uncapped continuous-emission Layer-1s, the contrast is sharper still. Most general-purpose proof-of-stake chains inflate 4–8% forever with no terminal ceiling; TAO has both a decaying rate and a fixed 21-million terminus. And among AI-compute tokens specifically, TAO is unusual in having a cap at all — most AI-themed L1s and L2s use uncapped or extremely high-supply tokenomics with continuous emission.
 
-| # | Source | Value |
-|---|---|---|
-| 1 | Revenue-backed buyback | **0** — no structural buyback contract |
-| 2 | Burn mechanism (subnet UID registration "recycle") | **Tag A, small** — TAO burned to register new neurons on subnets |
-| 3 | Locked allocations | — context only (substantial TAO staked, but unbond ~7 days = functionally liquid) |
-| 4 | Protocol-level demand (subnet activity) | **Tag A** — subnet registration + AI inference payments, real but specialized |
+The combination of **hard cap + halving + productive work** is rare; it is the single most-cited structural reason institutional accumulators give for taking the chain seriously. The supply discipline of a store-of-value asset is layered on top of a token that actually funds compute — a pairing almost no other network offers at once.
 
-**There is no protocol buyback.** TAO has no revenue-funded contract buying back from market.
+## What to watch in the next 90 days
 
-**The structural burn is subnet-registration "recycle."** When a participant registers a new UID on a subnet, the registration cost (denominated in TAO) is burned — it goes out of circulation. The cost is dynamic (rises with demand to register slots). At today's subnet activity it's a real but modest burn — single-digit thousands of TAO per day across all subnets. The post-DTAO model also introduces emission rebalancing that effectively removes inflated emissions from underperforming subnets; these are technical mechanics but the headline burn line is still subnet registration.
+Three things move the framework reading materially. First, any change to the dTAO emission split that reduces the validator or miner share — a smaller share weakens the auto-stake feedback loop and pushes more TAO toward the free float. Second, a large coordinated unstake from a major subnet, which would flush bonded TAO back into the active market. Third, any announcement from the Opentensor Foundation about a discretionary deploy from operational reserves. None of these is currently signalled, and the next halving is approximately four and a half years away. The single recurring watch item is the share of daily emission that ends the day still bonded versus sitting on a public exchange — as of mid-2026 that share is high enough that the framework reads neutral.
 
-**Protocol-level demand exists.** TAO is needed to participate in subnets (register UIDs, claim alpha emissions), and an emerging market for AI inference payments uses TAO. But this demand is narrower and more specialized than (for example) BSC gas demand — it's primarily participation-driven, not user-facing utility.
+## Summary
 
-## Net position
-
-Combine the ledgers and the picture today is brutal on the supply side:
-
-- **Sell, Tag A:** ~2.63M TAO / yr (inflation)
-- **Buy, Tag A:** modest (subnet registration burn + protocol demand, both small relative to inflation)
-- **Net structural dilution:** roughly **~25%+ / year** at current emission
-
-This is the same shape as Ondo and NEAR — scheduled supply up, structural buy minimal — but **larger in magnitude** than either. TAO has the highest annual inflation in the lineup right now.
-
-**But the catalyst makes TAO different from anything else we cover.**
-
-## The halving — the only programmed catalyst in the lineup
-
-Every other coin we've analyzed depends on a *governance decision* to flip its buy ledger: Ondo needs a DAO fee-switch vote, NEAR needs the protocol_reward_rate restored, HYPE's buyback is structural but ratified by validator vote. TAO's catalyst is **automatic and code-level** — at block 10.5M (in ~10 months), the block reward drops from 1 TAO to 0.5 TAO. No vote, no governance, no discretion. It happens.
-
-What that means for the framework:
-
-- **Pre-halving (now → Q1 2027):** ~2.63M TAO/yr emission, ~27% inflation
-- **Cycle 2 (post-H1, ~2027–2031):** ~1.31M TAO/yr, ~11% inflation
-- **Cycle 3 (post-H2, ~2031–2035):** ~0.66M TAO/yr, ~5% inflation
-- **Cycle 4 (post-H3, ~2035–2039):** ~0.33M TAO/yr, ~2.5% inflation
-- **By the 4th halving (~2039):** TAO is roughly at BTC's current inflation profile
-
-This is the BTC playbook, 12 years offset. The framework gives TAO an unfavorable read today on Metric 1 + Metric 2, but the structural catalyst is real, scheduled, and the **most predictable buy-side improvement available across the coins we cover**.
-
-## What to watch
-
-1. **The first halving event** — block 10.5M, ~Q1 2027. Confirm via the Subtensor RPC's `chain_getHeader` near that block.
-2. **DTAO subnet emission distribution** — which subnets are absorbing alpha emissions vs. swapping to TAO; this affects validator sell-pressure dynamics even before the halving.
-3. **Subnet registration burn rate** — rises with demand to register, falls when registration slots cool. A real-time meter on chain activity.
-4. **OpenTensor Foundation stake + key operator wallets** — once enumerated, sets the Tag B size precisely.
+TAO is a 21-million-cap, fair-launched, halving-model token operating on a productive-work network. Post-December-2025 halving, daily emission is 3,600 TAO — about 324,000 per 90 days. The dTAO subnet model absorbs nearly all of that into bonded stake, so the Pressure Framework reads the 90-day window as essentially neutral on market-facing supply, with the inflation monitor confirming at −0.19%. The structural risk is a governance change to the emission split that weakens the staking incentive; the structural ceiling is the 21-million cap.
 
 ---
 
-*MrNasdog Pressure Framework analysis of TAO, Metrics 1 &amp; 2. Data + explanation only. Not financial advice. Numbers as of May 2026.*
-
-*Data note: All chain-level numbers are origin-first from the Subtensor mainnet RPC (`entrypoint-finney.opentensor.ai`). Block height, emission rate, and halving math read via `chain_getHeader` and the public docs at `docs.bittensor.com/learn/emissions`. Halving timing per the December 2025 official announcement on `docs.bittensor.com/learn/announcements`. Price and circulating supply cross-checked via CoinGecko. OpenTensor Foundation + key operator balances flagged as TBD pending subnet-aware enumeration.*
+*MrNasdog Pressure Framework analysis of Bittensor (TAO), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 10, 2026.*
