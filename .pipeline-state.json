@@ -6,6 +6,13 @@
     "site": "crypto",
     "telegram_message_id": 34
   },
+  "algo-inflation-analysis": {
+    "devto_id": 3866913,
+    "devto_url": "https://dev.to/mrnasdog/algorand-algo-inflation-analysis-consensus-rewards-toward-a-10b-hard-cap-4c4k",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/algo-inflation-analysis.md",
+    "site": "crypto",
+    "telegram_message_id": 45
+  },
   "arb-pressure-framework": {
     "devto_id": 3740819,
     "devto_url": "https://dev.to/mrnasdog/arbitrum-arb-37-of-supply-still-unlocked-dao-treasury-holds-27-2e0",
@@ -13,6 +20,13 @@
     "internal_ref": "mrnasdog.com_14",
     "site": "crypto",
     "telegram_message_id": 26
+  },
+  "atom-inflation-analysis": {
+    "devto_id": 3866915,
+    "devto_url": "https://dev.to/mrnasdog/cosmos-hub-atom-inflation-analysis-dynamic-7-20-pos-band-no-cap-h5l",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/atom-inflation-analysis.md",
+    "site": "crypto",
+    "telegram_message_id": 46
   },
   "bnb-pressure-framework": {
     "devto_id": 3736138,
@@ -60,6 +74,13 @@
     "site": "crypto",
     "telegram_message_id": 23
   },
+  "hype-inflation-analysis": {
+    "devto_id": 3866906,
+    "devto_url": "https://dev.to/mrnasdog/hyperliquid-hype-inflation-analysis-the-buyback-is-bigger-than-the-unlock-1n4d",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/hype-inflation-analysis.md",
+    "site": "crypto",
+    "telegram_message_id": 43
+  },
   "hyperliquid-pressure-framework": {
     "devto_id": 3727860,
     "devto_url": "https://dev.to/mrnasdog/hyperliquid-hype-the-buyback-is-bigger-than-the-unlock-8eg",
@@ -67,6 +88,13 @@
     "internal_ref": "mrnasdog.com_2",
     "site": "crypto",
     "telegram_message_id": 10
+  },
+  "jup-inflation-analysis": {
+    "devto_id": 3866912,
+    "devto_url": "https://dev.to/mrnasdog/jupiter-jup-inflation-analysis-net-zero-emissions-zeroed-every-sell-row-2b44",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/jup-inflation-analysis.md",
+    "site": "crypto",
+    "telegram_message_id": 44
   },
   "kas-inflation-analysis": {
     "devto_id": 3864493,
@@ -205,6 +233,13 @@
     "internal_ref": "mrnasdog.com_8",
     "site": "crypto",
     "telegram_message_id": 20
+  },
+  "wld-inflation-analysis": {
+    "devto_id": 3866905,
+    "devto_url": "https://dev.to/mrnasdog/worldcoin-wld-inflation-analysis-15-year-linear-unlock-still-in-heavy-years-1bg6",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/wld-inflation-analysis.md",
+    "site": "crypto",
+    "telegram_message_id": 42
   },
   "xlm-inflation-analysis": {
     "devto_id": 3861205,
