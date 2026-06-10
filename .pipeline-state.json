@@ -74,6 +74,20 @@
     "site": "crypto",
     "telegram_message_id": 23
   },
+  "gt-pressure-framework": {
+    "devto_id": 3868040,
+    "devto_url": "https://dev.to/mrnasdog/gt-inflation-analysis-june-2026-supply-shrinking-projected-to-keep-shrinking-2h36",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/gt-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 47
+  },
+  "htx-pressure-framework": {
+    "devto_id": 3868041,
+    "devto_url": "https://dev.to/mrnasdog/htx-inflation-analysis-june-2026-supply-shrinking-projected-to-keep-shrinking-2e35",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/htx-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 48
+  },
   "hype-inflation-analysis": {
     "devto_id": 3866906,
     "devto_url": "https://dev.to/mrnasdog/hyperliquid-hype-inflation-analysis-the-buyback-is-bigger-than-the-unlock-1n4d",
@@ -103,6 +117,13 @@
     "site": "crypto",
     "telegram_message_id": 37
   },
+  "kcs-pressure-framework": {
+    "devto_id": 3868047,
+    "devto_url": "https://dev.to/mrnasdog/kcs-inflation-analysis-june-2026-mixed-flows-supply-roughly-steady-4cn",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/kcs-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 49
+  },
   "link-pressure-framework": {
     "devto_id": 3739372,
     "devto_url": "https://dev.to/mrnasdog/chainlink-link-no-inflation-but-273m-link-in-chainlink-labs-hands-5h5e",
@@ -110,6 +131,20 @@
     "internal_ref": "mrnasdog.com_7",
     "site": "crypto",
     "telegram_message_id": 19
+  },
+  "ltc-pressure-framework": {
+    "devto_id": 3868052,
+    "devto_url": "https://dev.to/mrnasdog/ltc-inflation-analysis-june-2026-mixed-flows-supply-roughly-steady-lkl",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/ltc-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 50
+  },
+  "memecore-pressure-framework": {
+    "devto_id": 3868056,
+    "devto_url": "https://dev.to/mrnasdog/m-inflation-analysis-june-2026-supply-growing-projected-to-keep-growing-43bm",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/memecore-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 51
   },
   "morpho-inflation-analysis": {
     "devto_id": 3864495,
