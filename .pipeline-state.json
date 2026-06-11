@@ -6,6 +6,13 @@
     "site": "crypto",
     "telegram_message_id": 34
   },
+  "aero-pressure-framework": {
+    "devto_id": 3876256,
+    "devto_url": "https://dev.to/mrnasdog/aero-inflation-analysis-june-2026-supply-growing-projected-to-keep-growing-55h1",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/aero-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 56
+  },
   "algo-inflation-analysis": {
     "devto_id": 3866913,
     "devto_url": "https://dev.to/mrnasdog/algorand-algo-inflation-analysis-consensus-rewards-toward-a-10b-hard-cap-4c4k",
@@ -169,6 +176,13 @@
     "site": "crypto",
     "telegram_message_id": 16
   },
+  "nexo-pressure-framework": {
+    "devto_id": 3876239,
+    "devto_url": "https://dev.to/mrnasdog/nexo-inflation-analysis-june-2026-mixed-flows-supply-roughly-steady-44a9",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/nexo-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 52
+  },
   "okb-pressure-framework": {
     "devto_id": 3740799,
     "devto_url": "https://dev.to/mrnasdog/okb-after-the-2025-reset-a-hard-21m-cap-3968",
@@ -193,6 +207,13 @@
     "site": "crypto",
     "telegram_message_id": 28
   },
+  "pepe-pressure-framework": {
+    "devto_id": 3876241,
+    "devto_url": "https://dev.to/mrnasdog/pepe-inflation-analysis-june-2026-mixed-flows-supply-roughly-steady-5feh",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/pepe-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 53
+  },
   "pol-inflation-analysis": {
     "devto_id": 3864503,
     "devto_url": "https://dev.to/mrnasdog/polygon-pol-inflation-analysis-2-emission-vs-eip-1559-burn-roughly-cancelled-55ao",
@@ -206,6 +227,20 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/qnt-inflation-analysis.md",
     "site": "crypto",
     "telegram_message_id": 40
+  },
+  "rain-pressure-framework": {
+    "devto_id": 3876251,
+    "devto_url": "https://dev.to/mrnasdog/rain-inflation-analysis-june-2026-supply-growing-projected-to-keep-growing-48ad",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/rain-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 54
+  },
+  "shib-pressure-framework": {
+    "devto_id": 3876253,
+    "devto_url": "https://dev.to/mrnasdog/shib-inflation-analysis-june-2026-mixed-flows-supply-roughly-steady-47j9",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/shib-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 55
   },
   "sky-inflation-analysis": {
     "devto_id": 3864510,
