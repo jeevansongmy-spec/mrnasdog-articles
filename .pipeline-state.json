@@ -49,7 +49,7 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/cfg-pressure-framework.md",
     "internal_ref": "mrnasdog.com_13",
     "site": "crypto",
-    "telegram_message_id": 25
+    "telegram_message_id": 58
   },
   "chip-pressure-framework": {
     "devto_id": 3740825,
@@ -191,13 +191,20 @@
     "site": "crypto",
     "telegram_message_id": 24
   },
+  "om-pressure-framework": {
+    "devto_id": 3877497,
+    "devto_url": "https://dev.to/mrnasdog/om-inflation-analysis-june-2026-supply-growing-projected-to-keep-growing-1adg",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/om-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 60
+  },
   "ondo-pressure-framework": {
     "devto_id": 3728766,
     "devto_url": "https://dev.to/mrnasdog/ondo-finance-ondo-scheduled-supply-empty-buy-side-57en",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/ondo-pressure-framework.md",
     "internal_ref": "mrnasdog.com_3",
     "site": "crypto",
-    "telegram_message_id": 15
+    "telegram_message_id": 57
   },
   "orca-pressure-framework": {
     "devto_id": 3740832,
@@ -213,6 +220,13 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/pepe-pressure-framework.md",
     "site": "crypto",
     "telegram_message_id": 53
+  },
+  "plume-pressure-framework": {
+    "devto_id": 3877495,
+    "devto_url": "https://dev.to/mrnasdog/plume-inflation-analysis-june-2026-supply-growing-projected-to-keep-growing-54i4",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/plume-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 59
   },
   "pol-inflation-analysis": {
     "devto_id": 3864503,
