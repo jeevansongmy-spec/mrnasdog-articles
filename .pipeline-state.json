@@ -20,6 +20,13 @@
     "site": "crypto",
     "telegram_message_id": 45
   },
+  "apt-pressure-framework": {
+    "devto_id": 3882198,
+    "devto_url": "https://dev.to/mrnasdog/apt-inflation-analysis-june-2026-supply-growing-projected-to-keep-growing-4npf",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/apt-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 61
+  },
   "arb-pressure-framework": {
     "devto_id": 3740819,
     "devto_url": "https://dev.to/mrnasdog/arbitrum-arb-37-of-supply-still-unlocked-dao-treasury-holds-27-2e0",
@@ -35,6 +42,13 @@
     "site": "crypto",
     "telegram_message_id": 46
   },
+  "beat-pressure-framework": {
+    "devto_id": 3882199,
+    "devto_url": "https://dev.to/mrnasdog/beat-inflation-analysis-june-2026-supply-growing-projected-to-keep-growing-45a4",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/beat-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 62
+  },
   "bnb-pressure-framework": {
     "devto_id": 3736138,
     "devto_url": "https://dev.to/mrnasdog/bnb-binance-coin-supply-down-by-design-gb8",
@@ -42,6 +56,27 @@
     "internal_ref": "mrnasdog.com_5",
     "site": "crypto",
     "telegram_message_id": 17
+  },
+  "bonk-pressure-framework": {
+    "devto_id": 3882204,
+    "devto_url": "https://dev.to/mrnasdog/bonk-inflation-analysis-june-2026-mixed-flows-supply-roughly-steady-3kbb",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/bonk-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 63
+  },
+  "btt-pressure-framework": {
+    "devto_id": 3882206,
+    "devto_url": "https://dev.to/mrnasdog/btt-inflation-analysis-june-2026-mixed-flows-supply-roughly-steady-3d80",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/btt-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 64
+  },
+  "cake-pressure-framework": {
+    "devto_id": 3882210,
+    "devto_url": "https://dev.to/mrnasdog/cake-inflation-analysis-june-2026-supply-shrinking-projected-to-keep-shrinking-46j5",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/cake-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 65
   },
   "cfg-pressure-framework": {
     "devto_id": 3740808,
