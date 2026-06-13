@@ -306,6 +306,13 @@
     "site": "crypto",
     "telegram_message_id": 21
   },
+  "sol-pressure-framework": {
+    "devto_id": 3894082,
+    "devto_url": "https://dev.to/mrnasdog/sol-inflation-analysis-june-2026-staking-issuance-disinflating-each-year-2ogc",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/sol-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 67
+  },
   "stop-guessing-about-yourself": {
     "devto_id": 3795419,
     "devto_url": "https://dev.to/mrnasdog/stop-guessing-about-yourself-c1h",
@@ -338,6 +345,13 @@
     "site": "growth",
     "telegram_message_id": 11
   },
+  "trx-pressure-framework": {
+    "devto_id": 3894087,
+    "devto_url": "https://dev.to/mrnasdog/trx-inflation-analysis-june-2026-rewards-minted-fees-burned-near-balance-3ho2",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/trx-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 68
+  },
   "uni-inflation-analysis": {
     "devto_id": 3861204,
     "devto_url": "https://dev.to/mrnasdog/uniswap-uni-inflation-analysis-fee-switch-burn-turned-it-deflationary-4ipj",
@@ -366,5 +380,12 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/xlm-inflation-analysis.md",
     "site": "crypto",
     "telegram_message_id": 33
+  },
+  "xrp-pressure-framework": {
+    "devto_id": 3894081,
+    "devto_url": "https://dev.to/mrnasdog/xrp-inflation-analysis-june-2026-escrow-drips-in-most-of-it-re-locks-c92",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/xrp-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 66
   }
 }
