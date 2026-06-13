@@ -1,91 +1,49 @@
 ---
-title: "Ethereum (ETH): Net Deflationary, Most of the Time"
-description: "A MrNasdog Pressure Framework read of Ethereum (ETH): ~0.5%/yr gross issuance to validators, EIP-1559 base-fee burn that flips supply net-deflationary during active periods. No team allocation, no scheduled vesting. The cleanest structural sell ledger of any major L1."
-canonical_url: "https://mrnasdog.com/research/eth/full"
-tags: ["crypto", "ethereum", "layer1", "defi"]
+title: "ETH Inflation Analysis · June 2026 · Issuance and the burn cancel out"
+description: "Issuance and the EIP-1559 burn cancel out: ~0.153M ETH minted vs ~0.150M burned over 90 days. Framework reads +0.0025% net — a roughly flat supply."
+canonical_url: "https://mrnasdog.com/research/eth/inflation"
+tags: ["crypto", "ethereum", "layer1", "eip-1559"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/research/eth/full](https://mrnasdog.com/research/eth/full)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/eth/inflation](https://mrnasdog.com/research/eth/inflation)** by MrNasdog.
 
-This is a **MrNasdog Pressure Framework** analysis of **Ethereum (ETH)** on Metric 1 (sell pressure) and Metric 2 (buy pressure). Narrative (Metric 3) is covered separately. The short version: ETH has the cleanest structural sell ledger of any major layer-1 — no team allocation, no scheduled vesting, ~0.5%/yr gross issuance to validators, with EIP-1559 burning base fees in real time. When the chain is active, net supply is flat or shrinking.
+Ethereum is a proof-of-stake Layer 1 with no supply cap, yet its supply barely moves. Proof-of-stake issuance adds about **0.153M ETH** over 90 days and the EIP-1559 base-fee burn removes about **0.150M ETH** — leaving a net of roughly **+0.0025%** against the inflation monitor's **−0.0015%**. The two sides offset, so ETH reads as one of the flattest large-cap assets in coverage.
 
-## The setup
+## The verdict, in one paragraph
 
-Ethereum is the leading smart-contract platform. Genesis July 2015 with a public ICO. Moved to proof-of-stake in September 2022 ("The Merge"), reducing issuance ~90% overnight. Shanghai/Capella (April 2023) enabled validator withdrawals. EIP-1559 (August 2021) introduced a base-fee burn on every transaction.
+For the 90-day window ending June 14 2026, the MrNasdog Pressure Framework reads **ETH at +0.0025% net** for the window. The independent inflation monitor reads **−0.0015%**, a gap of just **0.004 percentage points** — far inside the 0.5pp tolerance, so no data-conflict chip is raised. The structural picture is simple: Ethereum mints new ETH to pay validators and burns ETH on every block through EIP-1559, and at current activity the two flows run roughly level. ETH is a **roughly flat, self-balancing supply** — neither meaningfully inflationary nor deflationary at the moment.
 
-Live numbers, origin-first from the Ethereum mainnet:
+## Sell pressure: where new ETH comes from
 
-- **Circulating supply: ~120.7M ETH** (per CoinGecko cross-check)
-- **No fixed max supply** — issuance is dynamic, capped only by the deposit-aware schedule (issuance falls as more ETH is staked)
-- **Validator issuance: ~0.5%/yr gross** (varies with total staked ETH; ~30%+ of supply is staked)
-- **EIP-1559 burn**: every transaction destroys its base fee in ETH; burn rate scales with gas demand
-- **Net supply trend (post-merge era)**: roughly **flat-to-deflationary** in active periods, mildly inflationary in quiet ones
-- Price ~$2,116 → market cap ~$255B
+Sell #1 — protocol inflation — is the only live source of new ETH. Proof-of-stake issuance pays validators about **1,700 ETH a day**, or roughly **0.153M ETH** over the 90-day window. That rate is about 90% below the old proof-of-work emission; the Merge replaced miner block rewards with a far smaller staking reward sized to the amount of ETH staked (currently about 28M ETH, near 23% of supply). Issuance scales with the square root of total stake, so it rises slowly as more validators join rather than on a fixed schedule.
 
-The fundamental design: validators get paid in newly-issued ETH (gross sell pressure), users pay base fees in ETH that get burned (gross buy pressure). The two flows offset; net direction depends on activity.
+Every other sell row is zero. Sell #2 — vesting unlocks — is zero because Ethereum has no vesting schedule and no locked team allocation dripping into the market; the original 2014 sale and genesis allocations have long since fully circulated. Sell #3 — Foundation and unscheduled unlocks — is zero: the Ethereum Foundation holds a treasury but runs no scheduled release programme, and no discretionary deployment is booked this window. Sell #4 — long-term locked or bankruptcy — is zero; there is no bankruptcy estate, and the 28M ETH that is staked locks supply rather than adding it.
 
-## The sell ledger
+## Buy pressure: where new ETH goes
 
-*What the design predictably puts on the market.*
+Buy #2 — protocol fee burn — is the offsetting force. EIP-1559 burns the base fee of every transaction on every block, permanently destroying that ETH. Over this window the burn runs at about **0.150M ETH**, roughly level with issuance, though it varies with on-chain activity. Since the EIP-7918 blob-fee floor took effect, the burn has stabilised closer to issuance rather than swinging far below it during quiet periods — which is why ETH currently sits near flat rather than mildly inflationary.
 
-| # | Source | Tag | Value |
-|---|---|---|---|
-| 1 | **Protocol inflation** — validator issuance, deposit-aware | **Tag A** | **~0.5%/yr gross**, scales inversely with total staked |
-| 2 | Vesting unlocks (still-locked allocations on schedule) | — | **0** — original 2014 ICO + Ethereum Foundation grants have no published cliff schedule today |
-| 3 | Team / DAO / identified-group holdings | **Tag B** | Ethereum Foundation reserves + Vitalik wallet — TBD on-chain enumeration |
-| 4 | Bankruptcy estate (Genesis estate, post-bankruptcy distributions) | **Tag A small** | DCG/Genesis estate has distributed most BTC + ETH from the 2023 bankruptcy; residual modest |
+The rest of the buy ledger is zero. Buy #1 — programmatic buyback — is zero because validator rewards are paid from fresh issuance, not from market purchases. Buy #3 — Foundation buy — is zero; the Foundation runs no accumulation programme. Buy #4 — new long-term lock — is zero as a programmatic line: staking does lock ETH for yield, but it is validator-driven rather than a programme with an announced lock quantum.
 
-**Inflation is the only meaningful Tag A line.** Post-merge issuance is ~0.5%/yr gross — about 600K–700K new ETH/yr distributed to validators. This is tiny relative to ETH's market cap and is the lowest-inflation top-tier L1 we cover.
+## Foundation and overhang
 
-**Vesting is zero by the framework's definition.** The 2014 ICO completed a decade ago; there is no scheduled team/investor vesting today. Ethereum Foundation grants are discretionary, not scheduled — they belong in source #3.
+The one tracked overhang is the **Ethereum Foundation treasury**. The Foundation holds ETH across multiple addresses but publishes no scheduled release programme, so the framework treats the balance as unscheduled and books it at zero flow for the window. It is monitored on a roughly bi-weekly web walk. If the Foundation's balance falls between refreshes — a treasury sale or grant deployment large enough to register — the outflow enters Sell #3 at the next refresh. There is no other team-controlled overhang on a release schedule.
 
-**Tag B is the Ethereum Foundation and identified founder wallets.** The Foundation publishes annual transparency reports; recent balances are in the hundreds of millions USD-equivalent. Vitalik Buterin's identified wallet is small relative to total supply. Both are discretionary. Flagged TBD here pending exact on-chain enumeration.
+## How ETH compares to other uncapped Layer 1 chains
 
-## The buy ledger
+Ethereum belongs to the class of **uncapped, continuous-emission Layer 1s**, but it is the only major one that pairs issuance with a structural burn. Solana issues continuously and burns only half of a tiny base fee, so its net stays clearly positive; ETH burns the full base fee of every transaction, which is why its net collapses toward zero. Against capped halving chains like Bitcoin, the contrast is sharper still: Bitcoin's emission is fixed and falling on a schedule and there is no burn, so it is always mildly inflationary until the cap; ETH has no cap but can swing deflationary in busy periods because the burn can exceed issuance.
 
-*What the design predictably takes off the market.*
+The mechanism that makes ETH distinctive is that its supply is **demand-responsive**. More on-chain activity burns more base fee, pushing net supply down exactly when usage is highest; quiet periods let issuance edge ahead. No fixed-schedule chain has this property. For an inflation reading, that means ETH's number is less a property of tokenomics and more a property of current network usage — and right now usage keeps the burn close enough to issuance to read flat.
 
-| # | Source | Value |
-|---|---|---|
-| 1 | Revenue-backed buyback | **0** — no contract buys ETH from market |
-| 2 | **Burn mechanism (EIP-1559 base-fee burn)** | **Tag A** — variable, scales with network activity |
-| 3 | Locked allocations | — context only (~30%+ of supply is staked, ~days-to-weeks withdrawal queue) |
-| 4 | Protocol-level demand (gas) | **Tag A** — ETH is gas; demand baseline is real and structural |
+## What to watch in the next 90 days
 
-**EIP-1559 is the entire structural buy story.** Every transaction's base fee gets burned. In active periods (DeFi summer 2021, NFT mania, restaking flows) the burn exceeded validator issuance, making ETH net deflationary. In quiet periods (the 2024 L2 era after L2s absorbed most activity), the burn fell below issuance, making ETH mildly inflationary again. **Direction depends on L1 demand.**
+Watch the burn-versus-issuance balance, which is the entire story. First, on-chain activity: a sustained rise in transaction and blob demand would tip ETH net-deflationary, while a quiet stretch would let issuance lead. Second, the staking participation rate — if the share of ETH staked climbs materially, issuance rises with it. Third, any Foundation treasury movement large enough to surface in the monitor would promote Sell #3 from zero to a quantified row. Fourth, any protocol change to the issuance curve or blob-fee mechanics through a future upgrade. None of these is a dated event; they are continuous variables the next refresh will re-read.
 
-## Net position
+## Summary
 
-Combine the ledgers:
-
-- **Sell, Tag A:** ~0.5%/yr gross issuance (validator rewards)
-- **Buy, Tag A:** EIP-1559 burn, variable, has historically offset most or all of issuance
-- **Net structural change:** roughly **flat-to-deflationary** in active periods, **mildly inflationary** in quiet ones
-
-This makes ETH the **cleanest structural read of any major L1** — both sides are Tag A, both are tied to a single variable (L1 activity), and the two flows offset by design.
-
-Compared to the rest of our coverage:
-- **ETH**: Tag A on both sides, nets to roughly zero — most-favorable structurally
-- **BNB**: ↓3–6%/yr from burns, no inflation — also favorable
-- **HYPE**: AF buyback > vesting, supply flat — favorable
-- **SKY**: revenue-linked buyback — moderately favorable
-- **NEAR / TAO**: ↑ inflation with weak buy — unfavorable
-- **SUI / ONDO**: ↑ scheduled supply, weak buy — most unfavorable
-
-## What could flip the buy ledger negatively
-
-The structural risk is **L1 activity collapse driving the EIP-1559 burn to ~0** while validator issuance continues. This happened mildly in 2024 when most activity moved to L2s. If L1 activity stays low while issuance continues, ETH drifts mildly inflationary. The Pectra and Fusaka upgrades modify validator economics but don't change the basic burn-vs-issuance mechanic.
-
-## What to watch
-
-1. **Burn rate vs. issuance rate** — ultrasound.money or similar; the cross-over point flips ETH from deflationary to inflationary.
-2. **L1 activity** — base-layer gas usage drives the burn; L2 settlement to L1 is a partial substitute.
-3. **Total staked ETH** — higher staking lowers per-validator issuance rate (deposit-aware curve).
-4. **Ethereum Foundation transparency reports** — annual disclosures of Tag B holdings.
+ETH is a self-balancing, near-flat supply. Proof-of-stake issuance of about 0.153M ETH over the window is offset almost exactly by the EIP-1559 base-fee burn of about 0.150M ETH, for a framework reading of +0.0025% net against the monitor's −0.0015% — agreement within 0.004 percentage points. There is no vesting, no scheduled Foundation release, and no buyback; the only tracked overhang is the unscheduled Foundation treasury. The key variable is on-chain activity, because the burn is demand-responsive and can push ETH either side of zero. Among uncapped Layer 1s, Ethereum is unique in pairing continuous issuance with a full base-fee burn, which is why it reads flatter than any other large-cap emission chain.
 
 ---
 
-*MrNasdog Pressure Framework analysis of ETH, Metrics 1 &amp; 2. Data + explanation only. Not financial advice. Numbers as of May 2026.*
-
-*Data note: Issuance rate per ethereum.org documentation (deposit-aware curve). Burn rate variable per real-time gas activity. Circulating supply cross-checked via CoinGecko. Ethereum Foundation balance flagged as TBD pending direct on-chain enumeration of identified Foundation multisigs.*
+*MrNasdog Pressure Framework analysis of Ethereum (ETH), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 14, 2026.*
