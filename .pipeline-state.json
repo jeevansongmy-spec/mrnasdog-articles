@@ -94,6 +94,13 @@
     "site": "crypto",
     "telegram_message_id": 27
   },
+  "coai-pressure-framework": {
+    "devto_id": 3898616,
+    "devto_url": "https://dev.to/mrnasdog/coai-inflation-analysis-june-2026-modest-community-vesting-the-big-unlocks-still-locked-3i4b",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/coai-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 70
+  },
   "ena-inflation-analysis": {
     "devto_id": 3861212,
     "devto_url": "https://dev.to/mrnasdog/ethena-ena-inflation-analysis-mid-vesting-headwind-on-a-15b-hard-cap-3lde",
@@ -129,6 +136,13 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/htx-pressure-framework.md",
     "site": "crypto",
     "telegram_message_id": 48
+  },
+  "humanity-pressure-framework": {
+    "devto_id": 3898615,
+    "devto_url": "https://dev.to/mrnasdog/h-inflation-analysis-june-2026-a-quiet-ledger-with-a-june-cliff-ahead-1gf7",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/humanity-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 69
   },
   "hype-inflation-analysis": {
     "devto_id": 3866906,
