@@ -1,95 +1,45 @@
 ---
-title: "Arbitrum (ARB): 37% of Supply Still Unlocked, DAO Treasury Holds 27%"
-description: "A MrNasdog Pressure Framework read of Arbitrum (ARB): fixed 10B supply, ~6.26B circulating, ~3.74B still under team/investor vesting through 2027. DAO Treasury holds 2.66B ARB (~27%) — read on-chain from the Arbitrum L2 RPC."
-canonical_url: "https://mrnasdog.com/research/arb/full"
-tags: ["crypto", "arbitrum", "layer2", "rollup"]
+title: "ARB Inflation Analysis · June 2026 · Monthly unlocks add supply with no offset"
+description: "A MrNasdog Pressure Framework read of Arbitrum (ARB): ~278M / 90D of scheduled vesting unlocks vs an empty buy ledger. Framework +4.4% net; monitor +3.49%, the gap an unlock-vs-float wedge."
+canonical_url: "https://mrnasdog.com/research/arb/inflation"
+tags: ["crypto", "arb", "arbitrum", "layer-2"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/research/arb/full](https://mrnasdog.com/research/arb/full)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/arb/inflation](https://mrnasdog.com/research/arb/inflation)** by MrNasdog.
 
-This is a **MrNasdog Pressure Framework** analysis of **Arbitrum (ARB)** on Metric 1 (sell pressure) and Metric 2 (buy pressure). Narrative (Metric 3) is covered separately. The short version: ARB has a fixed 10B cap, but **37% of supply is still under team/investor vesting through 2027**. The Arbitrum DAO Treasury holds **2.66B ARB on-chain** — the largest identified treasury we've measured. Buy ledger is empty.
+Arbitrum has a fixed 10B ARB supply with no protocol mint, but a recurring monthly cliff unlocks about **92.65M ARB** on the 16th — roughly **278M** over the next 90 days — while the buy ledger is **empty**: no burn, no buyback. The Pressure Framework reads about **+4.4% net**. Our supply monitor reads **+3.49%**, the gap coming from newly-vested tokens that sit in team, investor and treasury wallets before reaching the open float.
 
-## The setup
+## The verdict, in one paragraph
 
-Arbitrum is the leading Ethereum L2 rollup, built by Offchain Labs and governed by the Arbitrum Foundation + Arbitrum DAO. ARB launched in March 2023 (airdrop) and is native to Arbitrum One (`0x912c…6548`). Genesis supply: **10B ARB** with the following allocation per the official Arbitrum Foundation tokenomics:
+For the 90-day window ending June 16 2026, the MrNasdog Pressure Framework reads **ARB at +4.4% net** on the forward view, driven entirely by scheduled vesting unlocks with nothing on the buy side to offset them. Our supply monitor reads the realized last-90-day change at **+3.49%**, versus the framework's **+4.37%** scheduled-unlock read for the same window — a gap of about **0.9 percentage points** that ships a **⚠ monitor-gap chip**. The gap is structural: each monthly cliff drops ARB into team, advisor, investor and DAO Treasury timelock wallets, and the monitor's circulating-float read counts those coins more slowly than the gross unlock. ARB is **structurally inflationary on the active float**, at a mid-single-digit pace, for as long as the vesting schedule runs.
 
-- **42.78% DAO Treasury** (4.278B) — controlled by ARB-token governance via the Treasury Timelock
-- **26.94% Team (Offchain Labs)** (2.694B) — 4-year vest with 1-year cliff (cliff hit March 2024; linear vest through March 2027)
-- **17.53% Investors** (1.753B) — same vest schedule
-- **11.62% Airdrop recipients** (1.162B) — fully unlocked at TGE
-- **1.13% DAOs (other community)** (0.113B)
+## Sell pressure: where new ARB comes from
 
-The DAO controls protocol parameters and can enable inflation up to 2%/yr (similar to UNI's latent option).
+Sell #2 — vesting unlocks — is the whole story, at about **278M ARB** over the next 90 days. Arbitrum's vesting schedule releases a recurring monthly cliff of about **92.65M ARB** on the 16th of each month — roughly 56.13M to team, future-team and advisor wallets and about 36.52M to early investors, equal to about 0.93% of total supply per firing. Three of those cliffs land inside the window (June 16, July 16 and August 16), so the schedule adds about 278M ARB to the unlocked supply before the run completes in March 2027.
 
-Live numbers, origin-first from the Arbitrum One mainnet RPC (`arb1.arbitrum.io/rpc`):
+Sell #1 — protocol inflation — is **zero**: ARB has a fixed 10-billion max supply and the Arbitrum network mints no new ARB, so there is no built-in inflation. Sell #3 — Foundation and unscheduled unlocks — is also zero as a flow; the Arbitrum DAO Treasury holds the single largest non-circulating stake (about 42.8% of supply, more than 2.66B ARB in the governance timelock), but no discretionary release outside the published vesting cliffs is scheduled in the window. Sell #4 — long-term locked or bankruptcy — is zero.
 
-- **Total supply: ~9,999.999M ARB** (`totalSupply()` on `0x912c…6548`, fixed cap)
-- **Circulating: ~6,255.8M ARB** (per CoinGecko cross-check)
-- **Still-locked / Tag A on schedule: ~3,744M ARB** (~37% of total) releasing linearly through March 2027
-- **DAO Treasury (Timelock `0xf3fc…9b58`): ~2,656.9M ARB** (~26.6% of supply — read on-chain via `balanceOf`)
-- Price ~$0.106 → market cap ~$0.66B · FDV ~$1.06B
+## Buy pressure: where new ARB goes
 
-## The sell ledger
+The buy ledger is **empty** — every offset reads zero. Buy #1 — programmatic buyback — is zero because there is no protocol buyback; any ARB buyback would require an Arbitrum DAO vote, and none has been approved or executed. Buy #2 — protocol fee burn — is zero because Arbitrum charges its network fees in ETH, not ARB, so activity burns no ARB and there is no native burn that reduces the token's supply. Buy #3 — Foundation buy — is zero, with no disclosed open-market ARB buying. Buy #4 — new long-term lock — is zero, with no new escrow or multi-year lock announced. With no buy-side mechanism, the monthly unlock flows through one way.
 
-*What the design predictably puts on the market.*
+## Foundation and overhang
 
-| # | Source | Tag | Value |
-|---|---|---|---|
-| 1 | Protocol inflation | — | **0** (2%/yr available but not enabled by DAO) |
-| 2 | **Vesting unlocks (still-locked Team + Investor allocations)** | **Tag A** | **~3.74B ARB**, linear vest through March 2027 |
-| 3 | **Team / DAO / identified-group holdings** | **Tag B** | DAO Treasury **2.66B ARB** (on-chain, deployed via votes) |
-| 4 | Bankruptcy estate | — | **0** |
+ARB's defining feature is its overhang. The Arbitrum DAO Treasury controls about 42.8% of total supply — more than 2.66B ARB — held in a governance-controlled timelock, the largest community treasury on any Ethereum Layer-2. Beyond that, roughly 37% of total supply is still locked and vesting on the monthly schedule, including team, future-team, advisor and investor allocations. None of these are projected as a flow today: the treasury moves only by DAO vote, and the locked allocations release strictly on the published cliffs already captured in Sell #2. The framework books no discretionary release beyond the vesting schedule and re-checks the unlock calendar and treasury balance on a roughly bi-weekly walk; if the treasury balance falls between refreshes — a buyback, a grant, an incentive program — the outflow enters Sell #3 at the next refresh.
 
-**Vesting is the headline.** 3.74B ARB is still locked under the Team + Investor schedule, releasing linearly through March 2027. **At today's circulating ~6.26B, the additional ~3.74B coming over ~22 months means roughly +60% to circulating supply** by the end of the vest. This is a substantial structural sell wave.
+## How ARB compares to other governance-token Layer-2s
 
-**Tag B is the DAO Treasury Timelock** (verified on-chain: 2.66B ARB at `0xf3fc…9b58`). This is the largest single identified treasury we've measured in our coverage. Deployed via Arbitrum DAO governance — grants programs, retroactive funding, market-making, etc. Discretionary. **Note: de-duped against #2 — the DAO Treasury portion is already unlocked, so it counts here, not in #2.**
+ARB belongs to the class of **fixed-supply governance tokens on Ethereum Layer-2 rollups** — a different animal from an uncapped proof-of-stake L1. Unlike a continuous-emission chain, ARB has a hard 10-billion ceiling and mints nothing; its supply curve is set entirely by a vesting calendar that was public from the airdrop. That makes ARB's inflation finite and front-loaded: dilution is heavy now while large team, investor and treasury tranches vest, then ends when the schedule completes in 2027.
 
-**Inflation: zero.** The DAO can enable up to 2%/yr; never enabled.
+The contrast worth drawing is with Layer-2 tokens that pair issuance with a fee burn or a revenue buyback. ARB has neither — fees are paid in ETH, and no buyback has been ratified — so there is no structural counter-flow to slow the unlock. Where an exchange token can go net-deflationary by burning a slice of revenue, ARB's net inflation is simply the unlock rate, undiluted by any offset. For an inflation lens, that means ARB reads as plainly inflationary through the vesting period: the schedule is the only force, and nothing pulls supply back.
 
-## The buy ledger
+## What to watch in the next 90 days
 
-*What the design predictably takes off the market.*
+Watch the monthly cliff dates — June 16 2026, July 16 2026 and August 16 2026 — each releasing about 92.65M ARB; these three firings are the entire forward read. Watch the Arbitrum DAO governance forum for any proposal to direct sequencer revenue into an ARB buyback or burn, which would be the first real buy-side offset and would change the framework's sign. Watch whether the DAO Treasury timelock balance moves, since a grant or incentive release would enter Sell #3. And expect the framework to keep reading slightly above our supply monitor for as long as newly-vested ARB sits in recipient and treasury wallets before reaching the open float — that gap is the unlock-versus-float wedge, not a new event.
 
-| # | Source | Value |
-|---|---|---|
-| 1 | Revenue-backed buyback | **0** — no contract buys ARB |
-| 2 | Burn mechanism | **0** — no protocol burn (sequencer fees collected, distributed to DAO Treasury) |
-| 3 | Locked allocations | — context only (ARB staking is governance-only; functionally liquid) |
-| 4 | Protocol-level demand | **~0** — ARB is governance, not gas (gas on Arbitrum One is paid in ETH) |
+## Summary
 
-**This is where Arbitrum is structurally weakest.** ARB is purely a governance token. Sequencer revenue flows to the DAO Treasury — but the DAO has not voted to deploy any of it as a buyback. Gas on Arbitrum One is paid in ETH, not ARB; there's no native protocol-level demand sink for ARB.
+ARB is a fixed-supply Layer-2 governance token whose inflation is set entirely by a vesting calendar. The schedule unlocks about 92.65M ARB a month — roughly 278M over the next 90 days across three monthly cliffs — while the buy ledger is empty: no protocol mint, no ARB fee burn, no committed buyback. That leaves the framework at about +4.4% net, the unlock rate undiluted. Our supply monitor reads +3.49% realized, with the gap explained by vested tokens sitting in team, investor and DAO Treasury timelock wallets before they reach the float. ARB stays plainly inflationary on the active float until the vesting run ends in March 2027 — unless the DAO ratifies a buyback that finally puts something on the buy side.
 
-## Net position
-
-- **Sell, Tag A:** ~3.74B ARB through March 2027 (~1.7B/yr at the linear rate)
-- **Sell, Tag B:** 2.66B in DAO Treasury (deployed via governance)
-- **Buy, Tag A:** 0
-
-**This is the most-unfavorable structural read in our coverage.** ARB combines the worst-of-both: massive scheduled supply (~37% of total still vesting, same scale as SUI) AND a giant identified Tag B treasury that could be deployed any time (~27% of total). All against zero structural buy pressure.
-
-Compared to the rest of our coverage:
-- **ARB**: ~37% still vesting + 27% in DAO Treasury, no buy — **most unfavorable**
-- **ONDO**: ~17%/yr cliffs through 2029, no buy — very unfavorable
-- **SUI**: ~60% still unvesting through ~2030 — very unfavorable
-- **TAO**: ~27%/yr inflation but halving in 10mo — unfavorable, with programmed catalyst
-
-## The two governance levers
-
-Like UNI, ARB has two latent governance-controlled levers:
-
-1. **Positive:** **Fee switch / revenue routing** — sequencer revenue (significant) could be routed to ARB buyback or stakers. Never enabled. The largest possible structural buy-side catalyst available in our coverage today.
-2. **Negative:** **2%/yr inflation enablement** — DAO can pass this. Latent risk.
-
-## What to watch
-
-1. **Monthly Team + Investor unlock disclosures** — Arbitrum Foundation publishes; track cliff effects.
-2. **Any DAO proposal on fee-switch / revenue routing** — would flip the buy ledger.
-3. **DAO Treasury balance** — read live via Arbitrum L2 RPC; large grants programs move this.
-4. **Arbitrum One sequencer revenue trend** — sizing the latent buy-side lever.
-
----
-
-*MrNasdog Pressure Framework analysis of ARB, Metrics 1 &amp; 2. Data + explanation only. Not financial advice. Numbers as of May 2026.*
-
-*Data note: Total supply + DAO Treasury balance read directly from the Arbitrum One mainnet RPC (`arb1.arbitrum.io/rpc`) — `totalSupply()` on the ARB ERC-20 (`0x912c…6548`) and `balanceOf(0xf3fc…9b58)` on the DAO Treasury Timelock. Vesting schedule per the Arbitrum Foundation tokenomics docs. Circulating supply cross-checked via CoinGecko.*
+*MrNasdog Pressure Framework analysis of Arbitrum (ARB), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 16, 2026.*

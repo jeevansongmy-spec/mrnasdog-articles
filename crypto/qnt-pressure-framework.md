@@ -14,7 +14,7 @@ Quant Network has issued no new QNT since its 2018 sale, all vesting finished in
 
 ## The verdict, in one paragraph
 
-For the 90-day window ending June 16 2026, the framework reads **QNT at 0.00% net inflation** — a structurally flat ledger. The inflation monitor reads **-0.05%**, a gap of just **0.05pp** that is pure noise; the two agree. There is nothing happening on the supply side of QNT. No new tokens have been minted since the Quant token sale closed in 2018, the entire founder and advisor vesting finished by April 30 2019, and the Overledger licence model that drives Quant's revenue does not destroy supply. This is a fixed-supply, fully-distributed governance and utility token — quiet by structure.
+For the 90-day window ending June 21 2026, the framework reads **QNT at 0.00% net inflation** — a structurally flat ledger. The inflation monitor reads **-0.05%**, a gap of just **0.05pp** that is pure noise; the two agree. There is nothing happening on the supply side of QNT. No new tokens have been minted since the Quant token sale closed in 2018, the entire founder and advisor vesting finished by April 30 2019, and the Overledger licence model that drives Quant's revenue does not destroy supply. This is a fixed-supply, fully-distributed governance and utility token — quiet by structure.
 
 ## Sell pressure: where new QNT comes from
 
@@ -50,4 +50,4 @@ QNT is a fixed-supply, fully-vested, no-flow asset. No new tokens have been issu
 
 ---
 
-*MrNasdog Pressure Framework analysis of Quant (QNT), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 16 2026.*
+*MrNasdog Pressure Framework analysis of Quant (QNT), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 21 2026.*

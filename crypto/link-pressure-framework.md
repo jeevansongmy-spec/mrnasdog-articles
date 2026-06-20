@@ -1,94 +1,45 @@
 ---
-title: "Chainlink (LINK): No Inflation, but 273M LINK in Chainlink Labs' Hands"
-description: "A MrNasdog Pressure Framework read of Chainlink (LINK): fixed 1B supply, no protocol inflation, but ~272.9M LINK (~27% of total) sits in Chainlink Labs / Foundation control and is released to node operators on a discretionary schedule. The whole structural story is Tag B."
-canonical_url: "https://mrnasdog.com/research/link/full"
-tags: ["crypto", "chainlink", "oracle", "defi"]
+title: "LINK Inflation Analysis · June 2026 · Capped token, but reserve supply still grows"
+description: "A MrNasdog Pressure Framework read of Chainlink (LINK): no protocol mint, a ~19M/quarter non-circulating reserve release vs a ~1.5M Chainlink Reserve lock. Framework +2.3% net; monitor +5.55%."
+canonical_url: "https://mrnasdog.com/research/link/inflation"
+tags: ["crypto", "link", "chainlink", "oracles"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/research/link/full](https://mrnasdog.com/research/link/full)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/link/inflation](https://mrnasdog.com/research/link/inflation)** by MrNasdog.
 
-This is a **MrNasdog Pressure Framework** analysis of **Chainlink (LINK)** on Metric 1 (sell pressure) and Metric 2 (buy pressure). Narrative (Metric 3) is covered separately. The short version: LINK has no protocol inflation and no scheduled vesting, but ~272.9M LINK (27% of total supply) is held by Chainlink Labs and released to node operators at the team's discretion. **The entire structural read is Tag B.**
+Chainlink has a hard **1 billion LINK** cap and mints no new tokens, yet supply still grows: a non-circulating reserve releases about **19M LINK** into circulation each quarter, while the Chainlink Reserve locks roughly **1.5M** back. The Pressure Framework reads about **+2.3% net**. Our supply monitor reads **+5.55%** — the gap is reserve LINK that reaches the market beyond the single dated quarterly transfer.
 
-## The setup
+## The verdict, in one paragraph
 
-LINK is the native token of Chainlink, the dominant oracle network used by DeFi protocols across 20+ chains. It's an ERC-20 on Ethereum (canonical: `0x5149…6CA`) with a **fixed 1 billion supply** set at the 2017 ICO. There is no minting function — total supply cannot increase. There has never been a protocol inflation mechanism.
+For the 90-day window ending June 20 2026, the MrNasdog Pressure Framework reads **LINK at +2.3% net** on the forward view, driven entirely by a quarterly release of LINK from a large non-circulating reserve. Our supply monitor reads the realized last-90-day change at **+5.55%**, versus the framework's **+2.34%** dated-release read for the same window — a gap of about **3.2 percentage points** that ships a **⚠ monitor-gap chip**. The gap is structural, not a missed unlock: beyond the single dated quarterly transfer the framework books, Chainlink also feeds reserve LINK to node-operator pay, staking rewards, ecosystem programs and grants across the quarter, so realized float grows faster than the one visible event. LINK is best read as **capped but still structurally diluting** while the reserve unwinds.
 
-Live numbers, origin-first from Ethereum mainnet RPC (LINK contract `totalSupply()`) + Chainlink Foundation docs:
+## Sell pressure: where new LINK comes from
 
-- **Total supply: 1,000,000,000 LINK** (fixed, verified on-chain)
-- **Circulating: ~727.1M LINK** (~72.7%, per CoinGecko cross-check)
-- **Held by Chainlink Labs / Foundation / ecosystem (non-circulating): ~272.9M LINK** (~27.3%)
-- Price ~$9.60 → market cap ~$6.98B · FDV ~$9.6B
-- Chainlink Staking v0.2 cap: ~41M LINK pool (active)
+Sell #1 — protocol inflation — is **zero**, and that is the headline fact about Chainlink: LINK is capped at 1 billion tokens, the network mints nothing, and there is no block reward or staking emission. Every LINK that will ever exist already exists; the only question is how fast it moves from reserves into circulation.
 
-The 2017 ICO distribution: 35% public sale (350M LINK to early buyers), 35% node operators / ecosystem incentives (350M, released by Chainlink Labs over time), 30% Chainlink Labs / team / advisors (300M, also released over time). There was never a hard cliff; releases have been discretionary from the start.
+Sell #3 — Foundation and unscheduled unlocks — is therefore the whole story, at about **19M LINK** over the next 90 days. Chainlink Labs releases LINK from a large non-circulating reserve roughly once a quarter, on a Jan / Apr / Jul / Oct rhythm, in batches of about 14M to 19M. The April 2026 release was around 19M — about 14.4M to an exchange and 4.6M to a staking multisig — and the next quarterly release is due in July, inside this window. These tokens fund node operators, ecosystem development and grants; they are discretionary, but the recurring quarterly history makes the next firing a confident projection. Sell #2 — vesting unlocks — is zero, because Chainlink never ran a dated contractual vesting calendar; the original allocations sit in discretionary reserves, not a fixed lockup with cliffs. Sell #4 — long-term locked or bankruptcy — is zero.
 
-## The sell ledger
+## Buy pressure: where new LINK goes
 
-*What the design predictably puts on the market.*
+Buy #1 — programmatic buyback — is the only active offset, at about **1.5M LINK** over 90 days, and it takes the form of the Chainlink Reserve. Through Payment Abstraction, on-chain and off-chain revenue is automatically converted into LINK and deposited into a reserve contract that holds, never sells, under a multi-day timelock with no withdrawals expected for years. Reserve holdings grew from about 1.4M LINK at the start of the year to roughly 3.9M by early June, so the Reserve locked away on the order of 1.5M LINK inside this window. Buy #2 — protocol fee burn — is zero: LINK has no burn mechanism, since network fees are paid to node operators rather than destroyed. Buy #3 — Foundation buy — and Buy #4 — new long-term lock — are both zero beyond the Reserve already counted above.
 
-| # | Source | Tag | Value |
-|---|---|---|---|
-| 1 | Protocol inflation | — | **0** (fixed supply, no mint function) |
-| 2 | Vesting unlocks (still-locked allocations on schedule) | — | **0** (no published schedule; all releases are discretionary) |
-| 3 | **Team / DAO / identified-group holdings** — Chainlink Labs / Foundation control | **Tag B** | **~272.9M LINK** (the entire structural story) |
-| 4 | Bankruptcy estate | — | **0** |
+## Foundation and overhang
 
-**Inflation: zero.** LINK's ERC-20 contract has no public mint function. The on-chain totalSupply has been 1B since deployment.
+The defining feature of LINK is its overhang: roughly **252M LINK** still sits outside circulation in non-circulating reserve allocations controlled by Chainlink Labs, with no published cliff calendar. That is the pool the quarterly releases draw from, and it is the single biggest supply variable for the token. On the buy side, the Chainlink Reserve is the opposite force — a tracked, on-chain accumulation wallet that locks revenue-funded LINK away, holding about 3.9M as of early June 2026. The framework books no discretionary outflow beyond the dated quarterly release and re-checks the reserve wallets on a roughly bi-weekly walk; if a reserve balance falls faster than the quarterly schedule, the extra outflow enters Sell #3 at the next refresh.
 
-**Vesting: zero by the framework's definition.** Chainlink never published a fixed vesting schedule with cliffs. The original Chainlink Labs and node-operator allocations are still being released — but on a discretionary basis. Under the new framework rule, scheduled vesting (source #2) requires a published schedule; LINK doesn't have one, so the locked supply belongs in source #3 (team-controlled).
+## How LINK compares to other capped-supply utility tokens
 
-**Tag B is the whole structural picture.** The ~272.9M non-circulating LINK sits across Chainlink Labs multisigs, Foundation wallets, and ecosystem reserve addresses. They release LINK to node operators via the Chainlink Build and Tide programs and via direct subsidies. The rate is discretionary — readable on-chain at specific addresses, but timing is at the team's call. **There is no de-dup against #1 or #2 because both are zero, so the full 272.9M counts in #3.**
+LINK belongs to the class of **hard-capped utility tokens with a large discretionary reserve** — closer to a fixed-supply token than to an uncapped, continuously-minting proof-of-stake chain. Unlike a halving-model coin, LINK has no emission curve and no miners; unlike a fully-distributed token, a meaningful share of supply still sits in reserves waiting to be released. That makes LINK's dilution a release problem, not a mint problem: the cap is real, but circulating supply keeps rising until the reserve is exhausted, which on the current ~7%-of-supply-per-year pace runs into 2027.
 
-**Bankruptcy estate: zero.** No FTX-style estate distributing LINK.
+The contrast worth drawing is with exchange tokens that burn supply to go net-deflationary. LINK does the reverse — it has no burn at all, and its only supply sink is the Chainlink Reserve, which accumulates rather than destroys. The Reserve genuinely removes float, but at roughly a tenth of the quarterly release it slows dilution rather than reversing it. For an inflation lens, LINK reads as a capped token that is still structurally diluting on the active float.
 
-## The buy ledger
+## What to watch in the next 90 days
 
-*What the design predictably takes off the market.*
+Watch the July 2026 quarterly release — the single dated event that decides most of the window's sell pressure, with the size (14M to 19M) and the exchange-versus-staking split being the numbers that matter. Watch the Chainlink Reserve's monthly accumulation, since it is the only force pulling LINK back off the market. Watch for any change to the quarterly rhythm or a one-off non-circulating transfer outside the schedule, which would enter Sell #3 immediately. And expect the framework to keep reading below our supply monitor for as long as reserve LINK reaches circulation through node-operator pay and ecosystem flows rather than a single dated transfer — that gap is structural, not a new unlock.
 
-| # | Source | Value |
-|---|---|---|
-| 1 | Revenue-backed buyback | **0** — Chainlink earns oracle fees, but no contract buys LINK with them |
-| 2 | Burn mechanism | **0** — no protocol burn |
-| 3 | Locked allocations | — context only (~41M staked in v0.2 pool, capped) |
-| 4 | Protocol-level demand (oracle service usage) | **Tag B-ish** — small, fee market for oracle calls denominated mostly in stable assets |
+## Summary
 
-This is the harder side. Chainlink does generate revenue — node operators are paid in LINK for serving data feeds, VRF, CCIP, etc. — but the protocol does not route any of that revenue back to LINK via a structural buyback or burn. The fee market for oracle services exists but doesn't show up as on-chain LINK demand in a structural way; many node payments are settled in stablecoins under the hood.
+LINK is a hard-capped utility token that mints nothing, yet its circulating supply keeps growing as a large non-circulating reserve is released into the market. Chainlink moves about 19M LINK out of reserves each quarter to fund node operators and the ecosystem, while the Chainlink Reserve locks roughly 1.5M back, leaving the framework at about +2.3% net. Our supply monitor reads +5.55% realized, with the gap explained by reserve LINK reaching circulation beyond the one dated quarterly transfer. The key risk is the ~252M reserve overhang, which keeps LINK structurally diluting until the reserve is drained toward 2027 — even though the 1 billion cap is fixed.
 
-**Chainlink Staking v0.2 locks LINK but doesn't buy it** — it just removes some supply from immediate sell pressure for the lockup period. Under the framework's new rule (skip if unbond < 90 days), it's context only.
-
-## Net position
-
-Combine the ledgers:
-
-- **Sell, Tag A:** 0 (no inflation, no scheduled vesting)
-- **Sell, Tag B:** ~272.9M LINK in Chainlink Labs / Foundation hands, deployed to node operators at discretion
-- **Buy, Tag A:** essentially 0 (no buyback, no burn, narrow protocol demand)
-
-**The structural read for LINK is unusually clean for a Tag-B-dominated story.** If Chainlink Labs releases very slowly (e.g., subsidies tapering with the network maturing), the sell ledger stays near zero. If they accelerate (e.g., a big Build/Tide push), the discretionary release becomes the dominant structural sell line.
-
-Compared to the rest of our coverage:
-
-- **ONDO**: scheduled supply ↑ ~17%/yr, structural buy 0 → very unfavorable
-- **TAO**: scheduled inflation ~27%/yr, halving in 10mo → unfavorable now, programmed improvement
-- **NEAR**: scheduled inflation ~2.5%/yr → unfavorable
-- **LINK**: structural Tag A ~0, but Tag B ~273M LINK at team discretion → **read depends entirely on team behavior**
-- **BNB**: structural deflation from burns → favorable
-
-## What flips the buy ledger
-
-A protocol-level structural buyback funded by oracle fees, or a CCIP fee burn — neither exists today. Chainlink has discussed economic 2.0 (or some variant) for years; if a future governance change introduced a structural revenue-to-token pipe, that would be the lever.
-
-## What to watch
-
-1. **Chainlink Labs / Foundation address-level releases** — Build / Tide / direct subsidies. Read-able on Etherscan, requires labeling work.
-2. **Any economic 2.0 / CCIP fee-share proposal** — would move the buy ledger off zero.
-3. **Staking v0.2 → v1.0 transitions** — caps and policies that change how much LINK is structurally illiquid.
-4. **Node-operator share of total volume** — proxy for how much LINK is being absorbed by service participation vs. circulated freely.
-
----
-
-*MrNasdog Pressure Framework analysis of LINK, Metrics 1 &amp; 2. Data + explanation only. Not financial advice. Numbers as of May 2026.*
-
-*Data note: Total supply read directly from the LINK ERC-20 contract (`0x514910…6CA`) via Ethereum mainnet RPC. Circulating supply cross-checked via CoinGecko. The ~272.9M "non-circulating" figure is the gap between fixed total and circulating — held across Chainlink Labs / Foundation / ecosystem reserve wallets. Address-level enumeration of those wallets is a known unknown for this article.*
+*MrNasdog Pressure Framework analysis of Chainlink (LINK), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 20, 2026.*

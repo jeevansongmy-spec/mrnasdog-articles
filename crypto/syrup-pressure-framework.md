@@ -14,7 +14,7 @@ Maple Finance still mints SYRUP under an inherited **5%-per-year emission** that
 
 ## The verdict, in one paragraph
 
-For the 90-day window ending June 16 2026, the Pressure Framework reads **SYRUP at +2.27% net inflation** — about **33M** of new SYRUP enters from the protocol emission, against roughly **6M** bought back into the Syrup Strategic Fund. The inflation monitor reads **+2.82%**, a gap of **0.56 percentage points**. That gap is wide enough to carry a **monitor-gap flag**: the monitor counts circulating supply as market cap divided by price, so it still includes the SYRUP that Maple has bought back and is holding in the strategic fund — the framework nets that ~6M out, the monitor does not. SYRUP is **structurally inflationary on the float for one more quarter** while the inherited emission runs down.
+For the 90-day window ending June 21 2026, the Pressure Framework reads **SYRUP at +2.27% net inflation** — about **33M** of new SYRUP enters from the protocol emission, against roughly **6M** bought back into the Syrup Strategic Fund. The inflation monitor reads **+2.82%**, a gap of **0.56 percentage points**. That gap is wide enough to carry a **monitor-gap flag**: the monitor counts circulating supply as market cap divided by price, so it still includes the SYRUP that Maple has bought back and is holding in the strategic fund — the framework nets that ~6M out, the monitor does not. SYRUP is **structurally inflationary on the float for one more quarter** while the inherited emission runs down.
 
 ## Sell pressure: where new SYRUP comes from
 
@@ -48,4 +48,4 @@ SYRUP is a ~1.19B-float, uncapped DeFi governance token whose supply is still gr
 
 ---
 
-*MrNasdog Pressure Framework analysis of SYRUP (Maple Finance), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 16, 2026.*
+*MrNasdog Pressure Framework analysis of SYRUP (Maple Finance), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 21, 2026.*

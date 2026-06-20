@@ -1,83 +1,45 @@
 ---
-title: "USD.AI (CHIP): 80% of Supply Still Locked, AI-Compute Stablecoin Thesis"
-description: "A MrNasdog Pressure Framework read of USD.AI (CHIP): 2B circulating of 10B max (80% locked). Multi-chain across Ethereum / Arbitrum / Base / Solana. Stablecoin-adjacent project; demand depends on USDai adoption."
-canonical_url: "https://mrnasdog.com/research/chip/full"
-tags: ["crypto", "chip", "usd-ai", "ai", "stablecoin"]
+title: "CHIP Inflation Analysis · June 2026 · Mixed last 90D, projected to grow as a locked stack unlocks"
+description: "A MrNasdog Pressure Framework read of USD.AI (CHIP): fixed 10B supply, no mint or burn, but a protected sale tranche matures Jun 17 2026 — up to +17% of float. Flat now."
+canonical_url: "https://mrnasdog.com/research/chip/inflation"
+tags: ["crypto", "chip", "usd-ai", "rwa"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/research/chip/full](https://mrnasdog.com/research/chip/full)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/chip/inflation](https://mrnasdog.com/research/chip/inflation)** by MrNasdog.
 
-This is a MrNasdog Pressure Framework analysis of **USD.AI (CHIP)** on Metric 1 (sell pressure) and Metric 2 (buy pressure). Narrative (Metric 3) is covered separately. The short version: CHIP is early — 80% of total supply is still locked under team / investor / ecosystem schedules, and the buy ledger depends on whether USDai (the project's stablecoin) gets real adoption.
+CHIP is the fixed-supply governance token of USD.AI, a GPU-backed lending protocol on Base. The network mints **nothing** and burns **nothing**, so the Pressure Framework reads about **0% net** over the last 90 days. But a protected sale tranche matures on **Jun 17 2026**, putting up to **~350M CHIP** into the next window — about **+17%** of float if it all reaches the market. Our supply monitor reads **−41%**, but it is tracking USD.AI's separate synthetic dollar, not CHIP.
 
-## The setup
+## The verdict, in one paragraph
 
-USD.AI is a project building "the dollar that scales AI" — a stablecoin (USDai) and a related governance/utility token (**CHIP**) positioned around AI compute and on-chain financial primitives. CHIP is deployed on **four chains** with the same EVM contract address (`0x0c1c…1f6e`) — Ethereum, Arbitrum, Base — plus a separate SPL on Solana (`chipCAT7vi5CZtbZsn9z7iMPXvFwyAnKz3QFu8XVuHm`).
+For the 90-day window ending June 16 2026, the MrNasdog Pressure Framework reads **CHIP at about 0% net** on the last-90-day view: a **fixed 10B supply** with no protocol emission, no buyback and no burn means nothing was added or removed. The forward view is different — a protected sale unlock matures on **June 17 2026**, putting up to **~350M CHIP** (about **+17%** of the ~2.0B float) into the next window. Our supply monitor reads a **−41% change**, a gap of more than **41 percentage points** that ships a **⚠ monitor-gap chip** — but the gap is a token-identity mismatch, not a CHIP supply event: the monitor tracks USD.AI's redeemable synthetic dollar, which shrank as users withdrew, while CHIP's own supply is fixed. CHIP is best read as **fixed-supply with a large unlock overhang**.
 
-Live numbers, origin-first from usd.ai docs + CoinGecko cross-check:
+## Sell pressure: where new CHIP comes from
 
-- **Max supply: 10,000M (10B) CHIP** — fixed cap
-- **Circulating: ~2,000M (~20%)**
-- **Still locked: ~8,000M (~80%)** — distributed across team, investors, ecosystem, treasury per the project's published tokenomics
-- Price ~$0.048 → market cap ~$96M · FDV ~$480M
-- Multi-chain deployment: ETH + Arbitrum + Base + Solana
+Sell #1 — protocol inflation — is **zero**. CHIP has a fixed 10B maximum supply with no on-chain mint and no emission schedule, so the network creates no new CHIP; supply can only move as already-minted, locked tokens vest. That makes CHIP structurally non-inflationary at the protocol level — the opposite of a continuous-emission chain.
 
-## The sell ledger
+Sell #2 — vesting unlocks — is where the action is, at up to **~350M CHIP** in the next 90 days. A protected sale tranche reaches its yield-token maturity on **June 17 2026** and can enter the market, settled at a fixed valuation with the price difference refunded; the ~700M sale stock matures across the June 17 and October 14 2026 dates, so the figure here is the conservative June tranche. The large investor and contributor allocations sit behind a 12-month cliff that does not begin releasing until 2027, so they contribute zero to this window. Sell #3 — Foundation and unscheduled unlocks — is zero as a flow: roughly 8B CHIP (about 80% of supply) is locked across ecosystem, reserve, investor and contributor buckets, but none of it has a dated release inside this window. Sell #4 — long-term locked or bankruptcy — is zero.
 
-*What the design predictably puts on the market.*
+## Buy pressure: where new CHIP goes
 
-| # | Source | Tag | Value |
-|---|---|---|---|
-| 1 | Protocol inflation | — | **0** (10B fixed cap) |
-| 2 | **Vesting unlocks (still-locked allocations on schedule)** | **Tag A** | **~8B CHIP** scheduled to release per published cliffs (multi-year) |
-| 3 | Team / DAO / identified-group holdings | **Tag B** | USD.AI Foundation / Permian Labs treasuries — TBD on-chain enumeration |
-| 4 | Bankruptcy estate | — | **0** |
+Every buy-side row is **zero**. Buy #1 — programmatic buyback — does not exist: there is no contract or treasury buying CHIP on the open market. Buy #2 — protocol fee burn — is zero, because no CHIP is destroyed; protocol revenue is routed to the treasury and stakers rather than used to burn supply. Buy #3 — Foundation buy — is zero, with no disclosed discretionary open-market buying. Buy #4 — new long-term lock — is zero as a booked offset: staking CHIP for sCHIP (the protocol's first-loss risk backstop) does lock tokens, but no quantum has been announced, so the framework books nothing. The result is a one-sided ledger — nothing structural pulls CHIP off the market against the unlock.
 
-**Vesting is the structural sell line.** With ~8B CHIP still locked against ~2B circulating, **the next 24–48 months will see circulating supply roughly multiply** as cliffs release. The exact pace depends on the team / investor / ecosystem cliff schedule published in USD.AI's tokenomics — a typical 4-year linear vest from TGE means ~25%/yr of locked supply releasing.
+## Foundation and overhang
 
-**Tag B is USD.AI Foundation + Permian Labs treasury** (the entity building the protocol). Discretionary. The 4-chain deployment makes enumeration slightly more involved — need to read the contract address `0x0c1c…1f6e` on each of ETH / ARB / Base, plus the Solana SPL. Flagged TBD here.
+CHIP's defining feature is its overhang: about **8B CHIP**, roughly 80% of supply, is locked and waiting to vest. The biggest blocks are the investor allocation (about 29.6%) and the Permian Labs contributor allocation (about 23.5%), both behind a 12-month cliff that first releases in 2027; an ecosystem bucket (about 27.5%) funds airdrops, liquidity and incentives over time; and a reserve (about 19.5%) backs grants and research. None of these are a stockpile dumping today, but all are tracked. The framework books no discretionary release beyond the dated June 17 2026 sale maturity and re-checks the unlock calendar on a roughly bi-weekly walk; if any of these balances falls between refreshes, the outflow enters Sell #3 at the next refresh.
 
-**Bankruptcy estate: zero.**
+## How CHIP compares to other fixed-supply governance tokens
 
-## The buy ledger
+CHIP belongs to the class of **fixed-supply governance tokens with a heavy unlock schedule** — closer to a venture-style token launch than to an emission-driven L1. Unlike an uncapped proof-of-stake chain that mints new coins every block, CHIP issues nothing; its supply curve is entirely a vesting calendar, not a monetary policy. And unlike an exchange token that burns a slice of revenue to fight dilution, CHIP has no burn at all, so there is no structural force pulling supply back down.
 
-*What the design predictably takes off the market.*
+That puts CHIP in the same shape as most recently-launched protocol tokens with ~20% initial float and ~80% locked: the inflation story is not about block rewards, it is about the cliff and the unlock schedule. For an inflation lens, CHIP reads as flat today and front-loaded to grow — the supply that matters is the locked stack, and the framework's job is to time when it reaches the float rather than to measure a steady drip.
 
-| # | Source | Value |
-|---|---|---|
-| 1 | Revenue-backed buyback | **0** — no buyback contract today |
-| 2 | Burn mechanism | **0** structural |
-| 3 | Locked allocations | — context only |
-| 4 | Protocol-level demand (USDai adoption + AI-compute payments) | **Tag B** — entirely adoption-dependent |
+## What to watch in the next 90 days
 
-**The buy ledger is entirely thesis-dependent.** USD.AI's pitch is that CHIP underpins a stablecoin (USDai, ~$288M circulating per CoinGecko) and AI-compute payment rails. If USDai grows materially and CHIP captures a fee share, that becomes a Tag A line. **Today, nothing structural buys CHIP** — adoption is the entire bet.
+Watch the **June 17 2026** protected sale maturity — how much of the ~350M actually reaches the open market (versus being settled in stablecoins) is the single biggest swing in the read. Watch the **October 14 2026** second maturity, which sits just past this window but is the next leg of the same sale unlock. Watch the ecosystem distributions, since that bucket can release incentives without a fixed calendar. And note the big cliff is still far out — investor and contributor stock does not begin vesting until 2027. Expect the framework to keep reading far above our supply monitor for as long as that monitor points at USD.AI's synthetic dollar instead of CHIP — that gap is a token mismatch, not a CHIP unlock.
 
-## Net position
+## Summary
 
-- **Sell, Tag A:** ~8B CHIP still under multi-year vesting (estimated ~2B/yr at linear rate)
-- **Buy, Tag A:** 0 (adoption-dependent, not structural)
+CHIP is a fixed-supply governance token for USD.AI, a GPU-backed lending protocol on Base, with no mint and no burn — so the framework reads about 0% net over the last 90 days. The forward view turns up: a protected sale tranche matures June 17 2026, putting up to ~350M CHIP (about +17% of float) into the next window, with no buyback or burn to offset it. The chief risk is the ~80% locked supply working through its unlock schedule, with the big insider cliff still a year out. Our supply monitor's −41% reading tracks USD.AI's separate synthetic dollar, not CHIP, so it cannot cross-check CHIP's fixed supply.
 
-**Structurally unfavorable today** — same shape as SUI and ARB: scheduled supply up, structural buy ~0. The wrinkle: at 20% circulating, CHIP has the **largest unvested fraction in our coverage**. The adoption thesis would have to do a lot of work in the next 2 years to absorb the vest.
-
-Compared to the rest of our coverage:
-- **CHIP**: ~80% still locked, vested over multi-year — **highest unvested fraction in lineup**
-- **SUI**: ~60% still locked through ~2030 — very unfavorable
-- **ONDO**: ~17%/yr cliffs through 2029 — very unfavorable
-- **ARB**: ~37% still vesting + 27% in DAO Treasury — unfavorable
-
-## What could flip the buy ledger
-
-USDai adoption is the entire thesis. If the stablecoin reaches the multi-billion mark and CHIP captures protocol fees (or a buyback funded by stablecoin yield), the picture changes materially. Until then, the buy ledger is empty.
-
-## What to watch
-
-1. **USDai circulating supply growth** — proxy for adoption.
-2. **USD.AI published vesting schedule** — precise per-month CHIP unlock pace.
-3. **Any protocol fee → CHIP buyback proposal**.
-4. **CHIP balances on the 4 chains** — multi-chain enumeration is the Tag B project.
-
----
-
-*MrNasdog Pressure Framework analysis of CHIP, Metrics 1 &amp; 2. Data + explanation only. Not financial advice. Numbers as of May 2026.*
-
-*Data note: Total supply + circulating from CoinGecko cross-check (CHIP id `chip-2`). Multi-chain contract address `0x0c1c…1f6e` (ETH / Arbitrum / Base) + Solana SPL `chipCAT…UHm` per CoinGecko platforms field. Project homepage: `usd.ai`. Vesting cliff details require USD.AI's official tokenomics page; enumeration of Foundation / Permian Labs balances across all 4 chains is the next step.*
+*MrNasdog Pressure Framework analysis of USD.AI (CHIP), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 16, 2026.*

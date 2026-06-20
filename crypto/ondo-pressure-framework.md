@@ -44,4 +44,4 @@ ONDO is a fixed 10B-cap RWA governance token with no scheduled inflation, cliff-
 
 ---
 
-*MrNasdog Pressure Framework analysis of ONDO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 16, 2026.*
+*MrNasdog Pressure Framework analysis of ONDO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 21, 2026.*

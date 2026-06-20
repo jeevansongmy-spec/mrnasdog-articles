@@ -1,4 +1,11 @@
 {
+  "2z-pressure-framework": {
+    "devto_id": 3943998,
+    "devto_url": "https://dev.to/mrnasdog/2z-inflation-analysis-june-2026-supply-frozen-until-the-first-unlock-51ig",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/2z-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 100
+  },
   "aave-inflation-analysis": {
     "devto_id": 3861211,
     "devto_url": "https://dev.to/mrnasdog/aave-aave-inflation-analysis-50myr-buyback-beats-safety-module-emission-7pe",
@@ -27,6 +34,13 @@
     "site": "crypto",
     "telegram_message_id": 45
   },
+  "apenft-pressure-framework": {
+    "devto_id": 3943532,
+    "devto_url": "https://dev.to/mrnasdog/nft-inflation-analysis-june-2026-fixed-supply-distribution-finished-sitting-flat-2pp",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/apenft-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 95
+  },
   "apt-pressure-framework": {
     "devto_id": 3882198,
     "devto_url": "https://dev.to/mrnasdog/apt-inflation-analysis-june-2026-supply-growing-projected-to-keep-growing-4npf",
@@ -48,6 +62,20 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/atom-inflation-analysis.md",
     "site": "crypto",
     "telegram_message_id": 46
+  },
+  "axs-pressure-framework": {
+    "devto_id": 3948233,
+    "devto_url": "https://dev.to/mrnasdog/axs-inflation-analysis-june-2026-supply-growing-but-the-growth-is-fading-fast-387",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/axs-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 111
+  },
+  "bdx-pressure-framework": {
+    "devto_id": 3943329,
+    "devto_url": "https://dev.to/mrnasdog/bdx-inflation-analysis-june-2026-mild-inflation-driven-by-a-quarterly-release-4flc",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/bdx-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 93
   },
   "beat-pressure-framework": {
     "devto_id": 3882199,
@@ -100,6 +128,13 @@
     "site": "crypto",
     "telegram_message_id": 58
   },
+  "cfx-pressure-framework": {
+    "devto_id": 3943620,
+    "devto_url": "https://dev.to/mrnasdog/cfx-inflation-analysis-june-2026-net-inflationary-mild-cooling-395m",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/cfx-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 96
+  },
   "chip-pressure-framework": {
     "devto_id": 3740825,
     "devto_url": "https://dev.to/mrnasdog/usdai-chip-80-of-supply-still-locked-ai-compute-stablecoin-thesis-4dpa",
@@ -108,12 +143,48 @@
     "site": "crypto",
     "telegram_message_id": 27
   },
+  "chz-pressure-framework": {
+    "devto_id": 3914120,
+    "devto_url": "https://dev.to/mrnasdog/chz-inflation-analysis-june-2026-decaying-mint-still-ahead-of-the-burn-iad",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/chz-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 76
+  },
   "coai-pressure-framework": {
     "devto_id": 3898616,
     "devto_url": "https://dev.to/mrnasdog/coai-inflation-analysis-june-2026-modest-community-vesting-the-big-unlocks-still-locked-3i4b",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/coai-pressure-framework.md",
     "site": "crypto",
     "telegram_message_id": 70
+  },
+  "crv-pressure-framework": {
+    "devto_id": 3914123,
+    "devto_url": "https://dev.to/mrnasdog/crv-inflation-analysis-june-2026-fixed-emissions-no-buyback-to-offset-49kn",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/crv-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 77
+  },
+  "dash-pressure-framework": {
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/dash-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 78
+  },
+  "dcr-pressure-framework": {
+    "devto_id": 3948225,
+    "devto_url": "https://dev.to/mrnasdog/dcr-inflation-analysis-june-2026-supply-growing-projected-to-keep-growing-2gab",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/dcr-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 110
+  },
+  "dydx-pressure-framework": {
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/dydx-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 79
+  },
+  "edge-pressure-framework": {
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/edge-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 80
   },
   "ena-inflation-analysis": {
     "devto_id": 3861212,
@@ -137,12 +208,67 @@
     "site": "crypto",
     "telegram_message_id": 23
   },
+  "ethfi-pressure-framework": {
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/ethfi-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 81
+  },
+  "fet-pressure-framework": {
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/fet-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 82
+  },
+  "fil-pressure-framework": {
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/fil-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 83
+  },
+  "floki-pressure-framework": {
+    "devto_id": 3943911,
+    "devto_url": "https://dev.to/mrnasdog/floki-inflation-analysis-june-2026-supply-slowly-shrinking-on-continuous-burns-i2b",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/floki-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 99
+  },
+  "flr-pressure-framework": {
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/flr-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 84
+  },
+  "gno-pressure-framework": {
+    "devto_id": 3914133,
+    "devto_url": "https://dev.to/mrnasdog/gno-inflation-analysis-june-2026-a-capped-supply-that-governance-keeps-shrinking-19ob",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/gno-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 85
+  },
+  "grass-pressure-framework": {
+    "devto_id": 3943788,
+    "devto_url": "https://dev.to/mrnasdog/grass-inflation-analysis-june-2026-supply-growing-steadily-on-monthly-vesting-2iag",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/grass-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 98
+  },
+  "grt-pressure-framework": {
+    "devto_id": 3948214,
+    "devto_url": "https://dev.to/mrnasdog/grt-inflation-analysis-june-2026-issuance-in-burns-out-supply-flat-3360",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/grt-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 108
+  },
   "gt-pressure-framework": {
     "devto_id": 3868040,
     "devto_url": "https://dev.to/mrnasdog/gt-inflation-analysis-june-2026-supply-shrinking-projected-to-keep-shrinking-2h36",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/gt-pressure-framework.md",
     "site": "crypto",
     "telegram_message_id": 47
+  },
+  "hash-pressure-framework": {
+    "devto_id": 3948190,
+    "devto_url": "https://dev.to/mrnasdog/hash-inflation-analysis-june-2026-supply-shrinking-2973",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/hash-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 102
   },
   "htx-pressure-framework": {
     "devto_id": 3868041,
@@ -173,6 +299,39 @@
     "site": "crypto",
     "telegram_message_id": 10
   },
+  "imx-pressure-framework": {
+    "devto_id": 3914134,
+    "devto_url": "https://dev.to/mrnasdog/imx-inflation-analysis-june-2026-capped-fully-unlocked-structurally-flat-7j8",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/imx-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 86
+  },
+  "inj-pressure-framework": {
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/inj-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 87
+  },
+  "iota-pressure-framework": {
+    "devto_id": 3948219,
+    "devto_url": "https://dev.to/mrnasdog/iota-inflation-analysis-june-2026-supply-growing-with-nothing-to-take-it-back-3mhl",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/iota-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 109
+  },
+  "jasmy-pressure-framework": {
+    "devto_id": 3948204,
+    "devto_url": "https://dev.to/mrnasdog/jasmy-inflation-analysis-june-2026-capped-supply-distribution-finished-sitting-flat-3iif",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/jasmy-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 105
+  },
+  "jst-pressure-framework": {
+    "devto_id": 3943132,
+    "devto_url": "https://dev.to/mrnasdog/jst-inflation-analysis-june-2026-a-quarterly-burn-is-shrinking-the-supply-3461",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/jst-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 91
+  },
   "jto-pressure-framework": {
     "devto_id": 3908517,
     "devto_url": "https://dev.to/mrnasdog/jto-inflation-analysis-june-2026-vesting-with-nothing-to-absorb-it-ea1",
@@ -186,6 +345,11 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/jup-inflation-analysis.md",
     "site": "crypto",
     "telegram_message_id": 44
+  },
+  "kaia-pressure-framework": {
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/kaia-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 88
   },
   "kas-inflation-analysis": {
     "devto_id": 3864493,
@@ -201,6 +365,25 @@
     "site": "crypto",
     "telegram_message_id": 49
   },
+  "kite-pressure-framework": {
+    "devto_id": 3943428,
+    "devto_url": "https://dev.to/mrnasdog/kite-inflation-analysis-june-2026-supply-growing-on-the-early-vesting-ramp-17i",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/kite-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 94
+  },
+  "lab-pressure-framework": {
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/lab-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 89
+  },
+  "ldo-pressure-framework": {
+    "devto_id": 3948201,
+    "devto_url": "https://dev.to/mrnasdog/ldo-inflation-analysis-june-2026-supply-shrinking-projected-to-keep-shrinking-503k",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/ldo-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 104
+  },
   "link-pressure-framework": {
     "devto_id": 3739372,
     "devto_url": "https://dev.to/mrnasdog/chainlink-link-no-inflation-but-273m-link-in-chainlink-labs-hands-5h5e",
@@ -208,6 +391,11 @@
     "internal_ref": "mrnasdog.com_7",
     "site": "crypto",
     "telegram_message_id": 19
+  },
+  "lit-pressure-framework": {
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/lit-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 90
   },
   "ltc-pressure-framework": {
     "devto_id": 3868052,
@@ -260,6 +448,13 @@
     "site": "crypto",
     "telegram_message_id": 52
   },
+  "ohm-pressure-framework": {
+    "devto_id": 3944047,
+    "devto_url": "https://dev.to/mrnasdog/ohm-inflation-analysis-june-2026-supply-shrinking-as-the-burn-outruns-the-mint-oeo",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/ohm-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 101
+  },
   "okb-pressure-framework": {
     "devto_id": 3740799,
     "devto_url": "https://dev.to/mrnasdog/okb-after-the-2025-reset-a-hard-21m-cap-3968",
@@ -298,6 +493,13 @@
     "site": "crypto",
     "telegram_message_id": 28
   },
+  "pendle-pressure-framework": {
+    "devto_id": 3948191,
+    "devto_url": "https://dev.to/mrnasdog/pendle-inflation-analysis-june-2026-emissions-cut-to-a-low-terminal-rate-1pl1",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/pendle-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 103
+  },
   "pepe-pressure-framework": {
     "devto_id": 3876241,
     "devto_url": "https://dev.to/mrnasdog/pepe-inflation-analysis-june-2026-mixed-flows-supply-roughly-steady-5feh",
@@ -325,6 +527,11 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/qnt-inflation-analysis.md",
     "site": "crypto",
     "telegram_message_id": 40
+  },
+  "qnt-pressure-framework": {
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/qnt-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 112
   },
   "rain-pressure-framework": {
     "devto_id": 3876251,
@@ -370,6 +577,13 @@
     "site": "growth",
     "telegram_message_id": 29
   },
+  "strk-pressure-framework": {
+    "devto_id": 3948207,
+    "devto_url": "https://dev.to/mrnasdog/strk-inflation-analysis-june-2026-monthly-cliffs-keep-growing-the-float-12l8",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/strk-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 106
+  },
   "sui-pressure-framework": {
     "devto_id": 3739378,
     "devto_url": "https://dev.to/mrnasdog/sui-sui-no-inflation-but-60-of-supply-still-unvesting-2fmi",
@@ -378,6 +592,13 @@
     "site": "crypto",
     "telegram_message_id": 22
   },
+  "syrup-pressure-framework": {
+    "devto_id": 3950746,
+    "devto_url": "https://dev.to/mrnasdog/syrup-inflation-analysis-june-2026-supply-growing-but-the-emission-ends-in-september-cel",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/syrup-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 113
+  },
   "tao-pressure-framework": {
     "devto_id": 3736215,
     "devto_url": "https://dev.to/mrnasdog/bittensor-tao-27-inflation-now-halving-in-10-months-5bpi",
@@ -385,6 +606,13 @@
     "internal_ref": "mrnasdog.com_6",
     "site": "crypto",
     "telegram_message_id": 31
+  },
+  "tel-pressure-framework": {
+    "devto_id": 3948208,
+    "devto_url": "https://dev.to/mrnasdog/tel-inflation-analysis-june-2026-supply-roughly-flat-on-a-fixed-cap-en4",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/tel-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 107
   },
   "the-quiet-strategy": {
     "devto_id": 3727637,
@@ -416,6 +644,13 @@
     "site": "crypto",
     "telegram_message_id": 20
   },
+  "vvv-pressure-framework": {
+    "devto_id": 3943242,
+    "devto_url": "https://dev.to/mrnasdog/vvv-inflation-analysis-june-2026-supply-growing-projected-to-keep-growing-c3b",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/vvv-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 92
+  },
   "wld-inflation-analysis": {
     "devto_id": 3866905,
     "devto_url": "https://dev.to/mrnasdog/worldcoin-wld-inflation-analysis-15-year-linear-unlock-still-in-heavy-years-1bg6",
@@ -423,12 +658,26 @@
     "site": "crypto",
     "telegram_message_id": 42
   },
+  "xdc-pressure-framework": {
+    "devto_id": 3950747,
+    "devto_url": "https://dev.to/mrnasdog/xdc-inflation-analysis-june-2026-slow-masternode-emission-no-real-offset-5gj4",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/xdc-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 114
+  },
   "xlm-inflation-analysis": {
     "devto_id": 3861205,
     "devto_url": "https://dev.to/mrnasdog/stellar-xlm-inflation-analysis-zero-protocol-mint-sdf-deploys-are-the-only-flow-180g",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/xlm-inflation-analysis.md",
     "site": "crypto",
     "telegram_message_id": 33
+  },
+  "xpl-pressure-framework": {
+    "devto_id": 3943723,
+    "devto_url": "https://dev.to/mrnasdog/xpl-inflation-analysis-june-2026-supply-growing-on-a-one-off-public-sale-cliff-84p",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/xpl-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 97
   },
   "xrp-pressure-framework": {
     "devto_id": 3894081,

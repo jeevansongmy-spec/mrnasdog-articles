@@ -1,81 +1,45 @@
 ---
-title: "NEAR Protocol (NEAR): Validator Inflation, Empty Buy Side"
-description: "A MrNasdog Pressure Framework read of NEAR Protocol on Metric 1 (sell pressure) and Metric 2 (buy pressure): 2.5% annual inflation paid entirely to validators, against a structural buy ledger that's effectively zero. Numbers pulled origin-first from the NEAR mainnet RPC."
-canonical_url: "https://mrnasdog.com/research/near/full"
-tags: ["crypto", "near", "layer1", "defi"]
+title: "NEAR Inflation Analysis · June 2026 · Halved mint, with a fee buyback closing in"
+description: "A MrNasdog Pressure Framework read of NEAR Protocol (NEAR): ~8M / 90D of halved 2.5% epoch issuance vs a fee-funded buyback-and-burn. Framework +0.4% net; monitor +0.74%, a small clean gap."
+canonical_url: "https://mrnasdog.com/research/near/inflation"
+tags: ["crypto", "near", "near-protocol", "proof-of-stake"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/research/near/full](https://mrnasdog.com/research/near/full)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/near/inflation](https://mrnasdog.com/research/near/inflation)** by MrNasdog.
 
-This is a **MrNasdog Pressure Framework** analysis of **NEAR Protocol (NEAR)** on Metric 1 (sell pressure) and Metric 2 (buy pressure). Narrative (Metric 3) is covered separately. The short version: NEAR mints 2.5% new supply every year to pay validators, against a buy ledger that is structurally empty.
+NEAR Protocol mints about **8M NEAR** over 90 days at its new **2.5%** yearly maximum — half the old rate after the October 2025 halving upgrade — while a fee-funded buyback and a gas burn remove roughly **2.5M** back out. The mint still leads, so the Pressure Framework reads about **+0.4% net**. Our supply monitor reads **+0.74%** realized — a small gap, well inside tolerance, with no warning chip.
 
-## The setup
+## The verdict, in one paragraph
 
-NEAR Protocol is a layer-1 proof-of-stake smart-contract platform that pays its validators by minting new NEAR. The protocol parameters, read directly from the mainnet RPC (`rpc.mainnet.near.org` → `EXPERIMENTAL_protocol_config`):
+For the 90-day window ending June 16 2026, the MrNasdog Pressure Framework reads **NEAR at +0.42% net** on the forward view, with protocol inflation still out-issuing the combined buyback-and-burn. Our supply monitor reads the realized last-90-day change at **+0.74%**, versus the framework's **+0.42%** read for the same window — a gap of about **0.3 percentage points**, inside the half-point tolerance, so **no monitor-gap chip ships**. The small residual is realized epoch issuance running near the 2.5% maximum while less than half the supply is staked. NEAR is now **mildly inflationary and trending toward neutral**: the October 2025 halving cut the mint in half, and a growing fee-funded buyback is steadily eating the rest.
 
-- **`max_inflation_rate: 1/40` = 2.5% per year** (the actual cap, not a temporary low; older third-party docs that cite "5%" are outdated)
-- **`protocol_reward_rate: 0/1` = 0%** — the share of inflation routed to the protocol treasury was reduced to zero by governance. Today all inflation goes directly to validators, none to a treasury.
-- Total supply: ~1,296.2M NEAR · circulating ~1,249.8M (~96.4%) · staked ~595.6M (~47.7% of total, ~409 active validators)
-- Price ~$2.43 → market cap ~$3.16B (May 2026)
+## Sell pressure: where new NEAR comes from
 
-The "treasury share zeroed" detail matters for what comes next. Pre-2025-ish, 10% of NEAR's annual inflation flowed into a protocol treasury that funded grants and ecosystem ops — meaning there was a growing on-chain NEAR pool the foundation could theoretically have used for buybacks or burns. With that line zeroed, all dilution goes to validators, and there is no protocol-level NEAR accumulating anywhere to push back on supply.
+Sell #1 — protocol inflation — is the whole story, at about **8M NEAR** over the next 90 days. NEAR Protocol mints new NEAR every epoch to reward validators, and the Halving Upgrade (Protocol Version 81), completed on mainnet October 30 2025, cut the maximum annual issuance from **5% to 2.5%**. At the new rate, 2.5% of the ~1.3B circulating supply over a quarter is roughly 8M NEAR, split **90% to validators** and **10% to the protocol treasury** — all newly issued, so it counts once, here.
 
-## The sell ledger
+Sell #2 — vesting unlocks — is **zero**: roughly 99% of all NEAR is already circulating and the token is fully unlocked, so no team, backer or treasury cliff hits the market in the window. Sell #3 — Foundation and unscheduled unlocks — is also zero as a flow, with no dated discretionary release of foundation or treasury NEAR pending. Sell #4 — long-term locked or bankruptcy — is zero, because no bankruptcy estate or court distribution applies to NEAR.
 
-*What the design predictably puts on the market.*
+## Buy pressure: where new NEAR goes
 
-| # | Source | Tag | Value |
-|---|---|---|---|
-| 1 | Protocol inflation | **Tag A** | **~32.5M NEAR / yr** (~2.51% net, observed) |
-| 2 | Vesting unlocks (still-locked allocations) | — | ~0 |
-| 3 | Team / DAO / identified-group holdings | **Tag B** | NEAR Foundation lockups — TBD pending on-chain enumeration |
-| 4 | Bankruptcy estate distributions | — | 0 |
+Buy #1 — programmatic buyback — is the larger of two offsets, at about **2M NEAR** over 90 days. Since the NEAR Intents fee switch went live February 23 2026, 100% of the fees from cross-chain swaps are routed into buying NEAR on the open market for buyback-and-burn; about **2.1M NEAR** has been directed so far, and the framework counts the realized amount rather than the higher annualized run-rate. Buy #2 — protocol fee burn — adds roughly **0.5M NEAR** over 90 days: **70%** of every transaction's base-layer gas fee is burned on-chain and gone for good, a real EIP-1559-style sink that is small at current activity. Buy #3 — Foundation buy — and Buy #4 — new long-term lock — are both zero, with no discretionary open-market buying or new escrow announced beyond the Intents buyback.
 
-The headline is **inflation**. Net observed supply growth across a 6-day window in May 2026 was ~89,000 NEAR/day, or **~32.5M NEAR/year**. That's what validators absorb in exchange for ~4.84% staking APY — and the portion they sell to cover operating costs is the protocol-level sell pressure.
+## Foundation and overhang
 
-The original 4-year vests on team, backers, and contributors started at mainnet launch in **July 2020** and finished by **mid-2024**. Today they contribute effectively nothing.
+NEAR has no classic unlock overhang — the token is essentially fully distributed, with about 99% of supply already circulating. What it does have is one structural, continuous allocation inside the epoch reward itself: the 10% treasury slice of every block's mint, accruing to the protocol rather than to validators. This is not a stockpile waiting to dump; it is a fixed share of a now-halved issuance, monitored as it accrues. The framework books no discretionary release beyond protocol inflation and re-checks the treasury balance and the Intents buyback flow on a roughly bi-weekly walk; if the treasury balance falls faster than the schedule, the outflow enters Sell #3 at the next refresh.
 
-The Tag B watch is **NEAR Foundation lockup contracts**. The official protocol-treasury account (`treasury.near`) currently holds only ~89K NEAR — small, because the 10% treasury share of inflation was zeroed. But NEAR Foundation's *legacy operating reserves* (from the original allocation) remain large, sit in a network of lockup contracts, and are discretionary. Enumerating those balances on-chain is a project of its own; the article flags this as a known unknown rather than guessing a number.
+## How NEAR compares to other uncapped proof-of-stake chains
 
-There is no FTX-style bankruptcy estate distributing NEAR. Source #4 is zero.
+NEAR belongs to the class of **uncapped proof-of-stake L1s with continuous epoch issuance** — closer to a continuous-emission chain than to a hard-capped, halving-model coin. Unlike a fixed-supply token, NEAR has no ceiling; unlike a pure inflation chain, it pairs the mint with both a gas burn and a fee-funded buyback. The October 2025 halving moved it decisively toward the lower-inflation end of that class: at 2.5% gross, NEAR now issues at half its historical pace, and the two burn sinks scale with on-chain and cross-chain activity rather than with a fixed schedule.
 
-## The buy ledger
+The closest structural analogue is Ethereum, which also pairs continuous staking issuance with an EIP-1559 base-fee burn and flips net-deflationary only when activity is high enough. NEAR adds a second lever Ethereum lacks: the Intents buyback, which converts cross-chain swap fees directly into open-market NEAR purchases. That gives NEAR two paths to neutrality — rising gas activity and rising Intents volume — so its net inflation should keep easing as either climbs. For an inflation lens, NEAR reads as mildly inflationary today but structurally biased downward, the opposite of a chain whose only force is a fixed mint.
 
-*What the design predictably takes off the market.*
+## What to watch in the next 90 days
 
-| # | Source | Value |
-|---|---|---|
-| 1 | Revenue-backed buyback | **0** — no structural buyback contract |
-| 2 | Burn mechanism | **Tag A, ~426K NEAR / yr** (~0.03% of supply) |
-| 3 | Locked allocations | — context only (~595.6M staked is functionally liquid) |
-| 4 | Protocol-level demand (gas) | **Tag A, small** — ~14 TPS sustained, ~$2K/day in txn fees |
+Watch the NEAR Intents fee volume — the buyback scales directly with it, and a sustained jump in cross-chain swap activity is the single fastest way the net rate falls toward zero. Watch the staking ratio: with less than half of supply staked, realized epoch issuance sits near the 2.5% maximum, so a higher stake share would not raise the mint but would change validator yields. Note the gas-burn trend, since 70% of base-layer fees burn and rise with on-chain usage. And expect the framework to keep reading slightly below our supply monitor while realized issuance runs near the cap — that gap is small and within tolerance, not a new unlock.
 
-NEAR has no contract anywhere that buys NEAR with protocol revenue. The Nightshade gas-fee burn does destroy NEAR on every block — but at the chain's current on-chain volume (a few thousand dollars of daily transaction fees) it cancels only about **1.3% of inflation**. Trackable, predictable, real — and functionally negligible at today's activity level. The ~595.6M staked NEAR is context (the framework's existing rule treats short-unbond stakes as liquid, same as HYPE/BNB).
+## Summary
 
-## Net position
+NEAR is an uncapped proof-of-stake token whose supply grows on continuous epoch issuance, now halved to a 2.5% yearly maximum after the October 2025 upgrade. The chain mints about 8M NEAR over 90 days, while a fee-funded Intents buyback and a 70% gas burn remove roughly 2.5M back out, leaving the framework at about +0.4% net. Our supply monitor reads +0.74% realized, a gap of about 0.3 points that stays inside tolerance with no warning chip. NEAR stays mildly inflationary on the active float today, but with two activity-linked burn sinks pushing it toward neutral as usage grows.
 
-Combine the ledgers and the structural picture is clean:
-
-- **Sell, Tag A:** ~32.5M NEAR / year (inflation).
-- **Buy, Tag A:** ~0.4M NEAR / year (gas burn).
-- **Net structural dilution:** ~32M NEAR / year ≈ ~$78M / year at the current price.
-
-This is the same shape as Ondo — scheduled supply up, structural buy ≈ 0 — but driven by smooth annual inflation rather than annual cliffs. The unfavorable verdict applies for the same reason: price has to come from discretionary demand growing faster than the structural supply tide, and the framework gives no credit for that.
-
-## The only entry that could flip the buy ledger
-
-The single mechanism that would move NEAR's buy ledger off zero is the same as for Ondo: a fee-switch-style change that routes some portion of fees (or restored treasury inflation) to a structural buyback. A reinstatement of `protocol_reward_rate` to a non-zero share, paired with a buyback policy on the accumulated treasury, would be the on-chain version. Until governance does that, NEAR's structural conditions on Metric 1 + Metric 2 are unfavorable.
-
-## What to watch
-
-1. **Any governance proposal restoring the protocol treasury share of inflation** (currently `protocol_reward_rate: 0/1`). This is the precondition for everything else.
-2. **Any governance proposal introducing a structural buyback** (none today).
-3. **NEAR Foundation lockup balances** — once enumerated, sets the Tag B size precisely.
-4. **NEAR Chain Abstraction / Intents adoption** — drives on-chain gas burn higher. Today the burn is too small to matter; if activity scales 100× the offset becomes meaningful.
-
----
-
-*MrNasdog Pressure Framework analysis of NEAR, Metrics 1 & 2. Data + explanation only. Not financial advice. Numbers as of May 2026.*
-
-*Data note: inflation rate, treasury share, protocol parameters, supply numbers, and validator stats are origin-first from the NEAR mainnet RPC (`rpc.mainnet.near.org` → `EXPERIMENTAL_protocol_config` and `query`/`view_account`). Daily supply growth + gas burn computed from NearBlocks daily stats. NEAR Foundation lockup balance noted as TBD pending on-chain enumeration of the Foundation's lockup-contract network.*
+*MrNasdog Pressure Framework analysis of NEAR Protocol (NEAR), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 16, 2026.*

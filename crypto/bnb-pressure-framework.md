@@ -12,7 +12,7 @@ BNB mints no new supply at all. Nothing enters the sell side, while the quarterl
 
 ## The verdict, in one paragraph
 
-For the 90-day window ending June 16 2026, the MrNasdog Pressure Framework reads **BNB at −1.18% net** — supply is contracting. The independent inflation monitor reads **−1.19%**, a gap of just **0.01 percentage points**, well inside tolerance, so no data-conflict chip is raised. The structure is unusually clean: there is no issuance, no vesting, and no team reserve releasing into the market. The only flows are burns, which only remove supply. BNB is **deflationary by structural buyback-and-burn**, and the contraction continues until total supply reaches the protocol's 100M floor.
+For the 90-day window ending June 21 2026, the MrNasdog Pressure Framework reads **BNB at −1.18% net** — supply is contracting. The independent inflation monitor reads **−1.19%**, a gap of just **0.01 percentage points**, well inside tolerance, so no data-conflict chip is raised. The structure is unusually clean: there is no issuance, no vesting, and no team reserve releasing into the market. The only flows are burns, which only remove supply. BNB is **deflationary by structural buyback-and-burn**, and the contraction continues until total supply reaches the protocol's 100M floor.
 
 ## Sell pressure: where new BNB comes from
 
@@ -46,4 +46,4 @@ BNB is deflationary by design. There is no issuance, no vesting, and no team res
 
 ---
 
-*MrNasdog Pressure Framework analysis of BNB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 16, 2026.*
+*MrNasdog Pressure Framework analysis of BNB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 21, 2026.*
