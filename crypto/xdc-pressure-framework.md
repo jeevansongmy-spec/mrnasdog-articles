@@ -1,6 +1,6 @@
 ---
 title:         "XDC Inflation Analysis · June 2026 · Slow masternode emission, no real offset"
-description:   "Slow masternode emission, no real offset: XDC mints ~21.4M XDC/90d (+0.11%) with no buyback and a negligible fee burn. Framework reads +0.11% net (monitor −0.11%, no chip)."
+description:   "Slow masternode emission, no real offset: XDC mints ~21.4M XDC/90d (+0.11%) with no buyback and a negligible fee burn. Framework reads +0.11% net (monitor −0.02%, no chip)."
 canonical_url: "https://mrnasdog.com/research/xdc/inflation"
 tags:          ["crypto", "xdc", "xdcnetwork", "rwa"]
 published:     true
@@ -8,11 +8,11 @@ published:     true
 
 *Originally published at [mrnasdog.com/research/xdc/inflation](https://mrnasdog.com/research/xdc/inflation)*
 
-XDC Network mints **5.5 XDC per block** at ~2-second blocks — about **21.4M XDC** over 90 days, or roughly **+0.11%**. There is no buyback, the EIP-1559 fee burn is negligible at sub-penny fees, and no vesting cliff lands in the window, so the framework reads about **+0.11% net** — near-flat. Our supply monitor reads **−0.11%**, a gap of about **0.22 percentage points** — well within tolerance, so no warning chip.
+XDC Network mints **5.5 XDC per block** at ~2-second blocks — about **21.4M XDC** over 90 days, or roughly **+0.11%**. There is no buyback, the EIP-1559 fee burn is negligible at sub-penny fees, and no vesting cliff lands in the window, so the framework reads about **+0.11% net** — near-flat. Our supply monitor reads **−0.02%**, a gap of about **0.13 percentage points** — well within tolerance, so no warning chip.
 
 ## The verdict, in one paragraph
 
-For the 90-day window ending June 21 2026, the MrNasdog Pressure Framework reads **XDC at about +0.11% net**, essentially flat. The entire sell side is one number: masternode block-reward emission of **5.5 XDC per block**, which mints roughly **21.4M XDC** a quarter against the ~19.95B already circulating. There is no vesting unlock in the window, no foundation release, no buyback and no meaningful burn, so almost nothing pushes the other way. Our supply monitor reads the realized last-90-day change at **−0.11%** — a gap of about **0.22 percentage points** from the framework's +0.11%, comfortably inside the 0.5-point tolerance, so XDC ships with **no monitor-gap chip**. The monitor reads slightly negative because the small fee burn and fresh masternode lock-ups trimmed circulating just below the gross emission this window. XDC is best read as **structurally near-flat with mild, uncapped inflation**.
+For the 90-day window ending June 25 2026, the MrNasdog Pressure Framework reads **XDC at about +0.11% net**, essentially flat. The entire sell side is one number: masternode block-reward emission of **5.5 XDC per block**, which mints roughly **21.4M XDC** a quarter against the ~19.95B already circulating. There is no vesting unlock in the window, no foundation release, no buyback and no meaningful burn, so almost nothing pushes the other way. Our supply monitor reads the realized last-90-day change at **−0.02%** — a gap of about **0.13 percentage points** from the framework's +0.11%, comfortably inside the 0.5-point tolerance, so XDC ships with **no monitor-gap chip**. The monitor reads slightly negative because the small fee burn and fresh masternode lock-ups trimmed circulating just below the gross emission this window. XDC is best read as **structurally near-flat with mild, uncapped inflation**.
 
 ## Sell pressure: where new XDC comes from
 
@@ -40,6 +40,8 @@ The main scheduled item is simply the absence of one: the next vesting cliff is 
 
 ## Summary
 
-XDC is an uncapped XDPoS Layer 1 that mints 5.5 XDC per block — about 21.4M XDC over 90 days, roughly +0.43% a year. With no vesting cliff in the window, no buyback, and an EIP-1559 fee burn too small to count at sub-penny fees, the framework reads about +0.11% net — near-flat. Our supply monitor reads −0.11% realized, a gap of about 0.22 percentage points that stays inside tolerance, so no warning chip. The key risks are the large ~18B non-circulating reserve, which unlocks on a yearly cliff (next Feb 5 2027), and a possible reward-mechanism upgrade that would re-cut the per-block emission. XDC stays structurally near-flat with mild, uncapped inflation.
+XDC is an uncapped XDPoS Layer 1 that mints 5.5 XDC per block — about 21.4M XDC over 90 days, roughly +0.43% a year. With no vesting cliff in the window, no buyback, and an EIP-1559 fee burn too small to count at sub-penny fees, the framework reads about +0.11% net — near-flat. Our supply monitor reads −0.02% realized, a gap of about 0.13 percentage points that stays inside tolerance, so no warning chip. The key risks are the large ~18B non-circulating reserve, which unlocks on a yearly cliff (next Feb 5 2027), and a possible reward-mechanism upgrade that would re-cut the per-block emission. XDC stays structurally near-flat with mild, uncapped inflation.
 
-*MrNasdog Pressure Framework analysis of XDC (XDC Network), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 21, 2026.*
+---
+
+*MrNasdog Pressure Framework analysis of XDC (XDC Network), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 25, 2026.*
