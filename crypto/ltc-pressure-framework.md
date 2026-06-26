@@ -8,17 +8,17 @@ published: true
 
 > Originally published at **[mrnasdog.com/research/ltc/inflation](https://mrnasdog.com/research/ltc/inflation)** by MrNasdog.
 
-Litecoin (LTC) mints about **0.32M LTC** every 90 days from its fixed proof-of-work block reward of 6.25 LTC, with nothing offsetting it. Framework reading: **+0.42% net** on a ~77.3M circulating base against an 84M hard cap — about 92% mined, with the next halving due Jul 27 2027.
+Litecoin (LTC) mints about **0.32M LTC** every 90 days from its fixed proof-of-work block reward of 6.25 LTC, with nothing offsetting it. Framework reading: **+0.42% net** on a ~77.32M circulating base against an 84M hard cap — about 92% mined, with the next halving due Jul 27 2027.
 
 ## The verdict, in one paragraph
 
-For the 90-day window ending June 11 2026, the framework reads **LTC at +0.42% net inflation** — pure mining emission, no offsetting flow. The aggregator monitor reads **+0.41%**, a **0.01-percentage-point** gap — the cleanest agreement in the catalog, no chip. Litecoin is a quiet chain: fourteen years of clockwork proof-of-work emission, fully predictable, slowly approaching its hard cap.
+For the 90-day window ending June 26 2026, the framework reads **LTC at +0.42% net inflation** — pure mining emission, no offsetting flow. The aggregator monitor reads **+0.44%**, a **0.02-percentage-point** gap — among the cleanest agreements in the catalog, no chip. Litecoin is a quiet chain: fourteen years of clockwork proof-of-work emission, fully predictable, slowly approaching its hard cap.
 
 ## Sell pressure: where new LTC comes from
 
 One source only. Sell #1 (protocol inflation) booked **~0.32M LTC**: the proof-of-work block reward pays **6.25 LTC** per block at roughly 2.5-minute blocks — 576 blocks and ~3,600 LTC per day, or 324,000 LTC per 90 days. The schedule halves every 840,000 blocks; the next halving to 3.125 LTC lands at block 3,360,000, around **Jul 27 2027** — outside the next 90 days. Sell #2 (vesting unlocks) is **0** forever: Litecoin launched fair in Oct 2011 with no team allocation, no investor cohort, and no vesting schedule. Sell #3 (Foundation and unscheduled unlocks) is **0** — the project's foundation is donation-funded with no protocol-level token allocation. Sell #4 (bankruptcy) is **0**.
 
-The arithmetic is worth showing because so few coins allow it this cleanly. Litecoin targets a 2.5-minute block; a day holds 1,440 minutes, so the chain produces ~576 blocks a day. At **6.25 LTC** each, that is 3,600 LTC daily — 324,000 LTC across 90 days, or 0.42% of the 77.3M circulating base. The monitor measured +0.41% over the same window from the supply data alone, independently of this derivation. When a protocol's entire supply policy fits in two lines of multiplication and the observed chain matches it to a hundredth of a percent, the framework has nothing left to investigate — which is precisely the point of owning an asset like this.
+The arithmetic is worth showing because so few coins allow it this cleanly. Litecoin targets a 2.5-minute block; a day holds 1,440 minutes, so the chain produces ~576 blocks a day. At **6.25 LTC** each, that is 3,600 LTC daily — 324,000 LTC across 90 days, or 0.42% of the 77.32M circulating base. The monitor measured +0.44% over the same window from the supply data alone, independently of this derivation. When a protocol's entire supply policy fits in two lines of multiplication and the observed chain matches it to two hundredths of a percent, the framework has nothing left to investigate — which is precisely the point of owning an asset like this.
 
 ## Buy pressure: where new LTC goes
 
@@ -38,12 +38,12 @@ It is also worth naming what Litecoin does not have, because the absences are st
 
 ## What to watch in the next 90 days
 
-Genuinely little. The **Jul 27 2027 halving** is the only scheduled supply event and it sits over a year away; the framework reading stays ~+0.4% until then. Hashrate swings can wobble block timing by a few percent, which is noise at this scale. The only structural watch line is protocol governance — any proposal touching the emission schedule — and none exists. The next material change to this page should be the halving itself.
+Genuinely little. The **Jul 27 2027 halving** is the only scheduled supply event and it sits over a year away; the framework reading stays ~+0.4% until then. Hashrate swings can wobble block timing by a few percent, which is noise at this scale. The one in-window event worth naming was the **MWEB validation bug** exploited in March 2026 (block 3,073,882), which let an attacker peg out a fake 85,034 LTC — but the chain was reorganised, the funds recovered, and the official postmortem confirmed **no lasting inflation**, so it does not enter the ledger. The only structural watch line is protocol governance — any proposal touching the emission schedule — and none exists. The next material change to this page should be the halving itself.
 
 ## Summary
 
-Litecoin is a fair-launch, hard-cap proof-of-work chain emitting **~0.32M LTC per 90 days** at 6.25 LTC per block, with an empty buy ledger and no team-controlled overhang at all. The framework reads **+0.42% net**; the monitor agrees to within 0.01 points. The supply trajectory is fully coded: ~92% of the 84M cap is mined, the Jul 27 2027 halving cuts the pace in half, and nothing discretionary can move it. LTC is the most predictable supply profile in coverage.
+Litecoin is a fair-launch, hard-cap proof-of-work chain emitting **~0.32M LTC per 90 days** at 6.25 LTC per block, with an empty buy ledger and no team-controlled overhang at all. The framework reads **+0.42% net**; the monitor agrees to within 0.02 points. The supply trajectory is fully coded: ~92% of the 84M cap is mined, the Jul 27 2027 halving cuts the pace in half, and nothing discretionary can move it. LTC is the most predictable supply profile in coverage.
 
 ---
 
-*MrNasdog Pressure Framework analysis of LTC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 11, 2026.*
+*MrNasdog Pressure Framework analysis of LTC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 26, 2026.*
