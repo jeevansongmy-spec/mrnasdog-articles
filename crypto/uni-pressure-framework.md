@@ -1,97 +1,51 @@
 ---
-title: "Uniswap (UNI): A Clean Sell Ledger and a Fee-Switch Decision That Won't Go Away"
-description: "A MrNasdog Pressure Framework read of Uniswap (UNI): original 4-year vesting completed Sep 2024, no inflation today (but governance can enable 2%/yr), no buyback, no burn. The DAO Treasury holds 259.6M UNI (~26% of supply). The fee switch — debated for years — is the only structural buy-side lever."
-canonical_url: "https://mrnasdog.com/research/uni/full"
-tags: ["crypto", "uniswap", "defi", "dex"]
+title: "UNI Inflation Analysis · June 2026 · Effectively Flat"
+description: "UNI's UNIfication fee switch burned ~4.14M UNI / 90D against a ~5M growth-budget vest, with no protocol mint ever. Framework reads +0.14% net on the 1B genesis supply."
+canonical_url: "https://mrnasdog.com/research/uni/inflation"
+tags: ["crypto", "uni", "uniswap", "defi"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/research/uni/full](https://mrnasdog.com/research/uni/full)** by MrNasdog.
+*Originally published at [mrnasdog.com/research/uni/inflation](https://mrnasdog.com/research/uni/inflation)*
 
-This is a **MrNasdog Pressure Framework** analysis of **Uniswap (UNI)** on Metric 1 (sell pressure) and Metric 2 (buy pressure). Narrative (Metric 3) is covered separately. The short version: UNI has the cleanest sell ledger of any DeFi token we cover today — original vesting is done, no inflation is active — but the buy ledger is also empty until governance enables the fee switch.
+# UNI Inflation Analysis · June 2026 · Effectively Flat
 
-## The setup
+Uniswap has never minted new UNI — the contract's 2% minter has never been called. The only fresh supply is the **20M UNI / year growth budget** (~5M this window). Against it, the UNIfication fee switch burned **~4.14M UNI**, verified on-chain. Framework reading: **+0.14% net** — supply on the float is effectively flat, slightly inflationary, on a 1B genesis supply.
 
-UNI is the governance token of Uniswap, the dominant DEX on Ethereum and EVM L2s. ERC-20 (`0x1f98…f984`) with a **fixed 1B genesis supply** at launch in September 2020. The initial allocation: **60% community treasury** (600M UNI), **21.51% team** (215M, 4-year vest), **17.8% investors** (178M, 4-year vest), **0.69% advisors** (7M, 4-year vest). The 4-year vesting cliff completed in **September 2024** — meaning *all original allocations are now fully unlocked*.
+## The verdict, in one paragraph
 
-The protocol's tokenomics also allow **a perpetual 2% annual inflation** that can be enabled by governance. **It has not been enabled.** The on-chain UNI contract's `mint()` function is callable only by the governance timelock, and no inflation proposal has passed.
+For the 90-day window ending June 28 2026, the framework reads **UNI at +0.14% net** — the growth-budget vesting adds about **5M UNI** to the float while the UNIfication fee-switch burn removes **~4.14M UNI**, leaving the two almost cancelling. The inflation monitor reads **−2.03%** over the same window, a gap of **2.17 percentage points** that triggers a monitor-gap flag. The gap is not a burn the framework missed: the monitor tracks circulating-supply classification, which fell partly from the on-chain burn and mostly from a governance vote on June 1 2026 that returned 12.5M previously-delegated UNI into the DAO treasury — a custody move, not market absorption. The framework keeps its net-flow read. UNI in mid-2026 is best characterised as a structurally-flat supply with a live, revenue-funded burn now large enough to neutralise its only new-supply stream.
 
-Live numbers, origin-first from Ethereum mainnet RPC + Uniswap docs:
+## Sell pressure: where new UNI comes from
 
-- **Total supply: 1,000,000,000 UNI** (fixed today, verified on-chain via `totalSupply()`)
-- **Circulating: ~635.7M UNI** (~63.6%, per CoinGecko cross-check)
-- **DAO Treasury (Timelock `0x1a9c…35bc`): ~259.6M UNI** (~26% of supply — read directly on-chain)
-- **Uniswap Foundation grants treasury: tens of millions of UNI** (separately funded, smaller than the main Treasury)
-- Price ~$3.47 → market cap ~$2.20B · FDV ~$3.47B
+Sell #1 (protocol inflation) is **zero**. The UNI contract carries a minter that became unlockable in September 2024 and can issue up to 2% of supply per year, but governance has never called it — the on-chain total supply still reads its **1B genesis figure**, so no new UNI has ever been minted. The framework counts only what actually fires, not what the contract permits.
 
-## The sell ledger
+Sell #2 (vesting unlocks) is the only non-zero sell row at about **5M UNI**. The original four-year team, investor, advisor, airdrop and liquidity-mining vesting all finished in 2024. The single live schedule today is the **20M UNI / year growth budget** created under UNIfication, paid quarterly from the DAO treasury through a vesting contract since January 1 2026 — roughly 5M UNI enters the active float in this window. Sell #3 (Foundation and unscheduled unlocks) is zero: the DAO governance treasury holds about 272M UNI, but the only treasury movement in the window was the 12.5M delegated-token return on June 1 2026, which flowed into the treasury, not out to market. Sell #4 (long-term locked or bankruptcy) is zero — UNI has no bankruptcy estate.
 
-*What the design predictably puts on the market.*
+## Buy pressure: where the UNI goes
 
-| # | Source | Tag | Value |
-|---|---|---|---|
-| 1 | Protocol inflation | — | **0** (2%/yr available but not enabled by governance) |
-| 2 | Vesting unlocks (still-locked allocations on schedule) | — | **0** (4-year vests completed Sep 2024) |
-| 3 | **Team / DAO / identified-group holdings** | **Tag B** | **~259.6M UNI** in Treasury Timelock + Foundation grants |
-| 4 | Bankruptcy estate | — | **0** |
+Buy #2 (protocol fee burn) is the load-bearing buy row at **~4.14M UNI**. The **UNIfication fee switch**, live since December 2025, collects a share of v2, v3 and Unichain swap-fee revenue into a vault contract called TokenJar. That value can only be claimed by burning an equal value of UNI through a second contract, Firepit, which sends the UNI to the dead address. Reading the dead address directly on-chain, its UNI balance grew from 102.4M to 106.6M over the window — a **4.14M UNI burn**. A June 1 2026 fee-expansion vote widened the covered pools, and the burn pace accelerated into June, setting a single-day record of about 134,000 UNI on June 4 2026.
 
-**Inflation: zero today.** The 2%/yr perpetual inflation that governance can enable would add ~20M UNI/yr to the sell ledger. This is the single biggest negative catalyst latent in the design — but it has not been triggered in 5+ years and the political appetite has been low. **Watch it, don't price it in.**
+The other buy rows are zero. Buy #1 (programmatic buyback) is zero because there is no separate buyback wallet — the fee switch routes value straight into the burn path rather than accumulating UNI. Buy #3 (Foundation buy) is zero; the Uniswap Foundation does not buy UNI on the open market. Buy #4 (new long-term lock) is zero — the deflationary force here is the burn, not a fresh supply lock.
 
-**Vesting: zero.** All original 4-year vests (team, investors, advisors) finished in September 2024. There is no scheduled supply releasing into the market today. Original investor unlock pressure is no longer a structural force.
+## Foundation and overhang
 
-**Tag B is the DAO Treasury.** Per the new framework rule (only identified coordinated entities; both locked + unlocked count, de-dup against #1, #2, #4): the **Uniswap Treasury Timelock holds 259.6M UNI** (read on-chain). The Uniswap Foundation operates a separate grants treasury (tens of millions of UNI). Combined Tag B exposure is ~270–290M UNI — the DAO can deploy this via votes (grants, retroactive funding, market-making programs, etc.). Note: VC holdings that originally vested out are now distributed across many funds and excluded under the framework rule (Pantera-style noise).
+The single largest team-controlled overhang is the **Uniswap DAO governance treasury**, holding about **272.1M UNI** in the on-chain Timelock as of June 28 2026 — the bulk of all non-circulating UNI. The June 1 2026 vote that returned 12.5M previously-delegated UNI to this Timelock added to it rather than releasing supply. The treasury funds the 20M-per-year growth budget already counted in Sell #2; outside that schedule, deploys require an on-chain governance vote and there is no published per-firing calendar. The framework tracks this balance on every refresh: if the treasury's UNI balance falls between refreshes through a discretionary market deploy, that outflow enters Sell #3 at the next refresh.
 
-**Bankruptcy estate: zero.**
+## How UNI compares to other DEX governance tokens
 
-## The buy ledger
+Most DEX governance tokens are structurally inflationary: SushiSwap's SUSHI, PancakeSwap's CAKE and dYdX's DYDX all fund liquidity-mining or staking rewards with continuous emission, so new supply outpaces any removal. UNI is now the opposite case in mechanism — it never mints, and it runs a revenue-funded burn. The closest structural analogue is Curve's veCRV model, which separates locked long-term holders from the market float, but Curve still emits fresh CRV every block while UNI's only new supply is a fixed, already-minted treasury budget.
 
-*What the design predictably takes off the market.*
+Against fixed-cap DeFi protocols with fee-funded buyback — Aave's AAVE buyback, MakerDAO's MKR smart-burn — UNI sits in similar territory: a fixed denominator with protocol revenue eating into the float. The difference is mechanism design. UNI's burn is paired one-for-one with fee claims through Firepit, so the burn scales directly with how much fee revenue users want to extract, and the burn flows only as fast as swap volume generates claimable fees. That makes UNI's deflation contingent on usage rather than scheduled — closer to a base-fee burn than to a fixed buyback budget.
 
-| # | Source | Value |
-|---|---|---|
-| 1 | Revenue-backed buyback | **0** — fee switch debated since 2022, never enabled |
-| 2 | Burn mechanism | **0** — no protocol burn |
-| 3 | Locked allocations | — context only (UNI staked in governance contracts is functionally liquid via undelegation) |
-| 4 | Protocol-level demand (governance only) | **~0** — UNI is needed to vote, not transact |
+## What to watch in the next 90 days
 
-This is where Uniswap is structurally weakest. The protocol generates ~$1B+ per year in trading fees, all of which go to **LP providers, not UNI holders**. The "fee switch" — the governance lever that would route a portion of LP fees to UNI stakers or to a buyback — has been debated since 2022, voted in temperature checks, never permanently activated. **Today the buy ledger is empty.**
+First, **Uniswap swap volume** — the Firepit burn scales with fee revenue, so a sustained volume rise would push UNI net-deflationary while a slump would let the growth-budget vest dominate. Second, the next **growth-budget quarterly vest around Jul 1 2026**, which adds roughly 5M UNI to the float. Third, further **fee-expansion governance votes** extending the burn to v4, UniswapX or additional L2 and L1 pools — each one lifts the burn pace. Fourth, any DAO vote to **activate the 2% minter** or to deploy the ~272M treasury to market, either of which would change the sell side immediately.
 
-## Net position
+## Summary
 
-Combine the ledgers:
-
-- **Sell, Tag A:** 0
-- **Sell, Tag B:** ~270–290M UNI in DAO Treasury + Foundation grants (deployed at governance discretion)
-- **Buy, Tag A:** 0
-
-**The structural read is "neutral and waiting for a decision."** UNI has neither the relentless structural sell of an inflationary L1 (NEAR, TAO) nor the cliff schedule of a vesting-heavy token (ONDO). But it also has none of the structural buy that drives BNB or HYPE. Net: today it's quiet on both sides, with the actual price story coming from external demand (DeFi summer-style narratives) and from any DAO Treasury deployment decisions.
-
-Compared to the rest of our coverage:
-
-- **BNB**: supply ↓ from burns → favorable
-- **HYPE**: AF buyback > vest → favorable
-- **UNI**: clean sell ledger, empty buy ledger → **neutral, lever-dependent**
-- **NEAR / TAO**: scheduled supply ↑, weak buy → unfavorable
-- **ONDO**: scheduled cliffs, no buy → most unfavorable
-
-## The two levers
-
-UNI is unusual in having **two governance-controlled levers** that would move it in opposite directions:
-
-1. **Fee switch enablement** (positive). Route some portion of trading fees to UNI holders/stakers or to a buyback. Single biggest structural catalyst available. Debated for years; activation odds rise whenever the DAO Treasury balance debate heats up.
-2. **2%/yr perpetual inflation enablement** (negative). The protocol's tokenomics ALLOW this; governance can pass it. It has not been activated in 5+ years and there's no concrete proposal on the table — but it's a latent risk.
-
-The framework gives UNI no credit for either today. Both are governance-dependent; until one passes, neither scores.
-
-## What to watch
-
-1. **Any fee-switch proposal that reaches a binding on-chain vote** (not just temp checks). Forum: `gov.uniswap.org`.
-2. **Any 2%/yr inflation enablement proposal** — same channel.
-3. **Uniswap Treasury Timelock balance changes** — read on-chain at `0x1a9c…35bc`. Large grants or program funding move this number.
-4. **Uniswap Foundation grant cadence** — proxy for ecosystem Tag B deployment rate.
+UNI is a 1B genesis-supply, fully-unlocked, DAO-governed token whose supply is now effectively flat: no protocol mint has ever fired, the only fresh supply is a ~5M-per-quarter treasury growth budget, and the UNIfication fee switch burns UNI from swap-fee revenue at a comparable pace — ~4.14M this window, confirmed on-chain. The framework reads +0.14% net; the monitor reads −2.03%, a gap driven by circulating-supply reclassification after 12.5M delegated UNI returned to the treasury, not by a missed flow. The key risk is swap volume, which sets the burn pace; the ceiling is the 1B genesis supply with no new mint; the swing factor is whether the DAO ever turns on the dormant 2% minter.
 
 ---
 
-*MrNasdog Pressure Framework analysis of UNI, Metrics 1 &amp; 2. Data + explanation only. Not financial advice. Numbers as of May 2026.*
-
-*Data note: Total supply + Treasury Timelock balance read directly from on-chain (`totalSupply()` and `balanceOf(0x1a9c…35bc)` on the UNI ERC-20 contract via Ethereum mainnet RPC). Circulating supply cross-checked via CoinGecko. Foundation grants treasury balance noted as separately funded but not address-enumerated in this draft.*
+*MrNasdog Pressure Framework analysis of Uniswap (UNI), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 28, 2026.*
