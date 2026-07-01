@@ -1,5 +1,5 @@
 ---
-title: "BNB Inflation Analysis · June 2026 · No new supply, burning toward 100M"
+title: "BNB Inflation Analysis · July 2026 · No new supply, burning toward 100M"
 description: "No issuance, no vesting: BNB only burns. Quarterly Auto-Burn ~1.57M plus BEP-95 gas burn give −1.17% net over 90 days — deflationary toward a 100M floor."
 canonical_url: "https://mrnasdog.com/research/bnb/inflation"
 tags: ["crypto", "bnb", "binance", "auto-burn"]
@@ -8,13 +8,13 @@ published: true
 
 > Originally published at **[mrnasdog.com/research/bnb/inflation](https://mrnasdog.com/research/bnb/inflation)** by MrNasdog.
 
-# BNB Inflation Analysis · June 2026 · No new supply, burning toward 100M
+# BNB Inflation Analysis · July 2026 · No new supply, burning toward 100M
 
-BNB mints no new supply at all. Nothing enters the sell side, while the quarterly Auto-Burn removes about **1.57M BNB** and a real-time gas-fee burn removes a little more — a net of roughly **−1.17%** over 90 days against the inflation monitor's **−1.30%**. BNB is deflationary by design, shrinking on a fixed path toward a permanent 100M floor.
+BNB mints no new supply at all. Nothing enters the sell side, while the quarterly Auto-Burn removes about **1.57M BNB** and a real-time gas-fee burn removes a little more — a net of roughly **−1.17%** over 90 days against the inflation monitor's **−1.15%**. BNB is deflationary by design, shrinking on a fixed path toward a permanent 100M floor.
 
 ## The verdict, in one paragraph
 
-For the 90-day window ending June 24 2026, the MrNasdog Pressure Framework reads **BNB at −1.17% net** — supply is contracting. The independent inflation monitor reads **−1.30%**, a gap of just **0.13 percentage points**, well inside tolerance, so no data-conflict chip is raised. The structure is unusually clean: there is no issuance, no vesting, and no team reserve releasing into the market. The only flows are burns, which only remove supply. BNB is **deflationary by structural buyback-and-burn**, and the contraction continues until total supply reaches the protocol's 100M floor.
+For the 90-day window ending July 1 2026, the MrNasdog Pressure Framework reads **BNB at −1.17% net** — supply is contracting. The independent inflation monitor reads **−1.15%**, a gap of just **0.02 percentage points**, well inside tolerance, so no data-conflict chip is raised. The structure is unusually clean: there is no issuance, no vesting, and no team reserve releasing into the market. The only flows are burns, which only remove supply. BNB is **deflationary by structural buyback-and-burn**, and the contraction continues until total supply reaches the protocol's 100M floor.
 
 ## Sell pressure: where new BNB comes from
 
@@ -26,7 +26,7 @@ With the entire sell ledger empty, BNB has no mechanism that can add supply to t
 
 Buy #1 — programmatic buyback — is the headline flow, and for BNB it takes the form of the **quarterly Auto-Burn**. The Auto-Burn runs on a published formula tied to the average BNB price and the number of blocks produced on the chain, and it destroys the resulting amount outright rather than holding it. The 35th quarterly burn, on April 15 2026, removed **1,569,307 BNB**, and the next quarterly burn lands around **July 15 2026** — inside this 90-day window. These tokens are permanently destroyed, which is why the flow lands on the buy side as supply removed from the market.
 
-Buy #2 — protocol fee burn — adds a small continuous burn on top. BEP-95 burns a slice of every block's gas fees in real time, removing about **0.005M BNB** over the window — small in absolute terms but scaling with on-chain activity, with a cumulative **~286K BNB** burned this way since 2021. Buy #3 — Foundation buy — is zero, because the Auto-Burn itself is the value-return mechanism rather than a separate accumulation programme. Buy #4 — new long-term lock — is zero; there is no new lockup programme with an announced quantum.
+Buy #2 — protocol fee burn — adds a small continuous burn on top. BEP-95 burns a slice of every block's gas fees in real time, removing about **0.005M BNB** over the window — small in absolute terms but scaling with on-chain activity, with a cumulative **~281K BNB** burned this way since 2021. Buy #3 — Foundation buy — is zero, because the Auto-Burn itself is the value-return mechanism rather than a separate accumulation programme. Buy #4 — new long-term lock — is zero; there is no new lockup programme with an announced quantum.
 
 ## Foundation and overhang
 
@@ -44,8 +44,8 @@ The next **quarterly Auto-Burn is expected around July 15 2026** (the 36th), and
 
 ## Summary
 
-BNB is deflationary by design. There is no issuance, no vesting, and no team reserve entering the market, so the entire sell ledger reads zero. The 35th quarterly Auto-Burn removed about 1.57M BNB in April 2026, the next one lands inside this window around July 15 2026, and the continuous BEP-95 gas burn removes a little more — a framework reading of −1.17% net against the monitor's −1.30%, agreement within 0.13 percentage points. The supply path is one-directional, contracting toward a permanent 100M floor, and the main variable is the pace of the next quarterly burn. Among exchange tokens, BNB is one of the cleanest structural-burn cases; it cannot turn inflationary without a protocol change.
+BNB is deflationary by design. There is no issuance, no vesting, and no team reserve entering the market, so the entire sell ledger reads zero. The 35th quarterly Auto-Burn removed about 1.57M BNB in April 2026, the next one lands inside this window around July 15 2026, and the continuous BEP-95 gas burn removes a little more — a framework reading of −1.17% net against the monitor's −1.15%, agreement within 0.02 percentage points. The supply path is one-directional, contracting toward a permanent 100M floor, and the main variable is the pace of the next quarterly burn. Among exchange tokens, BNB is one of the cleanest structural-burn cases; it cannot turn inflationary without a protocol change.
 
 ---
 
-*MrNasdog Pressure Framework analysis of BNB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 24, 2026.*
+*MrNasdog Pressure Framework analysis of BNB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated July 1, 2026.*
