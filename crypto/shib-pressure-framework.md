@@ -1,47 +1,47 @@
 ---
-title: "SHIB Inflation Analysis · June 2026 · Mixed flows, supply roughly steady"
-description: "A MrNasdog Pressure Framework read of Shiba Inu (SHIB): no mint, burn pace collapsed to ~1-2B/month against a 589.6T float. Framework reads 0.00% net; monitor +0.13%. Structurally flat meme coin."
+title: "SHIB Inflation Analysis · June 2026 · Fixed supply, a tiny burn, a flat read"
+description: "A MrNasdog Pressure Framework read of Shiba Inu (SHIB): no mint, no vesting, only a ~350M / 90D fee burn against a 589-trillion supply. Framework 0.00% net; monitor +0.12%."
 canonical_url: "https://mrnasdog.com/research/shib/inflation"
-tags: ["crypto", "shib", "memecoin", "shibarium"]
+tags: ["crypto", "shib", "shiba-inu", "memecoin"]
 published: true
 ---
 
 > Originally published at **[mrnasdog.com/research/shib/inflation](https://mrnasdog.com/research/shib/inflation)** by MrNasdog.
 
-Shiba Inu is a no-mint ERC-20 with a **~589.6T** float — about 41% of its 1-quadrillion genesis already burned historically — but its current burn pace has collapsed to roughly **1-2B per month**, invisible against that supply. The Pressure Framework reads **0.00% net** inflation over the trailing 90 days against a monitor reading of **+0.13%**: the burns made headlines, but at this float the ledger barely moves.
+Shiba Inu has **no mint function**, so no new SHIB is created — sell pressure is **zero**. The only supply force is a small Shibarium and ShibaSwap fee burn that removed roughly **350M SHIB** over the last 90 days, a rounding error against a **589-trillion** float. The Pressure Framework reads SHIB at about **0.00% net** — flat. Our supply monitor agrees, reading **+0.12%** over the same window, a gap inside tolerance.
 
 ## The verdict, in one paragraph
 
-For the 90-day window the framework books **SHIB at 0.00% net**: no mint exists, and the burn pace is too small to register at display precision. The inflation monitor reads **+0.13%** over the same window — a gap of just **0.13 percentage points**, inside the 0.5-point tolerance, so no ⚠ chip is raised. The small positive monitor figure is upstream count drift, not real creation — SHIB has no mechanism that could mint new supply. It is a structurally flat meme coin whose burn story no longer moves the needle.
+For the 90-day window ending June 24 2026, the MrNasdog Pressure Framework reads **SHIB at about 0.00% net** — flat — on both the trailing and forward view. New supply is **zero** because SHIB is a fixed-supply Ethereum token with no mint function, and the only offset is a fee burn that removes about **350M SHIB** in 90 days, which is roughly **0.00006%** of the circulating 589 trillion. Our supply monitor reads the realized change at **+0.12%**, versus the framework's **0.00%** — a gap of about **0.12 percentage points**, comfortably inside the 0.5-point tolerance, so no monitor-gap chip is raised. SHIB is a **flat, fixed-supply token**: capped by code, drifting almost imperceptibly down as the burn ticks along.
 
 ## Sell pressure: where new SHIB comes from
 
-Nothing creates new SHIB. **Protocol inflation** is zero — the ERC-20 has no mint function, so the 1-quadrillion genesis can only shrink. **Vesting unlocks** are zero — no team allocation or vesting schedule ever existed; half the genesis went to a public figure who burned 410T of it in 2021. **Foundation and unscheduled unlocks** are zero — no foundation treasury holds SHIB at protocol level, and the ecosystem is community-run, so there is no identified team-controlled overhang at all. **Bankruptcy** is zero.
+The short answer for SHIB is that no new SHIB comes from anywhere. Sell #1 — protocol inflation — is **zero**: the SHIB contract, deployed on Ethereum in 2020, has no mint function, so the launch supply can only shrink and can never be expanded. Sell #2 — vesting unlocks — is also **zero**: SHIB never had a team, seed or investor vesting schedule. The entire one-quadrillion launch supply was distributed at once through open Uniswap liquidity, with half handed to a public figure who later burned most of it.
+
+Sell #3 — Foundation and unscheduled unlocks — is **zero** as well: the project retained no insider allocation that could be released, and there is no public evidence of any discretionary treasury outflow in the window. Sell #4 — long-term locked or bankruptcy — is **zero**, since no bankruptcy estate or court-ordered distribution touches SHIB. Every sell row is empty, which is the cleanest possible inflation profile: a supply that simply cannot grow.
 
 ## Buy pressure: where new SHIB goes
 
-The burn routes exist but no longer matter at scale. **Programmatic buyback** is zero — there is no revenue-funded buyback separate from the burn routes. **Protocol fee burn** is zero at display precision: the Shibarium L2 gas-to-burn route, swap-fee burns, and the community portal all operate, but the pace collapsed from the March 2026 peak to roughly **1-2B per month** — immaterial against a 589.6T float, so the row reads zero and is monitored. **Foundation buy** is zero — no accumulation programme. **New long-term lock** is zero — staking exists on the L2 but unstaking is operational, with no long-term lock carrying an announced quantum.
+Buy #2 — protocol fee burn — is the only active force on the entire ledger, at about **350M SHIB** over 90 days. A small share of fees from the Shibarium layer-2 network and ShibaSwap trading is converted to SHIB and sent to the dead address, removing it permanently. The recent pace runs near **116M SHIB a month**, with occasional spikes — but against a 589-trillion supply this is a sliver that rounds to nothing at the framework's precision. Buy #1 — programmatic buyback — is **zero**, because there is no revenue-funded buyback contract repurchasing SHIB. Buy #3 — Foundation buy — and Buy #4 — new long-term lock — are both **zero**, with no discretionary open-market buying or new escrow announced in the window.
 
 ## Foundation and overhang
 
-SHIB is recorded as fully circulating with **no identified team-controlled wallets** — one of the shortest overhang findings in the catalog. There is no foundation treasury at the protocol level; half the genesis was burned by its recipient in 2021; the ecosystem is community-run with no team allocation to track. There is consequently no trigger sentence to attach — nothing is being watched on the sell side because there is no team-held bucket that could deploy.
+SHIB has no team-controlled overhang to track. There is no foundation treasury holding an unlock-able stockpile, no vesting cliff calendar, and no insider allocation waiting to enter the market — the supply was fully distributed at launch and the founder's half was burned in 2021. That absence is exactly why the framework books no discretionary release: there is no wallet whose balance could fall and feed Sell #3. The only thing worth watching is the burn side, and the framework re-walks the on-chain burn totals on a roughly bi-weekly basis; if a previously unknown treasury balance ever began to move, the outflow would enter Sell #3 at the next refresh — but no such overhang is identified today.
 
-It is worth being precise about why the burn faded, because the machinery is still live. The Shibarium L2 routes a portion of network gas fees into open-market SHIB purchases that are then sent to a dead address — a usage-driven burn, so its pace tracks Shibarium transaction volume directly. The multi-billion-per-day burns that made headlines in March 2026 coincided with a throughput spike; as activity normalised, the burn fell with it, to the ~1-2B-per-month range seen now. The lever is genuine and demand-responsive, but it is gated entirely by L2 usage — which is why the framework treats it as monitored rather than booked until the pace returns to a level that would register against the float.
+## How SHIB compares to other fixed-supply tokens
 
-## How SHIB compares to other meme coins
+SHIB belongs to the class of **fixed-supply, mint-disabled tokens** — closer in mechanism to a hard-capped coin than to a continuous-emission chain. Unlike an inflationary layer-1 that mints block rewards forever, SHIB has no issuance at all; unlike a hard-capped coin still working toward its cap, SHIB's full supply already exists, so there is no schedule left to run. The result is a token whose supply can only move one direction — down — and only at the speed of its burn.
 
-Among large meme coins, SHIB and PEPE share the no-mint, community-run, fixed-genesis structure — both read flat because neither can inflate and neither burns at a material pace. The distinction is that SHIB built burn infrastructure (the Shibarium L2 routing gas fees into buy-and-burn) where PEPE has none; in principle that gives SHIB a deflationary lever, but in practice the burn has collapsed to an immaterial rate. Dogecoin is the structural opposite: an uncapped fixed-per-block tail emission that makes DOGE perpetually mildly inflationary, whereas SHIB's supply can only fall.
-
-The mechanism that defines SHIB today is scale: at 589.6T, even a burn that would be enormous for a normal token is a rounding error. A burn would have to run a thousand times its current pace to move the framework reading off zero. Until Shibarium throughput rises by orders of magnitude, SHIB's deflationary machinery is real but dormant, and the framework reads it as flat.
+The contrast worth drawing is with deflationary fee-burn coins that burn aggressively enough to meaningfully shrink supply. SHIB does have a fee burn, but its scale relative to a 589-trillion float is so small that it functions as a flat supply rather than a shrinking one. For an inflation lens specifically, that places SHIB firmly in the neutral band: no new coins, a burn that barely registers, and a net reading that sits on the flat line.
 
 ## What to watch in the next 90 days
 
-The single watch line is the **Shibarium burn pace** — a sustained return to the multi-billion-per-day rates seen at the March 2026 peak would begin to register as Buy #2, but recent months show the opposite trend. There is no emission, no vesting cliff, and no foundation deployment that could push the reading the other way. Absent a burn revival, the framework reading stays at 0.00% net, and the monitor's small positive figure remains upstream drift rather than supply creation.
+Watch the Shibarium and ShibaSwap burn totals — the burn is the only number that can move the reading, and even a large spike would need to be orders of magnitude bigger to register against 589 trillion. Watch for any governance proposal that would change the burn mechanics or introduce a new buy-and-burn, since that is the only structural lever the community holds. Note that the contract's lack of a mint function is permanent, so there is no unlock or emission event that could flip SHIB inflationary. And keep an eye on whether network activity on Shibarium recovers, because the burn scales with usage; more activity means a slightly faster burn, but still nowhere near enough to shift the flat read.
 
 ## Summary
 
-Shiba Inu is a no-mint, fully-circulating ERC-20 with a **589.6T** float and no team-controlled overhang, so the Pressure Framework reads **0.00% net** inflation against a monitor reading of **+0.13%** — a 0.13-point gap, no chip. Its burn routes are real but have collapsed to an immaterial pace, and no mechanism can create new SHIB. The only path off zero is a large-scale burn revival; until then SHIB's supply is structurally flat.
+SHIB is a fixed-supply Ethereum meme token with no mint function, so its supply can only shrink. Sell pressure is zero across every row — no minting, no vesting, no foundation overhang, no bankruptcy. The only offset is a Shibarium and ShibaSwap fee burn that removes about 350M SHIB over 90 days, a rounding error against the 589-trillion float, leaving the framework at about 0.00% net — flat. Our supply monitor reads +0.12% realized, a gap inside tolerance, so SHIB scores as a flat, capped-by-code token whose burn slows nothing meaningfully because there is nothing being added in the first place.
 
 ---
 
-*MrNasdog Pressure Framework analysis of SHIB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 12, 2026.*
+*MrNasdog Pressure Framework analysis of Shiba Inu (SHIB), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 24, 2026.*

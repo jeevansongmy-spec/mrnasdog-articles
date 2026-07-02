@@ -1,47 +1,45 @@
 ---
-title: "CAKE Inflation Analysis · June 2026 · Supply shrinking, projected to keep shrinking"
-description: "A MrNasdog Pressure Framework read of PancakeSwap (CAKE): ~2M minted vs ~7.5M burned, 32 months net deflation. Framework −1.56%; monitor +6.80% is a multi-chain recount (⚠)."
+title: "CAKE Inflation Analysis · June 2026 · Burn keeps beating the mint"
+description: "A MrNasdog Pressure Framework read of PancakeSwap (CAKE): ~2.03M / 90D of capped emission vs a ~7.67M buyback-burn. Framework −1.7% net; monitor −1.62% — supply shrinking."
 canonical_url: "https://mrnasdog.com/research/cake/inflation"
-tags: ["crypto", "cake", "pancakeswap", "dex"]
+tags: ["crypto", "cake", "pancakeswap", "defi"]
 published: true
 ---
 
 > Originally published at **[mrnasdog.com/research/cake/inflation](https://mrnasdog.com/research/cake/inflation)** by MrNasdog.
 
-PancakeSwap's CAKE burns more than it mints by design. The Pressure Framework reads **−1.56% net** inflation (deflationary) for the trailing 90 days against a monitor reading of **+6.80%** — an **8.36-point** gap that ships a ⚠ chip. The gap is not new supply: it is a circulating-supply recount across multiple chains, while on-chain CAKE stays net-deflationary for a 32nd consecutive month.
+PancakeSwap mints about **2.03M CAKE** over 90 days at a fixed, capped rate, while a revenue-funded buyback burns roughly **7.67M** back out. The burn runs far ahead of the mint, so the Pressure Framework reads about **−1.7% net** — supply shrinking. Our supply monitor agrees at **−1.62%**, a gap of just **0.12 percentage points**, so the read ships clean with no warning chip.
 
 ## The verdict, in one paragraph
 
-For the 90-day window the framework books **CAKE at −1.56% net** inflation — about **2.0M CAKE** minted against **7.5M CAKE** bought back and burned. The inflation monitor reads **+6.80%** over the same window, a gap of **8.36 percentage points** that ships a ⚠ chip. The framework keeps the deflationary primary read rather than adopting the monitor: on-chain emission and burn are unchanged, but the circulating-supply figure jumped as CAKE on multiple chains was recounted in early June — the same figure read −1.25% on Jun 1 2026, so an 11-day swing of that size can only be reclassification, not mint. CAKE is **deflationary by structural buyback**.
+For the 90-day window ending June 25 2026, the MrNasdog Pressure Framework reads **CAKE at −1.7% net** on the forward view, driven by a weekly buyback-and-burn that destroys more CAKE than the protocol issues. Our supply monitor reads the realized last-90-day change at **−1.62%**, versus the framework's **−1.74%** read for the same window — a gap of about **0.12 percentage points**, comfortably inside tolerance, so **no monitor-gap chip ships**. CAKE is **deflationary by structural buyback**: a capped emission of about 22,500 CAKE a day is more than offset by a burn funded from real trading revenue.
 
 ## Sell pressure: where new CAKE comes from
 
-One mechanism creates new CAKE. **Protocol inflation** books **~2.0M CAKE**: farm emissions run at about **22,250 CAKE** a day under the latest tokenomics, cut from 40,000/day — the only source of new supply. **Vesting unlocks** are zero: CAKE is a fair-launch token with no investor or team vesting schedule, so this row is permanently zero. **Foundation and unscheduled unlocks** are zero — there is no Foundation or team reserve releasing into the market on a discretionary basis. **Long-term locked or bankruptcy** is zero: there is no estate, and veCAKE locking removes supply for governance rather than feeding the sell side.
+Sell #1 — protocol inflation — is the only source of new CAKE, at about **2.03M** over the next 90 days. Under the "ultrasound CAKE" model adopted in April 2025, PancakeSwap retired its veCAKE staking system and cut daily emission to a fixed **22,500 CAKE** a day, paid into reward pools across the multichain farms and ecosystem incentives. That is the whole mint; everything else on the sell side is zero.
+
+Sell #2 — vesting unlocks — is **zero**: CAKE has no active team, seed or investor vesting cliff reaching the market, as the original allocations unlocked long ago. Sell #3 — Foundation and unscheduled unlocks — is also zero as a flow, with no dated discretionary treasury release pending. Sell #4 — long-term locked or bankruptcy — is zero.
 
 ## Buy pressure: where new CAKE goes
 
-The buy side outruns the sell side, which is the whole point of CAKE's design. **Programmatic buyback** books **~7.5M CAKE**: trading-fee revenue from spot, perpetuals, IFO, prediction, and lottery products funds a buyback-and-burn of roughly **500-760k CAKE** a week, and the bought-back CAKE is burned outright — 32 consecutive months of more CAKE leaving circulation than entering. **Protocol fee burn** is zero only because those fee-funded burns are counted under the buyback row, not double-counted here. **Foundation buy** is zero — there is no separate accumulation programme. **New long-term lock** is zero — veCAKE locking is user governance, not a programme with an announced lock quantum this window.
+Buy #1 — programmatic buyback — is the dominant force, at about **7.67M CAKE** over 90 days. Each week PancakeSwap routes a cut of its protocol revenue — spot trading fees, perpetual-trading profit, launchpad fees, prediction and lottery — into buying CAKE on the open market and sending it to a dead address. Recent weeks burned between **560K** and **760K CAKE**, a run-rate near **590K** a week, far above the roughly 157K weekly emission. Because the destination is a permanent burn, those coins are gone for good. Buy #2 — protocol fee burn — is carried at zero, since there is no separate base-fee burn outside this revenue-funded buyback. Buy #3 — Foundation buy — and Buy #4 — new long-term lock — are both zero.
 
 ## Foundation and overhang
 
-CAKE has **no team-controlled overhang** — it is a fully-circulating fair-launch token with no vesting wallet to enumerate, and veCAKE locks belong to users, not a team. The one destination worth tracking is the burn itself: the bought-back CAKE goes to a burn address, publicly reported each week (~747k CAKE in the week of Jun 9 2026; lifetime burned in the tens of millions against a ~352M float). Because the destination is destruction rather than custody, it can never re-enter the market — the trigger line here runs the other way: if the weekly burn rate falls, the deflation softens.
+CAKE has no classic unlock overhang — the token is fully distributed and the legacy allocations have long since vested. The team controls no large scheduled-unlock pool that fires in this window, and the buyback's destination is a burn address rather than a treasury, so there is no accumulating stockpile to watch on the sell side. The framework books no discretionary release beyond protocol inflation and re-checks the weekly burn reports on a roughly bi-weekly walk; if any treasury balance were to fall faster than the schedule, the outflow would enter Sell #3 at the next refresh.
 
-## How CAKE compares to other exchange and DEX tokens
+## How CAKE compares to other DEX and exchange tokens
 
-CAKE belongs to the fee-funded buyback-and-burn class — the same structural family as exchange tokens that recycle trading revenue into removing supply. What sets CAKE apart from a quarterly-buyback exchange token is cadence: the burn is continuous and weekly, driven directly by DEX volume, rather than a scheduled quarterly event. With a max supply cut to 400M and a target of roughly 4% annual deflation, CAKE is structurally engineered to shrink, and it has delivered net deflation for 32 straight months.
+CAKE belongs to the class of **exchange and DEX tokens with revenue-funded buyback-and-burn** — the same structural family as the large centralized-exchange tokens that buy back and destroy supply from trading fees. Unlike an uncapped continuous-emission L1, CAKE pairs a small, fixed mint with a burn that scales with platform activity, and unlike a hard-capped coin that simply stops issuing, CAKE actively removes supply. The result is a token that is not just capped but actively shrinking: governance cut the hard cap from **450M** to **400M** in January 2026, and the model targets at least **4%** annual deflation.
 
-The instructive contrast this window is between the on-chain mechanism and the aggregator reading. CAKE exists across several chains — BNB Chain, Ethereum, Solana, Arbitrum, Base, and others — and the circulating-supply figure was recounted in early June to include more of that multi-chain float. That recount moved the monitor from −1.25% on Jun 1 to +6.80% by Jun 12 without a single new token being minted. The framework keeps the deflationary primary and flags the gap with a ⚠ rather than letting a reclassification overwrite a 32-month structural trend — exactly the case the monitor cross-check exists to catch.
-
-The deflation math is worth stating plainly for a reader sizing the trend. At roughly **22,250 CAKE** minted a day against **500-760k** burned a week, the burn runs several times the mint — what sustains the targeted ~4% annual reduction toward the **400M** cap. A single quarter rarely moves the float dramatically, but compounded over the 32 months the mechanism has run, it has bent CAKE's supply curve decisively downward — the structural opposite of a vesting-driven token still expanding its float.
+The contrast worth drawing is with DEX tokens that emit heavily to subsidize liquidity and never burn — there, supply grows and dilutes holders. CAKE inverts that: the buyback is the dominant force and the mint is a fraction of it, so for an inflation lens, CAKE reads as steadily deflationary, with the burn doing roughly three to four times the work of the mint each week.
 
 ## What to watch in the next 90 days
 
-Three things move the reading. First, the **weekly burn reports** — the ~500-760k CAKE/week pace is the engine of the deflation; a sustained rise deepens it, a fall softens it. Second, the **emission rate** — any further change to the ~22,250 CAKE/day farm emission shifts the mint side directly. Third, the **multi-chain recount** — once the aggregator's circulating figure settles after the early-June reclassification, the monitor should converge back toward the deflationary on-chain reality and the ⚠ can clear.
+Watch the weekly burn reports — the ~590K CAKE weekly pace is the single number that decides how fast supply shrinks, and it tracks trading volume directly. Watch protocol revenue, since the buyback is funded by a cut of spot, perps, launchpad, prediction and lottery activity. Note any new governance proposal touching emission or the 400M cap, after the January 2026 vote that cut it from 450M. And expect the framework to keep reading close to our supply monitor, since the burn is an on-chain destruction the monitor sees directly — no structural gap to reconcile here.
 
 ## Summary
 
-CAKE is a fair-launch DEX token that burns more than it mints, so the Pressure Framework reads **−1.56% net** inflation (deflationary) for the trailing 90 days against a monitor reading of **+6.80%** — an 8.36-point gap that ships a ⚠ chip. The gap is a multi-chain circulating-supply recount (the same figure read −1.25% just 11 days earlier), not new supply. New CAKE is ~2.0M from farm emission; ~7.5M is bought back and burned, the 32nd straight month of net deflation. The ceiling is the 400M max supply, and the structural trend is downward.
+CAKE is a capped, deflationary DEX token whose supply shrinks because a revenue-funded buyback burns more than the protocol mints. PancakeSwap issues about 2.03M CAKE over 90 days at a fixed 22,500-a-day rate, while the weekly buyback-and-burn destroys roughly 7.67M, leaving the framework at about −1.7% net. Our supply monitor reads −1.62% realized, a 0.12-point match, so the read ships with no warning chip. The key risk is revenue: the burn only stays this far ahead of the mint while trading volume holds, but with the cap cut to 400M and a 4%-a-year deflation target, the structural direction is down.
 
----
-
-*MrNasdog Pressure Framework analysis of CAKE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 12, 2026.*
+*MrNasdog Pressure Framework analysis of PancakeSwap (CAKE), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 25, 2026.*

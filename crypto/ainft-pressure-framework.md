@@ -1,45 +1,47 @@
 ---
-title: "AINFT Inflation Analysis · June 2026 · Supply fully out, no new issuance"
-description: "Fixed 1-quadrillion supply, over 99% circulating, no mint and no vesting. Framework reads 0.00% net — flat, with only an irregular community burn able to move it."
+title: "AINFT Inflation Analysis · June 2026 · Fixed supply, no mint, roughly steady"
+description: "A MrNasdog Pressure Framework read of AINFT (formerly APENFT): a fixed-supply TRON token, ~100% circulating, with no protocol mint and no scheduled unlock. Net ~0.00%."
 canonical_url: "https://mrnasdog.com/research/ainft/inflation"
-tags: ["crypto", "ainft", "tron", "ai"]
+tags: ["crypto", "ainft", "apenft", "tron"]
 published: true
 ---
 
 > Originally published at **[mrnasdog.com/research/ainft/inflation](https://mrnasdog.com/research/ainft/inflation)** by MrNasdog.
 
-AINFT (rebranded from APENFT) is a TRON-based AI + NFT token with a fixed **1-quadrillion** maximum supply, of which over **99%** already circulates. There is no mint and no vesting, so nothing adds new supply. The only lever is an irregular community-voted burn — none scheduled this window. Framework reading: **0.00% net**, flat.
+AINFT (token ticker NFT, formerly APENFT) is a **fixed-supply TRON token** that is essentially fully circulating — about **990.1T** of a **~999.99T** hard cap. There is no protocol mint, no scheduled vesting cliff in the window, and no fixed-rule buyback, so both sell and buy pressure read **0** and the framework net lands at about **0.00%**. The token burn funded by ecosystem profits is real but not publicly quantified for this window, so it is carried at zero and monitored.
 
 ## The verdict, in one paragraph
 
-For the 90-day window ending June 14 2026, the MrNasdog Pressure Framework reads **AINFT at 0.00% net** — a structurally flat ledger. The inflation monitor reads **+0.0055%**, negligible and well inside any noise floor, so no chip is raised. With supply over 99% distributed and no emission, there is nothing on the sell side, and the only buy-side mechanism — a community-voted burn — is irregular and inactive this window. AINFT is a **fully-distributed, no-flow asset**.
+For the 90-day window ending June 25 2026, the MrNasdog Pressure Framework reads **AINFT at about 0.00% net**. Every sell row is zero — no protocol inflation, no vesting unlock, no foundation release, no bankruptcy estate — and every buy row is zero, because the NFT burn is not quantified for the window and there is no programmatic buyback. With nothing measurably added and nothing measurably removed, the supply reads **roughly steady**. Monitor coverage is handled as absent for this build, so the framework end-check is deferred and the primary read is kept without a conflict chip. The honest label is a **flat, fully-distributed fixed-supply token**: the dilution risk that drives the inflation metric is structurally low because there are no new coins to issue.
 
 ## Sell pressure: where new AINFT comes from
 
-Every sell row is zero, and that is the defining fact. Sell #1 — protocol inflation — is zero: there is no mint or protocol emission, and over 99% of the fixed 1-quadrillion supply already circulates. Sell #2 — vesting unlocks — is zero: distribution is essentially complete, with no remaining schedule. Sell #3 — Foundation and unscheduled unlocks — is zero: there is no foundation reserve on a release schedule. Sell #4 — long-term locked or bankruptcy — is zero. With no allocation left to release, AINFT has no mechanism that can add supply to the market.
+Sell #1 — protocol inflation — is **zero**. The NFT token is a fixed-supply TRC-20 on TRON with no block reward and no minting function, so the protocol cannot issue new coins; the cap of **~999.99T** is set, and nearly all of it is already in circulation. Sell #2 — vesting unlocks — is also **zero**: with circulating supply at roughly **990.1T** against that cap, the original team, artist-partner and DeFi allocations have effectively finished releasing, so no cliff reaches the market in the window.
+
+Sell #3 — foundation and unscheduled unlocks — is **zero** as a flow. A small reserve of roughly **9.88T** sits between circulating supply and the hard cap, held by the foundation, but it has no published release schedule and no dated unlock in the window — so it is enumerated as an overhang and carried at zero. Sell #4 — long-term locked or bankruptcy — is **zero**, because no bankruptcy estate or court-ordered distribution applies to the NFT token.
 
 ## Buy pressure: where new AINFT goes
 
-The buy ledger is also effectively empty this window. Buy #1 — programmatic buyback — is zero. Buy #2 — protocol fee burn — is the one mechanism that exists in principle: AINFT carries a **community-voted burn** (historically funded by TRON DAO profits) that can permanently remove supply. But it is irregular — scheduled by holder votes rather than a continuous protocol rule — and none is active this window, so it books zero. Over long horizons the token has been mildly deflationary through these episodic burns. Buy #3 — Foundation buy — is zero. Buy #4 — new long-term lock — is zero.
+Buy #1 — programmatic buyback — is **zero**: there is no fixed-rule, revenue-funded buyback that buys NFT on a published schedule. Buy #2 — protocol fee burn — is the only mechanism with real activity, but it is carried at **zero** and monitored: a token burn funded by ecosystem profits exists, yet the amount destroyed inside this window is not publicly quantified, and the framework does not estimate an unverified figure. Buy #3 — foundation buy — is **zero**, with no discretionary open-market buying disclosed, and Buy #4 — new long-term lock — is **zero**, with no new escrow or multi-year lock announced. Because the realized supply held essentially flat over the window, the unquantified burn appears small relative to the trillions in circulation.
 
 ## Foundation and overhang
 
-AINFT has no team-controlled overhang on a release schedule. Because the supply is fixed and over 99% already circulates, there is no large non-circulating allocation waiting to enter the market — the usual source of sell pressure for younger tokens. What discretion exists runs the other direction: the community can vote to burn supply, reducing it. The framework therefore treats AINFT as having no scheduled overhang, only an optional, episodic burn lever that is currently idle.
+The one structural overhang is the gap between circulating supply and the hard cap — about **9.88T** NFT, or under one percent of the cap, held by the foundation with no published release schedule. That reserve is a capacity, not a schedule: it has not fired on any dated calendar, so the framework books it at zero and watches it rather than projecting a release. The token is otherwise fully distributed, so there is no classic team-unlock cliff to track. The foundation balance is re-checked on a roughly bi-weekly walk; if that reserve falls between refreshes, the outflow enters Sell #3 at the next refresh.
 
-## How AINFT compares to other fixed-supply, fully-circulating tokens
+## How AINFT compares to other fixed-supply utility tokens
 
-AINFT belongs to the class of **fixed-supply tokens that are essentially fully distributed** — tokens whose entire supply already trades and which carry no ongoing emission. For these, the inflation reading sits at or near zero by construction: there is no mint to add supply and no scheduled unlock to dilute it. This is the opposite of an uncapped emission chain (where new supply prints every block) and of a young vesting-driven token (where insiders unlock on a multi-year schedule).
+AINFT belongs to the class of **fixed-supply, fully-distributed utility tokens** — closer to a capped token whose emission schedule has already run its course than to a continuous-emission chain. Unlike an uncapped proof-of-stake L1 that mints new coins every block, NFT has no protocol issuance at all, so its inflation metric is structurally quiet: the dilution lever simply does not exist. The trade-off is that the headline supply is enormous — measured in hundreds of trillions of tokens — so even a meaningful burn moves the percentage only slightly.
 
-The one feature that can move AINFT off flat is its **discretionary burn**. Unlike a protocol fee burn that scales continuously with usage, AINFT's burns are governance events — large, occasional, and unscheduled. That makes the token mildly deflationary in the long run but flat between burns, so the inflation reading is best understood as "zero unless and until the community votes to burn." For a supply-pressure lens, AINFT is among the quietest assets in coverage.
+The contrast worth drawing is with exchange tokens or fee-burning chains that run net-deflationary on a quantified schedule. AINFT does have a burn, funded by TRON DAO and ecosystem profits, but it is not published as a regular, window-sized figure — so the framework cannot count it as a structural offset the way it would a documented EIP-1559 burn or a fixed quarterly buyback. For an inflation lens specifically, that leaves AINFT reading as flat: no new supply pushing up, and no measured burn pulling down, leaving net dilution near zero.
 
 ## What to watch in the next 90 days
 
-There are no scheduled supply events. Watch for a **community burn proposal** — the only thing that would move the reading, and it would move it negative (deflationary), not positive. Watch the AI side of the ecosystem (the products built on AINFT) for demand catalysts, though those affect price, not supply. Absent a burn vote, the framework reading should remain at 0.00% net. There is no unlock calendar to track because distribution is complete.
+Watch for a quantified burn report — if the project starts publishing the NFT amount burned per period, the burn moves from a monitored zero into Buy #2 and the read turns mildly deflationary. Watch the foundation reserve between circulating supply and the cap; any dated release would land in Sell #3. Watch for any new buyback or lock announcement tied to the AINFT and BNB Chain expansion, which would create a fresh buy-side line. And watch the rebrand-driven product launches — an AI-agent launchpad or marketplace fee switch could route revenue toward a structural buyback that the framework would then start counting.
 
 ## Summary
 
-AINFT is a fixed-supply, fully-distributed token with no active flows. Over 99% of the 1-quadrillion supply already circulates; there is no mint, no vesting, no buyback and no continuous burn — so the framework reads 0.00% net, with the monitor agreeing to within a rounding error. The only lever is an irregular, community-voted burn that can reduce supply but is idle this window. With no scheduled overhang and no emission, AINFT's supply is flat by construction, and the only direction of surprise is a deflationary burn vote.
+AINFT is a fixed-supply TRON utility token, formerly APENFT, that is essentially fully circulating at about 990.1T of a ~999.99T cap. With no protocol mint, no scheduled vesting cliff, and no quantified burn or buyback inside the window, the framework reads net supply at about 0.00% — roughly steady. The key structural fact is the absence of issuance: dilution risk is low because there are simply no new coins to create. The main thing that could change the reading is a published, window-sized burn, which would tip the token mildly deflationary.
 
 ---
 
-*MrNasdog Pressure Framework analysis of AINFT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 14, 2026.*
+*MrNasdog Pressure Framework analysis of AINFT (NFT), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 25, 2026.*

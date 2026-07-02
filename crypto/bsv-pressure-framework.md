@@ -1,47 +1,45 @@
 ---
-title: "BSV Inflation Analysis · June 2026 · Just the block subsidy"
-description: "Proof-of-work on Bitcoin's halving schedule: 3.125 BSV/block ≈ 40.5K over 90 days, empty buy ledger. Framework reads +0.20% — the simplest ledger in coverage."
+title: "BSV Inflation Analysis · June 2026 · Mining-only issuance against a hard 21M cap"
+description: "A MrNasdog Pressure Framework read of Bitcoin SV (BSV): ~0.04M / 90D of mining issuance, no buyback and no burn. Framework +0.2% net; monitor +0.12% — they agree."
 canonical_url: "https://mrnasdog.com/research/bsv/inflation"
-tags: ["crypto", "bsv", "proof-of-work", "bitcoin"]
+tags: ["crypto", "bsv", "bitcoin-sv", "proof-of-work"]
 published: true
 ---
 
 > Originally published at **[mrnasdog.com/research/bsv/inflation](https://mrnasdog.com/research/bsv/inflation)** by MrNasdog.
 
-Bitcoin SV is a proof-of-work chain on Bitcoin's halving schedule. Miners earn the **3.125 BSV** block subsidy — about **40.5K BSV** over 90 days — and that is the only source of new supply. There is no vesting, no buyback and no burn. Framework reading: about **+0.20%**, matching the monitor's **+0.22%**.
+Bitcoin SV adds about **0.04M BSV** over 90 days from the mining reward and nothing else — no buyback, no fee burn, no vesting. That puts the Pressure Framework at roughly **+0.2% net** on the active float. Our supply monitor reads **+0.12%** over the last 90 days, a gap of only about **0.08 percentage points**, so the two agree and no warning chip is needed. BSV is a fair-launch proof-of-work fork with a fixed **21M** ceiling.
 
 ## The verdict, in one paragraph
 
-For the 90-day window ending June 14 2026, the MrNasdog Pressure Framework reads **BSV at +0.20% net**, and the inflation monitor reads **+0.22%** — a gap of **0.02 percentage points**, so no chip is raised. The entire reading is the mined block subsidy; nothing else touches supply. BSV is a **slow, predictable proof-of-work emitter** with the simplest ledger in coverage — one live row on the sell side, an empty buy side.
+For the 90-day window ending June 25 2026, the MrNasdog Pressure Framework reads **BSV at +0.2% net**, driven entirely by the mining block subsidy with no offsetting burn. Our supply monitor reads the realized last-90-day change at **+0.12%**, versus the framework's **+0.2%** read for the same window — a gap of about **0.08 percentage points**, comfortably inside tolerance, so **no monitor-gap chip ships**. The agreement is structural: on a pure proof-of-work chain with no premine and no treasury, every newly minted coin reaches the float, so the gross mint and the realized circulating growth are the same number. BSV is a **quiet, capped, mining-only chain** drifting up at a sub-1% annualized pace.
 
 ## Sell pressure: where new BSV comes from
 
-Sell #1 — protocol inflation — is the only live source. Miners earn the **3.125 BSV** block subsidy on a roughly 10-minute block, which works out to about **40.5K BSV** over 90 days. BSV follows Bitcoin's halving schedule, so this subsidy halved in 2024 and will halve again around 2028, cutting the rate to 1.5625 BSV. It is the sole mechanism that creates new BSV.
+Sell #1 — protocol inflation — is the entire story, at about **0.04M BSV** over the next 90 days. Bitcoin SV mints new coins only through the mining block reward, which sits at **3.125 BSV** per block after the 2024 halving; at roughly 144 blocks a day that is about 450 BSV daily, or 40,500 over 90 days. There is no other issuance lever — no inflation rate set by governance, no staking emission, just the halving subsidy that drops again around 2028.
 
-Every other sell row is zero. Sell #2 — vesting unlocks — is zero: BSV is a fair-launch proof-of-work coin with no team allocation and no vesting schedule. Sell #3 — Foundation and unscheduled unlocks — is zero: there is no foundation reserve releasing into the market. Sell #4 — long-term locked or bankruptcy — is zero; coins not yet mined are released only by the block subsidy above, on the protocol's fixed schedule.
+Sell #2 — vesting unlocks — is **zero**, because BSV is a fair-launch Bitcoin fork: supply was inherited 1:1 from Bitcoin Cash holders at the November 2018 split, with no premine, no ICO and no team or seed allocation. Sell #3 — Foundation and unscheduled unlocks — is also zero; there is no foundation reserve or treasury wallet of inherited coins to deploy. Sell #4 — long-term locked or bankruptcy — is zero, since no bankruptcy estate or court-ordered distribution applies to BSV.
 
 ## Buy pressure: where new BSV goes
 
-The buy ledger is structurally empty, exactly as it is for Bitcoin. Buy #1 — programmatic buyback — is zero; there is no protocol buyback. Buy #2 — protocol fee burn — is zero; transaction fees are paid to miners as part of the block reward, not destroyed. Buy #3 — Foundation buy — is zero. Buy #4 — new long-term lock — is zero. Nothing absorbs BSV, so the net reading is simply the mined subsidy as a percentage of circulating supply.
+Every buy row is **zero**, which is the defining feature of BSV's supply profile. Buy #1 — programmatic buyback — does not exist: there is no protocol treasury or contract that buys coins off the open market. Buy #2 — protocol fee burn — is also zero, because BSV deliberately keeps the original Bitcoin fee model, where transaction fees are paid to miners rather than destroyed; there is no EIP-1559-style base-fee burn. Buy #3 — Foundation buy — and Buy #4 — new long-term lock — are both zero, with no discretionary open-market buying and no staking program or escrow to absorb supply. Nothing removes BSV from circulation, so the mint runs unopposed.
 
 ## Foundation and overhang
 
-BSV has no team-controlled overhang in the conventional sense. As a fair-launch proof-of-work coin, there was no premine, no investor allocation and no foundation reserve set aside at genesis — coins come into existence only when they are mined. The roughly **0.95M BSV** between current circulating (~20.05M) and the 21M cap will be released gradually over the coming decades by the halving-reduced subsidy, not by any discretionary entity. There is nothing held off-market on a release schedule to surprise the supply.
+BSV has no team-controlled overhang to enumerate — that is the direct consequence of the fair launch. There is no foundation multisig, no labs treasury, no DAO wallet and no unscheduled-unlock pool, because the chain never minted a premine or held back an allocation. The only supply not yet circulating is the roughly **0.95M BSV** still unmined toward the 21M cap, and that can enter only through the mining reward at the fixed block pace — not through any discretionary release. With no treasury that could move, there is no balance to refresh and no trigger condition that would push a flow into Sell #3 at a later refresh.
 
-## How BSV compares to other proof-of-work halving chains
+## How BSV compares to other capped proof-of-work chains
 
-BSV sits in the class of **capped proof-of-work coins on the Bitcoin halving schedule** — the same structural family as Bitcoin itself and Bitcoin Cash. All three share a 21M cap, a block subsidy that halves on a fixed timetable, and an empty buy side. Mechanically, their inflation readings are nearly identical in shape: a small, slowly-declining positive number driven entirely by the current subsidy, stepping down at each halving.
+BSV belongs to the class of **hard-capped, halving-model proof-of-work coins** — the same structural family as Bitcoin and Bitcoin Cash, the chain it forked from in 2018. All three share a 21M ceiling, a four-year halving rhythm and issuance that comes purely from mining, with no premine, no staking emission and no protocol burn. On an inflation lens they read almost identically: a low, steadily declining mint rate that halves every cycle and trends toward zero new issuance as the cap approaches.
 
-The contrast with uncapped emitters is the point. An uncapped proof-of-stake chain mints continuously and sizes issuance to stake; an exchange token burns its way down; a vesting-driven token releases on a corporate schedule. BSV does none of that — its supply curve was fixed at genesis and is fully mechanical. For an inflation reading, that makes BSV one of the most predictable assets in coverage: the only thing that changes the number is the halving clock.
+The contrast worth drawing is with uncapped proof-of-stake L1s, which mint on a continuous emission curve with no ceiling, and with exchange tokens that burn aggressively enough to go net-deflationary. BSV does neither — it has no burn to pull supply down and no uncapped curve to push it up. For an inflation read specifically, that makes BSV one of the quietest profiles in the catalog: supply growth is small, fully predictable from the block schedule, and capped by protocol code rather than by any entity's decision.
 
 ## What to watch in the next 90 days
 
-There is very little to watch, by design. The block subsidy is fixed until the next halving (~2028), so the ~40.5K BSV / 90-day rate holds steady. Watch hashrate only insofar as it changes block timing at the margin — faster blocks mean marginally more subsidy in a window, slower blocks marginally less, but the effect is small. There are no unlocks, no governance votes and no burn or buyback decisions that could move the supply. The next genuine step-change is the ~2028 halving.
+There is little to watch on the supply side, which is the point. The block reward holds at 3.125 BSV across this window, so the next 90 days will look like the last: about 0.04M new coins from mining and nothing else. The next halving, due around 2028, is the only scheduled change to the mint rate and is well outside this window. Watch BSV Association protocol announcements — the Chronicle upgrade landed in April 2026 and Teranode scaling work is ongoing — but note that those are throughput and node changes, not supply changes; none of them mint, burn or unlock coins. If any treasury, buyback or lock mechanism were ever introduced, it would enter the ledger at the next refresh.
 
 ## Summary
 
-BSV is a capped proof-of-work coin with the simplest supply ledger in coverage. The 3.125 BSV block subsidy mints about 40.5K BSV over 90 days — the only source of new supply — for a framework reading of +0.20% against the monitor's +0.22%, agreement within 0.02 percentage points. There is no vesting, no foundation overhang, no buyback and no burn. The supply curve is fully mechanical and fixed until the ~2028 halving, which will cut the subsidy in half. Among all assets, BSV's inflation is among the most predictable.
+BSV is a fair-launch, hard-capped proof-of-work Bitcoin fork whose supply grows only through the mining block reward. The chain adds about 0.04M BSV over 90 days at the 3.125 BSV subsidy, with no buyback, no burn, no vesting and no foundation overhang to offset or amplify it, leaving the framework at about +0.2% net. Our supply monitor reads +0.12% realized, an agreement that confirms every minted coin reaches the float. The key constraint is the 21M cap and the halving schedule; the key risk is simply that nothing removes supply, so BSV drifts mildly upward until the next halving slows the mint further.
 
----
-
-*MrNasdog Pressure Framework analysis of Bitcoin SV (BSV), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 14, 2026.*
+*MrNasdog Pressure Framework analysis of Bitcoin SV (BSV), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 25, 2026.*
