@@ -1,6 +1,6 @@
 ---
 title: "XMR Inflation Analysis · July 2026 · A fixed tail reward and almost no new supply"
-description: "A MrNasdog Pressure Framework read of Monero (XMR): a fixed 0.6-per-block tail emission (~0.039M / 90D, +0.21%) with no buyback or burn. Framework +0.2% net; monitor +1.71%, the gap a hidden-ledger estimate artifact."
+description: "A MrNasdog Pressure Framework read of Monero (XMR): a fixed 0.6-per-block tail emission (~0.039M / 90D, +0.21%) with no buyback or burn. Framework +0.2% net; monitor +1.83%, the gap a hidden-ledger estimate artifact."
 canonical_url: "https://mrnasdog.com/research/xmr/inflation"
 tags: ["crypto", "xmr", "monero", "privacy-coins"]
 published: true
@@ -8,11 +8,11 @@ published: true
 
 > Originally published at **[mrnasdog.com/research/xmr/inflation](https://mrnasdog.com/research/xmr/inflation)** by MrNasdog.
 
-**Monero mints a fixed 0.6 XMR per block, forever — about 0.039M XMR over 90 days, or roughly +0.21%. There is no buyback, no burn and nothing was ever premined, so the MrNasdog Pressure Framework reads about +0.2% net. Our supply monitor reads +1.71% — a gap that comes from Monero's hidden ledger, where circulating supply is estimated and the prior baseline was later re-based.**
+**Monero mints a fixed 0.6 XMR per block, forever — about 0.039M XMR over 90 days, or roughly +0.21%. There is no buyback, no burn and nothing was ever premined, so the MrNasdog Pressure Framework reads about +0.2% net. Our supply monitor reads +1.83% — a gap that comes from Monero's hidden ledger, where circulating supply is estimated and the prior baseline was later re-based.**
 
 ## The verdict, in one paragraph
 
-For the 90-day window ending **July 1 2026**, the MrNasdog Pressure Framework reads **XMR at about +0.2% net**, almost flat. The entire flow is one number: a fixed tail reward of **0.6 XMR per block** that mints roughly **0.039M XMR** a quarter. There is no vesting, no foundation reserve, no buyback and no burn, so nothing pushes the other way. Our supply monitor reads the realized last-90-day change at **+1.71%** — a gap of about **1.5 percentage points** that ships a **monitor-gap flag**. The gap is a measurement artifact, not new coins: at 0.6 XMR per block the protocol can physically mint only about **0.039M XMR** in 90 days, yet the monitor booked roughly **0.315M** — about eight times more than the reward allows. Monero hides its ledger, so circulating supply is estimated, and the 90-day-ago estimate was low and later re-based upward. The fixed mining reward is kept as primary, and XMR is best read as **near-flat by design**, with a small, permanent, and slowly-falling inflation rate.
+For the 90-day window ending **July 7 2026**, the MrNasdog Pressure Framework reads **XMR at about +0.2% net**, almost flat. The entire flow is one number: a fixed tail reward of **0.6 XMR per block** that mints roughly **0.039M XMR** a quarter. There is no vesting, no foundation reserve, no buyback and no burn, so nothing pushes the other way. Our supply monitor reads the realized last-90-day change at **+1.83%** — a gap of about **1.6 percentage points** that ships a **monitor-gap flag**. The gap is a measurement artifact, not new coins: at 0.6 XMR per block the protocol can physically mint only about **0.039M XMR** in 90 days, yet the monitor booked roughly **0.34M** — about eight times more than the reward allows. Monero hides its ledger, so circulating supply is estimated, and the 90-day-ago estimate was low and later re-based upward. The fixed mining reward is kept as primary, and XMR is best read as **near-flat by design**, with a small, permanent, and slowly-falling inflation rate.
 
 ## Sell pressure: where new XMR comes from
 
@@ -36,12 +36,12 @@ For an inflation lens, that makes XMR one of the lowest-issuance coins outside t
 
 ## What to watch in the next 90 days
 
-There is very little to watch, which is the point. The tail reward is a protocol constant, so barring a hard fork that changes it — none is proposed — the ~0.039M-per-90-days mint is locked in. The FCMP++ upgrade landing around mid-2026 and the later Seraphis and Jamtis work are privacy and functionality changes; none of them alter issuance. The one thing to keep an eye on is our supply monitor: because Monero hides its ledger, circulating supply is an estimate, and trackers disagree by hundreds of thousands of coins, which is exactly what produced this window's +1.71% reading against a true mint of about +0.21%. Expect the framework to keep reading near flat while the monitor occasionally jumps on estimate revisions; those jumps are measurement, not issuance.
+There is very little to watch, which is the point. The tail reward is a protocol constant, so barring a hard fork that changes it — none is proposed — the ~0.039M-per-90-days mint is locked in. The FCMP++ upgrade landing around mid-2026 and the later Seraphis and Jamtis work are privacy and functionality changes; none of them alter issuance. The one thing to keep an eye on is our supply monitor: because Monero hides its ledger, circulating supply is an estimate, and trackers disagree by hundreds of thousands of coins, which is exactly what produced this window's +1.83% reading against a true mint of about +0.21%. Expect the framework to keep reading near flat while the monitor occasionally jumps on estimate revisions; those jumps are measurement, not issuance.
 
 ## Summary
 
-XMR is a fair-launch proof-of-work privacy coin with a fixed tail reward of 0.6 XMR per block. That mints about 0.039M XMR over 90 days, roughly +0.21%, with no vesting, no foundation reserve, no buyback and no burn — so the framework reads about +0.2% net, almost flat. Our supply monitor reads +1.71% realized, but that gap is a measurement artifact: the protocol can only mint about 0.039M XMR in 90 days, and Monero's hidden ledger forces circulating supply to be estimated, with a low prior baseline later re-based upward. The fixed mining reward is kept as primary. XMR stays near-flat, with a small, permanent inflation rate that slowly falls as the supply grows.
+XMR is a fair-launch proof-of-work privacy coin with a fixed tail reward of 0.6 XMR per block. That mints about 0.039M XMR over 90 days, roughly +0.21%, with no vesting, no foundation reserve, no buyback and no burn — so the framework reads about +0.2% net, almost flat. Our supply monitor reads +1.83% realized, but that gap is a measurement artifact: the protocol can only mint about 0.039M XMR in 90 days, and Monero's hidden ledger forces circulating supply to be estimated, with a low prior baseline later re-based upward. The fixed mining reward is kept as primary. XMR stays near-flat, with a small, permanent inflation rate that slowly falls as the supply grows.
 
 ---
 
-*MrNasdog Pressure Framework analysis of Monero (XMR), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated July 1, 2026.*
+*MrNasdog Pressure Framework analysis of Monero (XMR), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated July 7, 2026.*
