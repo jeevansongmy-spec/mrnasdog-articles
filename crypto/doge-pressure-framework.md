@@ -1,6 +1,6 @@
 ---
 title: "DOGE Inflation Analysis · July 2026 · A fixed mint with nothing to burn it back"
-description: "A MrNasdog Pressure Framework read of Dogecoin (DOGE): ~1.3B / 90D of fixed protocol inflation at 10,000 per block, with no buyback or burn. Framework +0.84% net; monitor +0.81%."
+description: "A MrNasdog Pressure Framework read of Dogecoin (DOGE): ~1.3B / 90D of fixed protocol inflation at 10,000 per block, with no buyback or burn. Framework +0.84% net; monitor +0.70%."
 canonical_url: "https://mrnasdog.com/research/doge/inflation"
 tags: ["crypto", "doge", "dogecoin", "proof-of-work"]
 published: true
@@ -8,11 +8,11 @@ published: true
 
 > Originally published at **[mrnasdog.com/research/doge/inflation](https://mrnasdog.com/research/doge/inflation)** by MrNasdog.
 
-Dogecoin mints exactly **10,000 DOGE per block**, about one block a minute, adding roughly **1.3B DOGE** over 90 days. There is no buyback, no burn and no treasury offset, so every new coin is net new supply. The Pressure Framework reads about **+0.84% net**, in line with our supply monitor at **+0.81%**.
+Dogecoin mints exactly **10,000 DOGE per block**, about one block a minute, adding roughly **1.3B DOGE** over 90 days. There is no buyback, no burn and no treasury offset, so every new coin is net new supply. The Pressure Framework reads about **+0.84% net**, in line with our supply monitor at **+0.70%**.
 
 ## The verdict, in one paragraph
 
-For the 90-day window ending July 1 2026, the MrNasdog Pressure Framework reads **DOGE at +0.84% net** on the forward view, driven entirely by the fixed block reward — there is nothing on the buy side to offset it. Our supply monitor reads the realized last-90-day change at **+0.81%**, essentially matching the framework's **+0.84%** gross-emission read for the same window — a gap of just **0.03 percentage points**, well inside tolerance, so no monitor-gap flag ships. DOGE is **structurally inflationary at a low, steady pace**: roughly 5B new coins a year, on a percentage base that grows each year, so the inflation rate slowly drifts down even though the coin count per day never changes.
+For the 90-day window ending July 7 2026, the MrNasdog Pressure Framework reads **DOGE at +0.84% net** on the forward view, driven entirely by the fixed block reward — there is nothing on the buy side to offset it. Our supply monitor reads the realized last-90-day change at **+0.70%**, essentially matching the framework's **+0.84%** gross-emission read for the same window — a gap of just **0.14 percentage points**, well inside tolerance, so no monitor-gap flag ships. DOGE is **structurally inflationary at a low, steady pace**: roughly 5B new coins a year, on a percentage base that grows each year, so the inflation rate slowly drifts down even though the coin count per day never changes.
 
 ## Sell pressure: where new DOGE comes from
 
@@ -40,8 +40,8 @@ Watch the block reward itself — a proposal to cut the reward from 10,000 to 1,
 
 ## Summary
 
-DOGE is an uncapped proof-of-work coin whose supply grows by a fixed, non-halving block reward. The chain mints about 1.3B DOGE over 90 days — roughly 14.4M a day at 10,000 per block — while the buy side is completely empty: no buyback, no burn, no treasury buying. That leaves the framework at about +0.84% net, matching our supply monitor at +0.81%. DOGE stays mildly inflationary, with the coin count per day fixed and the inflation rate slowly drifting down only because the circulating base keeps growing underneath it.
+DOGE is an uncapped proof-of-work coin whose supply grows by a fixed, non-halving block reward. The chain mints about 1.3B DOGE over 90 days — roughly 14.4M a day at 10,000 per block — while the buy side is completely empty: no buyback, no burn, no treasury buying. That leaves the framework at about +0.84% net, matching our supply monitor at +0.70%. DOGE stays mildly inflationary, with the coin count per day fixed and the inflation rate slowly drifting down only because the circulating base keeps growing underneath it.
 
 ---
 
-*MrNasdog Pressure Framework analysis of Dogecoin (DOGE), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated July 1, 2026.*
+*MrNasdog Pressure Framework analysis of Dogecoin (DOGE), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated July 7, 2026.*
