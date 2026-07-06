@@ -10,11 +10,11 @@ published: true
 
 # BNB Inflation Analysis · July 2026 · No new supply, burning toward 100M
 
-BNB mints no new supply at all. Nothing enters the sell side, while the quarterly Auto-Burn removes about **1.57M BNB** and a real-time gas-fee burn removes a little more — a net of roughly **−1.17%** over 90 days against the inflation monitor's **−1.15%**. BNB is deflationary by design, shrinking on a fixed path toward a permanent 100M floor.
+BNB mints no new supply at all. Nothing enters the sell side, while the quarterly Auto-Burn removes about **1.57M BNB** and a real-time gas-fee burn removes a little more — a net of roughly **−1.17%** over 90 days against the inflation monitor's **−1.14%**. BNB is deflationary by design, shrinking on a fixed path toward a permanent 100M floor.
 
 ## The verdict, in one paragraph
 
-For the 90-day window ending July 1 2026, the MrNasdog Pressure Framework reads **BNB at −1.17% net** — supply is contracting. The independent inflation monitor reads **−1.15%**, a gap of just **0.02 percentage points**, well inside tolerance, so no data-conflict chip is raised. The structure is unusually clean: there is no issuance, no vesting, and no team reserve releasing into the market. The only flows are burns, which only remove supply. BNB is **deflationary by structural buyback-and-burn**, and the contraction continues until total supply reaches the protocol's 100M floor.
+For the 90-day window ending July 7 2026, the MrNasdog Pressure Framework reads **BNB at −1.17% net** — supply is contracting. The independent inflation monitor reads **−1.14%**, a gap of just **0.03 percentage points**, well inside tolerance, so no data-conflict chip is raised. The structure is unusually clean: there is no issuance, no vesting, and no team reserve releasing into the market. The only flows are burns, which only remove supply. BNB is **deflationary by structural buyback-and-burn**, and the contraction continues until total supply reaches the protocol's 100M floor.
 
 ## Sell pressure: where new BNB comes from
 
@@ -44,8 +44,8 @@ The next **quarterly Auto-Burn is expected around July 15 2026** (the 36th), and
 
 ## Summary
 
-BNB is deflationary by design. There is no issuance, no vesting, and no team reserve entering the market, so the entire sell ledger reads zero. The 35th quarterly Auto-Burn removed about 1.57M BNB in April 2026, the next one lands inside this window around July 15 2026, and the continuous BEP-95 gas burn removes a little more — a framework reading of −1.17% net against the monitor's −1.15%, agreement within 0.02 percentage points. The supply path is one-directional, contracting toward a permanent 100M floor, and the main variable is the pace of the next quarterly burn. Among exchange tokens, BNB is one of the cleanest structural-burn cases; it cannot turn inflationary without a protocol change.
+BNB is deflationary by design. There is no issuance, no vesting, and no team reserve entering the market, so the entire sell ledger reads zero. The 35th quarterly Auto-Burn removed about 1.57M BNB in April 2026, the next one lands inside this window around July 15 2026, and the continuous BEP-95 gas burn removes a little more — a framework reading of −1.17% net against the monitor's −1.14%, agreement within 0.03 percentage points. The supply path is one-directional, contracting toward a permanent 100M floor, and the main variable is the pace of the next quarterly burn. Among exchange tokens, BNB is one of the cleanest structural-burn cases; it cannot turn inflationary without a protocol change.
 
 ---
 
-*MrNasdog Pressure Framework analysis of BNB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated July 1, 2026.*
+*MrNasdog Pressure Framework analysis of BNB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated July 7, 2026.*
