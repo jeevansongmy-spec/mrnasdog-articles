@@ -1,5 +1,5 @@
 ---
-title: "CHIP Inflation Analysis · June 2026 · Mixed flows, supply roughly steady on a fixed cap"
+title: "CHIP Inflation Analysis · July 2026 · Mixed flows, supply roughly steady on a fixed cap"
 description: "A MrNasdog Pressure Framework read of USD.AI (CHIP): fixed 10B supply, no mint or burn; the Jun 17 2026 protected maturity added no net float and the big insider cliff waits until 2027. Net ~0%."
 canonical_url: "https://mrnasdog.com/research/chip/inflation"
 tags: ["crypto", "chip", "usd-ai", "rwa"]
@@ -12,11 +12,11 @@ CHIP is the fixed-supply governance token of USD.AI, a GPU-backed lending protoc
 
 ## The verdict, in one paragraph
 
-For the 90-day window ending June 26 2026, the MrNasdog Pressure Framework reads **CHIP at about 0% net** on the last-90-day view and projects **about 0% net** forward: a **fixed 10B supply** with no protocol emission, no buyback and no burn means nothing is added or removed. The protected sale tranche that matured on **June 17 2026** already came and went without lifting the circulating count — CHIP's float held flat at **~2.0B** across it — and the big investor (29.6%) and contributor (23.5%) cliffs do not start releasing until around **April 2027**, so no scheduled unlock falls inside this window. Our supply monitor reads a **−38% change**, but that is a token-identity mismatch, not a CHIP supply event: the monitor tracks USD.AI's redeemable synthetic dollar, which shrank as users withdrew, while CHIP's own supply is fixed — so a **⚠ monitor-gap chip** ships to flag that the monitor points at a different asset. CHIP is best read as **fixed-supply with a large unlock overhang still ahead**.
+For the 90-day window ending July 6 2026, the MrNasdog Pressure Framework reads **CHIP at about 0% net** on the last-90-day view and projects **about 0% net** forward: a **fixed 10B supply** with no protocol emission, no buyback and no burn means nothing is added or removed. The protected sale tranche that matured on **June 17 2026** already came and went without lifting the circulating count — CHIP's float held flat at **~2.0B** across it — and the big investor (29.6%) and contributor (23.5%) cliffs do not start releasing until around **April 2027**, so no scheduled unlock falls inside this window. Our supply monitor reads a **−38% change**, but that is a token-identity mismatch, not a CHIP supply event: the monitor tracks USD.AI's redeemable synthetic dollar, which shrank as users withdrew, while CHIP's own supply is fixed — so a **⚠ monitor-gap chip** ships to flag that the monitor points at a different asset. CHIP is best read as **fixed-supply with a large unlock overhang still ahead**.
 
 ## Sell pressure: where new CHIP comes from
 
-Sell #1 — protocol inflation — is **zero**. CHIP has a fixed 10B maximum supply with no on-chain mint and no emission schedule, so the network creates no new CHIP; supply can only move as already-minted, locked tokens vest. That makes CHIP structurally non-inflationary at the protocol level — the opposite of a continuous-emission chain.
+Sell #1 — protocol inflation — is **zero**. CHIP has a fixed 10B maximum supply with no on-chain mint and no emission schedule, so the network creates no new CHIP; supply can only move as already-minted, locked tokens vest. That makes CHIP non-inflationary at the protocol level — the opposite of a continuous-emission chain.
 
 Sell #2 — vesting unlocks — is **zero** for this window. The protected sale tranche reached its yield-token maturity on **June 17 2026**, but the protected CHIP was already counted in the circulating float, so the maturity lifted the count by nothing; it was a price-protection settlement, not a fresh release. The large investor and contributor allocations — together a majority of supply — sit behind a 12-month cliff that does not begin releasing until **2027**, and the next protected maturity on **October 14 2026** sits just past this window. Sell #3 — Foundation and unscheduled unlocks — is zero as a flow: roughly **8B CHIP** (about 80% of supply) is locked across ecosystem, reserve, investor and contributor buckets, and the Season 2 ecosystem rewards program runs through October 14 2026, but none of it has a dated, fixed-quantum release inside this window. Sell #4 — long-term locked or bankruptcy — is zero, because no bankruptcy estate or court distribution applies to CHIP.
 
@@ -44,4 +44,4 @@ CHIP is a fixed-supply governance token for USD.AI, a GPU-backed lending protoco
 
 ---
 
-*MrNasdog Pressure Framework analysis of USD.AI (CHIP), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 26, 2026.*
+*MrNasdog Pressure Framework analysis of USD.AI (CHIP), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated July 6, 2026.*
