@@ -1,6 +1,6 @@
 ---
-title: "OKB Inflation Analysis · June 2026 · A frozen 21M supply"
-description: "A MrNasdog Pressure Framework read of OKB: a permanent 21M cap with minting and burning removed from the contract. Framework 0.00% net; the supply monitor agrees at +0.03%."
+title: "OKB Inflation Analysis · July 2026 · A frozen 21M supply"
+description: "A MrNasdog Pressure Framework read of OKB: a permanent 21M cap with minting and burning removed from the contract. Framework 0.00% net; the supply monitor agrees at −0.05%."
 canonical_url: "https://mrnasdog.com/research/okb/inflation"
 tags: ["crypto", "okb", "okx", "exchange-token"]
 published: true
@@ -8,21 +8,21 @@ published: true
 
 > Originally published at **[mrnasdog.com/research/okb/inflation](https://mrnasdog.com/research/okb/inflation)** by MrNasdog.
 
-OKB has a permanent **21,000,000** supply with both minting and burning removed from its smart contract since August 2025 — nothing can add OKB and nothing can destroy it. The MrNasdog Pressure Framework reads a flat **0.00% net**. Our supply monitor reads **+0.03%** over the last 90 days — effectively flat, now that the circulating figure has settled to exactly 21M after the 2025 burn — so the two readings agree.
+OKB has a permanent **21,000,000** supply with both minting and burning removed from its smart contract since August 2025 — nothing can add OKB and nothing can destroy it. The MrNasdog Pressure Framework reads a flat **0.00% net**. Our supply monitor reads **−0.05%** over the last 90 days — effectively flat, just noise in the derived circulating figure around exactly 21M — so the two readings agree.
 
 ## The verdict, in one paragraph
 
-For the 90-day window ending June 26 2026, the MrNasdog Pressure Framework reads **OKB at 0.00% net** — there is no protocol inflation and no burn, so the supply does not move. Our supply monitor reads the realized last-90-day change at **+0.03%**, a gap of about **0.03 percentage points** — so the two readings agree and there is **no monitor-gap flag**. On-chain OKB is a hard **21,000,000** with mint and burn functions removed from the contract, so nothing can change it; the tiny monitor reading is the derived circulating figure finishing its settle to exactly 21M after the August 2025 burn, not a sale or a burn. OKB is **structurally fixed, capped-but-flat** — a Bitcoin-style hard cap with no remaining issuance and no remaining burn.
+For the 90-day window ending July 6 2026, the MrNasdog Pressure Framework reads **OKB at 0.00% net** — there is no protocol inflation and no burn, so the supply does not move. Our supply monitor reads the realized last-90-day change at **−0.05%**, a gap of about **0.05 percentage points** — so the two readings agree and there is **no monitor-gap flag**. On-chain OKB is a hard **21,000,000** with mint and burn functions removed from the contract, so nothing can change it; the tiny monitor reading is noise in the mcap-and-price-derived circulating figure, which hovers at exactly 21M, not a sale or a burn. OKB is **structurally fixed, capped-but-flat** — a Bitcoin-style hard cap with no remaining issuance and no remaining burn.
 
 ## Sell pressure: where new OKB comes from
 
-There is no new OKB. Sell #1 — protocol inflation — is **zero**: the OKB smart contract was upgraded in August 2025 to remove the mint function entirely, so no new token can ever be created. This is the defining change in OKB's tokenomics — the same upgrade that cut total supply to a permanent 21M also made that 21M immutable. Sell #2 — vesting unlocks — is **zero**, because OKB is fully unlocked with no team, investor or treasury schedule still releasing tokens; unlock trackers show no upcoming events.
+There is no new OKB. Sell #1 — protocol inflation — is **zero**: the OKB smart contract was upgraded in August 2025 to remove the mint function entirely, so no new token can ever be created. This is the defining change in OKB's tokenomics — the same upgrade that cut total supply to a permanent 21M also made that 21M immutable. Sell #2 — vesting unlocks — is **zero**, because OKB is fully unlocked: its circulating supply equals the entire 21M, so no team, investor or treasury schedule is still releasing tokens.
 
-Sell #3 — Foundation and unscheduled unlocks — is **zero** as a flow. The company reserve tokens that funded the 2025 burn were destroyed, and the entire 21M supply is now counted as circulating, so there is no off-market overhang waiting to be released. Sell #4 — long-term locked or bankruptcy — is **zero**, because no bankruptcy estate or court distribution applies to OKB. Every sell row is structurally zero, and none of them can become non-zero without a new contract.
+Sell #3 — Foundation and unscheduled unlocks — is **zero** as a flow. The company reserve tokens that funded the August 2025 burn were destroyed, and the entire 21M supply is now counted as circulating, so there is no off-market overhang waiting to be released. Sell #4 — long-term locked or bankruptcy — is **zero**, because no bankruptcy estate or court distribution applies to OKB. Every sell row is structurally zero, and none of them can become non-zero without a new contract.
 
 ## Buy pressure: where new OKB goes
 
-The buy side is just as empty, and for the same structural reason. Buy #1 — programmatic buyback — is **zero**: OKX historically ran a quarterly buyback-and-burn funded by a share of trading fees, but that program was retired in the 2025 upgrade (the last burn report covered March through May 2025), and the burn function was removed from the contract, so OKB can no longer be destroyed even if the exchange wanted to. Buy #2 — protocol fee burn — is **zero**, because X Layer keeps gas fees near-zero and does not burn OKB to pay them.
+The buy side is just as empty, and for the same structural reason. Buy #1 — programmatic buyback — is **zero**: OKX historically ran a quarterly buyback-and-burn funded by a share of trading fees, but that program was retired in the 2025 upgrade, and the burn function was removed from the contract, so OKB can no longer be destroyed even if the exchange wanted to. Buy #2 — protocol fee burn — is **zero**: X Layer uses OKB as its gas token, but those gas fees are paid to the network's sequencers and circulate rather than being burned — on X Layer, gas consumption does not equal deflation.
 
 Buy #3 — Foundation buy — and Buy #4 — new long-term lock — are both **zero**, with no disclosed open-market accumulation and no new escrow announced in the window. It is worth being precise here: even a large OKX buyback today would not register as buy pressure in the inflation sense, because there is no longer any way to burn the tokens — they would simply move between wallets inside a fixed 21M supply.
 
@@ -38,12 +38,12 @@ The cleanest analogue is Bitcoin's hard cap, but OKB reaches it differently: Bit
 
 ## What to watch in the next 90 days
 
-The single most important watch item is whether the contract stays immutable — as long as mint and burn remain removed, the supply cannot change, and the framework stays at 0.00%. Watch X Layer activity, since growing gas demand for OKB raises usage without touching supply. Watch for any official statement reintroducing a burn or buyback program, which would be a tokenomics change rather than a routine event. And expect the framework and the supply monitor to keep agreeing at roughly flat, now that the circulating figure has finished settling to exactly 21M.
+The single most important watch item is whether the contract stays immutable — as long as mint and burn remain removed, the supply cannot change, and the framework stays at 0.00%. Watch X Layer activity, since growing gas demand for OKB raises usage without touching supply. Watch for any official statement reintroducing a burn or buyback program, which would be a tokenomics change rather than a routine event. And expect the framework and the supply monitor to keep agreeing at roughly flat, with the monitor oscillating by a few hundredths of a percent around exactly 21M.
 
 ## Summary
 
-OKB is an exchange token whose supply is permanently fixed at 21,000,000, with minting and burning both removed from the smart contract in the August 2025 upgrade. Nothing adds OKB and nothing removes it, so the Pressure Framework reads a flat 0.00% net on both the last and next 90 days. Our supply monitor agrees at +0.03%, now that circulating has settled to exactly 21M after the burn. The key fact is structural: OKB is capped-but-flat, a frozen hard-cap token, and its inflation reading cannot change without a new contract.
+OKB is an exchange token whose supply is permanently fixed at 21,000,000, with minting and burning both removed from the smart contract in the August 2025 upgrade. Nothing adds OKB and nothing removes it, so the Pressure Framework reads a flat 0.00% net on both the last and next 90 days. Our supply monitor agrees at −0.05%, effectively flat around exactly 21M. The key fact is structural: OKB is capped-but-flat, a frozen hard-cap token, and its inflation reading cannot change without a new contract.
 
 ---
 
-*MrNasdog Pressure Framework analysis of OKB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 26 2026.*
+*MrNasdog Pressure Framework analysis of OKB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated July 6, 2026.*
