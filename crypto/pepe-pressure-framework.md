@@ -1,49 +1,49 @@
 ---
-title: "PEPE Inflation Analysis · June 2026 · Mixed flows, supply roughly steady"
-description: "A MrNasdog Pressure Framework read of Pepe (PEPE): a fixed ~420.69T cap, renounced contract, no mint, no tax, no burn, no team. Framework 0.00% net; monitor −0.13%."
+title:         "PEPE Inflation Analysis · July 2026 · Fixed, renounced supply, a flat read"
+description:   "Pepe has no mint, no vesting, no protocol burn and no buyback against a 420.69T supply. Framework reads 0.00% net; monitor +0.0086%, inside tolerance."
 canonical_url: "https://mrnasdog.com/research/pepe/inflation"
-tags: ["crypto", "pepe", "memecoin", "ethereum"]
-published: true
+tags:          ["crypto", "pepe", "memecoin", "ethereum"]
+published:     true
 ---
 
-> Originally published at **[mrnasdog.com/research/pepe/inflation](https://mrnasdog.com/research/pepe/inflation)** by MrNasdog.
+*Originally published at [mrnasdog.com/research/pepe/inflation](https://mrnasdog.com/research/pepe/inflation)*
 
-PEPE is a fixed **~420.69T** Ethereum ERC-20 meme coin with a renounced contract — no mint function, no transfer tax, no protocol burn, no buyback and no team allocation. The MrNasdog Pressure Framework reads **0.00% net** inflation over 90 days against a supply monitor reading of **−0.13%**, a structurally flat float where, whatever moves the PEPE price, it is not supply.
+# PEPE Inflation Analysis · July 2026 · Fixed, renounced supply, a flat read
+
+Pepe has **no mint function** and a renounced contract, so no new PEPE is created — sell pressure is **zero**. There is also no protocol burn and no buyback, so buy pressure is **zero** as well. The Pressure Framework reads PEPE at **0.00% net** over the last 90 days — flat. Our supply monitor agrees, reading **+0.0086%** over the same window, a gap well inside tolerance.
 
 ## The verdict, in one paragraph
 
-For the 90-day window ending June 24 2026 the framework books **PEPE at 0.00% net**: nothing mints, nothing burns at the protocol level, and no team unlock fired. The supply monitor reads the realized last-90-day change at **−0.13%**, a gap of just **0.13 percentage points** — well inside the half-point tolerance, so no **monitor-gap chip** is raised. PEPE is a fully-circulating, fixed-supply meme coin whose ledger is inert by design: a **quiet, supply-neutral float**.
+For the 90-day window ending July 13 2026, the MrNasdog Pressure Framework reads **PEPE at 0.00% net** — flat — on both the trailing and forward view. New supply is **zero** because PEPE is a fixed-supply Ethereum ERC-20 with no mint function and a renounced, immutable contract, and there is no offset either: no protocol fee burn and no buyback remove any PEPE. Our supply monitor reads the realized change at **+0.0086%**, versus the framework's **0.00%** — a gap of under **0.01 percentage points**, far inside the 0.5-point tolerance, so no monitor-gap chip is raised. PEPE is a **fixed, capped-by-code meme token**: its 420.69T supply neither grows nor shrinks, and only the market float moves around it.
 
 ## Sell pressure: where new PEPE comes from
 
-Nothing creates new PEPE. **Protocol inflation** is zero — the full **~420.69T** was hard-coded at the 2023 deployment and the contract is renounced, so there is no mint function and no path to new supply. **Vesting unlocks** are zero: PEPE launched with no team allocation and no investor cohort, with 93.1% of supply sent to the launch liquidity pool whose pool tokens were burned, and distribution finished at launch. **Foundation and unscheduled unlocks** are zero this window — the only identified team-controlled bucket is the launch multisig holding the 6.9% reserved for exchange listings and bridges, and no release was observed. **Long-term locked or bankruptcy** is zero — there is no estate and no court-ordered distribution.
+The short answer for PEPE is that no new PEPE comes from anywhere. Sell #1 — protocol inflation — is **zero**: the PEPE contract, deployed on Ethereum in 2023, has no mint function and ownership was renounced, so the 420.69T launch supply is fixed and can never be expanded. Sell #2 — vesting unlocks — is also **zero**: PEPE never had a team, seed or investor vesting schedule. About 93.1% of the supply went straight into an open Uniswap pool at launch, with the pool tokens burned, so there is no cliff waiting to reach the market.
+
+Sell #3 — Foundation and unscheduled unlocks — is **zero** as well. The remaining 6.9% launch allocation was earmarked for exchange listings, bridges and liquidity, and it has since been deployed to exchanges and dispersed; the original team multisig wallets read no PEPE on-chain today, so there is no identified static overhang left to release. Sell #4 — long-term locked or bankruptcy — is **zero**, since no bankruptcy estate or court-ordered distribution touches PEPE. Every sell row is empty, which is the cleanest possible inflation profile: a supply that simply cannot grow.
 
 ## Buy pressure: where new PEPE goes
 
-The buy side is empty by design. **Programmatic buyback** is zero — PEPE has no protocol generating fees, so there is no revenue to fund an open-market buyback. **Protocol fee burn** is zero — the contract carries no transfer tax and no burn function; community burn campaigns, including a discussed "$1B cumulative" initiative and a mid-2026 "$500M" milestone, are sporadic third-party sends rather than a protocol mechanism, and none executed on-chain in the window, so they are monitored rather than booked. **Foundation buy** is zero — there is no foundation; the project is community-run. **New long-term lock** is zero — PEPE has no staking and no lockup mechanism.
+Unlike many fixed-supply meme tokens, PEPE has no active buy-side force either, so the entire buy ledger is **zero**. Buy #1 — programmatic buyback — is **zero**: there is no revenue-funded contract repurchasing PEPE. Buy #2 — protocol fee burn — is **zero**: PEPE is a plain ERC-20 with no transaction tax and no automatic burn, so nothing is removed on every transfer. The only burn on record is a one-off community burn of about **6.9T PEPE** sent to the dead address back in 2023, after a multisig incident; that event is long outside the current window and is not a recurring mechanism. Buy #3 — Foundation buy — and Buy #4 — new long-term lock — are both **zero**, with no discretionary open-market buying or new escrow announced in the window.
 
 ## Foundation and overhang
 
-PEPE carries one team-controlled overhang: the **launch multisig** holding the 6.9% genesis allocation reserved for centralized-exchange listings and bridges — roughly **29T** at genesis, partially deployed over the years. It has no published release schedule and is walked by hand on a bi-weekly basis. If the multisig's balance falls between refreshes, the outflow enters Sell #3 at the next refresh. There is no foundation treasury beyond this multisig — the half of the conceptual "team" structure that most tokens carry simply does not exist for PEPE.
+PEPE has no team-controlled overhang to track today. The launch design kept only the 6.9% exchange-listing allocation aside, and that allocation has already done its job: part of it was moved to exchanges over 2023 and 2024, a chunk was lost and sold in the 2023 multisig incident, and roughly 6.9T was burned to the dead address. The wallets historically associated with that allocation now hold no PEPE, so there is no foundation treasury, no vesting calendar and no insider stockpile whose balance could fall and feed Sell #3. The framework re-walks the identified wallets on a roughly bi-weekly basis; if a previously unknown team-controlled balance were ever identified and began to move, the outflow would enter Sell #3 at the next refresh — but no such overhang is identified today.
 
-The monitor's **−0.13%** reading is worth reading correctly: it is not a burn the framework failed to credit, and it cannot be new supply — PEPE has no mechanism that could create tokens. A change of a few hundred billion against a 420.69T float is a few hundredths of one percent of supply, well within the noise of how an aggregator counts wallets at the margin between circulating and non-circulating. The framework books 0.00% because no protocol mechanism moved supply; the monitor's tiny negative is upstream measurement drift, not a structural flow worth booking.
+## How PEPE compares to other fixed-supply meme tokens
 
-## How PEPE compares to other meme coins
+PEPE belongs to the class of **fixed-supply, mint-disabled meme tokens** — closer in mechanism to a hard-capped coin than to a continuous-emission chain. The nearest analogue is Shiba Inu, which is also a mint-disabled Ethereum token, but SHIB runs a small ongoing Shibarium fee burn that nudges its supply very slightly down. PEPE has no such burn at all, so where SHIB reads as marginally deflationary, PEPE reads as exactly flat: nothing is added and nothing is removed.
 
-Among large meme coins, PEPE is the cleanest fixed-supply case. Shiba Inu shares the no-mint, community-run structure but adds active burn routes — an L2 gas-to-burn and swap-fee burns — though those have collapsed to an immaterial pace against its enormous float, leaving SHIB's reading flat too. Dogecoin runs the opposite model: an uncapped tail emission of a fixed number of coins per block, which makes DOGE mildly but perpetually inflationary where PEPE is fixed. PEPE's ~420.69T is hard-coded behind a renounced contract and unchangeable, so its supply trajectory is the flattest of the three.
-
-The mechanism that defines PEPE is the absence of mechanism: no tax, no burn, no mint, no vesting, no foundation. That makes it a pure float-and-demand asset — the framework has nothing to model on the supply side because the supply side does nothing. Whatever drives PEPE's market is sentiment, liquidity and listings, not tokenomics; even the April 2026 spot-PEPE ETF filing and heavy whale accumulation are demand-side events that move ownership, not supply.
+The sharper contrast is with Dogecoin, the other giant meme coin, which is **uncapped** and mints a fixed block reward forever — roughly 5 billion new DOGE a year — making it structurally inflationary. PEPE is the opposite: a hard, renounced cap with no issuance and no burn. For an inflation lens specifically, that places PEPE firmly in the neutral band — capped by code, with a supply that can only move if the community stages another discretionary burn.
 
 ## What to watch in the next 90 days
 
-Little is scheduled. The one structural watch line is the **launch multisig** — a large deployment of the exchange/bridge reserve would register as Sell #3 at the next refresh. A **community burn campaign** reaching a scale that dents a 420.69T float would move the buy side, but historically these have been immaterial. The mid-2026 "$500M" community burn milestone is the headline number to track, though it remains aspirational rather than executed. Absent any of these, the framework reading stays at 0.00% net — there is no emission schedule, no halving and no vesting cliff that could change the picture on a calendar.
-
-A fair question is why a fixed-supply meme coin needs an inflation analysis at all. The answer is that the framework's job is to certify the zero, not assume it: a token can claim a fixed supply while quietly running a transfer tax, a discretionary mint, or a large team unlock that the headline cap hides. For PEPE the framework checked each — no mint function in the renounced contract, no transfer tax, no vesting cliffs, no foundation treasury — and confirmed the only team-controlled bucket is the 6.9% launch multisig. The reading of 0.00% is therefore an audited result, not a default.
+Watch for any community burn campaign that actually executes on-chain — a circulating "$500M burn" narrative has been floated, but until PEPE is verifiably sent to the dead address it does not move the framework reading. Watch the wallets tied to the old exchange-listing allocation; if any identified team-controlled balance reappears and begins moving, it would enter Sell #3. Note that the contract's lack of a mint function is permanent and renounced, so there is no unlock, emission or governance lever that could ever flip PEPE inflationary. And keep an eye on the spot-ETF track — a Canary Capital S-1 was filed in April 2026 — but an ETF changes custody and demand, not the token's fixed supply, so it does not touch this ledger.
 
 ## Summary
 
-PEPE is a fixed **~420.69T** ERC-20 meme coin on Ethereum with a renounced contract — no mint, no tax, no burn, no team and no foundation — so the Pressure Framework reads **0.00% net** inflation over 90 days against a monitor reading of **−0.13%**, a 0.13-point gap that raises no chip. The only supply variable is the 6.9% launch multisig reserved for listings and bridges. Until that bucket moves at scale, PEPE's supply is among the most inert in coverage — a clean float where price is driven by demand, not dilution.
+PEPE is a fixed-supply Ethereum meme token with no mint function and a renounced contract, so its supply can never grow. Sell pressure is zero across every row — no minting, no vesting, no foundation overhang, no bankruptcy — and buy pressure is zero too, since PEPE has no protocol burn and no buyback. That leaves the framework at 0.00% net — flat — with our supply monitor confirming +0.0086% realized, a gap well inside tolerance. PEPE scores as a capped-by-code token whose supply simply sits still: the only thing that can change it is a discretionary community burn, and none fired in the current window.
 
 ---
 
-*MrNasdog Pressure Framework analysis of PEPE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 24, 2026.*
+*MrNasdog Pressure Framework analysis of Pepe (PEPE), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated July 13, 2026.*
