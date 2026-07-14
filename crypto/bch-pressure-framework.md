@@ -1,6 +1,6 @@
 ---
 title: "BCH Inflation Analysis · July 2026 · Mixed flows, supply roughly steady"
-description: "A MrNasdog Pressure Framework read of Bitcoin Cash (BCH): ~0.04M / 90D of proof-of-work block rewards, no buyback and no burn. Framework +0.20% net; monitor +0.18%, near a 21M cap."
+description: "A MrNasdog Pressure Framework read of Bitcoin Cash (BCH): ~0.04M / 90D of proof-of-work block rewards, no buyback and no burn. Framework +0.20% net; monitor +0.19%, near a 21M cap."
 canonical_url: "https://mrnasdog.com/research/bch/inflation"
 tags: ["crypto", "bch", "bitcoin-cash", "proof-of-work"]
 published: true
@@ -8,21 +8,21 @@ published: true
 
 > Originally published at **[mrnasdog.com/research/bch/inflation](https://mrnasdog.com/research/bch/inflation)** by MrNasdog.
 
-Bitcoin Cash mints about **0.04M BCH** every 90 days from its fixed proof-of-work block reward of 3.125 BCH, with nothing offsetting it. Framework reading: **+0.20% net** on a ~20.06M circulating base against a 21M hard cap — about 95% mined, with the next halving due around Apr 3 2028. The supply monitor reads **+0.18%**, a 0.02-point agreement.
+Bitcoin Cash mints about **0.04M BCH** every 90 days from its fixed proof-of-work block reward of 3.125 BCH, with nothing offsetting it. Framework reading: **+0.20% net** on a ~20.06M circulating base against a 21M hard cap — about 95% mined, with the next halving due around Apr 3 2028. The supply monitor reads **+0.19%**, a 0.02-point agreement.
 
 ## The verdict, in one paragraph
 
-For the 90-day window ending July 6 2026, the framework reads **Bitcoin Cash at +0.20% net inflation** — pure mining emission, no offsetting flow. The aggregator monitor reads **+0.18%**, a **0.02-percentage-point** gap — among the cleanest agreements in the catalog, so no monitor-gap chip ships. Bitcoin Cash is a quiet chain: fair-launch proof-of-work forked from Bitcoin in 2017, fully predictable emission, slowly approaching its 21M hard cap.
+For the 90-day window ending July 14 2026, the framework reads **Bitcoin Cash at +0.20% net inflation** — pure mining emission, no offsetting flow. The aggregator monitor reads **+0.19%**, a **0.02-percentage-point** gap — among the cleanest agreements in the catalog, so no monitor-gap chip ships. Bitcoin Cash is a quiet chain: fair-launch proof-of-work forked from Bitcoin in 2017, fully predictable emission, slowly approaching its 21M hard cap.
 
 ## Sell pressure: where new BCH comes from
 
 One source only. Sell #1 (protocol inflation) booked **~0.04M BCH**: the Bitcoin Cash block reward pays **3.125 BCH** per block at a ten-minute block target — roughly 144 blocks and about 450 BCH per day, or 40,500 BCH per 90 days. The subsidy halves every 210,000 blocks; the next halving to 1.5625 BCH lands around **Apr 3 2028** — well outside the next 90 days. Sell #2 (vesting unlocks) is **0** forever: Bitcoin Cash forked fair in Aug 2017 with no premine, no team allocation, and no investor vesting. Sell #3 (Foundation and unscheduled unlocks) is **0** — there is no protocol-level foundation treasury and no discretionary stockpile to release. Sell #4 (bankruptcy) is **0**.
 
-The arithmetic is worth showing because so few coins allow it this cleanly. Bitcoin Cash targets a ten-minute block, so the chain produces about 144 blocks a day. At **3.125 BCH** each, that is roughly 450 BCH per day — 40,500 BCH across 90 days, or 0.20% of the 20.06M circulating base. The monitor measured **+0.18%** over the same window from the supply data alone, independently of this derivation. When a protocol's entire supply policy fits in two lines of multiplication and the observed chain matches it to two hundredths of a percent, the framework has nothing left to investigate — which is precisely the point of owning an asset like this.
+The arithmetic is worth showing because so few coins allow it this cleanly. Bitcoin Cash targets a ten-minute block, so the chain produces about 144 blocks a day. At **3.125 BCH** each, that is roughly 450 BCH per day — 40,500 BCH across 90 days, or 0.20% of the 20.06M circulating base. The monitor measured **+0.19%** over the same window from the supply data alone, independently of this derivation. When a protocol's entire supply policy fits in two lines of multiplication and the observed chain matches it to two hundredths of a percent, the framework has nothing left to investigate — which is precisely the point of owning an asset like this.
 
 ## Buy pressure: where new BCH goes
 
-Every buy-side row is **0**. Buy #1 (programmatic buyback) is 0 because Bitcoin Cash has no treasury and no protocol revenue, so there is nothing to fund open-market buying. Buy #2 (protocol fee burn) is 0 because transaction fees flow to miners inside the coinbase — nothing is destroyed. Buy #3 (Foundation buy) is 0; there is no accumulation programme. Buy #4 (new long-term lock) is 0: Bitcoin Cash is pure proof-of-work, with no staking and no lockup mechanism. New supply enters; nothing leaves the market.
+The buy ledger is entirely empty. Buy #1 (programmatic buyback) is **0**: Bitcoin Cash has no treasury and no protocol revenue, so there is nothing to fund open-market buying. Buy #2 (protocol fee burn) is **0**: transaction fees flow to miners inside the coinbase — nothing is destroyed. Buy #3 (Foundation buy) is **0**; there is no accumulation programme. Buy #4 (new long-term lock) is **0**: Bitcoin Cash is pure proof-of-work, with no staking and no lockup mechanism. New supply enters; nothing leaves the market.
 
 ## Foundation and overhang
 
@@ -44,4 +44,4 @@ Bitcoin Cash is a fair-launch, hard-cap proof-of-work chain emitting **~0.04M BC
 
 ---
 
-*MrNasdog Pressure Framework analysis of Bitcoin Cash (BCH), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated July 6, 2026.*
+*MrNasdog Pressure Framework analysis of Bitcoin Cash (BCH), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated July 14, 2026.*
