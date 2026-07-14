@@ -1,6 +1,6 @@
 ---
 title: "ONDO Inflation Analysis · July 2026 · Mixed flows, supply roughly steady"
-description: "A MrNasdog Pressure Framework read of Ondo Finance (ONDO): fixed 10B cap, between annual January cliffs, empty buy ledger. Framework reads 0.00% net; monitor -0.04%. Next cliff Jan 18 2027."
+description: "A MrNasdog Pressure Framework read of Ondo Finance (ONDO): fixed 10B cap, between annual January cliffs, empty buy ledger. Framework reads 0.00% net; monitor -0.03%. Next cliff Jan 18 2027."
 canonical_url: "https://mrnasdog.com/research/ondo/inflation"
 tags: ["crypto", "ondo", "rwa", "ondofinance"]
 published: true
@@ -8,11 +8,11 @@ published: true
 
 > Originally published at **[mrnasdog.com/research/ondo/inflation](https://mrnasdog.com/research/ondo/inflation)** by MrNasdog.
 
-Ondo Finance's ONDO is a fixed 10B governance token whose vesting releases on annual January cliffs — and the trailing 90-day window sits between them. The Pressure Framework reads **0.00% net** inflation against a monitor reading of **-0.04%**: no vesting cliff fired, the buy ledger is empty, and the supply is structurally flat until the Jan 18 2027 cliff.
+Ondo Finance's ONDO is a fixed 10B governance token whose vesting releases on annual January cliffs — and the trailing 90-day window sits between them. The Pressure Framework reads **0.00% net** inflation against a monitor reading of **-0.03%**: no vesting cliff fired, the buy ledger is empty, and the supply is structurally flat until the Jan 18 2027 cliff.
 
 ## The verdict, in one paragraph
 
-For the 90-day window ending July 3 2026, the framework books **ONDO at 0.00% net**: every sell row and every buy row is zero. The inflation monitor reads **-0.04%** over the same window — a gap of just **0.04 percentage points**, well inside the 0.5-point tolerance, so no monitor-gap flag is raised. ONDO is a quiet, cliff-vested RWA governance token: lumpy by design, and currently parked between cliffs.
+For the 90-day window ending July 14 2026, the framework books **ONDO at 0.00% net**: every sell row and every buy row is zero. The inflation monitor reads **-0.03%** over the same window — a gap of just **0.03 percentage points**, well inside the 0.5-point tolerance, so no monitor-gap flag is raised. ONDO is a quiet, cliff-vested RWA governance token: lumpy by design, and currently parked between cliffs.
 
 ## Sell pressure: where new ONDO comes from
 
@@ -40,7 +40,7 @@ Three things move the reading. First, the **locked Foundation allocations** — 
 
 ## Summary
 
-ONDO is a fixed 10B-cap RWA governance token with no scheduled inflation, cliff-based annual vesting, and an empty buy ledger, so the Pressure Framework reads **0.00% net** inflation for the trailing 90 days against a monitor reading of **-0.04%** — a 0.04-point gap, no chip. The supply is flat only because the window sits between January cliffs; the Jan 2027 cliff will release ~1.94B against zero structural buy. The single mechanism that would change the buy side is the unenacted DAO fee switch on Ondo's RWA revenue.
+ONDO is a fixed 10B-cap RWA governance token with no scheduled inflation, cliff-based annual vesting, and an empty buy ledger, so the Pressure Framework reads **0.00% net** inflation for the trailing 90 days against a monitor reading of **-0.03%** — a 0.03-point gap, no chip. The supply is flat only because the window sits between January cliffs; the Jan 2027 cliff will release ~1.94B against zero structural buy. The single mechanism that would change the buy side is the unenacted DAO fee switch on Ondo's RWA revenue.
 
 ---
 
