@@ -1,6 +1,6 @@
 ---
 title: "PENGU Inflation Analysis · July 2026 · Scheduled unlocks with nothing to burn them back"
-description: "A MrNasdog Pressure Framework read of Pudgy Penguins (PENGU): ~2.11B/90d of scheduled vesting unlocks vs no buyback and no burn. Framework +3.36% net; monitor flat at 0.00%."
+description: "A MrNasdog Pressure Framework read of Pudgy Penguins (PENGU): ~2.11B/90d of scheduled vesting unlocks vs no buyback and no burn. Framework +3.36% net; monitor flat at -0.10%."
 canonical_url: "https://mrnasdog.com/research/pengu/inflation"
 tags: ["crypto", "pengu", "pudgy-penguins", "memecoin"]
 published: true
@@ -8,17 +8,17 @@ published: true
 
 > Originally published at **[mrnasdog.com/research/pengu/inflation](https://mrnasdog.com/research/pengu/inflation)** by MrNasdog.
 
-Pudgy Penguins' PENGU has no protocol mint — all of its supply growth is vesting. A monthly linear unlock releases about **2.11B PENGU** over the next 90 days, three tranches of roughly **703.9M**, and there is **no buyback and no burn** to offset it. The Pressure Framework reads **+3.36% net** to market. Our supply monitor reads the public float **flat (0.00%)** — a gap the unlock schedule explains, and a ⚠ chip flags.
+Pudgy Penguins' PENGU has no protocol mint — all of its supply growth is vesting. A monthly linear unlock releases about **2.11B PENGU** over the next 90 days, three tranches of roughly **703.9M**, and there is **no buyback and no burn** to offset it. The Pressure Framework reads **+3.36% net** to market. Our supply monitor reads the public float **roughly flat (-0.10%)** — a gap the unlock schedule explains, and a ⚠ chip flags.
 
 ## The verdict, in one paragraph
 
-For the 90-day window from July 5 2026, the MrNasdog Pressure Framework reads **PENGU at +3.36% net** on the forward view, driven entirely by scheduled vesting unlocks with nothing on the buy side. Our supply monitor reads the realized last-90-day change at **+0.00%** — flat — versus the framework's **+3.36%** unlock read, a gap of about **3.36 percentage points** that ships a **⚠ monitor-gap chip**. The gap is structural: the published monthly unlocks are real and ongoing, but the coins land in team and treasury wallets that the circulating-float measure has not moved to count, so the monitor stays flat while the framework books the dated unlock as new sellable supply. PENGU is **structurally inflationary by unlock**, at a mid-single-digit quarterly pace, with no offset.
+For the 90-day window from July 14 2026, the MrNasdog Pressure Framework reads **PENGU at +3.36% net** on the forward view, driven entirely by scheduled vesting unlocks with nothing on the buy side. Our supply monitor reads the realized last-90-day change at **-0.10%** — essentially flat — versus the framework's **+3.36%** unlock read, a gap of about **3.46 percentage points** that ships a **⚠ monitor-gap chip**. The gap is structural: the published monthly unlocks are real and ongoing, but the coins land in team and treasury wallets that the circulating-float measure has not moved to count, so the monitor stays flat while the framework books the dated unlock as new sellable supply. Because the Solana mint authority is revoked, this is redistribution of already-minted, contract-locked supply rather than new issuance. PENGU is **structurally inflationary by unlock**, at a mid-single-digit quarterly pace, with no offset.
 
 ## Sell pressure: where new PENGU comes from
 
-Sell #1 — protocol inflation — is **zero**. PENGU is a fixed-supply brand token issued on Solana and Ethereum, not a chain's gas asset, so there is no block reward, no staking emission and no mint authority. The max supply is fixed at **88.9B PENGU**, and nothing new is created at the protocol level.
+Sell #1 — protocol inflation — is **zero**. PENGU is a fixed-supply brand token issued on Solana and Ethereum, not a chain's gas asset, so there is no block reward and no staking emission. On-chain, the Solana mint authority is revoked, which permanently disables minting. The max supply is fixed at **88.9B PENGU**, and nothing new can be created at the protocol level.
 
-Sell #2 — vesting unlocks — is the whole story, at about **2.11B PENGU** over the next 90 days. A monthly linear vest releases roughly **703.9M PENGU** per tranche — about **0.79%** of the max supply each time — to team, company and community allocations, on a schedule that runs through 2027 and into 2028. Three tranches fall inside the window: **Jul 17 2026**, **Aug 17 2026** and **Sep 17 2026**. These are already-minted coins moving from a locked contract into liquid, sellable hands — the classic unlock overhang converting to float, and the single force behind the reading.
+Sell #2 — vesting unlocks — is the whole story, at about **2.11B PENGU** over the next 90 days. A monthly linear vest releases roughly **703.9M PENGU** per tranche — about **1.12%** of the circulating float each time — to team and company allocations, on a schedule that runs through 2027 and into 2028. Three tranches fall inside the window: **Jul 17 2026**, **Aug 17 2026** and **Sep 17 2026**. These are already-minted coins moving from a locked contract into liquid, sellable hands — the classic unlock overhang converting to float, and the single force behind the reading.
 
 Sell #3 — Foundation and unscheduled unlocks — is **zero** as a flow. About **26B PENGU** remains locked, but only the monthly linear vest sits on a published forward schedule, and that is already counted in Sell #2; no dated discretionary treasury release is scheduled in the window, so the remaining overhang is tracked, not booked. Sell #4 — long-term locked or bankruptcy — is **zero**: no bankruptcy estate applies to PENGU, and the locked allocations release on the vesting schedule, not as a one-off long-term cliff.
 
@@ -42,8 +42,8 @@ Watch the three monthly unlock dates — **Jul 17 2026**, **Aug 17 2026** and **
 
 ## Summary
 
-PENGU is a fixed-supply brand token whose supply grows only through vesting. A monthly linear unlock releases about **2.11B PENGU** over 90 days — three tranches of roughly **703.9M** — while no buyback and no burn offsets it, leaving the framework at **+3.36% net** to market. Our supply monitor reads the public float flat at **0.00%**, with the gap explained by unlocked coins accruing to team and treasury wallets the float measure has not yet counted. PENGU stays inflationary by unlock, at a mid-single-digit quarterly pace, with a large **~26B** locked overhang still ahead and nothing structural to burn it back.
+PENGU is a fixed-supply brand token whose supply grows only through vesting. A monthly linear unlock releases about **2.11B PENGU** over 90 days — three tranches of roughly **703.9M** — while no buyback and no burn offsets it, leaving the framework at **+3.36% net** to market. Our supply monitor reads the public float roughly flat at **-0.10%**, with the gap explained by unlocked coins accruing to team and treasury wallets the float measure has not yet counted. PENGU stays inflationary by unlock, at a mid-single-digit quarterly pace, with a large **~26B** locked overhang still ahead and nothing structural to burn it back.
 
 ---
 
-*MrNasdog Pressure Framework analysis of Pudgy Penguins (PENGU), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated July 5, 2026.*
+*MrNasdog Pressure Framework analysis of Pudgy Penguins (PENGU), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated July 14, 2026.*
