@@ -3,7 +3,11 @@ title: "Portfolio Alerts: An Email The Day I Buy Or Sell"
 description: "My four crypto portfolios have always been public. Now members don't have to check: the day I move real money, they get one short email listing every trade."
 canonical_url: "https://mrnasdog.com/analysis/portfolio-alerts"
 tags: ["crypto", "investing", "transparency"]
-published: true
+# Dev.to only. Unpublished there on MrNasdog's instruction (Jul 19 2026) — a
+# product announcement is off-key for that audience. GitHub + Telegram stand.
+# Keep this false: syndicate.py sends it straight through to the Dev.to PUT, so
+# flipping it back to true is what would republish the post.
+published: false
 ---
 
 > Originally published at **[mrnasdog.com/analysis/portfolio-alerts](https://mrnasdog.com/analysis/portfolio-alerts)** by MrNasdog.
