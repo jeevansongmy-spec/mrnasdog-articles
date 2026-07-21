@@ -73,7 +73,7 @@
     "devto_url": "https://dev.to/mrnasdog/nft-inflation-analysis-june-2026-fixed-supply-distribution-finished-sitting-flat-2pp",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/apenft-pressure-framework.md",
     "site": "crypto",
-    "telegram_message_id": 95
+    "telegram_message_id": 175
   },
   "apt-pressure-framework": {
     "devto_id": 3882198,
@@ -973,6 +973,13 @@
     "site": "crypto",
     "telegram_message_id": 107
   },
+  "tezos-pressure-framework": {
+    "devto_id": 4191518,
+    "devto_url": "https://dev.to/mrnasdog/xtz-inflation-analysis-july-2026-supply-growing-projected-to-keep-growing-kko",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/tezos-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 177
+  },
   "the-quiet-strategy": {
     "devto_id": 3727637,
     "devto_url": "https://dev.to/mrnasdog/the-quiet-strategy-28d",
@@ -1114,11 +1121,25 @@
     "site": "crypto",
     "telegram_message_id": 66
   },
+  "zbcn-pressure-framework": {
+    "devto_id": 4191529,
+    "devto_url": "https://dev.to/mrnasdog/zbcn-inflation-analysis-july-2026-supply-growing-projected-to-keep-growing-2kdh",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/zbcn-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 178
+  },
   "zec-pressure-framework": {
     "devto_id": 4040142,
     "devto_url": "https://dev.to/mrnasdog/zec-inflation-analysis-july-2026-a-capped-miner-mint-with-a-12-lockbox-brake-5eh6",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/zec-pressure-framework.md",
     "site": "crypto",
     "telegram_message_id": 139
+  },
+  "zro-pressure-framework": {
+    "devto_id": 4191508,
+    "devto_url": "https://dev.to/mrnasdog/zro-inflation-analysis-july-2026-the-unlock-calendar-and-the-chain-disagree-36ok",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/zro-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 176
   }
 }
