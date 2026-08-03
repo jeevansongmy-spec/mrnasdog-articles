@@ -1,7 +1,7 @@
 ---
 title:         "NFT Inflation Analysis · July 2026 · Fixed supply, neutral 90-day flow"
 description:   "APENFT (NFT) has a fixed 999.99T supply. No ledger flow was verified in either 90-day window; the monitor shows a small +0.027% change."
-canonical_url: "https://mrnasdog.com/research/apenft/inflation"
+canonical_url: "https://mrnasdog.com/research/ainft/inflation"
 tags:          ["crypto", "nft", "apenft", "tron"]
 published:     true
 ---

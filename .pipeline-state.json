@@ -995,12 +995,26 @@
     "site": "crypto",
     "telegram_message_id": 124
   },
+  "tia-pressure-framework": {
+    "devto_id": 4291834,
+    "devto_url": "https://dev.to/mrnasdog/tia-inflation-analysis-august-2026-supply-growing-projected-to-keep-growing-53cm",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/tia-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 179
+  },
   "ton-pressure-framework": {
     "devto_id": 4008477,
     "devto_url": "https://dev.to/mrnasdog/ton-inflation-analysis-june-2026-faster-blocks-meet-a-loud-unlock-calendar-1ikl",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/ton-pressure-framework.md",
     "site": "crypto",
     "telegram_message_id": 136
+  },
+  "trump-pressure-framework": {
+    "devto_id": 4291835,
+    "devto_url": "https://dev.to/mrnasdog/trump-inflation-analysis-august-2026-supply-growing-projected-to-keep-growing-5761",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/trump-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 180
   },
   "trx-pressure-framework": {
     "devto_id": 3894087,
@@ -1044,6 +1058,13 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/vet-pressure-framework.md",
     "site": "crypto",
     "telegram_message_id": 171
+  },
+  "virtual-pressure-framework": {
+    "devto_id": 4291837,
+    "devto_url": "https://dev.to/mrnasdog/virtual-inflation-analysis-august-2026-a-capped-supply-with-one-vesting-stream-left-1n59",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/virtual-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 181
   },
   "vvv-pressure-framework": {
     "devto_id": 3943242,
