@@ -66,7 +66,7 @@
     "devto_id": 3866913,
     "devto_url": "https://dev.to/mrnasdog/algorand-algo-inflation-analysis-consensus-rewards-toward-a-10b-hard-cap-4c4k",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/algo-pressure-framework.md",
-    "telegram_message_id": 164
+    "telegram_message_id": 186
   },
   "apenft-pressure-framework": {
     "devto_id": 3943532,
@@ -108,7 +108,7 @@
     "devto_id": 3866915,
     "devto_url": "https://dev.to/mrnasdog/cosmos-hub-atom-inflation-analysis-dynamic-7-20-pos-band-no-cap-h5l",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/atom-pressure-framework.md",
-    "telegram_message_id": 162
+    "telegram_message_id": 187
   },
   "avax-pressure-framework": {
     "devto_id": 4131161,
@@ -150,7 +150,7 @@
     "devto_url": "https://dev.to/mrnasdog/beat-inflation-analysis-june-2026-supply-growing-projected-to-keep-growing-45a4",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/beat-pressure-framework.md",
     "site": "crypto",
-    "telegram_message_id": 62
+    "telegram_message_id": 183
   },
   "bgb-pressure-framework": {
     "devto_id": 4131166,
@@ -359,7 +359,7 @@
     "devto_url": "https://dev.to/mrnasdog/ethena-ena-inflation-analysis-mid-vesting-headwind-on-a-15b-hard-cap-3lde",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/ena-pressure-framework.md",
     "site": "crypto",
-    "telegram_message_id": 161
+    "telegram_message_id": 184
   },
   "ens-pressure-framework": {
     "devto_id": 3956198,
@@ -380,7 +380,7 @@
     "devto_url": "https://dev.to/mrnasdog/ethereum-classic-etc-inflation-analysis-pow-emission-toward-the-next-fifthening-8mb",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/etc-pressure-framework.md",
     "site": "crypto",
-    "telegram_message_id": 158
+    "telegram_message_id": 182
   },
   "eth-pressure-framework": {
     "devto_id": 3740790,
@@ -451,7 +451,7 @@
     "devto_url": "https://dev.to/mrnasdog/gt-inflation-analysis-june-2026-supply-shrinking-projected-to-keep-shrinking-2h36",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/gt-pressure-framework.md",
     "site": "crypto",
-    "telegram_message_id": 47
+    "telegram_message_id": 188
   },
   "hash-pressure-framework": {
     "devto_id": 3948190,
