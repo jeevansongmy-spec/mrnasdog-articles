@@ -191,8 +191,6 @@ def push_telegram(art, state, creds, dry, force):
     chan = creds.get("TELEGRAM_CHANNEL", "@mrnasdog")
     if not tok:
         raise RuntimeError("TELEGRAM_BOT_TOKEN missing from creds")
-    if state.get("telegram_message_id") and not force:
-        return f"skipped (already posted, msg {state['telegram_message_id']}; use --force to repost)"
     hashtags = " ".join("#" + t for t in art["devto_tags"][:3])
     text = (
         f"<b>{_esc(art['title'])}</b>\n\n"
@@ -200,8 +198,32 @@ def push_telegram(art, state, creds, dry, force):
         f"🔗 <a href=\"{art['canonical_url']}\">Read the full article</a>"
         + (f"\n\n{_esc(hashtags)}" if hashtags else "")
     )
+    existing = state.get("telegram_message_id")
+    # Update-in-place: if the article was already announced, EDIT that message so
+    # the channel reflects content refreshes (title/description changes on a
+    # rebuild) without spamming a duplicate post. --force posts a fresh message.
+    edit = existing and not force
     if dry:
+        if edit:
+            return f"would edit msg {existing} in {chan} (no new post)"
         return f"would post to {chan}:\n      " + text.replace("\n", "\n      ")
+    if edit:
+        status, resp = http(
+            "POST", f"https://api.telegram.org/bot{tok}/editMessageText",
+            {"Content-Type": "application/json"},
+            {"chat_id": chan, "message_id": existing, "text": text,
+             "parse_mode": "HTML", "disable_web_page_preview": False},
+        )
+        if resp.get("ok"):
+            return f"edited in place → {chan} (msg {existing})"
+        desc = str(resp.get("description", "")).lower()
+        # Identical content → Telegram refuses the edit; that's a success (already current).
+        if "not modified" in desc:
+            return f"already current → {chan} (msg {existing})"
+        # Message too old / undeletable / not found → fall through to a fresh post.
+        # otherwise surface the error.
+        if "message to edit not found" not in desc and "message can't be edited" not in desc:
+            raise RuntimeError(f"HTTP {status}: {resp}")
     status, resp = http(
         "POST", f"https://api.telegram.org/bot{tok}/sendMessage",
         {"Content-Type": "application/json"},
