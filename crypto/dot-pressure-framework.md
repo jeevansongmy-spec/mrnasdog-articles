@@ -1,18 +1,18 @@
 ---
-title:         "DOT Inflation Analysis · July 2026 · Supply growing, projected to keep growing"
-description:   "Polkadot mints ~14.0M DOT per 90 days in staking rewards under its new 2.1B hard cap, with no buyback and no burn since March 2026 — framework reads +0.83% net."
+title:         "DOT Inflation Analysis · August 2026 · Supply growing slowly, projected to keep growing"
+description:   "Polkadot mints ~14.0M DOT per 90 days in staking rewards under its new 2.1B hard cap, with no buyback and no burn since March 2026 — framework reads +0.83% net, monitor +0.95%."
 canonical_url: "https://mrnasdog.com/research/dot/inflation"
 tags:          ["crypto", "dot", "polkadot", "layer1"]
 published:     true
 ---
 
-*Originally published at [mrnasdog.com/research/dot/inflation](https://mrnasdog.com/research/dot/inflation)*
+> Originally published at **[mrnasdog.com/research/dot/inflation](https://mrnasdog.com/research/dot/inflation)** by MrNasdog.
 
-Over the last 90 days Polkadot minted about **14.0M DOT** in staking rewards on a **~1.70B** circulating base, and nothing offset it — no buyback, no burn. The MrNasdog Pressure Framework reads DOT at **+0.83%** net for the window and **+0.83%** forward; our independent supply monitor reads **+0.66%**, a gap of **0.17 percentage points** — inside tolerance, no flag. Since March 2026 DOT has been hard-capped at 2.1 billion and issues at a sharply reduced rate, but with the old treasury burn switched off it is still slowly, structurally inflationary.
+Over the last 90 days Polkadot minted about **14.0M DOT** in staking rewards on a **~1.70B** circulating base, and nothing offset it — no buyback, no burn. The MrNasdog Pressure Framework reads DOT at **+0.83%** net for the window and **+0.83%** forward; our independent supply monitor reads **+0.95%**, a gap of **0.12 percentage points** — inside tolerance, no flag. Since March 2026 DOT has been hard-capped at 2.1 billion and issues at a sharply reduced rate, but with the old treasury burn switched off it is still slowly, structurally inflationary.
 
 ## The verdict, in one paragraph
 
-For the 90-day window ending Jul 30 2026, the Pressure Framework reads **Polkadot at +0.83% net** on both the last-90-day and the forward view, because the same fixed issuance rate governs both. Our supply monitor independently reads the realised change at **+0.66%**, putting the gap at **0.17 percentage points** — comfortably inside tolerance, so there is **no monitor-gap flag** on this build. The small residual is the share of freshly minted DOT that is retained inside the network's Dynamic Allocation Pool and treasury rather than reaching the tradable float, which is why the float-based monitor reads a touch lower than gross issuance. Total sell pressure was **14.0M DOT** against **0** of buy pressure. The label that fits **Polkadot** is **structurally inflationary under a hard cap** — the 2.1 billion ceiling is real and permanent, but DOT still mints and no longer burns, so supply drifts up at a low, one-directional pace.
+For the 90-day window ending Aug 5 2026, the Pressure Framework reads **Polkadot at +0.83% net** on both the last-90-day and the forward view, because the same fixed issuance rate governs both. Our supply monitor independently reads the realised change at **+0.95%**, putting the gap at **0.12 percentage points** — comfortably inside tolerance, so there is **no monitor-gap flag** on this build. The two readings agree closely because newly minted DOT flows almost entirely to stakers and is counted as circulating, so realised supply growth tracks gross issuance; the small residual is measurement noise in the float-derived monitor rather than a real divergence in mechanism. Total sell pressure was **14.0M DOT** against **0** of buy pressure. The label that fits **Polkadot** is **structurally inflationary under a hard cap** — the 2.1 billion ceiling is real and permanent, but DOT still mints and no longer burns, so supply drifts up at a low, one-directional pace.
 
 ## Sell pressure: where new DOT comes from
 
@@ -28,7 +28,7 @@ Buy #3, foundation buy, is **zero** — the Web3 Foundation has disclosed no ope
 
 ## Foundation and overhang
 
-Polkadot has three team-controlled overhangs worth tracking, all governance-controlled rather than sitting on a dump schedule. The first is the **on-chain Treasury**, which held roughly **32M DOT** at the most recent quarterly report and is funded automatically and spent only through ratified governance proposals — every disbursement is dated and readable on-chain. The second is the **Dynamic Allocation Pool**, the new permanent account that now collects newly minted DOT plus fees, coretime revenue and slashes and holds them for governance to allocate; a portion of each block's issuance sits here before it reaches the float, which is exactly why the monitor's realised reading runs slightly below gross issuance. The third is the **Web3 Foundation's** genesis holdings. None of the three fired a distribution in the window, so Sell #3 books zero — but if any of their balances falls between refreshes, that outflow enters Sell #3 at the next refresh.
+Polkadot has three team-controlled overhangs worth tracking, all governance-controlled rather than sitting on a dump schedule. The first is the **on-chain Treasury**, funded automatically and spent only through ratified governance proposals — every disbursement is dated and readable on-chain, and its balance is read at each rebuild. The second is the **Dynamic Allocation Pool**, the new permanent account that now collects newly minted DOT plus fees, coretime revenue and slashes and holds them for governance to allocate across validators, nominators, the treasury and a strategic reserve. The third is the **Web3 Foundation's** genesis holdings. None of the three fired a market distribution in the window, so Sell #3 books zero — but if any of their balances falls between refreshes, that outflow enters Sell #3 at the next refresh.
 
 ## How DOT compares to other capped proof-of-stake chains
 
@@ -44,4 +44,4 @@ First, coretime demand: coretime sales now flow into the DAP for reallocation, a
 
 The MrNasdog Pressure Framework reads Polkadot at **+0.83% net supply growth** over the last 90 days and **+0.83%** projected forward — supply growing, and projected to keep growing. The structural mechanism is a newly hard-capped 2.1 billion DOT supply that still mints roughly **56.88M DOT a year** in staking rewards, down 53.6% since March 2026, with no buyback and — after the same overhaul removed the treasury burn — no burn to offset it. The key risk is that this is a purely one-directional supply curve: it is bounded and decaying, but there is no usage-linked burn that could turn DOT deflationary, and governance retains a lever over issuance and allocation through the Dynamic Allocation Pool. The ceiling is the real guarantee: Polkadot cannot exceed 2.1 billion DOT, its issuance steps down again in 2028, and it therefore offers a bounded, slowly-decaying, low-inflation supply.
 
-*MrNasdog Pressure Framework analysis of DOT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Jul 30 2026.*
+*MrNasdog Pressure Framework analysis of DOT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Aug 5 2026.*
