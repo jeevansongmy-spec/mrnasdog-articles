@@ -1,6 +1,6 @@
 ---
-title: "OKB Inflation Analysis · July 2026 · Mixed flows, supply roughly steady"
-description: "A MrNasdog Pressure Framework read of OKB: fixed at 21M with mint and burn removed from the token contract. Framework 0.00% net; the supply monitor agrees at −0.017%."
+title: "OKB Inflation Analysis · August 2026 · Mixed flows, supply roughly steady"
+description: "A MrNasdog Pressure Framework read of OKB: fixed at 21M with mint and burn removed from the token contract. Framework 0.00% net; the supply monitor agrees at +0.02%."
 canonical_url: "https://mrnasdog.com/research/okb/inflation"
 tags: ["crypto", "okb", "okx", "exchange-token"]
 published: true
@@ -8,11 +8,11 @@ published: true
 
 > Originally published at **[mrnasdog.com/research/okb/inflation](https://mrnasdog.com/research/okb/inflation)** by MrNasdog.
 
-OKB, the OKX exchange token and the mandatory gas token of X Layer, has no mint function, no vesting calendar and no active burn — all three were settled in **August 2025** when OKX fixed the total supply at **21 million** and upgraded the token contract to remove both minting and burning. Over the 90 days to **Jul 30 2026** nothing was issued and nothing was retired, so the MrNasdog Pressure Framework reads OKB at **0.00% net** on a **21M** float. Our independent supply monitor reads **−0.017%** across the same window — a gap of **0.02 percentage points**, which is agreement, not conflict.
+OKB, the OKX exchange token and the mandatory gas token of X Layer, has no mint function, no vesting calendar and no active burn — all three were settled in **August 2025** when OKX fixed the total supply at **21 million** and upgraded the token contract to remove both minting and burning. Over the 90 days to **Aug 9 2026** nothing was issued and nothing was retired, so the MrNasdog Pressure Framework reads OKB at **0.00% net** on a **21M** float. Our independent supply monitor reads **+0.02%** across the same window — a gap of **0.02 percentage points**, which is agreement, not conflict.
 
 ## The verdict, in one paragraph
 
-For the 90-day window ending **Jul 30 2026**, the Pressure Framework reads **OKB at 0.00% net**: every sell row and every buy row in the OKB ledger is zero. Nothing mints OKB, no vesting remains, no reserve is being released, and — since the **Aug 18 2025** contract upgrade removed the burn function — nothing is being retired either. Our supply monitor reads the realized change at **−0.017%** over the same window, and the gap between the two readings is **0.02 percentage points** — well inside the framework's half-point tolerance, so OKB ships with **no monitor-gap flag**. The label for OKB is **fixed by contract**: a hard 21 million cap that no longer grows and no longer shrinks. This is a Bitcoin-style scarcity story with one asterisk, covered below.
+For the 90-day window ending **Aug 9 2026**, the Pressure Framework reads **OKB at 0.00% net**: every sell row and every buy row in the OKB ledger is zero. Nothing mints OKB, no vesting remains, no reserve is being released, and — since the **Aug 18 2025** contract upgrade removed the burn function — nothing is being retired either. Our supply monitor reads the realized change at **+0.02%** over the same window, and the gap between the two readings is **0.02 percentage points** — well inside the framework's half-point tolerance, so OKB ships with **no monitor-gap flag**. The label for OKB is **fixed by contract**: a hard 21 million cap that no longer grows and no longer shrinks. This is a Bitcoin-style scarcity story with one asterisk, covered below.
 
 ## Sell pressure: where new OKB comes from
 
@@ -44,6 +44,6 @@ First, watch the token contract owner for any upgrade transaction: because the m
 
 ## Summary
 
-OKB is a fixed-supply exchange token whose supply neither grows nor shrinks: OKX burned the token down to a hard **21 million** cap in **August 2025** and upgraded the contract to remove both minting and burning, the vesting finished in 2018, and X Layer gas is not burned. Over the 90 days to **Jul 30 2026** the framework reads **0.00% net**, matched by the supply monitor at **−0.017%**. The structural strength is a Bitcoin-style hard cap with no live issuance path; the structural risk is that the cap is enforced by an upgradeable contract whose owner slot is still populated, so the guarantee is a policy in code rather than true immutability. The ceiling on the story is simple arithmetic: with nothing minting and nothing burning, 21 million is where OKB stays until the contract owner acts.
+OKB is a fixed-supply exchange token whose supply neither grows nor shrinks: OKX burned the token down to a hard **21 million** cap in **August 2025** and upgraded the contract to remove both minting and burning, the vesting finished in 2018, and X Layer gas is not burned. Over the 90 days to **Aug 9 2026** the framework reads **0.00% net**, matched by the supply monitor at **+0.02%**. The structural strength is a Bitcoin-style hard cap with no live issuance path; the structural risk is that the cap is enforced by an upgradeable contract whose owner slot is still populated, so the guarantee is a policy in code rather than true immutability. The ceiling on the story is simple arithmetic: with nothing minting and nothing burning, 21 million is where OKB stays until the contract owner acts.
 
-*MrNasdog Pressure Framework analysis of OKB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Jul 30 2026.*
+*MrNasdog Pressure Framework analysis of OKB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Aug 9 2026.*
