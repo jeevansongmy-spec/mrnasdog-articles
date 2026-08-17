@@ -6,13 +6,6 @@
     "site": "crypto",
     "telegram_message_id": 100
   },
-  "aave-inflation-analysis": {
-    "devto_id": 3861211,
-    "devto_url": "https://dev.to/mrnasdog/aave-aave-inflation-analysis-50myr-buyback-beats-safety-module-emission-7pe",
-    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/aave-inflation-analysis.md",
-    "site": "crypto",
-    "telegram_message_id": 34
-  },
   "aave-pressure-framework": {
     "devto_id": 3861211,
     "devto_url": "https://dev.to/mrnasdog/aave-aave-inflation-analysis-50myr-buyback-beats-safety-module-emission-7pe",
@@ -55,13 +48,6 @@
     "site": "crypto",
     "telegram_message_id": 169
   },
-  "algo-inflation-analysis": {
-    "devto_id": 3866913,
-    "devto_url": "https://dev.to/mrnasdog/algorand-algo-inflation-analysis-consensus-rewards-toward-a-10b-hard-cap-4c4k",
-    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/algo-inflation-analysis.md",
-    "site": "crypto",
-    "telegram_message_id": 45
-  },
   "algo-pressure-framework": {
     "devto_id": 3866913,
     "devto_url": "https://dev.to/mrnasdog/algorand-algo-inflation-analysis-consensus-rewards-toward-a-10b-hard-cap-4c4k",
@@ -96,13 +82,6 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/aster-pressure-framework.md",
     "site": "crypto",
     "telegram_message_id": 166
-  },
-  "atom-inflation-analysis": {
-    "devto_id": 3866915,
-    "devto_url": "https://dev.to/mrnasdog/cosmos-hub-atom-inflation-analysis-dynamic-7-20-pos-band-no-cap-h5l",
-    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/atom-inflation-analysis.md",
-    "site": "crypto",
-    "telegram_message_id": 46
   },
   "atom-pressure-framework": {
     "devto_id": 3866915,
@@ -347,13 +326,6 @@
     "site": "crypto",
     "telegram_message_id": 115
   },
-  "ena-inflation-analysis": {
-    "devto_id": 3861212,
-    "devto_url": "https://dev.to/mrnasdog/ethena-ena-inflation-analysis-mid-vesting-headwind-on-a-15b-hard-cap-3lde",
-    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/ena-inflation-analysis.md",
-    "site": "crypto",
-    "telegram_message_id": 35
-  },
   "ena-pressure-framework": {
     "devto_id": 3861212,
     "devto_url": "https://dev.to/mrnasdog/ethena-ena-inflation-analysis-mid-vesting-headwind-on-a-15b-hard-cap-3lde",
@@ -367,13 +339,6 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/ens-pressure-framework.md",
     "site": "crypto",
     "telegram_message_id": 117
-  },
-  "etc-inflation-analysis": {
-    "devto_id": 3861218,
-    "devto_url": "https://dev.to/mrnasdog/ethereum-classic-etc-inflation-analysis-pow-emission-toward-the-next-fifthening-8mb",
-    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/etc-inflation-analysis.md",
-    "site": "crypto",
-    "telegram_message_id": 36
   },
   "etc-pressure-framework": {
     "devto_id": 3861218,
@@ -481,27 +446,12 @@
     "site": "crypto",
     "telegram_message_id": 69
   },
-  "hype-inflation-analysis": {
-    "devto_id": 3866906,
-    "devto_url": "https://dev.to/mrnasdog/hyperliquid-hype-inflation-analysis-the-buyback-is-bigger-than-the-unlock-1n4d",
-    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/hype-inflation-analysis.md",
-    "site": "crypto",
-    "telegram_message_id": 43
-  },
   "hype-pressure-framework": {
     "devto_id": 3866906,
     "devto_url": "https://dev.to/mrnasdog/hyperliquid-hype-inflation-analysis-the-buyback-is-bigger-than-the-unlock-1n4d",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/hype-pressure-framework.md",
     "site": "crypto",
     "telegram_message_id": 128
-  },
-  "hyperliquid-pressure-framework": {
-    "devto_id": 3866906,
-    "devto_url": "https://dev.to/mrnasdog/hyperliquid-hype-the-buyback-is-bigger-than-the-unlock-8eg",
-    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/hyperliquid-pressure-framework.md",
-    "internal_ref": "mrnasdog.com_2",
-    "site": "crypto",
-    "telegram_message_id": 10
   },
   "icp-pressure-framework": {
     "devto_id": 4086869,
@@ -565,13 +515,6 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/kaia-pressure-framework.md",
     "site": "crypto",
     "telegram_message_id": 88
-  },
-  "kas-inflation-analysis": {
-    "devto_id": 3864493,
-    "devto_url": "https://dev.to/mrnasdog/kaspa-kas-inflation-analysis-a-fair-launch-pow-blockdag-still-in-its-emission-years-2h0a",
-    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/kas-inflation-analysis.md",
-    "site": "crypto",
-    "telegram_message_id": 37
   },
   "kas-pressure-framework": {
     "devto_id": 3864493,
@@ -662,13 +605,6 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/monad-pressure-framework.md",
     "site": "crypto",
     "telegram_message_id": 75
-  },
-  "morpho-inflation-analysis": {
-    "devto_id": 3864495,
-    "devto_url": "https://dev.to/mrnasdog/morpho-morpho-inflation-analysis-a-multi-cohort-vesting-unlock-with-no-offset-17dp",
-    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/morpho-inflation-analysis.md",
-    "site": "crypto",
-    "telegram_message_id": 38
   },
   "morpho-pressure-framework": {
     "devto_id": 3864495,
@@ -794,13 +730,6 @@
     "site": "crypto",
     "telegram_message_id": 59
   },
-  "pol-inflation-analysis": {
-    "devto_id": 3864503,
-    "devto_url": "https://dev.to/mrnasdog/polygon-pol-inflation-analysis-2-emission-vs-eip-1559-burn-roughly-cancelled-55ao",
-    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/pol-inflation-analysis.md",
-    "site": "crypto",
-    "telegram_message_id": 39
-  },
   "pol-pressure-framework": {
     "devto_id": 3864503,
     "devto_url": "https://dev.to/mrnasdog/polygon-pol-inflation-analysis-2-emission-vs-eip-1559-burn-roughly-cancelled-55ao",
@@ -828,13 +757,6 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/pyth-pressure-framework.md",
     "site": "crypto",
     "telegram_message_id": 148
-  },
-  "qnt-inflation-analysis": {
-    "devto_id": 3864505,
-    "devto_url": "https://dev.to/mrnasdog/quant-qnt-inflation-analysis-fixed-cap-completed-vesting-use-and-redistribute-licensing-2g0d",
-    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/qnt-inflation-analysis.md",
-    "site": "crypto",
-    "telegram_message_id": 40
   },
   "qnt-pressure-framework": {
     "devto_id": 3864505,
@@ -877,13 +799,6 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/shib-pressure-framework.md",
     "site": "crypto",
     "telegram_message_id": 55
-  },
-  "sky-inflation-analysis": {
-    "devto_id": 3864510,
-    "devto_url": "https://dev.to/mrnasdog/sky-sky-inflation-analysis-usds-holder-rewards-run-against-the-smart-burn-engine-dce",
-    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/sky-inflation-analysis.md",
-    "site": "crypto",
-    "telegram_message_id": 41
   },
   "sky-pressure-framework": {
     "devto_id": 3864510,
@@ -1023,13 +938,6 @@
     "site": "crypto",
     "telegram_message_id": 121
   },
-  "uni-inflation-analysis": {
-    "devto_id": 3861204,
-    "devto_url": "https://dev.to/mrnasdog/uniswap-uni-inflation-analysis-fee-switch-burn-turned-it-deflationary-4ipj",
-    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/uni-inflation-analysis.md",
-    "site": "crypto",
-    "telegram_message_id": 32
-  },
   "uni-pressure-framework": {
     "devto_id": 3861204,
     "devto_url": "https://dev.to/mrnasdog/uniswap-uni-inflation-analysis-fee-switch-burn-turned-it-deflationary-4ipj",
@@ -1073,13 +981,6 @@
     "site": "crypto",
     "telegram_message_id": 120
   },
-  "wld-inflation-analysis": {
-    "devto_id": 3866905,
-    "devto_url": "https://dev.to/mrnasdog/worldcoin-wld-inflation-analysis-15-year-linear-unlock-still-in-heavy-years-1bg6",
-    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/wld-inflation-analysis.md",
-    "site": "crypto",
-    "telegram_message_id": 42
-  },
   "wld-pressure-framework": {
     "devto_id": 3866905,
     "devto_url": "https://dev.to/mrnasdog/worldcoin-wld-inflation-analysis-15-year-linear-unlock-still-in-heavy-years-1bg6",
@@ -1099,13 +1000,6 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/xdc-pressure-framework.md",
     "site": "crypto",
     "telegram_message_id": 114
-  },
-  "xlm-inflation-analysis": {
-    "devto_id": 3861205,
-    "devto_url": "https://dev.to/mrnasdog/stellar-xlm-inflation-analysis-zero-protocol-mint-sdf-deploys-are-the-only-flow-180g",
-    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/xlm-inflation-analysis.md",
-    "site": "crypto",
-    "telegram_message_id": 33
   },
   "xlm-pressure-framework": {
     "devto_id": 3861205,
