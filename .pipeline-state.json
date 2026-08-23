@@ -390,6 +390,13 @@
     "site": "crypto",
     "telegram_message_id": 84
   },
+  "form-pressure-framework": {
+    "devto_id": 4470256,
+    "devto_url": "https://dev.to/mrnasdog/form-inflation-analysis-august-2026-mixed-flows-supply-roughly-steady-5aah",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/form-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 195
+  },
   "gno-pressure-framework": {
     "devto_id": 3914133,
     "devto_url": "https://dev.to/mrnasdog/gno-inflation-analysis-june-2026-a-capped-supply-that-governance-keeps-shrinking-19ob",
