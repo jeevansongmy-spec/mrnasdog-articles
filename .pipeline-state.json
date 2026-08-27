@@ -195,6 +195,13 @@
     "site": "crypto",
     "telegram_message_id": 64
   },
+  "btw-pressure-framework": {
+    "devto_id": 4499722,
+    "devto_url": "https://dev.to/mrnasdog/btw-inflation-analysis-august-2026-supply-growing-projected-to-keep-growing-21bj",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/btw-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 197
+  },
   "cake-pressure-framework": {
     "devto_id": 3882210,
     "devto_url": "https://dev.to/mrnasdog/cake-inflation-analysis-june-2026-supply-shrinking-projected-to-keep-shrinking-46j5",
@@ -574,9 +581,11 @@
     "telegram_message_id": 19
   },
   "lit-pressure-framework": {
+    "devto_id": 4499725,
+    "devto_url": "https://dev.to/mrnasdog/lit-inflation-analysis-august-2026-supply-was-shrinking-trend-softening-47gf",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/lit-pressure-framework.md",
     "site": "crypto",
-    "telegram_message_id": 90
+    "telegram_message_id": 198
   },
   "ltc-pressure-framework": {
     "devto_id": 3868052,
@@ -980,6 +989,13 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/vvv-pressure-framework.md",
     "site": "crypto",
     "telegram_message_id": 92
+  },
+  "wbt-pressure-framework": {
+    "devto_id": 4499721,
+    "devto_url": "https://dev.to/mrnasdog/wbt-inflation-analysis-august-2026-mixed-last-90d-projected-to-shrink-7gb",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/wbt-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 196
   },
   "wif-pressure-framework": {
     "devto_id": 3956209,
