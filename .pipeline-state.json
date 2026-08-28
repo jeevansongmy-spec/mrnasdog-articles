@@ -138,6 +138,13 @@
     "site": "crypto",
     "telegram_message_id": 168
   },
+  "binancelife-pressure-framework": {
+    "devto_id": 4500491,
+    "devto_url": "https://dev.to/mrnasdog/blife-inflation-analysis-august-2026-mixed-flows-supply-roughly-steady-5g8n",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/binancelife-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 200
+  },
   "bitcoin-4-year-cycle": {
     "devto_id": 3965467,
     "devto_url": "https://dev.to/mrnasdog/is-bitcoins-price-predictable-the-mrnasdog-bitcoin-framework-2l6j",
@@ -837,6 +844,13 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/spx-pressure-framework.md",
     "site": "crypto",
     "telegram_message_id": 150
+  },
+  "stable-pressure-framework": {
+    "devto_id": 4500490,
+    "devto_url": "https://dev.to/mrnasdog/stable-inflation-analysis-august-2026-supply-was-growing-trend-cooling-178p",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/stable-pressure-framework.md",
+    "site": "crypto",
+    "telegram_message_id": 199
   },
   "stop-guessing-about-yourself": {
     "devto_id": 3795419,
