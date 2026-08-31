@@ -1,6 +1,6 @@
 ---
 title: "LEO Inflation Analysis · August 2026 · Mixed flows, supply roughly steady"
-description: "A MrNasdog Pressure Framework read of UNUS SED LEO: no mint, no vesting, only a chain-verifiable daily buyback. Framework −0.07% net; the supply monitor reads −0.13%."
+description: "A MrNasdog Pressure Framework read of UNUS SED LEO: no realised issuance, no vesting, and a chain-verifiable daily buyback that parks tokens rather than burning them. Framework −0.07% net; the supply monitor reads −0.13%."
 canonical_url: "https://mrnasdog.com/research/leo/inflation"
 tags: ["crypto", "leo", "bitfinex", "exchange-token"]
 published: true
