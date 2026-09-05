@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" role="img" aria-label="The coin dips below the liquidation price soon after we buy, our coins are sold, and the coin then climbs to 120,000 dollars without us">
+<rect x="78" y="240.0" width="628" height="18.0" fill="#a3332710"/>
+<line x1="78" y1="190.7" x2="706" y2="190.7" stroke="#d3d7dc" stroke-width="1"/><text x="68" y="194.7" text-anchor="end" font-family="'IBM Plex Mono',ui-monospace,monospace" font-size="11" fill="#5c6570">$40k</text><line x1="78" y1="123.5" x2="706" y2="123.5" stroke="#d3d7dc" stroke-width="1"/><text x="68" y="127.5" text-anchor="end" font-family="'IBM Plex Mono',ui-monospace,monospace" font-size="11" fill="#5c6570">$80k</text><line x1="78" y1="56.2" x2="706" y2="56.2" stroke="#d3d7dc" stroke-width="1"/><text x="68" y="60.2" text-anchor="end" font-family="'IBM Plex Mono',ui-monospace,monospace" font-size="11" fill="#5c6570">$120k</text>
+<line x1="78" y1="240.0" x2="706" y2="240.0" stroke="#a33327" stroke-width="1.6" stroke-dasharray="5 4"/>
+<path d="M78.0,231.1 L111.1,232.8 L144.1,236.1 L177.2,239.5 L210.2,242.2 L243.3,240.3 L276.3,234.5 L309.4,226.0 L342.4,214.3 L375.5,200.8 L408.5,207.5 L441.6,187.4 L474.6,160.5 L507.7,170.5 L540.7,138.6 L573.8,110.0 L606.8,123.5 L639.9,88.1 L672.9,69.6 L706.0,56.2" fill="none" stroke="#15181c" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="78.0" cy="231.1" r="5" fill="#15181c"/>
+<text x="90.0" y="219.1" font-family="'IBM Plex Sans',system-ui,sans-serif" font-size="13" font-weight="600" fill="#15181c">we buy Bitcoin at $16,000, with 3x</text>
+<circle cx="210.2" cy="242.2" r="5.5" fill="#a33327"/>
+<line x1="218.2" y1="244.2" x2="262.2" y2="272.2" stroke="#a33327" stroke-width="1"/>
+<text x="266.2" y="276.2" font-family="'IBM Plex Sans',system-ui,sans-serif" font-size="13" font-weight="600" fill="#a33327">liquidated · our money is gone</text>
+<circle cx="706.0" cy="56.2" r="5.5" fill="#1f6b4a"/>
+<text x="693.0" y="61.2" text-anchor="end" font-family="'IBM Plex Sans',system-ui,sans-serif" font-size="13" font-weight="600" fill="#1f6b4a">Bitcoin $120,000 — without us</text>
+<line x1="78" y1="300" x2="706" y2="300" stroke="#d3d7dc" stroke-width="1"/>
+<text x="78" y="318" font-family="'IBM Plex Sans',system-ui,sans-serif" font-size="12" fill="#5c6570">Time →</text>
+<text x="706" y="318" text-anchor="end" font-family="'IBM Plex Sans',system-ui,sans-serif" font-size="11.5" fill="#5c6570" font-style="italic">An example, to show the shape</text>
+</svg>
