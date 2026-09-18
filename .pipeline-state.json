@@ -145,6 +145,33 @@
     "site": "crypto",
     "telegram_message_id": 200
   },
+  "bitcoin-1-million": {
+    "devto_id": 4685514,
+    "devto_url": "https://dev.to/mrnasdog/will-bitcoin-reach-1-million-two-questions-decide-it-2phg",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/bitcoin-1-million.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-18T12:35:07Z",
+        "note": "created \u2192 https://dev.to/mrnasdog/will-bitcoin-reach-1-million-two-questions-decide-it-2phg (published=True)",
+        "ok": true,
+        "sha256": "e92f7c95d850b206"
+      },
+      "github": {
+        "at": "2026-09-18T12:35:06Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/bitcoin-1-million.md",
+        "ok": true,
+        "sha256": "e92f7c95d850b206"
+      },
+      "telegram": {
+        "at": "2026-09-18T12:35:08Z",
+        "note": "posted to @mrnasdog (msg 204)",
+        "ok": true,
+        "sha256": "e92f7c95d850b206"
+      }
+    },
+    "site": "crypto",
+    "telegram_message_id": 204
+  },
   "bitcoin-4-year-cycle": {
     "devto_id": 3965467,
     "devto_url": "https://dev.to/mrnasdog/is-bitcoins-price-predictable-the-mrnasdog-bitcoin-framework-2l6j",
@@ -356,6 +383,33 @@
     "site": "crypto",
     "telegram_message_id": 127
   },
+  "dont-buy-coins-at-the-wrong-time": {
+    "devto_id": 4685510,
+    "devto_url": "https://dev.to/mrnasdog/dont-buy-coins-at-the-wrong-time-5anf",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/dont-buy-coins-at-the-wrong-time.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-18T12:34:43Z",
+        "note": "created \u2192 https://dev.to/mrnasdog/dont-buy-coins-at-the-wrong-time-5anf (published=True)",
+        "ok": true,
+        "sha256": "7207a779bb3575c1"
+      },
+      "github": {
+        "at": "2026-09-18T12:34:42Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/dont-buy-coins-at-the-wrong-time.md",
+        "ok": true,
+        "sha256": "7207a779bb3575c1"
+      },
+      "telegram": {
+        "at": "2026-09-18T12:34:44Z",
+        "note": "posted to @mrnasdog (msg 202)",
+        "ok": true,
+        "sha256": "7207a779bb3575c1"
+      }
+    },
+    "site": "crypto",
+    "telegram_message_id": 202
+  },
   "dot-pressure-framework": {
     "devto_id": 4086839,
     "devto_url": "https://dev.to/mrnasdog/dot-inflation-analysis-july-2026-supply-growing-at-half-the-old-pace-2ig",
@@ -430,6 +484,33 @@
     "site": "crypto",
     "telegram_message_id": 83
   },
+  "first-review": {
+    "devto_id": 4685520,
+    "devto_url": "https://dev.to/mrnasdog/reviewing-my-three-public-accounts-my-first-review-3ec3",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/first-review.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-18T12:35:43Z",
+        "note": "created \u2192 https://dev.to/mrnasdog/reviewing-my-three-public-accounts-my-first-review-3ec3 (published=True)",
+        "ok": true,
+        "sha256": "ffe03652c6a56b6e"
+      },
+      "github": {
+        "at": "2026-09-18T12:35:42Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/first-review.md",
+        "ok": true,
+        "sha256": "ffe03652c6a56b6e"
+      },
+      "telegram": {
+        "at": "2026-09-18T12:35:44Z",
+        "note": "posted to @mrnasdog (msg 207)",
+        "ok": true,
+        "sha256": "ffe03652c6a56b6e"
+      }
+    },
+    "site": "crypto",
+    "telegram_message_id": 207
+  },
   "floki-pressure-framework": {
     "devto_id": 3943911,
     "devto_url": "https://dev.to/mrnasdog/floki-inflation-analysis-june-2026-supply-slowly-shrinking-on-continuous-burns-i2b",
@@ -450,6 +531,33 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/form-pressure-framework.md",
     "site": "crypto",
     "telegram_message_id": 195
+  },
+  "free-leverage": {
+    "devto_id": 4685525,
+    "devto_url": "https://dev.to/mrnasdog/a-leverage-that-can-never-be-liquidated-1ckp",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/free-leverage.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-18T12:36:06Z",
+        "note": "created \u2192 https://dev.to/mrnasdog/a-leverage-that-can-never-be-liquidated-1ckp (published=True)",
+        "ok": true,
+        "sha256": "783c9d45ad4a760b"
+      },
+      "github": {
+        "at": "2026-09-18T12:34:54Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/free-leverage.md",
+        "ok": true,
+        "sha256": "783c9d45ad4a760b"
+      },
+      "telegram": {
+        "at": "2026-09-18T12:34:56Z",
+        "note": "posted to @mrnasdog (msg 203)",
+        "ok": true,
+        "sha256": "783c9d45ad4a760b"
+      }
+    },
+    "site": "crypto",
+    "telegram_message_id": 203
   },
   "gno-pressure-framework": {
     "devto_id": 3914133,
@@ -512,6 +620,33 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/hbar-pressure-framework.md",
     "site": "crypto",
     "telegram_message_id": 133
+  },
+  "how-did-this-guy-turn-87-into-3-million": {
+    "devto_id": 4685507,
+    "devto_url": "https://dev.to/mrnasdog/87-to-3-million-cash-cat-cashcat-meme-coin-case-study-2lal",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/how-did-this-guy-turn-87-into-3-million.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-18T12:34:31Z",
+        "note": "created \u2192 https://dev.to/mrnasdog/87-to-3-million-cash-cat-cashcat-meme-coin-case-study-2lal (published=True)",
+        "ok": true,
+        "sha256": "5cfa0ec24598b111"
+      },
+      "github": {
+        "at": "2026-09-18T12:34:30Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/how-did-this-guy-turn-87-into-3-million.md",
+        "ok": true,
+        "sha256": "5cfa0ec24598b111"
+      },
+      "telegram": {
+        "at": "2026-09-18T12:34:32Z",
+        "note": "posted to @mrnasdog (msg 201)",
+        "ok": true,
+        "sha256": "5cfa0ec24598b111"
+      }
+    },
+    "site": "crypto",
+    "telegram_message_id": 201
   },
   "htx-pressure-framework": {
     "devto_id": 3868041,
@@ -755,6 +890,33 @@
     "site": "crypto",
     "telegram_message_id": 60
   },
+  "on-chain-perpetuals": {
+    "devto_id": 4685531,
+    "devto_url": "https://dev.to/mrnasdog/on-chain-perpetuals-the-fair-game-centralized-exchanges-couldnt-build-417i",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/on-chain-perpetuals.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-18T12:36:42Z",
+        "note": "created \u2192 https://dev.to/mrnasdog/on-chain-perpetuals-the-fair-game-centralized-exchanges-couldnt-build-417i (published=True)",
+        "ok": true,
+        "sha256": "d5c3bf3d10fe2cc4"
+      },
+      "github": {
+        "at": "2026-09-18T12:35:30Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/on-chain-perpetuals.md",
+        "ok": true,
+        "sha256": "d5c3bf3d10fe2cc4"
+      },
+      "telegram": {
+        "at": "2026-09-18T12:35:32Z",
+        "note": "posted to @mrnasdog (msg 206)",
+        "ok": true,
+        "sha256": "d5c3bf3d10fe2cc4"
+      }
+    },
+    "site": "crypto",
+    "telegram_message_id": 206
+  },
   "ondo-pressure-framework": {
     "devto_id": 3728766,
     "devto_url": "https://dev.to/mrnasdog/ondo-finance-ondo-scheduled-supply-empty-buy-side-57en",
@@ -868,6 +1030,33 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/render-pressure-framework.md",
     "site": "crypto",
     "telegram_message_id": 135
+  },
+  "rwa-money-machine": {
+    "devto_id": 4685517,
+    "devto_url": "https://dev.to/mrnasdog/rwa-research-the-money-machine-behind-the-rwa-boom-4e1n",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/rwa-money-machine.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-18T12:35:19Z",
+        "note": "created \u2192 https://dev.to/mrnasdog/rwa-research-the-money-machine-behind-the-rwa-boom-4e1n (published=True)",
+        "ok": true,
+        "sha256": "1ba1a5b96dfa3608"
+      },
+      "github": {
+        "at": "2026-09-18T12:35:18Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/rwa-money-machine.md",
+        "ok": true,
+        "sha256": "1ba1a5b96dfa3608"
+      },
+      "telegram": {
+        "at": "2026-09-18T12:35:20Z",
+        "note": "posted to @mrnasdog (msg 205)",
+        "ok": true,
+        "sha256": "1ba1a5b96dfa3608"
+      }
+    },
+    "site": "crypto",
+    "telegram_message_id": 205
   },
   "sei-pressure-framework": {
     "devto_id": 4086826,

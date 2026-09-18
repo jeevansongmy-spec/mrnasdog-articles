@@ -42,6 +42,7 @@ import re
 import ssl
 import subprocess
 import sys
+import time
 import urllib.request
 import urllib.error
 from datetime import datetime, timezone
@@ -189,12 +190,18 @@ def push_devto(art, state, creds, dry, draft):
     if dry:
         return f"would {'update #' + str(existing) if existing else 'create'} (published={body['article']['published']})"
     headers = {"api-key": key, "Content-Type": "application/json"}
-    if existing:
-        status, resp = http("PUT", f"https://dev.to/api/articles/{existing}", headers, body)
-        action = "updated"
-    else:
-        status, resp = http("POST", "https://dev.to/api/articles", headers, body)
-        action = "created"
+    # Dev.to allows only a few writes a minute and answers 429 "try again in 30
+    # seconds". Wait and retry, bounded (3 tries), instead of failing the channel.
+    for attempt in range(3):
+        if existing:
+            status, resp = http("PUT", f"https://dev.to/api/articles/{existing}", headers, body)
+            action = "updated"
+        else:
+            status, resp = http("POST", "https://dev.to/api/articles", headers, body)
+            action = "created"
+        if status != 429 or attempt == 2:
+            break
+        time.sleep(35)
     if status not in (200, 201):
         raise RuntimeError(f"HTTP {status}: {resp}")
     state["devto_id"] = resp.get("id", existing)
