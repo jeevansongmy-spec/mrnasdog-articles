@@ -1,9 +1,9 @@
 ---
 title: "A Leverage That Can Never Be Liquidated"
 description: "With 3x leverage, one drop below the line and our money is gone. Buying Strategy behaves like leverage, and a stock cannot be liquidated."
-canonical_url: "https://mrnasdog.com/analysis/leverage-that-cannot-be-liquidated"
+canonical_url: "https://mrnasdog.com/analysis/free-leverage"
 tags: ["bitcoin", "leverage", "mstr"]
-published: true
+published: false
 ---
 
 Leverage is tempting. There are two ways to get it, and only one of them can

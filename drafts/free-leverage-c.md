@@ -1,9 +1,9 @@
 ---
 title: "The Leverage With No Liquidation Line"
 description: "3x on Bitcoin has a price where our money disappears. Strategy behaves like 3x Bitcoin and has no such price."
-canonical_url: "https://mrnasdog.com/analysis/no-liquidation-line"
+canonical_url: "https://mrnasdog.com/analysis/free-leverage"
 tags: ["bitcoin", "leverage", "mstr"]
-published: true
+published: false
 ---
 
 Two ways to get leverage on Bitcoin. Only one can wipe us out.

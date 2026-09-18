@@ -12,11 +12,15 @@ evergreen, so a delayed re-send is fine). State is tracked in
 
 Usage:
   python3 syndicate.py growth/the-quiet-strategy.md
-  python3 syndicate.py crypto/*.md
+  (never a wildcard like crypto/*.md — name each file; drafts/ never publishes)
   python3 syndicate.py --dry-run growth/the-quiet-strategy.md   # show plan, send nothing
   python3 syndicate.py --devto-draft growth/foo.md              # Dev.to as unpublished draft
   python3 syndicate.py --only telegram growth/foo.md            # one channel only
   python3 syndicate.py --force growth/foo.md                    # re-send even if already posted
+
+After sending, run `python3 check_distribution.py --scope <slug>` — it is the
+finish line (exit 0 = every required channel current). /admin/distribution on
+mrnasdog.com shows the same report, refreshed daily by .github/workflows.
 
 Credentials are read from ~/.claude-creds/mrnasdog.env (never committed):
   DEVTO_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHANNEL
@@ -31,6 +35,7 @@ Article markdown front matter (between --- fences):
 The site (crypto|growth) is inferred from the folder.
 """
 
+import hashlib
 import json
 import os
 import re
@@ -39,6 +44,7 @@ import subprocess
 import sys
 import urllib.request
 import urllib.error
+from datetime import datetime, timezone
 
 # macOS system Python often lacks a usable CA bundle for urllib; prefer certifi.
 try:
@@ -100,7 +106,13 @@ def parse_article(path):
         else:
             fm[key] = val.strip('"').strip("'")
     slug = os.path.splitext(os.path.basename(path))[0]
-    site = "crypto" if os.path.basename(os.path.dirname(os.path.abspath(path))) == "crypto" else "growth"
+    folder = os.path.basename(os.path.dirname(os.path.abspath(path)))
+    # Only crypto/ and growth/ publish. drafts/ (and anything else) never does —
+    # three leverage drafts reached the public repo with a 404 canonical before
+    # this guard existed (found Sep 18 2026).
+    if folder not in ("crypto", "growth"):
+        raise ValueError(f"{path}: only files in crypto/ or growth/ can be published (this is in {folder}/)")
+    site = folder
     for req in ("title", "description", "canonical_url"):
         if not fm.get(req):
             raise ValueError(f"{path}: missing required front-matter field '{req}'")
@@ -143,15 +155,19 @@ def push_github(art, state, creds, dry):
     rel = os.path.relpath(art["path"], REPO_DIR)
     if dry:
         return f"would commit + push {rel}"
-    subprocess.run(["git", "-C", REPO_DIR, "add", rel], check=True)
+    subprocess.run(["git", "-C", REPO_DIR, "add", "--", rel], check=True)
     changed = subprocess.run(
-        ["git", "-C", REPO_DIR, "diff", "--cached", "--quiet"]
+        ["git", "-C", REPO_DIR, "diff", "--cached", "--quiet", "--", rel]
     ).returncode != 0
     if changed:
+        # Commit ONLY this file — never whatever else happens to be staged.
         subprocess.run(
             ["git", "-C", REPO_DIR, "commit", "-q", "-m",
-             f"publish: {art['site']}/{art['slug']}"], check=True)
-    subprocess.run(["git", "-C", REPO_DIR, "push", "-q"], check=True)
+             f"publish: {art['site']}/{art['slug']}", "--", rel], check=True)
+    if subprocess.run(["git", "-C", REPO_DIR, "push", "-q"]).returncode != 0:
+        # Someone else pushed first (the daily check commits reports/): rebase once, retry.
+        subprocess.run(["git", "-C", REPO_DIR, "pull", "-q", "--rebase", "--autostash"], check=True)
+        subprocess.run(["git", "-C", REPO_DIR, "push", "-q"], check=True)
     url = f"https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/{rel}"
     state["github_url"] = url
     return ("committed + pushed" if changed else "already current") + f" → {url}"
@@ -273,6 +289,7 @@ def main(argv):
               f"{'  [' + st['internal_ref'] + ']' if st.get('internal_ref') else ''}"
               f"{'  [DRY RUN]' if dry else ''} ===")
         print(f"    canonical: {art['canonical_url']}")
+        digest = hashlib.sha256(open(art["path"], "rb").read()).hexdigest()[:16]
         for ch in channels:
             try:
                 if ch == "github":
@@ -284,11 +301,18 @@ def main(argv):
                 else:
                     raise RuntimeError(f"unknown channel {ch}")
                 print(f"  ✅ {ch:9} {msg}")
+                ok, note = True, msg
             except Exception as e:
                 rc = 1
                 print(f"  ❌ {ch:9} FAILED: {e}")
-        if not dry:
-            save_state(all_state)
+                ok, note = False, str(e)[:200]
+            if not dry:
+                # Receipt per channel, saved immediately — a crash later in the run
+                # can no longer lose the fact that this channel succeeded.
+                st.setdefault("receipts", {})[ch] = {
+                    "at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+                    "sha256": digest, "ok": ok, "note": note[:200]}
+                save_state(all_state)
     print("\nDone." if rc == 0 else "\nDone with errors (see ❌ above; rerun to retry those channels).")
     return rc
 

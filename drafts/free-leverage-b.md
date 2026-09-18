@@ -1,9 +1,9 @@
 ---
 title: "Strategy Is Not Leverage. It Just Behaves Like It."
 description: "Bitcoin went up 7 times. Strategy went up 25 times. No borrowing, no fees, and no line where anyone can close our position."
-canonical_url: "https://mrnasdog.com/analysis/strategy-behaves-like-leverage"
+canonical_url: "https://mrnasdog.com/analysis/free-leverage"
 tags: ["bitcoin", "leverage", "mstr"]
-published: true
+published: false
 ---
 
 Anyone confident about Bitcoin eventually thinks about leverage. Let's look at

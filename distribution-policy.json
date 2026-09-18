@@ -1,0 +1,29 @@
+{
+  "_what": "Which public pages must be mirrored, and which are left out ON PURPOSE. Read by check_distribution.py. The live sitemap is the list of public pages; this file only narrows it.",
+  "required_channels": [
+    "github",
+    "devto"
+  ],
+  "informational_channels": [
+    "telegram"
+  ],
+  "_channels_why": "GitHub + Dev.to feed AI crawlers and search (MrNasdog, Sep 18 2026). Telegram is a notice board: edit-in-place, never a release blocker.",
+  "eligible_path_patterns": [
+    "^/research/[a-z0-9-]+/inflation$",
+    "^/analysis/[a-z0-9-]+$",
+    "^/case-studies/[a-z0-9-]+$",
+    "^/research/pressure-framework/full$",
+    "^/research/bitcoin-4-year-cycle$",
+    "^/research/bitcoin-cycle-method$"
+  ],
+  "excluded": {
+    "/analysis/ai-image-test": "lab page — MrNasdog Sep 18 2026: exclude and forget, never mirror",
+    "/analysis/first-ai-video": "lab page — MrNasdog Sep 18 2026: exclude and forget, never mirror",
+    "/analysis/ray": "member-only Q&A — paid content never leaves the site"
+  },
+  "devto_unpublished_on_purpose": {
+    "/analysis/coin-alerts": "product announcement — Jul 19 2026 decision: announcements stay off Dev.to",
+    "/analysis/portfolio-alerts": "product announcement — Jul 19 2026 decision: announcements stay off Dev.to"
+  },
+  "_orphans": "Mirrors whose page is NOT in the sitemap (offline coins, retired slugs) are listed as orphans for information only; their pages still answer 200 and their mirrors are left alone."
+}

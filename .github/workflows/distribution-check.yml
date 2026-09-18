@@ -1,0 +1,34 @@
+# Daily distribution check — writes reports/distribution.json, which
+# mrnasdog.com/admin/distribution reads. Read-only against every channel:
+# no secrets, no sends. Runs after the site's daily jobs settle.
+name: distribution-check
+on:
+  schedule:
+    - cron: "40 5 * * *"   # 05:40 UTC = 13:40 Malaysia
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: distribution-check
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0          # mirror freshness uses each file's last commit date
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check every public page against its mirrors
+        run: python3 check_distribution.py || true   # gaps are data for the dashboard, not a job failure
+      - name: Commit the report if it changed
+        run: |
+          git config user.name "distribution-check"
+          git config user.email "actions@users.noreply.github.com"
+          git add reports/distribution.json
+          git diff --cached --quiet && exit 0
+          git commit -q -m "report: distribution check $(date -u +%Y-%m-%d)"
+          git pull -q --rebase && git push -q

@@ -164,6 +164,26 @@
     "devto_url": "https://dev.to/mrnasdog/bnb-binance-coin-supply-down-by-design-gb8",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/bnb-pressure-framework.md",
     "internal_ref": "mrnasdog.com_5",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-18T12:19:24Z",
+        "note": "updated \u2192 https://dev.to/mrnasdog/bnb-binance-coin-supply-down-by-design-gb8 (published=True)",
+        "ok": true,
+        "sha256": "9ff45a928f95cfd0"
+      },
+      "github": {
+        "at": "2026-09-18T12:19:23Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/bnb-pressure-framework.md",
+        "ok": true,
+        "sha256": "9ff45a928f95cfd0"
+      },
+      "telegram": {
+        "at": "2026-09-18T12:19:25Z",
+        "note": "edited in place \u2192 @mrnasdog (msg 17)",
+        "ok": true,
+        "sha256": "9ff45a928f95cfd0"
+      }
+    },
     "site": "crypto",
     "telegram_message_id": 17
   },
@@ -313,6 +333,26 @@
     "devto_id": 3974288,
     "devto_url": "https://dev.to/mrnasdog/doge-inflation-analysis-june-2026-a-fixed-mint-with-nothing-to-burn-it-back-10j2",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/doge-pressure-framework.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-18T12:19:31Z",
+        "note": "updated \u2192 https://dev.to/mrnasdog/doge-inflation-analysis-june-2026-a-fixed-mint-with-nothing-to-burn-it-back-10j2 (published=True)",
+        "ok": true,
+        "sha256": "8769fee3cabe235f"
+      },
+      "github": {
+        "at": "2026-09-18T12:19:31Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/doge-pressure-framework.md",
+        "ok": true,
+        "sha256": "8769fee3cabe235f"
+      },
+      "telegram": {
+        "at": "2026-09-18T12:19:32Z",
+        "note": "edited in place \u2192 @mrnasdog (msg 127)",
+        "ok": true,
+        "sha256": "8769fee3cabe235f"
+      }
+    },
     "site": "crypto",
     "telegram_message_id": 127
   },
@@ -422,6 +462,26 @@
     "devto_id": 3943788,
     "devto_url": "https://dev.to/mrnasdog/grass-inflation-analysis-june-2026-supply-growing-steadily-on-monthly-vesting-2iag",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/grass-pressure-framework.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-18T12:19:52Z",
+        "note": "updated \u2192 https://dev.to/mrnasdog/grass-inflation-analysis-june-2026-supply-growing-steadily-on-monthly-vesting-2iag (published=True)",
+        "ok": true,
+        "sha256": "f54e2f00b1114958"
+      },
+      "github": {
+        "at": "2026-09-18T12:19:52Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/grass-pressure-framework.md",
+        "ok": true,
+        "sha256": "f54e2f00b1114958"
+      },
+      "telegram": {
+        "at": "2026-09-18T12:19:53Z",
+        "note": "edited in place \u2192 @mrnasdog (msg 98)",
+        "ok": true,
+        "sha256": "f54e2f00b1114958"
+      }
+    },
     "site": "crypto",
     "telegram_message_id": 98
   },
@@ -973,6 +1033,26 @@
     "devto_url": "https://dev.to/mrnasdog/uniswap-uni-inflation-analysis-fee-switch-burn-turned-it-deflationary-4ipj",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/uni-pressure-framework.md",
     "internal_ref": "mrnasdog.com_8",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-18T12:19:49Z",
+        "note": "updated \u2192 https://dev.to/mrnasdog/uniswap-uni-inflation-analysis-fee-switch-burn-turned-it-deflationary-4ipj (published=True)",
+        "ok": true,
+        "sha256": "1365d8d30f960cbd"
+      },
+      "github": {
+        "at": "2026-09-18T12:19:48Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/uni-pressure-framework.md",
+        "ok": true,
+        "sha256": "1365d8d30f960cbd"
+      },
+      "telegram": {
+        "at": "2026-09-18T12:19:50Z",
+        "note": "edited in place \u2192 @mrnasdog (msg 20)",
+        "ok": true,
+        "sha256": "1365d8d30f960cbd"
+      }
+    },
     "site": "crypto",
     "telegram_message_id": 20
   },
@@ -1049,6 +1129,26 @@
     "devto_id": 4040140,
     "devto_url": "https://dev.to/mrnasdog/xmr-inflation-analysis-july-2026-a-fixed-tail-reward-and-almost-no-new-supply-1ooi",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/xmr-pressure-framework.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-18T12:19:45Z",
+        "note": "updated \u2192 https://dev.to/mrnasdog/xmr-inflation-analysis-july-2026-a-fixed-tail-reward-and-almost-no-new-supply-1ooi (published=True)",
+        "ok": true,
+        "sha256": "41f4921578b0d43a"
+      },
+      "github": {
+        "at": "2026-09-18T12:19:35Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/xmr-pressure-framework.md",
+        "ok": true,
+        "sha256": "41f4921578b0d43a"
+      },
+      "telegram": {
+        "at": "2026-09-18T12:19:46Z",
+        "note": "edited in place \u2192 @mrnasdog (msg 138)",
+        "ok": true,
+        "sha256": "41f4921578b0d43a"
+      }
+    },
     "site": "crypto",
     "telegram_message_id": 138
   },
@@ -1063,6 +1163,26 @@
     "devto_id": 3894081,
     "devto_url": "https://dev.to/mrnasdog/xrp-inflation-analysis-june-2026-escrow-drips-in-most-of-it-re-locks-c92",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/xrp-pressure-framework.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-18T12:19:28Z",
+        "note": "updated \u2192 https://dev.to/mrnasdog/xrp-inflation-analysis-june-2026-escrow-drips-in-most-of-it-re-locks-c92 (published=True)",
+        "ok": true,
+        "sha256": "30a4bbe0dca388e1"
+      },
+      "github": {
+        "at": "2026-09-18T12:19:27Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/xrp-pressure-framework.md",
+        "ok": true,
+        "sha256": "30a4bbe0dca388e1"
+      },
+      "telegram": {
+        "at": "2026-09-18T12:19:29Z",
+        "note": "edited in place \u2192 @mrnasdog (msg 66)",
+        "ok": true,
+        "sha256": "30a4bbe0dca388e1"
+      }
+    },
     "site": "crypto",
     "telegram_message_id": 66
   },
