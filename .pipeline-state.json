@@ -515,6 +515,26 @@
     "devto_id": 3943911,
     "devto_url": "https://dev.to/mrnasdog/floki-inflation-analysis-june-2026-supply-slowly-shrinking-on-continuous-burns-i2b",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/floki-pressure-framework.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-19T00:50:27Z",
+        "note": "updated \u2192 https://dev.to/mrnasdog/floki-inflation-analysis-june-2026-supply-slowly-shrinking-on-continuous-burns-i2b (published=True)",
+        "ok": true,
+        "sha256": "cc5728d9aa2179bf"
+      },
+      "github": {
+        "at": "2026-09-19T00:50:26Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/floki-pressure-framework.md",
+        "ok": true,
+        "sha256": "cc5728d9aa2179bf"
+      },
+      "telegram": {
+        "at": "2026-09-19T00:50:28Z",
+        "note": "edited in place \u2192 @mrnasdog (msg 99)",
+        "ok": true,
+        "sha256": "cc5728d9aa2179bf"
+      }
+    },
     "site": "crypto",
     "telegram_message_id": 99
   },
@@ -701,6 +721,26 @@
     "devto_id": 3948204,
     "devto_url": "https://dev.to/mrnasdog/jasmy-inflation-analysis-june-2026-capped-supply-distribution-finished-sitting-flat-3iif",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/jasmy-pressure-framework.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-19T00:50:30Z",
+        "note": "updated \u2192 https://dev.to/mrnasdog/jasmy-inflation-analysis-june-2026-capped-supply-distribution-finished-sitting-flat-3iif (published=True)",
+        "ok": true,
+        "sha256": "f40829b586118453"
+      },
+      "github": {
+        "at": "2026-09-19T00:50:30Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/jasmy-pressure-framework.md",
+        "ok": true,
+        "sha256": "f40829b586118453"
+      },
+      "telegram": {
+        "at": "2026-09-19T00:50:31Z",
+        "note": "edited in place \u2192 @mrnasdog (msg 105)",
+        "ok": true,
+        "sha256": "f40829b586118453"
+      }
+    },
     "site": "crypto",
     "telegram_message_id": 105
   },
