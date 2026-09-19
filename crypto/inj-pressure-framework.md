@@ -14,7 +14,7 @@ Supply is growing and is projected to keep growing. The Pressure Framework estim
 
 ## The verdict, in one paragraph
 
-The trailing framework reading is **+0.95%**, compared with the monitor’s **+0.22%**. The monitor is **0.72 percentage points** lower, so the overview retains a warning. The framework uses the required **100.0M INJ** circulating denominator, although the combined native and unbridged balances imply approximately **128.13M INJ** globally. The historical mint figure is a protocol-math estimate supported by actual block counts and bridge balances, not a directly observed quarter-long supply delta. The resulting characterization is an uncapped staking chain whose recurring burn remains smaller than its issuance.
+The trailing framework reading is **+0.95%**, compared with the monitor’s **+0.22%**. The monitor is **0.72 percentage points** lower, so the overview retains a warning. The reason is simple: the monitor's count of INJ has been stuck near **100M** since **Nov 11 2025**, so it cannot see the new INJ created every block, and its reading is day-to-day noise around a fixed number. The framework also uses that **100.0M INJ** as its denominator, as the rules require, although native and unbridged balances add up to about **128.13M INJ**. The historical mint figure is a protocol-math estimate supported by actual block counts and bridge balances, not a directly observed quarter-long supply delta. The resulting characterization is an uncapped staking chain whose recurring burn remains smaller than its issuance.
 
 ## Sell pressure: where new INJ comes from
 
@@ -53,4 +53,3 @@ Watch the settlements on **Sep 30 2026**, **Oct 28 2026** and **Nov 25 2026** fo
 The Pressure Framework estimates **+0.95%** trailing INJ pressure and **+1.01%** over the next 90 days. Estimated protocol issuance exceeds the three completed buyback burns, while genesis vesting contributes nothing further. Historical-state limits and the reported **100.0M INJ** denominator remain explicit qualifications, with the monitor warning retained. Injective’s supply is uncapped, so stronger fee-funded destruction or lower issuance is required to change the structural direction.
 
 MrNasdog Pressure Framework analysis of INJ, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 20 2026.
-
