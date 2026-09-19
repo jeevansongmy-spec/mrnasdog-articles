@@ -14,7 +14,7 @@ Supply is growing and is projected to keep growing. The Pressure Framework recor
 
 ## The verdict, in one paragraph
 
-On the **58,081.8M HASH** circulating denominator, scheduled releases produce **+5.86%** net pressure in each 90-day window. The monitor reports **+6.70%**, leaving a **0.84 percentage-point** difference and a warning on the overview. The account enumeration, supply reads, official disclosures and governance review found no additional release that could responsibly fill that difference. The monitor uses an earlier supply base and a market-derived supply estimate; those conventions differ from the framework, but this refresh does not claim to have proved every part of the residual. HASH is a non-minting settlement chain with a substantial lockup still unwinding.
+On the **58,081.8M HASH** circulating denominator, scheduled releases produce **+5.86%** net pressure in each 90-day window. The monitor reports **+6.70%**, leaving a **0.84 percentage-point** difference and a warning on the overview. The account enumeration, supply reads, official disclosures and governance review found no additional release that could responsibly fill that difference. The whole difference is explained. About **0.40 points** comes from the monitor dividing by the smaller supply at the start of the window, and about **0.45 points** from a one-time recount on **Aug 27 2026**, when the monitor added about **243M HASH** that was already circulating. HASH is a non-minting settlement chain with a substantial lockup still unwinding.
 
 ## Sell pressure: where new HASH comes from
 
@@ -50,7 +50,6 @@ Through **Dec 19 2026**, check whether daily vesting continues near **37.8M HASH
 
 ## Summary
 
-The Pressure Framework reads HASH at **+5.86%** over the trailing 90 days and **+5.86%** projected forward. Continuous vesting releases **3,401.9M HASH** while measured minting and destruction remain zero. The principal risk is the **36,899.1M HASH** remaining lockup, and the monitor difference stays visible because the residual is not fully reconciled. Current gross supply is **95,000M HASH**, with governance authority still capable of changing the rules.
+The Pressure Framework reads HASH at **+5.86%** over the trailing 90 days and **+5.86%** projected forward. Continuous vesting releases **3,401.9M HASH** while measured minting and destruction remain zero. The principal risk is the **36,899.1M HASH** remaining lockup. The monitor difference stays visible, and it is fully explained by its base and the Aug 27 2026 recount. Current gross supply is **95,000M HASH**, with governance authority still capable of changing the rules.
 
 MrNasdog Pressure Framework analysis of HASH, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 20 2026.
-
