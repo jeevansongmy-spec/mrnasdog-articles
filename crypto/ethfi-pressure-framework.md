@@ -1,28 +1,28 @@
 ---
-title: "ETHFI Inflation Analysis · September 2026 · Mixed flows · supply roughly steady"
-description: "Mixed flows: ETHFI books 0.00% quantified net, with vesting scope unresolved. Supply is fixed, burns are zero, and buybacks redistribute circulating tokens."
+title: "ETHFI Inflation Analysis · September 2026 · Supply growing, projected to keep growing"
+description: "ETHFI reads +1.83%: fixed supply, no burns, and one team grant releasing 17.65M every 90 days until Mar 18 2027. Buybacks go to stakers, not a burn."
 canonical_url: "https://mrnasdog.com/research/ethfi/inflation"
 tags: ["crypto", "ethfi", "etherfi", "defi"]
 published: true
 ---
 
-Originally published at [ETHFI Inflation Analysis · September 2026 · Mixed flows · supply roughly steady](https://mrnasdog.com/research/ethfi/inflation).
+Originally published at [ETHFI Inflation Analysis · September 2026 · Supply growing, projected to keep growing](https://mrnasdog.com/research/ethfi/inflation).
 
-# ETHFI Inflation Analysis · September 2026 · Mixed flows · supply roughly steady
+# ETHFI Inflation Analysis · September 2026 · Supply growing, projected to keep growing
 
-**Mixed flows · supply roughly steady** describes ETHFI’s quantified ledger, not a promise of no vesting. The framework books **0** verified net additions and **0** burns, leaving **0.00%** quantified net against **965.35M ETHFI** circulating, while the monitor reads **+4.13%**. The token cannot mint, but the custody and circulation boundary for its remaining contributor vesting is unresolved; that uncertainty is displayed rather than converted into a precise unlock forecast.
+ETHFI cannot mint new tokens, and nothing was burned. The only new supply is the last team grant, which releases **17.65M ETHFI** every 90 days until **Mar 18 2027**. That is **+1.83%** of the **965.35M ETHFI** circulating, for the last 90 days and the next 90. The monitor reads **+4.13%** because of how it counted supply, not because of new coins.
 
 ## The verdict, in one paragraph
 
-The ledger reads **0.00%** over the trailing window and **0.00%** in the quantified forward column through **Dec 19 2026**. Its **4.13 percentage-point** difference from the monitor exceeds the warning threshold, so the overview carries a visible gap. The chain confirms a fixed outstanding total and no destruction, but those facts alone cannot establish the quantity of contractual vesting entering circulation. The appropriate description is fixed issuance with an unresolved release boundary, rather than a completed vesting programme or a confidently neutral supply forecast.
+The ledger reads **+1.83%** over the last 90 days and **+1.83%** through **Dec 19 2026**. The monitor reads **+4.13%**, a gap of **2.30 percentage points**, so the overview carries a warning. The gap is a counting effect: the monitor's count of circulating ETHFI rose in monthly steps on **Jul 17** and **Aug 17 2026**, then was cut back by **54.2M** on **Aug 27 2026**. The chain shows the same **998.536M** total at both ends and no burns. ETHFI is a fixed-supply token near the end of its last vesting grant.
 
 ## Sell pressure: where new ETHFI comes from
 
 Protocol inflation is **0**. ETHFI is an Ethereum governance token, not the asset issued to Ethereum validators. Its deployed token has no ongoing mint path or upgrade route, and the outstanding supply remained **998.536M ETHFI** at both boundaries. Restaking yield, lending activity and the consumer-finance business do not automatically create additional ETHFI.
 
-Vesting unlocks are recorded as an **opaque zero** because the eligible circulating addition is not independently resolved. The project describes a **214.7M** contributor allocation with a three-year schedule and a one-year cliff. Current calendars disagree on whether the cliff is included in the linear period, and an older project-prepared transparency report describes a different completion date. The report also identifies dispersed qualified-custodian holdings instead of one readable vesting escrow.
+Vesting unlocks are **17.65M ETHFI**. The project describes a **214.7M** core-contributor grant over three years from the **Mar 18 2024** launch, with a one-year cliff. The tokens sit with several custodians rather than in one vesting contract we can read, so the published schedule sets the number: about **196,073 ETHFI a day** until **Mar 18 2027**.
 
-A common calendar interpretation produces approximately **26.838M ETHFI** over three months. That is a scenario, not the locked ledger value: its remaining entitlement exceeds the entire **33.186M** gap between outstanding and classified circulating supply. The analysis cannot assume every token on that contractual calendar still sits outside circulation. Foundation and unscheduled unlocks remain unquantified where that same boundary is unknown; transfers between disclosed treasuries are not automatically new supply. Long-term locked or bankruptcy supply contributes **0** because no independent estate release has been identified.
+Some calendars read the grant as 24 monthly tranches of about **8.9M**, or **26.8M** a quarter. That reading cannot match the counted supply: it would leave about **44.7M** still to come, more than the **33.186M** not yet counted as circulating. The daily schedule leaves about **35.1M**, which fits. Foundation and unscheduled unlocks remain unquantified where that same boundary is unknown; transfers between disclosed treasuries are not automatically new supply. Long-term locked or bankruptcy supply contributes **0** because no independent estate release has been identified.
 
 ## Buy pressure: where new ETHFI goes
 
@@ -50,11 +50,10 @@ The most useful comparison is with another token nearing the end of insider vest
 
 ## What to watch in the next 90 days
 
-Through **Dec 19 2026**, the first watch line is a current contributor-custody disclosure that reconciles remaining grants with excluded supply. The second is a dated purchase and distribution report separating ETHFI acquisitions from deposits into the staking vault. The third is any actual token destruction, which must appear either as reduced outstanding supply or increased irreversible dead holdings. The fourth is the grants distributor and operating treasury: material outflows need destination and circulation checks before entering sell pressure. A revised vesting disclosure would replace the opaque placeholder with a defensible amount.
+Through **Dec 19 2026**, the first watch line is a current contributor-custody disclosure that reconciles remaining grants with excluded supply. The second is a dated purchase and distribution report separating ETHFI acquisitions from deposits into the staking vault. The third is any actual token destruction, which must appear either as reduced outstanding supply or increased irreversible dead holdings. The fourth is the grants distributor and operating treasury: material outflows need destination and circulation checks before entering sell pressure. A new vesting disclosure from the project would let us check the daily schedule directly.
 
 ## Summary
 
-ETHFI’s quantified ledger is **0.00%**, with fixed issuance and **0** observed token burns, but its remaining vesting contribution is unresolved. The **+4.13%** monitor reading remains a visible warning rather than a number used to fill that gap. Buybacks redistribute existing ETHFI, while treasury and custody concentrations remain substantial. The outstanding ceiling of **998.536M** constrains token creation without eliminating contractual releases or holder selling.
+ETHFI reads **+1.83%** for the last 90 days and the next 90: the last team grant releases **17.65M** a quarter until **Mar 18 2027**, with fixed issuance and **0** burns. The **+4.13%** monitor reading comes from a recount of circulating supply, not from coins moving. Buybacks redistribute existing ETHFI, while treasury and custody concentrations remain substantial. The outstanding ceiling of **998.536M** constrains token creation without eliminating contractual releases or holder selling.
 
-MrNasdog Pressure Framework analysis of ETHFI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 20 2026.
-
+MrNasdog Pressure Framework analysis of ETHFI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 20 2026 · vesting rechecked Sep 20 2026.
