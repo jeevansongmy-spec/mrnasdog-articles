@@ -14,7 +14,7 @@ Supply is growing and is projected to keep growing. The Pressure Framework recor
 
 ## The verdict, in one paragraph
 
-The framework reads **+0.99%** trailing inflation on the **86,838.8M FLR** circulating base. The monitor’s **+0.35%** is **0.64 percentage points** lower, so a warning remains on the overview. This refresh separates newly spendable rewards, movement between excluded reserve pools and destruction of rewards that never reached circulation. The remaining difference is not filled with an invented treasury distribution or a larger burn. Flare is a continuously issuing network with a second supply stream from vested ecosystem incentives.
+The framework reads **+0.99%** trailing inflation on the **86,838.8M FLR** circulating base. The monitor’s **+0.35%** is **0.64 percentage points** lower, so a warning remains on the overview. This refresh separates newly spendable rewards, movement between excluded reserve pools and destruction of rewards that never reached circulation. The difference is explained by the monitor's own supply count, which fell from 94M FLR to 636M FLR below Flare's supply contract over the window after drops on Jul 31, Aug 25, Sep 2 and Sep 18 2026 that the chain does not show. Flare is a continuously issuing network with a second supply stream from vested ecosystem incentives.
 
 ## Sell pressure: where new FLR comes from
 
@@ -57,4 +57,3 @@ Through **Dec 19 2026**, track the actual realization of the **655.7M FLR** auth
 The Pressure Framework reads FLR at **+0.99%** over the trailing 90 days and **+1.05%** projected forward. Protocol rewards and vested incentives brought **890.0M FLR** toward the market, while circulating burns and excluded-reserve accumulation removed **33.4M FLR**. The main risk is that reserve release and actual reward claims continue faster than usage-driven destruction, with the monitor gap still visible. Flare’s annual issuance limit constrains the rate, while continuing issuance means there is no fixed lifetime supply ceiling.
 
 MrNasdog Pressure Framework analysis of FLR, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 20 2026.
-
