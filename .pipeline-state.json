@@ -549,22 +549,22 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/ethfi-pressure-framework.md",
     "receipts": {
       "devto": {
-        "at": "2026-09-19T19:38:25Z",
+        "at": "2026-09-19T20:15:36Z",
         "note": "updated \u2192 https://dev.to/mrnasdog/ethfi-inflation-analysis-july-2026-supply-growing-projected-to-keep-growing-4bjb (published=True)",
         "ok": true,
-        "sha256": "d53ba579f1c2a24e"
+        "sha256": "4ec49f4c4ccd1535"
       },
       "github": {
-        "at": "2026-09-19T19:38:24Z",
+        "at": "2026-09-19T20:15:35Z",
         "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/ethfi-pressure-framework.md",
         "ok": true,
-        "sha256": "d53ba579f1c2a24e"
+        "sha256": "4ec49f4c4ccd1535"
       },
       "telegram": {
-        "at": "2026-09-19T19:38:26Z",
+        "at": "2026-09-19T20:15:37Z",
         "note": "edited in place \u2192 @mrnasdog (msg 81)",
         "ok": true,
-        "sha256": "d53ba579f1c2a24e"
+        "sha256": "4ec49f4c4ccd1535"
       }
     },
     "site": "crypto",
@@ -644,22 +644,22 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/flr-pressure-framework.md",
     "receipts": {
       "devto": {
-        "at": "2026-09-19T19:38:29Z",
+        "at": "2026-09-19T20:15:47Z",
         "note": "updated \u2192 https://dev.to/mrnasdog/flr-inflation-analysis-july-2026-a-smaller-mint-and-a-new-fee-burn-50ff (published=True)",
         "ok": true,
-        "sha256": "97a950261ac95025"
+        "sha256": "d37823a2b5e4805d"
       },
       "github": {
-        "at": "2026-09-19T19:38:27Z",
+        "at": "2026-09-19T20:15:46Z",
         "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/flr-pressure-framework.md",
         "ok": true,
-        "sha256": "97a950261ac95025"
+        "sha256": "d37823a2b5e4805d"
       },
       "telegram": {
-        "at": "2026-09-19T19:38:30Z",
-        "note": "edited in place \u2192 @mrnasdog (msg 84)",
+        "at": "2026-09-19T20:15:48Z",
+        "note": "already current \u2192 @mrnasdog (msg 84)",
         "ok": true,
-        "sha256": "97a950261ac95025"
+        "sha256": "d37823a2b5e4805d"
       }
     },
     "site": "crypto",
@@ -773,22 +773,22 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/hash-pressure-framework.md",
     "receipts": {
       "devto": {
-        "at": "2026-09-19T19:38:36Z",
+        "at": "2026-09-19T20:15:39Z",
         "note": "updated \u2192 https://dev.to/mrnasdog/hash-inflation-analysis-june-2026-supply-shrinking-2973 (published=True)",
         "ok": true,
-        "sha256": "dfb600bc88ea2a53"
+        "sha256": "9c37d4afb51d4571"
       },
       "github": {
-        "at": "2026-09-19T19:38:35Z",
+        "at": "2026-09-19T20:15:39Z",
         "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/hash-pressure-framework.md",
         "ok": true,
-        "sha256": "dfb600bc88ea2a53"
+        "sha256": "9c37d4afb51d4571"
       },
       "telegram": {
-        "at": "2026-09-19T19:38:36Z",
-        "note": "edited in place \u2192 @mrnasdog (msg 102)",
+        "at": "2026-09-19T20:15:40Z",
+        "note": "already current \u2192 @mrnasdog (msg 102)",
         "ok": true,
-        "sha256": "dfb600bc88ea2a53"
+        "sha256": "9c37d4afb51d4571"
       }
     },
     "site": "crypto",
@@ -869,22 +869,22 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/inj-pressure-framework.md",
     "receipts": {
       "devto": {
-        "at": "2026-09-19T19:38:39Z",
+        "at": "2026-09-19T20:15:43Z",
         "note": "updated \u2192 https://dev.to/mrnasdog/inj-inflation-analysis-july-2026-the-weekly-burn-now-edges-out-the-staking-mint-3pll (published=True)",
         "ok": true,
-        "sha256": "94ea1f38fe47a84c"
+        "sha256": "df11f12952960a42"
       },
       "github": {
-        "at": "2026-09-19T19:38:38Z",
+        "at": "2026-09-19T20:15:42Z",
         "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/inj-pressure-framework.md",
         "ok": true,
-        "sha256": "94ea1f38fe47a84c"
+        "sha256": "df11f12952960a42"
       },
       "telegram": {
-        "at": "2026-09-19T19:38:40Z",
-        "note": "edited in place \u2192 @mrnasdog (msg 87)",
+        "at": "2026-09-19T20:15:44Z",
+        "note": "already current \u2192 @mrnasdog (msg 87)",
         "ok": true,
-        "sha256": "94ea1f38fe47a84c"
+        "sha256": "df11f12952960a42"
       }
     },
     "site": "crypto",
