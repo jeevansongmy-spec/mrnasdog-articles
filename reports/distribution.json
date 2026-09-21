@@ -1,6 +1,6 @@
 {
  "summary": {
-  "checked_at": "2026-09-20T10:04:08.591760+00:00",
+  "checked_at": "2026-09-21T11:04:10.011380+00:00",
   "pages": 120,
   "ok": 120,
   "gaps": 0,
@@ -22,7 +22,7 @@
     "gaps": 0
    }
   },
-  "check_incomplete": false,
+  "check_incomplete": true,
   "orphan_mirrors": [
    "crypto/2z-pressure-framework.md",
    "crypto/ainft-pressure-framework.md",
@@ -464,9 +464,7 @@
    "fresh": true,
    "github": "current",
    "devto_id": 4131166,
-   "devto": "current",
-   "devto_url": "https://dev.to/mrnasdog/bgb-inflation-analysis-july-2026-fixed-cap-burning-down-toward-100m-5591",
-   "devto_edited": "2026-09-09",
+   "devto": "unchecked",
    "telegram": "current",
    "telegram_id": 168
   },
@@ -1764,9 +1762,7 @@
    "fresh": true,
    "github": "current",
    "devto_id": 4008441,
-   "devto": "current",
-   "devto_url": "https://dev.to/mrnasdog/ray-inflation-analysis-june-2026-buyback-outpaces-the-last-of-the-mint-58j0",
-   "devto_edited": "2026-09-14",
+   "devto": "unchecked",
    "telegram": "current",
    "telegram_id": 134
   },
@@ -2397,7 +2393,7 @@
    "url": "https://mrnasdog.com/research/bitcoin-4-year-cycle",
    "sitemap_lastmod": null,
    "issues": [],
-   "title": "Is Bitcoin's price predictable? — MrNasdog · MrNasdog",
+   "title": "Bitcoin 4-Year Cycle: Does It Still Predict the Top? · MrNasdog",
    "page_date": null,
    "mirror": "crypto/bitcoin-4-year-cycle.md",
    "mirror_date": "2026-06-23",
