@@ -93,6 +93,26 @@
     "devto_id": 4131161,
     "devto_url": "https://dev.to/mrnasdog/avax-inflation-analysis-july-2026-the-staking-mint-now-outruns-a-shrunken-fee-burn-3b60",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/avax-pressure-framework.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-22T05:46:52Z",
+        "note": "updated \u2192 https://dev.to/mrnasdog/avax-inflation-analysis-july-2026-the-staking-mint-now-outruns-a-shrunken-fee-burn-3b60 (published=True)",
+        "ok": true,
+        "sha256": "2f42a22de62a0483"
+      },
+      "github": {
+        "at": "2026-09-22T05:46:52Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/avax-pressure-framework.md",
+        "ok": true,
+        "sha256": "2f42a22de62a0483"
+      },
+      "telegram": {
+        "at": "2026-09-22T05:46:53Z",
+        "note": "edited in place \u2192 @mrnasdog (msg 167)",
+        "ok": true,
+        "sha256": "2f42a22de62a0483"
+      }
+    },
     "site": "crypto",
     "telegram_message_id": 167
   },
@@ -342,6 +362,26 @@
     "devto_id": 3943620,
     "devto_url": "https://dev.to/mrnasdog/cfx-inflation-analysis-june-2026-net-inflationary-mild-cooling-395m",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/cfx-pressure-framework.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-22T05:46:49Z",
+        "note": "updated \u2192 https://dev.to/mrnasdog/cfx-inflation-analysis-june-2026-net-inflationary-mild-cooling-395m (published=True)",
+        "ok": true,
+        "sha256": "a841caa2a1495e4d"
+      },
+      "github": {
+        "at": "2026-09-22T05:46:48Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/cfx-pressure-framework.md",
+        "ok": true,
+        "sha256": "a841caa2a1495e4d"
+      },
+      "telegram": {
+        "at": "2026-09-22T05:46:50Z",
+        "note": "edited in place \u2192 @mrnasdog (msg 96)",
+        "ok": true,
+        "sha256": "a841caa2a1495e4d"
+      }
+    },
     "site": "crypto",
     "telegram_message_id": 96
   },
@@ -574,6 +614,26 @@
     "devto_id": 4086849,
     "devto_url": "https://dev.to/mrnasdog/fet-inflation-analysis-july-2026-capped-supply-burn-edges-out-the-drip-561j",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/fet-pressure-framework.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-22T05:46:40Z",
+        "note": "updated \u2192 https://dev.to/mrnasdog/fet-inflation-analysis-july-2026-capped-supply-burn-edges-out-the-drip-561j (published=True)",
+        "ok": true,
+        "sha256": "5676db31e04ed2cb"
+      },
+      "github": {
+        "at": "2026-09-22T05:46:40Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/fet-pressure-framework.md",
+        "ok": true,
+        "sha256": "5676db31e04ed2cb"
+      },
+      "telegram": {
+        "at": "2026-09-22T05:46:41Z",
+        "note": "edited in place \u2192 @mrnasdog (msg 82)",
+        "ok": true,
+        "sha256": "5676db31e04ed2cb"
+      }
+    },
     "site": "crypto",
     "telegram_message_id": 82
   },
@@ -750,6 +810,26 @@
     "devto_id": 3914133,
     "devto_url": "https://dev.to/mrnasdog/gno-inflation-analysis-june-2026-a-capped-supply-that-governance-keeps-shrinking-19ob",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/gno-pressure-framework.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-22T05:46:45Z",
+        "note": "updated \u2192 https://dev.to/mrnasdog/gno-inflation-analysis-june-2026-a-capped-supply-that-governance-keeps-shrinking-19ob (published=True)",
+        "ok": true,
+        "sha256": "42803d9ad8831bf2"
+      },
+      "github": {
+        "at": "2026-09-22T05:46:43Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/gno-pressure-framework.md",
+        "ok": true,
+        "sha256": "42803d9ad8831bf2"
+      },
+      "telegram": {
+        "at": "2026-09-22T05:46:46Z",
+        "note": "edited in place \u2192 @mrnasdog (msg 85)",
+        "ok": true,
+        "sha256": "42803d9ad8831bf2"
+      }
+    },
     "site": "crypto",
     "telegram_message_id": 85
   },
@@ -975,6 +1055,26 @@
     "devto_id": 3943132,
     "devto_url": "https://dev.to/mrnasdog/jst-inflation-analysis-june-2026-a-quarterly-burn-is-shrinking-the-supply-3461",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/jst-pressure-framework.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-22T05:46:25Z",
+        "note": "updated \u2192 https://dev.to/mrnasdog/jst-inflation-analysis-june-2026-a-quarterly-burn-is-shrinking-the-supply-3461 (published=True)",
+        "ok": true,
+        "sha256": "b682eb0ed3ee2b66"
+      },
+      "github": {
+        "at": "2026-09-22T05:46:24Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/jst-pressure-framework.md",
+        "ok": true,
+        "sha256": "b682eb0ed3ee2b66"
+      },
+      "telegram": {
+        "at": "2026-09-22T05:46:26Z",
+        "note": "edited in place \u2192 @mrnasdog (msg 91)",
+        "ok": true,
+        "sha256": "b682eb0ed3ee2b66"
+      }
+    },
     "site": "crypto",
     "telegram_message_id": 91
   },
@@ -1218,6 +1318,26 @@
     "devto_id": 4086880,
     "devto_url": "https://dev.to/mrnasdog/pengu-inflation-analysis-july-2026-scheduled-unlocks-with-nothing-to-burn-them-back-3ddf",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/pengu-pressure-framework.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-22T05:46:33Z",
+        "note": "updated \u2192 https://dev.to/mrnasdog/pengu-inflation-analysis-july-2026-scheduled-unlocks-with-nothing-to-burn-them-back-3ddf (published=True)",
+        "ok": true,
+        "sha256": "5368452ef5a9db9a"
+      },
+      "github": {
+        "at": "2026-09-22T05:46:31Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/pengu-pressure-framework.md",
+        "ok": true,
+        "sha256": "5368452ef5a9db9a"
+      },
+      "telegram": {
+        "at": "2026-09-22T05:46:34Z",
+        "note": "edited in place \u2192 @mrnasdog (msg 146)",
+        "ok": true,
+        "sha256": "5368452ef5a9db9a"
+      }
+    },
     "site": "crypto",
     "telegram_message_id": 146
   },
@@ -1321,6 +1441,26 @@
     "devto_id": 4086825,
     "devto_url": "https://dev.to/mrnasdog/pyth-inflation-analysis-july-2026-the-big-unlock-is-behind-it-the-trend-cooling-86e",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/pyth-pressure-framework.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-22T05:46:37Z",
+        "note": "updated \u2192 https://dev.to/mrnasdog/pyth-inflation-analysis-july-2026-the-big-unlock-is-behind-it-the-trend-cooling-86e (published=True)",
+        "ok": true,
+        "sha256": "7420d73820ab12b0"
+      },
+      "github": {
+        "at": "2026-09-22T05:46:36Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/pyth-pressure-framework.md",
+        "ok": true,
+        "sha256": "7420d73820ab12b0"
+      },
+      "telegram": {
+        "at": "2026-09-22T05:46:38Z",
+        "note": "edited in place \u2192 @mrnasdog (msg 148)",
+        "ok": true,
+        "sha256": "7420d73820ab12b0"
+      }
+    },
     "site": "crypto",
     "telegram_message_id": 148
   },
@@ -1419,6 +1559,26 @@
     "devto_id": 4500490,
     "devto_url": "https://dev.to/mrnasdog/stable-inflation-analysis-august-2026-supply-was-growing-trend-cooling-178p",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/stable-pressure-framework.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-22T05:46:29Z",
+        "note": "updated \u2192 https://dev.to/mrnasdog/stable-inflation-analysis-august-2026-supply-was-growing-trend-cooling-178p (published=True)",
+        "ok": true,
+        "sha256": "68793a453b8b344e"
+      },
+      "github": {
+        "at": "2026-09-22T05:46:28Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/stable-pressure-framework.md",
+        "ok": true,
+        "sha256": "68793a453b8b344e"
+      },
+      "telegram": {
+        "at": "2026-09-22T05:46:29Z",
+        "note": "edited in place \u2192 @mrnasdog (msg 199)",
+        "ok": true,
+        "sha256": "68793a453b8b344e"
+      }
+    },
     "site": "crypto",
     "telegram_message_id": 199
   },
