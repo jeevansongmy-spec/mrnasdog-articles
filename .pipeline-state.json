@@ -10,6 +10,26 @@
     "devto_id": 3861211,
     "devto_url": "https://dev.to/mrnasdog/aave-aave-inflation-analysis-50myr-buyback-beats-safety-module-emission-7pe",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/aave-pressure-framework.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-22T22:19:49Z",
+        "note": "updated \u2192 https://dev.to/mrnasdog/aave-aave-inflation-analysis-50myr-buyback-beats-safety-module-emission-7pe (published=True)",
+        "ok": true,
+        "sha256": "15d83489293d7c72"
+      },
+      "github": {
+        "at": "2026-09-22T22:19:48Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/aave-pressure-framework.md",
+        "ok": true,
+        "sha256": "15d83489293d7c72"
+      },
+      "telegram": {
+        "at": "2026-09-22T22:19:49Z",
+        "note": "edited in place \u2192 @mrnasdog (msg 34)",
+        "ok": true,
+        "sha256": "15d83489293d7c72"
+      }
+    },
     "site": "crypto",
     "telegram_message_id": 34
   },
@@ -80,6 +100,26 @@
     "devto_id": 4131151,
     "devto_url": "https://dev.to/mrnasdog/aster-inflation-analysis-july-2026-supply-growing-but-the-buyback-is-cooling-the-ramp-30l0",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/aster-pressure-framework.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-22T22:19:53Z",
+        "note": "updated \u2192 https://dev.to/mrnasdog/aster-inflation-analysis-july-2026-supply-growing-but-the-buyback-is-cooling-the-ramp-30l0 (published=True)",
+        "ok": true,
+        "sha256": "23e96d6c003fa5e5"
+      },
+      "github": {
+        "at": "2026-09-22T22:19:52Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/aster-pressure-framework.md",
+        "ok": true,
+        "sha256": "23e96d6c003fa5e5"
+      },
+      "telegram": {
+        "at": "2026-09-22T22:19:54Z",
+        "note": "edited in place \u2192 @mrnasdog (msg 166)",
+        "ok": true,
+        "sha256": "23e96d6c003fa5e5"
+      }
+    },
     "site": "crypto",
     "telegram_message_id": 166
   },
@@ -1792,6 +1832,26 @@
     "devto_id": 3866905,
     "devto_url": "https://dev.to/mrnasdog/worldcoin-wld-inflation-analysis-15-year-linear-unlock-still-in-heavy-years-1bg6",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/wld-pressure-framework.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-22T22:19:58Z",
+        "note": "updated \u2192 https://dev.to/mrnasdog/worldcoin-wld-inflation-analysis-15-year-linear-unlock-still-in-heavy-years-1bg6 (published=True)",
+        "ok": true,
+        "sha256": "62b395b6cd7a36ae"
+      },
+      "github": {
+        "at": "2026-09-22T22:19:56Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/wld-pressure-framework.md",
+        "ok": true,
+        "sha256": "62b395b6cd7a36ae"
+      },
+      "telegram": {
+        "at": "2026-09-22T22:19:59Z",
+        "note": "edited in place \u2192 @mrnasdog (msg 163)",
+        "ok": true,
+        "sha256": "62b395b6cd7a36ae"
+      }
+    },
     "telegram_message_id": 163
   },
   "wlfi-pressure-framework": {
