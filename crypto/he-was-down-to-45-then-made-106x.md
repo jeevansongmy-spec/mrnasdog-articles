@@ -1,5 +1,5 @@
 ---
-title: "Down to $45, Then 106×: A Hyperliquid Airdrop Case Study"
+title: "Down to $45, Then 106x: A Hyperliquid Airdrop Case Study"
 description: "A real Hyperliquid trader put in $3,991, got liquidated again and again, and fell to $45. Then a free airdrop came. Today: $423,940, 106× his money."
 canonical_url: "https://mrnasdog.com/case-studies/he-was-down-to-45-then-made-106x"
 tags: ["crypto", "hyperliquid", "airdrop", "casestudy"]
