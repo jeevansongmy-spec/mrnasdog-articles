@@ -1,6 +1,6 @@
 ---
-title: "Welcome to MrNasdog Membership: Start With a Call"
-description: "New member? Start here. Book a private investment call with MrNasdog about a coin you hold or plan to buy, then explore the rest."
+title: "Welcome to MrNasdog Membership"
+description: "Before your next investment, let's take a closer look together. New members: book a private investment discussion with MrNasdog."
 canonical_url: "https://mrnasdog.com/analysis/welcome"
 tags: ["crypto", "investing", "community"]
 published: false
@@ -8,34 +8,38 @@ published: false
 
 > Originally published at **[mrnasdog.com/analysis/welcome](https://mrnasdog.com/analysis/welcome)** by MrNasdog.
 
-Thank you for joining us. As a member, you now have a few new things. One of them is worth using first, so let's start there.
+*Before your next investment, let's take a closer look together.*
 
-## 1. Book a private investment call
+Welcome, and thank you for joining us. **The first thing we suggest: book a private investment discussion with MrNasdog.** Your membership gives you time to talk through the coin or investment question that matters to you.
 
-Let's start with a simple question. **Before you put money into a coin, would more information help you?**
+## 1. Before you buy, bring us your questions
 
-For most of us, the answer is yes. How fast is its supply growing? When is the next big unlock, and how many coins does it release? Is real money buying the coin, or is new supply pushing the price down? And how did it behave in past cycles?
+We all want our investments to do well. Before putting money into a coin, it helps to understand what we're buying—and what we might have missed.
 
-None of this is inside information. It's all public. But it takes hours to dig out, and most people never see it. **We look at these numbers every day.**
+How quickly is its supply growing? Is a large token unlock coming? Where does buying pressure come from? What has happened in the coin's past that matters today?
 
-So if there's a coin you hold, or one you're thinking about, and something about it worries you, bring it to a call. For **20 minutes**, it's just you and MrNasdog, going through that coin together. We may spot something you haven't seen yet.
+These details are public, but finding them and putting them together takes work. **We research coins every day. A discussion may help uncover a blind spot before your money is committed.**
 
-It's not financial advice, and we can't promise any result. But one more careful look before a decision can only help.
+If there's a coin you're considering, or something about a holding that worries you, bring it to a **private 20-minute, one-to-one video call with MrNasdog**. We can look at the questions together while you're still weighing your decision.
 
-Calls happen on AMA Day, one Sunday every month, with only **16 calls** each time. [Book your call on Member Home](https://mrnasdog.com/member).
+Calls take place on AMA Day, one Sunday each month, with **only 16 calls per day**. Check the next date and book early on Member Home.
 
-## 2. Rather write? Send a question
+**[Book your private investment discussion](https://mrnasdog.com/member)**
 
-Send any investment question from your [Member Home](https://mrnasdog.com/member). We'll answer by email on AMA Day.
+Prefer to write? Submit your question on the same page, and we'll answer by email on AMA Day.
 
-## 3. Where is the member-only research?
+## 2. Read the research behind our decisions
 
-Some of our research is for members only, like [Why I Bought PUMP](https://mrnasdog.com/analysis/why-i-bought-pump). You'll find it on your Member Home, and it comes to your inbox as a member-only email.
+Your membership includes **member-only research and emails**. Start with [Why I Bought PUMP](https://mrnasdog.com/analysis/why-i-bought-pump) for a closer look at the reasoning behind an investment.
 
-## 4. What else do you get?
+## 3. Follow the coins you care about
 
-[Coin alerts](https://mrnasdog.com/watchlist), [our personal portfolio](https://mrnasdog.com/portfolio), the [full track record](https://mrnasdog.com/portfolio/history), and an email every time we trade. All of it is on your Member Home, with simple on/off switches.
+Set up your [coin alerts](https://mrnasdog.com/watchlist) to stay informed about the coins you're watching. Keep your questions handy for your next discussion with us.
 
-That's it. **Start with the call.** It's the quickest way to get real value from your membership. See you on AMA Day.
+## 4. See what we actually do
 
-— MrNasdog
+Explore [our personal portfolio](https://mrnasdog.com/portfolio) and [full track record](https://mrnasdog.com/portfolio/history). You'll also receive **an email every time we trade**.
+
+Thank you for being part of MrNasdog. **Have a coin in mind already? [Book your discussion here](https://mrnasdog.com/member).**
+
+*Our discussions and research are not financial advice and do not promise investment results.*
