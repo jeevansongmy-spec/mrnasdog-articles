@@ -1194,22 +1194,22 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/he-was-down-to-45-then-made-106x.md",
     "receipts": {
       "devto": {
-        "at": "2026-09-23T02:26:13Z",
+        "at": "2026-09-26T07:58:28Z",
         "note": "updated \u2192 https://dev.to/mrnasdog/down-to-45-then-106x-a-hyperliquid-airdrop-case-study-16oo (published=True)",
         "ok": true,
-        "sha256": "f41fd96936f8ddea"
+        "sha256": "8b57162e83cb270c"
       },
       "github": {
-        "at": "2026-09-23T02:26:12Z",
+        "at": "2026-09-26T07:58:28Z",
         "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/he-was-down-to-45-then-made-106x.md",
         "ok": true,
-        "sha256": "f41fd96936f8ddea"
+        "sha256": "8b57162e83cb270c"
       },
       "telegram": {
-        "at": "2026-09-23T02:26:13Z",
-        "note": "edited in place \u2192 @mrnasdog (msg 211)",
+        "at": "2026-09-26T07:58:29Z",
+        "note": "already current \u2192 @mrnasdog (msg 211)",
         "ok": true,
-        "sha256": "f41fd96936f8ddea"
+        "sha256": "8b57162e83cb270c"
       }
     },
     "site": "crypto",
