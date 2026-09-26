@@ -10,6 +10,8 @@ published: true
 
 **He Was Down to $45. Then He Made 106×.** Liquidated again and again. Rich anyway.
 
+Watch the case study, the same story animated: [Case Study 002 on YouTube](https://youtu.be/zjiWlL8gY2o)
+
 ## 1. Meet Mr. Oops
 
 Let us introduce you to Mr. Oops. That's what we call him, because nobody knows his real name, and because once you see his trading, the name picks itself. On Christmas Eve 2023 he opened an account on Hyperliquid, a young crypto exchange, and put in **$309**. By March 2024 he had put in **$3,991** in total. That's all the money he ever put in. Not one more dollar, ever.
