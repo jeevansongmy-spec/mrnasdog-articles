@@ -23,7 +23,8 @@
   },
   "devto_unpublished_on_purpose": {
     "/analysis/coin-alerts": "product announcement — Jul 19 2026 decision: announcements stay off Dev.to",
-    "/analysis/portfolio-alerts": "product announcement — Jul 19 2026 decision: announcements stay off Dev.to"
+    "/analysis/portfolio-alerts": "product announcement — Jul 19 2026 decision: announcements stay off Dev.to",
+    "/analysis/member-home": "product announcement (Member Home, Sep 26 2026) — same Jul 19 2026 rule: announcements stay off Dev.to"
   },
   "_orphans": "Mirrors whose page is NOT in the sitemap (offline coins, retired slugs) are listed as orphans for information only; their pages still answer 200 and their mirrors are left alone."
 }
