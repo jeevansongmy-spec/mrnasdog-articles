@@ -2795,6 +2795,33 @@
     "site": "crypto",
     "telegram_message_id": 196
   },
+  "welcome": {
+    "devto_id": 4750968,
+    "devto_url": "https://dev.to/mrnasdog/welcome-to-mrnasdog-membership-start-with-a-call-10p8-temp-slug-168320",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/welcome.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-26T16:26:40Z",
+        "note": "created \u2192 https://dev.to/mrnasdog/welcome-to-mrnasdog-membership-start-with-a-call-10p8-temp-slug-168320 (published=False)",
+        "ok": true,
+        "sha256": "ba9052017becc67d"
+      },
+      "github": {
+        "at": "2026-09-26T16:26:34Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/welcome.md",
+        "ok": true,
+        "sha256": "ba9052017becc67d"
+      },
+      "telegram": {
+        "at": "2026-09-26T16:26:40Z",
+        "note": "posted to @mrnasdog (msg 214)",
+        "ok": true,
+        "sha256": "ba9052017becc67d"
+      }
+    },
+    "site": "crypto",
+    "telegram_message_id": 214
+  },
   "why-i-bought-pump": {
     "devto_id": 4747828,
     "devto_url": "https://dev.to/mrnasdog/why-i-bought-pump-pumpfun-revenue-buyback-and-unlock-risk-1efp",
