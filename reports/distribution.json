@@ -1,9 +1,9 @@
 {
  "summary": {
-  "checked_at": "2026-09-25T10:31:31.667377+00:00",
-  "pages": 121,
-  "ok": 120,
-  "gaps": 1,
+  "checked_at": "2026-09-26T10:12:33.151031+00:00",
+  "pages": 123,
+  "ok": 123,
+  "gaps": 0,
   "by_kind": {
    "coin": {
     "pages": 107,
@@ -14,12 +14,12 @@
     "gaps": 0
    },
    "analysis": {
-    "pages": 9,
+    "pages": 11,
     "gaps": 0
    },
    "case-study": {
     "pages": 2,
-    "gaps": 1
+    "gaps": 0
    }
   },
   "check_incomplete": false,
@@ -54,28 +54,6 @@
   }
  },
  "rows": [
-  {
-   "kind": "case-study",
-   "slug": "he-was-down-to-45-then-made-106x",
-   "path": "/case-studies/he-was-down-to-45-then-made-106x",
-   "url": "https://mrnasdog.com/case-studies/he-was-down-to-45-then-made-106x",
-   "sitemap_lastmod": "2026-09-24",
-   "issues": [
-    "mirror older than page (2026-09-23 < 2026-09-24)"
-   ],
-   "title": "Down to $45, Then 106×: A Hyperliquid Airdrop Case Study",
-   "page_date": "2026-09-24",
-   "mirror": "crypto/he-was-down-to-45-then-made-106x.md",
-   "mirror_date": "2026-09-23",
-   "fresh": false,
-   "github": "current",
-   "devto_id": 4720461,
-   "devto": "current",
-   "devto_url": "https://dev.to/mrnasdog/down-to-45-then-106x-a-hyperliquid-airdrop-case-study-16oo",
-   "devto_edited": "2026-09-23",
-   "telegram": "current",
-   "telegram_id": 211
-  },
   {
    "kind": "analysis",
    "slug": "ai-coin-watcher",
@@ -196,6 +174,24 @@
   },
   {
    "kind": "analysis",
+   "slug": "member-home",
+   "path": "/analysis/member-home",
+   "url": "https://mrnasdog.com/analysis/member-home",
+   "sitemap_lastmod": "2026-09-26",
+   "issues": [],
+   "title": "Member Home: Ask MrNasdog or Book a Call Every Month",
+   "page_date": "2026-09-26",
+   "mirror": "crypto/member-home.md",
+   "mirror_date": "2026-09-26",
+   "fresh": true,
+   "github": "current",
+   "devto_id": 4747833,
+   "devto": "off on purpose",
+   "telegram": "current",
+   "telegram_id": 213
+  },
+  {
+   "kind": "analysis",
    "slug": "on-chain-perpetuals",
    "path": "/analysis/on-chain-perpetuals",
    "url": "https://mrnasdog.com/analysis/on-chain-perpetuals",
@@ -251,6 +247,46 @@
    "devto_edited": "2026-09-18",
    "telegram": "current",
    "telegram_id": 205
+  },
+  {
+   "kind": "analysis",
+   "slug": "why-i-bought-pump",
+   "path": "/analysis/why-i-bought-pump",
+   "url": "https://mrnasdog.com/analysis/why-i-bought-pump",
+   "sitemap_lastmod": "2026-09-26",
+   "issues": [],
+   "title": "Why I Bought PUMP: Pump.fun Revenue, Buyback and Unlock Risk",
+   "page_date": "2026-09-26",
+   "mirror": "crypto/why-i-bought-pump.md",
+   "mirror_date": "2026-09-26",
+   "fresh": true,
+   "github": "current",
+   "devto_id": 4747828,
+   "devto": "current",
+   "devto_url": "https://dev.to/mrnasdog/why-i-bought-pump-pumpfun-revenue-buyback-and-unlock-risk-1efp",
+   "devto_edited": "2026-09-26",
+   "telegram": "current",
+   "telegram_id": 212
+  },
+  {
+   "kind": "case-study",
+   "slug": "he-was-down-to-45-then-made-106x",
+   "path": "/case-studies/he-was-down-to-45-then-made-106x",
+   "url": "https://mrnasdog.com/case-studies/he-was-down-to-45-then-made-106x",
+   "sitemap_lastmod": "2026-09-24",
+   "issues": [],
+   "title": "Down to $45, Then 106×: A Hyperliquid Airdrop Case Study",
+   "page_date": "2026-09-24",
+   "mirror": "crypto/he-was-down-to-45-then-made-106x.md",
+   "mirror_date": "2026-09-26",
+   "fresh": true,
+   "github": "current",
+   "devto_id": 4720461,
+   "devto": "current",
+   "devto_url": "https://dev.to/mrnasdog/down-to-45-then-106x-a-hyperliquid-airdrop-case-study-16oo",
+   "devto_edited": "2026-09-26",
+   "telegram": "current",
+   "telegram_id": 211
   },
   {
    "kind": "case-study",
