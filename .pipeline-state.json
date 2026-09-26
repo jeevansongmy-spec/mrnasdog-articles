@@ -1637,6 +1637,33 @@
     "site": "crypto",
     "telegram_message_id": 144
   },
+  "member-home": {
+    "devto_id": 4747833,
+    "devto_url": "https://dev.to/mrnasdog/member-home-ask-mrnasdog-or-book-a-call-every-month-2p8b-temp-slug-2100741",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/member-home.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-26T07:57:33Z",
+        "note": "created \u2192 https://dev.to/mrnasdog/member-home-ask-mrnasdog-or-book-a-call-every-month-2p8b-temp-slug-2100741 (published=False)",
+        "ok": true,
+        "sha256": "886fc9c383eade36"
+      },
+      "github": {
+        "at": "2026-09-26T07:57:33Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/member-home.md",
+        "ok": true,
+        "sha256": "886fc9c383eade36"
+      },
+      "telegram": {
+        "at": "2026-09-26T07:57:34Z",
+        "note": "posted to @mrnasdog (msg 213)",
+        "ok": true,
+        "sha256": "886fc9c383eade36"
+      }
+    },
+    "site": "crypto",
+    "telegram_message_id": 213
+  },
   "memecore-pressure-framework": {
     "devto_id": 3868056,
     "devto_url": "https://dev.to/mrnasdog/m-inflation-analysis-june-2026-supply-growing-projected-to-keep-growing-43bm",
@@ -2767,6 +2794,33 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/wbt-pressure-framework.md",
     "site": "crypto",
     "telegram_message_id": 196
+  },
+  "why-i-bought-pump": {
+    "devto_id": 4747828,
+    "devto_url": "https://dev.to/mrnasdog/why-i-bought-pump-pumpfun-revenue-buyback-and-unlock-risk-1efp",
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/why-i-bought-pump.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-26T07:57:03Z",
+        "note": "created \u2192 https://dev.to/mrnasdog/why-i-bought-pump-pumpfun-revenue-buyback-and-unlock-risk-1efp (published=True)",
+        "ok": true,
+        "sha256": "edf87dae11d49d59"
+      },
+      "github": {
+        "at": "2026-09-26T07:57:02Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/why-i-bought-pump.md",
+        "ok": true,
+        "sha256": "edf87dae11d49d59"
+      },
+      "telegram": {
+        "at": "2026-09-26T07:57:04Z",
+        "note": "posted to @mrnasdog (msg 212)",
+        "ok": true,
+        "sha256": "edf87dae11d49d59"
+      }
+    },
+    "site": "crypto",
+    "telegram_message_id": 212
   },
   "wif-pressure-framework": {
     "devto_id": 3956209,
