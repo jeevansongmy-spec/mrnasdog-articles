@@ -210,6 +210,10 @@ def push_devto(art, state, creds, dry, draft):
 
 
 def push_telegram(art, state, creds, dry, force):
+    # MrNasdog, Sep 27 2026: the @mrnasdog channel is the investment brand only. mrnasdoggrowth.com is his
+    # personal side — never mentioned or promoted there. Growth articles never go to Telegram.
+    if "mrnasdoggrowth.com" in art.get("canonical_url", ""):
+        return "skipped (growth article: never on the MrNasdog Telegram channel)"
     tok = creds.get("TELEGRAM_BOT_TOKEN")
     chan = creds.get("TELEGRAM_CHANNEL", "@mrnasdog")
     if not tok:
