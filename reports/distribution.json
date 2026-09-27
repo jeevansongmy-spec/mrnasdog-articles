@@ -1,9 +1,9 @@
 {
  "summary": {
-  "checked_at": "2026-09-26T10:12:33.151031+00:00",
-  "pages": 123,
+  "checked_at": "2026-09-27T10:42:29.357527+00:00",
+  "pages": 124,
   "ok": 123,
-  "gaps": 0,
+  "gaps": 1,
   "by_kind": {
    "coin": {
     "pages": 107,
@@ -14,8 +14,8 @@
     "gaps": 0
    },
    "analysis": {
-    "pages": 11,
-    "gaps": 0
+    "pages": 12,
+    "gaps": 1
    },
    "case-study": {
     "pages": 2,
@@ -54,6 +54,26 @@
   }
  },
  "rows": [
+  {
+   "kind": "analysis",
+   "slug": "member-home",
+   "path": "/analysis/member-home",
+   "url": "https://mrnasdog.com/analysis/member-home",
+   "sitemap_lastmod": "2026-09-27",
+   "issues": [
+    "mirror older than page (2026-09-26 < 2026-09-27)"
+   ],
+   "title": "Member Home: Ask MrNasdog or Book a Call Every Month",
+   "page_date": "2026-09-27",
+   "mirror": "crypto/member-home.md",
+   "mirror_date": "2026-09-26",
+   "fresh": false,
+   "github": "current",
+   "devto_id": 4747833,
+   "devto": "off on purpose",
+   "telegram": "current",
+   "telegram_id": 213
+  },
   {
    "kind": "analysis",
    "slug": "ai-coin-watcher",
@@ -174,24 +194,6 @@
   },
   {
    "kind": "analysis",
-   "slug": "member-home",
-   "path": "/analysis/member-home",
-   "url": "https://mrnasdog.com/analysis/member-home",
-   "sitemap_lastmod": "2026-09-26",
-   "issues": [],
-   "title": "Member Home: Ask MrNasdog or Book a Call Every Month",
-   "page_date": "2026-09-26",
-   "mirror": "crypto/member-home.md",
-   "mirror_date": "2026-09-26",
-   "fresh": true,
-   "github": "current",
-   "devto_id": 4747833,
-   "devto": "off on purpose",
-   "telegram": "current",
-   "telegram_id": 213
-  },
-  {
-   "kind": "analysis",
    "slug": "on-chain-perpetuals",
    "path": "/analysis/on-chain-perpetuals",
    "url": "https://mrnasdog.com/analysis/on-chain-perpetuals",
@@ -247,6 +249,24 @@
    "devto_edited": "2026-09-18",
    "telegram": "current",
    "telegram_id": 205
+  },
+  {
+   "kind": "analysis",
+   "slug": "welcome",
+   "path": "/analysis/welcome",
+   "url": "https://mrnasdog.com/analysis/welcome",
+   "sitemap_lastmod": "2026-09-27",
+   "issues": [],
+   "title": "Welcome to MrNasdog Membership: Start With a Call",
+   "page_date": "2026-09-27",
+   "mirror": "crypto/welcome.md",
+   "mirror_date": "2026-09-27",
+   "fresh": true,
+   "github": "current",
+   "devto_id": 4750968,
+   "devto": "off on purpose",
+   "telegram": "current",
+   "telegram_id": 214
   },
   {
    "kind": "analysis",
