@@ -27,7 +27,7 @@ A member asked me why I bought PUMP, the coin of Pump.fun, the memecoin launchpa
 
 ## Is PUMP cheap for what it earns?
 
-The first thing I look at is **P/S, price vs sales**: the coin's market value divided by the revenue the app earns in a year. In crypto people often call it P/F, price vs fees, because the fees users pay are the sales. Lower is better. A low P/S means the business earns a lot compared with what the coin costs. I only use the last 30 or 90 days, turned into a year. Last year's numbers come from a bear market and would tell us little.
+The first thing I look at is **P/S, price vs revenue**: the coin's market value divided by the revenue the app earns in a year. Revenue is the part of the fees the app keeps for itself, not everything users pay. Lower is better. A low P/S means the business earns a lot compared with what the coin costs. I only use the last 30 or 90 days, turned into a year. Last year's numbers come from a bear market and would tell us little.
 
 PUMP is at **3.0×**. That's the lowest of the exchange coins I follow, lower even than RAY, which just had a very strong month. In simple words: Pump.fun is rich.
 
