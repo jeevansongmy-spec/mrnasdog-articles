@@ -1,6 +1,6 @@
 ---
 title:         "LUNC Inflation Analysis · September 2026 · Mixed flows · supply roughly steady"
-description:   "LUNC supply roughly steady: −0.08% in 90 days, −0.17% next. No minting; a 1.5% burn tax and monthly exchange burns destroyed 7.4B LUNC as 3.0B left staking."
+description:   "LUNC supply roughly steady: no minting, and a 1.5% transfer tax burned 6.23B LUNC in 90 days. Net −0.32% over 90 days, and about −0.19% projected next."
 canonical_url: "https://mrnasdog.com/research/lunc/inflation"
 tags:          ["crypto", "lunc", "terraclassic", "tokenomics"]
 published:     true
@@ -10,48 +10,60 @@ Originally published at [LUNC Inflation Analysis · September 2026 · Mixed flow
 
 # LUNC Inflation Analysis · September 2026 · Mixed flows · supply roughly steady
 
-Terra Classic mints no new LUNC, and its tradable float is shrinking slowly: the Pressure Framework reads LUNC at **−0.08%** over the last 90 days and **−0.17%** projected for the next 90, against a monitor reading of **+0.15%**. A transfer tax, tripled to 1.5% on **Aug 2 2026**, and Binance's monthly burn destroyed **7,442.4M LUNC**, while a net **2,998.3M LUNC** left the staked pool and became tradable. There is no supply cap; what keeps LUNC from growing is that emission is switched off and every taxed transfer destroys coins.
+The MrNasdog Pressure Framework reads Terra Luna Classic (LUNC) at **−0.32% net** over the trailing 90 days and **−0.19%** over the next 90: supply is shrinking, but slowly. Terra Classic mints no new LUNC at all, and **18.16B LUNC** left the circulating count in 90 days — a **6.23B** transfer-tax burn, a **1.21B** exchange buy-and-burn, **9.60B** of new staking and **1.11B** into the community pool — against only **291.7M** paid back out by vote. With **5.51 trillion LUNC** circulating, even billions of burned coins move the total by only a fraction of a percent.
 
 ## The verdict, in one paragraph
 
-Against a circulating base of **5,511,140.3M LUNC**, the framework books **2,998.3M LUNC** of sell pressure and **7,442.4M LUNC** of buy pressure over the trailing 90 days, a net of **−0.08%**, and projects **−0.17%** for the next 90 days. The inflation monitor reads **+0.15%** for the same window, a gap of **0.23 percentage points**, which is inside the framework's 0.5-point tolerance, so the overview carries no warning. The monitor's own supply series moves by billions of LUNC from one day to the next, so a gap of this size is expected. The label for LUNC is a **non-minting chain with a burn that now outruns its staking releases**: slightly deflationary on the float, and more so since the tax rise.
+LUNC supply fell **0.32%** over the 90 days from Jul 1 to Sep 29 2026, and the framework projects a **0.19%** fall over the next 90 days. The independent monitor reads **−0.29%** for the same stretch, a gap of just **0.04 percentage points**, well inside the 0.5-point limit, so no data-conflict flag is shown. The forward figure is smaller than the trailing one because the trailing window includes **9.60B LUNC** of fresh staking, which has no set programme and is not projected forward. Terra Classic is a **zero-issuance chain with a transfer-tax burn**: nothing new comes in, and every taxed transfer destroys a little.
 
 ## Sell pressure: where new LUNC comes from
 
-It does not come from minting. Terra Classic's emission settings read zero on every field: inflation rate, annual provisions, and both the upper and lower bounds. The count of LUNC in existence fell at every one of 91 reads across the window, from **6,455,620.8M** to **6,448,178.5M**, and the old market swap that once printed LUNC stays shut. Stakers on Terra Classic are paid from a reward pool filled by the transfer tax, not from new coins. So Sell #1, protocol inflation, is **0**. A governance vote could switch emission back on, so the row is watched rather than closed.
+Protocol inflation is **0**. The Terra Classic mint rate is set to zero, the old market swap that once created LUNC is switched off, and total LUNC supply fell on every one of the 90 days in the window, from **6.455 trillion** to **6.448 trillion**. Staking rewards on Terra Classic are paid from a reward pool of coins that already exist, topped up by the transfer tax, so they add nothing new. Because a governance vote could switch minting back on, the row is checked at every rebuild rather than marked as fixed forever.
 
-Sell #2, vesting unlocks, is **0**: Terra Classic has no team, investor or foundation release schedule. Sell #3, foundation and unscheduled unlocks, is **0** as well. The community pool paid out **291.7M LUNC** in two voted grants, on **Jul 1 2026** and **Sep 4 2026**, but those coins were already counted as circulating, so the grants moved them without adding any. Sell #4, long-term locked or bankruptcy, is **0**: the eight wallets left from Terraform Labs did not move.
+Vesting unlocks are **0**. LUNC has no team, investor or foundation allocation left to vest, and no unlock tracker lists any release.
 
-The whole sell side is Sell #5, net unstaking, at **2,998.3M LUNC**. Terra Classic's circulating count leaves staked LUNC out, so a coin that leaves the staked pool joins the tradable float. Staked LUNC fell from **915,972.2M** to **912,973.9M** while the active validator set shrank from **103** to **87**. The flow is not one-way: staked LUNC fell **8,278.7M** before Aug 2 and rose **5,280.3M** after it. With no schedule behind it, the framework projects no staking release for the next 90 days.
+Foundation and unscheduled unlocks come to **291.7M LUNC**. Terra Classic has no foundation; its treasury is the community pool, which sits outside the circulating count. Two voted payouts put coins back on the market: **9.87M LUNC** on Jul 1 2026 for bridge work to Solana and **281.85M LUNC** on Sep 4 2026 to keep the chain's cross-chain links running. Payouts are sporadic, so the next 90 days carry 0 unless a new spending vote passes.
+
+Long-term locked or bankruptcy supply is **0**. Terraform Labs is being wound down, and its last eight wallets hold about **302.7M LUNC** that did not move in the window. The court order requires those coins to be burned or their keys destroyed, and they are already counted as circulating, so they add nothing new either way.
 
 ## Buy pressure: where new LUNC goes
 
-Into two burns. Buy #2, the protocol fee burn, is the larger at **6,227.5M LUNC**. Every taxed transfer on Terra Classic pays a tax, and 80% of it is destroyed. Governance proposal 12223 raised the tax from 0.5% to 1.5% at the block closing its vote on **Aug 2 2026**, so a taxed send now loses 1.2% instead of 0.4%. The burn rose from **36.2M** to **93.8M LUNC** a day, about two and a half times, which means taxed volume fell somewhat after the rise. Because the tax changed mid-window, the next 90 days use the rate since Aug 2: **8,442.9M LUNC**.
+There is no programmatic buyback by the protocol, so that row is **0**. The biggest steady buyer is the burn.
 
-Buy #1, the programmatic buyback, is **1,214.8M LUNC**. Binance buys and burns LUNC once a month with half the trading fees from its LUNC pairs, and three burns landed in the window: **604.3M** on Jul 1, **275.6M** on Aug 1 and **334.9M** on Sep 1 2026. Terra Classic destroys anything sent to its burn account in the same block, so that account reads zero at both ends and the burn shows only as a fall in total supply. The framework reads that one surface and counts each coin once. The next three firings are counted at the latest size, **1,004.6M LUNC** in all.
+The protocol fee burn removed **6.23B LUNC**. Most LUNC transfers on Terra Classic pay an on-chain tax, and 80% of that tax is destroyed on the spot, with 10% going to the community pool and 10% to the staking-reward pool. On Aug 2 2026 a governance vote raised the tax from **0.5%** to **1.5%**. The burn went from about **33M LUNC a day** before the change to about **89M a day** after it — 2.7 times more on a tax three times higher, which means somewhat less LUNC is being moved on-chain. A handful of very large transfers on Sep 14 and 15 2026, together more than 58B LUNC, paid about 700M of that burn on their own. The next 90 days use the post-change rate: about **8.05B LUNC**.
 
-Buy #3, foundation buy, is **0**: there is no foundation, and the community pool's growth from **8,284.1M** to **9,099.2M LUNC** is tax and reward income, not a purchase. Buy #4, new long-term lock, is **0**, because staking released coins over the window as a whole; that net release is already booked as Sell #5.
+Foundation buying is **0**: there is no foundation, and no vote this window spent community funds on buying LUNC.
+
+New long-term locks came to **9.60B LUNC**. Staked LUNC sits outside the circulating count, and the staked total rose from **904.38B** to **913.98B** in the window, most of it in September after a dip to 900.5B on Sep 5 2026. Staking follows holders' choices rather than a set plan, and it has run the other way in earlier windows, so the next 90 days carry 0 for this row.
+
+Two extra rows complete the Terra Classic buy side. The first is an **exchange buy-and-burn**: one large exchange burns LUNC from its trading fees on the first day of each month, and in the window it sent **604.28M** on Jul 1, **275.65M** on Aug 1 and **334.88M** on Sep 1 2026 to the burn address — **1.21B LUNC** in all. Three more burns are due on Oct 1, Nov 1 and Dec 1 2026, about **1.00B** at the latest size. The second is **community pool intake**: the pool's tenth of the tax took **1.11B LUNC** off the market in 90 days, and about **1.52B** is expected over the next 90 at the higher tax.
 
 ## Foundation and overhang
 
-Terra Classic has no foundation and no team treasury; Terraform Labs was liquidated on **Jan 16 2026** and its duties passed to a wind-down trust. Three pots are watched. The community pool holds **9,099.2M LUNC** and pays out only by governance vote. The staking reward pool holds **36,861.4M LUNC** and drains a little every block to stakers, refilled by the tax. The eight wallets left from Terraform Labs hold **302.7M LUNC** plus **50.0M** staked; the court judgment says they must be burned or their keys destroyed, and the wind-down runs to **Dec 31 2026**.
+Terra Classic has no foundation, team treasury or buyback wallet. The balances we track are all on-chain and read at every rebuild. The **community pool** holds **9.15B LUNC** outside the circulating count and pays only by a governance vote; a **1.60B LUNC** payout for a security audit is in a vote that ends Oct 1 2026. The **staked pool** holds **913.98B LUNC**, also outside the count; unstaking takes 21 days, and **38.80B** is already on its way out and already counted as circulating. The **staking-reward pool** holds **36.55B LUNC** and pays stakers from coins that are already counted. The eight remaining **Terraform Labs wallets** hold about **302.7M LUNC**. A fixed **14.95B LUNC** is also left out of the circulating count and did not change all window. If any of these balances falls between rebuilds and the coins reach the market, the outflow enters the foundation and unscheduled row at the next rebuild.
 
-All three are read on chain at every rebuild. The community pool and reward pool already count as circulating, so their payouts move coins within the float rather than adding to it. If the Terraform Labs wallets move, or any pot sends coins into the float from outside it between refreshes, that outflow enters Sell #3 at the next refresh.
+## How LUNC compares to other burn-driven Layer 1s
 
-## How LUNC compares to other non-minting and burn-driven chains
+Most proof-of-stake Layer 1 chains pay validators in newly created coins and then try to offset it with a fee burn. Ethereum is the clearest example: it creates new ETH every block and burns part of each fee, and the burn usually loses. Terra Classic is built the other way round. LUNC has **no issuance at all**, so every burned coin is a net reduction, and the tax taxes the movement of the coin itself rather than the use of blockspace.
 
-Most Cosmos-SDK chains pay stakers with new coins, at a staking-linked emission of several percent a year. Terra Classic uses the same software but has its emission set to zero, so LUNC pays stakers out of a pool the transfer tax refills. On the issuance axis it is stricter than a halving-model chain like Bitcoin, which still mints every block. Unlike Bitcoin, though, LUNC has no hard cap: supply falls because the settings say zero and the burn runs, and a vote could change either.
+The closest structural analogue is BNB, which also mixes a protocol burn with a large exchange-driven burn. The difference is scale: BNB's burns remove a visible share of a small, capped supply every quarter, while LUNC's **18.16B** of buy-side flow in 90 days is about a third of one percent of a **5.51 trillion** float. Meme-style coins such as SHIB rely on voluntary community burns with no protocol tax, which keeps their burn tiny; Terra Classic's tax makes the burn automatic, but the size of the supply left behind by the 2022 collapse means it works very slowly.
 
-Against exchange tokens that run large quarterly buyback-and-burns, LUNC's burn is small relative to its supply. **7,442.4M LUNC** destroyed in 90 days sounds large, yet it is about **0.14%** of the float, because the float is over five trillion coins. The tax burn scales with usage, not with a treasury decision, so it is steadier than a discretionary buyback but cannot jump on demand.
-
-The other lesson is the boundary. Because staked LUNC sits outside the circulating count, staking behaviour moves the float as much as the burn does. Over this window, net unstaking offset about **40%** of everything burned. On chains that count staked coins as circulating, the same flows would not show up at all.
+Terra Classic also counts staked coins outside its circulating supply, unlike Ethereum or Cardano. That makes LUNC's net figure sensitive to staking swings: a few billion coins moving into or out of staking can outweigh a month of burning.
 
 ## What to watch in the next 90 days
 
-First, the Binance burns on **Oct 1 2026**, **Nov 1 2026** and **Dec 1 2026**, counted here at **334.9M LUNC**each; their size follows Binance's LUNC trading fees. Second, the tax burn, which runs near **93.8M LUNC** a day and moves with on-chain volume. Third, staking: a swing of a few billion LUNC into or out of the staked pool moves this reading as much as a month of burns. Fourth, the Terraform Labs wallets and their **Dec 31 2026** wind-down date. Fifth, governance: a security upgrade is set for **Sep 24 2026** and changes no supply rule, but any vote on the tax rate, the tax split or emission would.
+**Oct 1 2026:** the vote on proposal 12228 closes; if the 1.60B LUNC audit payout passes, those coins leave the community pool and enter the market.
+
+**Oct 1, Nov 1 and Dec 1 2026:** the exchange's monthly LUNC burns, about 335M each at the latest size.
+
+**A rival audit plan:** a second community pool request of about US$74,000 in LUNC is being discussed on the forum and could reach a vote in the window.
+
+**Tax and staking:** any vote to change the 1.5% tax or its 80/10/10 split resets the burn forecast, and a large move into or out of staking can swing the net by more than the burn itself.
 
 ## Summary
 
-The MrNasdog Pressure Framework reads LUNC at **−0.08%** over the trailing 90 days and **−0.17%**projected forward: mixed flows, supply roughly steady, with a slow shrink. Terra Classic mints nothing; a 1.5% transfer tax and Binance's monthly burn destroyed **7,442.4M LUNC**, and net unstaking returned **2,998.3M LUNC** to the float. The key risk is staking, which can release billions in weeks with no schedule. There is no hard cap; the protection is emission set to zero and a burn tied to every taxed transfer, both of which a vote could change.
+LUNC supply is shrinking slowly: **−0.32%** over the last 90 days and a projected **−0.19%** over the next 90, in line with the monitor's **−0.29%**. Terra Classic creates no new coins, and a **1.5%** transfer tax, raised from 0.5% on Aug 2 2026, burns about **89M LUNC a day**, with an exchange adding a monthly burn on top. The main risks to the reading are a community pool payout passing by vote and a large exit from staking, both of which put coins back on the market. With **5.51 trillion LUNC** circulating, the burn cuts supply by well under one percent a quarter.
 
-MrNasdog Pressure Framework analysis of LUNC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 23 2026.
+---
+
+*MrNasdog Pressure Framework analysis of LUNC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Sep 29 2026.*
