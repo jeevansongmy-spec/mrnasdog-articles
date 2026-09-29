@@ -1,6 +1,6 @@
 ---
 title:         "VET Inflation Analysis · September 2026 · Mixed flows · supply roughly steady"
-description:   "VET supply is roughly steady at 0.00% over 90 days and next. VeChainThor mints no VET, its fee burn destroys VTHO, and the frozen 2019 theft coins did not move."
+description:   "VET supply is steady: 0.00% net over 90 days and 0.00% next. Every VET was made at launch, staking pays and fees burn in VTHO, and 727.58M VET stay frozen."
 canonical_url: "https://mrnasdog.com/research/vet/inflation"
 tags:          ["crypto", "vet", "vechain", "tokenomics"]
 published:     true
@@ -10,46 +10,60 @@ Originally published at [VET Inflation Analysis · September 2026 · Mixed flows
 
 # VET Inflation Analysis · September 2026 · Mixed flows · supply roughly steady
 
-VET supply is flat. The Pressure Framework books **0 VET** of sell pressure and **0 VET** of buy pressure on VeChainThor, a net of **0.00%** over the last 90 days and **0.00%** for the next 90, against a monitor reading of **+0.03%**. VET is a native coin made once, in the 2018 genesis block, and VeChain's large fee burn destroys the separate gas token VTHO, not VET. The ceiling is **86,712.6M VET**, of which **727.6M** has been frozen since a 2019 theft.
+The MrNasdog Pressure Framework reads VET at **0.00% net** over the trailing 90 days and **0.00%** over the next 90: **0 VET** of sell pressure against **0 VET** of buy pressure, on a circulating supply of **85.99B VET**. VeChain made every VET at launch in 2018, pays its stakers and burns its fees in a second token, VTHO, and keeps **727.58M VET** from a 2019 theft frozen outside the market. The monitor reads **−0.01%**, a gap of **0.01 percentage points** — no warning is needed.
 
 ## The verdict, in one paragraph
 
-Against a circulating base of **85,985.0M VET**, the framework finds nothing entering the float and nothing leaving it between **Jun 25 2026** and **Sep 23 2026**: net **0.00%**, and **0.00%** projected to **Dec 22 2026**. The inflation monitor reads **+0.03%** for the same window, a gap of **0.03 percentage points**. That is inside the framework's 0.5-point tolerance, so the overview ships with no monitor-gap warning. The small monitor figure is day-to-day movement in a market-derived supply estimate for a coin whose supply did not change. The label for VET is a **fixed-supply coin with a standing-still float**.
+Over the 90 days from Jul 1 2026 to Sep 29 2026, VeChain created no new VET and destroyed none, so the framework's net for VET is **0.00%**, and the projection for the next 90 days is also **0.00%**. The inflation monitor, which reads supply from market value divided by price each day, shows **−0.01%** over the same stretch. The gap between the two is **0.01 percentage points**, far inside the 0.5-point line, so no monitor-gap warning ships. The small monitor figure is day-to-day rounding in that division, not a real change: the VET supply count itself did not move. VET is a **fixed-supply coin with a second token doing all the flowing**.
 
 ## Sell pressure: where new VET comes from
 
-Nowhere, this window. Sell #1, protocol inflation, is **0**. VeChainThor created all **86,712.6M VET** in its genesis block: four allocations of 21,046.9M VET plus 25M VET for each of 101 original authority nodes. The node software has no other path that adds VET to an account. Every later change to a VET balance is one account paying another. The Hayabusa upgrade of December 2025 moved VeChain to delegated proof of stake, but validators and delegators are paid in VTHO, not VET. The Interstellar upgrade, which went live at block 25,902,540 on **Sep 16 2026**, added Ethereum-style developer features and changed no VET or VTHO supply rule. Because a future hard fork could change the rules, the framework watches this row rather than closing it for good.
+**Protocol inflation is 0.** VeChainThor made its whole supply of **86.71B VET** in the first block in 2018 — 25M VET to each of 101 node endorsers and four large launch allocations. We read the current VeChainThor node software, the Interstellar release of Sep 2026, and every place it writes a VET balance: the launch, an ordinary transfer, and a contract closing and handing its coins to someone else. None of them creates VET. Staking changed in the Hayabusa upgrade of Dec 2 2025, when VeChain moved to delegated proof of stake, but the rewards are paid in VTHO, a separate token whose issuance grows with the square root of the VET staked. VTHO is not counted here, so staking rewards add nothing to VET.
 
-Sell #2, vesting unlocks, is **0**. VET has no team, investor or escrow lock and no unlock calendar. The supply sums prove it: the circulating figure plus the frozen theft coins equals the genesis ceiling, so there is no locked pool anywhere that could open. Sell #3, Foundation and unscheduled unlocks, is **0** as well. The VeChain Foundation does hold VET, but those coins are already counted as circulating, so a Foundation sale would move VET inside the float rather than add to it. There was also no public evidence of a Foundation release in the window.
+**Vesting unlocks are 0.** VET has no vesting schedule. The launch allocations have been free to move since 2018, no unlock tracker lists a future VET release, and the circulating count equals total supply — there is no locked bucket that could open.
 
-Sell #4, long-term locked or bankruptcy, is **0**. VET has no bankruptcy estate. It does have one locked pile: the **727.6M VET** taken in the December 2019 theft of a Foundation wallet, spread across **469** addresses. A community vote in January 2020 turned them into burn addresses, and the network has refused transactions from them ever since. All 469 held exactly the same balance at both ends of the window. Only a hard fork could free them.
+**Foundation and unscheduled unlocks are 0.** The VeChain Foundation holds VET in its treasury, but every coin it holds is already counted as circulating, so a sale would move coins that are already in the market rather than add new ones. No release was planned or seen in the window.
+
+**Long-term locked or bankruptcy is 0.** In Dec 2019 a thief took about 1.16B VET from a Foundation buyback wallet; the network blocked 469 of the thief's accounts and holders voted in Jan 2020 to treat the coins in them as burned. Those accounts held **727,582,189 VET** on Jul 1 2026 and exactly the same on Sep 29 2026 — not one of the 469 changed. They stay frozen unless a future network upgrade frees them. There is no bankruptcy estate and no trustee schedule for VET.
 
 ## Buy pressure: where new VET goes
 
-Nowhere either. Buy #1, programmatic buyback, is **0**. The only VET buyback VeChain ever ran started in 2019 and ended; its wallet holds nothing, and no new programme appeared in the window. Buy #2, protocol fee burn, is **0**, and this is the row most often misread. Since the Galactica upgrade in 2025, VeChainThor burns **100%** of every base fee. But fees are paid in VTHO, so that burn, however large, removes no VET. The framework read both places VET itself could be destroyed: the zero address did not move, and a common dead address took in **1,091 VET** from stray user sends — about one millionth of a percent of the float, too small to show on the ledger.
+**Programmatic buyback is 0.** Nothing buys VET off the market. The Foundation's old 2019 buyback wallet holds 0 VET, and VeChain has announced no new VET buyback.
 
-Buy #3, Foundation buy, is **0**: no purchase was disclosed or seen. Buy #4, new long-term lock, is **0**, even though staking grew. The VeChainThor staking contract rose from **13,662.0M** to **14,826.4M VET** while the StarGate pool fell from **869.5M** to **714.5M VET**, a net **1,009.4M VET** more staked. Staked VET was already part of the circulating base, and stakers can leave, so staking takes nothing off the market in this reading.
+**Protocol fee burn is 0.** VeChain does burn every transaction fee, but the fees are paid in VTHO, so the burn shrinks VTHO and leaves VET untouched. We also checked the two accounts people use to throw coins away: the zero account held **249,020 VET** and the common dead account **2,014 VET**, the same at both ends of the window.
+
+**Foundation buy is 0.** No announcement and no on-chain flow in the window shows the Foundation buying VET for the project.
+
+**New long-term lock is 0.** Staking did grow: the VeChainThor staking contract held **14.39B VET** on Jul 1 2026 and **14.82B VET** on Sep 29 2026, while one staking pool fell from 866.1M to 704.1M VET. But staked VET is still counted as circulating, so more staking removes nothing from the market supply. What staking changes is how much VTHO is paid out, not how much VET exists.
 
 ## Foundation and overhang
 
-The VeChain Foundation holds a VET reserve inside a treasury it last reported at **$167.2M** in all assets, for the second quarter of 2025. That report did not give the VET share and names no wallets, so the size of the VET position is unknown. It is watched through the Foundation's own reports. The old 2019 buyback wallet is empty and is read at every rebuild. One unlabelled wallet grew by **3,255.4M VET** inside the window; its owner is not public, and it sits inside the float like every other ordinary holder. The frozen theft addresses hold **727.6M VET** and are read at every rebuild.
+Three holdings are watched. First, the **VeChain Foundation treasury**: the Foundation does not name its wallets, and its latest financial report, for the quarter to Jun 30 2025, gave only a total of about **$167.2M** across stablecoins, BTC, ETH and VET, without the VET amount. We check it by reading the Foundation's reports every two weeks. Second, the **469 frozen theft accounts** with **727.58M VET** — the only VET outside the circulating count — read straight from the chain. Third, the retired **2019 buyback wallet**, which holds 0 VET. One large unnamed wallet grew from 112.9M to 3.36B VET in the window; we do not know who owns it, and it is inside the circulating count either way.
 
-None of these pools sits outside the float except the frozen addresses, which is why a Foundation sale would not change this number. The trigger still applies: if the frozen addresses ever send, or if the Foundation reports a VET release from anywhere the market does not already count, that outflow enters Sell #3 at the next refresh.
+If the frozen accounts or the Foundation's holdings ever fall between our checks, the coins that leave them enter the Foundation and unscheduled unlocks row at the next refresh. For the frozen pile, only a new network upgrade approved by VeChain's stakeholders could make that happen.
 
-## How VET compares to other fixed-supply chains
+## How VET compares to other fixed-supply Layer 1s
 
-VET belongs to a small group: chains that minted their whole supply at launch and never mint again. That is stricter than a halving chain like Bitcoin, which still creates new coins every block at a falling rate, and much stricter than staking chains that pay validators with a few percent of new coins a year. VeChain pays its validators instead with VTHO, a second token. That split is the key to reading VET: all the inflation and all the burning happen in VTHO, and VET stays still.
+VET belongs to a small group of Layer 1 coins whose whole supply was created at launch. Unlike Ethereum's ETH, which pays validators in new coins with no cap and burns part of each fee in the same coin, VeChain splits the jobs across two tokens: VET is the fixed, staked coin and VTHO is the flowing one that is issued to stakers and burned as fees. That split is why VET's own supply line is flat while its network still pays stakers and burns fees every block.
 
-The same split makes the burn story different from exchange tokens with quarterly buybacks, whose supply can shrink. VeChainThor's fee burn is real and continuous, but it shrinks VTHO. For VET to shrink, the chain would need a VET buyback or VET burn, and neither exists. So VET cannot go deflationary on its own; its best case is exactly what it shows now, a flat float.
+The closest match is NEO, which also pairs a fixed coin with a second gas token, and the contrast is XRP: XRP was also made in full at launch, but its fees are burned in XRP itself, so XRP's supply slowly shrinks, while VET's cannot. Compared with coins still releasing locked allocations to teams and investors, VET has none left — the only VET outside the market is the frozen 2019 pile, and it has not moved.
 
-Compared with newer tokens still working through team and investor unlocks, VET also has no calendar to watch. Its distribution finished in 2018, and the only coins outside the float are the frozen theft coins.
+The trade-off is that nothing on the VET side works like a buyer. With no burn and no buyback in VET, all of the pressure on VET comes from people choosing to buy, sell or stake it, not from the protocol adding or removing coins.
 
 ## What to watch in the next 90 days
 
-First, governance and hard forks: any new VeChain improvement proposal that touches VET issuance, the staking rules or the 2019 blocklist would move this reading, and Interstellar on **Sep 16 2026** shows the network still upgrades regularly. Second, the **727.6M VET** frozen across 469 addresses — any send from them would be new sell pressure. Third, the next VeChain Foundation financial report, which could disclose a VET sale or its VET holding. Fourth, any new VET buyback or VET burn announcement, the only thing that could make VET shrink. The forward window runs to **Dec 22 2026**, and no dated supply event falls inside it.
+**Any new VeChain upgrade proposal.** The Interstellar upgrade went live on Sep 16 2026 and changed only the smart-contract engine; a future proposal that touched VET issuance or the frozen accounts would change this reading, and would have to pass a stakeholder vote first.
+
+**The next Foundation financial report.** A new report could show how much VET the Foundation holds and whether it sold or bought any.
+
+**The 469 frozen accounts.** Their balance of 727.58M VET should stay flat; any change would show up at our next check.
+
+**The staking total.** More VET staked means more VTHO paid out, but it does not change the VET count; a VET-denominated reward would.
 
 ## Summary
 
-The MrNasdog Pressure Framework reads VET at **0.00%** over the trailing 90 days and **0.00%** projected forward: mixed flows, supply roughly steady. VeChainThor minted every VET at genesis, pays its validators in VTHO, and burns fees in VTHO, so neither side of the VET ledger moves. The main risk is a rule change by hard fork, not a scheduled release; the one locked pile, **727.6M VET** from the 2019 theft, stayed frozen. The ceiling is **86,712.6M VET**, and nothing in today's node software can raise it.
+The MrNasdog Pressure Framework reads VeChain's VET at **0.00%** net over the last 90 days and **0.00%** over the next 90, against a monitor reading of **−0.01%**. Every one of the **85.99B circulating VET** was made at launch in 2018; staking rewards and the fee burn both run in VTHO, so no VET is created or destroyed. The main risk to this reading is a future network upgrade that changes VET itself or frees the **727.58M VET** frozen since 2019. Until then, the VET supply is fixed at its launch total minus the frozen pile.
 
-MrNasdog Pressure Framework analysis of VET, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 23 2026.
+---
+
+*MrNasdog Pressure Framework analysis of VET, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Sep 29 2026.*
