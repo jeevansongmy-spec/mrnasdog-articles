@@ -1,6 +1,6 @@
 ---
 title:         "SUN Inflation Analysis · September 2026 · Mixed flows · supply roughly steady"
-description:   "SUN supply is roughly steady: nothing can mint it, and a SUN.io buyback burned 9.03M SUN in 90 days for a net of -0.05%. Full Pressure Framework analysis."
+description:   "SUN supply is roughly steady: no SUN can be minted, and a fee-funded buyback burned 9.03M SUN in 90 days, −0.05% net, with about 5.00M more due next quarter."
 canonical_url: "https://mrnasdog.com/research/sun/inflation"
 tags:                    ["crypto", "sun", "sunswap", "defi"]
 published:     true
@@ -10,48 +10,56 @@ Originally published at [SUN Inflation Analysis · September 2026 · Mixed flows
 
 # SUN Inflation Analysis · September 2026 · Mixed flows · supply roughly steady
 
-SUN supply is roughly steady and edging down. The SUN token on TRON has no function that can mint a new coin, so sell pressure is **0**, while the SUN.io buyback-and-burn programme destroyed **9.03M SUN** in the last 90 days. That gives a net of **−0.05%** over the trailing 90 days and **−0.02%** projected for the next 90, against a monitor reading of **−0.12%**. The hard ceiling is the **19,900.7M SUN** minted once in 2021, which no one can raise.
+**SUN supply is roughly steady, shrinking slightly.** No new SUN can ever be created — all **19.9B SUN** were made once, in 2021 — so the only thing that moves the SUN supply is the buyback-and-burn paid from SUN.io's fees. That burn removed **9.03M SUN** in the last 90 days, a net change of **−0.05%**, and about **5.00M SUN** (**−0.03%**) is expected in the next 90 days. The monitor reads **−0.11%**.
 
 ## The verdict, in one paragraph
 
-Against a circulating base of **19,222.2M SUN**, the Pressure Framework books **0** of sell pressure and **9.03M SUN** of buy pressure over the trailing 90 days, a net of **−0.05%**, and projects **−0.02%** for the next 90 days from one dated buyback round. The inflation monitor reads **−0.12%** for the same window, a gap of **0.08 percentage points**. That is inside the framework's 0.5-point tolerance, so the overview ships with no warning. Both readings agree on the direction: SUN supply is not growing, and the only thing moving it is the buyback burn. The label for SUN is **a fixed-supply DeFi token with a slow, revenue-funded burn**.
+Over the 90 days to Sep 29 2026, SUN's circulating supply of **19.22B SUN** shrank by **−0.05%**: nothing was added, and one quarterly buyback burn removed **9,025,027 SUN** on Jul 25 2026. For the next 90 days we expect one more burn of about **5.00M SUN**, or **−0.03%**. The monitor, which reads supply from market value and price, shows **−0.11%** for the same window. The gap is **0.07 percentage points**, well inside our 0.5-point tolerance, so no warning is raised. In one line: SUN is a **fixed-supply token with a small, steady fee-funded burn**.
 
 ## Sell pressure: where new SUN comes from
 
-Nowhere. Protocol inflation is **0**, and here that zero is permanent rather than a current setting. The SUN contract on TRON exposes eleven functions: the standard token transfers, approvals and read-outs, and nothing else. There is no mint function, no burn function, no owner and no upgrade path, and the deployed code contains no instruction that could write the total supply after the contract was created. The **19,900.7M SUN** in existence were made once, when SUN was redenominated at 1:1000 in May 2021, and the total supply has read that same figure ever since.
+Protocol inflation is **0 SUN**, and it is permanent. The SUN token contract on TRON has only the standard transfer and allowance functions: no mint function, no owner and no upgrade path. The total supply reads exactly **19,900,730,000 SUN**, the number set when SUN was redenominated at 1 new SUN for 1,000 old in May 2021, and no function in the contract can raise it.
 
-Vesting unlocks are **0** as well. SUN.io describes a distribution with no team allocation, no private sale and no pre-mine, plus a large Sun DAO governance allocation that vested in a straight line over four years. What decides this row is where the coins sit. The circulating figure used for SUN counts every wallet except the TRON burn address, and it matches total supply minus the burn address to within 3 SUN. So a coin leaving any reserve wallet is moving from one counted pocket to another. It adds nothing to the float, however large the transfer.
+Vesting unlocks are **0 SUN**. SUN.io never sold SUN to private investors and kept no team share. The largest allocation, the SUN DAO's **47.16%**, was set to release over four years, but the circulating figure already counts every SUN except the burned ones — so any release from it moves coins that are already in the float.
 
-Foundation and unscheduled unlocks are **0** for the same reason, and long-term locked or bankruptcy releases are **0** because SUN has no bankruptcy estate, trustee or court-ordered distribution.
+Foundation and unscheduled unlocks are **0 SUN** for the same reason: the large reserve wallets are inside the circulating count, and none of them released coins to new owners outside it. Long-term locks and bankruptcy releases are **0 SUN**: there is no estate, no trustee and no unwinding lock holding SUN.
 
 ## Buy pressure: where new SUN goes
 
-Into the TRON burn address, in rounds. Programmatic buyback is **9.03M SUN**. SUN.io takes revenue from three products, the SunSwap V2 exchange, the SunPump meme-coin launchpad and the SunX perpetuals exchange, and uses it to buy SUN on the open market. The bought SUN collects in an executor contract and is then sent to the burn address, where no one holds the key. Round 51 closed on **Jul 25 2026** with a single transfer of **9,025,027 SUN**, and it was the only transfer into the burn address in the whole 90-day window. SUN.io's published running total moved from **669.5M** to **678.5M SUN** burned on the same day, which matches the on-chain transfer to four decimals.
+The programmatic buyback is the only live row: **9.03M SUN** burned in the last 90 days. The SUN buyback-and-burn is funded by four streams: 0.05% of every trade on SunSwap V2, one sixth of the fees from the TRX/USDT pool on SunSwap V3 (since May 2 2026), all protocol revenue from the SunPump meme launcher, and half of the net revenue from the SunX futures exchange. The fees buy SUN on the market into a pending-burn wallet, and the coins are sent to TRON's dead address every three months.
 
-Protocol fee burn is **0**, and this is on purpose. The SunSwap V2 fee share is not burned on its own. It is turned into SUN and joins the same buyback round, so counting it here as well would book one burn twice. A burn on TRON can show up in two places: a rising burn-address balance, or a falling total supply. Both were checked. The burn address rose by exactly the round 51 transfer. The total supply cannot fall at all, because the SUN contract has no function that lowers it. That leaves one flow, booked once.
+Round 51 of the burn, on Jul 25 2026, destroyed **9,025,027 SUN**: about **7.44M** from SunSwap V2 fees and **1.58M** from SunX, with nothing from SunPump this round. Since then the pending-burn wallet has bought another **2.93M SUN**. The buying inside the last 90 days cost about **$85,000**; at today's price of about $0.0171 the same spend buys about **5.00M SUN**, which is our figure for round 52, expected around Oct 25 2026. Since the first burn in December 2021, **678.5M SUN** — about 3.4% of all SUN ever made — has been destroyed.
 
-Foundation buy is **0**: no foundation or treasury bought SUN outside the buyback rounds. New long-term lock is **0**. The SUN.io vote-lock vault holds **486.7M SUN**, but locked SUN still counts as circulating, so locking removes nothing from this reading.
+The protocol fee burn is **0 SUN** as a separate row: the fee share already flows through the buyback, and the SUN contract has no burn function, so burned coins sit in the dead address while the total supply stays at 19.9B. A foundation buy is **0 SUN**: no treasury bought SUN outside the buyback. A new long-term lock is **0 SUN**: about **486.5M SUN** is locked for voting power (veSUN, up to four years), but locked SUN still counts as circulating.
 
 ## Foundation and overhang
 
-The overhang on SUN is large in size but already inside the float. The biggest item is concentration: eight large unlabelled wallets hold **14,921.2M SUN** between them, about three quarters of all circulating SUN. Seven of the eight did not move a single SUN in this window; the eighth sent out **6.1M SUN**. None carries a public label. They are listed here because a sale from them would move the market without moving this page's number, since the float already counts them.
+SUN's supply is very concentrated. Eight large unlabelled wallets hold about **14.92B SUN**, three quarters of all SUN, most likely the SUN DAO reserve. Seven of them did not move a single SUN in the last 90 days; one sent out **1.2M SUN**. The veSUN vote-lock vault holds about **486.5M SUN**, released lock by lock as each one expires. The pending-burn wallet holds **2.93M SUN** waiting for the next burn; its owner can, in principle, withdraw coins before a burn, so we check that it empties into the dead address. We read all of these balances on-chain at every rebuild.
 
-The second item is the SUN.io vote-lock vault at **486.7M SUN**. Locks expire one by one on their own dates. The third is the buyback executor itself, holding **2.93M SUN** already bought and waiting for round 52. Its owner can withdraw from it before a burn, so that balance is watched rather than counted as burned in advance. All three are read from the chain at every rebuild. If any of these balances falls between refreshes by more than a burn accounts for, the outflow enters the foundation row at the next refresh.
+Because every one of these wallets is already counted as circulating, a sale from them would not add new supply to our ledger — but it would add selling to the market, which is why we list them. If any of these balances falls between our checks, the outflow enters Sell #3 at the next refresh.
 
-## How SUN compares to other fixed-supply buyback tokens
+## How SUN compares to other DEX and DeFi tokens
 
-SUN sits in a small class: tokens whose supply was fixed at launch and can only shrink. That is a stronger promise than a halving schedule. A halving chain like Bitcoin still mints on every block, just at a falling rate, so its reading stays positive. SUN mints nothing, so its sell side is a flat, permanent zero. It is also stronger than most DeFi governance tokens, which usually keep an emission stream for liquidity mining or a team vest that unlocks over years.
+Most DEX tokens still pay liquidity providers in newly minted coins, so their burns first have to cancel out that new supply before the total can fall. SUN is different: its liquidity rewards come from coins that already exist, and the contract cannot mint. That makes SUN a pure fixed-cap token, like a coin with a finished emission schedule, with a burn on top.
 
-The better comparison is with exchange tokens that burn from revenue, and there the difference is size. Those programmes can take 1% or more of supply off the market every quarter. SUN.io's buyback took **0.05%** in this window. The mechanism is the same shape, revenue in and coins burned, but at current revenue it moves SUN supply only slowly. Over more than four years it has burned about **678.5M SUN**, around 3.4% of everything ever made.
+The trade-off is size. SUN's burn is paid from a slice of fees, not from all of them, and SUN.io's fee income is smaller than a year ago. A burn of about **0.05%** of supply per quarter is steady but slow — much smaller, relative to supply, than tokens that send all their protocol revenue to buybacks. SUN also moved from a monthly burn to a quarterly one in 2026, which makes the supply fall in steps rather than in a smooth line.
 
-The last difference is concentration. Many fixed-supply tokens spread their float widely. On SUN, a handful of wallets hold most of it, and they sit inside the float. That does not change the inflation reading, but it is the main supply risk a holder carries.
+Compared with governance tokens that still carry team and investor vesting, SUN has no unlock calendar at all. Its risk sits elsewhere: a very large share of the float sits in a few quiet wallets, and a move from them would be felt in the market even though it would not change the supply count.
 
 ## What to watch in the next 90 days
 
-First, buyback round 52, expected around **Oct 25 2026** if the three-month rhythm of the last two rounds holds. The executor already holds **2.93M SUN** for it, and more purchases before that date would make the burn larger. Second, the rhythm itself: the round before last took five months, and a similar delay would push round 52 past **Dec 22 2026**, which would leave the next 90 days at zero. Third, the eight large wallets holding **14,921.2M SUN**, where any large transfer to an exchange would matter to price even though it does not change this reading. Fourth, any SUN DAO vote that changes how revenue is split between buybacks and other uses, since that sets the size of every future burn.
+Round 52 of the SUN buyback-and-burn, expected around **Oct 25 2026** — we expect about **5.00M SUN**; a smaller burn, or a later date, would flatten the reading to near zero.
+
+The pending-burn wallet, now at **2.93M SUN** — it should keep growing each month until the burn and then empty into the dead address.
+
+The eight large reserve wallets holding about **14.92B SUN** — any outflow from them is the biggest market risk, even though it adds no new supply.
+
+SunX and SunPump revenue — SunPump sent nothing to the last three burns, so the burn now leans on swap fees and the futures exchange.
 
 ## Summary
 
-The MrNasdog Pressure Framework reads SUN at **−0.05%** over the trailing 90 days and **−0.02%** projected forward: mixed flows, supply roughly steady. SUN cannot be minted, and its only supply mechanism is a SUN.io buyback that burned **9.03M SUN** on Jul 25 2026 out of a fixed **19,900.7M SUN**. The key risk is not new supply but concentration, with about three quarters of the float in eight unlabelled wallets. The ceiling is the strongest part: no function in the SUN contract can ever create another coin.
+SUN is a fixed-supply TRON DeFi token: **19.9B SUN** were created once, the contract cannot mint more, and the circulating supply of **19.22B SUN** only shrinks, through a quarterly buyback-and-burn paid from SUN.io's fees. That burn removed **9.03M SUN** in the last 90 days (**−0.05%**) and is expected to remove about **5.00M SUN** (**−0.03%**) next, so supply is roughly steady. The key risk is not new supply but concentration: about 14.92B SUN sits in eight quiet wallets already counted as circulating.
 
-MrNasdog Pressure Framework analysis of SUN, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 23 2026.
+---
+
+*MrNasdog Pressure Framework analysis of SUN, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Sep 29 2026.*
