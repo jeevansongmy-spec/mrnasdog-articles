@@ -8,7 +8,7 @@ published: false
 
 > Originally published at **[mrnasdog.com/analysis/member-home](https://mrnasdog.com/analysis/member-home)** by MrNasdog.
 
-Watch it in under a minute: [the Member Home video on mrnasdog.com](https://mrnasdog.com/analysis/member-home)
+Watch it in under a minute: the video plays at the top of [the Member Home article on mrnasdog.com](https://mrnasdog.com/analysis/member-home).
 
 ## What's new for members?
 
