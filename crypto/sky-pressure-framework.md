@@ -1,55 +1,61 @@
 ---
-title:         "SKY Inflation Analysis · September 2026 · Supply was growing · trend cooling"
-description:   "SKY supply was growing, trend cooling: +0.53% in 90 days as the Sky treasury paid stakers 204.2M SKY and bought back 80.5M. Next 90 days read −0.03%."
+title:         "SKY Inflation Analysis · September 2026 · Mixed flows · supply roughly steady"
+description:   "SKY supply is roughly steady: the Sky treasury paid stakers 196.66M SKY while buybacks took back 84.91M, +0.48% net in 90 days, +0.07% next. No SKY is minted."
 canonical_url: "https://mrnasdog.com/research/sky/inflation"
 tags:                    ["crypto", "sky", "makerdao", "defi"]
 published:     true
 ---
 
-Originally published at [SKY Inflation Analysis · September 2026 · Supply was growing · trend cooling](https://mrnasdog.com/research/sky/inflation).
+Originally published at [SKY Inflation Analysis · September 2026 · Mixed flows · supply roughly steady](https://mrnasdog.com/research/sky/inflation).
 
-# SKY Inflation Analysis · September 2026 · Supply was growing · trend cooling
+# SKY Inflation Analysis · September 2026 · Mixed flows · supply roughly steady
 
-SKY supply was growing and the trend is cooling. Sky mints no new SKY, yet the Pressure Framework reads SKY at **+0.53%** over the last 90 days, because the Sky treasury paid stakers **204.2M SKY** while the Smart Burn Engine bought back only **80.5M SKY**. After the Sep 13 2026 governance change, the buyback outpaces the staking payouts, so the next 90 days read **−0.03%**. The total SKY supply is capped by governance rather than code, and it fell for the first time in over a year on Sep 13 2026.
+The MrNasdog Pressure Framework reads SKY, the staking and governance token of Sky (formerly MakerDAO), at **+0.48% net** over the last 90 days and **+0.07%** for the next 90 — mixed flows, supply roughly steady. No new SKY is minted: the Sky treasury paid stakers **196.66M SKY** while the Smart Burn Engine bought **84.91M SKY** back into that same treasury, and since the Sep 13 2026 executive vote the two flows almost cancel. The inflation monitor reads **+0.53%**, a gap of **0.06 percentage points**, so no warning chip is needed.
 
 ## The verdict, in one paragraph
 
-Against a circulating base of **23,425.0M SKY**, the framework books **204.2M SKY** of sell pressure and **80.5M SKY** of buy pressure over the trailing 90 days, a net of **+0.53%**, and projects **−0.03%** for the next 90 days. The inflation monitor reads **+0.60%** for the same window, a gap of **0.07 percentage points**, well inside the framework's 0.5-point tolerance, so the overview ships with no warning. The two agree because the counted SKY float is total supply minus one wallet, the Sky treasury. The label for SKY is **a buyback-funded staking token whose float growth has just stalled**.
+Over the 90 days from Jul 1 to Sep 29 2026, the SKY float grew by a net **111.75M SKY**, or **+0.48%** of the **23.43B SKY** counted as circulating. The inflation monitor, which reads the same classified float, shows **+0.53%** over its own 90 days; the gap of **0.06pp** is well inside the half-point tolerance, so the page carries no ⚠ chip. For the next 90 days the reading falls to **+0.07%**: the treasury is set to pay stakers **143.21M SKY**, and buybacks at the current pace would pull about **126.38M SKY** back at today's price. SKY is a **treasury-recycling token**: its supply moves only when the treasury pays out faster than the buyback refills it.
 
 ## Sell pressure: where new SKY comes from
 
-It does not come from minting. The SKY token contract created no new SKY in the window; total supply went from **23,462.7M SKY** to **23,459.8M SKY**, down, not up, and the two contributor vesting streams that are allowed to mint SKY both ended before the window opened. The mint function is still live and held by Sky governance, so the ceiling is a policy, not a fixed number in the code.
+Protocol inflation — the staking reward — is the one row that carries weight, at **196.66M SKY** over 90 days. Sky does not mint SKY for stakers. It pays them from the protocol treasury, a wallet the circulating count leaves out, through a vesting stream that feeds the SKY staking rewards once a week. Because the treasury sits outside the count, every SKY it pays out is new to the market even though total supply does not rise. The stream is reset at each monthly executive vote from the previous month's revenue; the Sep 13 2026 reset set it to **143.21M SKY per 90 days**, about **1.59M SKY a day**, and that rate carries the forward column.
 
-Sell #1, protocol inflation, is **204.2M SKY**: the SKY staking reward. Stakers in the Sky staking engine earn SKY paid out of the Sky treasury, the only balance kept out of the circulating count, so each payout lands in the float for the first time. The treasury sent 18 transfers to the reward pool over the window, on a stream governance resets every month. The latest reset, executed on **Sep 13 2026**, set it at **143.2M SKY** per 90 days, below July's pace of **286.7M SKY** per 90 days but above August's **96.9M SKY**, and that is the forward figure.
+Vesting unlocks are **0**. The contributor vesting streams from the Maker years have all run out, the one SKY stream that could mint new tokens finished in June 2025, and no mint happened anywhere in the window. The foundation and unscheduled unlocks row is also **0**: the treasury is the only balance outside the count, and its scheduled payout is already the staking reward. The long-term locked or bankruptcy row is **0** — there is no estate, and the **10.32B SKY** in the staking engine can leave with no exit fee but was always counted as circulating.
 
-Sell #2, vesting unlocks, is **0**: there is no team or investor vesting left on SKY. Sell #3, Foundation and unscheduled unlocks, is **0**, because the only pot outside the float is the treasury, and every coin it released is already counted in Sell #1. Sell #4, long-term locked or bankruptcy, is **0**: SKY has no bankruptcy estate. The MKR to SKY upgrade sits as Sell #5 at **0**. Old MKR holders swapped **5,454 MKR** for **125.5M SKY** in the window, at 24,000 SKY per MKR minus a late-upgrade penalty that rose from 4% to 5% on Sep 13 2026. That SKY already sits in the upgrade pool and is already counted as circulating, so an upgrade adds nothing.
+A fifth row covers the MKR to SKY upgrade, at **0**. Each old MKR still becomes **24,000 SKY**, minus a late-upgrade penalty that rose from 4% to **5%** on Sep 13 2026. In the window **5,728 MKR** was upgraded and **131.78M SKY** paid out, but that SKY was created in advance and already sits inside the circulating count, so the upgrade adds nothing new to the market. About **84,456 MKR** has not upgraded yet.
 
 ## Buy pressure: where new SKY goes
 
-Buy #1, programmatic buyback, is **80.5M SKY**. The Sky Smart Burn Engine takes a share of USDS protocol revenue and buys SKY in small clips from the main SKY/USDS pool, **1,226** purchases this window. Every clip lands in the Sky treasury, outside the counted float. The pace rose twice. On Aug 17 2026 governance cut the gap between purchases from about 3.8 hours to about one hour, and on Sep 13 2026 cut it again to about 42 minutes. The new pace spends about **10.2M USDS** per 90 days and has bought SKY at a rate of **150.1M SKY** per 90 days since the change, the forward figure.
+The programmatic buyback is the only buy row with a value: **84.91M SKY** bought with **5.40M USDS** of protocol income over 90 days, in 1,394 small purchases on the open market. The Smart Burn Engine sends every coin it buys to the treasury, outside the circulating count, so each purchase takes SKY off the market. Its pace was raised twice in the window, on Aug 17 and Sep 13 2026; since the second change it spends about **108,650 USDS a day**, which buys about **126.38M SKY** over the next 90 days at today's price of **$0.0774**. A higher SKY price means fewer coins bought for the same dollars.
 
-Buy #2, protocol fee burn, is **0**, and this row needs care, because a burn did happen. On **Sep 13 2026** Sky destroyed **2.86M SKY**, the first fall in SKY total supply in over a year. Under Sky's new treasury rules, 45 parts of each 55 bought go to stakers and 10 parts are burned. But the burned SKY came from the treasury, from coins the buyback had already taken off the market. Counting it again would count the same SKY twice.
-
-Buy #3, Foundation buy, is **0**: no Foundation or team wallet bought SKY. Buy #4, new long-term lock, is **0**. Staked SKY rose from **10,035.4M** to **10,320.1M SKY**, but staked SKY can be withdrawn and is already counted as circulating, so staking removes nothing from the float.
+The protocol fee burn books **0**, although a real burn happened. On Sep 13 2026 the treasury burned **2.86M SKY**, the first cut to SKY's total supply in more than a year, and burns now follow each monthly vote at **10/55** of the month's buyback. Those coins were already bought back and counted when they left the market, so burning them removes nothing more from the float. Foundation buy is **0** — all buying runs through the engine. New long-term lock is **0**: staking grew by **232.31M SKY** this window, but staked SKY stays inside the circulating count and can leave without a wait.
 
 ## Foundation and overhang
 
-The main overhang is the Sky treasury itself, which held **34.9M SKY** at the end of the window, down from **161.4M SKY** at the start. The buyback fills it and the staking rewards drain it, and it is read on chain at every rebuild. The second item is the pool of collected MKR upgrade penalties, **37.5M SKY** sitting in the upgrade contract. It is already counted as circulating and has not been spent or burned; burning it would be a real removal. If the treasury balance or the penalty pool falls between refreshes by more than the published streams explain, that outflow enters Sell #3 at the next refresh.
+The Sky treasury is the one tracked overhang that matters. It held **147.49M SKY** on Jul 1 2026 and holds **32.88M SKY** now — the payouts ran ahead of the buybacks for most of the window. It is both the buyback's destination and the source of every staking reward, and at the current reward rate its balance alone covers about three weeks of payouts; the rest must come from new buybacks. The upgrade contract holds **37.83M SKY** of collected upgrade penalties plus about **2.03B SKY** reserved for MKR that has not upgraded; both are inside the circulating count, and moving the penalties to the treasury or burning them would count as a buy. The two staking reward pots hold **117.27M SKY** and **19.57M SKY** waiting to be claimed, also inside the count. We read each balance from the chain at every rebuild. If the treasury's balance falls between rebuilds by more than its scheduled reward payout, that extra outflow enters the foundation row at the next rebuild.
 
-## How SKY compares to other buyback tokens
+## How SKY compares to other DeFi governance tokens
 
-SKY sits with the revenue-funded buyback tokens, next to exchange tokens and perp-DEX tokens that route fees into open-market purchases. Those usually burn or lock what they buy, so their readings can go clearly negative. Sky buys SKY into its treasury and pays most of it back out as staking rewards, so the effect on the float is only the gap between the two. That is why SKY reads near zero even though its buyback runs every 42 minutes.
+Most proof-of-stake tokens pay stakers by minting new coins, so their supply rises every block. Ethereum, for example, created about 261K ETH for validators over a recent 90 days against a fee burn near 3K ETH. SKY pays stakers the same way on the surface — a steady reward stream — but funds it from a treasury the buyback keeps refilling, so its total supply does not rise at all and the float grows only when payouts outrun purchases.
 
-A proof-of-stake chain pays stakers with newly minted coins at a set rate, sell pressure whatever happens to revenue. SKY pays stakers with coins bought from revenue and sized each month, so the reward shrinks when revenue falls.
+Against governance tokens with a pure buyback-and-burn, SKY keeps less of what it buys off the market. In the old Maker design, surplus bought MKR and destroyed it. Today only **10/55** of the SKY bought stays out of the market for good; the other **45/55** goes back to stakers. That makes the buyback mostly a way to pay stakers in SKY instead of a supply cut, which is why the net reading sits near zero instead of falling.
 
-The weak point of the loop is timing. The monthly reward is sized in SKY using the prior month's average price, while the buyback spends a set amount of USDS at today's price. When SKY rises, the buyback gets fewer SKY and the payout stays the same, so the loop leaks into the float. At about **$0.0716** per SKY the two would match exactly.
+Against tokens that share revenue only in stablecoins, SKY does both: **45%** of the capital that reaches the Smart Burn Engine step goes to stakers as USDS, and **55%** buys SKY. The USDS half never touches SKY's supply, which leaves the SKY half as the only lever on the float.
 
 ## What to watch in the next 90 days
 
-First, the monthly Sky settlement vote, which resets both the staking-reward stream and the buyback pace from the prior month's revenue; the October vote will replace the **143.2M SKY** stream. Second, **Dec 12 2026**, when the current reward stream runs out if no vote renews it first; **132.1M SKY** of it is still to be paid. Third, the next treasury burn after the Sep 13 2026 burn of **2.86M SKY**. Fourth, the MKR to SKY upgrade penalty, due to rise from 5% to 6% around **Dec 2026**, with **84,771 MKR** still not upgraded. Fifth, the SKY price, since a price above **$0.0716** tips the forward reading back to positive.
+The Oct 8 2026 executive vote resets the staking reward stream and the buyback pace from September's revenue; a larger reward than buyback tips the forward reading back up.
+
+The same vote burns the September share of the buyback — about **6.95M SKY** on purchases so far — which cuts total supply but books 0 here, because those coins are already outside the count.
+
+The treasury balance of **32.88M SKY** is thin against a payout of about **1.59M SKY a day**; if buybacks slowed, the payouts would run it down within weeks.
+
+An Atlas change merged on Sep 17 2026 lets the split between SKY and USDS staking rewards move to keep the two rates equal; a shift toward SKY rewards would raise the sell side.
+
+The late-upgrade penalty on MKR steps up by one point every three months, next to about 6% around December 2026, and the current reward award ends on Dec 12 2026 unless renewed.
 
 ## Summary
 
-The MrNasdog Pressure Framework reads SKY at **+0.53%** over the trailing 90 days and **−0.03%** projected forward: supply was growing, and the trend is cooling. Sky mints no new SKY; the float grew because the Sky treasury paid **204.2M SKY** in staking rewards while its buyback brought in only **80.5M SKY**. Since the Sep 13 2026 change the buyback slightly outpaces the payouts, but the balance depends on monthly votes and on the SKY price. The ceiling is governance, not code: the mint function is live, and the treasury that funds the rewards now holds only **34.9M SKY**.
+The MrNasdog Pressure Framework reads SKY at **+0.48% net** over the trailing 90 days and **+0.07%** over the next 90: the Sky treasury paid stakers **196.66M SKY** and the Smart Burn Engine bought back **84.91M SKY**, with no new SKY minted and no vesting left. The structural mechanism is a recycling loop — protocol income buys SKY into a treasury outside the float, and the treasury pays most of it back out to stakers, burning only a tenth-share each month. The key risk is balance: a larger reward stream, a higher SKY price that buys fewer coins, or a drop in protocol income would push the float up again. SKY has no coded supply cap — governance can still mint — but nothing has been minted since June 2025, total supply stands at **23.46B SKY**, and each monthly burn lowers it a little more.
 
-MrNasdog Pressure Framework analysis of SKY, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 23 2026.
+*MrNasdog Pressure Framework analysis of SKY, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Sep 29 2026.*
