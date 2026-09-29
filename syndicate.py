@@ -299,6 +299,17 @@ def main(argv):
     rc = 0
     for path in files:
         art = parse_article(path)
+        # ONE canonical URL = ONE mirror file (his rule, Sep 29 2026): a second file for the same page would publish a
+        # duplicate everywhere. Update the existing file instead (same file = update in place on every channel).
+        twins = [os.path.relpath(p, REPO_DIR) for d in ("crypto", "growth") if os.path.isdir(os.path.join(REPO_DIR, d))
+                 for p in (os.path.join(REPO_DIR, d, n) for n in os.listdir(os.path.join(REPO_DIR, d)) if n.endswith(".md"))
+                 if os.path.abspath(p) != os.path.abspath(art["path"])
+                 and parse_article(p)["canonical_url"].rstrip("/") == art["canonical_url"].rstrip("/")]
+        if twins:
+            print(f"\n❌ REFUSED {os.path.relpath(art['path'], REPO_DIR)}: {art['canonical_url']} is already mirrored by "
+                  f"{', '.join(twins)} — edit that file instead (no duplicates).")
+            rc = 1
+            continue
         st = all_state.setdefault(art["slug"], {"site": art["site"]})
         if ref:
             st["internal_ref"] = ref

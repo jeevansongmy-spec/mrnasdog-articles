@@ -1,0 +1,27 @@
+# GitHub Pages site for this repo (Sep 29 2026): the crypto mirrors as readable web pages.
+# Every page's <link rel="canonical"> comes from its front-matter canonical_url (jekyll-seo-tag), so search engines and
+# AI crawlers credit the original on mrnasdog.com. Only crypto/ is published; growth/ and tooling are excluded.
+title: MrNasdog Research
+description: Mirror of MrNasdog crypto research — coin supply, demand and inflation analyses. Every page links to its original on mrnasdog.com.
+url: https://jeevansongmy-spec.github.io
+baseurl: /mrnasdog-articles
+author: MrNasdog
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+defaults:
+  - scope:
+      path: "crypto"
+    values:
+      layout: article
+exclude:
+  - growth
+  - drafts
+  - reports
+  - README.md
+  - syndicate.py
+  - check_distribution.py
+  - distribution-policy.json
+  - pump-article-draft.html
+  - mstr-mnav-history.svg
+  - __pycache__
