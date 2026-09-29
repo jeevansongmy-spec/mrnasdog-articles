@@ -1,12 +1,12 @@
 ---
 title:         "GRAM Inflation Analysis · September 2026 · Supply growing · projected to keep growing"
 description:   "GRAM supply keeps growing: a per-block reward paid every 0.41 seconds adds 50.89M a quarter, plus lock and Telegram payouts. +3.97% net in 90 days, +3.65% next."
-canonical_url: "https://mrnasdog.com/research/ton/inflation"
+canonical_url: "https://mrnasdog.com/research/gram/inflation"
 tags:          ["crypto", "gram", "toncoin", "layer1"]
 published:     true
 ---
 
-*Originally published at [https://mrnasdog.com/research/ton/inflation](https://mrnasdog.com/research/ton/inflation)*
+*Originally published at [https://mrnasdog.com/research/gram/inflation](https://mrnasdog.com/research/gram/inflation)*
 
 # GRAM Inflation Analysis · September 2026 · Supply growing · projected to keep growing
 
