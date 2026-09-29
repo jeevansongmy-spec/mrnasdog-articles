@@ -393,22 +393,22 @@
     "internal_ref": "mrnasdog.com_5",
     "receipts": {
       "devto": {
-        "at": "2026-09-24T03:49:29Z",
+        "at": "2026-09-29T00:42:21Z",
         "note": "updated \u2192 https://dev.to/mrnasdog/bnb-binance-coin-supply-down-by-design-gb8 (published=True)",
         "ok": true,
-        "sha256": "975915255c057724"
+        "sha256": "2308e89282b40e08"
       },
       "github": {
-        "at": "2026-09-24T03:49:28Z",
-        "note": "already current \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/bnb-pressure-framework.md",
+        "at": "2026-09-29T00:42:20Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/bnb-pressure-framework.md",
         "ok": true,
-        "sha256": "975915255c057724"
+        "sha256": "2308e89282b40e08"
       },
       "telegram": {
-        "at": "2026-09-24T03:49:30Z",
-        "note": "already current \u2192 @mrnasdog (msg 17)",
+        "at": "2026-09-29T00:42:22Z",
+        "note": "edited in place \u2192 @mrnasdog (msg 17)",
         "ok": true,
-        "sha256": "975915255c057724"
+        "sha256": "2308e89282b40e08"
       }
     },
     "site": "crypto",
@@ -459,6 +459,26 @@
     "devto_id": 4157187,
     "devto_url": "https://dev.to/mrnasdog/btc-inflation-analysis-july-2026-mixed-flows-supply-roughly-steady-1e7p",
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/btc-pressure-framework.md",
+    "receipts": {
+      "devto": {
+        "at": "2026-09-29T02:12:42Z",
+        "note": "HTTP 401: {'error': 'unauthorized', 'status': 401}",
+        "ok": false,
+        "sha256": "f092c315286da047"
+      },
+      "github": {
+        "at": "2026-09-29T02:12:41Z",
+        "note": "already current \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/btc-pressure-framework.md",
+        "ok": true,
+        "sha256": "f092c315286da047"
+      },
+      "telegram": {
+        "at": "2026-09-29T02:12:42Z",
+        "note": "already current \u2192 @mrnasdog (msg 170)",
+        "ok": true,
+        "sha256": "f092c315286da047"
+      }
+    },
     "site": "crypto",
     "telegram_message_id": 170
   },

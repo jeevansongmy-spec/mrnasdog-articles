@@ -232,7 +232,9 @@ def assess(rows, articles, state, ev, policy):
         d = ev["devto"].get(str(st.get("devto_id")), {})
         data = d.get("data") or {}
         devto_off = row["path"] in policy.get("devto_unpublished_on_purpose", {}) or not a["published"]
-        if devto_off:
+        if "devto" in policy.get("suspended_channels", {}):
+            r["devto"] = "off (account suspended)"  # Sep 29 2026 — see distribution-policy.json
+        elif devto_off:
             r["devto"] = "off on purpose"
         elif not st.get("devto_id"):
             r["devto"] = "missing"

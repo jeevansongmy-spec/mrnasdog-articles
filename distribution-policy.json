@@ -1,13 +1,12 @@
 {
   "_what": "Which public pages must be mirrored, and which are left out ON PURPOSE. Read by check_distribution.py. The live sitemap is the list of public pages; this file only narrows it.",
   "required_channels": [
-    "github",
-    "devto"
+    "github"
   ],
   "informational_channels": [
     "telegram"
   ],
-  "_channels_why": "GitHub + Dev.to feed AI crawlers and search (MrNasdog, Sep 18 2026). Telegram is a notice board: edit-in-place, never a release blocker.",
+  "_channels_why": "GitHub + Dev.to feed AI crawlers and search (MrNasdog, Sep 18 2026). Telegram is a notice board: edit-in-place, never a release blocker. Sep 29 2026: Dev.to suspended the account — GitHub is the one required mirror (see suspended_channels).",
   "eligible_path_patterns": [
     "^/research/[a-z0-9-]+/inflation$",
     "^/analysis/[a-z0-9-]+$",
@@ -27,5 +26,8 @@
     "/analysis/member-home": "product announcement (Member Home, Sep 26 2026) — same Jul 19 2026 rule: announcements stay off Dev.to",
     "/analysis/welcome": "new-member guide (Sep 27 2026) — announcement, off Dev.to"
   },
-  "_orphans": "Mirrors whose page is NOT in the sitemap (offline coins, retired slugs) are listed as orphans for information only; their pages still answer 200 and their mirrors are left alone."
+  "_orphans": "Mirrors whose page is NOT in the sitemap (offline coins, retired slugs) are listed as orphans for information only; their pages still answer 200 and their mirrors are left alone.",
+  "suspended_channels": {
+    "devto": "OFF since Sep 29 2026. Dev.to took down the MrNasdog account between 08:42 and ~09:00 MYT (profile + every article 404, even logged in; API 401 for the account's own active key; 'Generate API Key' fails). Most likely an automatic spam flag after ~120 near-identical mirrors being re-sent. A new key cannot fix a suspended account. syndicate.py skips Dev.to and check_distribution.py no longer counts it. Never open a second Dev.to account (ban evasion). To turn it back on after an appeal: remove this entry and add 'devto' back to required_channels."
+  }
 }

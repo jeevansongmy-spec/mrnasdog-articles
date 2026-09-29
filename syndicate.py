@@ -289,6 +289,12 @@ def main(argv):
         print(__doc__)
         return 1
     channels = (only,) if only else CHANNELS
+    # A channel whose account is suspended is skipped, never retried (distribution-policy.json "suspended_channels";
+    # Dev.to took the MrNasdog account down on Sep 29 2026).
+    suspended = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "distribution-policy.json"))).get("suspended_channels", {})
+    if suspended and not only:
+        channels = tuple(c for c in channels if c not in suspended)
+        print("  (skipped — account suspended: " + ", ".join(sorted(suspended)) + ")")
     creds, all_state = load_creds(), load_state()
     rc = 0
     for path in files:
