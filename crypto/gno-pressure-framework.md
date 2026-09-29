@@ -1,8 +1,8 @@
 ---
 title:         "GNO Inflation Analysis · September 2026 · Mixed flows · supply roughly steady"
-description:   "GNO supply held flat over 90 days at 0.00%: a 167K GNO treasury redemption moved coins into the DAO, not to a burn. See the ledger, vesting and burn checks."
+description:   "GNO supply is flat: 0.00% net over 90 days and 0.00% next. No GNO can be minted, and a July redemption of about 167K GNO stayed in the DAO treasury, not burned."
 canonical_url: "https://mrnasdog.com/research/gno/inflation"
-tags:                    ["crypto", "gno", "gnosis", "dao"]
+tags:          ["crypto", "gno", "gnosis", "dao"]
 published:     true
 ---
 
@@ -10,42 +10,72 @@ Originally published at [GNO Inflation Analysis · September 2026 · Mixed flows
 
 # GNO Inflation Analysis · September 2026 · Mixed flows · supply roughly steady
 
-GNO's tradable float did not move over the last 90 days, and the Pressure Framework reads it at **0.00%** over the trailing 90 days and **0.00%** for the next 90, against a monitor reading of **−0.11%**. The quarter's headline event, a GnosisDAO treasury redemption in which holders handed back about **167K GNO**, moved those coins into the DAO's own treasury rather than destroying them, and that treasury is already counted as circulating. Sell pressure is **0**, buy pressure is **0**, and the GNO token contract has no way to mint a new coin.
+The MrNasdog Pressure Framework reads GNO at **0.00% net** over the trailing 90 days and **0.00%** over the next 90: **0 GNO** of new sell pressure against **0 GNO** of buy pressure, on a circulating supply of **2.64M GNO**. The GNO token has no function that can create coins, and the biggest supply story of the window — the GnosisDAO treasury redemption, which took in about **167,000 GNO** in July — moved coins from holders into a DAO treasury that is already counted as circulating, so it neither added to nor removed from the market. The monitor reads **−0.04%**, a gap of **0.04 points**.
 
+      
 ## The verdict, in one paragraph
 
-Against a circulating base of **2.64M GNO**, the framework books **0** of sell pressure and **0** of buy pressure over the trailing 90 days, a net of **0.00%**, and projects **0.00%** for the next 90 days. The inflation monitor reads **−0.11%** for the same window, a gap of **0.11 percentage points**. That is inside the framework's 0.5-point tolerance, so the overview ships with no monitor-gap warning. The small monitor dip is day-to-day rounding in a supply figure that has in fact stayed at one number all quarter. The earlier reading of a shrinking float, built on the idea that the July redemption retired coins, does not survive a check of where the coins went. The label for GNO this quarter is **a capped token with a flat float**: large coin movements inside the DAO, no net change for the market.
+      
+GNO's net supply change over the last 90 days is **0.00%**, and the projection for the next 90 days is also **0.00%**. The inflation monitor, which tracks the circulating count day by day, reads **−0.04%** over the same window. The gap between the two readings is **0.04 percentage points**, far inside the 0.5-point tolerance, so no data-conflict warning is shown. The monitor's small negative number is day-to-day noise around a circulating count that did not change. GNO is a **fixed-supply token with a flat float**: nothing was minted, nothing vested, nothing was burned, and the large treasury flows of the summer all stayed inside the market.
 
+      
 ## Sell pressure: where new GNO comes from
 
-It does not come from minting. Sell #1, protocol inflation, is **0**, and it is one of the few rows on any page that can be called permanent. The GNO contract on Ethereum wrote its supply of **10M GNO** once, at launch, and carries only nine functions: transfers, approvals and read-only views. None of them can create a coin, and the stored supply figure sat at exactly **10M GNO** at both ends of the window. Of those 10M, about **3.15M GNO** were burned in January 2025 and **3.85M GNO** sit in a vesting contract committed to burning, which is why Gnosis describes its supply as 3M. The GNO that lives on Gnosis Chain is a bridged copy: it rose by **44,557 GNO** over the window while the GNO locked in the Ethereum-side bridge rose by the same amount, and the two match to within **232 GNO**, so nothing is counted twice. Gnosis Chain validators are paid in GNO, but those payments come out of a staking pot the DAO filled with existing GNO. They move coins from one counted wallet to another; they do not add any.
+      
+Protocol inflation is **0 GNO**, and it cannot be anything else. The GNO token on Ethereum is a plain token: its code exposes only transfer, approval and balance functions, with no mint, no burn and no owner. Its on-chain total read **10M GNO** at both ends of the window. Of that, **3.15M GNO** sits at the zero address from past burns and **3.85M GNO** sits in a DAO vesting pot pledged to be burned, which leaves the 3M GNO supply the project targets. Gnosis Chain validators are paid in GNO, but those rewards come out of GNO that already exists, funded by GnosisDAO, not out of new coins. The GNO copy on Gnosis Chain grew by **46,852 GNO** in the window, exactly in step with the GNO locked in the bridge on Ethereum.
 
-Sell #2, vesting unlocks, is **0**. GnosisDAO's eight-year vesting contract, started on **Nov 23 2020**, still holds **3.85M GNO**, of which roughly **1.68M GNO** has vested and could be withdrawn. Nothing was withdrawn: the balance did not change by a single unit across the 90 days. These coins sit outside the counted supply and the DAO has committed to burning them to reach its 3M target, so a withdrawal is not expected. Sell #3, Foundation and unscheduled unlocks, is **0**: the Gnosis Ltd vesting contract, the one pot the circulating figure leaves out, did not move. Sell #4, long-term locked or bankruptcy, is **0**. GNO has no bankruptcy estate and no court-ordered distribution.
+      
+Vesting unlocks are **0 GNO**. The DAO's 8-year vesting pot, set up in November 2020, still holds **3.85M GNO** and did not release a single coin in the window. Its last move was the 3.15M GNO burn of Jan 30 2025, and GnosisDAO has committed to a 3M total supply, which means the rest is meant to be burned too. The pot runs until Nov 2028.
 
+      
+Foundation and unscheduled unlocks are **0 GNO**. The only pot of GNO that sits outside the circulating count is Gnosis Ltd's vesting contract, holding **360,411 GNO**. It is fully vested and did not move in the window; its last payout was 50,000 GNO on May 14 2025, more than a year ago, so there is no pattern to project forward.
+
+      
+Long-term locked or bankruptcy is **0 GNO**. There is no bankruptcy estate and no court-ordered payout. About **309,739 GNO** is staked with Gnosis Chain validators, but staked GNO is already inside the circulating count, so even the planned release of that stake adds nothing new.
+
+      
 ## Buy pressure: where new GNO goes
 
-Buy #1, programmatic buyback, is **0**. GnosisDAO's open-market GNO buying last ran from **Apr 16 to May 8 2026**, before this window opened, and has been paused since so that holders can use the redemption instead. Buy #2, protocol fee burn, is also **0**. Gas on Gnosis Chain is paid in xDAI, not GNO, so there is no fee burn to speak of. The framework still read both places a burn could appear, at both ends of the window: the zero address held **3.15M GNO** on both dates, the dead address did not move, and the count of GNO in existence held at **10M**. Nothing was destroyed.
+      
+Programmatic buyback is **0 GNO**. GnosisDAO bought about $1.46M of GNO on the open market between Apr 16 and May 8 2026, before this window, and has paused market buying while holders have a redemption route. Bought GNO lands in the DAO treasury, which the circulating count already includes.
 
-Buy #3, Foundation buy, is **0**, and this is the row that needs the most care. Governance proposal GIP-151, passed on **Jun 26 2026**, let any holder hand GNO back to GnosisDAO for a share of the treasury. Between **Jul 3 and Jul 17 2026**, **92** holders sent in **111,074 GNO** and **48,261** staked GNO, about **167K GNO** in all. On **Jul 17 2026** every one of those coins was moved into the DAO's main treasury, where they still sit. The proposal calls them removed from circulation, but that is a label, not a location: the circulating figure the framework divides by already includes the DAO treasury, and nothing was burned. The coins moved from one counted wallet to another, so they take nothing off the market. Buy #4, new long-term lock, is **0**: GNO in the validator deposit contract fell from **330K** to **311K**, and staked GNO counts as circulating in any case.
+      
+Protocol fee burn is **0 GNO**. Gas on Gnosis Chain is paid in a stablecoin, not in GNO, so there is no fee burn. The zero-address balance stayed at **3,147,806 GNO** from the first day of the window to the last.
 
+      
+Foundation buy is **0 GNO**, and this is the row with the most activity behind it. Under the GnosisDAO redemption approved in June, holders could hand in GNO or staked GNO for a share of the DAO treasury between Jul 3 and Jul 17 2026. Holders handed in **111,074 GNO** and **48,261 staked GNO** (worth about 56,007 GNO), about **167,000 GNO** in all. On Jul 17 2026 every one of those coins was sent to the DAO's main safe, where they still sit. They were kept, not burned: the zero-address balance and the token total did not change. Because the DAO's safe is counted as circulating, the redemption moved coins from one part of the market to another and removed nothing.
+
+      
+New long-term lock is **0 GNO**. The Gnosis Chain staking contract shrank from **323,919 GNO** to **309,739 GNO** as validators left, and staking never takes GNO out of the circulating count in the first place.
+
+      
 ## Foundation and overhang
 
-GNO's overhang is large and almost entirely in GnosisDAO's hands. The DAO's main treasury holds **1.24M GNO** across Ethereum and Gnosis Chain, plus **56K** staked GNO, much of it from the redemption, and a DAO liquidity wallet holds another **111K GNO**. All of this is already inside the circulating figure, so selling it would not show up as new supply in this ledger, though it would reach the market. Outside the float sit two vesting contracts: the DAO's **3.85M GNO**, committed to burning, and Gnosis Ltd's **360,411 GNO**, fully vested since November 2025 and withdrawable at any time. Gnosis Ltd last withdrew **50K GNO** on **May 14 2025**, and before that in 2022 and 2021, so its releases are rare and unscheduled. Every one of these balances is readable on chain and refreshed at each rebuild. If either vesting contract's balance falls between refreshes, that outflow enters Sell #3, or Sell #2, at the next refresh.
+      
+Four GNO pots are tracked as team-controlled overhang. The first is Gnosis Ltd's vesting contract with **360,411 GNO**, fully vested and outside the circulating count — the one pot whose release would add new GNO to the market. The second is the DAO's 8-year vesting pot with **3.85M GNO**, outside even the 3M total and pledged to be burned. The third is the DAO's main safe, holding about **1.24M GNO** across Ethereum and Gnosis Chain plus **56,257 staked GNO**, most of it older treasury plus the July redemption intake. The fourth is a DAO liquidity wallet with about **115,039 GNO**. The last two are already counted as circulating, so a sale from them would move GNO within the market rather than add to it.
 
-## How GNO compares to other capped governance tokens
+      
+Every pot is re-read on the chain at each refresh. If the Gnosis Ltd vesting contract or the DAO vesting pot shrinks between refreshes and the coins are not burned, the outflow enters the foundation row at the next refresh. If the DAO burns the redeemed GNO, that burn enters the buy side.
 
-GNO sits in the strictest supply class: a token whose contract cannot mint at all. That is a harder promise than a halving chain like Bitcoin, which still issues new coins every block, and much harder than an uncapped proof-of-stake chain, where staking rewards are printed and the supply grows every year. On Gnosis Chain the staking rewards exist, but they are paid out of GNO the DAO already holds, so the cost falls on the treasury rather than on the supply count.
+      
+## How GNO compares to other fixed-supply DAO tokens
 
-The redemption makes the most useful comparison. Exchange tokens that buy back and burn take coins out of existence, and their readings go negative. GnosisDAO did something that looks similar, swapping treasury assets for GNO, but kept the coins. That is closer to a company buying its own shares and holding them as treasury stock: the holder count shrinks, but the shares can be reissued. Until those coins are burned, a buy-and-hold treasury does not reduce the float the market can see.
+      
+GNO belongs to the group of fixed-supply governance tokens backed by a large treasury. Unlike an uncapped proof-of-stake coin such as ETH or SOL, where validators are paid in new coins every epoch, GNO has no issuance at all: Gnosis Chain pays its validators out of existing GNO, so the cost of security shows up as a treasury expense rather than a rising supply. The GnosisDAO proposal to turn Gnosis Chain into an Ethereum rollup describes that subsidy as a dilution of non-stakers of about 2.3% a year, but it is a transfer of existing GNO, not new supply.
 
-The vesting picture also differs from most tokens. A typical project releases investor and team coins into the market over four years. GnosisDAO's largest vesting pot is instead scheduled for destruction, so its end state removes supply rather than adds it, and none of it is counted as circulating today.
+      
+Compared with exchange tokens that burn a share of revenue every quarter, GNO has no fee burn, because gas on its chain is paid in a stablecoin. Its supply only ever fell through one-off governance burns, such as the 3.15M GNO burn of January 2025. And compared with DAO tokens that run a buyback into a burn address, the GnosisDAO buyback and redemption both parked GNO in the treasury. That choice keeps GNO's float flat until the DAO decides to burn what it holds.
 
+      
 ## What to watch in the next 90 days
 
-First, the **167K GNO** from the redemption: a vote to burn it would be the first real removal since January 2025, while a sale from the treasury would put it back into trading hands. Second, the move of Gnosis Chain onto Ethereum, approved as GIP-153 on **Aug 19 2026** and targeted for around the turn of the year: it ends the treasury-paid staking rewards and frees about **350K** staked GNO, which is already counted as circulating but could reach the market as validators exit. Third, Gnosis Ltd's **360,411 GNO** vesting pot, the only excluded balance that can be withdrawn at any time. Fourth, the DAO's **3.85M GNO** vesting contract, where any withdrawal not followed by a burn would count as new supply. The forward window runs to **Dec 21 2026**.
+      
+First, the Gnosis Chain move onto Ethereum, approved by GnosisDAO in August, targets its first block around December 2026 or January 2027; at that point the validator set retires and about 350,000 staked GNO is freed. That GNO is already circulating, so it would not change the framework reading, but it could reach the market quickly. Second, any GnosisDAO vote to burn the roughly 167,000 GNO taken in through the redemption, or the 3.85M GNO left in the DAO vesting pot, would show up as buy pressure. Third, any payout from the Gnosis Ltd vesting contract, which holds 360,411 GNO, would be the only way new GNO enters the market. Fourth, GNO cashback for Gnosis Pay card users ends on Sep 30 2026, and the consumer card shuts on Dec 20 2026, which removes one steady source of GNO paid out to users.
 
+      
 ## Summary
 
-The MrNasdog Pressure Framework reads GNO at **0.00%** over the trailing 90 days and **0.00%** projected forward: mixed flows, supply roughly steady. The GNO contract cannot mint, nothing was burned, and neither vesting contract released a coin. The July GIP-151 redemption moved about **167K GNO** into the GnosisDAO treasury, which is already counted as circulating, so it changed who holds GNO but not how much trades. The key risk is that the DAO's **1.24M GNO** treasury and the **350K** staked GNO due to unlock can both reach the market at the DAO's or validators' choosing, while the hard ceiling of **10M GNO** minus burns cannot be raised by anyone.
+      
+The MrNasdog Pressure Framework reads GNO at **0.00%** net supply change over the last 90 days and **0.00%** over the next 90 days, in line with the monitor's **−0.04%**. GNO cannot be minted, Gnosis Chain validators are paid from existing GNO, and the GnosisDAO treasury redemption of about 167,000 GNO stayed inside the circulating count because the DAO kept the coins rather than burning them. The key risk to the reading is a release from the 360,411 GNO Gnosis Ltd vesting contract, the only pot outside the circulating count; the key upside is a DAO decision to burn the GNO it holds. GNO's total supply is set at 3M by governance; its circulating count can rise only if those 360,411 GNO are paid out, and fall only through burns.
 
-MrNasdog Pressure Framework analysis of GNO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 22 2026.
+*MrNasdog Pressure Framework analysis of GNO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Sep 29 2026.*
