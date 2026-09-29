@@ -1,6 +1,6 @@
 ---
-title: "XLM Inflation Analysis · September 2026 · Supply growing, projected to keep growing"
-description: "Stellar mints nothing, yet XLM supply grew +2.90% in 90 days as the Foundation released 1.01B XLM and fees removed 657K. Monitor +2.96%, so no conflict."
+title: "XLM Inflation Analysis · September 2026 · Supply growing · projected to keep growing"
+description: "XLM supply is growing with no new coins: the Stellar Development Foundation released 1.04B XLM in 90 days, lifting supply +2.96%. Fees held back: just 659K XLM."
 canonical_url: "https://mrnasdog.com/research/xlm/inflation"
 tags: ["crypto", "xlm", "stellar", "tokenization"]
 published: true
@@ -8,40 +8,62 @@ published: true
 
 Originally published at [https://mrnasdog.com/research/xlm/inflation](https://mrnasdog.com/research/xlm/inflation) by MrNasdog.
 
-# XLM Inflation Analysis · September 2026 · Supply growing, projected to keep growing
+# XLM Inflation Analysis · September 2026 · Supply growing · projected to keep growing
 
-XLM, the native asset of the Stellar network, has not had a single new lumen created since Stellar validators switched network inflation off in **2019**, and no XLM vesting schedule exists. The XLM float still grows, because the Stellar Development Foundation spends the lumens it has held since launch: its accounts released **1.01B XLM** into circulation over the last 90 days, while the Stellar fee pool took only **657K XLM** back out. The MrNasdog Pressure Framework therefore reads XLM at **+2.90% net** over 90 days against a supply-monitor reading of **+2.96%** — a gap of **0.06 percentage points**, which is agreement, not conflict. The limit is the Foundation's remaining **14.79B XLM**: once it is spent, the XLM float stops growing.
+**XLM** supply is growing, and it is growing without a single new coin being made. In the last 90 days the Stellar Development Foundation released **1.04B XLM** (1,036,020,035) into the market from its own accounts, while only **659,284 XLM** of fees left the float, so the circulating supply of Stellar grew by **+2.96%**. Our inflation monitor reads **+2.85%** for the same stretch. The Foundation still holds **14.72B XLM**, and no published schedule limits how fast it pays it out.
 
 ## The verdict, in one paragraph
 
-For the 90-day window ending **Sep 24 2026**, the Pressure Framework reads **XLM at +2.90% net**: **1,013,504,522 XLM** left the Stellar Development Foundation's accounts for the open float, and **657,258 XLM** of transaction fees left the float for the fee pool. The independent supply monitor reads the realised 90-day change at **+2.96%**. The gap is **0.06 percentage points**, far inside the framework's half-point tolerance, so XLM ships with **no data-conflict flag**. The forward column reads the same **+2.90%**, because Foundation spending has run out of its accounts in every month measured and nothing published says the pace will change. The label for XLM is **a fixed-supply coin with a foundation-driven float**: the protocol adds nothing, and one organisation's spending decides how fast XLM supply reaches the market.
+Over the 90 days to Sep 29 2026, the net flow of new XLM into the market was **+2.96%** of the **35.01B XLM** circulating supply. The monitor, which measures the same float from the outside, reads **+2.85%** — a gap of **0.11 percentage points**, well inside our half-point tolerance, so no warning chip is shown. For the next 90 days we project about the same **+2.96%**, because the Foundation has paid out at this pace, almost every day, for months. XLM is a fixed-supply coin with a **foundation-driven float**: the total never changes, but the part people can trade keeps growing.
 
 ## Sell pressure: where new XLM comes from
 
-Sell #1, protocol inflation, is **zero**. Stellar once added 1% a year to XLM supply through an inflation operation; Stellar validators voted it off in 2019, and the protocol the network runs today refuses that operation outright. That was checked this window, not assumed: the ledger's own count of existing lumens read the same at both ends of the window to the last decimal, and because that same field did grow in the years when inflation ran, a new lumen would have shown up there. Stellar activated two protocol upgrades inside the window, Zipper on **Jul 8 2026** and Adapter on **Sep 17 2026**; neither touched issuance, and the base fee read **100 stroops** at both ends. Sell #2, vesting unlocks, is **zero**: the escrow accounts that ran Stellar's 2019 lumen give-away programmes hold 2 XLM each and nothing more, and no unlock calendar exists for XLM.
+**Protocol inflation is zero.** Stellar once paid a small yearly inflation to holders, but that payout was switched off in 2019. The ledger keeps its own count of every lumen in existence, and it read **105,443,902,087 XLM** at both ends of the window, exactly the figure it has shown for more than a year. Two network upgrades went live in the window, protocol 27 on Jul 8 2026 and protocol 28 on Sep 16 2026; neither one creates or removes lumens.
 
-Sell #3, foundation and unscheduled unlocks, carries the whole XLM sell side at **1.01B XLM**. The Stellar Development Foundation holds its lumens in **15** named accounts, and published XLM circulating supply is defined as total supply minus exactly those accounts, a network upgrade reserve and the fee pool. So a lumen counts once, at the moment it leaves a Foundation account for any address outside that set. Across the window those accounts sent **1.11B XLM** out and received **96.6M XLM** back, a net release of **1,013,504,522 XLM**, and every 30-day slice was an outflow — **270M**, **403M**, then **340M**. Transfers between the Foundation's own accounts, which moved far larger sums, cancel out and add nothing. The Foundation says it sells lumens from its development account on public exchanges, and it publishes no release schedule, so the pace is a decision rather than a rule. The measurement was closed against the Foundation's own published holdings at three dates, to the last fraction of a lumen. Sell #4, long-term locked or bankruptcy supply, is **zero**: no estate or long-dated lock holds XLM.
+**Vesting unlocks are zero.** The only schedule Stellar ever had was the Foundation's yearly escrow from its 2019 plan. Those escrow accounts are now empty, with two XLM left in each, and no unlock tracker lists any future release for XLM.
+
+**The Foundation release is the whole story: 1.04B XLM in 90 days.** Every lumen that is not yet circulating sits with the Stellar Development Foundation, in 15 accounts that the Foundation itself names. Those 15 accounts fell from **15.75B XLM** to **14.72B XLM** across the window. We checked this two ways: the account balances at both ends, and every single transfer in and out — the two agree to within two cents of a lumen, which is the transaction fees. In total **1.13B XLM** went out to outside wallets and **97M XLM** came back, a net **1,036,020,035 XLM**. Most of it went to unlabelled wallets that passed it straight on; some went directly to large exchanges. Over the last 12 months the Foundation released about **3.07B XLM**, and the pace has picked up lately: about 287M in July, 426M in August and 323M in September 2026.
+
+**Long-term locked or bankruptcy supply is zero.** No estate, trustee or long lock holds XLM, so no court date or lock expiry can release a block of coins.
 
 ## Buy pressure: where new XLM goes
 
-Almost nowhere. Buy #1, programmatic buyback, is **zero**: Stellar has no buyback contract and none has been proposed, and the Stellar Development Foundation funds itself by spending lumens, not buying them. Buy #2, the protocol fee burn, is the only XLM sink: every Stellar transaction fee lands in a fee pool that belongs to no account and has had no payout path since inflation ended, and published XLM circulating supply excludes it. The pool grew by **657,258 XLM** over the window, about **7,300 XLM** a day, and an independent fee series agrees with that reading to within five percent. The 2019 burn account took in only a fraction of one lumen, so there is no ongoing XLM burn beyond the fee pool. Buy #3, foundation buying, is **zero**: the **96.6M XLM** that came back into Foundation accounts arrived by plain transfer and is already netted inside the release. Buy #4, new long-term locks, is **zero**: Stellar has no staking, because its validators are neither paid nor bonded, and the small minimum balance every account must keep stays inside the circulating count.
+**There is no buyback.** No contract or treasury buys XLM off the market, and the Foundation pays lumens out rather than buying them back. The 97M XLM that returned to its accounts arrived as plain transfers, not market buys, and it is already netted in the release above.
+
+**There is no fee burn.** Stellar does not destroy fees. The ledger total did not fall, and the burn account from the Foundation's 2019 burn of about 55 billion lumens gained only 0.21 XLM in 90 days — a rounding speck.
+
+**Fees held in the fee pool: 659,284 XLM.** Every Stellar transaction fee goes into a network fee pool that no account can spend today, and that pool is not counted as circulating. It grew from 10.06M to **10.72M XLM** in the window. That is real XLM leaving the float, but fees on Stellar are tiny: the pool took in about one lumen for every 1,570 the Foundation released.
+
+**No new long-term lock.** Stellar has no staking, so nothing can be locked for yield. Each account must hold a small minimum balance, but those lumens stay inside the circulating count.
 
 ## Foundation and overhang
 
-The Stellar Development Foundation's **14.79B XLM** is the one XLM overhang that matters — about **42%** of circulating supply, held in four buckets: Development **1.94B**, Growth **5.83B**, Product and Innovation **3.63B**, and Assets and Liquidity **3.40B**. Every account is on-chain and readable, so the balances are re-read at each refresh rather than taken on trust, and they fell across the whole window. The second XLM overhang is the network upgrade reserve at **258.9M XLM**, set aside for holders of the pre-2015 network; it did not move in the window and has no release date. Exchange custody wallets and unlabelled large holders are excluded by rule, and every account a public directory tags to the Foundation with a real balance is already inside the fifteen. If any of these balances falls between refreshes, the outflow enters Sell #3 at the next refresh.
+The overhang is large and it is all in one place. The Stellar Development Foundation holds **14.72B XLM**, about 42% as much as everything now circulating, split into four programs: Development **1.88B**, Growth **5.81B**, Product and Innovation **3.63B** and Assets and Liquidity **3.40B**. The Foundation says it is updating how these holdings are allocated, and it publishes no release calendar. A separate network upgrade reserve holds **259M XLM** and did not move in the window.
 
-## How XLM compares to other payment and settlement chains
+We read all of these balances from the chain at every rebuild. If any Foundation account or the upgrade reserve falls between rebuilds, the outflow enters the Foundation release row at the next rebuild — and on the current pace, it will.
 
-Most proof-of-stake Layer 1s grow their float by minting staking rewards and hope a fee burn offsets part of it. Stellar has neither half: no mint, because inflation was voted off, and no staking reward, because Stellar consensus pays its validators nothing. That makes XLM supply growth a custody question rather than a protocol question — the XLM float rises only as fast as the Stellar Development Foundation chooses to spend. Against a coin such as BNB, whose supply falls through scheduled burns, XLM sits on the other side of the ledger: its one sink, the fee pool, is real but tiny next to the Foundation's release.
+## How XLM compares to other pre-mined payment chains
 
-Against other payment-focused chains whose float grows through releases by a single organisation, the XLM difference is the absence of any published calendar: the Foundation's release is observed after the fact on-chain, not read from a schedule in advance. The fee base underneath is small. Stellar's fee pool took in roughly **$537,000** a year at today's pace against a market capitalisation near **$7.07B**, about **0.008%** — real paid demand, but far too small to offset a release measured in billions of lumens.
+XLM belongs to a small group of coins that were created all at once, with no mining and no staking rewards. For these coins inflation is not a protocol question; it is a question of how fast the organization behind the chain hands out its reserve. XRP, the closest match, also launched fully pre-mined and moves a company reserve to market; the difference is that XRP's reserve runs on a monthly escrow calendar, while Stellar's Foundation release has no calendar at all, only a track record.
+
+Against proof-of-stake Layer 1 chains, XLM looks different again. Those chains create new coins every block to pay validators, so their supply grows by rule. XLM creates nothing, which sounds safer, but the Foundation release alone added **+2.96%** to the float in 90 days — more than many staking chains issue in the same time. And unlike chains that burn part of every fee, Stellar keeps its fees in a pool, and its fees are so small that they barely offset the release.
+
+Against hard-capped coins with a halving, the picture is simpler: the XLM total is fixed at about **50.0B**, so the float can never pass it. Today **70%** of that total circulates. The remaining 30% is the runway for future sell pressure.
 
 ## What to watch in the next 90 days
 
-First, the pace of the Stellar Development Foundation's release: the forward reading holds the trailing **1.01B XLM**, and a quarter about **35M XLM** faster would carry XLM past three percent net. Second, the Foundation's next quarterly report, which states how many lumens each mandate bucket deployed; the Q2 2026 report put that at roughly **648M XLM**-equivalent for April to June, and the Foundation says it is updating how its lumens are allocated across its mandate. Third, Stellar protocol upgrades: Adapter went live on **Sep 17 2026** without touching issuance or the **100 stroop** base fee, and any future proposal that changes the fee pool or the inflation operation would move a zero row. Fourth, the **258.9M XLM** upgrade reserve: any outflow would open a new line in Sell #3.
+The Foundation's monthly pace from Sep 29 2026 to Dec 28 2026: a month above about 350M XLM would push the next reading higher, a month well below it would pull it down.
+
+The Foundation's mandate page, which says the allocation of its holdings is being updated — a new split or a published schedule would change this forecast.
+
+Any new protocol vote: the latest node software already supports the next protocol version, but we found no mainnet vote date as of Sep 29 2026. So far no upgrade has touched supply.
+
+The **259M XLM** upgrade reserve, which did not move in the window, and the fee pool, which should keep growing by about 650K to 700K XLM every 90 days.
 
 ## Summary
 
-The MrNasdog Pressure Framework reads XLM at **+2.90% net** over the trailing 90 days and the same **+2.90%** over the next 90. The structural mechanism is plain: Stellar mints nothing and has no vesting, yet the XLM float grows because the Stellar Development Foundation released **1.01B XLM** from its accounts while the fee pool absorbed only **657K XLM**. The key risk is that the pace is discretionary — no schedule binds it, so the forward figure forecasts behaviour rather than code, and it can speed up or slow down without an announcement. The ceiling is the **14.79B XLM** still in Foundation custody; once that is spent, the XLM float can only grow again if Stellar validators vote issuance back into the protocol.
+XLM is a fixed-supply coin whose float grows only because the Stellar Development Foundation pays out its reserve. That release was **1.04B XLM** in the 90 days to Sep 29 2026, against just **659,284 XLM** of fees held back, for net supply growth of **+2.96%**, with the monitor at **+2.85%**. The key risk is the size of what is left — **14.72B XLM** with no published schedule — and the ceiling is the fixed total of about **50.0B XLM**, which no new coin can push higher.
 
-*MrNasdog Pressure Framework analysis of XLM, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 24 2026.*
+---
+
+*MrNasdog Pressure Framework analysis of XLM, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Sep 29 2026.*
