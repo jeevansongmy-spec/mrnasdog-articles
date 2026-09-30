@@ -3220,6 +3220,25 @@
     "site": "crypto",
     "telegram_message_id": 212
   },
+  "why-i-sold-half-my-link": {
+    "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/why-i-sold-half-my-link.md",
+    "receipts": {
+      "github": {
+        "at": "2026-09-30T04:50:09Z",
+        "note": "committed + pushed \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/why-i-sold-half-my-link.md",
+        "ok": true,
+        "sha256": "5c683c7452839c22"
+      },
+      "telegram": {
+        "at": "2026-09-30T04:50:09Z",
+        "note": "posted to @mrnasdog (msg 215)",
+        "ok": true,
+        "sha256": "5c683c7452839c22"
+      }
+    },
+    "site": "crypto",
+    "telegram_message_id": 215
+  },
   "wif-pressure-framework": {
     "devto_id": 3956209,
     "devto_url": "https://dev.to/mrnasdog/wif-inflation-analysis-june-2026-fixed-supply-perfectly-flat-2ana",
