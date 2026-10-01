@@ -1,6 +1,6 @@
 ---
-title: "UNI Inflation Analysis · September 2026 · Mixed flows · supply roughly steady"
-description: "UNI supply is roughly steady: Uniswap's fee burn destroyed 5.69M UNI in 90 days against a 5.00M UNI treasury growth budget. Net −0.13%, next 90 days +0.13%."
+title: "UNI Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
+description: "UNI supply is roughly steady: Uniswap's fee burn destroyed 5.71M UNI in 90 days against a 5.00M UNI treasury growth budget. Net −0.13%, next 90 days +0.15%."
 canonical_url: "https://mrnasdog.com/research/uni/inflation"
 tags: ["crypto", "uni", "uniswap", "defi"]
 published: true
@@ -8,48 +8,58 @@ published: true
 
 Originally published at [https://mrnasdog.com/research/uni/inflation](https://mrnasdog.com/research/uni/inflation) by MrNasdog.
 
-# UNI Inflation Analysis · September 2026 · Mixed flows · supply roughly steady
+# UNI Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
-UNI supply is roughly steady: over the last 90 days the Uniswap fee burn destroyed **5,692,001 UNI** and a DAO wallet returned **113,138 UNI** to the treasury, against a **5.00M UNI** growth budget paid out of that treasury — a net change of **−0.13%**. The next 90 days turn slightly the other way, to about **+0.13%**, because the next 5M UNI slice unlocks on Oct 1 2026 while, at today's higher UNI price, the same fees burn only about **4.22M UNI**. Total supply is still exactly 1 billion: the burn happens at a dead address, and the 2% yearly mint right has never been used.
+**UNI supply is roughly flat.** In the 90 days to Oct 1 2026 the Uniswap DAO treasury released **5.00M UNI** as a growth budget, while the Uniswap fee switch destroyed **5.71M UNI** and a multisig sent **113K UNI** back to the treasury, so net supply fell **0.13%**. For the next 90 days we expect another **5.00M UNI** out and about **4.07M UNI** burned, a rise of about **0.15%**; the monitor reads **+0.02%**.
 
 ## The verdict, in one paragraph
 
-Across Jul 1 to Sep 29 2026, UNI supply that counts as circulating fell by **805,139 UNI**, or **−0.13%** of the **620.40M UNI** float. Our inflation monitor, which reads the same float from market data, measured **−0.10%** over its own 90 days — a gap of **0.03 percentage points**, well inside our half-point tolerance, so no warning chip is needed. For the next 90 days we project **+0.13%**: one scheduled 5M UNI release against a fee-funded burn of about 4.22M UNI. In one line, UNI is a **treasury-funded budget balanced by a fee-funded burn**, and which side wins each quarter depends on swap fees and the UNI price.
+Over the last 90 days UNI supply changed by **−0.13%** of its **620.28M** circulating coins: **5.00M UNI** came in and **5.82M UNI** went out. The independent monitor reads **+0.02%** for the same window, a gap of **0.15 percentage points**, well inside our 0.5-point tolerance, so no warning chip is shown. For the next 90 days the same growth payout meets a smaller burn in coin terms, because UNI now costs nearly three times what it did in early July, so we project **+0.15%**. In one line: **UNI is a fee-burn token whose burn roughly cancels its treasury budget.**
 
 ## Sell pressure: where new UNI comes from
 
-Protocol inflation is **0**. The UNI token contract reported a total supply of exactly 1,000,000,000 UNI at both ends of the window, and no new UNI was minted. That reading is a real measurement, not a fixed number baked into the code: the supply figure lives in storage the mint function writes to. The mint right itself is alive — the Uniswap DAO treasury can mint up to 2% of supply a year, about 20M UNI, at most once every 365 days — but only after a full governance vote, and no such vote has been proposed.
+**Protocol inflation: 0.** No UNI was minted. The Uniswap token contract still reports a total of exactly **1,000,000,000 UNI**, the same number it held at launch in 2020, and we confirmed that this number is stored in a live field that a mint would change, not a fixed constant. The DAO does hold a right to mint up to **2% a year**, about 20M UNI, open since Jan 1 2024. It has never used it and no vote to use it exists, so it is a watch item, not a flow.
 
-Vesting unlocks are the whole sell side: **5.00M UNI**. Under the UNIfication plan passed in December 2025, the DAO pays Uniswap Labs a growth budget of 20M UNI a year, released as 5M UNI every quarter by a vesting contract that pulls the coins from the DAO treasury. The Jul 1 slice was paid on Jul 14 2026. The next slice unlocks on Oct 1 2026, so the next 90 days also carry **5.00M UNI**, and 25M UNI — five more quarters — is already approved. Because the treasury sits outside the circulating count, every slice is new supply for the market, even though the coins already exist.
+**Vesting unlocks: 5.00M UNI.** The UNIfication vote of December 2025 set up a growth budget of **20M UNI a year** for Uniswap Labs, paid in **5M UNI** slices each calendar quarter through a vesting contract that pulls coins from the DAO treasury. The July slice left the treasury on **Jul 14 2026**. The treasury is the only pile not counted as circulating, so each slice is new supply for the market. The October slice unlocked on **Oct 1 2026** and can be claimed at any time, so we book **5.00M UNI** again for the next 90 days. The January slice falls on Jan 1 2027, just after that window. The treasury has approved **25M UNI** more for this budget, five slices.
 
-Foundation and unscheduled unlocks are **0**: apart from the budget slice, not one UNI left the DAO treasury this window. Long-term locks and bankruptcy releases are also **0** — the founding team and investor vesting ended in 2024, and there is no estate or court schedule holding UNI.
+**Foundation and unscheduled unlocks: 0.** Apart from the growth slice, nothing left the DAO treasury in the window. **Long-term locked or bankruptcy: 0.** There is no estate or trustee holding UNI, and the original team and investor vesting finished in 2024.
 
 ## Buy pressure: where new UNI goes
 
-The programmatic buyback is the big buy row: **5,692,001 UNI** destroyed in 90 days, across 2,433 burns. Since the UNIfication fee switch went live in December 2025, Uniswap protocol fees collect in a fee vault on each chain. Anyone can empty the vault, but only by destroying a fixed lot of UNI — 4,000 UNI on Ethereum. So traders buy UNI, burn it, and take the fees when the fees are worth more than the UNI. Fees earned on other chains end the same way: the UNI is sent back to Ethereum and burned there. Measured in dollars, the UNI burned matched the protocol's fee income for the same weeks to within a few percent.
+**Programmatic buyback: 5.71M UNI.** Since the Uniswap fee switch went live, part of every swap fee on covered pools collects in a vault on each chain. The vault can only be emptied by destroying a fixed lot of UNI, 2,000 or 4,000 coins at a time, so traders buy UNI on the market and send it to the burn address whenever the fees inside are worth more than the lot. Over the 90 days the burn address gained **5,708,001 UNI**, worth about **$30.2M** at each day's price. We counted every one of the 2,445 burn transfers and the total matched the burn address balance to the last coin.
 
-The pace changed inside the window. Two governance votes executed on Jul 27 2026 switched on protocol fees for Uniswap v4 pools on seven chains and for Robinhood Chain. Before them the burn ran at about **40,900 UNI a day**; after them, about **72,500 UNI a day**, or roughly $407,000 of fees a day. Fees are earned in dollars, and the UNI price has more than doubled since July, so the same dollars now buy fewer UNI. At today's price of about $8.69, the post-vote fee rate burns about **4.22M UNI** in the next 90 days. If UNI stayed cheaper, or fees kept growing, the burn would be bigger.
+The pace changed inside the window. On **Jul 27 2026** two governance votes switched fees on for Uniswap v4 pools and for Robinhood Chain. Before that the burn bought about **$148K** of UNI a day; after it, about **$404K** a day. Because each burn is set by the dollar value of fees, a higher UNI price means fewer coins per dollar. At about **$8.94** per UNI, the post-change pace gives roughly **4.07M UNI** for the next 90 days.
 
-The protocol fee burn row is **0** on its own: no swap fee is destroyed directly — fees go to liquidity providers and to the fee vault — and the UNI destroyed to empty that vault is counted once, above. The Foundation buy row carries **113,138 UNI**: on Jul 30 2026 a DAO-linked wallet sent reward UNI it had claimed, plus some it bought on the market, back into the treasury, which takes it out of circulation. It was a one-off, so the next 90 days count 0. New long-term locks are **0**: UNI has no staking contract, and delegating votes never moves the coins.
+**Protocol fee burn: 0.** No fee is destroyed directly; the burn always runs through bought UNI, so it lives in the buyback row. **Foundation buy: 113K UNI.** On **Jul 30 2026** a DAO-linked multisig sent **113,138 UNI** back into the treasury, which took those coins out of circulation; it was a one-off, so the next 90 days carry 0. **New long-term lock: 0.** UNI has no staking contract; a staking idea was posted on the forum in June 2026 but never reached a vote.
 
 ## Foundation and overhang
 
-The one large team-controlled overhang is the Uniswap DAO treasury: **267.25M UNI**, which is exactly the part of supply not counted as circulating. 25M UNI of it is already committed to the growth budget; the rest can only move by governance vote. The Uniswap Labs budget wallet holds about **12.00M UNI** and the original 2020 airdrop contract still holds about **12.51M** unclaimed UNI, but both are already counted as circulating, so spending or claiming them adds nothing new. Bought-back UNI goes straight to the burn address, which now holds **112.35M UNI**, including the one-time 100M UNI treasury burn of December 2025 — so no buyback wallet builds up. We read these balances straight from the chain at every rebuild: if the treasury's balance falls between refreshes for anything other than the scheduled slice, that outflow enters Sell #3 at the next refresh.
+The one large overhang is the **Uniswap DAO treasury**, the governance timelock, with **267.25M UNI**. It is exactly the gap between total supply (**887.53M** after burns) and circulating supply, so it is the whole non-circulating pile. **25M UNI** of it is already approved for the growth budget at 5M a quarter; the rest needs a governance vote to move. Inside the circulating float we also track the Labs growth wallet at about **12.0M UNI**, the 2020 airdrop contract at about **12.5M UNI** of unclaimed coins, and the DAO-linked multisig at about **20K UNI**. Selling these would add nothing new to supply, but they show who could sell. We read these balances on the chain at every rebuild. If the treasury's balance falls between refreshes by more than the scheduled slice, the outflow enters Sell #3 at the next refresh.
 
-## How UNI compares to other DEX governance tokens
+## How UNI compares to other DEX tokens
 
-Most DEX tokens fall into one of two designs. Emission tokens such as CAKE and AERO pay liquidity providers in newly minted coins every week and then try to claw some back with burns or locks; their sell side is protocol inflation, measured in percent of supply per quarter. UNI has no emissions at all: liquidity providers are paid only in swap fees, the mint right sits unused, and the only new supply is a fixed, quarterly treasury budget of 5M UNI — under 1% of the float a quarter.
+Most exchange tokens pay their users with new coins. Emission-based tokens such as **CAKE**, **CRV** and **AERO** mint fresh supply every week to reward liquidity providers and voters, and then try to win it back with burns or long locks. UNI works the other way round: Uniswap mints nothing, pays liquidity providers only from trading fees, and turns a slice of those fees into a **UNI burn**. Its only new supply is a fixed, voted budget from a treasury that already exists.
 
-On the buy side, UNI now looks more like fee-buyback tokens than like its old self. Until December 2025 no Uniswap fee touched UNI. Now a slice of every swap fee on most Uniswap chains ends as UNI bought and burned, with no treasury decision needed each time. The difference from a straight buyback is that the burn is set in dollars of fees, not in UNI, so a rising UNI price shrinks the number of coins burned, and a falling one grows it.
+The closest match is a fee-funded buyback token such as **HYPE**, where trading fees buy the token on the market. The difference is where the coins go. In UNI's design the bought coins are destroyed at the burn address, so they cannot come back, while a buyback into a fund or treasury can be spent again later. The trade-off is that UNI's burn depends on how many pools pay fees and on how busy they are, and it shrinks in coin terms when the price rises.
 
-The result is a middle case: UNI supply is neither shrinking fast, like tokens that burn most of their revenue with no new supply, nor growing like emission-funded DEX tokens. The net sits within a fraction of a percent of zero, and it can tip either way from quarter to quarter.
+The other contrast is the cap. UNI has a hard cap of 1B plus a dormant 2% mint right; burns have already cut total supply to 887.53M. Emission tokens have no such ceiling in practice. So for UNI, the main supply question is how fast the DAO spends its treasury, not how fast new coins are printed.
 
 ## What to watch in the next 90 days
 
-**Oct 1 2026** — the next 5M UNI growth-budget slice unlocks; it usually leaves the treasury within about two weeks. **Oct 3 2026** — the on-chain vote to switch on Uniswap fees on Arc, Circle's new chain, closes; if it passes, one more chain feeds the burn. A second vote to turn on v4 fees on five smaller chains has been announced but has no date yet. Watch the UNI price too: every dollar of fees burns fewer UNI when the price rises. And watch for any governance proposal to use the 2% mint right, which would add up to about 20M UNI; none exists today. The next budget slice after this one unlocks on Jan 1 2027, just outside this window.
+**Oct 1 2026 — growth slice.** The fourth 5M UNI slice of 2026 unlocked today; the claim moves it from the treasury into circulation.
+
+**Oct 3 2026 — Arc fee vote ends.** A live proposal would switch Uniswap fees on for Arc, Circle's new chain; if it passes, its fees join the burn. We have not booked it yet.
+
+**v4 fees, part two.** The July v4 fee vote was labelled part one of two, so a second batch of v4 fee switches is likely to follow. No date is set; each one would raise the dollar pace of the burn.
+
+**Burn pace against price.** The burn bought about $592K of UNI a day in September. If UNI's price holds near $9, that means fewer coins burned than in early summer; a falling price would burn more coins for the same fees.
+
+**Jan 1 2027 — next slice.** The next 5M UNI growth slice unlocks just after this window and will enter the following quarter's count.
 
 ## Summary
 
-UNI supply is roughly steady: in the 90 days to Sep 29 2026 Uniswap's fee-funded burn destroyed 5.69M UNI while the DAO treasury released a 5.00M UNI growth budget, for a net of −0.13%, and we project about +0.13% for the next 90 days as the Oct 1 2026 slice meets a burn of about 4.22M UNI at today's price. The key risk to that reading is the 267.25M UNI DAO treasury and its unused 2% yearly mint right, both of which need a governance vote to move. Total supply is fixed at 1 billion unless that mint is used, and every burned UNI sits at a dead address for good.
+UNI is in mixed flows with supply roughly steady: over 90 days the DAO treasury released **5.00M UNI** to Uniswap Labs and the fee-funded burn destroyed **5.71M UNI**, for a net change of **−0.13%**, and we project **+0.15%** for the next 90 days. Nothing is minted and nothing vests besides the 5M-a-quarter growth budget. The key risk is a bigger treasury spend: the treasury still holds **267.25M UNI**, and a vote could also switch on the unused 2% yearly mint. The ceiling is the 1B cap, with total supply already burned down to **887.53M UNI**.
 
-*MrNasdog Pressure Framework analysis of UNI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Sep 29 2026.*
+---
+
+*MrNasdog Pressure Framework analysis of UNI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 1 2026.*
