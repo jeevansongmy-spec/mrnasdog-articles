@@ -1,6 +1,6 @@
 ---
-title: "TAO Inflation Analysis · September 2026 · Supply growing · projected to keep growing"
-description: "TAO supply is growing: 324K TAO of block rewards plus a one-time 172K mint, less 6.8K recycled, gives +4.31% in 90 days and about +2.77% next. 21M cap."
+title: "TAO Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
+description: "TAO supply is growing: 324K TAO of block rewards plus a one-time 172K mint, less 6.92K recycled, gives +4.31% in 90 days and about +2.79% next. 21M cap."
 canonical_url: "https://mrnasdog.com/research/tao/inflation"
 tags: ["crypto", "tao", "bittensor", "ai"]
 published: true
@@ -8,48 +8,52 @@ published: true
 
 > Originally published at **[mrnasdog.com/research/tao/inflation](https://mrnasdog.com/research/tao/inflation)** by MrNasdog.
 
-# TAO Inflation Analysis · September 2026 · Supply growing · projected to keep growing
+# TAO Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
-Bittensor's TAO supply is growing. In the 90 days to Sep 29 2026 the Bittensor chain created **495,691 TAO** — **323,690 TAO** of ordinary block rewards plus a one-time mint of **172,001 TAO** on Sep 15 2026 — and recycled **6,834 TAO** back out of supply, for a net rise of **+4.31%**. With the one-time mint gone, the next 90 days point to about **+2.77%**. TAO is capped at 21M and halves by issued supply, but only about 54% of that cap is mined, so the block reward still dominates.
+**Bittensor (TAO) supply grew about 4.31% in the 90 days to Oct 2 2026**, and the MrNasdog Pressure Framework projects about **+2.79%** for the next 90 days. Block rewards created **324,000 TAO**, a one-time network upgrade minted another **172,001 TAO** on Sep 15 2026, and only **6,922 TAO** was recycled back out of supply. TAO has a hard cap of **21M**, no vesting and no team allocation; the inflation monitor reads **+18.19%** because its supply figure jumped in a one-day recount.
 
 ## The verdict, in one paragraph
 
-The MrNasdog Pressure Framework reads TAO at **+4.31%** net supply growth over the last 90 days and **+2.77%** for the next 90 days, measured on a circulating base of **11.34M TAO**. Our monitor reads **+18.14%**, a gap of **13.83 percentage points**, so the ⚠ monitor-gap note ships on the coin page. The gap is not new TAO: the public supply figure the monitor divides sat at about 9.60M TAO — the chain's own count on Aug 5 2025 — until Sep 14 2026, then jumped about 1.75M TAO in one day on Sep 15 2026 to catch up with coins issued long before this window. On the chain itself, issued supply rose from 11.07M to 11.56M TAO between Jul 1 and Sep 29 2026, which is exactly our ledger. TAO is a steadily inflating, Bitcoin-shaped supply with one unusual quarter: a one-time mint on top of the halved block reward.
+On a circulating base of **11.34M TAO**, Bittensor printed **496,001 TAO** and recycled **6,922 TAO** over the last 90 days, a net rise of **+4.31%**. Without the one-time mint, the next 90 days come to about **+2.79%**. The inflation monitor reads **+18.19%**, a gap of **13.87 percentage points**, so the page carries a ⚠ monitor-gap note. The gap comes from the monitor's own supply figure: it sat near 9.60M TAO for more than a year, then jumped about 1.75M TAO in one day on Sep 15 2026 to catch up with coins issued long before this window. The chain itself shows no such jump beyond the 172,001 TAO mint. In one line: TAO is a capped, fair-launched chain that is still in its high-emission years, with almost nothing on the buy side.
 
 ## Sell pressure: where new TAO comes from
 
-Protocol inflation is the main source. Every Bittensor block, roughly every 12 seconds, mints **0.5 TAO** and sends it into the subnets, where it rewards miners, validators and stakers. The chain produced 647,379 blocks in the window, so block rewards created **323,690 TAO**, about 3,600 a day. The reward was halved from 1 TAO to 0.5 TAO in December 2025 when issued supply passed 10.5M TAO, and the next halving waits until 15.75M TAO have been issued — about 4.19M TAO away, years from now. The next 90 days therefore run at the same pace: another **323,690 TAO**.
+The main source of new TAO is the block reward. Since the first halving in December 2025, every Bittensor block (one about every 12 seconds) creates **0.5 TAO**. The window held 648,000 blocks, so block rewards made **324,000 TAO**, about 3,600 a day. That TAO flows through the subnets to miners, validators, stakers and subnet owners, and much of it is sold to pay for the hardware that does the work. At the measured block speed, the next 90 days create about **323,710 TAO**.
 
-The second source is a one-time event. On Sep 15 2026 a Bittensor network upgrade minted **172,001 TAO** in a single block into the root staking pool. For months, stakers on root had been credited rewards on paper without the matching TAO being moved into the pool, so the pool held less than it owed and exits could stall. The upgrade minted the missing TAO to close that hole. It runs only once and cannot repeat, so it counts in the last 90 days and adds nothing to the next.
+The second source this window was a one-time event. On Sep 15 2026 network upgrade 459 minted **172,001 TAO** into the root staking pool. Past root rewards had been credited to stakers without real TAO behind them, so the pool was short and the last stakers could not withdraw. The upgrade filled the gap once, and the code allows it to run only once, so it adds nothing to the next 90 days. It is still real new supply: those coins did not exist before, and they can now be unstaked and sold.
 
-Vesting unlocks are zero. TAO had a fair launch in 2021 with no presale, no team share and no investor share, so there is no vesting schedule and no cliff. Foundation and unscheduled unlocks are also zero: there is no foundation reserve to release, only a small Opentensor Foundation wallet. Nothing is locked long-term and no bankruptcy estate holds TAO.
+Vesting adds **0 TAO**. Bittensor had no token sale, no team share and no investor share; every TAO ever made came from block rewards, and unlock trackers list the coin as fully unlocked. Foundation and unscheduled unlocks add **0** because there is no reserve to unlock, and the long-term locked or bankruptcy row is **0** because no estate or trustee is paying TAO out.
 
 ## Buy pressure: where new TAO goes
 
-Bittensor has no burn address and no buyback. Instead it recycles: transaction fees, the cost of registering on a subnet and the leftovers of closed subnets are taken out of issued supply and returned to the pool of TAO not yet mined. That removed **6,834 TAO** this window, about 76 a day, and much of it arrived in lumps when subnets closed. Transaction fees only began to be recycled on Aug 12 2026; since then the pace has been about **9,311 TAO** per 90 days, which is the figure the next 90 days use. A later upgrade on Sep 18 2026 halved transaction fees, but the ten days since are too short to show a new pace. Recycled TAO is not destroyed forever — it can be mined again later — so its real effect is to push the next halving a little further out.
+Bittensor has no buyback and no foundation buying, so both rows are **0**. Subnet owners do buy their own subnet tokens with TAO, but that TAO lands in the subnet pools and stays inside the float.
 
-The other buy rows are zero. No programmatic buyback buys TAO; some subnets buy back their own subnet tokens, which is a different asset. No foundation buys TAO for the project. And staking is not a lock: about 7.45M TAO is staked, but staked TAO still counts as circulating and can be withdrawn, so a bigger stake removes nothing from the float.
+The one real buy-side flow is recycling: TAO taken out of the issued supply and returned to the unissued part of the 21M cap. It removed **6,922 TAO** in the window, about 47 times less than block rewards created. Until Aug 12 2026 it came only in single lumps of a few hundred TAO about every nine days. From Aug 12 2026 every transaction fee was recycled too, adding a floor of about 48 TAO a day, and on Sep 18 2026 fees were halved, which cut that floor to about 26 TAO a day. Keeping the lumps at their 90-day pace and the fee floor at its new level gives about **7,069 TAO** for the next 90 days. Because recycled TAO goes back under the cap, it can be issued again later; it delays the next halving rather than shrinking the cap.
+
+New long-term locks add **0**. About **7.46M TAO**, roughly two thirds of all issued TAO, is staked in subnet pools, but staked TAO still counts as circulating and can leave by selling the subnet token, so staking takes nothing out of the float.
 
 ## Foundation and overhang
 
-TAO has no team-held reserve, so the overhang is small and mostly made of protocol balances that already count as circulating. The Opentensor Foundation's own wallet held about **625 TAO** at the end of the window, up from about 524. Subnet owners have about **31,444 TAO** locked as the price of their subnet slots, and the subnets' trading pools hold about **7.45M TAO** that anyone selling a subnet token can draw out. All of these are read from the chain on every rebuild. Because every one of them already sits inside the circulating count, moving them adds no new supply — but if the Foundation wallet's balance falls between refreshes, that outflow enters the Foundation row at the next refresh.
+TAO has no treasury, no team wallet allocation and no unlock calendar, so the overhang is small. The Opentensor Foundation's known wallet held about **625 TAO** on Oct 2 2026, up from about 524 TAO on Jul 4 2026, and we read it from the chain at every rebuild. The large balances on the network belong to the protocol: the subnet pools hold **7.46M TAO** and subnet registration locks hold **31,444 TAO**, both checked on the chain. All of these coins were issued through block rewards and are already counted as circulating. Listed TAO treasury companies and the TAO trust bought on the open market, so they are buyers and holders, not an overhang. If the Foundation wallet's balance falls between refreshes, the outflow enters Sell #3 at the next refresh.
 
-## How TAO compares to other capped, halving chains
+## How TAO compares to other capped, block-reward chains
 
-TAO is often called the Bitcoin of AI, and its supply design earns the comparison: a 21M cap, no premine, and a block reward that halves. The difference is the trigger. Bitcoin halves on a block count, every 210,000 blocks, and now pays 3.125 BTC per block, about 0.8% of its supply a year. TAO halves on issued supply, and because Bittensor recycles fees and registration costs back into unmined supply, each recycled coin delays the next TAO halving. Bitcoin has no such loop — its fees go to miners and nothing returns to the unmined pool.
+Bittensor copies Bitcoin's supply shape: a **21M** hard cap, a fixed block reward and halvings. The difference is timing. Bitcoin's halvings follow block height, so they arrive about every four years no matter what. Bittensor's halvings follow issued supply, at 10.5M, 15.75M and so on, so every recycled TAO pushes the next halving a little further out. TAO is also much younger in its schedule: with about **54%** of the cap circulating, its yearly issuance is still about 12% of supply, while Bitcoin's is well under 1%.
 
-The stage matters too. Bitcoin has mined about 95.7% of its cap, so its inflation is already low. TAO has mined only about 54% of its cap, and after one halving it still adds roughly 2.8% of supply per 90 days — closer to an early-stage Bitcoin than today's. Against uncapped chains like Ethereum, which pay stakers in new coins and burn part of every fee, TAO has a hard ceiling but no burn: its recycling is a delay, not a destruction.
-
-TAO also differs in where new coins land. On Bitcoin, new BTC goes straight to miners. On Bittensor, new TAO flows into subnet pools and rewards, and participants are often paid in subnet tokens first, so how fast new TAO reaches the open market depends on how much of it is swapped out of those pools.
+Against uncapped proof-of-stake Layer-1s, TAO looks different again. Those chains pay validators from an inflation rate with no end date and often burn part of their fees; Bittensor has a fixed end point and pays its rewards to useful AI work through subnets, but its recycling is tiny next to issuance. Unlike chains with large team or investor unlocks, TAO has no vesting cliff to fear. Its sell pressure is almost all block rewards paid to the people running miners and validators, plus, this window, the one-time root pool mint.
 
 ## What to watch in the next 90 days
 
-First, the pace of recycling after the Sep 18 2026 fee cut: if lower fees slow it, the buy side shrinks and net growth edges up. Second, the runtime upgrades proposed on Sep 24 2026 and Sep 25 2026, still waiting for approval — none of them changes the block reward, but each is read for supply effects when it goes live. Third, the gamma-token proposal made on Sep 28 2026, which would let subnets turn part of their emissions into usage credits; it is only an idea for now and moves no TAO. Fourth, the public supply figure itself: it now lags the chain by about 223K TAO, including the Sep 15 2026 mint, and a catch-up would move the monitor again without any new TAO. The next halving is not a watch item this quarter — at today's pace it is more than three years away.
+First, the proposed network upgrades 470 and 471, published on Sep 24 2026 and Sep 25 2026 and waiting for signatures: neither changes TAO issuance in its published notes, but any upgrade that mints, as 459 did, would land in the ledger.
+
+Second, the fee level. Fees were halved on Sep 18 2026; another change to fees moves the recycling floor directly.
+
+Third, the gamma token idea the Opentensor Foundation presented on Sep 28 2026. It would let subnets turn part of their emissions into credits to buy services from each other. It is a concept only, and as described it changes how emissions are spent, not how many TAO are made.
+
+Fourth, the monitor's supply figure. It now reads 11.34M TAO, about 234K behind the chain; if it jumps again to catch up, the monitor will show another one-day spike that is a recount, not new coins.
 
 ## Summary
 
-TAO's supply grew **+4.31%** in the 90 days to Sep 29 2026: **323,690 TAO** of block rewards at 0.5 TAO a block, plus a one-time **172,001 TAO** mint on Sep 15 2026 to back root stakers, less **6,834 TAO** recycled. Without the one-time mint, the next 90 days point to about **+2.77%**. Bittensor has no vesting, no treasury and no burn, so the halved block reward is the whole story, and the main risk is that new TAO keeps arriving faster than recycling takes it back. The ceiling is the 21M cap, with the next halving set by issued supply at 15.75M TAO.
+Bittensor's TAO supply grew **+4.31%** in the 90 days to Oct 2 2026: 324,000 TAO of block rewards plus a one-time 172,001 TAO mint for root stakers on Sep 15 2026, less 6,922 TAO recycled. Without that mint the next 90 days project about **+2.79%**, almost all of it block rewards at 0.5 TAO per block. The key risk is steady selling by miners and validators who must pay their costs; the key limit is the **21M** hard cap, with the next halving due only once 15.75M TAO have been issued.
 
----
-
-*MrNasdog Pressure Framework analysis of TAO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Sep 29 2026.*
+*MrNasdog Pressure Framework analysis of TAO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 2 2026.*
