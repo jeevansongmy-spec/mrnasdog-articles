@@ -1,6 +1,6 @@
 ---
-title:         "WLFI Inflation Analysis · September 2026 · Mixed flows · supply roughly steady"
-description:   "WLFI supply is roughly steady: 4.12M WLFI of early-buyer claims reached the market in 90 days, +0.01% net, with no minting, no buyback burn and a cliff to 2028."
+title:         "WLFI Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
+description:   "WLFI supply is roughly steady: 4.38M WLFI of early-buyer claims reached the market in 90 days, +0.01% net, with no minting, no buyback burn and a cliff to 2028."
 canonical_url: "https://mrnasdog.com/research/wlfi/inflation"
 tags:          ["crypto", "wlfi", "worldlibertyfinancial", "ethereum"]
 published:     true
@@ -8,50 +8,56 @@ published:     true
 
 *Originally published at [https://mrnasdog.com/research/wlfi/inflation](https://mrnasdog.com/research/wlfi/inflation)*
 
-# WLFI Inflation Analysis · September 2026 · Mixed flows · supply roughly steady
+# WLFI Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
-The MrNasdog Pressure Framework reads WLFI, the governance token of World Liberty Financial, as **roughly steady**: supply grew **+0.01%** over the last 90 days and is projected to grow about the same over the next 90. The only new WLFI to reach the market was **4.12M WLFI** of early-buyer claims, against **31.78B WLFI** circulating, with no buyback burn and no minting; the monitor reads **+0.02%**. The structural fact behind the calm is a 2-year cliff: **17.04B** early-buyer coins and the insider allocation stay locked until **May 6 2028**.
+WLFI supply is almost standing still for now. In the 90 days to Oct 3 2026, the only World Liberty Financial coins that newly reached the market were **4.38M WLFI** claimed by early buyers who signed up late, against **31.78B WLFI** in circulation: net **+0.01%**, with the same expected for the next 90 days. Nothing burned the float down, and the inflation monitor reads **+0.01%** too. The real weight sits behind a lock: **46.11B WLFI** in the unlock contract, with no release scheduled before about May 2028.
 
 ## The verdict, in one paragraph
 
-Over the 90 days to **Sep 29 2026**, the WLFI ledger shows **4.12M WLFI** of sell pressure and **0** of buy pressure, a net of **+0.01%** of the **31.78B WLFI** circulating supply. The monitor, which reads the change in circulating supply over the same window, shows **+0.02%**. The gap is **0.01 percentage points**, far inside the 0.5-point tolerance, so no warning chip is shown and both readings agree that almost nothing moved. The forward reading is the same **+0.01%**, because no scheduled World Liberty Financial unlock fires before the cliff ends in 2028. WLFI is best described as a **locked-supply governance token in a quiet phase**: a large overhang exists, but it is not reaching the market yet.
+The MrNasdog Pressure Framework reads WLFI at **+0.01%** net new supply over the last 90 days and **+0.01%** over the next 90. The inflation monitor, which measures the classified circulating supply from both ends of the window, reads **+0.01%** as well, so the gap is under **0.01 percentage points** and no data-conflict flag is needed. For now WLFI is a locked-supply governance token in a quiet phase: no minting, no unlock cliff in sight, and a very large locked pile that only starts to open in 2028.
 
 ## Sell pressure: where new WLFI comes from
 
-Protocol inflation is **0**. WLFI has no block rewards and no staking emission, and not one WLFI was minted during the window; the Ethereum supply only fell, by **20M WLFI**. The token contract is upgradeable by the World Liberty Financial multisig, so the absence of minting is checked again at every rebuild rather than treated as permanent.
+Protocol inflation is **0**. WLFI has no block rewards and no mint function in its current contract, and total supply on Ethereum actually fell this window, from **96.74B** to **96.72B WLFI**, when 20M locked coins were burned. The token sits behind an upgradeable proxy, so the owner could change the code; that is why this row is re-checked at every rebuild rather than called permanent.
 
-Vesting unlocks are the one live row, at **4.12M WLFI**. Early buyers from the 2024–2025 token sale hold coins that could not be moved. When one of them signs the unlock agreement, the whole allocation moves into the WLFI unlock contract and **20%** comes straight back as tradable WLFI. This happened about **500 times** in the window, at an even pace, so the next 90 days carry the same **4.12M WLFI**. The remaining **80%** of early-buyer coins, **17.04B WLFI**, and the founder, team and partner coins follow the schedule voted on **May 6 2026**: a 2-year cliff, so the first of those coins unlock on **May 6 2028**.
+Vesting unlocks come to **4.38M WLFI**, and this is the whole of WLFI's new supply. The token unlock vote that passed on May 6 2026 put every remaining locked coin on a fixed schedule: early supporters wait out a 2-year cliff and then unlock over 2 years, while founders, team, advisors and partners burn 10% of their allocation when they opt in and unlock the rest over 3 years after the same 2-year cliff. So no vesting cliff falls inside the next 90 days. What does reach the market is a trickle from the original sale: a buyer who signs up late moves the locked coins into the unlock contract and gets 20% back at once. In these 90 days **527 wallets** claimed **4.38M WLFI** that way, about 49,000 a day, and we expect about the same next.
 
-Foundation and unscheduled unlocks are **0**. The main World Liberty Financial treasury multisig holds **12.62B WLFI** and made no transfer at all in the window. Its last payouts were **5.12B WLFI** between **Feb 19 2026** and **Apr 7 2026**, and there is no published schedule for more, so nothing is projected. A second treasury wallet sent out **988.6M WLFI** in the window, but its coins were already counted as circulating, so those payments move coins inside the market rather than adding new ones.
-
-Long-term locked or bankruptcy is **0**. There is no bankruptcy estate. The frozen wallets of one large holder, about **540M** tradable and **2.4B** locked WLFI blocked since September 2025, released nothing in the window and are the subject of a lawsuit with no set release date.
+Foundation and unscheduled unlocks are **0**. The main project multisig holds **12.62B WLFI**, sits outside the circulating count, and sent nothing in the window. The project's operations wallet was busy, sending **1.14B WLFI** out, about 640M of it to an exchange in four monthly lots, and two payout wallets sent another 748M. Those wallets are already counted as circulating, so these moves shift coins inside the float and add no new supply. Long-term locked or bankruptcy supply is also **0**: no estate or trustee pays out WLFI.
 
 ## Buy pressure: where new WLFI goes
 
-The programmatic buyback is **0** in this window. WLFI holders voted in September 2025 to use all trading fees from the treasury's own liquidity pools to buy back and burn WLFI. We checked every place such a burn could show: the Ethereum supply, the burn address, and the WLFI supply on BNB Chain and Solana, which must match the coins held in the Ethereum bridge pool. None of them moved by a buyback amount; the bridge pool and the two other chains agree to within **3,727 WLFI**.
+The programmatic buyback is **0** this window. Holders voted in September 2025 to spend all fees from the project's own trading pools on buying WLFI and burning it, but no such buyback burn happened in these 90 days on Ethereum, BNB Chain or Solana. The protocol fee burn is **0** because WLFI is a governance token: using the USD1 stablecoin or the WLFI lending market burns no WLFI. The foundation buy is **0**, with no announcement or wallet flow showing the treasury buying back.
 
-The protocol fee burn is **0**, because WLFI has no fee burn. The only burn in the window was **20M WLFI** on **Sep 7 2026**, when an insider moved **200M WLFI** onto the new schedule and gave up 10% as the vote requires. Those coins were locked and never counted as circulating, so the burn shrinks the total supply without taking anything off the market.
-
-Foundation buying is **0**: the treasury multisig received no WLFI, and no announcement shows World Liberty Financial buying its own token. New long-term locks are **0** as well. A staking lock of at least 180 days with voting rewards was approved on **Sep 28 2026** and starts in October, but staked WLFI still counts as circulating. The **218M WLFI** that early buyers moved into the unlock contract were never tradable, so that move removes nothing either.
+New long-term locks are **0** as well, even though WLFI staking opened on Oct 1 2026. Staking locks WLFI for 180 days and pays rewards in USD1, not in new WLFI, and **21.5M WLFI** was staked by the end of the window. Staked coins still count as circulating, so the lock takes nothing out of the float. The same goes for the insider burn on opting in: on Sep 7 2026 one insider accepted the new schedule and **20M WLFI** was destroyed, but those coins were locked and never counted as circulating, so the float did not shrink.
 
 ## Foundation and overhang
 
-The WLFI overhang is large and almost entirely locked or held by the team. The unlock contract holds **46.11B WLFI**, released only from **May 6 2028**. The main treasury multisig holds **12.62B WLFI**, unscheduled. About **6.22B WLFI** more sits in early-buyer wallets that have not signed the unlock agreement; each signing releases 20% of that wallet at once. The second treasury wallet holds **7.57B WLFI**, but it is already inside the circulating count. Together the locked and treasury balances are about **64.9B WLFI** — twice the circulating supply. All of these balances are read on-chain at every refresh. If the multisig's balance falls between refreshes, the outflow enters Sell #3 at the next refresh, and the same holds for any release from the unlock contract beyond the 20% claims.
+WLFI has one of the largest overhangs we track, measured against its float. The unlock contract holds **46.11B WLFI**, more than the whole circulating supply; it opens on the vote's schedule from about May 2028, and we read its balance on-chain at every refresh. The project multisig holds **12.62B WLFI** with no published schedule; between February and April 2026 it released about 5.1B WLFI in five moves, so it is the wallet most able to add supply without warning. About **6.22B WLFI** more sits in old sale wallets that have not signed up for the new schedule; each sign-up releases 20% of that wallet's coins at once.
 
-## How WLFI compares to other governance tokens with locked insider supply
+Two smaller items round out the list. The operations wallet holds **7.42B WLFI** but is already part of the float, so its exchange sales show up in market selling, not in new supply. The coins of one large early investor have been frozen since September 2025, and he is suing over them in a US court; nothing was released in the window. If the multisig's or the unlock contract's balance falls between refreshes, the outflow enters the Foundation row at the next refresh.
 
-WLFI belongs to the class of fixed-supply governance tokens with no emission, where the supply question is only about when locked coins reach the market. Many tokens in that class, from large Layer-2 governance tokens to DeFi protocol tokens, release insider and investor coins in monthly cliffs, so a steady slice of new supply lands every month. WLFI is different in shape: after its 2026 vote, almost every locked coin sits behind a single cliff on **May 6 2028**, followed by a 2-year release for early buyers and a 3-year release for insiders. Until then, the monthly flow is close to zero.
+## How WLFI compares to other governance tokens with big locked allocations
 
-Against buyback-and-burn tokens, the contrast is execution. Tokens whose protocol fees buy and burn every day show a live buy row in every window. WLFI has the same kind of rule on paper, voted in September 2025, but no buyback burn in this window on any of its three chains. WLFI also carries a feature most governance tokens do not: the team can freeze wallets, and it has done so, which keeps about **2.9B WLFI** out of use today.
+Most large governance tokens with insider allocations unlock on a monthly calendar. Arbitrum's team and investor tokens, for example, have been released in equal monthly steps since the first cliff passed, so its float grows by a set amount every month. WLFI is built the other way: one long cliff that lasts until about May 2028, then linear vesting over 2 to 3 years. Until that cliff, WLFI's new supply is close to zero; after it, the flow will be among the largest in its group, because the locked pile is bigger than the float.
+
+Compared with a fully vested governance token such as Uniswap's UNI, where nothing is locked and only the DAO treasury can add supply, WLFI carries a far larger insider share. And compared with tokens that run a real fee-funded buyback, such as Hyperliquid's HYPE, WLFI's buyback burn exists on paper but ran no burns in this window, so it is not taking coins off the market today. WLFI also has no staking emission: unlike proof-of-stake chains that pay stakers in new coins, WLFI pays its stakers in USD1.
 
 ## What to watch in the next 90 days
 
-First, the staking program, set to start by **Oct 1 2026**: the reward pool is funded from ecosystem sources that may include the treasury, and its address and bi-weekly top-ups will show whether new WLFI rewards come from the multisig, which would count as new supply. Second, the treasury multisig itself, **12.62B WLFI**, silent since **Apr 7 2026**. Third, whether the voted buyback and burn restarts; any burn would open a real buy row. Fourth, the pace of early-buyer signings, which sets the 20% claims now running at about **4.12M WLFI** per 90 days. Fifth, the lawsuit over the frozen wallets, where a court order to unfreeze would bring some of those coins back into use.
+**The project multisig**: any move out of its 12.62B WLFI would be new supply for the float, and it moved about 5.1B between February and April 2026 with no advance notice.
+
+**Late sign-ups**: claims run at about 49,000 WLFI a day; a rush of old sale wallets signing up could push that higher, with up to 20% of 6.22B available at once.
+
+**Staking from Oct 1 2026**: rewards are paid in USD1 from a pool topped up every two weeks, so the program adds no WLFI unless the reward currency changes.
+
+**Buyback burns**: a restart of the pool-fee buyback would show up as burns on any of the three chains and would book on the buy side.
+
+**The frozen-wallet lawsuit**: a court ruling that unfreezes the early investor's coins could bring them into play.
 
 ## Summary
 
-The MrNasdog Pressure Framework reads WLFI at **+0.01% net** over the last 90 days and **+0.01%** over the next 90: **4.12M WLFI** of early-buyer claims against a circulating supply of **31.78B WLFI**, with no minting and no buyback burn. The structural mechanism is a 2-year cliff that holds the early-buyer and insider coins, **46.11B WLFI** in the unlock contract, until **May 6 2028**. The key risk is discretionary: the **12.62B WLFI** treasury multisig can pay out at any time, as it did with **5.12B WLFI** in early 2026. WLFI supply cannot grow beyond its **96.72B WLFI** on-chain total without a contract upgrade; what matters is how much of that locked pile the team lets out, and when.
+The MrNasdog Pressure Framework reads WLFI at **+0.01% net** over the last 90 days and **+0.01%** for the next 90, in line with the inflation monitor. World Liberty Financial mints no new WLFI, and the only coins reaching the market are **4.38M WLFI** of late claims from the original sale. The key risk is the size of what is locked: **46.11B WLFI** in the unlock contract plus **12.62B** in the project multisig, together nearly twice the float. The cliff holds the unlock contract shut until about May 2028; the multisig has no schedule at all.
 
 ---
 
-*MrNasdog Pressure Framework analysis of WLFI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Sep 29 2026.*
+*MrNasdog Pressure Framework analysis of WLFI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 3 2026.*
