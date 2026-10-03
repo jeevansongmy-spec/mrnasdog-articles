@@ -1,67 +1,63 @@
 ---
-title:         "WLD Inflation Analysis · September 2026 · Supply growing · projected to keep growing"
-description:   "WLD supply is growing: team and investor unlocks plus grants put 146.7M WLD on the market in 90 days, +3.82%, with +3.25% next. No mint before 2038, no burn."
+title:         "WLD Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
+description:   "WLD supply is growing with no minting: team unlocks, Foundation payouts and grants put 154.4M WLD on the market in 90 days, +4.07%, with +3.36% next. No burn."
 canonical_url: "https://mrnasdog.com/research/wld/inflation"
 tags:                    ["crypto", "wld", "worldcoin", "tokenomics"]
 published:     true
 ---
 
-Originally published at [WLD Inflation Analysis · September 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/wld/inflation).
+Originally published at [WLD Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/wld/inflation).
 
-# WLD Inflation Analysis · September 2026 · Supply growing · projected to keep growing
+# WLD Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
-**WLD supply is growing, and it will keep growing.** No new WLD can be minted before Jul 24 2038 — all 10B were created at launch in 2023 — but locked tokens keep reaching the market. In the 90 days to Sep 29 2026, **146.7M WLD** came onto the market against a buy side of **zero**, a net **+3.82%** of the 3.84B circulating. The next 90 days project **+3.25%**, because the team and investor unlock rate fell to **1.3M WLD a day** on Jul 24 2026. The monitor reads **+6.29%**; the gap comes from its supply figure counting locked sale tokens.
+WLD supply is growing, and none of it comes from minting. Over the 90 days to Oct 3 2026, World put **154.4M WLD** on the market: **128.2M WLD** from the scheduled unlock of team and investor tokens, **15.7M WLD** of Foundation payouts and **10.5M WLD** of grants to verified people. Nothing was bought back or burned, so circulating supply rose **+4.07%**, and the next 90 days project **+3.36%**. The WLD token contract cannot mint a single new coin before **Jul 24 2038**; until then every new WLD in the market is an old WLD being let out of a lock or a Foundation wallet.
 
 ## The verdict, in one paragraph
 
-Over the last 90 days the MrNasdog Pressure Framework measures WLD at **+3.82%** net new supply, and projects **+3.25%** for the next 90 days. The monitor reads **+6.29%** for the same stretch, a gap of **2.47 percentage points**, so the ⚠ monitor-gap note shows on the coin page. We walked the gap: the monitor's supply figure added Foundation sale tokens that sit under one-year locks and later took them back out, and added 41.8M WLD on Sep 21 2026 and 65.6M on Sep 27 2026 that match no release we could find on-chain. Our number stays. The cite-able label: **WLD is an unlock-driven token with a fixed 10B supply, no burn and no buyback — every WLD that reaches the market adds to the float.**
+The MrNasdog Pressure Framework reads WLD at **+4.07%** net new supply over the last 90 days and **+3.36%** over the next 90, on a base of **3.80B WLD** circulating out of a fixed **10B**. The supply monitor reads **+12.50%** for the same stretch, a gap of **8.43 percentage points**, which is far above the 0.5-point line, so the coin page carries a ⚠ monitor gap note. The monitor's latest reading used a supply 162M WLD higher than the figure counted on Oct 3 2026, and its day-by-day series added and then removed Foundation sale coins that sit under one-year locks. Our reading comes from wallet balances read at both ends of the window. WLD is an unlock-driven token with a slowing schedule: inflationary by release, not by minting.
 
 ## Sell pressure: where new WLD comes from
 
-**Protocol inflation is zero.** The WLD token contract on Ethereum made its one and only mint at launch. Its code blocks any further minting until **Jul 24 2038**, and even then caps it at about 1.5% a year, and only if a minter is set — today none is. Nothing was minted in this window, and nothing can be minted in the next one.
+Protocol inflation is **0**. The WLD contract on Ethereum holds its mint unlock date in code that cannot be changed, Jul 24 2038, no address has the minter role, and a test mint call fails. Total supply read exactly 10B WLD at both ends of the window. After 2038 governance could switch on up to about 1.5% a year, but that is twelve years away.
 
-**Vesting unlocks are the biggest row: 130.8M WLD in 90 days.** Tools for Humanity, the company that built World, and its early investors hold a quarter of all WLD. Those tokens unlock a little every day. Until Jul 24 2026 the pace was 1.9M WLD a day; on that date an older, faster schedule for about a fifth of these tokens ended, and the pace fell to **1.3M WLD a day**. That gives 43.7M before the cut and 87.1M after it, and about **117M WLD** in the next 90 days. The last team and investor tokens unlock in July 2028; about 863M are still to come.
+Vesting unlocks are the main source: **128.2M WLD**. The tokens of the Tools for Humanity team and its investors unlock in equal parts each day. World said the pace would fall from 1.9M WLD a day to 1.3M a day on Jul 24 2026, when the shorter part of the schedule ended, and that is what happened. At 1.3M a day the next 90 days add about **117.0M WLD**, and roughly 857M is still to come before the last unlock around Jul 24 2028. These coins sit with custodians, so we follow the published schedule rather than a wallet read.
 
-**Foundation and unscheduled unlocks added 4.46M WLD.** The World Foundation controls the community share — 75% of all WLD. It unlocks into Foundation wallets, not onto the market, and only counts as supply when the Foundation spends it. This window the Foundation delivered about 368M WLD to funds and trading firms that bought it, but every one of those sales carries a one-year lock, so none of it can be sold before July 2027. The only Foundation payment that reached the market unlocked was **4.46M WLD** from an operating wallet on Aug 10 2026. It has no schedule, so the next 90 days book zero here.
+Foundation and unscheduled payouts added **15.7M WLD**. The World Foundation moved 10.0M WLD to a custody wallet on Sep 11 2026, an operating wallet paid out 4.46M (most of it on Aug 10 2026), and an old migration wallet released 1.22M on Sep 25 2026. These moves follow no schedule, so the next 90 days book 0 for this row.
 
-**Long-term locks released nothing new.** WLD has no bankruptcy estate. About 92M WLD sold in March 2026 were locked for six months and could move from about Sep 20 2026, but those tokens were already counted as circulating the day they were delivered, so their release adds nothing to the float.
+Long-term locks added **0**. Part of the Foundation's March 2026 token sale carried a six-month lock that ended around Sep 20 2026, but those coins were already counted as circulating when they were delivered, so their release changes nothing.
 
-**Grants to verified humans added 11.4M WLD.** People who prove they are human with World ID can claim small WLD grants, paid from Foundation wallets on World Chain. The pace fell sharply this summer — about 0.25M WLD a day before Jul 24 2026 and about 0.09M a day since — as World shifts from token rewards to paid services. At today's pace, grants add about **7.8M WLD** in the next 90 days.
+Grants to verified people added **10.5M WLD**. Anyone who proves they are human can claim free WLD in World App, and the Foundation pays partners and users from the same wallets. Those wallets paid out 10.48M WLD in the window, about 116,000 a day, with no top-ups, and the next 90 days assume the same pace.
 
 ## Buy pressure: where new WLD goes
 
-**Programmatic buyback: zero.** No contract and no treasury buys WLD back. The money the Foundation raises from token sales pays for research, Orb devices and running the network.
+There is no buy pressure. WLD has **no programmatic buyback**: the Foundation sells WLD to fund itself and does not buy it back. There is **no fee burn**: the token has no burn function, and the only coins sent to a dead address in the window were about 192 WLD from users. World has written that future World ID fees could burn a share, but that plan is not live. No Foundation or team wallet bought WLD.
 
-**Protocol fee burn: zero.** The WLD token has no burn function at all. World has described fees that apps would pay for World ID checks, and says a share of such a fee could be burned one day, but no WLD fee or burn is live today.
-
-**Foundation buy: zero.** The Foundation sells WLD; it did not buy any this window.
-
-**New long-term lock: zero.** The one-year locks on the Foundation's sales hold tokens that came straight out of Foundation wallets, which were never counted as circulating — so the locks take nothing off the market. WLD that holders put in the World App savings vault stays counted as circulating. The whole buy side is **0 WLD**, which is why every unlock shows up in full in the net number.
+New long-term locks are **0** in the ledger even though **361.7M WLD** went into one-year locks. The Foundation sold **194.4M WLD** on Jul 24 2026 and **167.3M WLD** between Sep 7 and Oct 2 2026, every coin locked for twelve months. Those coins came from the Foundation's own wallets, which are already outside the market, so locking them removes nothing from the float. What they do create is a future wave: they become free from Jul 24 2027 onward.
 
 ## Foundation and overhang
 
-The World Foundation's main wallet holds about **1.19B WLD** and is also the owner of the WLD token contract. Three community unlock contracts hold another **3.5B WLD** and feed that wallet about 1.6M WLD a day until July 2029, with the later tranches starting in July 2029 and July 2032. A settlement wallet the Foundation uses for its sales holds about 110M WLD, a custody wallet funded only by the Foundation holds about 164M, and Foundation wallets on World Chain hold roughly 95M more for grants and operations. On top of that, about 368M WLD sold this window sit with buyers under one-year locks, due to open from Jul 24 2027. None of this is on the market today, and none of it has a public release schedule — the Foundation decides when to spend it. We read these wallets on-chain at every rebuild: if any of their balances falls between refreshes, the outflow enters Foundation and unscheduled unlocks at the next refresh.
+The World Foundation controls most of the WLD that is not yet in the market. Its main cold wallet holds about **1.19B WLD** across Ethereum, World Chain and Optimism. The community unlock contracts hold **3.50B WLD**; since Jul 24 2026 about 1.6M WLD a day of that becomes the Foundation's to use, and the last contract runs to 2038. Two newer Foundation wallets hold about 107M WLD, and grant and payout wallets on World Chain and Optimism hold about 146M. On top sit the 361.7M WLD sold under one-year locks and about 857M of team and investor tokens still to unlock.
+
+A custody wallet the Foundation funded holds 163.7M WLD, but it already counts as circulating, so any sale from it adds nothing new. We read every one of these wallets on chain at each rebuild. If any of these Foundation balances falls between rebuilds, the coins that leave enter Sell #3 at the next rebuild.
 
 ## How WLD compares to other unlock-driven tokens
 
-WLD belongs to the class of tokens with a fixed supply that was created in full at launch and then released slowly from locks — the same shape as many venture-backed tokens on Ethereum and other smart-contract chains. For these tokens, the question is never how many new coins a network prints; it is how fast locked coins reach the market. WLD's answer is fast: about **1.4M WLD a day** today, or roughly 3.2% of the float every 90 days.
+WLD sits with the tokens whose supply grows by release rather than by minting. Like most venture-backed tokens, it minted its full 10B supply at launch in July 2023 and lets it out over years: team and investor coins on a fixed day-by-day schedule, community coins through a Foundation that decides when to spend them. That is the opposite of an uncapped proof-of-stake chain such as Ethereum or Solana, where new coins are printed every epoch for validators and a fee burn may offset part of it. On WLD there is no burn at all, so nothing offsets the unlocks.
 
-That sets WLD apart from proof-of-stake chains such as Ethereum or Solana, which mint new coins for validators but often burn part of every fee. WLD has neither side: no issuance, but also no fee burn and no buyback. It also differs from exchange tokens that buy back and burn coins from their profits every quarter — WLD has no such buyer.
-
-The biggest difference is the size of the reserve behind the float. Only **38%** of all WLD is circulating today. Most of the rest sits with the Foundation, which sells in large blocks — about 239M WLD in March 2026 and about 368M delivered between July and September 2026 — and sets its own pace. For comparison, a halving coin like Bitcoin has no such reserve at all: its future supply is fixed in code and fully public.
+Among unlock-driven tokens WLD has two unusual features. The first is that about 75% of all WLD is meant for ordinary people who prove they are human, paid as grants, so part of its new supply goes to users rather than insiders, though at about 116,000 WLD a day that stream is now small. The second is how much the Foundation sells: three sales in 2026 moved about 600M WLD to funds and companies, most of it under locks. A token with a buyback, such as an exchange token, shrinks its float on purpose; WLD's float only grows, and the main question is how fast.
 
 ## What to watch in the next 90 days
 
-**More Foundation sales.** On Sep 29 2026 the Foundation said it had finished a further $49 million of private WLD sales over the past month, with the last deliveries this week, all under one-year locks. Any sale without a lock would count as new supply at once.
+**Daily unlocks:** team and investor tokens keep unlocking at about 1.3M WLD a day through Jan 1 2027, about 117.0M in total; any change to that schedule would move the forecast.
 
-**The unlock pace.** Team and investor unlocks should stay at 1.3M WLD a day until July 2028; any change to that schedule moves the forward number directly.
+**Foundation sales:** the Foundation sold locked WLD in March, July and September 2026. A new sale without a lock, or a sale from the custody wallet, would add straight to supply.
 
-**Grant size.** Grants to verified humans shrank after Jul 24 2026. If World cuts them further, or restarts bigger token rewards, the grants row moves with it.
+**Community unlock releases:** about 114M WLD has unlocked in the year-four community contract since Jul 24 2026 and has not yet been moved to the Foundation. Where those coins go once they are moved is the largest swing factor.
 
-**World ID fees.** World has described app fees for World ID checks, with a possible burn of part of the fee. A live burn would be the first buy-side mechanism WLD has ever had.
+**World ID fees:** World has described fees from apps that use World ID, with a possible burn share. If that goes live, WLD would get its first buy-side row.
 
 ## Summary
 
-WLD has a fixed 10B supply and no minting before 2038, yet its circulating supply grew **+3.82%** in the 90 days to Sep 29 2026 and is projected to grow **+3.25%** in the next 90, because team and investor unlocks add 1.3M WLD a day and nothing — no burn, no buyback — takes coins back. The key risk is the Foundation's reserve of about 4.7B WLD in its own wallets and unlock contracts, which it releases through large sales on its own timing. The ceiling is hard — 10B WLD — but only 38% of it circulates today, so the path to that ceiling is long.
+WLD supply grew **+4.07%** in the 90 days to Oct 3 2026 and is projected to grow **+3.36%** in the next 90, with no minting possible before 2038. The growth comes from team and investor unlocks (**128.2M WLD**, now 1.3M a day), Foundation payouts (15.7M) and grants to verified people (10.5M), and nothing is bought back or burned. The key risk is the Foundation: it holds billions of WLD outside the market and has 361.7M WLD of locked sales due to free up from Jul 24 2027. The ceiling is the fixed 10B supply, of which **3.80B** circulates today.
 
-*MrNasdog Pressure Framework analysis of WLD, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Sep 29 2026.*
+*MrNasdog Pressure Framework analysis of WLD, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 3 2026.*
