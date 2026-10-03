@@ -1,55 +1,63 @@
 ---
-title: "ICP Inflation Analysis · September 2026 · Mixed flows · supply roughly steady"
-description: "ICP supply is roughly steady but rising: 2.80M ICP minted for node providers and voting rewards against a 128.8K cycles burn gives +0.48% net in 90 days."
+title: "ICP Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
+description: "ICP is mildly inflationary: 2.85M new ICP for node operators and voting rewards against a 129K computing burn gives +0.49% net in 90 days, +0.48% next."
 canonical_url: "https://mrnasdog.com/research/icp/inflation"
 tags: ["crypto", "icp", "internet-computer", "staking"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/research/icp/inflation](https://mrnasdog.com/research/icp/inflation)** by MrNasdog.
+# ICP Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
-The MrNasdog Pressure Framework reads ICP at **+0.48% net** over the last 90 days and **+0.45%** over the next 90: the Internet Computer minted **2.80M ICP** between Jul 1 and Sep 29 2026 and burned **128.8K ICP**, so supply grew by about **2.68M ICP**. The new ICP comes from two protocol payments — **1.74M ICP** to node providers and **1.07M ICP** of voting rewards that neuron holders cashed out — while the only thing that removes ICP is the burn of ICP into cycles, the fuel apps pay for computing. Nothing vests, there is no buyback, and ICP has no supply cap; the burn covers under 5% of what is minted.
+*Originally published at [mrnasdog.com/research/icp/inflation](https://mrnasdog.com/research/icp/inflation).*
+
+**ICP** supply is growing slowly: the **Internet Computer** created **2.85M ICP** in the 90 days to Oct 3 2026 and burned **129,302 ICP**, so supply rose about **0.49%**, with about **0.48%** projected for the next 90 days. The new ICP comes from two protocol mints — monthly payments to node operators and voting rewards that neuron holders cash out — while the only thing removing ICP is the burn apps pay to run on the network. ICP has no supply cap.
 
 ## The verdict, in one paragraph
 
-ICP supply grew **+0.48%** in the trailing 90 days (2,804,970 ICP minted, 128,812 ICP burned, against **556.92M ICP** circulating), and the framework projects **+0.45%** for the next 90 days. The monitor reads **+0.34%** for the same window, a gap of **0.14 percentage points** — inside the 0.5-point tolerance, so no monitor-gap warning is shown. Both sides sit under +0.5%, which puts ICP in the mixed band: supply roughly steady, but only because the network is large, not because the burn keeps up. The cite-able label is **mildly inflationary, subsidy-driven, with a small usage burn**.
+Over the last 90 days the MrNasdog Pressure Framework measures ICP net supply at **+0.49%** (**2,845,178 ICP** created against **129,302 ICP** burned, on a circulating base of **557.03M ICP**). The independent inflation monitor reads **+0.76%** for nearly the same window, a gap of **0.27 percentage points** — inside the 0.5-point tolerance, so no warning chip is shown. The next 90 days project to **+0.48%**. ICP is a **mildly inflationary network whose computing burn is growing but still small**: every ICP burned is matched by about 22 newly created.
 
 ## Sell pressure: where new ICP comes from
 
-Protocol inflation from voting rewards added **1,069,447 ICP** in the window. ICP holders who lock coins in NNS neurons and vote earn rewards as maturity, and maturity turns into new ICP only when a holder cashes it out. The reward pool has sat near 54,000 ICP a day since the Mission 70 cut took effect in late April 2026, and it paid out about 41,000 ICP a day this window; most of that stays as maturity or is staked back into neurons, and only the cashed-out part enters the market. The ledger count of every mint in the window matches the change in supply to the last unit once burns are added back, and the governance canister's own reward records agree with the split within about 4%.
+**Node provider rewards** were the largest source: **1.74M ICP** in three monthly payments of 668,529, 541,884 and 525,110 ICP on Jul 15, Aug 14 and Sep 13 2026. The Internet Computer sets these payments in XDR, the IMF basket, and converts them to ICP at a 30-day average price, with a floor of 2 XDR per ICP that governance set on Jul 6 2026. All three payments in the window were paid at that floor. The payments shrank for two reasons: the network cut its live nodes from 821 to 618 under a revised subnet plan adopted on Jul 31 2026, and governance halved pay for 17 node operators who failed two emergency-response drills, for three months.
 
-Node provider rewards added **1,735,523 ICP** in three monthly payments: 668,529 ICP on Jul 15, 541,884 ICP on Aug 14 and 525,110 ICP on Sep 13 2026. The network owes node providers an amount set in XDR and pays it in freshly minted ICP. Two governance decisions changed that bill inside the window: on Jul 6 2026 the NNS set a floor that counts ICP at no less than 2 XDR when paying, and on Jul 31 2026 it adopted a smaller target network of 612 nodes, down from 764. The monthly bill fell by about a fifth after that, so the framework books the next three payments — due around Oct 14, Nov 13 and Dec 14 2026 — at the latest size, **about 1.58M ICP** in total.
+For the next 90 days we project **1.68M ICP** of node rewards across payments due around Oct 14, Nov 13 and Dec 14 2026. The October payment still carries the drill penalty; from November the halved operators are due back at full pay. Against that, ICP now trades above the floor — the 30-day average is about 2.12 XDR — so each payment needs fewer ICP: about **497K ICP** in October and **591K ICP** in each of November and December.
 
-Vesting unlocks are **0**: every sale round finished vesting by Jun 11 2025. Foundation and unscheduled unlocks are **0**, and long-term locked or bankruptcy supply is **0** — there is no estate or trustee, and ICP locked in neurons already counts as circulating, so a neuron that dissolves adds nothing new to the float.
+**Protocol inflation** from voting rewards added **1.11M ICP**. Neurons earn rewards as maturity, and maturity becomes new ICP only when its owner cashes it out, so this row counts what was actually minted: 1,109,655 ICP. The voting reward pool was cut by about a third in April 2026 under the Mission 70 plan and has stayed near 53,800 ICP a day since, so we carry the same 1.11M ICP forward.
+
+**Vesting unlocks** are zero: the seed and strategic sale rounds finished unlocking by June 2025. **Foundation and unscheduled unlocks** are zero because every Foundation, seed and early contributor neuron is already counted as circulating, so selling them moves coins inside the market rather than adding new ones. **Long-term locked or bankruptcy** is zero: no estate or trustee is paying out ICP.
 
 ## Buy pressure: where new ICP goes
 
-The protocol fee burn removed **128,812 ICP** in 90 days, about 1,431 ICP a day. Almost all of it — 128,673 ICP — was ICP converted into cycles, the unit every Internet Computer app burns to pay for compute and storage; the other 139 ICP were ledger transfer fees, which are destroyed rather than paid to anyone. The burn grew through the window, from about 29,000 ICP in July to about 54,000 ICP in September, as more apps and the new cloud engines drew on the network. No pricing change is scheduled, so the framework holds the trailing rate for the next 90 days.
+The **protocol burn** is the only buy-side force: **129,302 ICP** in 90 days. Apps on the Internet Computer pay for computing and storage in cycles, and cycles are made by burning ICP — 129,162 ICP went that way, plus 141 ICP of transfer fees. The burn rose every month, from about 26.7K ICP in July to 45.5K in August and 55.6K in September, as use of the network grew. No rule change drove the rise, so the projection keeps the 90-day figure.
 
-Programmatic buyback is **0**: no contract or treasury buys ICP on the market. The plan to spend 20% of cloud-engine revenue on buying and burning ICP destroys coins through the same cycles burn, so it is counted once, inside the burn. Foundation buying is **0**, and new long-term locks are **0** — neuron stakes grew by about 846,000 ICP in the window, but staked ICP still counts as circulating, so a larger stake removes nothing from the float.
+There is **no programmatic buyback** into a wallet. The Mission 70 plan sends 20% of cloud-engine revenue to burn ICP; when that runs, it shows up in the same burn. There is **no Foundation buy** on record this window. **New long-term locks** book zero: about 289.6M ICP sits staked in neurons, but staked ICP still counts as circulating supply.
 
 ## Foundation and overhang
 
-The largest overhang on ICP is not a wallet. It is **about 96.45M ICP** of earned but uncashed voting rewards held as neuron maturity, plus **16.94M ICP** of maturity staked back into neurons. None of it is ICP yet; it becomes new supply only when holders cash it out, which is exactly the flow the voting-reward row measures each window. The maturity balance rose by about 1.79M ICP in these 90 days, so the backlog is still growing faster than it is being drawn down.
+The biggest pile waiting to enter supply is not a wallet — it is **unminted neuron maturity**: about **96.45M ICP** of maturity plus **16.96M ICP** of staked maturity, built up from years of voting rewards. None of it is in today's supply; it becomes new ICP only when owners cash it out, which is exactly the 1.11M ICP measured in the sell row. We read it from the governance system every rebuild.
 
-Three other holdings are tracked, all already inside the circulating count: the genesis bucket of seed and early-contributor neurons (about **20.24M ICP**), the Neurons' Fund (**15.27M ICP** staked plus 5.80M ICP of maturity, which only an NNS vote can commit to new projects), and the DFINITY Foundation's own holdings, which the Foundation does not publish as one figure. Its known governance neuron holds only 10 ICP. If any of these balances falls between refreshes, or if cashed-out maturity jumps well above the trailing rate, the outflow enters the sell side at the next refresh.
+Inside the float, we track the **Neurons' Fund** (15.28M ICP staked), seed neurons (71.54M ICP staked), early-contributor neurons (12.62M ICP) and the **DFINITY Foundation**, which publishes no wallet list; its public voting neuron holds 10 ICP. These are already circulating, so a sale would not raise supply. If the unminted maturity pile falls faster than the cash-out rate between refreshes, the outflow enters the sell side at the next refresh.
 
-## How ICP compares to other uncapped proof-of-stake Layer 1s
+## How ICP compares to other uncapped Layer 1 chains
 
-ICP pays for security the way most uncapped proof-of-stake chains do — with new coins — but it splits the bill in two. Staking-reward chains such as Ethereum and Polkadot mint rewards straight to validators or stakers; ICP mints both a governance reward to neuron holders and a hardware bill to node providers, and the node bill is priced in XDR, so a falling ICP price means more ICP minted for the same machines. The Jul 6 2026 floor of 2 XDR per ICP caps that effect, which is a design choice few other Layer 1s have.
+ICP belongs to the uncapped proof-of-stake Layer 1 group, where staking rewards create new coins every day and a fee or usage burn removes some. Ethereum is the closest match in shape: validators are paid in new ETH and the base fee is burned. Our Ethereum reading shows supply up about 0.21% in 90 days — a lower rate than ICP's 0.49% — but the two work differently. Ethereum's new coins go straight to stakers; ICP's voting rewards wait as maturity until the holder chooses to cash out, which leaves a large unminted pile behind.
 
-On the burn side, ICP's reverse-gas model means apps, not users, burn the coin: developers convert ICP into cycles and the cycles pay for compute. That makes the burn a measure of real usage, similar in spirit to Ethereum's base-fee burn, but at today's size it offsets under 5% of minting, against about 1% on Ethereum in its latest window. Chains with a hard cap and halving, like Bitcoin, have no burn to lean on but a schedule that only shrinks; ICP has no cap, so its supply path depends on NNS votes and on how fast usage grows.
-
-The one structural feature with no close match elsewhere is the maturity backlog. Most staking chains pay rewards as liquid coins at once; ICP lets them pile up as maturity that is not yet supply. That keeps the measured inflation lower today than the reward rate suggests, and it leaves about 96.45M ICP that could become supply faster if holders decide to cash out together.
+ICP is unusual in two ways. First, it pays the companies that run its hardware directly in new coins every month, sized in a fiat basket, so a lower ICP price means more ICP is minted — the 2-XDR floor exists to limit that. Second, its burn is tied to real computing use rather than to transaction fees: apps convert ICP into cycles to run, so burn grows with the amount of software hosted, not with trading activity. Chains with pure fee burns tend to burn more when markets are busy; ICP burns more when its cloud is busy.
 
 ## What to watch in the next 90 days
 
-The next node provider payments are due around **Oct 14 2026**, **Nov 13 2026** and **Dec 14 2026**; each is booked at about 525,110 ICP, and each will be smaller if the 30-day ICP price stays above 2 XDR, because the floor then stops binding. Watch the NNS for any further Mission 70 proposal on voting rewards or node pay — the plan's goal is to cut ICP inflation by at least 70% by the end of 2026, and a new cut would lower the sell side. Watch the cycles burn, which rose each month this window; a burn above about 1,500 ICP a day would lower the forward number. Watch the maturity backlog of about 96.45M ICP: a jump in cash-outs would raise the sell side quickly.
+**Oct 14 2026:** the next node provider payment, about 497K ICP at today's 30-day price, the last month of the drill penalty.
+
+**Nov 13 2026:** the halved operators are due back at full pay, lifting the payment to about 591K ICP unless governance extends the penalty or the network drops more nodes.
+
+**The ICP/XDR rate:** if ICP falls back below 2 XDR, the floor binds again and each payment is capped near 528K ICP for the September bill; a higher price means fewer ICP per payment.
+
+**The monthly burn:** September's 55.6K ICP was the highest of the window. If cloud engines and AI-built apps keep growing, the burn could overtake the 90-day average we project.
 
 ## Summary
 
-ICP is mildly inflationary: the Internet Computer minted 2.80M ICP in the last 90 days — 1.74M ICP for node providers and 1.07M ICP of cashed-out voting rewards — and burned 128.8K ICP for cycles, for a net **+0.48%**, with **+0.45%** projected for the next 90 days. The mechanism is an uncapped subsidy paid in new ICP, trimmed by a usage burn that covers under 5% of it. The key risk is the 96.45M ICP maturity backlog, which can turn into supply whenever holders cash out. ICP has no supply cap; its inflation falls only if the NNS keeps cutting rewards or the cycles burn grows many times larger.
+The MrNasdog Pressure Framework reads ICP as mildly inflationary: **2.85M ICP** created in 90 days against **129,302 ICP** burned, net **+0.49%**, and **+0.48%** projected next. New supply comes from monthly node operator pay and from voting rewards that holders cash out; the only offset is the burn apps pay to run on the Internet Computer. The main risk is the 96.45M ICP of unminted maturity that can be cashed out at any time. ICP has no supply cap, so the long-run balance depends on whether computing demand can grow the burn faster than the protocol mints.
 
 ---
 
-*MrNasdog Pressure Framework analysis of ICP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Sep 29 2026.*
+*MrNasdog Pressure Framework analysis of ICP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 3 2026.*
