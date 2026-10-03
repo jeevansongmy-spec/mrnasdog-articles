@@ -1,6 +1,6 @@
 ---
 title: "MrNasdog Pressure Framework"
-description: "A three-metric system for reading altcoin price pressure — inflation, narrative, and the spiral business model, scored out of 10. Why no stock-market framework works for crypto, and what to use instead."
+description: "The MrNasdog Pressure Framework: how we score every altcoin out of 10 — Supply (5 points) and Demand (5 points), both ranked against every coin we cover."
 canonical_url: "https://mrnasdog.com/research/pressure-framework/full"
 tags: ["crypto", "framework", "tokenomics", "altcoins"]
 published: true
@@ -8,7 +8,9 @@ published: true
 
 > Originally published at **[mrnasdog.com/research/pressure-framework/full](https://mrnasdog.com/research/pressure-framework/full)** by MrNasdog.
 
-*A three-metric system for reading altcoin price pressure.*
+*A crypto-native way to score altcoins: Supply and Demand, 5 points each.*
+
+**New score since Sep 29 2026.** Every coin now gets two scores: Supply (5 points) and Demand (5 points). Narrative is now part of Demand. The spiral business model is now a Hidden Edge write-up, with no points. The scoring standard at the end of this page is the current one.
 
 ### Why I built this framework
 
@@ -32,7 +34,7 @@ So I built one from the ground up, starting from what is actually different abou
 
 This is the heart of it. The framework uses three forces. To understand why it's new, you have to see which of these forces exist in stocks and which don't.
 
-**Force 1 — Inflation pressure. Exists in crypto, barely exists in stocks.**
+#### Force 1 — Inflation pressure. Exists in crypto, barely exists in stocks.
 
 A public company can't issue new shares whenever it likes. Regulators bound it. Insiders must disclose when they sell. The amounts are small relative to the whole. So in stocks, share supply is not a force that dominates the price, and it is not governed by a clean, predictable rule.
 
@@ -40,11 +42,11 @@ Crypto is the reverse on every point. New token supply is written into the proto
 
 This combination — supply that is both dominant and predictable — exists in crypto and essentially nowhere else. It is the single biggest reason a crypto-native framework can work where stock frameworks fail. We already track it: every coin on our overview page has a predicted next-90-day inflation rate.
 
-**Force 2 — Narrative. Exists in both.**
+#### Force 2 — Narrative. Exists in both.
 
 This is the one force crypto shares with stocks. In stocks it's called thematic investing — buying the theme that's about to catch fire. In crypto we call it narrative. Same idea. So this metric is the bridge between the two worlds, and the part of the framework that would feel familiar to a traditional investor.
 
-**Force 3 — The spiral business model. Exists only in crypto.**
+#### Force 3 — The spiral business model. Exists only in crypto.
 
 This is the one that never existed before. No company can turn its own stock into a required key for a money-making activity.
 
@@ -54,9 +56,9 @@ In crypto, a token can be exactly that key. To invest in ICOs in 2017, you had t
 
 ### The three metrics
 
-**Metric 1 — Inflation Pressure (5 points out of 10).**
+#### Metric 1 — Supply (5 points out of 10).
 
-This carries the most weight, for four reasons: it is predictable, it is rule-based, it is trackable, and it is one of the strongest single forces acting on price.
+This is half of the score, for four reasons: it is predictable, it is rule-based, it is trackable, and it is one of the strongest single forces acting on price.
 
 It folds two things into one number. On one side, new tokens are created — through protocol inflation, vesting unlocks, treasury releases. New supply pushes the price down, because buyers have to absorb it. On the other side, supply is removed — through burns and revenue-funded buybacks. That pushes the price up.
 
@@ -64,17 +66,21 @@ The net of these two is the inflation rate. This matters: a coin can mint a larg
 
 The goal is plain. Buy coins where the net supply is shrinking. Avoid coins where new supply is flooding in. A coin with low or negative inflation is structurally durable — there's little new supply to soak up. A coin with high inflation needs constant fresh demand just to hold its price steady.
 
-**Metric 2 — Narrative (3 points out of 10).**
+#### Metric 2 — Demand (5 points out of 10).
 
-A coin's narrative is the story that pulls money toward it. But narratives are not random, and they rarely appear from nowhere. They develop quietly for years and then crystallize when two things meet: the infrastructure is finally ready, and a real-world trigger arrives.
+Supply tells you how many new coins must be sold. Demand tells you how many people want to buy. We look at it in two parts: how much people are talking about the coin right now, and how much buying is likely to come later. Members see both parts on every coin page.
+
+Narrative is where most future demand comes from. A coin's narrative is the story that pulls money toward it. But narratives are not random, and they rarely appear from nowhere. They develop quietly for years and then crystallize when two things meet: the infrastructure is finally ready, and a real-world trigger arrives.
 
 The history is consistent. The smart-contract technology behind the 2017 ICO boom had existed since Ethereum launched in 2015 — the boom came two years later, once enough was built. The DeFi protocols that drove the 2021 boom — Uniswap, Aave, Compound — were built and tested in 2019. DeFi is the clearest example: it created an entirely new product category that didn't exist before, and once that category matured, it pulled in a wave of mass adoption. The infrastructure was laid years before the money arrived.
 
 The goal here is to buy coins sitting inside a theme that is about to reach mass adoption — coins that a large number of people will need or want to buy in the near future. A coin at the center of a rising narrative gets a tailwind. A coin with no narrative faces the market alone.
 
-**Metric 3 — Spiral Business Model (2 points out of 10).**
+#### Metric 3 — Hidden Edge (no points).
 
-This metric asks one question: to make money from this opportunity, must you hold this token as the key?
+Some coins have something extra that Supply and Demand can't catch. We write it up as a short article for those coins only, with no points. Coming soon. The clearest example is the spiral business model.
+
+It asks one question: to make money from this opportunity, must you hold this token as the key?
 
 When the answer is yes, you get a self-reinforcing spiral. The 2019 exchange launches show it cleanly. To join a launch sale, you had to hold the exchange's token. People bought the token to get access. Their buying pushed the price up. A higher price made the launches look more rewarding, which drew more people in, which made them buy more of the token. The loop fed on itself and spiraled upward — partly from the launch profits, partly from the rising token price itself.
 
@@ -100,47 +106,23 @@ These two limits are why this is a framework for the medium-to-long run, measure
 
 Step back and the whole thing is simple. There is one goal — buy low, sell high — and all three metrics are three different ways of finding coins to buy low.
 
-The first metric, inflation pressure, points you toward coins where supply is shrinking, so the price has structural support instead of constant selling. The second metric, narrative, points you toward coins inside a story about to reach mass adoption, so a wave of demand is coming. The third metric, the spiral business model, points you toward coins whose self-reinforcing loop hasn't started yet, so you can be in before it spins up.
+The first metric, inflation pressure, points you toward coins where supply is shrinking, so the price has structural support instead of constant selling. The second metric, demand, points you toward coins people want now, and coins inside a story about to reach mass adoption, so a wave of demand is coming. The third, the hidden edge (like the spiral business model), points you toward coins whose self-reinforcing loop hasn't started yet, so you can be in before it spins up.
 
 Three angles, one act: identifying coins with the structural forces aligned to rise over the long run, while they are still cheap.
 
 One honest note. This framework is the buy side. It tells you what to buy and when the conditions are favorable. It does not yet cover the sell side — exactly when to exit. That selling discipline is its own subject, and it will come in a future version. For now, the framework answers the first half of the investor's job: which coins have the forces aligned to rise, so you can buy them low.
 
----
-
 ### The scoring standard
 
-**Metric 1 — Inflation Pressure (5 points)**, using the predicted next-90-day net rate from the overview page:
+Both scores are a rank. We line up every coin we cover (about 107) from best to worst. First place gets 5 points, last place gets 0, in half-point steps. So a coin's score can also move when other coins change.
 
-| Net supply over next 90 days | Score |
-|---|---|
-| Shrinks more than 1% (strong deflation) | 5 |
-| Shrinks up to 1% (any deflation) | 4 |
-| Flat — no change (zero) | 3 |
-| Grows 0–1% (mild inflation) | 2 |
-| Grows 1–3% (moderate inflation) | 1 |
-| Grows more than 3% (high inflation) | 0 |
+**Metric 1 — Supply (5 points).** We rank coins by how much their supply will grow in the next 90 days, after burns and buybacks. The least new supply ranks first. A coin whose supply shrinks beats a coin whose supply grows.
 
-A coin like Bitcoin today, with roughly 0–1% annual issuance and no burn, sits in the "2" band — shown only to illustrate the bands, not as a judgment on any coin.
+**Metric 2 — Demand (5 points).** Half comes from how much people are talking about the coin right now, compared with the other coins. Half comes from how much buying is likely to come later. Each coin page shows the final score; members see the reasons.
 
-**Metric 2 — Narrative (3 points):**
+**Metric 3 — Hidden Edge (no points).** A written note for some coins only. It never changes the score.
 
-| Position | Score |
-|---|---|
-| Sits at the dead center of a developing narrative — internal crypto progress and an external real-world trigger both pointing the same way | 3 |
-| Strongly related to a developing narrative | 2 |
-| Loosely or tangentially related | 1 |
-| No narrative connection | 0 |
-
-**Metric 3 — Spiral Business Model (2 points):**
-
-| Fit | Score |
-|---|---|
-| Fully fits — you must hold the token as the required key to a money-making activity | 2 |
-| Partially fits — required for some money-making paths but not the main one | 1 |
-| No fit — you can make money without holding the token | 0 |
-
-**Total: 10 points.**
+Total: 10 points (Supply 5 + Demand 5).
 
 A higher total means stronger structural conditions for the price to rise and hold over the long run. It is not a promise. A high score in a bear market still falls; a low score can still pump on pure sentiment. The score is a filter — a way to find coins worth buying low and holding until the structural forces play out.
 
