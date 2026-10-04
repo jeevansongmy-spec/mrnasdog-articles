@@ -1,6 +1,6 @@
 ---
-title: "GT Inflation Analysis · September 2026 · Mixed flows · supply roughly steady"
-description: "GT supply is roughly steady: +0.10% over 90 days. GateChain mints 0.4 GT a block, and the 2.57M GT quarterly burn was refilled from a frozen 12.25M GT reserve."
+title: "GT Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
+description: "GT supply is roughly steady: +0.10% in 90 days. GateChain mints 0.4 GT a block (102,987 GT); Gate's quarterly burn is refilled from a 12.25M GT reserve."
 canonical_url: "https://mrnasdog.com/research/gt/inflation"
 tags: ["crypto", "gt", "gate", "exchange-token"]
 published: true
@@ -8,58 +8,56 @@ published: true
 
 > Originally published at **[mrnasdog.com/research/gt/inflation](https://mrnasdog.com/research/gt/inflation)** by MrNasdog.
 
-# GT Inflation Analysis · September 2026 · Mixed flows · supply roughly steady
+# GT Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
-The MrNasdog Pressure Framework reads GateToken (GT) at **+0.10% net** over the trailing 90 days and about **+0.10%** over the next 90. GateChain block rewards created **102,995 GT**, and Gate's quarterly buyback burned **2,570,063 GT** — but Gate refilled the burn wallet from its frozen reserve with exactly **2,570,063 GT** the same night, so the burn and the refill cancel out on the circulating count. The monitor reads **+0.20%**, well within range.
+**GT is roughly flat on supply.** In the 90 days to Oct 4 2026, GateChain's block reward created **102,987 GT** and no Gate burn landed inside the window, so supply grew **+0.10%** against **106.65M GT** in circulation. The next 90 days read the same **+0.10%**: the expected October burn of about **1.60M GT** should be matched by a refill from Gate's frozen reserve, as it was in July. The monitor reads **+0.11%**, so the two agree.
 
 ## The verdict, in one paragraph
 
-Over the 90 days to Sep 29 2026, GT supply grew by **+0.10%** of its **106.64M GT** circulating supply, and we project about **+0.10%** for the next 90 days. Our independent supply monitor reads **+0.20%** over the same window, a gap of **0.10 percentage points**, which is inside the half-point tolerance, so no warning chip is shown. The headline burn is large, yet the float barely moves, because every coin burned in July was replaced by a coin released from the frozen reserve. GT is best described as **a quiet exchange token whose burns are funded from a reserve outside the float**.
+GateToken (GT) supply rose **+0.10%** over the last 90 days, and our projection for the next 90 days is also **+0.10%**. The independent inflation monitor reads **+0.11%** for the same stretch, a gap of only **0.01 percentage points**, well inside our half-point tolerance, so no warning chip is shown. All of the growth is the GateChain block reward; the famous GT burn did not fire inside this window, because the last one went through on Jul 4 2026, two days before it opened. GT today is **a quiet exchange token with a tiny mint and a burn that Gate tops back up from its own reserve**.
 
 ## Sell pressure: where new GT comes from
 
-**Protocol inflation — 102,995 GT.** GateChain, the layer-1 chain behind GT, creates **0.4 GT** in every block and pays it to the consensus nodes and the people who stake with them. A GateChain block arrives about every 30 seconds, and the chain produced **257,488 blocks** in the window, which works out to about **1,144 GT a day**. The reward per block has been the same since GateChain started, and no change is planned, so the next 90 days should bring about the same 102,995 GT.
+**Protocol inflation: 102,987 GT.** Every GateChain block pays **0.4 brand-new GT** to the validator that produces it and to its committee. Blocks arrive about every 30 seconds, so the 257,467 blocks between Jul 6 and Oct 4 2026 minted 102,987 GT, roughly 1,144 GT a day. We checked this four ways: two explorer reads ten blocks apart moved by exactly 4.00 GT, the chain's 24-hour reward count gives the same figure per day, the chain's lifetime mint matches its total supply to within a fraction of a coin, and the market's circulating figure climbs by about 1,141 GT a day. The reward comes from a 30M GT pool set aside for validators, and about 21.25M GT of it is still unpaid, so this small mint can run for decades.
 
-**Vesting unlocks — zero.** GT has no vesting calendar. There is no team, investor or ecosystem allocation waiting to unlock on a schedule; unlock trackers list nothing for GateToken.
+**Vesting unlocks: 0.** GT has no investor or team vesting left. Some unlock trackers still list a monthly 1.5M GT release from the 2019 plan, but that plan no longer matches the chain: the only locked pile, Gate's frozen reserve, held exactly **12,251,232 GT** at both ends of the window.
 
-**Foundation and unscheduled unlocks — 2,570,063 GT.** This is the row that surprises most readers. On Jul 4 2026, 52 minutes after the quarterly burn, Gate moved **2,570,063 GT** from its frozen reserve into the wallet that pays for burns. The frozen reserve is the only part of GT that is not counted as circulating, so this move put new coins into the float, exactly as large as the burn that had just taken coins out. For the next 90 days we expect the Q3 2026 burn to be refilled the same way and book about **1.65M GT** here; the April 2026 burn was not refilled, so this is a watch item, not a certainty.
+**Foundation and unscheduled unlocks: 0 in the window, about 1.60M GT expected next.** The frozen reserve did not move between Jul 6 and Oct 4 2026. But it does release coins around burns: on Jul 4 2026, 52 minutes after the Q2 2026 burn, it sent **2,570,063 GT** to Gate's burn wallet, the exact amount just burned. Because the reserve sits outside the circulating count and the burn wallet sits inside it, that refill adds coins to the market. We expect the same with the next burn, so about **1.60M GT** is booked for the next 90 days.
 
-**Long-term locked or bankruptcy — zero.** No estate, trustee payout or unwinding lock releases GateToken.
+**Long-term locked or bankruptcy: 0.** No estate, trustee or long lock pays out GT. About 39.9M GT is delegated to GateChain validators, but owners can withdraw it and it already counts as circulating.
 
 ## Buy pressure: where new GT goes
 
-**Programmatic buyback — 2,570,063 GT.** Every quarter Gate spends part of its exchange revenue buying back GT and sends that amount to a burn address that no one can spend from. The Q2 2026 burn went out on Jul 4 2026: **2,570,063 GT**, valued at about **$17.75M**. The burn address now holds **189.95M GT**, about 63% of the original 300M GateToken supply. The burn is set in dollars, so at today's price of about $10.79 the same budget would buy about **1.65M GT** in the Q3 2026 burn expected around October.
+**Programmatic buyback: 0 in the window, about 1.60M GT expected next.** Gate burns GT every quarter by sending it from its burn wallet to a dead address on Ethereum, where it can never move again. The recent burns were **2,163,900 GT** on Jan 8 2026, **2,557,729 GT** on Apr 26 2026 and **2,570,063 GT** on Jul 4 2026, the last one worth about $17.75M. In total **189.95M GT** of the original 300M has been burned. The burn amount is set in dollars from Gate's results, so at today's price of about $11.12 the same $17.75M would buy about **1.60M GT**. That is what we book for the Q3 2026 burn, expected in October.
 
-**Protocol fee burn — rounds to zero.** GateChain destroys the base part of each gas fee, but the chain handles only about 470 transactions a day, so the fee burn comes to about 1 to 2 GT in 90 days. Gate Layer, the newer layer-2 that also uses GT for gas, shows no burn on the supply count.
+**Protocol fee burn: 0.** GateChain destroys the base fee on each transaction, but traffic is light, around 470 transactions a day, so only about 1,648 GT has been burned this way in the chain's whole life, roughly 20 GT per 90 days. On the newer Gate Layer network GT pays for gas, but those fees go to the network and are not burned.
 
-**Foundation buy — zero.** Apart from the quarterly buyback-and-burn, no treasury purchase of GT showed up this window.
-
-**New long-term lock — zero.** About **40.0M GT** is staked with GateChain nodes, but staked GT stays inside the circulating count, so staking takes nothing out of the float.
+**Foundation buy: 0.** Outside the quarterly burn, no announcement or wallet flow shows Gate buying GT to hold. **New long-term lock: 0.** GT staked with validators or in Gate's staking products can be taken back, so it still counts as circulating.
 
 ## Foundation and overhang
 
-The largest overhang is Gate's **frozen reserve of 12.25M GT**, the only GateToken held outside the circulating count. It started this window at 14.82M GT and paid out the 2.57M GT refill; it has no published release rule. It holds enough to refill about five more burns the size of July's. Two more Gate-linked wallets are watched even though they already count as circulating: the burn wallet, which holds **12.62M GT** and ended the window where it started, and a wallet that received **52.40M GT** in January 2026 and has not moved since. Each is read on-chain every day. If any of these balances falls between refreshes, the outflow enters the foundation row at the next refresh.
+Three Gate piles matter for GT supply. The **frozen reserve** holds **12.25M GT** and is the only GT counted outside the market; it fell from 30M in January 2026 (a 15.18M GT release on Jan 20 2026) and by 2.57M on Jul 4 2026. The **burn wallet** holds **12.62M GT** and pays every quarterly burn. A large Gate wallet filled in January 2026 holds **52.40M GT** and has not moved since. The last two already count as circulating, so a move out of them changes nothing in our count; only a release from the frozen reserve adds supply. On top of that, about 21.25M GT of validator rewards is still unpaid and comes out at 0.4 GT per block. We read these balances on-chain at every rebuild. If the frozen reserve's balance falls between refreshes, the outflow enters Sell #3 at the next refresh.
 
 ## How GT compares to other exchange tokens
 
-Exchange tokens usually share one design: the exchange buys its own coin with part of its revenue and destroys it. What sets GT apart is where the burned coins come from. When an exchange buys coins on the market and destroys them, the circulating supply shrinks by the full amount. On GT, the July burn was matched by a release from a reserve that was never counted as circulating, so the float stayed flat. The burn shrinks the total supply of GateToken; it does not shrink the number of coins that can trade.
+GT belongs to the family of exchange tokens: coins issued by a trading platform that shrink their supply with regular burns. BNB runs a quarterly auto-burn tied to its price and block count and also burns part of its gas fees, so its supply falls a little every quarter. OKB made a very large one-time burn and fixed its supply. GT sits in between: a quarterly burn funded from Gate's results, plus a tiny block reward on GateChain that keeps minting new coins.
 
-GT also differs from exchange tokens with no chain of their own. GateChain keeps paying block rewards, so a small, steady mint of about 1,144 GT a day sits under everything else. That mint is only about 0.39% of supply a year, far below the reward rates of most proof-of-stake layer-1 chains, but it means GT's supply only falls when a burn is paid from coins already in the float.
+The difference that matters most is where the burned coins come from. When an exchange buys its token on the market and burns it, the float shrinks. GT's July burn came out of a wallet that was refilled the same day from a frozen reserve that was never counted as circulating, so the market float did not shrink at all. That is why GT reads close to flat even though more than 63% of its original supply has been burned. Once the 12.25M GT reserve runs dry, about five burns of the July size from now, burns would start to shrink the float for real.
 
 ## What to watch in the next 90 days
 
-First, the **Q3 2026 burn**, expected around October 2026 — no date is announced yet. At today's price the same dollar budget as Q2 is about 1.65M GT.
+**The Q3 2026 burn, expected in October 2026.** Gate has not announced the date or size yet; we book about 1.60M GT at today's price.
 
-Second, **whether the frozen reserve refills the burn wallet again**. If it does, the float stays roughly flat, as in July; if it does not, as in April 2026, the burn comes out of the float and next-90-day supply would fall by about 1.45%.
+**Whether the reserve refills the burn wallet again.** In July it did; in April it did not. If the next burn is not refilled, our next-90-day reading drops from **+0.10%** to about **-1.40%**.
 
-Third, the **frozen reserve balance of 12.25M GT**. Any outflow that is not paired with a burn would add straight to circulating supply.
+**Gate's platform reveal at TOKEN2049 Singapore, Oct 7–8 2026.** Any change to how GT is burned, staked or used as gas would show up in the next rebuild.
 
-Fourth, the **GateChain block reward**. It has stayed at 0.4 GT a block; any change would move the one steady source of new GT.
+**The Q4 2026 burn, likely in January 2027.** It probably falls just after this 90-day window, so it is not counted yet.
 
 ## Summary
 
-The MrNasdog Pressure Framework reads GateToken at **+0.10% net** over 90 days and about the same next: mixed flows, supply roughly steady. GateChain minted **102,995 GT** in 90 days, and the **2,570,063 GT** July buyback burn was offset by an equal release from Gate's frozen reserve, which still holds **12.25M GT**. The key risk to this reading runs both ways: a burn that is not refilled would shrink the float by more than 1%, while reserve coins released without a burn would add to it. The reserve is the ceiling on how many more burns can be refilled this way.
+GateToken (GT) supply is roughly steady: **+0.10%** over the last 90 days and about the same for the next 90, against a monitor reading of **+0.11%**. The only new GT is GateChain's 0.4 GT block reward, about **102,987 GT** per quarter. Gate's quarterly burn removes millions of GT on paper, but the latest one was refilled from a 12.25M GT frozen reserve that sits outside the market, so it did not shrink the circulating float. The key risk to this reading is the reserve itself: whether Gate keeps refilling burns from it, and what happens to it once the burns use it up.
 
 ---
 
-*MrNasdog Pressure Framework analysis of GT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Sep 29 2026.*
+*MrNasdog Pressure Framework analysis of GT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 4 2026.*
