@@ -1,61 +1,57 @@
 ---
-title: "AERO Inflation Analysis · September 2026 · Supply growing · projected to keep growing"
-description: "AERO supply is growing: 61.66M new AERO from weekly mints against 29.80M locked, +3.82% in 90 days; the Oct 21 2026 merger lifts the next 90 days to +10.43%."
+title: "AERO Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
+description: "AERO supply is growing: 61.79M AERO of weekly mints against 30.11M newly locked, +3.62% in 90 days; the Oct 22 2026 merger lifts the next 90 to +10.23%."
 canonical_url: "https://mrnasdog.com/research/aero/inflation"
 tags: ["crypto", "aero", "aerodrome", "base"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/research/aero/inflation](https://mrnasdog.com/research/aero/inflation)** by MrNasdog.
+# AERO Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
-# AERO Inflation Analysis · September 2026 · Supply growing · projected to keep growing
+*Originally published at [https://mrnasdog.com/research/aero/inflation](https://mrnasdog.com/research/aero/inflation).*
 
-AERO, the coin of Aerodrome, is inflationary, and the next 90 days add a one-time jump. Aerodrome mints new AERO every week for its liquidity providers, and thirteen weekly mints created **61.66M AERO** over the last 90 days, while ended locks released another **6.16M**. Locking took **29.80M AERO** back out of the market, so the circulating supply grew **+3.82%**, close to the **+3.97%** the monitor reads. The Aerodrome–Velodrome merger on **Oct 21 2026** gives VELO holders 5.5% of the new AERO supply, which lifts the forward reading to **+10.43%**.
+AERO supply is growing, and the next 90 days should grow it faster. In the last 90 days Aerodrome's weekly mints created **61.79M AERO** and lock exits returned **4.49M**, while holders locked **23.88M** and the growth fund locked **6.22M** it had bought: net **+3.62%** of the circulating supply, against **+3.97%** on our monitor. AERO has no supply cap, and the Aero merger on **Oct 22 2026** adds Velodrome holders, so we project **+10.23%** for the next 90 days.
 
 ## The verdict, in one paragraph
 
-For the 90-day window ending **Sep 29 2026**, the Pressure Framework reads **AERO at +3.82% net**: the sell side put **67.82M AERO** into the market and the buy side took **29.80M** out, against a circulating supply of **995.76M**. The monitor, which tracks the circulating supply on its own, has **+3.97%** over its own 90 days, a gap of **0.15 percentage points** — small enough that no warning chip is shown. The next 90 days read **+10.43%**, because the weekly mint keeps running, the new Aero rewards continue at about the same pace, and **59.32M** tradable AERO arrives for VELO holders at the merger. The label that fits: **inflationary by design, with a merger step on top**.
+Over the 90 days to Oct 5 2026, the AERO float grew by **36.17M AERO**, which is **+3.62%** of the **999.99M** AERO that count as circulating. Our inflation monitor reads **+3.97%** for nearly the same window, a gap of **0.36 percentage points** — inside our half-point tolerance, so no warning chip is shown. For the next 90 days we project **+10.23%**: the weekly Aerodrome mints keep running until the Aero launch, the new Aero rewards take over after it, and Velodrome holders receive about **59.50M** free AERO in the merger. AERO is an inflationary exchange token held back mainly by locking, not by burning.
 
 ## Sell pressure: where new AERO comes from
 
-The first and biggest row is protocol inflation: **61.66M AERO** in 90 days. Aerodrome's minter is in its tail phase, where each Thursday it mints **0.21% of total supply** for the liquidity pools, plus a top-up for lockers and a team share of about 220K AERO a week. Because the base keeps growing, every weekly mint is a little larger than the one before — from about **4.68M** in early July to **4.79M** on Sep 24 2026. The thirteen mints add up to exactly the rise in total supply, so nothing else created or destroyed AERO in the window. Forward, four more weekly mints run until the launch of Aero, then the new Aero rewards take over. The plan is to keep the same pace, about 11% a year, on the larger merged supply, and to pay rewards only when liquidity providers claim them. That gives about **61.97M AERO** for the next 90 days.
+**Protocol inflation is the main source: 61.79M AERO in 90 days.** Every Thursday the Aerodrome minter prints **0.21%** of total supply for liquidity providers, plus a team share (about 220,600 AERO a week) and a top-up for lockers (about 486,000 AERO a week). The weekly rate vote did not change the rate once in the window. Thirteen weekly mints added 61,788,266 AERO, and the on-chain total supply rose from 1.931B to 1.993B by exactly that amount. For the next 90 days we expect three more old-style mints (Oct 8, Oct 15 and Oct 22 2026, about 14.72M) and then the new Aero rewards at the Foundation's stated base rate of about 11% a year — together about **61.45M AERO**.
 
-Vesting unlocks are **zero**. AERO never had a vesting calendar: the launch allocations were handed out as locked positions, and a locked position releases only when its lock ends. That release is its own row. Over the window, holders whose locks had ended withdrew **6.16M AERO** from the lock contract, and that is the long-term-lock row. Most of the lock book cannot release at all — **989.19M** of the 1,052.31M AERO recorded in locks is locked permanently — but 2.17M already sits in ended locks and 4.64M more ends before Dec 28 2026, so the trailing **6.16M** is carried forward.
+**Vesting unlocks are zero.** Aerodrome never had a vesting calendar: the team, airdrop and partner coins were handed out as locked AERO positions in 2023, so they come back only when a lock ends. **Foundation and unscheduled unlocks are zero** — no team-controlled pile released coins to the market in the window. No estate or trustee holds AERO, so the only long-term-lock flow is lock exits.
 
-The Foundation-and-unscheduled row is **zero**: no team wallet released coins in size this window. The fifth row is new: **merger issuance to VELO holders**. When Aero launches on Oct 21 2026, every AERO moves across one for one, and the new supply is set so that Aerodrome holders own 94.5% and Velodrome holders 5.5%. That creates about **116.83M** new AERO for VELO holders. About half of VELO is liquid today, so roughly **59.32M AERO** arrives in tradable form; the other half comes from locked VELO and becomes staked AERO, which stays out of the float.
+**Long-term locked: lock exits added 4.49M AERO.** When a lock ends, its owner can withdraw. We counted **1,295 withdrawals** worth 4,492,421 AERO, and the same total shows up in two separate on-chain records. Exits are small because almost every lock is permanent: about **990M** of the **993M** locked AERO never expire unless the owner switches them off.
+
+**The Aero merger adds about 59.50M AERO in the next 90 days.** On Oct 22 2026 Aerodrome and Velodrome become Aero. Old AERO moves 1:1, and the new total is the Aerodrome supply at launch divided by 0.945, so Velodrome holders receive 5.5% — about **116.8M AERO**, or roughly 0.044 per VELO. About half of all VELO is free, so about 59.50M AERO arrive free and count as new supply; the locked half arrives staked and stays out of the float.
 
 ## Buy pressure: where new AERO goes
 
-Aerodrome's buy side is locking. The programmatic buyback is the growth fund's: it buys AERO on the market and locks it permanently. In 90 days its wallet locked **6.22M AERO** in two batches, on Jul 8 and Aug 24 2026 — more than the 4.42M it bought over the same period, so its stock of unlocked AERO fell from 3.13M to 1.33M. Forward, the row holds the buying pace of **4.42M**, since the stock cannot fund a second quarter of that size.
+**Programmatic buyback: 6.22M AERO.** The Aerodrome Foundation's growth fund buys AERO on the market with protocol revenue, collects it in one wallet and then max-locks it. It locked **3.48M** on Jul 8 2026 and **2.75M** on Aug 24 2026, taking 6.22M AERO out of the float. While it waits, bought AERO still counts as circulating, so the lock is the moment that matters. The fund bought about **4.31M** in the window — the public rounds of 343K on Aug 12, 325K on Aug 20 and 171K on Sep 10 2026 among them — and we use that pace for the next 90 days. At Aero the fund becomes the Momentum Fund, which plans to buy back and burn AERO.
 
-There is **no fee burn**. Trading fees go to the people who lock AERO, and the unspendable address received only 0.54 AERO over the whole window while total supply only rose. There was **no Foundation buy** outside the growth fund. The last row, new long-term locks, is the largest buy: **23.57M AERO** net went into locks. About 5.87M of that is the weekly top-up claimed straight into locks, and 4.76M came back from the reward pots of shared lock vaults. The top-up ends with the merger, because Aero drops it, so the forward figure falls to about **19.20M**.
+**Protocol fee burn is zero.** Aerodrome pays trading fees to the lockers who vote; it burns nothing. Total supply never fell in the window, and the dead address gained under one AERO. **Foundation buy is zero** beyond the growth-fund program above.
+
+**New long-term lock: 23.88M AERO.** This is the real brake on AERO supply. The lock contract's balance rose from 967.25M to 992.86M AERO in 90 days; adding back the withdrawals and taking out the growth fund's two locks leaves 23.88M AERO that other holders newly locked, including the lockers' weekly top-ups claimed straight back into their locks. Aero removes that top-up after Oct 22 2026, so we project about **18.80M** of new locking for the next 90 days.
 
 ## Foundation and overhang
 
-Three team-held wallets are tracked, and all three already count as circulating. The largest is a static team multisig with **29.28M AERO**, down only 0.17M in 90 days. The team emissions wallet holds **3.07M**; it receives about 220K of every weekly mint, and its balance rose 2.65M this window. The growth fund's wallet holds **1.33M** bought AERO waiting to be locked. Because these coins are already in the circulating count, spending them moves nothing on this ledger — but a large sale would still reach the market. The shared lock vaults also hold about **59.31M AERO** of reward balances that belong to lockers and count as circulating today. We read these balances at every rebuild; if any of them falls between rebuilds, the outflow is booked as a Foundation release at the next rebuild.
+A team multisig holds **29.28M AERO** (down about 136K in 90 days), the team wallet holds **3.32M**, filled by the weekly team share, and the growth fund's buying wallet holds **1.56M** waiting to be locked. All three are already counted as circulating, so moves out of them add no new supply. The Foundation's growth fund controls an estimated **184M–190M AERO** in max locks, outside the float; it can only return to the market if those locks are switched off and allowed to run down. The relay reward pots, which hold compounded rewards for pooled lock positions, carry at least **54.4M AERO** and are already counted as circulating. Lockers' unclaimed top-ups wait in the distributor (**1.72M**). We read these balances on-chain at every rebuild; if any of them falls between rebuilds, the outflow enters the Foundation and unscheduled unlocks row at the next refresh.
 
-## How AERO compares to other DEX tokens
+## How AERO compares to other exchange tokens
 
-Among exchange tokens, AERO sits at the high-emission end. Most large DEX tokens have a fixed supply or a finished emission schedule and try to pull coins off the market with fee-funded buybacks or burns. Aerodrome goes the other way: it keeps paying liquidity providers in newly minted AERO, and it asks holders to lock their coins in return for all of the trading fees. So the supply keeps growing, and the only brake is how much of it gets locked.
+AERO is a vote-escrow exchange token: new coins are paid to liquidity providers every week, and the protocol relies on holders locking AERO to earn trading fees to keep supply off the market. That makes it the opposite of exchange tokens such as BNB or OKB, which buy back and burn a share of profits with no ongoing mint, and of fixed supply DEX tokens that run fee switches. AERO's gross mint (about 11% a year) is closer to an uncapped Layer 1 than to a capped token, but more than half of all AERO sits in locks, so the free float grows more slowly than total supply.
 
-That brake is strong. About half of all AERO is locked, and 989M of the locked AERO is locked permanently. The growth fund also buys and locks AERO on the market every month. Even so, the brake does not stop growth: this window, locking absorbed about **44%** of what the sell side released. A burn-based exchange token can shrink its supply; AERO can only slow its growth.
-
-The merger adds a rarer kind of dilution. VELO holders are being paid in new AERO, so AERO holders own a slightly smaller share of a larger exchange that now also includes Velodrome and its markets. This is supply growth by acquisition rather than by rewards, and it happens once.
+Against Curve's CRV, the older vote-escrow design, AERO's locks are mostly permanent rather than time-limited, which is why lock exits are only 4.49M in 90 days. Against Uniswap's UNI, which has no weekly mint, AERO's supply is far looser. The Aero upgrade moves AERO towards paying rewards in dollar terms tied to pool revenue, with a 20% yearly ceiling and an expected 8%–12%, so future inflation should follow trading activity more closely than the old flat weekly mint.
 
 ## What to watch in the next 90 days
 
-**Oct 21 2026 — the Aero launch.** The one-for-one move, the 5.5% VELO share and the switch to staked AERO all start here; how fast holders move across decides how fast the 59.32M reaches the market.
-
-**The real reward rate after launch.** Aero mints rewards only when they are claimed, and the plan is 8% to 12% a year under a 20% cap. A pace below the ~11% base would pull the 61.97M forward figure down.
-
-**The shared lock vaults.** Locked positions must leave vaults before they can move to Aero. If the 59.31M of vault reward balances goes back into locks at migration, the float shrinks by that much.
-
-**The buyback fund.** The Aero plan gives the fund a mandate to buy back and burn AERO, not just lock it. A first burn would open a new buy row.
+**Oct 15 2026:** the deadline for xVELO holders to bridge back before the merger. **Oct 22 2026, 00:00 UTC:** Aero goes live on seven chains, the merger supply becomes fixed, and Velodrome holders can claim their 5.5%. **Nov 2 – Nov 4 2026:** a large exchange converts customers' old AERO and VELO into the new AERO, which may be the moment much of the free VELO side actually arrives. **After launch:** the first published Aero reward rate — the 8%–12% estimate against the 20% ceiling — and the first Momentum Fund buyback-and-burn, which would be the first real AERO burn. **Also:** how the circulating count treats staked AERO on the new token; if staked coins start counting as circulating, the float would jump without any new coins.
 
 ## Summary
 
-The MrNasdog Pressure Framework reads AERO at **+3.82% net** over the trailing 90 days and **+10.43%** over the next 90: weekly mints of **61.66M AERO** and **6.16M** of ended locks against **29.80M** locked, including a **6.22M** growth-fund buyback, with no burn. The monitor agrees within 0.15 points. The key risk is the Oct 21 2026 merger, which hands VELO holders 5.5% of the new supply and puts about **59.32M** new tradable AERO in the market. Aerodrome has no supply cap; only locking slows it.
+AERO, the token of Aerodrome on Base, grew its circulating supply by **+3.62%** in the 90 days to Oct 5 2026, close to our monitor's **+3.97%**. Weekly mints of 0.21% of supply are the main source of new AERO, and holders locking AERO are the main brake; there is no fee burn and no supply cap. The next 90 days should be heavier, about **+10.23%**, because the Aero merger on Oct 22 2026 hands Velodrome holders about 59.50M free AERO on top of the ongoing rewards. The key risk is that locking slows while rewards keep flowing; the key ceiling is Aero's 20% yearly reward cap.
 
 ---
 
-*MrNasdog Pressure Framework analysis of AERO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Sep 29 2026.*
+*MrNasdog Pressure Framework analysis of AERO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 5 2026.*
