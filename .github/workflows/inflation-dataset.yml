@@ -1,0 +1,31 @@
+# Daily free dataset — copies mrnasdog.com/data/true-inflation.csv into data/ (added Oct 8 2026).
+# True inflation = new supply minus burns and buybacks, for every free coin MrNasdog researches.
+# Read-only against the site: no secrets, one public GET.
+name: inflation-dataset
+on:
+  schedule:
+    - cron: "10 6 * * *"   # 06:10 UTC = 14:10 Malaysia, after the site's daily deploys
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: inflation-dataset
+  cancel-in-progress: false
+jobs:
+  copy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch the CSV
+        run: |
+          curl -fsSL --retry 3 -A "mrnasdog-dataset-action" https://mrnasdog.com/data/true-inflation.csv -o data/true-inflation.csv.new
+          head -1 data/true-inflation.csv.new | grep -q '^symbol,name,inflation_90d_pct' || { echo "bad header"; exit 1; }
+          [ "$(wc -l < data/true-inflation.csv.new)" -gt 50 ] || { echo "too few rows"; exit 1; }
+          mv data/true-inflation.csv.new data/true-inflation.csv
+      - name: Commit if it changed
+        run: |
+          git config user.name "inflation-dataset"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/true-inflation.csv
+          git diff --cached --quiet || { git commit -m "data: true-inflation.csv $(date -u +%F)"; git push; }
