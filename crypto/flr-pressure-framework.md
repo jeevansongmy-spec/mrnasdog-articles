@@ -1,55 +1,63 @@
 ---
-title: "FLR Inflation Analysis · September 2026 · Supply growing · projected to keep growing"
-description: "FLR supply is growing: 640.5M FLR of staking rewards and 295.7M of vested rFLR against 34.9M burned or parked gives +1.04% in 90 days, about the same next."
+title: "FLR Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
+description: "FLR supply is growing: 635.7M FLR of staking and data rewards and 305.9M of rFLR and escrow unlocks against 26.5M burned or captured gives +1.05% in 90 days."
 canonical_url: "https://mrnasdog.com/research/flr/inflation"
 tags: ["crypto", "flr", "flare", "oracles"]
 published: true
 ---
 
-Originally published at [FLR Inflation Analysis · September 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/flr/inflation).
+Originally published at [FLR Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/flr/inflation).
 
-# FLR Inflation Analysis · September 2026 · Supply growing · projected to keep growing
+# FLR Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
-FLR supply is growing and is projected to keep growing. Over the 90 days to **Sep 29 2026**, Flare paid **640.5M FLR** of new staking and data rewards to holders and released another **295.7M FLR** of vested ecosystem rewards, while fee burns, one holder's monthly burns and the new FIRE buyback fund took out only **34.9M FLR**. Net, supply grew **+1.04%** on an 86.96B FLR float, and the next 90 days project **+1.03%**; the monitor reads **+0.60%**.
+Flare (FLR) supply is growing, and the MrNasdog Pressure Framework expects it to keep growing at about the same pace. Over the 90 days to Oct 7 2026, **941.6M FLR** reached the market from staking and data rewards and from rFLR vesting, while burns and fee capture removed only **26.5M FLR**. That is a net **+1.05%** of the **87.10B FLR** in circulation, with **+1.04%** projected for the next 90 days. The FIP.16 vote cut Flare inflation to 3% a year and made the fee burn real, but burns and fee capture are still about one thirty-fifth of what is paid out.
 
 ## The verdict, in one paragraph
 
-The MrNasdog Pressure Framework reads FLR at **+1.04%** net inflation over the last 90 days and **+1.03%** for the next 90. The monitor, which divides market value by price every day, reads **+0.60%**. The gap is **0.44 percentage points**, inside the 0.5-point tolerance, so no warning chip is shown. The monitor's float count moves less than the chain's own supply contract, and the two agree on the direction. Flare is **inflationary by design on the active float**: new rewards arrive every day, and the burn side is a small fraction of them.
+The framework reads FLR at **+1.05%** net supply growth over 90 days. The inflation monitor reads **+0.39%** for the same stretch, a gap of **−0.66 percentage points**, which is above our 0.5-point line, so the page carries a monitor-gap warning. We walked every source class for it: the supply figure the monitor reads fell by 265M FLR on Jul 31, 244M on Aug 25 and 367M on Sep 2 2026, while Flare's own on-chain count of coins in the market rose on each of those days and rose **915M FLR** across the window. Our number stays. In one line: FLR is a reward-funded chain whose new burns are real but small, so supply still grows about 1% a quarter.
 
 ## Sell pressure: where new FLR comes from
 
-Protocol inflation is the biggest source at **640.5M FLR**. Flare mints new FLR at 3% a year on its spendable supply — the rate the FIP.16 governance vote cut from 5% in April 2026, with a yearly ceiling of 3B FLR. That inflation pays validators, P-chain stakers, delegators to data providers, and the FTSO price-feed and FDC data-connector networks. Validators claimed **209.9M FLR** and delegators and data providers claimed **430.6M FLR** this window. The chain authorized 667.2M FLR of new inflation in the same 90 days, so the claims track the mint closely. Rewards that nobody claims in time are burned inside the reward pools — **66.6M FLR** this window — and because those coins never reached a holder, Flare counts them on neither side of the ledger.
+Protocol inflation is the largest source. Flare mints new FLR every day at 3% a year of the inflatable balance, under the FIP.16 rules in force since May 2026, and pays it to validators, stakers, FTSO data providers and the voters who answer Flare Data Connector requests. In the window **697.8M FLR** was minted; **59.7M** of it was burned at the source as unearned or expired rewards, so about **635.7M FLR** reached holders, close to 7.1M FLR a day. The claims paid out of the reward pools give the same figure to within a few thousand FLR.
 
-Vesting unlocks add **295.7M FLR**. Flare's ecosystem incentives are paid as rFLR, which vests over 12 months inside a personal account; a holder who leaves early gets half of the locked part and the other half is burned. Holders took **306.6M FLR** out of those accounts this window, of which **11.4M FLR** was burned as the early-exit penalty, leaving **295.2M FLR** that reached wallets. The old token-sale escrow is fully vested and released only **0.53M FLR** more.
+Vesting unlocks are the second source, at **305.9M FLR**. Most of it is rFLR: app rewards are paid as rFLR, which vests over 12 months, and holders withdrew **312.8M FLR** this window. Anyone who leaves early loses half of the unvested part, and **11.4M FLR** was burned that way, so **301.5M** reached the market. The old sale escrow paid out another **4.4M FLR**; its claims are rare, so the next 90 days books only the rFLR part, **301.5M FLR**.
 
-Foundation and unscheduled unlocks are **0**: no Foundation-controlled wallet paid coins straight into the market this window. Long-term locked or bankruptcy releases are also **0** — Flare has no estate or trustee, the early-backer distribution finished in the first quarter of 2026, and the FlareDrop airdrop ended on **Jan 30 2026**.
+Foundation and unscheduled unlocks book zero. The reserve that funds rFLR moved 439.0M FLR into the vesting pool, but those coins only count once a holder withdraws them, which the vesting row already does. Team, foundation and backer coins from the original Flare distribution were handed out in earlier years and already count as circulating, so moving or selling them adds nothing new. Long-term locked or bankruptcy supply is also zero: no estate or trustee pays out FLR.
 
 ## Buy pressure: where new FLR goes
 
-The programmatic buyback row is the new FIRE fund, the Flare Income Reinvestment Entity that FIP.16 created to buy FLR and burn it. It has not bought or burned any FLR yet. What it has done is collect fees: from **Aug 18 2026** its data-request fee wallet started filling and now holds **3.1M FLR**, which the chain's supply contract excludes from circulation. Across the Foundation-listed wallets, **3.2M FLR** left the float this window, and at the pace since Aug 18 the fund would collect about **6.7M FLR** in the next 90 days.
+The biggest buyer is a burn, not a buyback. One large staking wallet burns most of the rewards it earns about once a month: **12.0M FLR** on Aug 14 and **5.0M FLR** on Sep 9 2026, for **17.0M** this window and ten burns since Nov 2025. At its last size, three more burns would remove about **15.0M FLR** in the next 90 days.
 
-The protocol fee burn destroys every transaction fee. The Granite hard fork on **Jul 14 2026** raised the minimum base fee twentyfold, from 25 to 500 gwei, but network usage is small, so the burn is too: **6.0M FLR** over the whole window and **5.5M FLR** in the 75 days after the fork, about 74K FLR a day. The next 90 days use that post-fork pace, **6.66M FLR**.
+The protocol fee burn is now real. The Jul 14 2026 hard fork raised the Flare base fee from 25 to 500 gwei, and all gas goes to the burn address. It removed about **6.07M FLR** this window with small app fees, near 71,000 FLR a day since the fork, so the next 90 days project **6.40M FLR**. Data providers' price submissions are refunded and burn almost nothing, which is why the nominal fee total looks larger than what is actually destroyed.
 
-One more buy row sits outside the canonical four. A single large staker's multisig wallet collects its rewards every few days and sends a lump to the burn address about once a month — 13 burns since **Jul 9 2025**. This window it burned **25.7M FLR** (8.7M on Jul 7, 12.0M on Aug 14 and 5.0M on Sep 9 2026), the largest single offset on the page. Foundation buying is **0**, and new long-term locks are **0**: staking grew from about 16B FLR in July to about 21.5B by late August, but staked FLR still counts as circulating.
+The programmatic buyback row holds the new FIRE pool. Since Aug 18 2026 part of Flare's fee revenue collects in a wallet the chain leaves out of circulation: **3.43M FLR** so far, about **6.12M** next 90 days at that pace. FIRE's job under FIP.16 is to buy back and burn FLR, but it has not made an open-market purchase yet. A foundation buy is zero, and a new long-term lock is zero: staked and delegated FLR still counts as circulating and can be withdrawn.
 
 ## Foundation and overhang
 
-The largest overhang is the incentive treasury, which held **17,306M FLR** at the end of the window, down 440.0M as it funded new rFLR grants. Those grants sit first in the RNat reward pool, which holds **763.2M FLR**, and then in personal vesting accounts; the framework counts them only when a holder takes them out, so moving money between these reserves adds nothing. The fully vested sale escrow still holds **204.0M FLR** nobody has claimed, and the seven Foundation-listed wallets hold **3.2M FLR**, almost all of it FIRE fee revenue. Every one of these balances is read from the chain at each rebuild. If any of them falls between refreshes by more than the vesting and reward flows already counted, the extra outflow enters Sell #3 at the next refresh.
+The largest overhang is the incentive reserve that funds rFLR: **17.27B FLR** held outside the market, paying out about 4.9M FLR a day into the vesting pool, which itself holds **783.5M FLR**. Next comes about **218.6M FLR** of rewards waiting to be claimed in the reward pools, the **200.1M FLR** of fully vested but unclaimed sale escrow, and **3.5M FLR** in the foundation-listed wallets, almost all of it the FIRE fee pool. The monthly-burn staking wallet holds 7.6M FLR, already inside the market. We read every one of these balances on-chain at each rebuild. If any of them falls between rebuilds without a matching burn, the outflow enters the foundation and unscheduled unlocks row at the next refresh.
 
-## How FLR compares to other staking-reward Layer 1s
+## How FLR compares to other reward-funded Layer 1s
 
-Flare belongs with the uncapped staking chains that pay security from continuous issuance, but it has two features most of them lack. First, it runs a second supply stream: a large pre-minted incentive treasury that keeps releasing coins through 12-month vesting, adding **295.7M FLR** a quarter on top of the **640.5M FLR** of inflation. A chain whose genesis allocations have finished vesting has only the first stream. Second, Flare's inflation is a percentage of the spendable balance with a yearly ceiling, not a fixed per-block reward, so it scales with the float rather than shrinking on a halving schedule the way a proof-of-work coin does.
+FLR sits in the group of uncapped proof-of-stake chains that pay security and service rewards in new coins. Like Ethereum or Avalanche, Flare has no hard cap and destroys transaction fees, but on Flare the burns cover under 3% of what the chain pays out. Flare also pays for more than block production: the FTSO price feeds and the data connector are rewarded from the same 3% mint, so a share of FLR inflation is the price of its oracle services.
 
-On the burn side, Flare now has both a fee burn and a buyback fund, like chains that pair an EIP-1559-style burn with a treasury buyback. The difference is scale. On a busy smart-contract chain the fee burn can offset a meaningful slice of issuance; on Flare this quarter it offset **less than 1%** of the new supply, and the buyback fund has so far only collected fees. The biggest offset came from one holder's voluntary burns, which no protocol rule guarantees.
+The second difference is rFLR. Most chains finished their app-incentive programs with a one-off airdrop; Flare runs a standing reserve of 17.27B FLR that pays rewards which vest for a year. That keeps a second, steady stream of unlocks on top of inflation, about 300M FLR a quarter, which a chain with only staking issuance does not have.
 
-Flare also burns rewards that go unclaimed and half of every early rFLR exit. Those burns are real, but they destroy coins before any holder could trade them, so they cut future additions rather than taking tradable FLR off the market. That is why FLR's large burn-address growth — 109.8M FLR this window — shrinks to a much smaller offset in this framework.
+The newest piece is FIRE, a revenue pool meant to buy back and burn FLR, in the spirit of exchange tokens and DeFi coins that route fees into buybacks. Today it is tiny next to the mint. If Flare's XRP-DeFi activity and the planned block-building revenue grow, FIRE is the mechanism that could change the verdict.
 
 ## What to watch in the next 90 days
 
-Watch whether the FIRE fund makes its first open-market purchase and burn; until it does, its fee wallet is a parked balance, not a buyback. Watch the monthly inflation slots through **Dec 28 2026** — the current slot recognizes about 218.6M FLR per 30 days. Watch the rFLR withdrawal pace and early-exit burns, since that stream is the second-largest source of new supply. Watch the large staker's monthly burn: if it stops, the forward buy side loses about two-thirds of its size. And watch transaction volume after the fee rise, because the fee burn only grows if usage does.
+**The monthly reward burn:** the staking wallet has burned ten times in the last eleven months, skipping only May; another skipped month or a much bigger burn moves the buy side by several million FLR.
+
+**FIRE's first buyback:** the pool held 3.43M FLR on Oct 7 2026; an open-market purchase and burn would be the first real buyback on Flare.
+
+**The rFLR pace:** withdrawals ran faster in the last 30 days (about 127.5M FLR) than the 90-day average; if that holds, the vesting row rises toward 380M FLR a quarter.
+
+**Fee burn after the fork:** busier blocks from FXRP vaults and the new DeFi cover products raise the burn; quiet weeks pull it lower.
+
+**Governance:** any new FIP that changes the 3% rate, the fee level or FIRE's mandate; none was open on Oct 8 2026.
 
 ## Summary
 
-FLR supply grew **+1.04%** in the 90 days to Sep 29 2026 and is projected at **+1.03%** for the next 90, against a monitor reading of **+0.60%**. Staking and data rewards (**640.5M FLR**) and vested ecosystem rewards (**295.7M FLR**) far outweigh fee burns, one holder's monthly burns and the new buyback fund combined (**34.9M FLR**). The key risk is that the 17.3B FLR incentive treasury keeps feeding vesting releases while usage-driven burns stay small. Flare's 3% rate and 3B FLR yearly ceiling limit the pace of new supply, but there is no fixed lifetime cap.
+Flare (FLR) supply grows about **1.05%** every 90 days: 635.7M FLR of staking and data rewards plus 305.9M FLR of rFLR and escrow unlocks, against 26.5M FLR burned or captured. The FIP.16 overhaul cut inflation to 3% and made the fee burn real, yet the burn and the new FIRE pool are still small next to the mint. The key risk is the 17.27B FLR incentive reserve, which keeps feeding rFLR unlocks for years. There is no supply cap; only a much larger FIRE buyback or burn could turn FLR flat.
 
-*MrNasdog Pressure Framework analysis of FLR, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Sep 29 2026.*
+*MrNasdog Pressure Framework analysis of FLR, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 8 2026.*
