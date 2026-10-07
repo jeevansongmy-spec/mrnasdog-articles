@@ -1,12 +1,12 @@
 {
  "summary": {
-  "checked_at": "2026-10-06T12:12:07.587998+00:00",
-  "pages": 127,
-  "ok": 127,
+  "checked_at": "2026-10-07T11:58:31.481769+00:00",
+  "pages": 128,
+  "ok": 128,
   "gaps": 0,
   "by_kind": {
    "coin": {
-    "pages": 108,
+    "pages": 109,
     "gaps": 0
    },
    "methodology": {
@@ -41,7 +41,6 @@
    "crypto/lab-pressure-framework.md",
    "crypto/ohm-pressure-framework.md",
    "crypto/orca-pressure-framework.md",
-   "crypto/pump-pressure-framework.md",
    "crypto/rain-pressure-framework.md",
    "crypto/tel-pressure-framework.md",
    "crypto/wbt-pressure-framework.md",
@@ -1691,6 +1690,24 @@
    "devto": "off (account suspended)",
    "telegram": "current",
    "telegram_id": 210
+  },
+  {
+   "kind": "coin",
+   "slug": "pump",
+   "path": "/research/pump/inflation",
+   "url": "https://mrnasdog.com/research/pump/inflation",
+   "sitemap_lastmod": "2026-10-02",
+   "issues": [],
+   "title": "PUMP Inflation Analysis — Pump.fun · MrNasdog",
+   "page_date": "2026-10-02",
+   "mirror": "crypto/pump-pressure-framework.md",
+   "mirror_date": "2026-10-02",
+   "fresh": true,
+   "github": "current",
+   "devto_id": 4086888,
+   "devto": "off (account suspended)",
+   "telegram": "current",
+   "telegram_id": 147
   },
   {
    "kind": "coin",
