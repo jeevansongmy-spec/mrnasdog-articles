@@ -1,12 +1,12 @@
 {
  "summary": {
-  "checked_at": "2026-10-09T14:13:22.111298+00:00",
-  "pages": 128,
-  "ok": 128,
+  "checked_at": "2026-10-10T11:20:56.259085+00:00",
+  "pages": 129,
+  "ok": 129,
   "gaps": 0,
   "by_kind": {
    "coin": {
-    "pages": 109,
+    "pages": 110,
     "gaps": 0
    },
    "methodology": {
@@ -37,7 +37,6 @@
    "crypto/grass-pressure-framework.md",
    "crypto/hash-pressure-framework.md",
    "crypto/htx-pressure-framework.md",
-   "crypto/kaia-pressure-framework.md",
    "crypto/lab-pressure-framework.md",
    "crypto/ohm-pressure-framework.md",
    "crypto/orca-pressure-framework.md",
@@ -266,8 +265,8 @@
    "github": "current",
    "devto_id": null,
    "devto": "off (account suspended)",
-   "telegram": "current",
-   "telegram_id": 217
+   "telegram": "none",
+   "telegram_id": null
   },
   {
    "kind": "analysis",
@@ -621,7 +620,7 @@
    "title": "BTC Inflation Analysis — Bitcoin · MrNasdog",
    "page_date": "2026-09-30",
    "mirror": "crypto/btc-pressure-framework.md",
-   "mirror_date": "2026-09-30",
+   "mirror_date": "2026-10-10",
    "fresh": true,
    "github": "current",
    "devto_id": 4157187,
@@ -765,7 +764,7 @@
    "title": "DOGE Inflation Analysis — Dogecoin · MrNasdog",
    "page_date": "2026-09-30",
    "mirror": "crypto/doge-pressure-framework.md",
-   "mirror_date": "2026-09-30",
+   "mirror_date": "2026-10-10",
    "fresh": true,
    "github": "current",
    "devto_id": 3974288,
@@ -837,7 +836,7 @@
    "title": "ETH Inflation Analysis — Ethereum · MrNasdog",
    "page_date": "2026-09-30",
    "mirror": "crypto/eth-pressure-framework.md",
-   "mirror_date": "2026-09-30",
+   "mirror_date": "2026-10-10",
    "fresh": true,
    "github": "current",
    "devto_id": 3740790,
@@ -1076,8 +1075,8 @@
    "github": "current",
    "devto_id": null,
    "devto": "off (account suspended)",
-   "telegram": "current",
-   "telegram_id": 216
+   "telegram": "none",
+   "telegram_id": null
   },
   {
    "kind": "coin",
@@ -1089,7 +1088,7 @@
    "title": "HYPE Inflation Analysis — Hyperliquid · MrNasdog",
    "page_date": "2026-09-30",
    "mirror": "crypto/hype-pressure-framework.md",
-   "mirror_date": "2026-09-30",
+   "mirror_date": "2026-10-10",
    "fresh": true,
    "github": "current",
    "devto_id": 3866906,
@@ -1222,6 +1221,24 @@
    "devto": "off (account suspended)",
    "telegram": "current",
    "telegram_id": 140
+  },
+  {
+   "kind": "coin",
+   "slug": "kaia",
+   "path": "/research/kaia/inflation",
+   "url": "https://mrnasdog.com/research/kaia/inflation",
+   "sitemap_lastmod": "2026-08-18",
+   "issues": [],
+   "title": "KAIA Inflation Analysis — Kaia — MrNasdog Pressure Framework · MrNasdog",
+   "page_date": "2026-08-18",
+   "mirror": "crypto/kaia-pressure-framework.md",
+   "mirror_date": "2026-08-18",
+   "fresh": true,
+   "github": "current",
+   "devto_id": 4086821,
+   "devto": "off (account suspended)",
+   "telegram": "current",
+   "telegram_id": 88
   },
   {
    "kind": "coin",
@@ -1539,7 +1556,7 @@
    "title": "ONDO Inflation Analysis — Ondo Finance · MrNasdog",
    "page_date": "2026-10-02",
    "mirror": "crypto/ondo-pressure-framework.md",
-   "mirror_date": "2026-10-02",
+   "mirror_date": "2026-10-10",
    "fresh": true,
    "github": "current",
    "devto_id": 3728766,
@@ -1845,7 +1862,7 @@
    "title": "SOL Inflation Analysis — Solana · MrNasdog",
    "page_date": "2026-09-30",
    "mirror": "crypto/sol-pressure-framework.md",
-   "mirror_date": "2026-09-30",
+   "mirror_date": "2026-10-10",
    "fresh": true,
    "github": "current",
    "devto_id": 3894082,
@@ -1935,7 +1952,7 @@
    "title": "SUI Inflation Analysis — Sui · MrNasdog",
    "page_date": "2026-10-01",
    "mirror": "crypto/sui-pressure-framework.md",
-   "mirror_date": "2026-10-01",
+   "mirror_date": "2026-10-10",
    "fresh": true,
    "github": "current",
    "devto_id": 3739378,
@@ -2259,7 +2276,7 @@
    "title": "XRP Inflation Analysis — XRP Ledger · MrNasdog",
    "page_date": "2026-09-30",
    "mirror": "crypto/xrp-pressure-framework.md",
-   "mirror_date": "2026-09-30",
+   "mirror_date": "2026-10-10",
    "fresh": true,
    "github": "current",
    "devto_id": 3894081,
