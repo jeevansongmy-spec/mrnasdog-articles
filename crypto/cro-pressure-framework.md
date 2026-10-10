@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/cro/inflation"
 tags:          ["crypto", "cro", "cronos", "tokenomics"]
 published:     true
 ---
-
 Originally published at [CRO Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/cro/inflation).
 
 # CRO Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+
+<!-- main-page -->
+➜ Start with the Cronos coin page for the short answer (should you buy CRO?) and its price drivers: [mrnasdog.com/research/cro](https://mrnasdog.com/research/cro)
 
 **CRO supply is growing fast: +7.43% in the last 90 days, and about +6.90% projected for the next 90.** The driver is the Cronos Strategic Reserve, a 70B CRO pool re-created in March 2025 that unlocks **1.17B CRO** every month until March 2030, which added **3.50B CRO** this window. Staking added **195.7M CRO** more, while the burn address took in only **4,500 CRO**; a **228M CRO** community burn voted on Oct 3 2026 trims the next window but does not change its direction. The protocol caps total supply at **100B CRO**, and **98.96B** already exists.
 

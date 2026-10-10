@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/trx/inflation"
 tags:          ["crypto", "trx", "tron", "payments"]
 published:     true
 ---
-
 # TRX Inflation Analysis · September 2026 · Mixed flows · supply roughly steady
 
 *Originally published at [mrnasdog.com/research/trx/inflation](https://mrnasdog.com/research/trx/inflation).*
+
+<!-- main-page -->
+**Main page:** the full TRX coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/trx](https://mrnasdog.com/research/trx)
 
 TRX supply is roughly steady, rising slowly. Over the 90 days to Sep 29 2026, TRON block rewards created **352,388,648 TRX** and the TRON fee burn destroyed **228,386,206 TRX**, so net supply grew by **124.0M TRX**, or **+0.13%** of the **94.98B TRX** in circulation. The monitor reads **+0.14%** over the same stretch. TRX has no supply cap, no vesting left and no locked bucket, so the whole story is one mint against one burn.
 

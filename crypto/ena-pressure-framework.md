@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/ena/inflation"
 tags:          ["crypto", "ena", "ethena", "stablecoins"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/ena/inflation](https://mrnasdog.com/research/ena/inflation)*
+
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the ENA coin page, with demand and price drivers: [mrnasdog.com/research/ena](https://mrnasdog.com/research/ena)
 
 # ENA Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 

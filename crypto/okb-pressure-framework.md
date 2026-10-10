@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/okb/inflation"
 tags:          ["crypto", "okb", "okx", "layer2"]
 published:     true
 ---
-
 # OKB Inflation Analysis · September 2026 · Mixed flows · supply roughly steady
 
 *Originally published at [https://mrnasdog.com/research/okb/inflation](https://mrnasdog.com/research/okb/inflation)*
+
+<!-- main-page -->
+➜ Start with the OKB coin page for the short answer (should you buy OKB?) and its price drivers: [mrnasdog.com/research/okb](https://mrnasdog.com/research/okb)
 
 The MrNasdog Pressure Framework reads OKB at **0.00% net** over the trailing 90 days and **0.00%** over the next 90: no new OKB was created, unlocked or bridged in, and none was bought back or burned. OKB is the gas coin of X Layer, the network OKX runs, and its supply has sat at **21M OKB** since OKX burned **65.26M OKB** of reserves in August 2025 and ended the old quarterly buyback-and-burn. The one limit on that reading: OKX still controls the contracts, so the 21M is a company decision, not a rule no one can change.
 

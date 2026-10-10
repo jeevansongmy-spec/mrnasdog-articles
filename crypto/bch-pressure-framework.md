@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/bch/inflation"
 tags:          ["crypto", "bch", "bitcoincash", "proofofwork"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/bch/inflation](https://mrnasdog.com/research/bch/inflation)*
+
+<!-- main-page -->
+**Main page:** the full BCH coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/bch](https://mrnasdog.com/research/bch)
 
 # BCH Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 

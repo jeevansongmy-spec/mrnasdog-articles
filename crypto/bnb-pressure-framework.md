@@ -1,5 +1,5 @@
 ---
-title: "Should I buy BNB now, or wait? Supply, Demand and Price Drivers (October 2026)"
+title:         "BNB Inflation Analysis · October 2026 · Supply shrinking · projected to keep shrinking"
 description:   "BNB supply is shrinking: no new coins, while the Auto-Burn and the fee burn destroyed 1.62M BNB in 90 days, −1.22% net, about −1.24% next, toward a 100M floor."
 canonical_url: "https://mrnasdog.com/research/bnb/inflation"
 tags:          ["crypto", "bnb", "binance", "auto-burn"]
@@ -7,57 +7,10 @@ published:     true
 ---
 *Originally published at [https://mrnasdog.com/research/bnb/inflation](https://mrnasdog.com/research/bnb/inflation)*
 
-# Should I buy BNB now, or wait? Supply, Demand and Price Drivers (October 2026)
+<!-- main-page -->
+➜ Start with the BNB coin page for the short answer (should you buy BNB?) and its price drivers: [mrnasdog.com/research/bnb](https://mrnasdog.com/research/bnb)
 
-<!-- questions:start -->
-
-Updated Oct 10 2026 from the live page: [mrnasdog.com/research/bnb](https://mrnasdog.com/research/bnb).
-
-## The buy and sell questions: supply, demand and price drivers
-
-### Should I buy BNB now, or wait?
-
-Based on the law of supply and demand, the long-run signal for BNB is positive. As of Oct 10 2026, score 8.5/10, BNB faces −1.24% new supply over 90 days, with demand strong (3.5/5). BNB's price drivers: 1 ▲ price up, 1 ▼ price down.
-
-### Why has BNB been going up lately?
-
-Big buyers and a shrinking supply probably explain most of it. BNB ETFs jumped to about 130K BNB on Oct 2, and supply falls 1.24% in the next 90 days. The risk to watch is the new US probe of Binance, reported Sep 22 2026. For BNB, the supply-and-demand signal is positive right now.
-
-### Does BNB still have a future with Binance under a new US probe?
-
-Likely yes, though the probe is a real risk. The DOJ now checks whether Binance kept its 2023 deal, and a US monitor may end in May 2027. Meanwhile supply shrinks 4.97% in the next year and demand reads strong (3.5/5). Supply and demand still read positive for BNB in the long run.
-
-### Is $5,000 possible for BNB?
-
-It would take 6.7 times today's value: $5,000 × BNB's coins in the market = about $666B, against $99.6B now (Oct 10 2026). BNB's supply barely changes in the next year (−4.97%), so the whole move would have to come from demand. Our supply-and-demand read for BNB stays positive.
-
-### Should I sell my BNB now?
-
-Today the signal is positive. Supply and demand would point the other way for BNB if new supply jumps (today −1.24% in 90 days), or demand falls from strong, or CZ and Binance keeps pointing down. Next date to watch for BNB: May 2027? — US monitor may end.
-
-### Is BNB a good long-term investment?
-
-On our framework BNB scores 8.5/10 (Oct 10 2026), with supply 5/5 (shrinking) and demand 3.5/5. In the next year BNB's supply changes −4.97%, so the long-run signal reads positive.
-
-### What is the best time to invest in BNB?
-
-The law of supply and demand points to one window for BNB: low new supply, high demand, drivers pointing up. Where BNB stands today: −1.24% new supply in 90 days (shrinking), demand strong (3.5/5), drivers 1 ▲ / 1 ▼.
-
-### Will BNB go up? What could move its price?
-
-BNB has 2 price drivers today (1 ▲ price up, 1 ▼ price down).
-- ▼ CZ and Binance: DOJ now checks if Binance kept its 2023 deal.
-- ▲ Big buyers: ETF jumped to ~130K BNB on Oct 2; BNC flat at 515,544.
-
-### Is BNB a better investment than Bitcoin?
-
-BNB reads positive at 8.5/10; Bitcoin reads positive at 8.5/10 (Oct 10 2026). On supply and demand, BNB looks about level with Bitcoin today.
-
-*Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*
-
-<!-- questions:end -->
-
-## Part 1 · Supply: BNB Inflation Analysis · October 2026 · Supply shrinking · projected to keep shrinking
+# BNB Inflation Analysis · October 2026 · Supply shrinking · projected to keep shrinking
 
 BNB is deflationary: over the 90 days to Oct 10 2026 no new BNB was created, while the quarterly Auto-Burn and the BNB Smart Chain fee burn destroyed **1,623,313 BNB** together, so the supply of BNB shrank by **1.22%**. The next 90 days should look the same, about **−1.24%**, because the 37th Auto-Burn of about **1.65M BNB** is due around Oct 15 2026. The burns stop only when total supply reaches the 100M BNB floor, still **33.16M BNB** away.
 

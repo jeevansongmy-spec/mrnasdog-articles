@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/qnt/inflation"
 tags:          ["crypto", "qnt", "quant", "interoperability"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/qnt/inflation](https://mrnasdog.com/research/qnt/inflation)*
+
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the QNT coin page, with demand and price drivers: [mrnasdog.com/research/qnt](https://mrnasdog.com/research/qnt)
 
 # QNT Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 

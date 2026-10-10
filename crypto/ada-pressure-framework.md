@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/ada/inflation"
 tags:          ["crypto", "ada", "cardano", "layer1"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/ada/inflation](https://mrnasdog.com/research/ada/inflation)*
+
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the ADA coin page, with demand and price drivers: [mrnasdog.com/research/ada](https://mrnasdog.com/research/ada)
 
 # ADA Inflation Analysis · October 2026 · Supply was growing · trend cooling
 

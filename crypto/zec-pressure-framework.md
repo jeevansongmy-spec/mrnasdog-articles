@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/zec/inflation"
 tags:          ["crypto", "zec", "zcash", "privacy"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/zec/inflation](https://mrnasdog.com/research/zec/inflation)*
+
+<!-- main-page -->
+**Main page:** the full ZEC coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/zec](https://mrnasdog.com/research/zec)
 
 # ZEC Inflation Analysis · September 2026 · Supply growing · projected to keep growing
 

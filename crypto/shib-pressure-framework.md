@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/shib/inflation"
 tags: ["crypto", "shib", "shiba-inu", "memecoin"]
 published: true
 ---
-
 > Originally published at **[mrnasdog.com/research/shib/inflation](https://mrnasdog.com/research/shib/inflation)** by MrNasdog.
 
 # SHIB Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the SHIB coin page, with demand and price drivers: [mrnasdog.com/research/shib](https://mrnasdog.com/research/shib)
 
 Shiba Inu (SHIB) is a fixed-supply meme token whose supply only goes one way: down, and very slowly. From Jul 4 to Oct 2 2026 no new SHIB was created and nothing unlocked, while apps and holders burned **4.26B SHIB**. Against **589.24T SHIB** in circulation that is a net change of about **−0.0007%**, and about **−0.0002%** is expected for the next 90 days. Our supply monitor reads **−0.03%** for the same stretch, close enough that no warning is needed.
 

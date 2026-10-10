@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/xlm/inflation"
 tags: ["crypto", "xlm", "stellar", "tokenization"]
 published: true
 ---
-
 Originally published at [https://mrnasdog.com/research/xlm/inflation](https://mrnasdog.com/research/xlm/inflation) by MrNasdog.
 
 # XLM Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+
+<!-- main-page -->
+**Main page:** the full XLM coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/xlm](https://mrnasdog.com/research/xlm)
 
 Stellar (XLM) creates no new coins, yet its circulating supply grew **+2.97%** in the 90 days to Oct 1 2026, and the MrNasdog Pressure Framework projects about the same for the next 90 days. All of it comes from one source: the Stellar Development Foundation moved **1.04B XLM** out of its wallets into the market, while only **659,593 XLM** of fees left the float. The Foundation still holds **14.71B XLM**, so this release can run for years.
 

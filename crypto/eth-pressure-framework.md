@@ -1,5 +1,5 @@
 ---
-title: "Should I buy Ethereum now, or wait? Supply, Demand and Price Drivers (October 2026)"
+title:         "ETH Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
 description:   "ETH is mildly inflationary: 263K ETH of validator issuance against a 4.66K fee burn gives +0.21% net over 90 days, the same next. No vesting, no unlock, no cap."
 canonical_url: "https://mrnasdog.com/research/eth/inflation"
 tags:          ["crypto", "eth", "ethereum", "staking"]
@@ -7,58 +7,10 @@ published:     true
 ---
 *Originally published at [https://mrnasdog.com/research/eth/inflation](https://mrnasdog.com/research/eth/inflation)*
 
-# Should I buy Ethereum now, or wait? Supply, Demand and Price Drivers (October 2026)
+<!-- main-page -->
+➜ Start with the Ethereum coin page for the short answer (should you buy ETH?) and its price drivers: [mrnasdog.com/research/eth](https://mrnasdog.com/research/eth)
 
-<!-- questions:start -->
-
-Updated Oct 10 2026 from the live page: [mrnasdog.com/research/eth](https://mrnasdog.com/research/eth).
-
-## The buy and sell questions: supply, demand and price drivers
-
-### Should I buy Ethereum now, or wait?
-
-Supply and demand point to a positive long-run signal for Ethereum (Oct 10 2026, score 7/10). Ethereum adds +0.21% new supply in 90 days, and demand reads strong (3.5/5). Ethereum's price drivers: 1 ▲ price up, 0 ▼ price down.
-
-### Is Ethereum dead, or still in the game?
-
-Still very much alive. ETFs hold 6.37M ETH, only 5% below the Oct 2025 top, and the Glamsterdam upgrade hit testnet on Oct 6. New supply is small too, +0.21% in 90 days, so we read Ethereum at 7/10 today. For Ethereum, the supply-and-demand signal is positive right now.
-
-### Ethereum vs XRP: which looks stronger right now?
-
-Ethereum looks stronger, 7/10 against XRP's 6/10 on Oct 10 2026. The gap is mostly supply: Ethereum adds +0.21% in 90 days, XRP adds +1.14%. XRP has slightly higher demand (4/5 vs 3.5/5), but not enough to close it. By supply and demand, Ethereum's long-run signal is positive today.
-
-### Could Ethereum ever hit $10,000?
-
-Ethereum trades near $2,495 (Oct 10 2026). $10,000 a coin means a $1.22 trillion market cap, 4 times today's $305B. Ethereum's supply also grows +0.86% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Ethereum stays positive.
-
-### Is it time to take profit on Ethereum?
-
-We would read Ethereum differently if new supply jumps (today +0.21% in 90 days), or demand falls from strong. Until then Ethereum's signal stays positive. Mark this date for Ethereum: Oct 27 2026? — 2nd testnet (planned).
-
-### Is Ethereum a good investment right now?
-
-Ethereum scores 7/10 on our framework (Oct 10 2026): supply 3.5/5 (steady), demand 3.5/5. Over the next year Ethereum's supply changes +0.86%. The long-run signal is positive.
-
-### How do I know when to buy Ethereum?
-
-Supply and demand favor Ethereum most when little new supply is coming, demand is strong and the price drivers point up. Right now Ethereum has +0.21% new supply in 90 days (steady), demand strong (3.5/5), drivers 1 ▲ / 0 ▼.
-
-### Will Ethereum go up in 2026?
-
-Ethereum's price drivers today: 1 pointing up, 0 pointing down, out of 3.
-- BitMine's ETH: BitMine is 88,586 ETH from 5%, then stops buying.
-- ▲ ETF holdings: ETFs hold 6.37M ETH, 5% below the Oct 2025 top.
-- Upgrade calendar: Glamsterdam hit testnet Oct 6; mainnet date not set yet.
-
-### Should I buy Ethereum or Bitcoin?
-
-Ethereum: positive signal, 7/10 · Bitcoin: positive signal, 8.5/10 (Oct 10 2026). By supply and demand, Ethereum reads weaker than Bitcoin today.
-
-*Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*
-
-<!-- questions:end -->
-
-## Part 1 · Supply: ETH Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+# ETH Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
 ETH supply is growing slowly and steadily. Over the 90 days to Oct 10 2026, Ethereum paid validators **263,305 ETH** of new issuance and its EIP-1559 fee burn destroyed **4,661 ETH**, so net supply rose **+0.21%**, and the MrNasdog Pressure Framework projects about **+0.21%** for the next 90 days. Staking drives the number: the bigger the stake, the more new ETH the protocol creates, and nothing caps the total.
 

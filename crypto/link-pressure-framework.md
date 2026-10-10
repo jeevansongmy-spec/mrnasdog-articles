@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/link/inflation"
 tags: ["crypto", "link", "chainlink", "oracles"]
 published: true
 ---
-
 > Originally published at **[mrnasdog.com/research/link/inflation](https://mrnasdog.com/research/link/inflation)** by MrNasdog.
 
 # LINK Inflation Analysis · September 2026 · Mixed last 90D · projected to grow
+
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the LINK coin page, with demand and price drivers: [mrnasdog.com/research/link](https://mrnasdog.com/research/link)
 
 Chainlink's **LINK** did not grow at all in the last 90 days: no coins were created, none were burned, and nothing left the team's reserve wallets, so net supply change was **0.00%**. That calm is a gap between releases, not a new policy. The project lets about **70.0M LINK** a year out of **251.9M LINK** held in reserve, and two steps of that cycle — **18.75M** and **11.25M** — fall in the next 90 days, lifting the circulating count by about **+4.01%**. The hard cap of **1B LINK** never moves.
 

@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/tao/inflation"
 tags: ["crypto", "tao", "bittensor", "ai"]
 published: true
 ---
-
 > Originally published at **[mrnasdog.com/research/tao/inflation](https://mrnasdog.com/research/tao/inflation)** by MrNasdog.
 
 # TAO Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+
+<!-- main-page -->
+➜ Start with the Bittensor coin page for the short answer (should you buy TAO?) and its price drivers: [mrnasdog.com/research/tao](https://mrnasdog.com/research/tao)
 
 **Bittensor (TAO) supply grew about 4.31% in the 90 days to Oct 2 2026**, and the MrNasdog Pressure Framework projects about **+2.79%** for the next 90 days. Block rewards created **324,000 TAO**, a one-time network upgrade minted another **172,001 TAO** on Sep 15 2026, and only **6,922 TAO** was recycled back out of supply. TAO has a hard cap of **21M**, no vesting and no team allocation; the inflation monitor reads **+18.19%** because its supply figure jumped in a one-day recount.
 

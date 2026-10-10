@@ -1,5 +1,5 @@
 ---
-title: "Is XRP worth buying now? Supply, Demand and Price Drivers (October 2026)"
+title:         "XRP Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
 description: "XRP supply is growing: nothing is minted, but Ripple paid 898M XRP from escrow to the market in 90 days against a 44.8K fee burn. +1.42% net, about +1.43% next."
 canonical_url: "https://mrnasdog.com/research/xrp/inflation"
 tags: ["crypto", "xrp", "ripple", "escrow"]
@@ -7,58 +7,10 @@ published: true
 ---
 Originally published at [https://mrnasdog.com/research/xrp/inflation](https://mrnasdog.com/research/xrp/inflation) by MrNasdog.
 
-# Is XRP worth buying now? Supply, Demand and Price Drivers (October 2026)
+# XRP Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
-<!-- questions:start -->
-
-Updated Oct 10 2026 from the live page: [mrnasdog.com/research/xrp](https://mrnasdog.com/research/xrp).
-
-## The buy and sell questions: supply, demand and price drivers
-
-### Is XRP worth buying now?
-
-By the law of supply and demand, XRP's long-run signal is mixed (Oct 10 2026, score 6/10). New supply: +1.43% in the next 90 days. Demand: strong (4/5). XRP's price drivers: 1 ▲ price up, 1 ▼ price down.
-
-### XRP or Solana: which one is the better pick today?
-
-It's close to a tie. Both score 6/10 with a mixed signal on Oct 10 2026, and both show strong demand (4/5). XRP adds a bit less new supply, +1.14% in 90 days against Solana's +1.27%, but that edge is small. Our supply-and-demand read for XRP stays mixed.
-
-### Why is XRP still so low?
-
-Steady new supply is probably the main weight. About 0.3B XRP leaves Ripple's escrow every 30 days, adding +4.62% in a year. The US crypto law was also blocked 49-50, though the Senate can try again from Nov 11 2026. ETF buying helps on the other side. For XRP, the supply-and-demand signal is mixed right now.
-
-### Can XRP reach $100?
-
-At $100, XRP would be worth about $6.31 trillion in total — about 71 times its $88.6B market cap today (Oct 10 2026, about $1.4 a coin). XRP's supply also grows +5.70% in the next year, so every extra coin needs buyers too. By supply and demand, XRP's long-run signal is mixed today.
-
-### Should I sell my XRP now?
-
-XRP's signal is mixed for now. XRP's signal would turn if new supply keeps arriving (+1.43% in 90 days), or demand falls from strong, or US crypto law keeps pointing down. The next date on XRP's calendar: Nov 3 2026 — US midterm election.
-
-### Is XRP a good long-term investment?
-
-XRP sits at 6/10 today (Oct 10 2026): supply 2/5, demand 4/5. One more year adds +5.70% to XRP's supply. Long-run signal: mixed.
-
-### When is a good time to buy XRP?
-
-By the law of supply and demand, the better time to buy XRP is when its new supply is low, demand is high and its price drivers point up. XRP today: +1.43% new supply in 90 days (growing), demand strong (4/5), drivers 1 ▲ / 1 ▼.
-
-### What could push XRP's price up or down?
-
-Right now 3 things drive XRP's price (1 ▲, 1 ▼).
-- Ripple's escrow: 9.1B XRP left escrow since Jan 2024; about 0.3B more every 30 days.
-- ▼ US crypto law: Law blocked 49-50; Senate can try again from Nov 11 2026.
-- ▲ XRP ETFs: ETFs hold about 1.1B XRP, up 64% since Dec 31 2025.
-
-### Is XRP a better investment than Bitcoin?
-
-Side by side on Oct 10 2026: XRP at 6/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, XRP is the weaker of the two.
-
-*Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*
-
-<!-- questions:end -->
-
-## Part 1 · Supply: XRP Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+<!-- main-page -->
+**Main page:** the full XRP coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/xrp](https://mrnasdog.com/research/xrp)
 
 **XRP** supply is growing, and it will likely keep growing. The XRP Ledger never mints new XRP, but Ripple, which holds the coins that were never handed out, moved **898.45M XRP** from its escrow and wallets into the market over the last 90 days, while transaction fees destroyed only **44,823 XRP**. Net, the circulating supply of **63.13B XRP** grew **+1.42%**, and the next 90 days point to about **+1.43%** as three more monthly escrow openings arrive.
 

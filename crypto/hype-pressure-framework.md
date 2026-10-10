@@ -1,5 +1,5 @@
 ---
-title: "Is it a good time to buy Hyperliquid today? Supply, Demand and Price Drivers (October 2026)"
+title:         "HYPE Inflation Analysis · September 2026 · Mixed flows · supply roughly steady"
 description:   "HYPE supply is roughly steady: a 1.98M HYPE fee buyback plus 267K HYPE of burns offset 2.19M of staking, team and Foundation supply, −0.03% over 90 days."
 canonical_url: "https://mrnasdog.com/research/hype/inflation"
 tags:          ["crypto", "hype", "hyperliquid", "defi"]
@@ -7,57 +7,10 @@ published:     true
 ---
 *Originally published at [https://mrnasdog.com/research/hype/inflation](https://mrnasdog.com/research/hype/inflation)*
 
-# Is it a good time to buy Hyperliquid today? Supply, Demand and Price Drivers (October 2026)
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about Hyperliquid, see [mrnasdog.com/research/hype](https://mrnasdog.com/research/hype).
 
-<!-- questions:start -->
-
-Updated Oct 10 2026 from the live page: [mrnasdog.com/research/hype](https://mrnasdog.com/research/hype).
-
-## The buy and sell questions: supply, demand and price drivers
-
-### Is it a good time to buy Hyperliquid today?
-
-Supply and demand point to a positive long-run signal for Hyperliquid (Oct 10 2026, score 8.5/10). Hyperliquid adds +0.13% new supply in 90 days, and demand reads very strong (4.5/5). Hyperliquid's price drivers: 2 ▲ price up, 0 ▼ price down.
-
-### Hyperliquid vs Aster: which trading token holds up better?
-
-Hyperliquid, by a wide gap: 8.5/10 against Aster's 4.5/10 on Oct 10 2026. Aster adds +2.50% new supply in 90 days, Hyperliquid just +0.13%. Hyperliquid's demand also reads higher (4.5/5 vs 3/5), and it is about 10 times bigger at $19.5 billion. Our supply-and-demand read for Hyperliquid stays positive.
-
-### Why is Hyperliquid so popular with big buyers?
-
-A treasury company now owns 12.7% of the HYPE in the market and added 4.9M HYPE in 30 days. Control is also spreading: the Foundation's share of votes fell from 81% to 47%, below the 67% needed to pass votes alone. Demand reads very strong (4.5/5). By supply and demand, Hyperliquid's long-run signal is positive today.
-
-### Could Hyperliquid ever hit $1,000?
-
-Hyperliquid trades near $87.7 (Oct 10 2026). $1,000 a coin means a $222B market cap, 11 times today's $19.5B. Hyperliquid's supply also grows +0.51% in the next year, so every extra coin needs buyers too. That leaves Hyperliquid's long-run signal at positive, by supply and demand.
-
-### Should I sell my Hyperliquid now?
-
-We would read Hyperliquid differently if new supply jumps (today +0.13% in 90 days), or demand falls from very strong. Until then Hyperliquid's signal stays positive.
-
-### Is Hyperliquid a good long-term investment?
-
-Hyperliquid scores 8.5/10 on our framework (Oct 10 2026): supply 4/5 (tight), demand 4.5/5. Over the next year Hyperliquid's supply changes +0.51%. The long-run signal is positive.
-
-### How do I know when to buy Hyperliquid?
-
-Supply and demand favor Hyperliquid most when little new supply is coming, demand is strong and the price drivers point up. Right now Hyperliquid has +0.13% new supply in 90 days (tight), demand very strong (4.5/5), drivers 2 ▲ / 0 ▼.
-
-### Will Hyperliquid go up in 2026?
-
-Hyperliquid's price drivers today: 2 pointing up, 0 pointing down, out of 2.
-- ▲ Treasury company: Owns 12.7% of HYPE in the market; +4.9M HYPE in 30 days.
-- ▲ Foundation votes: Foundation's share fell from 81% to 47%; votes need 67%.
-
-### Is Hyperliquid a better investment than Bitcoin?
-
-Hyperliquid: positive signal, 8.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 10 2026). By supply and demand, Hyperliquid and Bitcoin read about the same today.
-
-*Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*
-
-<!-- questions:end -->
-
-## Part 1 · Supply: HYPE Inflation Analysis · September 2026 · Mixed flows · supply roughly steady
+# HYPE Inflation Analysis · September 2026 · Mixed flows · supply roughly steady
 
 **HYPE**, the coin of the **Hyperliquid** trading chain, held its supply roughly steady over the last 90 days: about **2.19M HYPE** reached the market while the fee-funded buyback and the burns took **2.25M HYPE** out, a net of **−0.03%** of the **222.45M** circulating. The Hyperliquid buyback is paid by trading fees, while the new HYPE comes from staking rewards, monthly team-vault payouts and small Foundation releases. For the next 90 days we project **+0.13%**, because the same fee dollars buy fewer coins at today's higher HYPE price, and less than a quarter of the 1B HYPE cap circulates today.
 

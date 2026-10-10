@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/ltc/inflation"
 tags:          ["crypto", "ltc", "litecoin", "pow"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/ltc/inflation](https://mrnasdog.com/research/ltc/inflation)*
+
+<!-- main-page -->
+The Litecoin coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/ltc](https://mrnasdog.com/research/ltc). Below: supply, line by line.
 
 # LTC Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 

@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/near/inflation"
 tags:          ["crypto", "near", "near-protocol", "layer1"]
 published:     true
 ---
-
 *Originally published at [mrnasdog.com/research/near/inflation](https://mrnasdog.com/research/near/inflation)*
+
+<!-- main-page -->
+The NEAR Protocol coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/near](https://mrnasdog.com/research/near). Below: supply, line by line.
 
 NEAR is a coin whose supply grows on purpose. In the 90 days to Oct 1 2026 the NEAR Protocol minted **8,005,124 NEAR** for validators, stakers and the protocol treasury, and gas fees burned **66,109 NEAR**, so net supply rose about **+0.61%**. The next 90 days should look the same. NEAR has no supply cap: the protocol may print up to **2.5%** of supply a year, and the gas burn takes back less than 1% of that.
 

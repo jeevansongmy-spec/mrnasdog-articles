@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/hbar/inflation"
 tags:          ["crypto", "hbar", "hedera", "layer1"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/hbar/inflation](https://mrnasdog.com/research/hbar/inflation)*
+
+<!-- main-page -->
+➜ Start with the Hedera coin page for the short answer (should you buy HBAR?) and its price drivers: [mrnasdog.com/research/hbar](https://mrnasdog.com/research/hbar)
 
 # HBAR Inflation Analysis · October 2026 · Mixed last 90D · projected to grow
 

@@ -1,5 +1,5 @@
 ---
-title: "Is it a good time to buy Bitcoin today? Supply, Demand and Price Drivers (October 2026)"
+title:         "BTC Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
 description:   "BTC supply is roughly steady: miners got 40,825 new BTC in 90 days at 3.125 a block, with no burn or buyback. Net +0.20%, the same next, under a 21M cap."
 canonical_url: "https://mrnasdog.com/research/btc/inflation"
 tags:          ["crypto", "btc", "bitcoin", "proof-of-work"]
@@ -7,57 +7,10 @@ published:     true
 ---
 *Originally published at [https://mrnasdog.com/research/btc/inflation](https://mrnasdog.com/research/btc/inflation)*
 
-# Is it a good time to buy Bitcoin today? Supply, Demand and Price Drivers (October 2026)
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about Bitcoin, see [mrnasdog.com/research/btc](https://mrnasdog.com/research/btc).
 
-<!-- questions:start -->
-
-Updated Oct 10 2026 from the live page: [mrnasdog.com/research/btc](https://mrnasdog.com/research/btc).
-
-## The buy and sell questions: supply, demand and price drivers
-
-### Is it a good time to buy Bitcoin today?
-
-By the law of supply and demand, Bitcoin's long-run signal is positive (Oct 10 2026, score 8.5/10). New supply: +0.20% in the next 90 days. Demand: exceptional (5/5). Bitcoin's price drivers: 2 ▲ price up, 0 ▼ price down.
-
-### Why is Bitcoin dropping if big buyers are still buying?
-
-Sellers are likely the reason. Mt. Gox must pay out the rest of its coins by Oct 31 2026, and the US moved 12K seized BTC. Big buyers still added about 80K BTC in 90 days, so the selling looks short-term rather than a broken story. Our supply-and-demand read for Bitcoin stays positive.
-
-### Bitcoin or XRP: which one has the better supply story?
-
-Bitcoin looks stronger. It scores 8.5/10 against XRP's 6/10 on Oct 10 2026. Bitcoin adds just +0.20% new supply in 90 days, while XRP adds +1.14% as about 0.3B XRP leaves Ripple's escrow every 30 days. By supply and demand, Bitcoin's long-run signal is positive today.
-
-### Can Bitcoin reach $1,000,000?
-
-At $1,000,000, Bitcoin would be worth about $20.1 trillion in total — about 12 times its $1.66 trillion market cap today (Oct 10 2026, about $82,757 a coin). Bitcoin's supply also grows +0.82% in the next year, so every extra coin needs buyers too. That leaves Bitcoin's long-run signal at positive, by supply and demand.
-
-### Is it time to take profit on Bitcoin?
-
-Bitcoin's signal is positive for now. Bitcoin's signal would turn if new supply jumps (today +0.20% in 90 days), or demand falls from exceptional.
-
-### Is Bitcoin a good investment right now?
-
-Bitcoin sits at 8.5/10 today (Oct 10 2026): supply 3.5/5, demand 5/5. One more year adds +0.82% to Bitcoin's supply. Long-run signal: positive.
-
-### When is a good time to buy Bitcoin?
-
-By the law of supply and demand, the better time to start a position in Bitcoin is when its new supply is low, demand is high and its price drivers point up. Bitcoin today: +0.20% new supply in 90 days (steady), demand exceptional (5/5), drivers 2 ▲ / 0 ▼.
-
-### What could push Bitcoin's price up or down?
-
-Right now 3 things drive Bitcoin's price (2 ▲, 0 ▼).
-- ▲ The 4-year cycle: since the Apr 2024 halving · next halving about Apr 2028 ▲ Big buyers: Still buying: about +80K BTC in 90 days.
-- Possible sellers: Mt. Gox deadline Oct 31 2026; US moved 12K seized BTC.
-
-### Should I buy Bitcoin or Ethereum?
-
-Side by side on Oct 10 2026: Bitcoin at 8.5/10 with a positive signal, Ethereum at 7/10 with a positive signal. By supply and demand, Bitcoin is the stronger of the two.
-
-*Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*
-
-<!-- questions:end -->
-
-## Part 1 · Supply: BTC Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+# BTC Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
 Bitcoin supply is roughly steady and grows on a fixed, published path. In the 90 days to Oct 10 2026, miners received **40,825 BTC** of new coins from **13,064 blocks** at **3.125 BTC** a block, while nothing removed any: **0 BTC** burned, bought back or locked. That is **+0.20%** of the **20.10M BTC** in circulation, the monitor reads **+0.20%** too, and the hard cap of 21M BTC means the flow can only shrink from here.
 

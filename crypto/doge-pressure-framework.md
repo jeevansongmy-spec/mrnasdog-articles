@@ -1,5 +1,5 @@
 ---
-title: "Is it time to buy the Dogecoin dip? Supply, Demand and Price Drivers (October 2026)"
+title:         "DOGE Inflation Analysis · September 2026 · Supply growing · projected to keep growing"
 description: "DOGE supply keeps growing: a flat 10,000 DOGE block reward paid miners 1.23B DOGE in 90 days with no burn or buyback, +0.79% net, same next. No cap, no halving."
 canonical_url: "https://mrnasdog.com/research/doge/inflation"
 tags: ["crypto", "doge", "dogecoin", "proof-of-work"]
@@ -7,53 +7,10 @@ published: true
 ---
 Originally published at [https://mrnasdog.com/research/doge/inflation](https://mrnasdog.com/research/doge/inflation) by MrNasdog.
 
-# Is it time to buy the Dogecoin dip? Supply, Demand and Price Drivers (October 2026)
+# DOGE Inflation Analysis · September 2026 · Supply growing · projected to keep growing
 
-<!-- questions:start -->
-
-Updated Oct 10 2026 from the live page: [mrnasdog.com/research/doge](https://mrnasdog.com/research/doge).
-
-## The buy and sell questions: supply, demand and price drivers
-
-### Is it time to buy the Dogecoin dip?
-
-Supply and demand point to a mixed long-run signal for Dogecoin (Oct 10 2026, score 5.5/10). Dogecoin adds +0.79% new supply in 90 days, and demand reads strong (4/5). Dogecoin's price drivers: 0 ▲ price up, 0 ▼ price down.
-
-### What is Dogecoin's inflation rate right now?
-
-About +0.79% every 90 days, so a bit over 3% a year. Each block pays a fixed 10,000 DOGE, so the number of new coins stays the same while the total grows, and the rate slowly falls. Demand reads strong (4/5), but this supply holds Dogecoin's score at 5.5/10. That leaves Dogecoin's long-run signal at mixed, by supply and demand.
-
-### Could Dogecoin ever hit $1?
-
-Dogecoin trades near 9.74 cents (Oct 10 2026). $1 a coin means a $156B market cap, 10 times today's $15.2B. Dogecoin's supply also grows +3.19% in the next year, so every extra coin needs buyers too. Supply and demand still read mixed for Dogecoin in the long run.
-
-### Is it time to take profit on Dogecoin?
-
-We would read Dogecoin differently if new supply keeps arriving (+0.79% in 90 days), or demand falls from strong. Until then Dogecoin's signal stays mixed.
-
-### Is Dogecoin a good investment right now?
-
-Dogecoin scores 5.5/10 on our framework (Oct 10 2026): supply 1.5/5 (meme coin), demand 4/5. Over the next year Dogecoin's supply changes +3.19%. The long-run signal is mixed.
-
-### How do I know when to buy Dogecoin?
-
-Supply and demand favor Dogecoin most when little new supply is coming, demand is strong and the price drivers point up. Right now Dogecoin has +0.79% new supply in 90 days (meme coin), demand strong (4/5), drivers 0 ▲ / 0 ▼.
-
-### Will Dogecoin go up in 2026?
-
-Dogecoin's price drivers today: 0 pointing up, 0 pointing down, out of 2.
-- Elon Musk: No Musk DOGE news yet; X Money still has no DOGE.
-- Robinhood's wallet: Down 5.8B DOGE since Jan 2024; flat for 375 days.
-
-### Should I buy Dogecoin or Bitcoin?
-
-Dogecoin: mixed signal, 5.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 10 2026). By supply and demand, Dogecoin reads weaker than Bitcoin today.
-
-*Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*
-
-<!-- questions:end -->
-
-## Part 1 · Supply: DOGE Inflation Analysis · September 2026 · Supply growing · projected to keep growing
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the DOGE coin page, with demand and price drivers: [mrnasdog.com/research/doge](https://mrnasdog.com/research/doge)
 
 Dogecoin is **inflationary by design**, and the whole story is one number: every block pays its miner **10,000 new DOGE**. Over the 90 days to Sep 30 2026 that created **1.23B DOGE** while nothing was bought back, burned or locked, so circulating supply grew **+0.79%** — and the next 90 days should add about the same. The independent supply monitor reads **+0.78%**. Dogecoin has no supply cap and no halving, so the flow never stops; it only shrinks as a share of a supply that keeps getting bigger.
 

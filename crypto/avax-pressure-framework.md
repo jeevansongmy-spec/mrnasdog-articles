@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/avax/inflation"
 tags:          ["crypto", "avax", "avalanche", "proofofstake"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/avax/inflation](https://mrnasdog.com/research/avax/inflation)*
+
+<!-- main-page -->
+➜ Start with the Avalanche coin page for the short answer (should you buy AVAX?) and its price drivers: [mrnasdog.com/research/avax](https://mrnasdog.com/research/avax)
 
 # AVAX Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 

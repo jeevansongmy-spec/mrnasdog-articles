@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/aave/inflation"
 tags:                    ["crypto", "aave", "defi", "tokenomics"]
 published:     true
 ---
-
 Originally published at [AAVE Inflation Analysis · October 2026 · Mixed flows · supply roughly steady](https://mrnasdog.com/research/aave/inflation).
 
 # AAVE Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+
+<!-- main-page -->
+➜ Start with the Aave coin page for the short answer (should you buy AAVE?) and its price drivers: [mrnasdog.com/research/aave](https://mrnasdog.com/research/aave)
 
 AAVE supply is roughly steady: over the 90 days to Oct 2 2026, **21,897 AAVE** left the Aave DAO's Ecosystem Reserve and entered the market, and nothing was taken back out, for net growth of **+0.14%** of the **15.44M AAVE** in circulation, with about **+0.15%** expected in the next 90 days. AAVE is not minted: the 16M AAVE cap is fully issued, and every new coin on the market comes out of one DAO reserve that still holds about **565,072 AAVE**. The AAVE buyback has been paused since Apr 19 2026, and there is no burn yet.
 

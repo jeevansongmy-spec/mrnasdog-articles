@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/cc/inflation"
 tags:          ["crypto", "cc", "canton", "layer1"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/cc/inflation](https://mrnasdog.com/research/cc/inflation)*
+
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about Canton Coin, see [mrnasdog.com/research/cc](https://mrnasdog.com/research/cc).
 
 # CC Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 

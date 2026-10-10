@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/leo/inflation"
 tags: ["crypto", "leo", "bitfinex", "exchange-token"]
 published: true
 ---
-
 > Originally published at **[mrnasdog.com/research/leo/inflation](https://mrnasdog.com/research/leo/inflation)** by MrNasdog.
 
 # LEO Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+
+<!-- main-page -->
+**Main page:** the full LEO coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/leo](https://mrnasdog.com/research/leo)
 
 **UNUS SED LEO (LEO)**, the exchange token of Bitfinex and its parent iFinex, prints no new coins at all, and a revenue-funded buyback takes a small slice out of circulation every day. Over the 90 days to Oct 1 2026 the buyback parked **421,293 LEO** in the issuer account against **zero** new supply, so the circulating count fell **0.05%**, to **919.86M LEO**. The pace is set by company revenue, not by any cap: at today's price the same buying pays for about **610K LEO** in the next 90 days, a **0.07%** drop.
 

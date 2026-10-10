@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/uni/inflation"
 tags: ["crypto", "uni", "uniswap", "defi"]
 published: true
 ---
-
 Originally published at [https://mrnasdog.com/research/uni/inflation](https://mrnasdog.com/research/uni/inflation) by MrNasdog.
 
 # UNI Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about Uniswap, see [mrnasdog.com/research/uni](https://mrnasdog.com/research/uni).
 
 **UNI supply is roughly flat.** In the 90 days to Oct 1 2026 the Uniswap DAO treasury released **5.00M UNI** as a growth budget, while the Uniswap fee switch destroyed **5.71M UNI** and a multisig sent **113K UNI** back to the treasury, so net supply fell **0.13%**. For the next 90 days we expect another **5.00M UNI** out and about **4.07M UNI** burned, a rise of about **0.15%**; the monitor reads **+0.02%**.
 

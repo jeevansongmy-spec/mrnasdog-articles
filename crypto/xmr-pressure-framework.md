@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/xmr/inflation"
 tags:          ["crypto", "xmr", "monero", "privacy"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/xmr/inflation](https://mrnasdog.com/research/xmr/inflation)*
+
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the XMR coin page, with demand and price drivers: [mrnasdog.com/research/xmr](https://mrnasdog.com/research/xmr)
 
 # XMR Inflation Analysis · September 2026 · Mixed flows · supply roughly steady
 
