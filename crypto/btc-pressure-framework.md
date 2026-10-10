@@ -1,14 +1,59 @@
 ---
-title:         "BTC Inflation Analysis · September 2026 · Mixed flows · supply roughly steady"
+title: "Is it a good time to buy Bitcoin today? Supply, Demand and Price Drivers (October 2026)"
 description:   "BTC supply is roughly steady: mining made 40,447 BTC in 90 days at 3.125 per block, with no burn and no buyback. Net +0.20%, the same next, under a 21M cap."
 canonical_url: "https://mrnasdog.com/research/btc/inflation"
 tags:          ["crypto", "btc", "bitcoin", "proof-of-work"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/btc/inflation](https://mrnasdog.com/research/btc/inflation)*
 
-# BTC Inflation Analysis · September 2026 · Mixed flows · supply roughly steady
+# Is it a good time to buy Bitcoin today? Supply, Demand and Price Drivers (October 2026)
+
+<!-- questions:start -->
+
+Updated Oct 10 2026 from the live page: [mrnasdog.com/research/btc](https://mrnasdog.com/research/btc).
+
+## The buy and sell questions: supply, demand and price drivers
+
+### Is it a good time to buy Bitcoin today?
+
+By the law of supply and demand, Bitcoin's long-run signal is positive (Oct 10 2026, score 8.5/10). New supply: +0.20% in the next 90 days. Demand: exceptional (5/5). Bitcoin's price drivers: 2 ▲ price up, 0 ▼ price down.
+
+### What is Bitcoin's 4-year cycle, and where are we in it now?
+
+Bitcoin's 4-year cycle follows the halving, when new coins per block are cut in half about every 4 years. The last cut was Apr 2024 and the next is about Apr 2028, so we are likely near the middle. New supply is already tiny: +0.20% in 90 days. By supply and demand, Bitcoin's long-run signal is positive today.
+
+### Can Bitcoin reach $1,000,000?
+
+At $1,000,000, Bitcoin would be worth about $20.1 trillion in total — about 12 times its $1.72 trillion market cap today (Oct 10 2026, about $85,486 a coin). Bitcoin's supply also grows +0.82% in the next year, so every extra coin needs buyers too. That leaves Bitcoin's long-run signal at positive, by supply and demand.
+
+### Is it time to take profit on Bitcoin?
+
+Bitcoin's signal is positive for now. Bitcoin's signal would turn if new supply jumps (today +0.20% in 90 days), or demand falls from exceptional.
+
+### Is Bitcoin a good investment right now?
+
+Bitcoin sits at 8.5/10 today (Oct 10 2026): supply 3.5/5, demand 5/5. One more year adds +0.82% to Bitcoin's supply. Long-run signal: positive.
+
+### When is a good time to buy Bitcoin?
+
+By the law of supply and demand, the better time to start a position in Bitcoin is when its new supply is low, demand is high and its price drivers point up. Bitcoin today: +0.20% new supply in 90 days (steady), demand exceptional (5/5), drivers 2 ▲ / 0 ▼.
+
+### What could push Bitcoin's price up or down?
+
+Right now 3 things drive Bitcoin's price (2 ▲, 0 ▼).
+- ▲ The 4-year cycle: since the Apr 2024 halving · next halving about Apr 2028 ▲ Big buyers: Still buying: about +80K BTC in 90 days.
+- Possible sellers: Mt. Gox must pay out the rest by Oct 31 2026.
+
+### Should I buy Bitcoin or Ethereum?
+
+Side by side on Oct 10 2026: Bitcoin at 8.5/10 with a positive signal, Ethereum at 7/10 with a positive signal. By supply and demand, Bitcoin is the stronger of the two.
+
+*Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*
+
+<!-- questions:end -->
+
+## Part 1 · Supply: BTC Inflation Analysis · September 2026 · Mixed flows · supply roughly steady
 
 Bitcoin's supply is growing slowly and on a fixed path. In the 90 days to Sep 30 2026, miners created **40,447 BTC** from **12,943 blocks** at **3.125 BTC** each, and nothing took any BTC out of the market: no burn, no buyback, no lock. That puts net supply growth at **+0.20%** over 90 days, with the same **+0.20%** expected for the next 90 days, under a hard cap of **21 million BTC**.
 
