@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/stable/inflation"
 tags:          ["crypto", "stable", "layer1", "tokenomics"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/stable/inflation](https://mrnasdog.com/research/stable/inflation)*
+
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the STABLE coin page, with demand and price drivers: [mrnasdog.com/research/stable](https://mrnasdog.com/research/stable)
 
 # STABLE Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 

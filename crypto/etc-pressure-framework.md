@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/etc/inflation"
 tags:          ["crypto", "etc", "ethereumclassic", "mining"]
 published:     true
 ---
-
 Originally published at [ETC Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/etc/inflation).
 
 # ETC Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+
+<!-- main-page -->
+**Main page:** the full ETC coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/etc](https://mrnasdog.com/research/etc)
 
 **Ethereum Classic (ETC)** is mildly inflationary by design: proof-of-work miners received **988,974 new ETC** in the 90 days to Oct 3 2026, and nothing was burned or bought back, so the circulating supply of **158.36M ETC** grew **+0.62%**. The ETC block reward was cut by a fifth on Jul 22 2026, so the next 90 days should add about **942,462 ETC** (**+0.60%**). The ETC supply can never pass its hard cap of about **210.7M**.
 

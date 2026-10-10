@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/render/inflation"
 tags: ["crypto", "render", "render-network", "solana"]
 published: true
 ---
-
 # RENDER Inflation Analysis · September 2026 · Mixed flows · supply roughly steady
 
 *Originally published at [mrnasdog.com/research/render/inflation](https://mrnasdog.com/research/render/inflation).*
+
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about Render Network, see [mrnasdog.com/research/render](https://mrnasdog.com/research/render).
 
 RENDER supply is roughly steady and rising slowly: over the last 90 days **1.43M RENDER** reached the market while paid jobs burned **335,705 RENDER**, a net rise of **+0.21%**, and we expect about the same in the next 90 days. Render Network runs a burn-mint equilibrium, so every paid rendering or AI job destroys RENDER while a fixed monthly emission pays node operators, grants and the Render Network Foundation. Today the burn covers under a quarter of the new RENDER that reaches the market, and most of the new supply comes from the Foundation's emission reserve, not from vesting.
 

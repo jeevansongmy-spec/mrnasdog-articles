@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/morpho/inflation"
 tags:          ["crypto", "morpho", "defi", "ethereum"]
 published:     true
 ---
-
 *Originally published at [mrnasdog.com/research/morpho/inflation](https://mrnasdog.com/research/morpho/inflation)*
+
+<!-- main-page -->
+➜ Start with the Morpho coin page for the short answer (should you buy MORPHO?) and its price drivers: [mrnasdog.com/research/morpho](https://mrnasdog.com/research/morpho)
 
 # MORPHO Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 

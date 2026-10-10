@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/lit/inflation"
 tags:          ["crypto", "lit", "lighter", "perpdex"]
 published:     true
 ---
-
 > Originally published at **[mrnasdog.com/research/lit/inflation](https://mrnasdog.com/research/lit/inflation)** by MrNasdog.
+
+<!-- main-page -->
+**Main page:** the full LIT coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/lit](https://mrnasdog.com/research/lit)
 
 # LIT Inflation Analysis · October 2026 · Mixed last 90D · projected to grow
 

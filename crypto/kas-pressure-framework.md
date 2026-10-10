@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/kas/inflation"
 tags: ["crypto", "kas", "kaspa", "proof-of-work"]
 published: true
 ---
-
 > Originally published at **[mrnasdog.com/research/kas/inflation](https://mrnasdog.com/research/kas/inflation)** by MrNasdog.
+
+<!-- main-page -->
+The Kaspa coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/kas](https://mrnasdog.com/research/kas). Below: supply, line by line.
 
 # KAS Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 

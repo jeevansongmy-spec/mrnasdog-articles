@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/nexo/inflation"
 tags:          ["crypto", "nexo", "cefi", "exchange-token"]
 published:     true
 ---
-
 > Originally published at **[mrnasdog.com/research/nexo/inflation](https://mrnasdog.com/research/nexo/inflation)** by MrNasdog.
+
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the NEXO coin page, with demand and price drivers: [mrnasdog.com/research/nexo](https://mrnasdog.com/research/nexo)
 
 # NEXO Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 

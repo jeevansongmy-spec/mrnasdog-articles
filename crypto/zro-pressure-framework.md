@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/zro/inflation"
 tags:          ["crypto", "zro", "layerzero", "interoperability"]
 published:     true
 ---
-
 Originally published at [ZRO Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/zro/inflation).
 
 # ZRO Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the ZRO coin page, with demand and price drivers: [mrnasdog.com/research/zro](https://mrnasdog.com/research/zro)
 
 **ZRO**, the token of the **LayerZero** cross-chain messaging protocol, is inflationary through unlocks, not through minting. Monthly vesting for investors and the team added **69.98M ZRO** to the float in the last 90 days, nothing was burned or taken back, and net supply grew **+11.02%** of the **634.91M ZRO** in circulation. The next 90 days carry three more unlocks of the same size, so the reading stays at **+11.02%**, while the monitor shows **+39.96%** because of how its circulating count was recorded. The ceiling is the 1B ZRO total supply, unchanged since 2024, of which about 365M ZRO is still outside the float.
 

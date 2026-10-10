@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/strk/inflation"
 tags:          ["crypto", "strk", "starknet", "layer2"]
 published:     true
 ---
-
 Originally published at [STRK Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/strk/inflation).
 
 # STRK Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about Starknet, see [mrnasdog.com/research/strk](https://mrnasdog.com/research/strk).
 
 **STRK supply is growing fast.** Over the 90 days to Oct 7 2026 about **720.0M STRK** reached the market — **381.0M** from the monthly contributor and investor unlocks, **300.0M** released from a team reserve wallet and **39.0M** newly minted for stakers — while nothing was burned or bought back. That is **+9.70%** of the 7.42B STRK in circulation, with about **+8.48%** expected in the next 90 days. The monitor reads **+12.69%**; the monthly unlocks keep coming until Mar 15 2027.
 

@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/pump/inflation"
 tags: ["crypto", "pump", "pumpfun", "solana"]
 published: true
 ---
-
 > Originally published at **[mrnasdog.com/research/pump/inflation](https://mrnasdog.com/research/pump/inflation)** by MrNasdog.
+
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the PUMP coin page, with demand and price drivers: [mrnasdog.com/research/pump](https://mrnasdog.com/research/pump)
 
 PUMP, the token of the Pump.fun coin launchpad on Solana, is **inflationary on its tradable float**: in the 90 days to Oct 2 2026, **82.75B PUMP** of team and backer coins left the locked wallets, while the Pump.fun buyback burned **22.07B PUMP**. Net, the float grew **+13.05%**, and the next 90 days project **+2.03%** as the monthly unlocks continue and the burn keeps going. No new PUMP can be created, so the ceiling is the **830.4B** PUMP that still exist.
 

@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/trump/inflation"
 tags:          ["crypto", "trump", "official-trump", "memecoin"]
 published:     true
 ---
-
 Originally published at [TRUMP Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/trump/inflation).
 
 # TRUMP Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about Official Trump, see [mrnasdog.com/research/trump](https://mrnasdog.com/research/trump).
 
 The tradable supply of Official Trump (TRUMP) is growing fast, even though no new TRUMP can ever be minted. In the 90 days to Oct 8 2026 the creators withdrew **44.45M TRUMP** from their on-chain vesting vault, nothing was bought back or burned, and the float grew by **+15.77%**. The inflation monitor reads **+18.76%**; the difference is only the base each side divides by. The ceiling is fixed at 1B TRUMP, but **718.13M** of it still sits in the creators' vault, waiting to be withdrawn.
 

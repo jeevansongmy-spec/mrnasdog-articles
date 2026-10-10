@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/gt/inflation"
 tags: ["crypto", "gt", "gate", "exchange-token"]
 published: true
 ---
-
 > Originally published at **[mrnasdog.com/research/gt/inflation](https://mrnasdog.com/research/gt/inflation)** by MrNasdog.
+
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the GT coin page, with demand and price drivers: [mrnasdog.com/research/gt](https://mrnasdog.com/research/gt)
 
 # GT Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 

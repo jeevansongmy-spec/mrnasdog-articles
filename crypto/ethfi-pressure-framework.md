@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/ethfi/inflation"
 tags: ["crypto", "ethfi", "etherfi", "defi"]
 published: true
 ---
-
 Originally published at [ETHFI Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/ethfi/inflation).
 
 # ETHFI Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+
+<!-- main-page -->
+**Main page:** the full ETHFI coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/ethfi](https://mrnasdog.com/research/ethfi)
 
 **ETHFI**, the governance token of **ether.fi**, is mildly inflationary on its tradable float even though no new ETHFI can ever be minted. Over the 90 days to Oct 5 2026 the last core-contributor grant released about **17.65M ETHFI** into a float of **965.35M**, while buybacks and burns removed **0**, for a net of **+1.83%**, and the next 90 days should look the same. The monitor reads **+4.09%**; the difference comes from a circulating count that was recounted twice, not from new coins. The ceiling is hard: supply is fixed at 1B, already burned down to 998,535,999, and the grant stops unlocking on Mar 18 2027.
 

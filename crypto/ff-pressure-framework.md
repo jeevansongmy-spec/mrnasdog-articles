@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/ff/inflation"
 tags:          ["crypto", "ff", "falconfinance", "defi"]
 published:     true
 ---
-
 Originally published at [FF Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/ff/inflation).
 
 # FF Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+
+<!-- main-page -->
+➜ Start with the Falcon Finance coin page for the short answer (should you buy FF?) and its price drivers: [mrnasdog.com/research/ff](https://mrnasdog.com/research/ff)
 
 **FF**, the governance token of **Falcon Finance**, is inflating fast on its tradable float even though its total supply can never grow. In the 90 days to Oct 7 2026, **373.06M FF** left the project's four lock wallets and joined the **3.34B FF** float, with no buyback and no burn on the other side: net **+11.16%**. The next 90 days hold three monthly unlocks worth **609.17M FF**, or **+18.22%**, because the team and investor cliff ended on Sep 29 2026. The hard ceiling is the fixed supply of **10B FF**; **6.66B** of it is still locked.
 

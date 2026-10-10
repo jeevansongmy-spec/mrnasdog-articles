@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/fil/inflation"
 tags:          ["crypto", "fil", "filecoin", "storage"]
 published:     true
 ---
-
 > Originally published at **[mrnasdog.com/research/fil/inflation](https://mrnasdog.com/research/fil/inflation)** by MrNasdog.
+
+<!-- main-page -->
+➜ Start with the Filecoin coin page for the short answer (should you buy FIL?) and its price drivers: [mrnasdog.com/research/fil](https://mrnasdog.com/research/fil)
 
 # FIL Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 

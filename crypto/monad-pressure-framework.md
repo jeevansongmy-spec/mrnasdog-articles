@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/monad/inflation"
 tags:          ["crypto", "mon", "monad", "layer1"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/monad/inflation](https://mrnasdog.com/research/monad/inflation)*
+
+<!-- main-page -->
+➜ Start with the Monad coin page for the short answer (should you buy MON?) and its price drivers: [mrnasdog.com/research/monad](https://mrnasdog.com/research/monad)
 
 # MON Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 

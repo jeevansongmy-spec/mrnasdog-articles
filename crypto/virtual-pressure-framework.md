@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/virtual/inflation"
 tags:          ["crypto", "virtual", "virtuals", "aiagents"]
 published:     true
 ---
-
 Originally published at [VIRTUAL Inflation Analysis · October 2026 · Mixed flows · supply roughly steady](https://mrnasdog.com/research/virtual/inflation).
 
 # VIRTUAL Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about Virtuals Protocol, see [mrnasdog.com/research/virtual](https://mrnasdog.com/research/virtual).
 
 **VIRTUAL**, the base coin of **Virtuals Protocol**, added about **0.25%** to its circulating supply in the last 90 days, and we expect only about **0.04%** in the next 90. The whole sell side is one old 2024 lockup paying out its last streams: **1.62M VIRTUAL** left it in the window and **295,279 VIRTUAL** is all that remains, free by **Oct 24 2026**. No new VIRTUAL can be minted — supply is capped at 1B and all 1B already exist — and nothing buys back or burns VIRTUAL, so the buy side is **0**.
 

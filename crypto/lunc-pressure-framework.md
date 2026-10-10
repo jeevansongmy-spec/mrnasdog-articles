@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/lunc/inflation"
 tags:          ["crypto", "lunc", "terraclassic", "tokenomics"]
 published:     true
 ---
-
 Originally published at [LUNC Inflation Analysis · October 2026 · Mixed flows · supply roughly steady](https://mrnasdog.com/research/lunc/inflation).
 
 # LUNC Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about Terra Luna Classic, see [mrnasdog.com/research/lunc](https://mrnasdog.com/research/lunc).
 
 **LUNC supply is roughly steady and leaning down.** Terra Classic mints no new LUNC, so the only coins that reached the market were **281.85M LUNC** paid out of the community pool by vote, while the transfer-tax burn, a monthly exchange burn, net staking and the pool's tax share took **9.33B LUNC** off it. Net, supply fell **0.16%** over 90 days and is projected to fall about **0.18%** in the next 90; the monitor reads **−0.17%**. The burn is real but small next to a **5.52T** float, so a 1.5% tax moves the supply by tenths of a percent, not by whole percents.
 

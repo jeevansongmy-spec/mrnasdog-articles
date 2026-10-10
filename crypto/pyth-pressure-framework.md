@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/pyth/inflation"
 tags:          ["crypto", "pyth", "solana", "oracle"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/pyth/inflation](https://mrnasdog.com/research/pyth/inflation)*
+
+<!-- main-page -->
+The Pyth Network coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/pyth](https://mrnasdog.com/research/pyth). Below: supply, line by line.
 
 # PYTH Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 

@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/crv/inflation"
 tags: ["crypto", "crv", "curve", "defi"]
 published: true
 ---
-
 Originally published at [CRV Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/crv/inflation).
 
 # CRV Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+
+<!-- main-page -->
+The Curve DAO coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/crv](https://mrnasdog.com/research/crv). Below: supply, line by line.
 
 **CRV**, the governance and reward token of **Curve Finance**, is inflationary: over the 90 days to Oct 7 2026 the circulating supply grew by a net **+2.37%**, and the framework projects about **+1.84%** for the next 90 days. Two flows drive it: **25.90M CRV** of new gauge emissions and **11.79M CRV** coming back out of ended vote-escrow locks, against only **1.38M CRV** of new locks. Curve has no buyback and no fee burn, and the yearly emission cut on Aug 12 2026 slows the printing but does not stop it.
 

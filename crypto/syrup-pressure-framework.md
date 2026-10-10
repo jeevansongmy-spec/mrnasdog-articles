@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/syrup/inflation"
 tags:          ["crypto", "syrup", "maple", "defi"]
 published:     true
 ---
-
 Originally published at [SYRUP Inflation Analysis · October 2026 · Mixed flows · supply roughly steady](https://mrnasdog.com/research/syrup/inflation).
 
 # SYRUP Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the SYRUP coin page, with demand and price drivers: [mrnasdog.com/research/syrup](https://mrnasdog.com/research/syrup)
 
 SYRUP, the token of the Maple Finance lending platform, was flat over the last 90 days: **0 SYRUP** of new supply reached the market and **0 SYRUP** left it, for a net of **0.00%**, with the same **0.00%** projected for the next 90 days. The three-year SYRUP issuance stopped on **Oct 1 2026**, but **23.2M SYRUP** earned before that date has not been minted yet, and the Maple buyback of **2.90M SYRUP** stays in a wallet that still counts as circulating. The monitor reads **+0.37%**, close enough that no warning is needed.
 

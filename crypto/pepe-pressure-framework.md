@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/pepe/inflation"
 tags: ["crypto", "pepe", "memecoin", "ethereum"]
 published: true
 ---
-
 > Originally published at **[mrnasdog.com/research/pepe/inflation](https://mrnasdog.com/research/pepe/inflation)** by MrNasdog.
+
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about Pepe, see [mrnasdog.com/research/pepe](https://mrnasdog.com/research/pepe).
 
 # PEPE Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 

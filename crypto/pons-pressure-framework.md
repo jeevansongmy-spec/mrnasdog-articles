@@ -1,5 +1,5 @@
 ---
-title: "Should I enter Pons right now? Supply, Demand and Price Drivers (October 2026)"
+title:         "PONS Inflation Analysis · October 2026 · Supply shrinking · projected to keep shrinking"
 description:   "PONS is shrinking: no new coins, and 321.66M PONS burned since launch — 207.06M by a fee-funded buyback. Net −47.41% in 90 days, about −8.39% projected next."
 canonical_url: "https://mrnasdog.com/research/pons/inflation"
 tags:          ["crypto", "pons", "launchpad", "tokenburn"]
@@ -7,48 +7,10 @@ published:     true
 ---
 *Originally published at [https://mrnasdog.com/research/pons/inflation](https://mrnasdog.com/research/pons/inflation)*
 
-# Should I enter Pons right now? Supply, Demand and Price Drivers (October 2026)
+<!-- main-page -->
+The Pons coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/pons](https://mrnasdog.com/research/pons). Below: supply, line by line.
 
-<!-- questions:start -->
-
-Updated Oct 10 2026 from the live page: [mrnasdog.com/research/pons](https://mrnasdog.com/research/pons).
-
-## The buy and sell questions: supply, demand and price drivers
-
-### Should I enter Pons right now?
-
-By the law of supply and demand, Pons's long-run signal is positive (Oct 10 2026, score 10/10). New supply: −8.39% in the next 90 days. Demand: exceptional (5/5). Pons's price drivers: 2 ▲ price up, 1 ▼ price down.
-
-### What is Pons crypto, in simple words?
-
-PONS is the token tied to a meme coin launchpad on Robinhood Chain, and Pons earns about 95% of that chain's launchpad fees. Its supply is shrinking, −5.70% in the next 90 days. The catch: it rises and falls with meme trading on Robinhood Chain. That leaves Pons's long-run signal at positive, by supply and demand.
-
-### Should I sell Pons or hold?
-
-Pons's signal is positive for now. Pons's signal would turn if new supply jumps (today −8.39% in 90 days), or demand falls from exceptional, or Robinhood Chain trading keeps pointing down.
-
-### Is Pons worth investing in for the long term?
-
-Pons sits at 10/10 today (Oct 10 2026): supply 5/5, demand 5/5. One more year adds −33.54% to Pons's supply. Long-run signal: positive.
-
-### When is a good time to buy Pons?
-
-By the law of supply and demand, the better time to add Pons is when its new supply is low, demand is high and its price drivers point up. Pons today: −8.39% new supply in 90 days (shrinking), demand exceptional (5/5), drivers 2 ▲ / 1 ▼.
-
-### What could push Pons's price up or down?
-
-Right now 3 things drive Pons's price (2 ▲, 1 ▼).
-- ▲ Launchpad share: Pons earns about 95% of Robinhood Chain launchpad fees ▼ Robinhood Chain trading: PONS rises and falls with meme trading on Robinhood Chain ▲ Big exchange listings: Seven big listings in 38 days; Coinbase and Upbit came last
-
-### Is Pons a better investment than Bitcoin?
-
-Side by side on Oct 10 2026: Pons at 10/10 with a positive signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Pons is the stronger of the two.
-
-*Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*
-
-<!-- questions:end -->
-
-## Part 1 · Supply: PONS Inflation Analysis · October 2026 · Supply shrinking · projected to keep shrinking
+# PONS Inflation Analysis · October 2026 · Supply shrinking · projected to keep shrinking
 
 The MrNasdog Pressure Framework reads PONS as a shrinking supply: **no new PONS** enters the market, while **321.66M PONS** has been burned since the Pons launch on Jul 13 2026 — **−47.41%** of today's float over the last 90 days. The Pons fee buyback alone is set to burn about **56.89M PONS** more in the next 90 days, or **−8.39%**. The supply can only go down: all **1B PONS** was created once, with no mint function, no team share and no vesting.
 

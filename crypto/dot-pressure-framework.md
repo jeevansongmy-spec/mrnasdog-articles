@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/dot/inflation"
 tags:          ["crypto", "dot", "polkadot", "layer0"]
 published:     true
 ---
-
 > Originally published at **[mrnasdog.com/research/dot/inflation](https://mrnasdog.com/research/dot/inflation)** by MrNasdog.
+
+<!-- main-page -->
+➜ Start with the Polkadot coin page for the short answer (should you buy DOT?) and its price drivers: [mrnasdog.com/research/dot](https://mrnasdog.com/research/dot)
 
 # DOT Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 

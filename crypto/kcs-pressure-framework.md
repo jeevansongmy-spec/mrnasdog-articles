@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/kcs/inflation"
 tags: ["crypto", "kcs", "kucoin", "exchange"]
 published: true
 ---
-
 > Originally published at **[mrnasdog.com/research/kcs/inflation](https://mrnasdog.com/research/kcs/inflation)** by MrNasdog.
+
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the KCS coin page, with demand and price drivers: [mrnasdog.com/research/kcs](https://mrnasdog.com/research/kcs)
 
 # KCS Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 

@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/xdc/inflation"
 tags:          ["crypto", "xdc", "xdcnetwork", "layer1"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/xdc/inflation](https://mrnasdog.com/research/xdc/inflation)*
+
+<!-- main-page -->
+➜ Start with the XDC Network coin page for the short answer (should you buy XDC?) and its price drivers: [mrnasdog.com/research/xdc](https://mrnasdog.com/research/xdc)
 
 # XDC Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 

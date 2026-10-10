@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/hnt/inflation"
 tags:          ["crypto", "hnt", "helium", "depin"]
 published:     true
 ---
-
 *Originally published at [mrnasdog.com/research/hnt/inflation](https://mrnasdog.com/research/hnt/inflation)*
+
+<!-- main-page -->
+➜ Start with the Helium coin page for the short answer (should you buy HNT?) and its price drivers: [mrnasdog.com/research/hnt](https://mrnasdog.com/research/hnt)
 
 # HNT Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 

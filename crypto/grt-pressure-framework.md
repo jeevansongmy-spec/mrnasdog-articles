@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/grt/inflation"
 tags:          ["crypto", "grt", "the-graph", "infrastructure"]
 published:     true
 ---
-
 Originally published at [GRT Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/grt/inflation).
 
 # GRT Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+
+<!-- main-page -->
+➜ Start with the The Graph coin page for the short answer (should you buy GRT?) and its price drivers: [mrnasdog.com/research/grt](https://mrnasdog.com/research/grt)
 
 The MrNasdog Pressure Framework reads GRT at **+1.02% net** over the last 90 days and **+1.07%** over the next 90. The Graph minted **72.60M GRT** of new issuance and the Graph Foundation drew **38.75M GRT** from its vesting lock, while the protocol burned only **63,251 GRT**. GRT has no supply cap: issuance runs at a fixed 120.73 GRT per Ethereum block, and the Foundation lock keeps opening every month until December 2030.
 

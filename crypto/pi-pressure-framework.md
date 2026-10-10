@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/pi/inflation"
 tags: ["crypto", "pi", "pinetwork", "layer1"]
 published: true
 ---
-
 > Originally published at **[mrnasdog.com/research/pi/inflation](https://mrnasdog.com/research/pi/inflation)** by MrNasdog.
+
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about Pi Network, see [mrnasdog.com/research/pi](https://mrnasdog.com/research/pi).
 
 # PI Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 

@@ -1,5 +1,5 @@
 ---
-title: "Is it time to buy the JasmyCoin dip? Supply, Demand and Price Drivers (October 2026)"
+title:         "JASMY Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
 description: "JASMY supply is flat: a fixed 50B JasmyCoin cap, no new coins and no burn gives 0.00% net over 90 days, the same next. One 555.0M issuer wallet to watch."
 canonical_url: "https://mrnasdog.com/research/jasmy/inflation"
 tags: ["crypto", "jasmy", "tokenomics", "ethereum"]
@@ -7,56 +7,10 @@ published: true
 ---
 Originally published at [JASMY Inflation Analysis · October 2026 · Mixed flows · supply roughly steady](https://mrnasdog.com/research/jasmy/inflation).
 
-# Is it time to buy the JasmyCoin dip? Supply, Demand and Price Drivers (October 2026)
+# JASMY Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
-<!-- questions:start -->
-
-Updated Oct 10 2026 from the live page: [mrnasdog.com/research/jasmy](https://mrnasdog.com/research/jasmy).
-
-## The buy and sell questions: supply, demand and price drivers
-
-### Is it time to buy the JasmyCoin dip?
-
-Supply and demand point to a mixed long-run signal for JasmyCoin (Oct 10 2026, score 6/10). JasmyCoin adds 0.00% new supply in 90 days, and demand reads very weak (1.5/5). JasmyCoin's price drivers: 1 ▲ price up, 1 ▼ price down.
-
-### Is JasmyCoin dead after losing its Korean exchanges?
-
-Not dead, but hurt. Upbit and Bithumb dropped JASMY, and Korean withdrawals end Oct 14 2026. On the bright side, the company is talking again after 290 days of silence, and new supply stays at 0.00% in 90 days. Demand is the weak part, at 1.5/5. Our supply-and-demand read for JasmyCoin stays mixed.
-
-### What does Japan's exchange news mean for JASMY?
-
-It likely adds pressure. Japan's BITPoint is following Korea's Upbit and Bithumb in dropping JASMY, so fewer places to buy it. That hits demand, which already reads very weak (1.5/5) on Oct 10 2026, while supply stays flat. By supply and demand, JasmyCoin's long-run signal is mixed today.
-
-### Could JasmyCoin ever hit $1?
-
-JasmyCoin trades near 0.501 cents (Oct 10 2026). $1 a coin means a $49.4B market cap, 199 times today's $248M. JasmyCoin's supply barely changes in the next year (0.00%), so the whole move would have to come from demand. Supply and demand still read mixed for JasmyCoin in the long run.
-
-### Should I sell JasmyCoin or hold?
-
-We would read JasmyCoin differently if new supply jumps (today 0.00% in 90 days), or demand falls from very weak, or Exchange delistings keeps pointing down. Until then JasmyCoin's signal stays mixed. Mark this date for JasmyCoin: Oct 14 2026 — Korea withdrawals end.
-
-### Is JasmyCoin worth investing in for the long term?
-
-JasmyCoin scores 6/10 on our framework (Oct 10 2026): supply 4.5/5 (flat), demand 1.5/5. Over the next year JasmyCoin's supply changes 0.00%. The long-run signal is mixed.
-
-### How do I know when to buy JasmyCoin?
-
-Supply and demand favor JasmyCoin most when little new supply is coming, demand is strong and the price drivers point up. Right now JasmyCoin has 0.00% new supply in 90 days (flat), demand very weak (1.5/5), drivers 1 ▲ / 1 ▼.
-
-### Will JasmyCoin go up in 2026?
-
-JasmyCoin's price drivers today: 1 pointing up, 1 pointing down, out of 2.
-- ▼ Exchange delistings: Korea's Upbit and Bithumb dropped JASMY; Japan's BITPoint follows ▲ Company news flow: Company went 290 days silent; news returned after Korea's delisting
-
-### Is JasmyCoin a better investment than Bitcoin?
-
-JasmyCoin: mixed signal, 6/10 · Bitcoin: positive signal, 8.5/10 (Oct 10 2026). By supply and demand, JasmyCoin reads weaker than Bitcoin today.
-
-*Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*
-
-<!-- questions:end -->
-
-## Part 1 · Supply: JASMY Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the JASMY coin page, with demand and price drivers: [mrnasdog.com/research/jasmy](https://mrnasdog.com/research/jasmy)
 
 JasmyCoin (JASMY) supply is **flat**: in the 90 days to Oct 10 2026 no new JASMY was created and none was burned, so the net change is **0.00%**, and the next 90 days project the same. JASMY is a fixed-supply token of **50B** coins on Ethereum, all created in Dec 2019; **49.44B** circulate, and the rest — **555.0M JASMY** — sits in the original issuer wallet, which has not moved since Jan 16 2025. Our monitor reads **0.00%** too.
 

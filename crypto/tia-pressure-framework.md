@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/tia/inflation"
 tags:          ["crypto", "tia", "celestia", "data-availability"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/tia/inflation](https://mrnasdog.com/research/tia/inflation)*
+
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the TIA coin page, with demand and price drivers: [mrnasdog.com/research/tia](https://mrnasdog.com/research/tia)
 
 # TIA Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 

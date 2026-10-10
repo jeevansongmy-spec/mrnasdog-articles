@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/optimism/inflation"
 tags:          ["crypto", "op", "optimism", "layer2"]
 published:     true
 ---
-
 Originally published at [OP Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/optimism/inflation).
 
 # OP Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+
+<!-- main-page -->
+➜ Start with the Optimism coin page for the short answer (should you buy OP?) and its price drivers: [mrnasdog.com/research/optimism](https://mrnasdog.com/research/optimism)
 
 OP supply is growing by about **+1.26%** per 90 days, and the MrNasdog Pressure Framework projects about **+1.90%** for the next 90 days. No OP is minted: all **4.29B OP** were created in 2022. The growth comes from the Optimism Foundation handing out its reserve as grants (**33.96M OP** in 90 days), only partly offset by a fee-funded buyback that took back **4.94M OP**. The Foundation still holds about **1.75B OP**, so the ceiling on new circulating supply is set by its spending, not by code.
 

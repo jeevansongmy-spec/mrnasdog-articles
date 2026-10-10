@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/pol/inflation"
 tags:          ["crypto", "pol", "polygon", "layer2"]
 published:     true
 ---
-
 > Originally published at **[mrnasdog.com/research/pol/inflation](https://mrnasdog.com/research/pol/inflation)** by MrNasdog.
+
+<!-- main-page -->
+The Polygon coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/pol](https://mrnasdog.com/research/pol). Below: supply, line by line.
 
 POL supply is roughly steady, and over the last 90 days it actually shrank. Polygon mints new POL every day at a fixed **2% a year**, which made **52.24M POL** in the window, but on Sep 23 2026 the network burned **100.0M POL** of saved base fees in one go. Net, supply fell by **0.45%**; the monitor reads **−0.40%**. For the next 90 days the mint keeps running while only a promised **25M POL** burn is counted, so we project about **+0.26%**. POL has no supply cap.
 

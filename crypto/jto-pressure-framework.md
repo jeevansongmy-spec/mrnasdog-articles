@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/jto/inflation"
 tags:          ["crypto", "jito", "solana", "jto"]
 published:     true
 ---
-
 Originally published at [JTO Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/jto/inflation).
 
 # JTO Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+
+<!-- main-page -->
+The Jito coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/jto](https://mrnasdog.com/research/jto). Below: supply, line by line.
 
 JTO supply is growing fast, and almost all of the growth is the investor and team unlock. In the 90 days to Oct 9 2026, the Jito vesting schedule released **33.46M JTO** and the DAO's rewards budget paid out **4.31M JTO**, while JTX trading fees sent **443,711 JTO** into the DAO treasury. Net, the JTO float grew **+7.04%**, and we project **+4.11%** for the next 90 days, because the day-by-day unlock stops for good on Dec 7 2026. No new JTO can ever be minted, so once the vesting ends, supply growth depends only on what the DAO and the Foundation choose to spend.
 

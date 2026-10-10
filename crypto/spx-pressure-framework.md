@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/spx/inflation"
 tags:          ["crypto", "spx", "spx6900", "memecoin"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/spx/inflation](https://mrnasdog.com/research/spx/inflation)*
+
+<!-- main-page -->
+➜ Start with the SPX6900 coin page for the short answer (should you buy SPX?) and its price drivers: [mrnasdog.com/research/spx](https://mrnasdog.com/research/spx)
 
 # SPX Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 

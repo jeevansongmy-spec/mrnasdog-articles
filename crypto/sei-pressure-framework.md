@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/sei/inflation"
 tags:           ["crypto", "sei", "cosmos", "layer1"]
 published:     true
 ---
-
 Originally published at [SEI Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/sei/inflation).
 
 # SEI Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about Sei Network, see [mrnasdog.com/research/sei](https://mrnasdog.com/research/sei).
 
 SEI supply is growing fast and nothing takes it back. In the 90 days to Oct 7 2026, **335.12M SEI** reached the market — **293.33M** from team and private-sale vesting and **41.79M** newly minted for stakers — against **0** bought back or burned. That is **+4.98%** of the circulating supply, and the next 90 days project **+4.96%**, because the monthly unlocks run on a fixed calendar until Aug 15 2027 and the mint runs until Aug 2033.
 

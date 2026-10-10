@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/pieverse/inflation"
 tags:          ["crypto", "pieverse", "tokenomics", "vesting"]
 published:     true
 ---
-
 Originally published at [PIEVERSE Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/pieverse/inflation).
 
 # PIEVERSE Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the PIEVERSE coin page, with demand and price drivers: [mrnasdog.com/research/pieverse](https://mrnasdog.com/research/pieverse)
 
 PIEVERSE supply is growing fast, and the next 90 days should be faster. Project safes released **29.75M PIEVERSE** into the market between Jul 9 and Oct 7 2026, against a circulating count of **274.75M**, for a net of **+10.83%**. Nothing was bought back, burned or locked away, so removals were **0**. The 12-month lock on team and investor coins ends on Nov 14 2026, which lifts the projection to **54.58M PIEVERSE**, or **+19.87%**, inside a hard limit of 1B coins.
 

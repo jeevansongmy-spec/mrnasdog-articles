@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/atom/inflation"
 tags: ["crypto", "atom", "cosmos", "staking"]
 published: true
 ---
-
 *Originally published at [https://mrnasdog.com/research/atom/inflation](https://mrnasdog.com/research/atom/inflation)*
+
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about Cosmos Hub, see [mrnasdog.com/research/atom](https://mrnasdog.com/research/atom).
 
 # ATOM Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 

@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/mnt/inflation"
 tags:          ["crypto", "mnt", "mantle", "layer-2"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/mnt/inflation](https://mrnasdog.com/research/mnt/inflation)*
+
+<!-- main-page -->
+**Main page:** the full MNT coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/mnt](https://mrnasdog.com/research/mnt)
 
 # MNT Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 

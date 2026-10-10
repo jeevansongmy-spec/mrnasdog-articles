@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/fet/inflation"
 tags:                    ["crypto", "fet", "fetchai", "ai"]
 published:     true
 ---
-
 Originally published at [FET Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/fet/inflation).
 
 # FET Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+
+<!-- main-page -->
+➜ Start with the ASI Alliance coin page for the short answer (should you buy FET?) and its price drivers: [mrnasdog.com/research/fet](https://mrnasdog.com/research/fet)
 
 FET, the token of the Artificial Superintelligence Alliance, is **strongly inflationary**: over the last 90 days **356.84M FET** of new supply reached the market against **0** bought back or burned, a net **+15.44%** of the **2.31B** FET counted as circulating, and about **+15.48%** is expected in the next 90 days. Almost all of it comes from the bridge on Fetch.ai's own chain, which created **292M** new native FET in five batches with no Ethereum FET locked or burned to match; the monitor reads only **+2.89%** because it counts FET on Ethereum alone.
 

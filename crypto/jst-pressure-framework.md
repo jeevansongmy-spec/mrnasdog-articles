@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/jst/inflation"
 tags:                    ["crypto", "jst", "just", "defi"]
 published:     true
 ---
-
 Originally published at [JST Inflation Analysis · October 2026 · Supply shrinking · projected to keep shrinking](https://mrnasdog.com/research/jst/inflation).
 
 # JST Inflation Analysis · October 2026 · Supply shrinking · projected to keep shrinking
+
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about JUST, see [mrnasdog.com/research/jst](https://mrnasdog.com/research/jst).
 
 JST, the governance token of JUST and JustLend DAO on TRON, is shrinking. No new JST was created in the last 90 days, while JustLend DAO destroyed **355.0M JST** on Jul 17 2026, so the float fell by **4.34%**. The next quarterly buyback and burn, due in mid-October 2026, should remove about **154.2M JST** more, or **1.88%**. The only thing that could reverse this is the token owner's mint key, which has not been used since 2020.
 

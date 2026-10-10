@@ -1,5 +1,5 @@
 ---
-title: "Is it a good time to buy Four today? Supply, Demand and Price Drivers (October 2026)"
+title:         "FORM Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
 description: "FORM supply is roughly steady: no coins printed, 20.5K paid from a team wallet and a 408.6K team buyback-burn give −0.10% in 90 days, +0.01% next."
 canonical_url: "https://mrnasdog.com/research/form/inflation"
 tags: ["crypto", "form", "four", "launchpad"]
@@ -7,48 +7,10 @@ published: true
 ---
 Originally published at [FORM Inflation Analysis · October 2026 · Mixed flows · supply roughly steady](https://mrnasdog.com/research/form/inflation).
 
-# Is it a good time to buy Four today? Supply, Demand and Price Drivers (October 2026)
+# FORM Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
-<!-- questions:start -->
-
-Updated Oct 10 2026 from the live page: [mrnasdog.com/research/form](https://mrnasdog.com/research/form).
-
-## The buy and sell questions: supply, demand and price drivers
-
-### Is it a good time to buy Four today?
-
-Based on the law of supply and demand, the long-run signal for Four is negative. As of Oct 10 2026, score 5/10, Four faces +0.01% new supply over 90 days, with demand low (1/5). Four's price drivers: 0 ▲ price up, 2 ▼ price down.
-
-### Why is Four (FORM) down so much?
-
-Mostly because Four.meme lost its users. Its launchpad share fell from about 90% to about 1%, and trading there is far below the Oct 2025 peak. Supply is tight (+0.01% in 90 days), so the problem looks like demand, which reads low at 1/5. That leaves Four's long-run signal at negative, by supply and demand.
-
-### Should I sell Four or hold?
-
-Today the signal is negative. Supply and demand would point the other way for Four if new supply jumps (today +0.01% in 90 days), or demand falls from low, or Four.meme market share and Four.meme trading volume keep pointing down.
-
-### Is Four worth investing in for the long term?
-
-On our framework Four scores 5/10 (Oct 10 2026), with supply 4/5 (tight) and demand 1/5. In the next year Four's supply changes +0.02%, so the long-run signal reads negative.
-
-### What is the best time to invest in Four?
-
-The law of supply and demand points to one window for Four: low new supply, high demand, drivers pointing up. Where Four stands today: +0.01% new supply in 90 days (tight), demand low (1/5), drivers 0 ▲ / 2 ▼.
-
-### Will Four go up? What could move its price?
-
-Four has 2 price drivers today (0 ▲ price up, 2 ▼ price down).
-- ▼ Four.meme market share: Four.meme's launchpad share fell from about 90% to about 1% ▼ Four.meme trading volume: Four.meme trading is far below its Oct 2025 peak
-
-### Is Four a better investment than Bitcoin?
-
-Four reads negative at 5/10; Bitcoin reads positive at 8.5/10 (Oct 10 2026). On supply and demand, Four looks weaker than Bitcoin today.
-
-*Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*
-
-<!-- questions:end -->
-
-## Part 1 · Supply: FORM Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about Four, see [mrnasdog.com/research/form](https://mrnasdog.com/research/form).
 
 The MrNasdog Pressure Framework reads Four (FORM) as **roughly steady, leaning slightly smaller**: over the last 90 days **20,547** coins left a project wallet while the team bought and burned **408,602 FORM**, so supply fell **0.10%**. No FORM is printed as a reward; new FORM only appears when holders swap the older BNX token one for one. For the next 90 days we expect about **+0.01%**, because the burn was a single event and the wallet payouts continue.
 

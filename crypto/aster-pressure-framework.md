@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/aster/inflation"
 tags:                    ["crypto", "aster", "bnbchain", "defi"]
 published:     true
 ---
-
 Originally published at [ASTER Inflation Analysis · October 2026 · Mixed last 90D · projected to grow](https://mrnasdog.com/research/aster/inflation).
 
 # ASTER Inflation Analysis · October 2026 · Mixed last 90D · projected to grow
+
+<!-- main-page -->
+➜ Start with the Aster coin page for the short answer (should you buy ASTER?) and its price drivers: [mrnasdog.com/research/aster](https://mrnasdog.com/research/aster)
 
 ASTER supply grew **+0.25%** over the last 90 days and is projected to grow about **+2.50%** over the next 90. The only new coins in the window were **6.75M ASTER** paid to stakers from the locked ecosystem pool, and the next window adds a **63.38M ASTER** Stage 6 airdrop payout on Nov 4 2026. Aster spends 99% of its trading fees buying ASTER, but those coins go to stakers, and the matching burn — **23.54M ASTER** in 90 days — comes from the locked team wallet, so neither takes a single tradable coin off the market. The monitor reads **+1.10%**, because it counts burned coins as circulating.
 

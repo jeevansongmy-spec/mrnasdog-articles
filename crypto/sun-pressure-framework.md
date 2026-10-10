@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/sun/inflation"
 tags:                    ["crypto", "sun", "sunswap", "defi"]
 published:     true
 ---
-
 Originally published at [SUN Inflation Analysis · October 2026 · Mixed flows · supply roughly steady](https://mrnasdog.com/research/sun/inflation).
 
 # SUN Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about SUN, see [mrnasdog.com/research/sun](https://mrnasdog.com/research/sun).
 
 SUN supply is roughly steady and edging down: no new SUN can ever be created, and the SUN.io revenue buyback burned **9,025,027 SUN** in the last 90 days, a net change of **−0.05%**. The next quarterly burn, due around **Oct 25 2026**, should remove about **8.27M SUN**, or **−0.04%** over the next 90 days. Our inflation monitor reads **−0.05%** as well, so the two readings agree. The supply is fixed at **19.90B SUN**, and the real risk is not new coins but the very large reserve wallets that already count as circulating.
 

@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/memecore/inflation"
 tags:          ["crypto", "m", "memecore", "layer1"]
 published:     true
 ---
-
 > Originally published at **[mrnasdog.com/research/memecore/inflation](https://mrnasdog.com/research/memecore/inflation)** by MrNasdog.
+
+<!-- main-page -->
+**Main page:** the full M coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/memecore](https://mrnasdog.com/research/memecore)
 
 # M Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 

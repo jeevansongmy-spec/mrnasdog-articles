@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/apt/inflation"
 tags:          ["crypto", "apt", "aptos", "layer1"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/apt/inflation](https://mrnasdog.com/research/apt/inflation)*
+
+<!-- main-page -->
+➜ Start with the Aptos coin page for the short answer (should you buy APT?) and its price drivers: [mrnasdog.com/research/apt](https://mrnasdog.com/research/apt)
 
 # APT Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 

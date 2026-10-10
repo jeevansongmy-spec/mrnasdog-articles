@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/binancelife/inflation"
 tags: ["crypto", "blife", "binancelife", "memecoin"]
 published: true
 ---
-
 Originally published at [BLIFE Inflation Analysis · October 2026 · Mixed flows · supply roughly steady](https://mrnasdog.com/research/binancelife/inflation).
 
 # BLIFE Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the BLIFE coin page, with demand and price drivers: [mrnasdog.com/research/binancelife](https://mrnasdog.com/research/binancelife)
 
 **BLIFE** (币安人生, BinanceLife) has a frozen supply: **0 BLIFE** of new coins came out in the last 90 days, **0 BLIFE** was taken out, and the net change is **0.00%**, with the same **0.00%** projected for the next 90 days. The monitor reads **−0.0017%**, a gap of under **0.01 points**. All **1B BLIFE** were created at launch on BNB Chain, the mint switch has no owner left to flip it, and nothing is locked or vesting, so 1B is both the floor and the ceiling.
 

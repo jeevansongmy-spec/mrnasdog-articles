@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/imx/inflation"
 tags:          ["crypto", "imx", "immutable", "gaming"]
 published:     true
 ---
-
 *Originally published at [mrnasdog.com/research/imx/inflation](https://mrnasdog.com/research/imx/inflation)*
+
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about Immutable, see [mrnasdog.com/research/imx](https://mrnasdog.com/research/imx).
 
 # IMX Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 

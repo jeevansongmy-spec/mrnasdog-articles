@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/pendle/inflation"
 tags:                    ["crypto", "pendle", "defi", "inflation"]
 published:     true
 ---
-
 Originally published at [PENDLE Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/pendle/inflation).
 
 # PENDLE Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+
+<!-- main-page -->
+➜ Start with the Pendle coin page for the short answer (should you buy PENDLE?) and its price drivers: [mrnasdog.com/research/pendle](https://mrnasdog.com/research/pendle)
 
 PENDLE supply is growing even though no new PENDLE has been minted since March 2025. In the 90 days to Oct 8 2026, **2.45M PENDLE** moved from wallets that do not count as circulating into the market: pool rewards and team payments from the Pendle treasury, plus **881K PENDLE** from old vote-locks that ran out. Nothing was removed, so the net change is **+1.41%**, and the lock dates point to about **+1.86%** in the next 90 days. The monitor reads **+1.36%**, so the two readings agree.
 

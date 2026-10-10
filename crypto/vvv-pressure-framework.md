@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/vvv/inflation"
 tags:          ["crypto", "vvv", "venice", "ai"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/vvv/inflation](https://mrnasdog.com/research/vvv/inflation)*
+
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about Venice Token, see [mrnasdog.com/research/vvv](https://mrnasdog.com/research/vvv).
 
 # VVV Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 

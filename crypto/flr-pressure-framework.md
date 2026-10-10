@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/flr/inflation"
 tags: ["crypto", "flr", "flare", "oracles"]
 published: true
 ---
-
 Originally published at [FLR Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/flr/inflation).
 
 # FLR Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+
+<!-- main-page -->
+The Flare coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/flr](https://mrnasdog.com/research/flr). Below: supply, line by line.
 
 Flare (FLR) supply is growing, and the MrNasdog Pressure Framework expects it to keep growing at about the same pace. Over the 90 days to Oct 7 2026, **941.6M FLR** reached the market from staking and data rewards and from rFLR vesting, while burns and fee capture removed only **26.5M FLR**. That is a net **+1.05%** of the **87.10B FLR** in circulation, with **+1.04%** projected for the next 90 days. The FIP.16 vote cut Flare inflation to 3% a year and made the fee burn real, but burns and fee capture are still about one thirty-fifth of what is paid out.
 

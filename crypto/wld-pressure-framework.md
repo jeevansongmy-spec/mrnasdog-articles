@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/wld/inflation"
 tags:                    ["crypto", "wld", "worldcoin", "tokenomics"]
 published:     true
 ---
-
 Originally published at [WLD Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/wld/inflation).
 
 # WLD Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+
+<!-- main-page -->
+The World coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/wld](https://mrnasdog.com/research/wld). Below: supply, line by line.
 
 WLD supply is growing, and none of it comes from minting. Over the 90 days to Oct 3 2026, World put **154.4M WLD** on the market: **128.2M WLD** from the scheduled unlock of team and investor tokens, **15.7M WLD** of Foundation payouts and **10.5M WLD** of grants to verified people. Nothing was bought back or burned, so circulating supply rose **+4.07%**, and the next 90 days project **+3.36%**. The WLD token contract cannot mint a single new coin before **Jul 24 2038**; until then every new WLD in the market is an old WLD being let out of a lock or a Foundation wallet.
 

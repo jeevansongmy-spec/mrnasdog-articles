@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/tezos/inflation"
 tags:          ["crypto", "xtz", "tezos", "layer1"]
 published:     true
 ---
-
 Originally published at [XTZ Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/tezos/inflation).
 
 # XTZ Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+
+<!-- main-page -->
+➜ Start with the Tezos coin page for the short answer (should you buy XTZ?) and its price drivers: [mrnasdog.com/research/tezos](https://mrnasdog.com/research/tezos)
 
 Tezos (XTZ) supply is growing at a steady, moderate pace. Between Jul 11 and Oct 9 2026 the Tezos protocol created **8.12M XTZ** in baker rewards and old 2017 sale claims added **15,159 XTZ**, while storage burns, the exchange burn and lost rollup bonds destroyed **62,772 XTZ**. Net, circulating XTZ rose **+0.73%** in 90 days, the monitor reads **+0.74%**, and we expect about **+0.74%** again in the next 90 days. Tezos has no supply cap; the only brake is adaptive issuance, which pays less as more XTZ is staked.
 

@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/sky/inflation"
 tags:                    ["crypto", "sky", "makerdao", "defi"]
 published:     true
 ---
-
 Originally published at [SKY Inflation Analysis · October 2026 · Mixed flows · supply roughly steady](https://mrnasdog.com/research/sky/inflation).
 
 # SKY Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+
+<!-- main-page -->
+**Main page:** the full SKY coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/sky](https://mrnasdog.com/research/sky)
 
 SKY, the staking and voting token of Sky (the protocol behind the USDS stablecoin, formerly MakerDAO), had **mixed flows and a roughly steady supply** over the last 90 days. No new SKY was minted, but stakers were paid **196.7M SKY** out of the protocol treasury while the Smart Burn Engine bought back **87.4M SKY**, so the counted float grew **+0.47%**, close to the monitor's **+0.50%**. With buybacks now covering most of the staker pay, the next 90 days project to about **+0.14%**.
 

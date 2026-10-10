@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/btt/inflation"
 tags: ["crypto", "btt", "bittorrent", "tron"]
 published: true
 ---
-
 *Originally published at [https://mrnasdog.com/research/btt/inflation](https://mrnasdog.com/research/btt/inflation)*
+
+<!-- main-page -->
+The BitTorrent coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/btt](https://mrnasdog.com/research/btt). Below: supply, line by line.
 
 # BTT Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 

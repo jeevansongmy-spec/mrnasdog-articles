@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/bsv/inflation"
 tags: ["crypto", "bsv", "bitcoin-sv", "proof-of-work"]
 published: true
 ---
-
 > Originally published at **[mrnasdog.com/research/bsv/inflation](https://mrnasdog.com/research/bsv/inflation)** by MrNasdog.
+
+<!-- main-page -->
+➜ Start with the Bitcoin SV coin page for the short answer (should you buy BSV?) and its price drivers: [mrnasdog.com/research/bsv](https://mrnasdog.com/research/bsv)
 
 # BSV Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 

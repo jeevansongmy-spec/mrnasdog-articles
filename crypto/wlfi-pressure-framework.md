@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/wlfi/inflation"
 tags:          ["crypto", "wlfi", "worldlibertyfinancial", "ethereum"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/wlfi/inflation](https://mrnasdog.com/research/wlfi/inflation)*
+
+<!-- main-page -->
+**Main page:** the full WLFI coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/wlfi](https://mrnasdog.com/research/wlfi)
 
 # WLFI Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 

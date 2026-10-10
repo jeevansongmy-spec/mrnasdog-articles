@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/inj/inflation"
 tags: ["crypto", "inj", "injective", "staking"]
 published: true
 ---
-
 Originally published at [INJ Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/inj/inflation).
 
 # INJ Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about Injective, see [mrnasdog.com/research/inj](https://mrnasdog.com/research/inj).
 
 INJ supply is growing. Over the 90 days to Oct 5 2026, Injective paid stakers **1,074,521 new INJ**, while the monthly Community BuyBack burned **125,345 INJ**, so net supply rose **+0.95%** of the 100M INJ counted as circulating, and the next 90 days project **+1.03%**. The monitor reads **+0.06%** only because the count it follows never moves. INJ has no supply cap: issuance is a staking rate pinned at its 4.4% ceiling, and the burn is set in dollars, so it buys back fewer coins when the price rises.
 

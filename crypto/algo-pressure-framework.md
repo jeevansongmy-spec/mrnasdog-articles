@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/algo/inflation"
 tags:                    ["crypto", "algo", "algorand", "layer1"]
 published:     true
 ---
-
 Originally published at [ALGO Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/algo/inflation).
 
 # ALGO Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+
+<!-- main-page -->
+The Algorand coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/algo](https://mrnasdog.com/research/algo). Below: supply, line by line.
 
 ALGO's circulating supply is growing, and the source is the Algorand Foundation, not the protocol. Over the last 90 days **113.43M ALGO** entered the market — **94.53M** from Foundation wallets and **18.90M** in staking rewards — while only **122.3K ALGO** of fees left it, for a net of **+1.25%** against **+1.33%** on the monitor. No ALGO is ever minted: all 10B coins have existed since genesis, so the growth can only continue while the Foundation still holds about **937M ALGO** outside the float.
 

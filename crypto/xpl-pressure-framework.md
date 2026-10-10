@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/xpl/inflation"
 tags: ["crypto", "xpl", "plasma", "stablecoin"]
 published: true
 ---
-
 Originally published at [XPL Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/xpl/inflation).
 
 # XPL Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+
+<!-- main-page -->
+**Main page:** the full XPL coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/xpl](https://mrnasdog.com/research/xpl)
 
 XPL supply is growing fast, and all of the growth comes from unlocks. In the 90 days to Oct 7 2026, **1.93B XPL** moved from locked allocations into the market — mostly the **1.67B** team and investor cliff on Sep 25 2026 — while the Plasma fee burn removed only about **15 XPL**. On today's float of **4.53B XPL** that is a net rise of **+42.65%**, and the published calendar adds another **683.3M XPL**, or about **+15.07%**, in the next 90 days. No new XPL is minted yet; every one of the 10B coins already exists, and the unlock calendar runs to Sep 25 2028.
 

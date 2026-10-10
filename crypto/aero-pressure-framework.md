@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/aero/inflation"
 tags: ["crypto", "aero", "aerodrome", "base"]
 published: true
 ---
-
 # AERO Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
 *Originally published at [https://mrnasdog.com/research/aero/inflation](https://mrnasdog.com/research/aero/inflation).*
+
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the AERO coin page, with demand and price drivers: [mrnasdog.com/research/aero](https://mrnasdog.com/research/aero)
 
 AERO supply is growing, and the next 90 days should grow it faster. In the last 90 days Aerodrome's weekly mints created **61.79M AERO** and lock exits returned **4.49M**, while holders locked **23.88M** and the growth fund locked **6.22M** it had bought: net **+3.62%** of the circulating supply, against **+3.97%** on our monitor. AERO has no supply cap, and the Aero merger on **Oct 22 2026** adds Velodrome holders, so we project **+10.23%** for the next 90 days.
 

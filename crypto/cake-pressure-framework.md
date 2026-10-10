@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/cake/inflation"
 tags: ["crypto", "cake", "pancakeswap", "defi"]
 published: true
 ---
-
 > Originally published at **[mrnasdog.com/research/cake/inflation](https://mrnasdog.com/research/cake/inflation)** by MrNasdog.
+
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about PancakeSwap, see [mrnasdog.com/research/cake](https://mrnasdog.com/research/cake).
 
 # CAKE Inflation Analysis · October 2026 · Supply shrinking · projected to keep shrinking
 

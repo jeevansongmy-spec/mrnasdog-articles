@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/kite/inflation"
 tags:          ["crypto", "kite", "ai-payments"]
 published:     true
 ---
-
 Originally published at [KITE Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/kite/inflation).
 
 # KITE Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the KITE coin page, with demand and price drivers: [mrnasdog.com/research/kite](https://mrnasdog.com/research/kite)
 
 KITE supply is growing, and the next 90 days are the heaviest since launch. No new KITE is minted, but the coins locked at launch open on a calendar: the Kite ecosystem pool released **195.6M KITE** in the last 90 days, a net rise of **+8.18%** on **2.39B** circulating. The next 90 days add about **1.13B KITE**, or **+47.2%**, because the first team and investor unlock of **800M** lands on **Nov 3 2026**. Nothing is burned or bought back, and the total stays capped at 10 billion.
 

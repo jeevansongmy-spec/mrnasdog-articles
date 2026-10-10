@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/ldo/inflation"
 tags:          ["crypto", "ldo", "lido", "defi"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/ldo/inflation](https://mrnasdog.com/research/ldo/inflation)*
+
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the LDO coin page, with demand and price drivers: [mrnasdog.com/research/ldo](https://mrnasdog.com/research/ldo)
 
 # LDO Inflation Analysis · October 2026 · Supply was shrinking · trend softening
 

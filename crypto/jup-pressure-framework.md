@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/jup/inflation"
 tags:          ["crypto", "jup", "jupiter", "defi"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/jup/inflation](https://mrnasdog.com/research/jup/inflation)*
+
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about Jupiter, see [mrnasdog.com/research/jup](https://mrnasdog.com/research/jup).
 
 # JUP Inflation Analysis · September 2026 · Mixed flows · supply roughly steady
 

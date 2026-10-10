@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/night/inflation"
 tags:          ["crypto", "night", "midnight", "cardano"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/night/inflation](https://mrnasdog.com/research/night/inflation)*
+
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the NIGHT coin page, with demand and price drivers: [mrnasdog.com/research/night](https://mrnasdog.com/research/night)
 
 # NIGHT Inflation Analysis · October 2026 · Supply was growing · trend cooling
 

@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/bonk/inflation"
 tags:          ["crypto", "bonk", "solana", "memecoin"]
 published:     true
 ---
-
 Originally published at [BONK Inflation Analysis · October 2026 · Mixed flows · supply roughly steady](https://mrnasdog.com/research/bonk/inflation).
 
 # BONK Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+
+<!-- main-page -->
+**Main page:** the full BONK coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/bonk](https://mrnasdog.com/research/bonk)
 
 The MrNasdog Pressure Framework reads BONK as flat with a slight shrink: **0 BONK** of new supply against **352.1M BONK** burned over the last 90 days, a net change of **−0.0004%**, and about **−0.0002%** projected for the next 90 days. Bonk is a Solana meme coin whose mint power was switched off for good, so the BONK supply can only go down, and only through burns. Those burns are now tiny next to the **88.0T** BONK in circulation, so supply is roughly steady and the coin's price rests on demand.
 

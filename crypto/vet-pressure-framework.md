@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/vet/inflation"
 tags:          ["crypto", "vet", "vechain", "tokenomics"]
 published:     true
 ---
-
 Originally published at [VET Inflation Analysis · October 2026 · Mixed flows · supply roughly steady](https://mrnasdog.com/research/vet/inflation).
 
 # VET Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the VET coin page, with demand and price drivers: [mrnasdog.com/research/vet](https://mrnasdog.com/research/vet)
 
 VET, the main coin of the VeChain network, did not change in supply over the last 90 days: **0 VET** was created, **0 VET** was destroyed, and net inflation was **0.00%** on a float of **85.99B VET**. The reason is built into VeChainThor itself: every VET was made in the first block in 2018, and the network pays its validators and stakers in a second token, VTHO, instead of new VET. The supply ceiling is the genesis figure of **86.71B VET**, of which **727.58M** are frozen for good after a 2019 theft.
 

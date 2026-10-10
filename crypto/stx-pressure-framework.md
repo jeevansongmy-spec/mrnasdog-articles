@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/stx/inflation"
 tags:          ["crypto", "stx", "stacks", "bitcoin"]
 published:     true
 ---
-
 # STX Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
 *Originally published at [mrnasdog.com/research/stx/inflation](https://mrnasdog.com/research/stx/inflation). MrNasdog Pressure Framework · Inflation Analysis.*
+
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about Stacks, see [mrnasdog.com/research/stx](https://mrnasdog.com/research/stx).
 
 STX supply is growing, and the pace picked up this summer. In the 90 days to Oct 7 2026, Stacks created **20.43M STX** of brand-new coins: **11.40M STX** paid to miners and **9.03M STX** minted into the Stacks Endowment, the network's growth fund. Nothing was burned and nothing was bought back, so net supply rose **+1.09%**. With the miner reward back at 1,000 STX per Bitcoin block since Jul 30 2026, the next 90 days point to about **+1.24%**. Stacks has no hard supply cap today.
 

@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/arb/inflation"
 tags:          ["crypto", "arb", "arbitrum", "layer-2"]
 published:     true
 ---
-
 # ARB Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
 *Originally published at [https://mrnasdog.com/research/arb/inflation](https://mrnasdog.com/research/arb/inflation)*
+
+<!-- main-page -->
+➜ Start with the Arbitrum coin page for the short answer (should you buy ARB?) and its price drivers: [mrnasdog.com/research/arb](https://mrnasdog.com/research/arb)
 
 ARB supply is growing, and it should keep growing until early 2027. In the last 90 days, team, investor and Arbitrum Foundation vesting unlocked **321.98M ARB**, while the close of a DAO grants program sent **129.18M ARB** back to the treasury, for a net **+2.84%** of circulating supply. Nothing mints, burns or buys back ARB, so the next 90 days carry three more monthly unlocks and project to **+4.73%**; the team and investor unlocks end on Mar 16 2027.
 

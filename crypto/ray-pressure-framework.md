@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/ray/inflation"
 tags: ["crypto", "ray", "raydium", "defi"]
 published: true
 ---
-
 > Originally published at **[mrnasdog.com/research/ray/inflation](https://mrnasdog.com/research/ray/inflation)** by MrNasdog.
+
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about Raydium, see [mrnasdog.com/research/ray](https://mrnasdog.com/research/ray).
 
 # RAY Inflation Analysis · September 2026 · Mixed flows · supply roughly steady
 

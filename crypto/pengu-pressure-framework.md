@@ -5,8 +5,10 @@ canonical_url: "https://mrnasdog.com/research/pengu/inflation"
 tags:          ["crypto", "pengu", "solana", "nft"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/pengu/inflation](https://mrnasdog.com/research/pengu/inflation)*
+
+<!-- main-page -->
+The Pudgy Penguins coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/pengu](https://mrnasdog.com/research/pengu). Below: supply, line by line.
 
 # PENGU Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 

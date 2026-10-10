@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/icp/inflation"
 tags: ["crypto", "icp", "internet-computer", "staking"]
 published: true
 ---
-
 # ICP Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
 *Originally published at [mrnasdog.com/research/icp/inflation](https://mrnasdog.com/research/icp/inflation).*
+
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the ICP coin page, with demand and price drivers: [mrnasdog.com/research/icp](https://mrnasdog.com/research/icp)
 
 **ICP** supply is growing slowly: the **Internet Computer** created **2.85M ICP** in the 90 days to Oct 3 2026 and burned **129,302 ICP**, so supply rose about **0.49%**, with about **0.48%** projected for the next 90 days. The new ICP comes from two protocol mints — monthly payments to node operators and voting rewards that neuron holders cash out — while the only thing removing ICP is the burn apps pay to run on the network. ICP has no supply cap.
 

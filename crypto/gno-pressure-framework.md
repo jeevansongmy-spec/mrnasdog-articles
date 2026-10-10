@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/gno/inflation"
 tags:          ["crypto", "gno", "gnosis", "dao"]
 published:     true
 ---
-
 Originally published at [GNO Inflation Analysis · October 2026 · Mixed flows · supply roughly steady](https://mrnasdog.com/research/gno/inflation).
 
 # GNO Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+
+<!-- main-page -->
+The Gnosis coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/gno](https://mrnasdog.com/research/gno). Below: supply, line by line.
 
 **GNO supply was flat over the last 90 days and is set to stay flat for the next 90.** No new GNO can be created: the Ethereum token has no mint function, and the total is held at **3M GNO**, of which **2.64M** circulate. We count **0 GNO** of sell pressure and **0 GNO** of buy pressure, a net change of **0.00%**, against **−0.0004%** on our monitor. The one large flow of the window, about **167,081 GNO** handed back to GnosisDAO in the July treasury redemption, was kept by the DAO rather than burned, so it did not shrink the circulating count.
 
