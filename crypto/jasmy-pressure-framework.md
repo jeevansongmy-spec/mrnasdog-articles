@@ -1,49 +1,113 @@
 ---
-title: "JASMY Inflation Analysis · September 2026 · Mixed flows · supply roughly steady"
-description: "JASMY supply is roughly steady at 0.00% net over 90 days: a fixed 50B supply with no mint, no unlock and no burn. One 555.0M issuer wallet is the only overhang."
+title: "Is it time to buy the JasmyCoin dip? Supply, Demand and Price Drivers (October 2026)"
+description: "JASMY supply is flat: a fixed 50B JasmyCoin cap, no new coins and no burn gives 0.00% net over 90 days, the same next. One 555.0M issuer wallet to watch."
 canonical_url: "https://mrnasdog.com/research/jasmy/inflation"
 tags: ["crypto", "jasmy", "tokenomics", "ethereum"]
 published: true
 ---
+Originally published at [JASMY Inflation Analysis · October 2026 · Mixed flows · supply roughly steady](https://mrnasdog.com/research/jasmy/inflation).
 
-Originally published at [JASMY Inflation Analysis · September 2026 · Mixed flows · supply roughly steady](https://mrnasdog.com/research/jasmy/inflation).
+# Is it time to buy the JasmyCoin dip? Supply, Demand and Price Drivers (October 2026)
 
-# JASMY Inflation Analysis · September 2026 · Mixed flows · supply roughly steady
+<!-- questions:start -->
 
-The MrNasdog Pressure Framework reads JasmyCoin (JASMY) at **0.00% net** over the last 90 days and **0.00%** over the next 90: no JASMY was created, none was released from a locked wallet, and none was burned or bought back. The reason is structural — the JASMY token on Ethereum has a fixed supply of **50B** that no function can raise, and **49.44B** of it already counts as circulating. The one limit on that calm reading is a single issuer wallet holding **555.0M JASMY** with no public release plan.
+Updated Oct 10 2026 from the live page: [mrnasdog.com/research/jasmy](https://mrnasdog.com/research/jasmy).
+
+## The buy and sell questions: supply, demand and price drivers
+
+### Is it time to buy the JasmyCoin dip?
+
+Supply and demand point to a mixed long-run signal for JasmyCoin (Oct 10 2026, score 6/10). JasmyCoin adds 0.00% new supply in 90 days, and demand reads very weak (1.5/5). JasmyCoin's price drivers: 1 ▲ price up, 1 ▼ price down.
+
+### Is JasmyCoin dead after losing its Korean exchanges?
+
+Not dead, but hurt. Upbit and Bithumb dropped JASMY, and Korean withdrawals end Oct 14 2026. On the bright side, the company is talking again after 290 days of silence, and new supply stays at 0.00% in 90 days. Demand is the weak part, at 1.5/5. Our supply-and-demand read for JasmyCoin stays mixed.
+
+### What does Japan's exchange news mean for JASMY?
+
+It likely adds pressure. Japan's BITPoint is following Korea's Upbit and Bithumb in dropping JASMY, so fewer places to buy it. That hits demand, which already reads very weak (1.5/5) on Oct 10 2026, while supply stays flat. By supply and demand, JasmyCoin's long-run signal is mixed today.
+
+### Could JasmyCoin ever hit $1?
+
+JasmyCoin trades near 0.501 cents (Oct 10 2026). $1 a coin means a $49.4B market cap, 199 times today's $248M. JasmyCoin's supply barely changes in the next year (0.00%), so the whole move would have to come from demand. Supply and demand still read mixed for JasmyCoin in the long run.
+
+### Should I sell JasmyCoin or hold?
+
+We would read JasmyCoin differently if new supply jumps (today 0.00% in 90 days), or demand falls from very weak, or Exchange delistings keeps pointing down. Until then JasmyCoin's signal stays mixed. Mark this date for JasmyCoin: Oct 14 2026 — Korea withdrawals end.
+
+### Is JasmyCoin worth investing in for the long term?
+
+JasmyCoin scores 6/10 on our framework (Oct 10 2026): supply 4.5/5 (flat), demand 1.5/5. Over the next year JasmyCoin's supply changes 0.00%. The long-run signal is mixed.
+
+### How do I know when to buy JasmyCoin?
+
+Supply and demand favor JasmyCoin most when little new supply is coming, demand is strong and the price drivers point up. Right now JasmyCoin has 0.00% new supply in 90 days (flat), demand very weak (1.5/5), drivers 1 ▲ / 1 ▼.
+
+### Will JasmyCoin go up in 2026?
+
+JasmyCoin's price drivers today: 1 pointing up, 1 pointing down, out of 2.
+- ▼ Exchange delistings: Korea's Upbit and Bithumb dropped JASMY; Japan's BITPoint follows ▲ Company news flow: Company went 290 days silent; news returned after Korea's delisting
+
+### Is JasmyCoin a better investment than Bitcoin?
+
+JasmyCoin: mixed signal, 6/10 · Bitcoin: positive signal, 8.5/10 (Oct 10 2026). By supply and demand, JasmyCoin reads weaker than Bitcoin today.
+
+*Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*
+
+<!-- questions:end -->
+
+## Part 1 · Supply: JASMY Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+
+JasmyCoin (JASMY) supply is **flat**: in the 90 days to Oct 10 2026 no new JASMY was created and none was burned, so the net change is **0.00%**, and the next 90 days project the same. JASMY is a fixed-supply token of **50B** coins on Ethereum, all created in Dec 2019; **49.44B** circulate, and the rest — **555.0M JASMY** — sits in the original issuer wallet, which has not moved since Jan 16 2025. Our monitor reads **0.00%** too.
 
 ## The verdict, in one paragraph
 
-Over the 90 days from Jul 1 2026 to Sep 29 2026, JASMY sell pressure was **0 JASMY** and buy pressure was **0 JASMY**, for a net supply change of **0.00%** of the **49.44B** circulating coins. Our supply monitor, which tracks the circulating count day by day, read **+0.01%** over the same stretch — a gap of about **0.01 percentage points**, well inside the 0.5-point tolerance, so no data-conflict flag is shown. The next 90 days project the same **0.00%**, because nothing on the JASMY calendar mints, unlocks or burns coins. JASMY is a fixed-supply token with a quiet ledger: every move this quarter happened between wallets that were already part of the market.
+The MrNasdog Pressure Framework puts JASMY supply at **0.00%** over the last 90 days and **0.00%** over the next 90 days. Our monitor, which tracks circulating supply day by day, also reads **0.00%** for the same window, so the gap is **0.00 percentage points** — well inside our 0.5-point limit, and no warning chip is needed. Sell pressure was **0 JASMY** and buy pressure was **0 JASMY**. In one line: JasmyCoin is a **fully minted, fixed-cap token with no emission and no burn**, and the only supply risk is one dormant wallet.
 
 ## Sell pressure: where new JASMY comes from
 
-Protocol inflation is **0 JASMY**, and it can stay nowhere else. JasmyCoin is a plain ERC-20 token on Ethereum. All 50B JASMY were minted once, on Dec 26 2019, into the issuer wallet. We read the token contract directly: total supply sat at exactly **50,000,000,000** at both ends of the window, the number lives in ordinary contract storage rather than being hard-coded, and the contract exposes only the eleven standard token functions — no mint, no owner, no upgrade path. JASMY has no block rewards and no staking emission, so there is nothing for the network to pay out in new coins.
+Protocol inflation is **0 JASMY**, and it stays at zero for good. JasmyCoin has no mining, no staking rewards and no emission curve. The JASMY token contract created all 50B coins once, in its constructor, on Dec 26 2019. We read the contract code itself: it carries only the eleven standard token functions — transfer, approve, balance and the like — and no mint, no owner and no upgrade switch. Total supply read exactly 50B at both ends of the window.
 
-Vesting unlocks are **0 JASMY**. No JASMY vesting calendar exists: the unlock trackers show no schedule and no next unlock date, and about **98.9%** of all coins are already counted as circulating. Foundation and unscheduled unlocks are also **0 JASMY**. The issuer wallet that received the original mint still holds **555.0M JASMY**, and it did not move at all in the window — its last release was **50M JASMY** on Jan 16 2025, more than a year ago. Long-term locked or bankruptcy supply is **0 JASMY**: there is no estate, no trustee and no expiring lock. Large holders and exchange wallets did shift coins — one wallet took 250M JASMY off an exchange on Sep 16 2026 and passed 43.5M on — but those coins were already inside the circulating count, so they add no new supply.
+Vesting unlocks are **0 JASMY**. The JasmyCoin investor schedule ran month by month from Oct 2021 and finished in Sep 2023, and the incentive pool's cliff came in Oct 2023. No vesting calendar is left, so no JASMY unlock falls in the last 90 days or the next 90.
+
+Foundation and unscheduled unlocks are **0 JASMY**. The issuer wallet that received the full 50B mint still holds **555.0M JASMY**, and it is the only balance not counted as circulating. It paid out in tranches through 2023, sent 95M in Sep 2024 and 50M on Jan 16 2025, and has been still since. A wallet that has not moved for about 21 months gives no pattern to project, so it books zero.
+
+Long-term locked or bankruptcy supply is **0 JASMY**. No estate, trustee or court holds JasmyCoin. The exchange delistings this autumn are not a supply event: the coins on those exchanges belong to their customers and were already in the circulating float before any withdrawal.
 
 ## Buy pressure: where new JASMY goes
 
-Programmatic buyback is **0 JASMY**. Jasmy has no buyback programme, and no official post or wallet flow this window shows JASMY being bought back and taken out of the market. The protocol fee burn is also **0 JASMY**. We checked both burn surfaces: the Ethereum burn address held the same **315 JASMY** at both ends of the window, and total supply did not fall by a single coin. JasmyChain — the Jasmy Layer 2 built on Arbitrum Orbit, live since Jan 17 2026, where JASMY is the gas coin — pays its fees to two operator accounts that can spend them; it does not destroy gas. The chain is still small, with about 17,000 transactions since launch.
+Programmatic buyback is **0 JASMY**. Neither Jasmy Inc. nor any treasury runs a JASMY buyback, and none has been announced.
 
-Foundation buy is **0 JASMY**: no announcement or on-chain flow shows the Jasmy company buying JASMY off the market. New long-term lock is **0 JASMY**. JASMY bridged to JasmyChain is backed one-for-one by JASMY held in the bridge on Ethereum, and those coins stay inside the circulating count, so moving to the Layer 2 locks nothing away. The earlier Jasmy plan to lock tokens at an exchange account also keeps them in the market count.
+Protocol fee burn is **0 JASMY**. The JASMY token has no burn function, so the only way to destroy coins is to send them to a dead address, and the Ethereum dead address held the same 315 JASMY at both ends of the window. JasmyChain, the project's own Layer 2 that went live in Jan 2026 and uses JASMY to pay gas, sends its fees to operator wallets rather than destroying them. Its meme-token launchpad charges 10 JASMY per launch, and we could not see those coins destroyed on-chain; at that size it would not show anyway.
+
+Foundation buy is **0 JASMY**: no announcement or wallet flow shows the company buying JASMY. New long-term lock is **0 JASMY**: there is no staking or lock contract, and JASMY bridged to JasmyChain is still counted as circulating.
 
 ## Foundation and overhang
 
-JASMY has exactly one tracked overhang: the issuer wallet that received all 50B JASMY in 2019. It now holds **555,000,322 JASMY**, and that balance matches, to the coin, the gap between total supply and the circulating count — so it is the whole of the JASMY supply that sits outside the market. It carries no release schedule. Over its life it has sent coins out in bursts — large distributions in 2020, tranches of 40M–700M JASMY from Jun to Nov 2023, then 95M JASMY in Sep 2024 and 50M JASMY in Jan 2025 — since 2023 always through the same forwarding wallet. That history makes it a real overhang, but with no firing in the last year it books zero for the coming 90 days. We read this wallet from the chain at every rebuild; if its balance falls between refreshes, the outflow enters Sell #3 as new supply at the next refresh.
+One JasmyCoin overhang matters: the original issuer wallet with **555.0M JASMY**, about **1.1%** of the 50B supply. Its balance lines up exactly with the gap between total and circulating supply, which tells us every other JASMY wallet — company, exchange or holder — is already inside the float. That wallet has no published release schedule; its past payouts went through one forwarding wallet to an exchange-style address. We read its balance on-chain every day.
+
+Large wallets inside the float do move. One smart wallet took 250M JASMY off an exchange on Sep 16 2026 and passed 93.5M on to another exchange-style wallet on Sep 29 2026. Those are moves between holders, not new supply, and they book zero. If the issuer wallet's balance falls between our checks, the outflow enters Sell #3 at the next refresh.
 
 ## How JASMY compares to other fixed-supply utility tokens
 
-JASMY belongs to the family of fixed-supply ERC-20 utility tokens, where everything was minted up front and the only supply question is when held-back coins reach the market. That is a very different shape from an uncapped proof-of-stake coin such as Ethereum's ETH, which creates new coins every block and relies on a fee burn to offset part of them, and from a halving coin such as Bitcoin, whose supply still grows on a fixed schedule toward its cap. With a fixed 50B JASMY and no mint path, JASMY cannot inflate from the protocol at all.
+JASMY sits in the group of fully minted, fixed-cap utility tokens: one mint at launch, no emission afterwards, and supply that can only fall if someone burns coins. That is the opposite of a proof-of-stake Layer 1, where validators are paid in new coins every epoch and supply grows a little every day, and of newer tokens that still carry years of vesting cliffs. On those two counts JasmyCoin is cleaner than most: nothing is printed and nothing is left to vest.
 
-The comparison that matters is with other fixed-supply tokens that still carry large vesting calendars. Many newer tokens have 50% or more of supply locked and release a fixed slice each month, which shows up as steady sell pressure. JASMY is at the other end: about **98.9%** of supply already circulates, and the one remaining 555.0M JASMY pile has no calendar. The trade-off is that JASMY also has no buyback and no burn, unlike exchange tokens that remove coins every quarter. So the JASMY supply neither grows nor shrinks on its own; its reading moves only if the issuer wallet releases coins or Jasmy adds a burn.
+Where JASMY differs from the strongest fixed-supply tokens is the buy side. Exchange tokens and fee-sharing DeFi tokens use revenue to buy back or burn coins every month, so their supply shrinks. JasmyCoin has no fee burn and no buyback, and JasmyChain's gas fees go to operators. So JASMY's supply is steady rather than shrinking: it cannot grow, but nothing takes coins away either.
+
+The one structural risk, a dormant issuer wallet, is also common in this group. At 555.0M JASMY it is small next to the float — about 1.1% of circulating supply — and far smaller than the multi-year unlock piles many newer tokens still carry.
 
 ## What to watch in the next 90 days
 
-First, the **555.0M JASMY** issuer wallet: any outflow would be the first new JASMY supply since Jan 2025 and would enter the sell ledger at once. Second, exchange access: Upbit and Bithumb ended JASMY trading on Sep 14 2026 with withdrawals open until about Oct 14 2026, and BITPOINT and SBI VC Trade in Japan stop JASMY buying on Oct 7 2026 and end sales and withdrawals on Oct 28 2026 — these move coins already in the market, so they change who holds JASMY, not how much exists. Third, JasmyChain fees: a change that sent gas to a burn instead of to operator accounts would create the first JASMY buy pressure. Fourth, the planned JANCTION GPU network and the AppBank partnership announced on Sep 28 2026, which could lift JASMY use on the Layer 2 but add no supply by themselves.
+The issuer wallet: any outflow from the **555.0M JASMY** balance would be the first new supply since Jan 16 2025 and would land in Sell #3.
+
+Oct 14 2026: the last day to withdraw JASMY from the two Korean exchanges that stopped trading it on Sep 14 2026. Coins leaving move between holders and add no supply, but the exits can weigh on trading.
+
+Oct 28 2026: a Japanese exchange ends JasmyCoin sales and withdrawals after stopping purchases on Oct 7 2026 — again a move inside the float, not new supply.
+
+JasmyChain and its launchpad: any new rule that destroys JASMY in real size, or a buyback announced by Jasmy Inc., would open the buy side for the first time.
 
 ## Summary
 
-JASMY supply was flat at **0.00%** over the last 90 days and is projected flat for the next 90, with our monitor in agreement at **+0.01%**. JasmyCoin is a fixed-supply ERC-20 token of **50B JASMY** with no mint function, no vesting calendar, no buyback and no burn, and **49.44B** of it already circulates. The key risk is the issuer wallet holding **555.0M JASMY** — about 1.1% of circulating supply — which has no public plan and last released coins in Jan 2025. The hard ceiling is 50B JASMY: supply can never exceed it, and it can only fall if Jasmy starts burning coins.
+JasmyCoin (JASMY) supply was flat over the 90 days to Oct 10 2026: **0 JASMY** created, **0 JASMY** burned, net **0.00%**, with the monitor in agreement. The structure is a fixed 50B cap with no mint function, no vesting left, no burn and no buyback. The key risk is the dormant issuer wallet holding **555.0M JASMY**, about 1.1% of supply, which has no release schedule. The ceiling is hard: JASMY supply can never pass 50B.
 
-*MrNasdog Pressure Framework analysis of JASMY, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Sep 29 2026.*
+*MrNasdog Pressure Framework analysis of JASMY, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 10 2026.*
