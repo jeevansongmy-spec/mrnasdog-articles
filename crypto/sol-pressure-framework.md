@@ -1,12 +1,61 @@
 ---
-title:         "SOL Inflation Analysis · September 2026 · Supply growing · projected to keep growing"
+title: "Is it a good time to buy Solana today? Supply, Demand and Price Drivers (October 2026)"
 description:   "SOL supply is growing: 4.91M SOL of staking issuance plus 4.94M SOL of ended stake locks, against a 284K burn and new locks, give +1.63% in 90 days; +1.27% next."
 canonical_url: "https://mrnasdog.com/research/sol/inflation"
 tags:          ["crypto", "sol", "solana", "layer1"]
 published:     true
 ---
+# Is it a good time to buy Solana today? Supply, Demand and Price Drivers (October 2026)
 
-# SOL Inflation Analysis · September 2026 · Supply growing · projected to keep growing
+<!-- questions:start -->
+
+Updated Oct 10 2026 from the live page: [mrnasdog.com/research/sol](https://mrnasdog.com/research/sol).
+
+## The buy and sell questions: supply, demand and price drivers
+
+### Is it a good time to buy Solana today?
+
+Supply and demand point to a mixed long-run signal for Solana (Oct 10 2026, score 6/10). Solana adds +1.27% new supply in 90 days, and demand reads strong (4/5). Solana's price drivers: 2 ▲ price up, 0 ▼ price down.
+
+### Has Hyperliquid become a better bet than Solana?
+
+Hyperliquid does today, Oct 10 2026: 8.5/10 against Solana's 6/10. Solana adds +1.27% new supply in 90 days; Hyperliquid adds only +0.13%. Solana is far bigger, though, about $72 billion against $19.5 billion. For Solana, the supply-and-demand signal is mixed right now.
+
+### Is Solana dead, or is the network still going strong?
+
+No, Solana looks very much alive. The network has not stopped in 977 days, after 6 stops up to 2024, and ETFs hold about 16M SOL. Demand reads strong (4/5); the weaker side is supply, +1.27% new SOL in 90 days. For Solana, the supply-and-demand signal is mixed right now.
+
+### Could Solana ever hit $1,000?
+
+Solana trades near $123 (Oct 10 2026). $1,000 a coin means a $588B market cap, 8.2 times today's $72B. Solana's supply also grows +5.28% in the next year, so every extra coin needs buyers too. That leaves Solana's long-run signal at mixed, by supply and demand.
+
+### Should I sell my Solana now?
+
+We would read Solana differently if new supply keeps arriving (+1.27% in 90 days), or demand falls from strong. Until then Solana's signal stays mixed.
+
+### Is Solana a good long-term investment?
+
+Solana scores 6/10 on our framework (Oct 10 2026): supply 2/5 (growing), demand 4/5. Over the next year Solana's supply changes +5.28%. The long-run signal is mixed.
+
+### How do I know when to buy Solana?
+
+Supply and demand favor Solana most when little new supply is coming, demand is strong and the price drivers point up. Right now Solana has +1.27% new supply in 90 days (growing), demand strong (4/5), drivers 2 ▲ / 0 ▼.
+
+### Will Solana go up in 2026?
+
+Solana's price drivers today: 2 pointing up, 0 pointing down, out of 2.
+- ▲ Big buyers: ETFs hold about 16M SOL, nearly double Forward's 8.5M.
+- ▲ Network stops: Solana stopped 6 times by 2024. None in 977 days.
+
+### Is Solana a better investment than Bitcoin?
+
+Solana: mixed signal, 6/10 · Bitcoin: positive signal, 8.5/10 (Oct 10 2026). By supply and demand, Solana reads weaker than Bitcoin today.
+
+*Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*
+
+<!-- questions:end -->
+
+## Part 1 · Supply: SOL Inflation Analysis · September 2026 · Supply growing · projected to keep growing
 
 *Originally published at [mrnasdog.com/research/sol/inflation](https://mrnasdog.com/research/sol/inflation).*
 
