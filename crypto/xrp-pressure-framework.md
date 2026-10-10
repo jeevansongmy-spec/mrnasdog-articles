@@ -1,14 +1,64 @@
 ---
-title: "XRP Inflation Analysis · September 2026 · Supply growing · projected to keep growing"
+title: "Is XRP worth buying now? Supply, Demand and Price Drivers (October 2026)"
 description: "XRP supply is growing: nothing is minted, but Ripple paid 718.5M XRP from its wallets in 90 days against a 34.9K fee burn. +1.14% net, projected the same next."
 canonical_url: "https://mrnasdog.com/research/xrp/inflation"
 tags: ["crypto", "xrp", "ripple", "escrow"]
 published: true
 ---
-
 Originally published at [https://mrnasdog.com/research/xrp/inflation](https://mrnasdog.com/research/xrp/inflation) by MrNasdog.
 
-# XRP Inflation Analysis · September 2026 · Supply growing · projected to keep growing
+# Is XRP worth buying now? Supply, Demand and Price Drivers (October 2026)
+
+<!-- questions:start -->
+
+Updated Oct 10 2026 from the live page: [mrnasdog.com/research/xrp](https://mrnasdog.com/research/xrp).
+
+## The buy and sell questions: supply, demand and price drivers
+
+### Is XRP worth buying now?
+
+By the law of supply and demand, XRP's long-run signal is mixed (Oct 10 2026, score 6/10). New supply: +1.14% in the next 90 days. Demand: strong (4/5). XRP's price drivers: 1 ▲ price up, 1 ▼ price down.
+
+### What happens to XRP if the CLARITY Act passes?
+
+A pass would probably help XRP, since its US crypto law driver reads bad today. The bill was blocked 49-50, and the Senate can try again from Nov 11 2026, after the Nov 3 midterm election. Supply stays high either way, though: +1.14% new XRP in 90 days. That leaves XRP's long-run signal at mixed, by supply and demand.
+
+### How much XRP still comes out of Ripple's escrow?
+
+About 0.3B XRP leaves Ripple's escrow every 30 days, and 9.1B has come out since Jan 2024. That is the main reason XRP adds +1.14% new supply in 90 days. ETF buying soaks up part of it: US XRP ETFs hold 907M XRP, up 33% in 181 days. That leaves XRP's long-run signal at mixed, by supply and demand.
+
+### Can XRP reach $100?
+
+At $100, XRP would be worth about $6.31 trillion in total — about 65 times its $96.8B market cap today (Oct 10 2026, about $1.53 a coin). XRP's supply also grows +4.62% in the next year, so every extra coin needs buyers too. By supply and demand, XRP's long-run signal is mixed today.
+
+### Should I sell my XRP now?
+
+XRP's signal is mixed for now. XRP's signal would turn if new supply keeps arriving (+1.14% in 90 days), or demand falls from strong, or US crypto law keeps pointing down. The next date on XRP's calendar: Nov 3 2026 — US midterm election.
+
+### Is XRP a good long-term investment?
+
+XRP sits at 6/10 today (Oct 10 2026): supply 2/5, demand 4/5. One more year adds +4.62% to XRP's supply. Long-run signal: mixed.
+
+### When is a good time to buy XRP?
+
+By the law of supply and demand, the better time to buy XRP is when its new supply is low, demand is high and its price drivers point up. XRP today: +1.14% new supply in 90 days (growing), demand strong (4/5), drivers 1 ▲ / 1 ▼.
+
+### What could push XRP's price up or down?
+
+Right now 3 things drive XRP's price (1 ▲, 1 ▼).
+- Ripple's escrow: 9.1B XRP left escrow since Jan 2024; about 0.3B more every 30 days.
+- ▼ US crypto law: Law blocked 49-50; Senate can try again from Nov 11 2026.
+- ▲ XRP ETFs: US XRP ETFs: 907M XRP, up 33% in 181 days.
+
+### Is XRP a better investment than Bitcoin?
+
+Side by side on Oct 10 2026: XRP at 6/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, XRP is the weaker of the two.
+
+*Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*
+
+<!-- questions:end -->
+
+## Part 1 · Supply: XRP Inflation Analysis · September 2026 · Supply growing · projected to keep growing
 
 The XRP Ledger never mints a single new XRP, yet the amount of **XRP** in the market grew by **+1.14%** over the last 90 days, and the MrNasdog Pressure Framework projects about the same for the next 90. The source is Ripple, not the protocol: its wallets paid **718.47M XRP** to the market, fed by the monthly escrow, while fee burning removed only **34,862 XRP**. The inflation monitor reads **+1.20%**, so the two readings agree. The hard ceiling is the fixed 100B XRP made at launch, of which **31.7B** still sits in escrow.
 
