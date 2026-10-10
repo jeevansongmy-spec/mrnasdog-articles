@@ -105,6 +105,9 @@ def plain(v):
 
 
 # ── inventory ─────────────────────────────────────────────────────────────
+METHOD_PATHS = {"/research/bitcoin-4-year-cycle", "/research/bitcoin-cycle-method"}
+
+
 def inventory(policy):
     status, xml = get(f"{SITE}/sitemap.xml")
     if status != 200:
@@ -126,6 +129,8 @@ def inventory(policy):
             continue
         if path.endswith("/inflation"):
             kind = "coin"
+        elif re.match(r"^/research/[a-z0-9-]+$", path) and path not in METHOD_PATHS:
+            kind = "hub"  # the main coin page (Coin Hub Pipeline v2, Oct 11 2026) -> crypto/<slug>-coin-research.md
         elif path.startswith("/research/"):
             kind = "methodology"
         else:
@@ -288,7 +293,7 @@ def main():
         "checked_at": ev["checked_at"], "pages": len(res), "ok": len(res) - len(gaps), "gaps": len(gaps),
         "by_kind": {k: {"pages": sum(1 for r in res if r["kind"] == k),
                         "gaps": sum(1 for r in res if r["kind"] == k and r["issues"])}
-                    for k in ("coin", "methodology", "analysis", "case-study")},
+                    for k in ("hub", "coin", "methodology", "analysis", "case-study")},
         "check_incomplete": incomplete,
         "orphan_mirrors": orphans,
         "excluded_on_purpose": policy["excluded"],
