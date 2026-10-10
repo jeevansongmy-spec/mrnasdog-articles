@@ -1,14 +1,60 @@
 ---
-title:         "ETH Inflation Analysis · September 2026 · Mixed flows · supply roughly steady"
+title: "Should I buy Ethereum now, or wait? Supply, Demand and Price Drivers (October 2026)"
 description:   "ETH is mildly inflationary: 262K ETH of validator issuance against a 4.07K fee burn gives +0.21% net over 90 days, the same next. No vesting, no unlock, no cap."
 canonical_url: "https://mrnasdog.com/research/eth/inflation"
 tags:          ["crypto", "eth", "ethereum", "staking"]
 published:     true
 ---
-
 *Originally published at [https://mrnasdog.com/research/eth/inflation](https://mrnasdog.com/research/eth/inflation)*
 
-# ETH Inflation Analysis · September 2026 · Mixed flows · supply roughly steady
+# Should I buy Ethereum now, or wait? Supply, Demand and Price Drivers (October 2026)
+
+<!-- questions:start -->
+
+Updated Oct 10 2026 from the live page: [mrnasdog.com/research/eth](https://mrnasdog.com/research/eth).
+
+## The buy and sell questions: supply, demand and price drivers
+
+### Should I buy Ethereum now, or wait?
+
+Supply and demand point to a positive long-run signal for Ethereum (Oct 10 2026, score 7/10). Ethereum adds +0.21% new supply in 90 days, and demand reads strong (3.5/5). Ethereum's price drivers: 1 ▲ price up, 0 ▼ price down.
+
+### Ethereum or Solana: which one looks stronger right now?
+
+Ethereum looks stronger on Oct 10 2026, at 7/10 against Solana's 6/10. Ethereum adds only +0.21% new supply in 90 days, while Solana adds +1.27%. Solana's demand reads a little higher (4/5 vs 3.5/5), but its extra supply probably cancels that out. That leaves Ethereum's long-run signal at positive, by supply and demand.
+
+### Could Ethereum ever hit $10,000?
+
+Ethereum trades near $2,735 (Oct 10 2026). $10,000 a coin means a $1.22 trillion market cap, 3.7 times today's $334B. Ethereum's supply also grows +0.86% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Ethereum stays positive.
+
+### Is it time to take profit on Ethereum?
+
+We would read Ethereum differently if new supply jumps (today +0.21% in 90 days), or demand falls from strong. Until then Ethereum's signal stays positive. Mark this date for Ethereum: Oct 27 2026? — 2nd testnet (planned).
+
+### Is Ethereum a good investment right now?
+
+Ethereum scores 7/10 on our framework (Oct 10 2026): supply 3.5/5 (steady), demand 3.5/5. Over the next year Ethereum's supply changes +0.86%. The long-run signal is positive.
+
+### How do I know when to buy Ethereum?
+
+Supply and demand favor Ethereum most when little new supply is coming, demand is strong and the price drivers point up. Right now Ethereum has +0.21% new supply in 90 days (steady), demand strong (3.5/5), drivers 1 ▲ / 0 ▼.
+
+### Will Ethereum go up in 2026?
+
+Ethereum's price drivers today: 1 pointing up, 0 pointing down, out of 3.
+- BitMine's ETH: BitMine is 88,586 ETH from 5%, then stops buying.
+- ▲ ETF holdings: ETFs hold 6.37M ETH, 5% below the Oct 2025 top.
+- Upgrade calendar: Glamsterdam hit testnet Oct 6; mainnet date not set yet.
+
+### Should I buy Ethereum or Bitcoin?
+
+Ethereum: positive signal, 7/10 · Bitcoin: positive signal, 8.5/10 (Oct 10 2026). By supply and demand, Ethereum reads weaker than Bitcoin today.
+
+*Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*
+
+<!-- questions:end -->
+
+## Part 1 · Supply: ETH Inflation Analysis · September 2026 · Mixed flows · supply roughly steady
 
 ETH supply is growing slowly and steadily. Over the 90 days to Sep 30 2026, Ethereum paid its validators **262,002 ETH** of brand-new coins, while the EIP-1559 fee burn destroyed **4,073 ETH**, so net supply rose **+0.21%**, and the next 90 days project the same **+0.21%**. There is no vesting, no unlock and no buyback: ETH supply is set by two protocol rules, validator issuance in and the fee burn out, and ETH has no supply cap.
 
