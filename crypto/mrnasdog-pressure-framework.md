@@ -1,129 +1,108 @@
 ---
-title: "MrNasdog Pressure Framework"
-description: "The MrNasdog Pressure Framework: how we score every altcoin out of 10 — Supply (5 points) and Demand (5 points), both ranked against every coin we cover."
+title: "MrNasdog Pressure Framework: How We Pick Which Crypto to Buy"
+description: "Why $100 in Hyperliquid became about $354 while Worldcoin fell to $27, and the three checks we use to pick which crypto to buy: new coins coming, buyers, and the big price drivers."
 canonical_url: "https://mrnasdog.com/research/pressure-framework/full"
-tags: ["crypto", "framework", "tokenomics", "altcoins"]
+tags: ["crypto", "framework", "tokenomics", "which-crypto-to-buy"]
 published: true
 ---
 
 > Originally published at **[mrnasdog.com/research/pressure-framework/full](https://mrnasdog.com/research/pressure-framework/full)** by MrNasdog.
 
-*A crypto-native way to score altcoins: Supply and Demand, 5 points each.*
+# MrNasdog Pressure Framework
 
-**New score since Sep 29 2026.** Every coin now gets two scores: Supply (5 points) and Demand (5 points). Narrative is now part of Demand. The spiral business model is now a Hidden Edge write-up, with no points. The scoring standard at the end of this page is the current one.
+*Why one coin turned $100 into $354 while another left $27, and the three checks we use to spot the difference before we buy.*
 
-### Why I built this framework
+(This is our own framework, not financial advice. We could be wrong.)
 
-Let me start with the honest answer. I built this to make money.
+Imagine you put $100 into two famous coins on New Year's Day 2025. One was [Hyperliquid](https://mrnasdog.com/research/hype). The other was [Worldcoin](https://mrnasdog.com/research/wld). Both had big names behind them and plenty of people talking about them. Today, the Hyperliquid money is worth about **$354**. The Worldcoin money is worth about **$27**.
 
-I am an investor. The whole job of an investor is to buy low and sell high. This framework is a tool for doing that in crypto. Its purpose is to find coins that are likely to rise over the long run — somewhere between three months and four years — so I can buy them before the move and sell after it.
+![$100 put into Hyperliquid on Jan 1 2025 is worth about $354 on Oct 10 2026; $100 put into Worldcoin is worth about $27.](https://mrnasdog.com/analysis/pressure-framework/v2-two-coins.svg)
 
-I want to be direct about that purpose, because everything in this framework serves it. This is not an academic model. It is a practical instrument for an investor with one goal.
+*Figure 1. $100 in each coin on Jan 1 2025, and what it is worth on Oct 10 2026.*
 
-### The problem I was trying to solve
+So what made the difference? It wasn't luck, and it wasn't the chart. Look at what happened to the number of coins. Since the start of 2025, the number of Worldcoin on the market has grown to about **four and a half times** what it was. Hyperliquid's hasn't grown at all. Instead, Hyperliquid kept using its trading fees to buy its own coin back, about **47 million** HYPE so far.
 
-When I started, I did what everyone does. I borrowed the tools that already existed: value investing from Warren Buffett, thematic investing, chart-reading and technical analysis. Every one of these was built for the stock market.
+![Coins on the market since January 2025 (Jan 2025 = 100): Worldcoin grew to about 4.5 times as many coins, Hyperliquid did not grow, Bitcoin stayed almost the same.](https://mrnasdog.com/analysis/pressure-framework/v3-coins-in-market.svg)
 
-I tested them on crypto. I ran them against past cycles to see if they would have worked. They didn't. Not reliably, not for the long-term investing I care about.
+*Figure 2. How many coins are on the market, January 2025 to October 2026.*
 
-The conclusion was uncomfortable but clear: there is no native crypto framework. Everyone is using borrowed stock-market tools on a market that doesn't behave like the stock market. That's why most crypto analysis is either hype or chart-reading, and why most predictions are poor.
+That's the whole story. One coin kept flooding the market with new coins. The other kept taking coins off it. Spotting that difference before we buy is exactly what our framework is for.
 
-So I built one from the ground up, starting from what is actually different about crypto.
+We started out as venture capital investors, and we've lived off crypto since 2018. Over those years, one question never went away: which coin should we buy, and when? The MrNasdog Pressure Framework is our answer. It comes down to three simple checks, and we run them on every coin we follow.
 
-### Why this framework couldn't have existed in the stock market
+## 1. How many new coins are coming?
 
-This is the heart of it. The framework uses three forces. To understand why it's new, you have to see which of these forces exist in stocks and which don't.
+Start with [Worldcoin](https://mrnasdog.com/research/wld). Its team, its early investors and its foundation kept unlocking their coins, month after month. That's how its supply grew to four and a half times in less than two years.
 
-#### Force 1 — Inflation pressure. Exists in crypto, barely exists in stocks.
+In crypto, people call this token inflation, or token emission. Put simply, it's printing new tokens. Every new token is one more coin that somebody can sell. And if the number of buyers doesn't grow just as fast, the price slowly gets pushed down. Worldcoin holders lived through exactly that.
 
-A public company can't issue new shares whenever it likes. Regulators bound it. Insiders must disclose when they sell. The amounts are small relative to the whole. So in stocks, share supply is not a force that dominates the price, and it is not governed by a clean, predictable rule.
+[Bitcoin](https://mrnasdog.com/research/btc) is the opposite. Only miners get new Bitcoin, and over the same stretch its supply grew by about **1%**. Almost nothing. So our first check is simple: how many new coins arrived over the last 90 days, and how many are scheduled for the next 90 — every unlock, every reward, minus anything burned or bought back.
 
-Crypto is the reverse on every point. New token supply is written into the protocol as a fixed rule. It can be enormous — a new coin with few buyers can have an inflation rate so high it crushes the price by itself. And all of it is visible on-chain, in advance.
+## 2. Is somebody buying?
 
-This combination — supply that is both dominant and predictable — exists in crypto and essentially nowhere else. It is the single biggest reason a crypto-native framework can work where stock frameworks fail. We already track it: every coin on our overview page has a predicted next-90-day inflation rate.
+New coins are only half the story. The other half is who wants them. We look at two kinds of buyers.
 
-#### Force 2 — Narrative. Exists in both.
+The first kind is people. How much is a coin talked about on X, Reddit, YouTube and TikTok? How often do people search for it? Is the buzz growing or fading? Over the past year, [Hyperliquid](https://mrnasdog.com/research/hype) stayed among the 20 most talked-about coins we follow, and today it sits around number seven. [Worldcoin](https://mrnasdog.com/research/wld) spent most of the year down around number 50 to 70.
 
-This is the one force crypto shares with stocks. In stocks it's called thematic investing — buying the theme that's about to catch fire. In crypto we call it narrative. Same idea. So this metric is the bridge between the two worlds, and the part of the framework that would feel familiar to a traditional investor.
+![How much people talk about each coin over the last 12 months: Hyperliquid stayed in the top 20 and is now about number 7; Worldcoin mostly sat around number 50 to 70.](https://mrnasdog.com/analysis/pressure-framework/v3-buzz.svg)
 
-#### Force 3 — The spiral business model. Exists only in crypto.
+*Figure 3. Where each coin ranks for social-media talk among the coins we follow, last 12 months.*
 
-This is the one that never existed before. No company can turn its own stock into a required key for a money-making activity.
+The second kind is the strongest buyer of all: the project itself. Hyperliquid runs a busy trading platform, and traders pay fees on every trade. Hyperliquid takes that income and uses it to buy HYPE back from the market. The more people trade, the more HYPE it buys. That's where those 47 million coins went.
 
-Think about it. You don't need to own Amazon stock to shop on Amazon. You don't need to own Amazon stock to make money as a seller on Amazon. The stock is just a claim on the company's profits — it is never the key that unlocks the activity.
+To find coins like this, we compare a coin's price with the fees it earns. We call it P/F, price to fees. When a project earns a lot for its size and spends that money buying back its own coin, we know there's a real buyer coming over the next three months. For coins that don't earn fees, we look at what venture capital firms and research teams expect for them instead.
 
-In crypto, a token can be exactly that key. To invest in ICOs in 2017, you had to hold ETH. To join exchange launches in 2019, you had to hold BNB. To trade memecoins in 2023, you had to hold SOL. The token isn't a side bet — it's the door you must walk through to reach the money. Nothing in the stock market works this way. It is unique to crypto, and crypto uses it again and again.
+## 3. Who else can move the price?
 
-### The three metrics
+Some coins have giants standing behind them that no simple check would catch. We call these price drivers, and [Bitcoin](https://mrnasdog.com/research/btc) is the best example.
 
-#### Metric 1 — Supply (5 points out of 10).
+Look at its two biggest buyers. In January 2024, the US Bitcoin ETFs held about 660,000 Bitcoin. Today they hold about **1.29 million**, roughly double. Strategy, Michael Saylor's company, went from about 190,000 Bitcoin to about **848,000**, around four and a half times as much.
 
-This is half of the score, for four reasons: it is predictable, it is rule-based, it is trackable, and it is one of the strongest single forces acting on price.
+![Bitcoin held by the US Bitcoin ETFs grew from about 660 thousand in January 2024 to about 1.29 million; Strategy grew from about 190 thousand to about 848 thousand.](https://mrnasdog.com/analysis/pressure-framework/v3-btc-buyers.svg)
 
-It folds two things into one number. On one side, new tokens are created — through protocol inflation, vesting unlocks, treasury releases. New supply pushes the price down, because buyers have to absorb it. On the other side, supply is removed — through burns and revenue-funded buybacks. That pushes the price up.
+*Figure 4. Bitcoin held by its two biggest buyers, January 2024 to October 2026.*
 
-The net of these two is the inflation rate. This matters: a coin can mint a large amount of new supply and still be deflationary if it burns or buys back even more. We don't look at issuance alone or buybacks alone. We look at the net.
+Then there's the famous four-year cycle, the rhythm around each halving that has shaped every Bitcoin boom and crash so far. We can't predict what Michael Saylor will do tomorrow. Nobody can. But we can watch him every day. So for every coin, we find its two or three biggest drivers and mark each one as pointing up or pointing down for the price.
 
-The goal is plain. Buy coins where the net supply is shrinking. Avoid coins where new supply is flooding in. A coin with low or negative inflation is structurally durable — there's little new supply to soak up. A coin with high inflation needs constant fresh demand just to hold its price steady.
+## 4. What the checks say today
 
-#### Metric 2 — Demand (5 points out of 10).
+That's the past. Here's how the same two coins look right now, on our three checks.
 
-Supply tells you how many new coins must be sold. Demand tells you how many people want to buy. We look at it in two parts: how much people are talking about the coin right now, and how much buying is likely to come later. Members see both parts on every coin page.
+![Our three checks on Oct 10 2026. New coins coming in the next 90 days: Hyperliquid +0.1%, Worldcoin +3.4%. People want it: Hyperliquid strong, Worldcoin weak. Big drivers: Hyperliquid 2 up, Worldcoin 1 down. Signal: Hyperliquid positive, Worldcoin negative.](https://mrnasdog.com/analysis/pressure-framework/v2-three-checks.svg)
 
-Narrative is where most future demand comes from. A coin's narrative is the story that pulls money toward it. But narratives are not random, and they rarely appear from nowhere. They develop quietly for years and then crystallize when two things meet: the infrastructure is finally ready, and a real-world trigger arrives.
+*Figure 5. Today's reading: the three checks on Hyperliquid and Worldcoin, Oct 10 2026.*
 
-The history is consistent. The smart-contract technology behind the 2017 ICO boom had existed since Ethereum launched in 2015 — the boom came two years later, once enough was built. The DeFi protocols that drove the 2021 boom — Uniswap, Aave, Compound — were built and tested in 2019. DeFi is the clearest example: it created an entirely new product category that didn't exist before, and once that category matured, it pulled in a wave of mass adoption. The infrastructure was laid years before the money arrived.
+Today, [Hyperliquid](https://mrnasdog.com/research/hype) still passes all three: almost no new coins in the next 90 days, strong demand, and its drivers pointing up. [Worldcoin](https://mrnasdog.com/research/wld) still fails all three: about **3%** more coins coming in the next 90 days, weak demand, and its biggest driver, new people signing up, has nearly stopped.
 
-The goal here is to buy coins sitting inside a theme that is about to reach mass adoption — coins that a large number of people will need or want to buy in the near future. A coin at the center of a rising narrative gets a tailwind. A coin with no narrative faces the market alone.
+It's the oldest rule in any market: more buyers and fewer sellers usually means a higher price. When a coin lines up like Hyperliquid, the odds of its price going up are much, much better than average. When it looks like Worldcoin, the odds point the other way. That's why every coin page on our site ends with one simple signal: positive, mixed or negative. Under it, we answer the questions people really ask, like "should I buy now?" or "should I sell or hold?"
 
-#### Metric 3 — Hidden Edge (no points).
+## Overall
 
-Some coins have something extra that Supply and Demand can't catch. We write it up as a short article for those coins only, with no points. Coming soon. The clearest example is the spiral business model.
+So that's the MrNasdog Pressure Framework. It's about one thing: making money in crypto by buying the right coin at the right time. We're trying to predict when to buy, by watching how many new coins are coming over the next 90 days, how many buyers are coming, and what the big price drivers are doing. Pick any coin we cover, like [Bitcoin](https://mrnasdog.com/research/btc), [Ethereum](https://mrnasdog.com/research/eth) or [Solana](https://mrnasdog.com/research/sol), and you'll see all three checks side by side.
 
-It asks one question: to make money from this opportunity, must you hold this token as the key?
+- [Hyperliquid (HYPE)](https://mrnasdog.com/research/hype): All three checks, live
+- [Worldcoin (WLD)](https://mrnasdog.com/research/wld): All three checks, live
+- [Bitcoin (BTC)](https://mrnasdog.com/research/btc): All three checks, plus its big buyers
 
-When the answer is yes, you get a self-reinforcing spiral. The 2019 exchange launches show it cleanly. To join a launch sale, you had to hold the exchange's token. People bought the token to get access. Their buying pushed the price up. A higher price made the launches look more rewarding, which drew more people in, which made them buy more of the token. The loop fed on itself and spiraled upward — partly from the launch profits, partly from the rising token price itself.
+(This is our own framework, not financial advice. We could be wrong.)
 
-You see the same shape in ETH and the ICO boom of 2017, in SOL and the memecoin wave of 2023 (you needed SOL to buy any memecoin), and in Filecoin in 2021, where you had to lock up FIL as collateral to earn from storage mining.
+## Questions people ask
 
-There is a downside, and I want to be honest about it. These spirals collapse as fast as they climb. When the season ends and the narrative fades, both groups leave at the same time — the people who held the token as a key, and the speculators who came for the ride. The price falls hard. Filecoin rose enormously and fell enormously for exactly this reason.
+**How do you know which crypto to buy?** We look for coins with few new tokens coming, growing demand and big drivers pointing up. When all three line up, the odds of a rising price are much better.
 
-But that downside is not a flaw in the framework. It is predictable, and it tells you how to use the metric: buy before the spiral starts, and sell while it is spiraling up.
+**What is token inflation?** Token inflation is how fast a coin's supply grows when new tokens are printed or unlocked. More tokens with the same buyers usually means a lower price.
 
-### What this framework ignores on purpose
+**What is token emission?** Token emission is the schedule a project uses to release new tokens, for example as rewards to miners or stakers.
 
-It ignores revenue, profit, and every traditional financial metric used for stocks. It ignores price charts, moving averages, and all technical analysis. These three forces are the whole framework. Nothing else enters the score.
+**Do token unlocks push the price down?** Often, yes. Unlocked coins can be sold, so big unlocks add supply that buyers have to absorb.
 
-### The two real limitations
+**What is a crypto buyback?** A buyback is when a project uses its income to buy its own coin from the market, like Hyperliquid does with its trading fees.
 
-**Sentiment — what people are actually doing.** We cannot sense it. People buy and sell on memes, on news, on fear and excitement. This behavior moves price more than anything else in the short term, and it cannot be predicted. The moment anyone finds a way to predict it, the behavior changes and the prediction breaks. So the framework doesn't try. It tracks what can be tracked and accepts that short-term moves will sometimes run against the score.
+**What does P/F mean in crypto?** P/F compares a coin's price with the fees it earns in a year. A low P/F means the project earns a lot for its size.
 
-**The market cycle.** Crypto moves in tides. In a bear market, almost everything falls, no matter how good its score. In a bull market, almost everything rises. The framework reads one coin at a time — it cannot override the direction of the whole market. A strong score in a falling market still falls.
+**Why did Worldcoin's price fall?** Since January 2025, the number of Worldcoin on the market grew to about four and a half times, while interest stayed weak. More coins with few new buyers pushed the price down.
 
-These two limits are why this is a framework for the medium-to-long run, measured in months and years, not days.
+**When is the best time to buy crypto?** When few new coins are coming, buyers are growing and the coin's big drivers point up, ideally before the crowd notices.
 
-### Conclusion — how it all fits the goal
+**How do you make money investing in crypto?** By buying coins where buyers are likely to outgrow sellers, and holding while that plays out.
 
-Step back and the whole thing is simple. There is one goal — buy low, sell high — and all three metrics are three different ways of finding coins to buy low.
-
-The first metric, inflation pressure, points you toward coins where supply is shrinking, so the price has structural support instead of constant selling. The second metric, demand, points you toward coins people want now, and coins inside a story about to reach mass adoption, so a wave of demand is coming. The third, the hidden edge (like the spiral business model), points you toward coins whose self-reinforcing loop hasn't started yet, so you can be in before it spins up.
-
-Three angles, one act: identifying coins with the structural forces aligned to rise over the long run, while they are still cheap.
-
-One honest note. This framework is the buy side. It tells you what to buy and when the conditions are favorable. It does not yet cover the sell side — exactly when to exit. That selling discipline is its own subject, and it will come in a future version. For now, the framework answers the first half of the investor's job: which coins have the forces aligned to rise, so you can buy them low.
-
-### The scoring standard
-
-Both scores are a rank. We line up every coin we cover (about 107) from best to worst. First place gets 5 points, last place gets 0, in half-point steps. So a coin's score can also move when other coins change.
-
-**Metric 1 — Supply (5 points).** We rank coins by how much their supply will grow in the next 90 days, after burns and buybacks. The least new supply ranks first. A coin whose supply shrinks beats a coin whose supply grows.
-
-**Metric 2 — Demand (5 points).** Half comes from how much people are talking about the coin right now, compared with the other coins. Half comes from how much buying is likely to come later. Each coin page shows the final score; members see the reasons.
-
-**Metric 3 — Hidden Edge (no points).** A written note for some coins only. It never changes the score.
-
-Total: 10 points (Supply 5 + Demand 5).
-
-A higher total means stronger structural conditions for the price to rise and hold over the long run. It is not a promise. A high score in a bear market still falls; a low score can still pump on pure sentiment. The score is a filter — a way to find coins worth buying low and holding until the structural forces play out.
-
-*Data and explanation only. Not financial advice.*
