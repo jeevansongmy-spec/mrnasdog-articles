@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy ADA? Cardano Supply, Demand and What Moves Its Price
 
-*Source: https://mrnasdog.com/research/ada — numbers checked Oct 10 2026*
+*Source: https://mrnasdog.com/research/ada — numbers checked Oct 11 2026*
 
-**mixed** — that is Cardano's long-run signal by supply and demand as of Oct 10 2026, with a score of 6/10.
+**mixed** — that is Cardano's long-run signal by supply and demand as of Oct 11 2026, with a score of 6/10.
 
 - **Long-run signal:** mixed — ADA, read by supply and demand
 - **Score:** 6/10 — supply 3/5, demand 3/5
@@ -33,9 +33,9 @@ Small, careful payouts → price up · Big payouts get sold → price down. Toda
 | Jul 31 2026 | 1.45 B ADA |
 | Aug 31 2026 | 1.34 B ADA |
 | Sep 30 2026 | 1.37 B ADA |
-| Oct 10 2026 | 1.37 B ADA |
+| Oct 11 2026 | 1.37 B ADA |
 
-*Checked Oct 10 2026*
+*Checked Oct 11 2026*
 
 ### • ETF and upgrades
 
@@ -53,17 +53,17 @@ Good for the price: Spot ETF approved. Bad for it: ETF delayed or denied.
 | Oct 23 2026? | Spot ETF decision (coming) |
 | No date yet | Leios on mainnet (coming) |
 
-*Checked Oct 10 2026*
+*Checked Oct 11 2026*
 
 ## ADA supply
 
-Cardano pays stakers new ADA from a shrinking reserve, and its on-chain treasury releases large payouts when holders vote yes. Supply grew 0.74% in 90 days; about 0.30% is expected next.
+Cardano stakers earn new ADA from a reserve that shrinks every epoch, and holder votes released 166M more from the treasury. Supply grew 0.74% in 90 days; about 0.30% is expected next.
 
 Expect +0.30% more ADA in 90 days (+1.24% over the year). On supply alone Cardano gets 3/5 — light.
 
 ## How strong is Cardano demand?
 
-How much do people want ADA? **moderate** — 3 out of 5, #30 of 110.
+How much do people want ADA? **moderate** — 3 out of 5, #29 of 110.
 
 The members-only part of ADA's demand section is not included.
 
@@ -71,19 +71,19 @@ The members-only part of ADA's demand section is not included.
 
 ### Is it time to buy the Cardano dip?
 
-Supply and demand point to a mixed long-run signal for Cardano (Oct 10 2026, score 6/10). Cardano adds +0.30% new supply in 90 days, and demand reads moderate (3/5). Cardano's price drivers: 0 ▲ price up, 1 ▼ price down.
+Supply and demand point to a mixed long-run signal for Cardano (Oct 11 2026, score 6/10). Cardano adds +0.30% new supply in 90 days, and demand reads moderate (3/5). Cardano's price drivers: 0 ▲ price up, 1 ▼ price down.
 
-### Is Cardano dead, or is anyone still buying ADA?
+### What is Cardano's inflation rate right now?
 
-No. Cardano still shows moderate demand, 3/5 on Oct 10 2026, and adds only 0.30% new supply in 90 days. The weak spot is the DAO treasury: payouts have cut it about 18% since Dec 31 2025. For Cardano, the supply-and-demand signal is mixed right now.
+Low: about +1.24% a year, or +0.30% in the next 90 days (Oct 11 2026). About 37.5B ADA are out of a 45B maximum, so roughly 7.5B ADA are still to come before the cap. Our supply-and-demand read for Cardano stays mixed.
 
-### When could a spot Cardano ETF be decided?
+### Does TRON look healthier than Cardano right now?
 
-Around Oct 23 2026, 13 days from now, the first spot ADA ETF decision could come. We keep a question mark on that date, since it may move. An approval would likely bring a new buyer, while ADA's supply grows only 1.24% in a year. That leaves Cardano's long-run signal at mixed, by supply and demand.
+Yes, TRON looks healthier today. It scores 7/10 with a positive signal, while Cardano sits at 6/10 and mixed (Oct 11 2026). USDT on Tron grew 20% in 365 days, while Cardano's DAO payouts cut its treasury about 18% since Dec 31 2025. Supply and demand still read mixed for Cardano in the long run.
 
 ### Could Cardano ever hit $1?
 
-Cardano trades near 24.6 cents (Oct 10 2026). $1 a coin means a $37.5B market cap, 4.1 times today's $9.23B. Cardano's supply also grows +1.24% in the next year, so every extra coin needs buyers too. Supply and demand still read mixed for Cardano in the long run.
+Cardano trades near 24.7 cents (Oct 11 2026). $1 a coin means a $37.5B market cap, 4.1 times today's $9.27B. Cardano's supply also grows +1.24% in the next year, so every extra coin needs buyers too. Supply and demand still read mixed for Cardano in the long run.
 
 ### Should I sell Cardano or hold?
 
@@ -91,7 +91,7 @@ We would read Cardano differently if new supply jumps (today +0.30% in 90 days),
 
 ### Is Cardano worth investing in for the long term?
 
-Cardano scores 6/10 on our framework (Oct 10 2026): supply 3/5 (light), demand 3/5. Over the next year Cardano's supply changes +1.24%. The long-run signal is mixed.
+Cardano scores 6/10 on our framework (Oct 11 2026): supply 3/5 (light), demand 3/5. Over the next year Cardano's supply changes +1.24%. The long-run signal is mixed.
 
 ### How do I know when to buy Cardano?
 
@@ -103,7 +103,7 @@ Cardano's price drivers today: 0 pointing up, 1 pointing down, out of 2. ▼ DAO
 
 ### Is Cardano a better investment than Bitcoin?
 
-Cardano: mixed signal, 6/10 · Bitcoin: positive signal, 8.5/10 (Oct 10 2026). By supply and demand, Cardano reads weaker than Bitcoin today.
+Cardano: mixed signal, 6/10 · Bitcoin: positive signal, 8.5/10 (Oct 11 2026). By supply and demand, Cardano reads weaker than Bitcoin today.
 
 ## Next steps for ADA
 
