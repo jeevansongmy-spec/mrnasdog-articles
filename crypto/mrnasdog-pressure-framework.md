@@ -81,12 +81,16 @@ It's the oldest rule in any market: more buyers and fewer sellers usually means 
 So that's the MrNasdog Pressure Framework. It's about one thing: making money in crypto by buying the right coin at the right time. We're trying to predict when to buy, by watching how many new coins are coming over the next 90 days, how many buyers are coming, and what the big price drivers are doing. Pick any coin we cover, like [Bitcoin](https://mrnasdog.com/research/btc), [Ethereum](https://mrnasdog.com/research/eth) or [Solana](https://mrnasdog.com/research/sol), and you'll see all three checks side by side.
 
 - [Hyperliquid (HYPE)](https://mrnasdog.com/research/hype): All three checks, live
+
 - [Worldcoin (WLD)](https://mrnasdog.com/research/wld): All three checks, live
+
 - [Bitcoin (BTC)](https://mrnasdog.com/research/btc): All three checks, plus its big buyers
 
 (This is our own framework, not financial advice. We could be wrong.)
 
 ## Questions people ask
+
+**What is the MrNasdog Pressure Framework?** It's our way of picking which crypto to buy, and when. On every coin we check three things: how many new coins are coming, whether buyers are growing, and what the big price drivers are doing. When all three line up, the odds of a rising price are much better.
 
 **How do you know which crypto to buy?** We look for coins with few new tokens coming, growing demand and big drivers pointing up. When all three line up, the odds of a rising price are much better.
 
