@@ -10,6 +10,8 @@
 | `checked_on` | the day we last re-checked this coin's supply (YYYY-MM-DD) |
 | `source_url` | the full analysis page for the coin |
 
+Also on [Hugging Face](https://huggingface.co/datasets/mrnasdog/token-true-inflation) and [Kaggle](https://www.kaggle.com/datasets/jeevansongmy/crypto-token-true-inflation-90-days-and-1-year) (copies from Oct 12 2026; this file and https://mrnasdog.com/data/true-inflation.csv are the daily ones).
+
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Use it anywhere; please link the coin's `source_url` or https://mrnasdog.com.
 
 Not financial advice.
