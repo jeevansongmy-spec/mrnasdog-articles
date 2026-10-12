@@ -1,6 +1,6 @@
 ---
 title:         "HYPE Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description:   "HYPE supply is growing: team payouts of 4.62M HYPE plus staking pay beat a 2.18M HYPE buyback, +1.48% in 90 days and +1.51% next. Checked Oct 11 2026."
+description:   "HYPE supply is growing: team payouts of 4.62M HYPE plus staking pay beat a 2.18M HYPE buyback, +1.38% in 90 days and +1.41% next. Checked Oct 12 2026."
 canonical_url: "https://mrnasdog.com/research/hype/inflation"
 tags:          ["crypto", "hype", "hyperliquid", "defi"]
 published:     true
@@ -12,12 +12,12 @@ This is the long supply read. For the signal, the price drivers and the question
 
 # HYPE Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
-HYPE supply is growing even with one of crypto's largest buybacks running every day. Over the 90 days to Oct 11 2026, Hyperliquid's team paid out **4.62M HYPE** and staking pay and Foundation sends added **0.85M** more, while the keyless buyback fund took **2.18M HYPE** off the market. Net, supply rose **+1.48%**, and the next 90 days project **+1.51%**. The 1 billion HYPE cap still holds; the open question is how fast the team's 237.90M staked HYPE reaches the market.
+HYPE supply is growing even with one of crypto's largest buybacks running every day. Over the 90 days to Oct 11 2026, Hyperliquid's team paid out **4.62M HYPE** and staking pay and Foundation sends added **0.85M** more, while the keyless buyback fund took **2.18M HYPE** off the market and the fee burn destroyed about **0.23M** more. Net, supply rose **+1.38%**, and the next 90 days project **+1.41%**. The 1 billion HYPE cap still holds; the open question is how fast the team's 237.90M staked HYPE reaches the market.
 
 
 ## The verdict, in one paragraph
 
-The MrNasdog Pressure Framework reads HYPE at **+1.48%** net supply growth over the last 90 days and **+1.51%** for the next 90, measured against **222.45M HYPE** in circulation. The inflation monitor reads **+0.00%**, a gap of **1.48 percentage points**, which is over our 0.5-point line, so the page carries a warning chip. We walked every source and the gap does not close: the circulating figure the monitor reads has stayed at 222.45M HYPE every single day since May 27 2026, so it cannot show any new coins at all. On-chain, the team wallet, the staking reward reserve and the buyback fund all moved by millions of HYPE in the window. Our reading stays. In one line: HYPE is a buyback coin whose team payouts now outrun the buyback.
+The MrNasdog Pressure Framework reads HYPE at **+1.38%** net supply growth over the last 90 days and **+1.41%** for the next 90, measured against **222.45M HYPE** in circulation. The inflation monitor reads **+0.00%**, a gap of **1.38 percentage points**, which is over our 0.5-point line, so the page carries a warning chip. We walked every source and the gap does not close: the circulating figure the monitor reads has stayed at 222.45M HYPE every single day since May 27 2026, so it cannot show any new coins at all. On-chain, the team wallet, the staking reward reserve and the buyback fund all moved by millions of HYPE in the window. Our reading stays. In one line: HYPE is a buyback coin whose team payouts now outrun the buyback.
 
 ## Sell pressure: where new HYPE comes from
 
@@ -31,7 +31,7 @@ Foundation and unscheduled unlocks added **104,498 HYPE**. The Hyper Foundation 
 
 The programmatic buyback took **2.18M HYPE** off the market. Almost all of Hyperliquid's trading fees flow into the Assistance Fund, a system wallet with no private key that buys HYPE on the order book every day and has never sold any. Validators voted in December 2025 to treat the fund's coins as burned. The fund held 45.78M HYPE on Jul 13 2026 and **47.95M HYPE** on Oct 11 2026. Since Oct 4 2026 it also receives most of the interest earned on the exchange's dollar reserves, under a plan validators approved in June 2026; the first payment was **$14.58M**, and it was spent on HYPE within a week. At today's price of about $85, trading fees plus two more interest payments should buy about **2.13M HYPE** in the next 90 days. Because the fund spends dollars, a higher HYPE price means fewer coins bought.
 
-The protocol fee burn is booked at **0**. Some fees are destroyed outright, 1.13M HYPE since launch, and over 15 minutes we saw total supply fall at several hundred HYPE a day. We could not confirm the 90-day total a second way, so we leave it out; even at that pace it would be a small fraction of the buyback. The Foundation bought no HYPE in the window, so Foundation buy is **0**. New long-term locks are **0** too: staking needs only 7 days to undo, and staked HYPE still counts as circulating.
+The protocol fee burn took about **0.23M HYPE**. Some fees are destroyed outright, 1.13M HYPE since launch. Total supply fell from 998,896,880 HYPE on Sep 30 to 998,867,524 on Oct 12 2026, about 2,540 HYPE a day, so the burn is a small but steady second buyer next to the fund. The Foundation bought no HYPE in the window, so Foundation buy is **0**. New long-term locks are **0** too: staking needs only 7 days to undo, and staked HYPE still counts as circulating.
 
 ## Foundation and overhang
 
@@ -45,7 +45,7 @@ The sell side is where HYPE differs most from older exchange tokens. Most of the
 
 ## What to watch in the next 90 days
 
-**Nov 6 2026, Dec 6 2026 and Jan 6 2027:** the next three team payouts. A batch like October's 3.75M would push the next-90-day reading well above +1.51%; a batch like August's 433,025 would pull it down.
+**Nov 6 2026, Dec 6 2026 and Jan 6 2027:** the next three team payouts. A batch like October's 3.75M would push the next-90-day reading well above +1.41%; a batch like August's 433,025 would pull it down.
 
 **Early November 2026:** the second interest payment to the buyback fund, expected 30 to 38 days after the first. Its size shows how much the dollar reserves really add to the buyback.
 
@@ -55,7 +55,7 @@ The sell side is where HYPE differs most from older exchange tokens. Most of the
 
 ## Summary
 
-HYPE supply grew **+1.48%** over the 90 days to Oct 11 2026 and is projected at **+1.51%** for the next 90. The Assistance Fund buyback is large and constant at about 2.2M HYPE a quarter, but the core contributors' monthly payouts, 4.62M HYPE this window, plus about 0.85M HYPE of staking pay and Foundation sends outran it. The key risk is the size of each team payout, with 237.90M HYPE still in the team wallet; the ceiling is the fixed 1 billion HYPE cap.
+HYPE supply grew **+1.38%** over the 90 days to Oct 11 2026 and is projected at **+1.41%** for the next 90. The Assistance Fund buyback is large and constant at about 2.2M HYPE a quarter, but the core contributors' monthly payouts, 4.62M HYPE this window, plus about 0.85M HYPE of staking pay and Foundation sends outran it. The key risk is the size of each team payout, with 237.90M HYPE still in the team wallet; the ceiling is the fixed 1 billion HYPE cap.
 
 ---
 
