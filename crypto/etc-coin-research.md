@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy ETC? Ethereum Classic Supply, Demand and What Moves Its Price"
-description:   "Supply and demand give Ethereum Classic (ETC) a negative long-run signal today (Oct 10 2026); its score is 4.5/10."
+description:   "Supply and demand give Ethereum Classic (ETC) a negative long-run signal today (Oct 12 2026); its score is 4.5/10."
 canonical_url: "https://mrnasdog.com/research/etc"
 content_type:  "coin_hub"
 tags:          ["crypto", "etc", "ethereumclassic", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy ETC? Ethereum Classic Supply, Demand and What Moves Its Price
 
-*Live page: https://mrnasdog.com/research/etc · checked Oct 10 2026*
+*Live page: https://mrnasdog.com/research/etc · checked Oct 12 2026*
 
-Supply and demand give Ethereum Classic (ETC) a **negative** long-run signal today (Oct 10 2026); its score is 4.5/10.
+Supply and demand give Ethereum Classic (ETC) a **negative** long-run signal today (Oct 12 2026); its score is 4.5/10.
 
 - **Long-run signal:** negative (by the law of supply and demand)
 - **Score:** 4.5/10 — supply 3/5, demand 1.5/5
@@ -26,7 +26,7 @@ Over the next 90 days ETC supply changes +0.60%; across a full year, +2.41%. Tha
 
 ## How strong is Ethereum Classic demand?
 
-People's appetite for Ethereum Classic is **very weak**: 1.5/5, ranked #79 of 110.
+People's appetite for Ethereum Classic is **very weak**: 1.5/5, ranked #80 of 110.
 
 A deeper ETC demand breakdown is on the page for members.
 
@@ -60,7 +60,7 @@ More mining power → price up · Miners leave → price down. Today: the price-
 | Jul 31 2026 | 165 TH/s |
 | Aug 31 2026 | 186 TH/s |
 | Sep 30 2026 | 182 TH/s |
-| Oct 10 2026 | 140 TH/s |
+| Oct 12 2026 | 128 TH/s |
 
 *Checked Oct 10 2026*
 
@@ -86,7 +86,7 @@ One agreed upgrade path → price up · Rogue code or split → price down. Toda
 
 ### Is Ethereum Classic worth buying now?
 
-Based on the law of supply and demand, the long-run signal for Ethereum Classic is negative. As of Oct 10 2026, score 4.5/10, Ethereum Classic faces +0.60% new supply over 90 days, with demand very weak (1.5/5). Ethereum Classic's price drivers: 0 ▲ price up, 3 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Ethereum Classic is negative. As of Oct 12 2026, score 4.5/10, Ethereum Classic faces +0.60% new supply over 90 days, with demand very weak (1.5/5). Ethereum Classic's price drivers: 0 ▲ price up, 3 ▼ price down.
 
 ### Did the Sep 2026 developer split kill Ethereum Classic?
 
@@ -98,7 +98,7 @@ Ethereum, by a wide margin on our numbers. It scores 7/10 against Ethereum Class
 
 ### Is $100 possible for Ethereum Classic?
 
-It would take 11 times today's value: $100 × Ethereum Classic's coins in the market = about $15.8B, against $1.4B now (Oct 10 2026). Ethereum Classic's supply also grows +2.41% in the next year, so every extra coin needs buyers too. By supply and demand, Ethereum Classic's long-run signal is negative today.
+It would take 11 times today's value: $100 × Ethereum Classic's coins in the market = about $15.8B, against $1.4B now (Oct 12 2026). Ethereum Classic's supply also grows +2.41% in the next year, so every extra coin needs buyers too. By supply and demand, Ethereum Classic's long-run signal is negative today.
 
 ### Should I sell my Ethereum Classic now?
 
@@ -106,7 +106,7 @@ Today the signal is negative. Supply and demand would point the other way for Et
 
 ### Is Ethereum Classic a good long-term investment?
 
-On our framework Ethereum Classic scores 4.5/10 (Oct 10 2026), with supply 3/5 (light) and demand 1.5/5. In the next year Ethereum Classic's supply changes +2.41%, so the long-run signal reads negative.
+On our framework Ethereum Classic scores 4.5/10 (Oct 12 2026), with supply 3/5 (light) and demand 1.5/5. In the next year Ethereum Classic's supply changes +2.41%, so the long-run signal reads negative.
 
 ### What is the best time to invest in Ethereum Classic?
 
@@ -118,7 +118,7 @@ Ethereum Classic has 3 price drivers today (0 ▲ price up, 3 ▼ price down). �
 
 ### Is Ethereum Classic a better investment than Bitcoin?
 
-Ethereum Classic reads negative at 4.5/10; Bitcoin reads positive at 8.5/10 (Oct 10 2026). On supply and demand, Ethereum Classic looks weaker than Bitcoin today.
+Ethereum Classic reads negative at 4.5/10; Bitcoin reads positive at 8.5/10 (Oct 12 2026). On supply and demand, Ethereum Classic looks weaker than Bitcoin today.
 
 ## More on Ethereum Classic
 

@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy Lighter (LIT)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "As of Oct 10 2026, Lighter scores 4/10 on our framework, and its supply-and-demand signal reads mixed."
+description:   "As of Oct 12 2026, Lighter scores 4/10 on our framework, and its supply-and-demand signal reads mixed."
 canonical_url: "https://mrnasdog.com/research/lit"
 content_type:  "coin_hub"
 tags:          ["crypto", "lit", "lighter", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy Lighter (LIT)? Supply, Demand and Price Drivers (Oct 2026)
 
-*From https://mrnasdog.com/research/lit, updated Oct 10 2026*
+*From https://mrnasdog.com/research/lit, updated Oct 12 2026*
 
-As of Oct 10 2026, Lighter scores 4/10 on our framework, and its supply-and-demand signal reads **mixed**.
+As of Oct 12 2026, Lighter scores 4/10 on our framework, and its supply-and-demand signal reads **mixed**.
 
 - **Signal:** mixed for Lighter
 - **Score:** 4/10 — supply 0.5/5, demand 3.5/5
@@ -22,7 +22,7 @@ As of Oct 10 2026, Lighter scores 4/10 on our framework, and its supply-and-dema
 
 ### Is Lighter worth buying now?
 
-Supply and demand point to a mixed long-run signal for Lighter (Oct 10 2026, score 4/10). Lighter adds +5.41% new supply in 90 days, and demand reads strong (3.5/5). Lighter's price drivers: 2 ▲ price up, 1 ▼ price down.
+Supply and demand point to a mixed long-run signal for Lighter (Oct 12 2026, score 4/10). Lighter adds +5.41% new supply in 90 days, and demand reads strong (3.5/5). Lighter's price drivers: 2 ▲ price up, 1 ▼ price down.
 
 ### Lighter vs Hyperliquid: which token looks stronger?
 
@@ -38,7 +38,7 @@ We would read Lighter differently if new supply keeps arriving (+5.41% in 90 day
 
 ### Is Lighter a good investment in 2026?
 
-Lighter scores 4/10 on our framework (Oct 10 2026): supply 0.5/5 (flooding), demand 3.5/5. Over the next year Lighter's supply changes +54.05%. The long-run signal is mixed.
+Lighter scores 4/10 on our framework (Oct 12 2026): supply 0.5/5 (flooding), demand 3.5/5. Over the next year Lighter's supply changes +54.05%. The long-run signal is mixed.
 
 ### How do I know when to buy Lighter?
 
@@ -50,7 +50,7 @@ Lighter's price drivers today: 2 pointing up, 1 pointing down, out of 3. ▲ Mon
 
 ### Should I buy Lighter or Bitcoin?
 
-Lighter: mixed signal, 4/10 · Bitcoin: positive signal, 8.5/10 (Oct 10 2026). By supply and demand, Lighter reads weaker than Bitcoin today.
+Lighter: mixed signal, 4/10 · Bitcoin: positive signal, 8.5/10 (Oct 12 2026). By supply and demand, Lighter reads weaker than Bitcoin today.
 
 ## Where new Lighter comes from
 
@@ -79,7 +79,7 @@ Money on Lighter fell by half after Dec 2025, now slowly rebuilding.
 | Jul 31 2026 | $514M |
 | Aug 31 2026 | $591M |
 | Sep 30 2026 | $656M |
-| Oct 10 2026 | $637M |
+| Oct 12 2026 | $645M |
 
 *Checked Oct 10 2026*
 
@@ -94,7 +94,7 @@ Good for the price: Robinhood users add money. Bad for it: Robinhood users pull 
 | Jul 31 2026 | $10.8M |
 | Aug 31 2026 | $47.6M |
 | Sep 30 2026 | $107M |
-| Oct 10 2026 | $112M |
+| Oct 12 2026 | $112M |
 
 *Checked Oct 10 2026*
 

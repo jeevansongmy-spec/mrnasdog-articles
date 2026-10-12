@@ -1,6 +1,6 @@
 ---
 title:         "MemeCore (M) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Our read on MemeCore for Oct 10 2026: a negative long-run signal and a score of 2.5/10, from new supply, demand and what moves the price."
+description:   "Our read on MemeCore for Oct 12 2026: a negative long-run signal and a score of 2.5/10, from new supply, demand and what moves the price."
 canonical_url: "https://mrnasdog.com/research/memecore"
 content_type:  "coin_hub"
 tags:          ["crypto", "m", "memecore", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # MemeCore (M) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
 
-*From https://mrnasdog.com/research/memecore, updated Oct 10 2026*
+*From https://mrnasdog.com/research/memecore, updated Oct 12 2026*
 
-Our read on MemeCore for Oct 10 2026: a **negative** long-run signal and a score of 2.5/10, from new supply, demand and what moves the price.
+Our read on MemeCore for Oct 12 2026: a **negative** long-run signal and a score of 2.5/10, from new supply, demand and what moves the price.
 
 - **Signal:** negative for MemeCore
 - **Score:** 2.5/10 — supply 2/5, demand 0.5/5
@@ -22,11 +22,11 @@ Our read on MemeCore for Oct 10 2026: a **negative** long-run signal and a score
 
 MemeCore pays 30 new M every block, and its project wallets release large amounts when the team decides. A 925.93M M release to ZeroStack lifted supply 42.15% in 90 days; about 1.46% is expected next.
 
-MemeCore adds +1.46% new supply in the next 90 days and +5.92% over a year — supply scores 2/5 (growing) (place 41 of 101).
+MemeCore adds +1.46% new supply in the next 90 days and +5.92% over a year — supply scores 2/5 (growing) (place 42 of 101).
 
 ## Demand today
 
-Demand reads **very low** (0.5/5), #101 of 110 coins we track — that is how much people want M now and how much buying could still come.
+Demand reads **very low** (0.5/5), #99 of 110 coins we track — that is how much people want M now and how much buying could still come.
 
 The members-only part of M's demand section is not included.
 
@@ -65,7 +65,7 @@ Nasdaq firm ZeroStack holds about 926M M, unchanged since Aug 19 2026.
 
 ### Is MemeCore worth buying now?
 
-Based on the law of supply and demand, the long-run signal for MemeCore is negative. As of Oct 10 2026, score 2.5/10, MemeCore faces +1.46% new supply over 90 days, with demand very low (0.5/5). MemeCore's price drivers: 0 ▲ price up, 1 ▼ price down.
+Based on the law of supply and demand, the long-run signal for MemeCore is negative. As of Oct 12 2026, score 2.5/10, MemeCore faces +1.46% new supply over 90 days, with demand very low (0.5/5). MemeCore's price drivers: 0 ▲ price up, 1 ▼ price down.
 
 ### Why did MemeCore crash so hard?
 
@@ -77,7 +77,7 @@ Today the signal is negative. Supply and demand would point the other way for Me
 
 ### Is MemeCore a good investment in 2026?
 
-On our framework MemeCore scores 2.5/10 (Oct 10 2026), with supply 2/5 (growing) and demand 0.5/5. In the next year MemeCore's supply changes +5.92%, so the long-run signal reads negative.
+On our framework MemeCore scores 2.5/10 (Oct 12 2026), with supply 2/5 (growing) and demand 0.5/5. In the next year MemeCore's supply changes +5.92%, so the long-run signal reads negative.
 
 ### What is the best time to invest in MemeCore?
 
@@ -89,7 +89,7 @@ MemeCore has 2 price drivers today (0 ▲ price up, 1 ▼ price down). ▼ Who h
 
 ### Should I buy MemeCore or Bitcoin?
 
-MemeCore reads negative at 2.5/10; Bitcoin reads positive at 8.5/10 (Oct 10 2026). On supply and demand, MemeCore looks weaker than Bitcoin today.
+MemeCore reads negative at 2.5/10; Bitcoin reads positive at 8.5/10 (Oct 12 2026). On supply and demand, MemeCore looks weaker than Bitcoin today.
 
 ## Where to read the rest of M
 

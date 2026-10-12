@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy Four (FORM)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Our read on Four for Oct 10 2026: a negative long-run signal and a score of 5/10, from new supply, demand and what moves the price."
+description:   "Our read on Four for Oct 12 2026: a negative long-run signal and a score of 4.5/10, from new supply, demand and what moves the price."
 canonical_url: "https://mrnasdog.com/research/form"
 content_type:  "coin_hub"
 tags:          ["crypto", "form", "four", "should-i-buy"]
@@ -8,14 +8,14 @@ published:     true
 ---
 # Should You Buy Four (FORM)? Supply, Demand and Price Drivers (Oct 2026)
 
-*Source: https://mrnasdog.com/research/form — numbers checked Oct 10 2026*
+*Source: https://mrnasdog.com/research/form — numbers checked Oct 12 2026*
 
-Our read on Four for Oct 10 2026: a **negative** long-run signal and a score of 5/10, from new supply, demand and what moves the price.
+Our read on Four for Oct 12 2026: a **negative** long-run signal and a score of 4.5/10, from new supply, demand and what moves the price.
 
 - **Signal:** negative — FORM, read by supply and demand
-- **Score:** 5/10 — supply 4/5, demand 1/5
+- **Score:** 4.5/10 — supply 4/5, demand 0.5/5
 - **Supply growth:** +0.01% in 90 days · +0.02% in a year
-- **How much people want it:** low (1/5)
+- **How much people want it:** very low (0.5/5)
 - **Price drivers:** 0 ▲ price up · 2 ▼ price down
 
 ## Price drivers: what can move FORM
@@ -48,7 +48,7 @@ Good for the price: More trading. Bad for it: Less trading. Now: ▼ down side.
 | Jul 31 2026 | $140M |
 | Aug 31 2026 | $52.3M |
 | Sep 30 2026 | $33.4M |
-| Oct 10 2026 | $32.8M |
+| Oct 12 2026 | $31.7M |
 
 *Checked Oct 10 2026*
 
@@ -60,7 +60,7 @@ Expect +0.01% more FORM in 90 days (+0.02% over the year). On supply alone Four 
 
 ## Demand: how much people want FORM
 
-How much do people want FORM? **low** — 1 out of 5, #92 of 110.
+How much do people want FORM? **very low** — 0.5 out of 5, #99 of 110.
 
 The members-only part of FORM's demand section is not included.
 
@@ -68,7 +68,7 @@ The members-only part of FORM's demand section is not included.
 
 ### Is it a good time to buy Four today?
 
-Based on the law of supply and demand, the long-run signal for Four is negative. As of Oct 10 2026, score 5/10, Four faces +0.01% new supply over 90 days, with demand low (1/5). Four's price drivers: 0 ▲ price up, 2 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Four is negative. As of Oct 12 2026, score 4.5/10, Four faces +0.01% new supply over 90 days, with demand very low (0.5/5). Four's price drivers: 0 ▲ price up, 2 ▼ price down.
 
 ### Why is Four (FORM) down so much?
 
@@ -76,15 +76,15 @@ Mostly because Four.meme lost its users. Its launchpad share fell from about 90%
 
 ### Should I sell Four or hold?
 
-Today the signal is negative. Supply and demand would point the other way for Four if new supply jumps (today +0.01% in 90 days), or demand falls from low, or Four.meme market share and Four.meme trading volume keep pointing down.
+Today the signal is negative. Supply and demand would point the other way for Four if new supply jumps (today +0.01% in 90 days), or demand falls from very low, or Four.meme market share and Four.meme trading volume keep pointing down.
 
 ### Is Four worth investing in for the long term?
 
-On our framework Four scores 5/10 (Oct 10 2026), with supply 4/5 (tight) and demand 1/5. In the next year Four's supply changes +0.02%, so the long-run signal reads negative.
+On our framework Four scores 4.5/10 (Oct 12 2026), with supply 4/5 (tight) and demand 0.5/5. In the next year Four's supply changes +0.02%, so the long-run signal reads negative.
 
 ### What is the best time to invest in Four?
 
-The law of supply and demand points to one window for Four: low new supply, high demand, drivers pointing up. Where Four stands today: +0.01% new supply in 90 days (tight), demand low (1/5), drivers 0 ▲ / 2 ▼.
+The law of supply and demand points to one window for Four: low new supply, high demand, drivers pointing up. Where Four stands today: +0.01% new supply in 90 days (tight), demand very low (0.5/5), drivers 0 ▲ / 2 ▼.
 
 ### Will Four go up? What could move its price?
 
@@ -92,7 +92,7 @@ Four has 2 price drivers today (0 ▲ price up, 2 ▼ price down). ▼ Four.meme
 
 ### Is Four a better investment than Bitcoin?
 
-Four reads negative at 5/10; Bitcoin reads positive at 8.5/10 (Oct 10 2026). On supply and demand, Four looks weaker than Bitcoin today.
+Four reads negative at 4.5/10; Bitcoin reads positive at 8.5/10 (Oct 12 2026). On supply and demand, Four looks weaker than Bitcoin today.
 
 ## Go deeper on Four
 

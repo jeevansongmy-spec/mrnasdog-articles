@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy LINK? Chainlink Supply, Demand and What Moves Its Price"
-description:   "Supply and demand give Chainlink (LINK) a positive long-run signal today (Oct 11 2026); its score is 7/10."
+description:   "Supply and demand give Chainlink (LINK) a positive long-run signal today (Oct 12 2026); its score is 7/10."
 canonical_url: "https://mrnasdog.com/research/link"
 content_type:  "coin_hub"
 tags:          ["crypto", "link", "chainlink", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy LINK? Chainlink Supply, Demand and What Moves Its Price
 
-*Live page: https://mrnasdog.com/research/link · checked Oct 11 2026*
+*Live page: https://mrnasdog.com/research/link · checked Oct 12 2026*
 
-Supply and demand give Chainlink (LINK) a **positive** long-run signal today (Oct 11 2026); its score is 7/10.
+Supply and demand give Chainlink (LINK) a **positive** long-run signal today (Oct 12 2026); its score is 7/10.
 
 - **Long-run signal:** positive (by the law of supply and demand)
 - **Score:** 7/10 — supply 2/5, demand 5/5
@@ -70,7 +70,7 @@ Banks go live → price up · Bank pilots stall → price down. Now: ▲ up side
 
 ### Is it time to buy the Chainlink dip?
 
-Supply and demand point to a positive long-run signal for Chainlink (Oct 11 2026, score 7/10). Chainlink adds +1.47% new supply in 90 days, and demand reads exceptional (5/5). Chainlink's price drivers: 2 ▲ price up, 0 ▼ price down.
+Supply and demand point to a positive long-run signal for Chainlink (Oct 12 2026, score 7/10). Chainlink adds +1.47% new supply in 90 days, and demand reads exceptional (5/5). Chainlink's price drivers: 2 ▲ price up, 0 ▼ price down.
 
 ### Why is Chainlink going down while demand looks strong?
 
@@ -82,7 +82,7 @@ On supply and demand, Hyperliquid has the edge: 8.5/10 against Chainlink's 6/10 
 
 ### Could Chainlink ever hit $100?
 
-Chainlink trades near $12.9 (Oct 11 2026). $100 a coin means a $76.7B market cap, 7.8 times today's $9.89B. Chainlink's supply also grows +9.13% in the next year, so every extra coin needs buyers too. Supply and demand still read positive for Chainlink in the long run.
+Chainlink trades near $12.9 (Oct 12 2026). $100 a coin means a $76.7B market cap, 7.8 times today's $9.89B. Chainlink's supply also grows +9.13% in the next year, so every extra coin needs buyers too. Supply and demand still read positive for Chainlink in the long run.
 
 ### Should I sell my Chainlink now?
 
@@ -90,7 +90,7 @@ We would read Chainlink differently if new supply keeps arriving (+1.47% in 90 d
 
 ### Is Chainlink a good long-term investment?
 
-Chainlink scores 7/10 on our framework (Oct 11 2026): supply 2/5 (growing), demand 5/5. Over the next year Chainlink's supply changes +9.13%. The long-run signal is positive.
+Chainlink scores 7/10 on our framework (Oct 12 2026): supply 2/5 (growing), demand 5/5. Over the next year Chainlink's supply changes +9.13%. The long-run signal is positive.
 
 ### How do I know when to buy Chainlink?
 
@@ -102,7 +102,7 @@ Chainlink's price drivers today: 2 pointing up, 0 pointing down, out of 2. ▲ E
 
 ### Is Chainlink a better investment than Bitcoin?
 
-Chainlink: positive signal, 7/10 · Bitcoin: positive signal, 8.5/10 (Oct 11 2026). By supply and demand, Chainlink reads weaker than Bitcoin today.
+Chainlink: positive signal, 7/10 · Bitcoin: positive signal, 8.5/10 (Oct 12 2026). By supply and demand, Chainlink reads weaker than Bitcoin today.
 
 ## Next steps for LINK
 

@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy Pons? Supply, Demand and Price Drivers (Oct 2026)
 
-*Source: https://mrnasdog.com/research/pons — numbers checked Oct 10 2026*
+*Source: https://mrnasdog.com/research/pons — numbers checked Oct 12 2026*
 
-**positive** — that is Pons's long-run signal by supply and demand as of Oct 10 2026, with a score of 10/10.
+**positive** — that is Pons's long-run signal by supply and demand as of Oct 12 2026, with a score of 10/10.
 
 - **Signal:** positive — PONS, read by supply and demand
 - **Score:** 10/10 — supply 5/5, demand 5/5
@@ -60,7 +60,7 @@ PONS rises and falls with meme trading on Robinhood Chain
 | Jul 31 2026 | $15.3B |
 | Aug 31 2026 | $19.1B |
 | Sep 30 2026 | $56B |
-| Oct 10 2026 | $43.3B |
+| Oct 12 2026 | $39.6B |
 
 *Checked Oct 10 2026*
 
@@ -86,7 +86,7 @@ More big exchanges → price up · Exchanges delist PONS → price down. Today: 
 
 ### Should I enter Pons right now?
 
-By the law of supply and demand, Pons's long-run signal is positive (Oct 10 2026, score 10/10). New supply: −8.39% in the next 90 days. Demand: exceptional (5/5). Pons's price drivers: 2 ▲ price up, 1 ▼ price down.
+By the law of supply and demand, Pons's long-run signal is positive (Oct 12 2026, score 10/10). New supply: −8.39% in the next 90 days. Demand: exceptional (5/5). Pons's price drivers: 2 ▲ price up, 1 ▼ price down.
 
 ### What is Pons crypto, in simple words?
 
@@ -98,7 +98,7 @@ Pons's signal is positive for now. Pons's signal would turn if new supply jumps 
 
 ### Is Pons worth investing in for the long term?
 
-Pons sits at 10/10 today (Oct 10 2026): supply 5/5, demand 5/5. One more year adds −33.54% to Pons's supply. Long-run signal: positive.
+Pons sits at 10/10 today (Oct 12 2026): supply 5/5, demand 5/5. One more year adds −33.54% to Pons's supply. Long-run signal: positive.
 
 ### When is a good time to buy Pons?
 
@@ -110,7 +110,7 @@ Right now 3 things drive Pons's price (2 ▲, 1 ▼). ▲ Launchpad share: Pons 
 
 ### Is Pons a better investment than Bitcoin?
 
-Side by side on Oct 10 2026: Pons at 10/10 with a positive signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Pons is the stronger of the two.
+Side by side on Oct 12 2026: Pons at 10/10 with a positive signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Pons is the stronger of the two.
 
 ## Where to read the rest of PONS
 

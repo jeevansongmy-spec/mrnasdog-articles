@@ -1,6 +1,6 @@
 ---
 title:         "Is Aerodrome (AERO) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)"
-description:   "Our read on Aerodrome for Oct 10 2026: a negative long-run signal and a score of 3.5/10, from new supply, demand and what moves the price."
+description:   "Our read on Aerodrome for Oct 12 2026: a negative long-run signal and a score of 3.5/10, from new supply, demand and what moves the price."
 canonical_url: "https://mrnasdog.com/research/aero"
 content_type:  "coin_hub"
 tags:          ["crypto", "aero", "aerodrome", "should-i-buy"]
@@ -8,11 +8,11 @@ published:     true
 ---
 # Is Aerodrome (AERO) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/aero (checked Oct 10 2026)*
+*Originally published at https://mrnasdog.com/research/aero (checked Oct 12 2026)*
 
-Our read on Aerodrome for Oct 10 2026: a **negative** long-run signal and a score of 3.5/10, from new supply, demand and what moves the price.
+Our read on Aerodrome for Oct 12 2026: a **negative** long-run signal and a score of 3.5/10, from new supply, demand and what moves the price.
 
-- **Long-run signal:** negative (Oct 10 2026)
+- **Long-run signal:** negative (Oct 12 2026)
 - **Score:** 3.5/10 — supply 0/5, demand 3.5/5
 - **New supply:** +10.23% in 90 days · +22.52% in a year
 - **Demand:** strong (3.5/5)
@@ -69,7 +69,7 @@ A deeper AERO demand breakdown is on the page for members.
 
 ### Is it time to buy the Aerodrome dip?
 
-Based on the law of supply and demand, the long-run signal for Aerodrome is negative. As of Oct 10 2026, score 3.5/10, Aerodrome faces +10.23% new supply over 90 days, with demand strong (3.5/5). Aerodrome's price drivers: 0 ▲ price up, 0 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Aerodrome is negative. As of Oct 12 2026, score 3.5/10, Aerodrome faces +10.23% new supply over 90 days, with demand strong (3.5/5). Aerodrome's price drivers: 0 ▲ price up, 0 ▼ price down.
 
 ### What happens to Aerodrome when it merges with Velodrome?
 
@@ -81,7 +81,7 @@ New supply is the likely weight. Aerodrome adds +10.23% new tokens in 90 days an
 
 ### Is $10 possible for Aerodrome?
 
-It would take 12 times today's value: $10 × Aerodrome's coins in the market = about $10B, against $860M now (Oct 10 2026). Aerodrome's supply also grows +22.52% in the next year, so every extra coin needs buyers too. Supply and demand still read negative for Aerodrome in the long run.
+It would take 12 times today's value: $10 × Aerodrome's coins in the market = about $10B, against $860M now (Oct 12 2026). Aerodrome's supply also grows +22.52% in the next year, so every extra coin needs buyers too. Supply and demand still read negative for Aerodrome in the long run.
 
 ### Is it time to take profit on Aerodrome?
 
@@ -89,7 +89,7 @@ Today the signal is negative. Supply and demand would point the other way for Ae
 
 ### Is Aerodrome a good investment right now?
 
-On our framework Aerodrome scores 3.5/10 (Oct 10 2026), with supply 0/5 (extreme) and demand 3.5/5. In the next year Aerodrome's supply changes +22.52%, so the long-run signal reads negative.
+On our framework Aerodrome scores 3.5/10 (Oct 12 2026), with supply 0/5 (extreme) and demand 3.5/5. In the next year Aerodrome's supply changes +22.52%, so the long-run signal reads negative.
 
 ### What is the best time to invest in Aerodrome?
 
@@ -101,7 +101,7 @@ Aerodrome has 2 price drivers today (0 ▲ price up, 0 ▼ price down). • Aero
 
 ### Should I buy Aerodrome or Bitcoin?
 
-Aerodrome reads negative at 3.5/10; Bitcoin reads positive at 8.5/10 (Oct 10 2026). On supply and demand, Aerodrome looks weaker than Bitcoin today.
+Aerodrome reads negative at 3.5/10; Bitcoin reads positive at 8.5/10 (Oct 12 2026). On supply and demand, Aerodrome looks weaker than Bitcoin today.
 
 ## More on Aerodrome
 

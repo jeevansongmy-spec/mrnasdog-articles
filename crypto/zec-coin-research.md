@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy Zcash (ZEC)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "As of Oct 11 2026, Zcash scores 7.5/10 on our framework, and its supply-and-demand signal reads positive."
+description:   "As of Oct 12 2026, Zcash scores 7.5/10 on our framework, and its supply-and-demand signal reads positive."
 canonical_url: "https://mrnasdog.com/research/zec"
 content_type:  "coin_hub"
 tags:          ["crypto", "zec", "zcash", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy Zcash (ZEC)? Supply, Demand and Price Drivers (Oct 2026)
 
-*Live page: https://mrnasdog.com/research/zec · checked Oct 11 2026*
+*Live page: https://mrnasdog.com/research/zec · checked Oct 12 2026*
 
-As of Oct 11 2026, Zcash scores 7.5/10 on our framework, and its supply-and-demand signal reads **positive**.
+As of Oct 12 2026, Zcash scores 7.5/10 on our framework, and its supply-and-demand signal reads **positive**.
 
 - **Long-run signal:** positive (by the law of supply and demand)
 - **Score:** 7.5/10 — supply 2.5/5, demand 5/5
@@ -48,9 +48,9 @@ Good for the price: Old pool empties. Bad for it: Old pool grows. Today: the pri
 | Jul 31 2026 | 3.1 M ZEC | 0.653 M ZEC |
 | Aug 31 2026 | 0.471 M ZEC | 3.84 M ZEC |
 | Sep 30 2026 | 0.379 M ZEC | 4.06 M ZEC |
-| Oct 11 2026 | 0.362 M ZEC | 4.11 M ZEC |
+| Oct 12 2026 | 0.362 M ZEC | 4.11 M ZEC |
 
-*Checked Oct 11 2026*
+*Checked Oct 12 2026*
 
 ### • Privacy-coin rules
 
@@ -84,7 +84,7 @@ People's appetite for Zcash is **exceptional**: 5/5, ranked #1 of 110.
 
 ### Is Zcash worth buying now?
 
-Based on the law of supply and demand, the long-run signal for Zcash is positive. As of Oct 11 2026, score 7.5/10, Zcash faces +0.95% new supply over 90 days, with demand exceptional (5/5). Zcash's price drivers: 1 ▲ price up, 0 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Zcash is positive. As of Oct 12 2026, score 7.5/10, Zcash faces +0.95% new supply over 90 days, with demand exceptional (5/5). Zcash's price drivers: 1 ▲ price up, 0 ▼ price down.
 
 ### Why is Zcash dropping lately?
 
@@ -96,7 +96,7 @@ Not dead, but Jul 10 2027 is a real test. That day EU exchanges must drop ZEC, w
 
 ### Is $10,000 possible for Zcash?
 
-It would take 8.1 times today's value: $10,000 × Zcash's coins in the market = about $170B, against $20.9B now (Oct 11 2026). Zcash's supply also grows +3.85% in the next year, so every extra coin needs buyers too. By supply and demand, Zcash's long-run signal is positive today.
+It would take 8.1 times today's value: $10,000 × Zcash's coins in the market = about $170B, against $20.9B now (Oct 12 2026). Zcash's supply also grows +3.85% in the next year, so every extra coin needs buyers too. By supply and demand, Zcash's long-run signal is positive today.
 
 ### Should I sell my Zcash now?
 
@@ -104,7 +104,7 @@ Today the signal is positive. Supply and demand would point the other way for Zc
 
 ### Is Zcash a good long-term investment?
 
-On our framework Zcash scores 7.5/10 (Oct 11 2026), with supply 2.5/5 (moderate) and demand 5/5. In the next year Zcash's supply changes +3.85%, so the long-run signal reads positive.
+On our framework Zcash scores 7.5/10 (Oct 12 2026), with supply 2.5/5 (moderate) and demand 5/5. In the next year Zcash's supply changes +3.85%, so the long-run signal reads positive.
 
 ### What is the best time to invest in Zcash?
 
@@ -116,7 +116,7 @@ Zcash has 3 price drivers today (1 ▲ price up, 0 ▼ price down). • Big hold
 
 ### Is Zcash a better investment than Bitcoin?
 
-Zcash reads positive at 7.5/10; Bitcoin reads positive at 8.5/10 (Oct 11 2026). On supply and demand, Zcash looks weaker than Bitcoin today.
+Zcash reads positive at 7.5/10; Bitcoin reads positive at 8.5/10 (Oct 12 2026). On supply and demand, Zcash looks weaker than Bitcoin today.
 
 ## Where to read the rest of ZEC
 

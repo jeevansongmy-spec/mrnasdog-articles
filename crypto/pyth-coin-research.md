@@ -1,6 +1,6 @@
 ---
 title:         "Is Pyth Network (PYTH) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)"
-description:   "As of Oct 10 2026, Pyth Network scores 6/10 on our framework, and its supply-and-demand signal reads mixed."
+description:   "As of Oct 12 2026, Pyth Network scores 6/10 on our framework, and its supply-and-demand signal reads mixed."
 canonical_url: "https://mrnasdog.com/research/pyth"
 content_type:  "coin_hub"
 tags:          ["crypto", "pyth", "pythnetwork", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Is Pyth Network (PYTH) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)
 
-*From https://mrnasdog.com/research/pyth, updated Oct 10 2026*
+*From https://mrnasdog.com/research/pyth, updated Oct 12 2026*
 
-As of Oct 10 2026, Pyth Network scores 6/10 on our framework, and its supply-and-demand signal reads **mixed**.
+As of Oct 12 2026, Pyth Network scores 6/10 on our framework, and its supply-and-demand signal reads **mixed**.
 
 - **Signal today:** mixed for Pyth Network
 - **MrNasdog score:** 6/10 — supply 4.5/5, demand 1.5/5
@@ -22,7 +22,7 @@ As of Oct 10 2026, Pyth Network scores 6/10 on our framework, and its supply-and
 
 ### Should I enter Pyth Network right now?
 
-Supply and demand point to a mixed long-run signal for Pyth Network (Oct 10 2026, score 6/10). Pyth Network adds 0.00% new supply in 90 days, and demand reads very weak (1.5/5). Pyth Network's price drivers: 1 ▲ price up, 1 ▼ price down.
+Supply and demand point to a mixed long-run signal for Pyth Network (Oct 12 2026, score 6/10). Pyth Network adds 0.00% new supply in 90 days, and demand reads very weak (1.5/5). Pyth Network's price drivers: 1 ▲ price up, 1 ▼ price down.
 
 ### Pyth Network vs Chainlink: which oracle token looks better?
 
@@ -34,7 +34,7 @@ It helps the story. Nasdaq, Fidelity and Kalshi all signed on to Pyth Network in
 
 ### Could Pyth Network ever hit $5?
 
-Pyth Network trades near 7.17 cents (Oct 10 2026). $5 a coin means a $39.4B market cap, 70 times today's $565M. Pyth Network's supply also grows +26.98% in the next year, so every extra coin needs buyers too. For Pyth Network, the supply-and-demand signal is mixed right now.
+Pyth Network trades near 7.17 cents (Oct 12 2026). $5 a coin means a $39.4B market cap, 70 times today's $565M. Pyth Network's supply also grows +26.98% in the next year, so every extra coin needs buyers too. For Pyth Network, the supply-and-demand signal is mixed right now.
 
 ### When should I sell Pyth Network?
 
@@ -42,7 +42,7 @@ We would read Pyth Network differently if new supply jumps (today 0.00% in 90 da
 
 ### Is Pyth Network a good investment in 2026?
 
-Pyth Network scores 6/10 on our framework (Oct 10 2026): supply 4.5/5 (flat), demand 1.5/5. Over the next year Pyth Network's supply changes +26.98%. The long-run signal is mixed.
+Pyth Network scores 6/10 on our framework (Oct 12 2026): supply 4.5/5 (flat), demand 1.5/5. Over the next year Pyth Network's supply changes +26.98%. The long-run signal is mixed.
 
 ### How do I know when to buy Pyth Network?
 
@@ -54,7 +54,7 @@ Pyth Network's price drivers today: 1 pointing up, 1 pointing down, out of 2. �
 
 ### Should I buy Pyth Network or Bitcoin?
 
-Pyth Network: mixed signal, 6/10 · Bitcoin: positive signal, 8.5/10 (Oct 10 2026). By supply and demand, Pyth Network reads weaker than Bitcoin today.
+Pyth Network: mixed signal, 6/10 · Bitcoin: positive signal, 8.5/10 (Oct 12 2026). By supply and demand, Pyth Network reads weaker than Bitcoin today.
 
 ## New PYTH hitting the market
 
@@ -64,7 +64,7 @@ Pyth Network adds 0.00% new supply in the next 90 days and +26.98% over a year �
 
 ## Demand: how much people want PYTH
 
-Demand reads **very weak** (1.5/5), #79 of 110 coins we track — that is how much people want PYTH now and how much buying could still come.
+Demand reads **very weak** (1.5/5), #80 of 110 coins we track — that is how much people want PYTH now and how much buying could still come.
 
 Members get the rest of the Pyth Network demand read on mrnasdog.com.
 

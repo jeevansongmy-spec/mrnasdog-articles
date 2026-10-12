@@ -1,6 +1,6 @@
 ---
 title:         "Kaia: Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)"
-description:   "Our read on Kaia for Oct 10 2026: a mixed long-run signal and a score of 4/10, from new supply, demand and what moves the price."
+description:   "Our read on Kaia for Oct 12 2026: a negative long-run signal and a score of 3.5/10, from new supply, demand and what moves the price."
 canonical_url: "https://mrnasdog.com/research/kaia"
 content_type:  "coin_hub"
 tags:          ["crypto", "kaia", "kaia", "should-i-buy"]
@@ -8,25 +8,25 @@ published:     true
 ---
 # Kaia: Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)
 
-*Source: https://mrnasdog.com/research/kaia — numbers checked Oct 10 2026*
+*Source: https://mrnasdog.com/research/kaia — numbers checked Oct 12 2026*
 
-Our read on Kaia for Oct 10 2026: a **mixed** long-run signal and a score of 4/10, from new supply, demand and what moves the price.
+Our read on Kaia for Oct 12 2026: a **negative** long-run signal and a score of 3.5/10, from new supply, demand and what moves the price.
 
-- **Signal today:** mixed — KAIA, read by supply and demand
-- **MrNasdog score:** 4/10 — supply 2.5/5, demand 1.5/5
+- **Signal today:** negative — KAIA, read by supply and demand
+- **MrNasdog score:** 3.5/10 — supply 2.5/5, demand 1/5
 - **New coins:** +1.04% in 90 days · +4.23% in a year
-- **Demand:** very weak (1.5/5)
+- **Demand:** low (1/5)
 - **Drivers:** 1 ▲ price up · 0 ▼ price down
 
 ## Supply: how much new KAIA is coming
 
 Kaia mints a fixed 9.6 KAIA every block with no cap, and its fee burn takes back under 0.2% of it. Supply grew 1.16% in 90 days; a one-time reward burn trims the next 90 days to about 1.04%.
 
-Expect +1.04% more KAIA in 90 days (+4.23% over the year). On supply alone Kaia gets 2.5/5 — moderate (place 48 of 101).
+Expect +1.04% more KAIA in 90 days (+4.23% over the year). On supply alone Kaia gets 2.5/5 — moderate (place 49 of 101).
 
 ## Demand: how much people want KAIA
 
-How much do people want KAIA? **very weak** — 1.5 out of 5, #79 of 110.
+How much do people want KAIA? **low** — 1 out of 5, #91 of 110.
 
 Extra Kaia demand detail for members stays on the live page.
 
@@ -45,7 +45,7 @@ More dollar coins on Kaia → price up · Dollar coins leave → price down. Tod
 | Jul 31 2026 | $197M |
 | Aug 31 2026 | $207M |
 | Sep 30 2026 | $242M |
-| Oct 10 2026 | $222M |
+| Oct 12 2026 | $222M |
 
 *Checked Oct 10 2026*
 
@@ -87,23 +87,23 @@ LINE keeps building its stablecoin wallet on Kaia.
 
 ### Should I enter Kaia right now?
 
-Based on the law of supply and demand, the long-run signal for Kaia is mixed. As of Oct 10 2026, score 4/10, Kaia faces +1.04% new supply over 90 days, with demand very weak (1.5/5). Kaia's price drivers: 1 ▲ price up, 0 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Kaia is negative. As of Oct 12 2026, score 3.5/10, Kaia faces +1.04% new supply over 90 days, with demand low (1/5). Kaia's price drivers: 1 ▲ price up, 0 ▼ price down.
 
 ### What's actually happening on the Kaia chain lately?
 
-Stablecoins are the main Kaia story: dollar coins on the chain grew about 5x since May 2025. LINE also keeps building its stablecoin wallet on Kaia. Korean banks tested won coins there, but that law is still stuck, so it likely stays a waiting game. Our supply-and-demand read for Kaia stays mixed.
+Stablecoins are the main Kaia story: dollar coins on the chain grew about 5x since May 2025. LINE also keeps building its stablecoin wallet on Kaia. Korean banks tested won coins there, but that law is still stuck, so it likely stays a waiting game. Our supply-and-demand read for Kaia stays negative.
 
 ### Should I sell Kaia or hold?
 
-Today the signal is mixed. Supply and demand would point the other way for Kaia if new supply keeps arriving (+1.04% in 90 days), or demand falls from very weak.
+Today the signal is negative. Supply and demand would point the other way for Kaia if new supply keeps arriving (+1.04% in 90 days), or demand falls from low.
 
 ### Is Kaia worth investing in for the long term?
 
-On our framework Kaia scores 4/10 (Oct 10 2026), with supply 2.5/5 (moderate) and demand 1.5/5. In the next year Kaia's supply changes +4.23%, so the long-run signal reads mixed.
+On our framework Kaia scores 3.5/10 (Oct 12 2026), with supply 2.5/5 (moderate) and demand 1/5. In the next year Kaia's supply changes +4.23%, so the long-run signal reads negative.
 
 ### What is the best time to invest in Kaia?
 
-The law of supply and demand points to one window for Kaia: low new supply, high demand, drivers pointing up. Where Kaia stands today: +1.04% new supply in 90 days (moderate), demand very weak (1.5/5), drivers 1 ▲ / 0 ▼.
+The law of supply and demand points to one window for Kaia: low new supply, high demand, drivers pointing up. Where Kaia stands today: +1.04% new supply in 90 days (moderate), demand low (1/5), drivers 1 ▲ / 0 ▼.
 
 ### Will Kaia go up? What could move its price?
 
@@ -111,7 +111,7 @@ Kaia has 3 price drivers today (1 ▲ price up, 0 ▼ price down). ▲ Stablecoi
 
 ### Is Kaia a better investment than Bitcoin?
 
-Kaia reads mixed at 4/10; Bitcoin reads positive at 8.5/10 (Oct 10 2026). On supply and demand, Kaia looks weaker than Bitcoin today.
+Kaia reads negative at 3.5/10; Bitcoin reads positive at 8.5/10 (Oct 12 2026). On supply and demand, Kaia looks weaker than Bitcoin today.
 
 ## Next steps for KAIA
 

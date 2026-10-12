@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy VVV? Venice Token Supply, Demand and What Moves Its Price"
-description:   "Supply and demand give Venice Token (VVV) a mixed long-run signal today (Oct 10 2026); its score is 5/10."
+description:   "Supply and demand give Venice Token (VVV) a mixed long-run signal today (Oct 12 2026); its score is 5/10."
 canonical_url: "https://mrnasdog.com/research/vvv"
 content_type:  "coin_hub"
 tags:          ["crypto", "vvv", "venicetoken", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy VVV? Venice Token Supply, Demand and What Moves Its Price
 
-*Live page: https://mrnasdog.com/research/vvv · checked Oct 10 2026*
+*Live page: https://mrnasdog.com/research/vvv · checked Oct 12 2026*
 
-Supply and demand give Venice Token (VVV) a **mixed** long-run signal today (Oct 10 2026); its score is 5/10.
+Supply and demand give Venice Token (VVV) a **mixed** long-run signal today (Oct 12 2026); its score is 5/10.
 
 - **Signal today:** mixed (by the law of supply and demand)
 - **MrNasdog score:** 5/10 — supply 1/5, demand 4/5
@@ -57,7 +57,7 @@ Good for the price: Growth reaches token. Bad for it: Equity keeps growth.
 
 Venice's AI-app token: team vesting and staking rewards still outrun the revenue-funded burns, supply up about 3% a quarter until the main vesting ends in January 2027.
 
-Over the next 90 days VVV supply changes +3.45%; across a full year, +7.82%. That puts supply at 1/5 (very heavy), #24 of 101 for new supply.
+Over the next 90 days VVV supply changes +3.45%; across a full year, +7.82%. That puts supply at 1/5 (very heavy), #23 of 101 for new supply.
 
 ## Who wants Venice Token right now
 
@@ -69,7 +69,7 @@ The members-only part of VVV's demand section is not included.
 
 ### Is it a good time to buy Venice Token today?
 
-Supply and demand point to a mixed long-run signal for Venice Token (Oct 10 2026, score 5/10). Venice Token adds +3.45% new supply in 90 days, and demand reads strong (4/5). Venice Token's price drivers: 0 ▲ price up, 0 ▼ price down.
+Supply and demand point to a mixed long-run signal for Venice Token (Oct 12 2026, score 5/10). Venice Token adds +3.45% new supply in 90 days, and demand reads strong (4/5). Venice Token's price drivers: 0 ▲ price up, 0 ▼ price down.
 
 ### What is pushing Venice Token up?
 
@@ -77,7 +77,7 @@ Strong demand, most likely. Venice passed $100M in yearly revenue, demand reads 
 
 ### Could Venice Token ever hit $1,000?
 
-Venice Token trades near $27.9 (Oct 10 2026). $1,000 a coin means a $48.3B market cap, 36 times today's $1.35B. Venice Token's supply also grows +7.82% in the next year, so every extra coin needs buyers too. That leaves Venice Token's long-run signal at mixed, by supply and demand.
+Venice Token trades near $27.9 (Oct 12 2026). $1,000 a coin means a $48.3B market cap, 36 times today's $1.35B. Venice Token's supply also grows +7.82% in the next year, so every extra coin needs buyers too. That leaves Venice Token's long-run signal at mixed, by supply and demand.
 
 ### Should I sell my Venice Token now?
 
@@ -85,7 +85,7 @@ We would read Venice Token differently if new supply keeps arriving (+3.45% in 9
 
 ### Is Venice Token a good long-term investment?
 
-Venice Token scores 5/10 on our framework (Oct 10 2026): supply 1/5 (very heavy), demand 4/5. Over the next year Venice Token's supply changes +7.82%. The long-run signal is mixed.
+Venice Token scores 5/10 on our framework (Oct 12 2026): supply 1/5 (very heavy), demand 4/5. Over the next year Venice Token's supply changes +7.82%. The long-run signal is mixed.
 
 ### How do I know when to buy Venice Token?
 
@@ -97,7 +97,7 @@ Venice Token's price drivers today: 0 pointing up, 0 pointing down, out of 2. �
 
 ### Is Venice Token a better investment than Bitcoin?
 
-Venice Token: mixed signal, 5/10 · Bitcoin: positive signal, 8.5/10 (Oct 10 2026). By supply and demand, Venice Token reads weaker than Bitcoin today.
+Venice Token: mixed signal, 5/10 · Bitcoin: positive signal, 8.5/10 (Oct 12 2026). By supply and demand, Venice Token reads weaker than Bitcoin today.
 
 ## More on Venice Token
 

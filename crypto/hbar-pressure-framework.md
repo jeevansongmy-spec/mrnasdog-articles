@@ -1,6 +1,6 @@
 ---
-title:         "HBAR Inflation Analysis · October 2026 · Mixed last 90D · projected to grow"
-description:   "HBAR is never minted: the Hedera Council released 57.85M HBAR from its reserve in 90 days, +0.13% net, about +0.68% expected next. No burn, no buyback."
+title:         "HBAR Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
+description:   "HBAR is never minted: the Hedera Council released 207.85M HBAR from its reserve in 90 days, +0.47% net, about +0.09% next. No burn, no buyback."
 canonical_url: "https://mrnasdog.com/research/hbar/inflation"
 tags:          ["crypto", "hbar", "hedera", "layer1"]
 published:     true
@@ -10,58 +10,60 @@ published:     true
 <!-- main-page -->
 ➜ Start with the Hedera coin page for the short answer (should you buy HBAR?) and its price drivers: [mrnasdog.com/research/hbar](https://mrnasdog.com/research/hbar)
 
-# HBAR Inflation Analysis · October 2026 · Mixed last 90D · projected to grow
+# HBAR Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
-**HBAR**, the coin of the **Hedera** network, is never minted: all **50B HBAR** were created at launch, and new supply reaches the market only when the **Hedera Council** releases coins from its reserve. In the last 90 days the Council released **57.85M HBAR**, so circulating supply grew **+0.13%**, against **+0.50%** on our monitor. With quarterly releases resuming, we project about **297.6M HBAR**, or **+0.68%**, over the next 90 days. Nothing is burned and nothing is bought back, so the reserve of **6.15B HBAR** is the only ceiling on future supply.
+HBAR supply grew **+0.47%** in the last 90 days and should grow only about **+0.09%** in the next 90. Hedera never mints HBAR: all **50B** coins were made at launch, and new supply only reaches the market when the Hedera Council releases coins from its own accounts — **207.85M HBAR** this window, against **0** burned or bought back. The monitor reads **+0.48%**, so the two readings agree.
 
 ## The verdict, in one paragraph
 
-Hedera's circulating HBAR rose from **43.79B** to **43.85B** between Jul 3 2026 and Oct 1 2026, a net change of **+0.13%** in 90 days. Our monitor reads **+0.50%** for its own 90-day window, a gap of **0.37 percentage points**. That is inside our 0.5-point tolerance, so no warning chip is shown; the monitor's window simply starts a day earlier and catches part of a **300M HBAR** Council release on Jul 2 2026 that ours does not. The next 90 days should be busier, at about **+0.68%**. In one line: HBAR is a **fixed-supply coin released on a treasury schedule** — supply only grows as fast as the Council chooses to hand out its reserve.
+Over the 90 days to Oct 12 2026, Hedera's circulating supply rose by **207.85M HBAR**, which is **+0.47%** of the **44.0B HBAR** in circulation. The inflation monitor measured **+0.48%** over its own 90 days, a gap of just **0.005 percentage points**, well inside our 0.5-point line, so no warning chip is shown. For the next 90 days the Council's own plan points to about **39.5M HBAR**, or **+0.09%**. In one line: HBAR is a pre-minted coin whose only supply growth is a slow, Council-paced release from a reserve that still holds about **6.0B HBAR**.
 
 ## Sell pressure: where new HBAR comes from
 
-**Protocol inflation is 0.** Hedera has no block reward and no way to mint HBAR. The Hedera Council's own rules say the 50B total can change only if every Council member agrees. Stakers are paid from a pre-funded reward pool that already counts as circulating; it paid out **46.7M HBAR** in these 90 days and holds **135.5M**, but moving coins from that pool to stakers adds nothing new to the market.
+Protocol inflation is **0**. Hedera has no block reward and no mint. Stakers are paid from a reward pot that was filled in advance and already counts as circulating; that pot paid out about 0.51M HBAR a day and fell from **179.7M** to **133.5M HBAR** in the window. Paying stakers moves coins from one circulating account to another, so it adds nothing to supply.
 
-**Vesting unlocks: 16.06M HBAR.** The old staff coin plan still pays out once a quarter from the reserve. The latest payment, **16.06M HBAR**, went out on Sep 30 2026 to about a dozen wallets. Earlier payments landed on Oct 6 2025, Jan 2 2026, Apr 1 2026 and Jun 30 2026, 88 to 92 days apart, so the next should arrive around **Dec 29 2026** and is counted in the next 90 days. The early-buyer sale contracts that once released hundreds of millions of HBAR a quarter are finished.
+Vesting unlocks came to **16.06M HBAR**. This is the Council's coin plan, which pays staff and partners once a quarter; the latest payout landed on Sep 30 2026 and was spread across a handful of wallets the same day. The Council plans **36M HBAR** for the next payout, which on past timing lands on the last day of the quarter, about Dec 31 2026, plus **0.39M HBAR** under old purchase agreements.
 
-**Foundation and unscheduled releases: 41.79M HBAR.** On Aug 15 2026 the Council sent **40M HBAR** from its ecosystem account as a grant, and monthly pay added **1.79M** more. That was a quiet quarter. The Council's operating releases have no fixed dates, but one came in every quarter of the past year, between **151.5M** and **370.8M HBAR**. Their average, **281.5M HBAR**, is our forecast for the next 90 days, which brings total expected new supply to **297.6M HBAR**.
+Foundation and unscheduled releases were the big part: **191.79M HBAR**. On Oct 1 2026 the Council moved **150M HBAR** out of its reserve for running costs. On Aug 15 2026 it sent **40M HBAR** to the ecosystem development program. Small monthly payments added **1.79M**. For the next 90 days the Council's operating line shows only about **3.15M HBAR** left, because the 150M it planned for the quarter already went out on Oct 1.
 
-**Long-term locked or bankruptcy: 0.** No estate, trustee or long lock is paying HBAR out. Everything still held back sits in the Council reserve.
+Long-term locked or bankruptcy supply is **0**. No court estate, trustee or long lock is holding HBAR to pay out later.
 
 ## Buy pressure: where new HBAR goes
 
-**There is no buy side.** Hedera has **no programmatic buyback**: transaction fees are priced in US dollars, kept at fractions of a cent, and paid in HBAR to the nodes and the staking reward pool rather than used to buy coins. There is **no fee burn** either — released supply rose by exactly the amount that left the Council reserve, so no HBAR left the market. Neither the Council nor any foundation bought HBAR this window.
+Every buy row is **0**. Hedera runs no programmatic buyback. Hedera has no fee burn either: transaction fees are paid on to node operators, the staking reward pot and a fee account, all of which stay in circulation. We checked this both ways — circulating supply rose by exactly the coins that left the Council's reserve, with nothing missing that a burn would explain.
 
-**New long-term lock: 0.** Hedera staking has no lock-up. Staked HBAR can move at any time and still counts as circulating, so a rise in staking does not take coins off the market. Total buy pressure is **0 HBAR**, last 90 days and next.
+No Council or Foundation purchase of HBAR was found in the window. Staking does not count as a lock: about **12.95B HBAR** is staked, but staked HBAR can be moved at any time and is counted as circulating, so it takes nothing out of the float.
 
 ## Foundation and overhang
 
-The one overhang that matters is the **Hedera Council reserve**: **6.15B HBAR**, about 12.3% of the 50B total, spread across the Council's reserve accounts. The largest single account holds **599.9M**, and five more hold between 300M and 355M each. On Sep 29 2026 the Council shuffled about **215M HBAR** between reserve accounts in seven transfers; none of it left the reserve, so it counts for nothing yet, but moves like this have come before larger releases.
+The main overhang is the Council reserve itself: about **6.0B HBAR** spread across several hundred Council-controlled accounts, the largest holding about 600M. The Council publishes a plan each quarter, and the latest one lists **3.8B HBAR** for ecosystem development through the Hedera Foundation. That same line has been planned for about a year; in that time only **40M** moved, so we do not count the 3.8B as next-quarter supply. If it did move, the next-90-day reading would jump to about **+8.7%**.
 
-The Council's latest treasury report, with data to Sep 3 2026, planned to release a further **3.54B HBAR** through its ecosystem program this quarter. Only 40M of it has moved. Releases of this size were also planned for early 2025 and for spring 2026 and did not happen, so we do not count it until the coins leave the reserve. If it were released in full, Hedera's next-90-day reading would jump to about **+8.7%**. The staking reward pool (**135.5M HBAR**) is a second item to watch: at its current pace it nears its low-balance level around mid-December, and a top-up from the reserve would count as a release. We read every reserve account on-chain at each rebuild; if the reserve's balance falls between refreshes, the outflow enters Sell #3 at the next refresh.
+Two large holders sit outside the reserve and already count as circulating. A wallet that gathered about 3.85B HBAR from early Hedera accounts on Aug 17 and 18 2026 now holds about **3.72B HBAR** and has been paying out steadily; the staking reward pot holds **133.5M**. Because both are already in the circulating count, their spending moves coins between holders rather than adding supply. On Sep 29 2026 the Council also reshuffled about 215M HBAR between its own reserve accounts, which changes nothing for supply. We read the reserve balances on every rebuild: if they fall between refreshes, the outflow enters the foundation row at the next refresh.
 
-## How HBAR compares to other pre-minted treasury chains
+## How HBAR compares to other pre-minted payment and enterprise chains
 
-HBAR belongs to a small group of large networks whose whole supply was created on day one and is handed out by an organisation rather than earned by validators. The closest match is **XRP**: all 100B XRP were also created at launch, and Ripple releases coins from on-chain escrow on a monthly rhythm, returning what it does not use. Hedera has no escrow contract with a fixed monthly cap; its releases are decided by the Council and published in a quarterly treasury report, which makes the timing lumpier and harder to forecast. **Stellar (XLM)** is the other cousin: a fixed supply with no inflation, and a foundation that distributes from a large reserve.
+HBAR belongs to the group of coins that were fully created at launch and are released over time by the people who hold the reserve. That puts it closer to XRP and Stellar's XLM than to chains like Ethereum or Solana, which pay validators in brand-new coins every day. On a pre-minted chain the supply question is never "how fast is the mint", it is "how fast does the reserve holder let coins out".
 
-The contrast with proof-of-stake chains that issue new coins is sharp. **Ethereum** and **Solana** mint fresh coins for validators every few minutes, so their supply grows whether anyone decides it or not. On Hedera, staking rewards come from a pool that was filled in advance, so **staking never creates new HBAR**. The trade-off is that HBAR's supply growth is a governance choice: the 6.15B reserve can reach the market slowly, as it did in this window, or in one large grant.
+The difference is in the rules around that release. XRP's reserve sits in on-chain escrow with a monthly ceiling, and every XRP fee is destroyed, so it has a small built-in burn. Hedera has neither: its release is decided by the Council quarter by quarter and shown in a public plan, and its fees are recycled to nodes and stakers rather than burned. That makes HBAR supply easy to read after the fact — every release is visible on the ledger — but harder to forecast, because the Council can let out much more or much less than planned.
 
-HBAR also has **no burn**. XRP destroys a tiny fee on every payment and Ethereum burns part of each fee, but Hedera pays all fees to its nodes and stakers. Its fees are set in US dollars and stay very low, so even if a burn existed, network use alone would not offset releases of this size.
+Compared with chains that print new coins for staking, HBAR's staking is unusual: rewards come from a pot that was filled in advance, so staking does not dilute holders today. The trade-off is that the pot is running down at about 0.51M HBAR a day; a top-up from the reserve would show up as a new release.
 
 ## What to watch in the next 90 days
 
-**The next quarterly treasury report.** The Council publishes actual releases and a forecast for the following quarter; the next one should show whether the **3.54B HBAR** ecosystem release is still planned for Q4 2026.
+The Council's quarterly coin plan payout, planned at **36M HBAR**, is due around Dec 31 2026.
 
-**The coin-plan payout around Dec 29 2026.** We expect about **16.06M HBAR**, in line with the last four payouts.
+The **3.8B HBAR** ecosystem development line in the Council's Q4 2026 plan: any large transfer to the Hedera Foundation would raise circulating supply at once.
 
-**An operating release from the reserve.** One came in every quarter of the past year, with no fixed date; our forecast of **281.5M HBAR** assumes one more before Dec 30 2026.
+The Council's next quarterly treasury update in early January 2027, which will show what was really released in Q4 2026 and the plan for Q1 2027.
 
-**The staking reward pool.** It held **135.5M HBAR** on Oct 1 2026 and paid out 46.7M in the last 90 days; a refill from the reserve would add new supply.
+The staking reward pot at **133.5M HBAR**: a top-up from Council accounts would count as new supply.
+
+The large circulating wallet holding about **3.72B HBAR**: its payouts do not change supply, but they do decide how many coins reach traders.
 
 ## Summary
 
-HBAR has a fixed total of 50B coins and no minting, so its supply grows only when the Hedera Council releases its reserve. That happened slowly this window: **57.85M HBAR**, or **+0.13%** in 90 days, with **0** burned or bought back. We expect about **+0.68%** over the next 90 days as the Council's quarterly releases return. The key risk is the size of the remaining reserve, **6.15B HBAR**, including a planned **3.54B** grant that would lift supply by about 8% if it moved; the hard ceiling is the 50B cap itself.
+HBAR is a pre-minted coin with no mint, no burn and no buyback, so its supply moves only when the Hedera Council releases coins from its reserve. That release came to **207.85M HBAR**, or **+0.47%**, in the 90 days to Oct 12 2026, in line with the monitor's **+0.48%**, and the Council's own plan points to only about **+0.09%** next. The key risk is the **3.8B HBAR** ecosystem line still sitting in the plan; the ceiling is the fixed **50B** total, of which about 6.0B is still held back.
 
 ---
 
-*MrNasdog Pressure Framework analysis of HBAR, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 1 2026.*
+*MrNasdog Pressure Framework analysis of HBAR, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 12 2026.*

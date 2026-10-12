@@ -8,9 +8,9 @@ published:     true
 ---
 # Sky — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
 
-*From https://mrnasdog.com/research/sky, updated Oct 10 2026*
+*From https://mrnasdog.com/research/sky, updated Oct 12 2026*
 
-**mixed** — that is Sky's long-run signal by supply and demand as of Oct 10 2026, with a score of 6.5/10.
+**mixed** — that is Sky's long-run signal by supply and demand as of Oct 12 2026, with a score of 6.5/10.
 
 - **Long-run signal:** mixed for Sky
 - **Score:** 6.5/10 — supply 3.5/5, demand 3/5
@@ -30,10 +30,10 @@ More USDS in use → price up · USDS shrinks → price down. Right now it point
 
 | Date | USDS | DAI |
 |---|---|---|
-| Jul 31 2026 | $6.26B | $4.8B |
 | Aug 31 2026 | $6.37B | $4.79B |
 | Sep 30 2026 | $6.69B | $4.78B |
-| Oct 10 2026 | $7B | $4.75B |
+| Oct 10 2026 | — | $4.75B |
+| Oct 12 2026 | $7.12B | — |
 
 *Checked Oct 10 2026*
 
@@ -68,7 +68,7 @@ Demand reads **moderate** (3/5), #30 of 110 coins we track — that is how much 
 
 ### Is Sky worth buying now?
 
-Supply and demand point to a mixed long-run signal for Sky (Oct 10 2026, score 6.5/10). Sky adds +0.14% new supply in 90 days, and demand reads moderate (3/5). Sky's price drivers: 2 ▲ price up, 0 ▼ price down.
+Supply and demand point to a mixed long-run signal for Sky (Oct 12 2026, score 6.5/10). Sky adds +0.14% new supply in 90 days, and demand reads moderate (3/5). Sky's price drivers: 2 ▲ price up, 0 ▼ price down.
 
 ### Why are people watching Sky crypto again?
 
@@ -76,7 +76,7 @@ Both of Sky's price drivers point up on Oct 10 2026. Its USDS dollar is growing 
 
 ### Could Sky ever hit $1?
 
-Sky trades near 8.8 cents (Oct 10 2026). $1 a coin means a $23.4B market cap, 11 times today's $2.06B. Sky's supply also grows +0.56% in the next year, so every extra coin needs buyers too. By supply and demand, Sky's long-run signal is mixed today.
+Sky trades near 8.8 cents (Oct 12 2026). $1 a coin means a $23.4B market cap, 11 times today's $2.06B. Sky's supply also grows +0.56% in the next year, so every extra coin needs buyers too. By supply and demand, Sky's long-run signal is mixed today.
 
 ### When should I sell Sky?
 
@@ -84,7 +84,7 @@ We would read Sky differently if new supply jumps (today +0.14% in 90 days), or 
 
 ### Is Sky a good investment in 2026?
 
-Sky scores 6.5/10 on our framework (Oct 10 2026): supply 3.5/5 (steady), demand 3/5. Over the next year Sky's supply changes +0.56%. The long-run signal is mixed.
+Sky scores 6.5/10 on our framework (Oct 12 2026): supply 3.5/5 (steady), demand 3/5. Over the next year Sky's supply changes +0.56%. The long-run signal is mixed.
 
 ### How do I know when to buy Sky?
 
@@ -96,7 +96,7 @@ Sky's price drivers today: 2 pointing up, 0 pointing down, out of 2. ▲ Sky's d
 
 ### Should I buy Sky or Bitcoin?
 
-Sky: mixed signal, 6.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 10 2026). By supply and demand, Sky reads weaker than Bitcoin today.
+Sky: mixed signal, 6.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 12 2026). By supply and demand, Sky reads weaker than Bitcoin today.
 
 ## More on Sky
 

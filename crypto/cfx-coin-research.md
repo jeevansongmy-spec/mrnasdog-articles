@@ -8,11 +8,11 @@ published:     true
 ---
 # Is Conflux (CFX) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/cfx (checked Oct 10 2026)*
+*Originally published at https://mrnasdog.com/research/cfx (checked Oct 12 2026)*
 
-**negative** — that is Conflux's long-run signal by supply and demand as of Oct 10 2026, with a score of 3.5/10.
+**negative** — that is Conflux's long-run signal by supply and demand as of Oct 12 2026, with a score of 3.5/10.
 
-- **Signal:** negative (Oct 10 2026)
+- **Signal:** negative (Oct 12 2026)
 - **Score:** 3.5/10 — supply 3/5, demand 0.5/5
 - **Supply growth:** +0.44% in 90 days · +1.78% in a year
 - **How much people want it:** very low (0.5/5)
@@ -39,7 +39,7 @@ More stablecoins on Conflux → price up · Stablecoins leave → price down. Ri
 | Jul 27 2026 | 38.1 M | 16.7 M |
 | Aug 31 2026 | 38.1 M | 20.1 M |
 | Sep 28 2026 | 38.1 M | 20.1 M |
-| Oct 10 2026 | 38.1 M | 20.2 M |
+| Oct 12 2026 | 38.1 M | 20.2 M |
 
 *Checked Oct 10 2026*
 
@@ -62,7 +62,7 @@ Hong Kong keeps opening up; mainland China still bans crypto trading.
 
 ## Who wants Conflux right now
 
-Conflux demand: 0.5/5 (**very low**), place #101 among 110 coins — interest today plus the buying that could come later.
+Conflux demand: 0.5/5 (**very low**), place #99 among 110 coins — interest today plus the buying that could come later.
 
 Members get the rest of the Conflux demand read on mrnasdog.com.
 
@@ -70,7 +70,7 @@ Members get the rest of the Conflux demand read on mrnasdog.com.
 
 ### Is it a good time to buy Conflux today?
 
-Supply and demand point to a negative long-run signal for Conflux (Oct 10 2026, score 3.5/10). Conflux adds +0.44% new supply in 90 days, and demand reads very low (0.5/5). Conflux's price drivers: 1 ▲ price up, 0 ▼ price down.
+Supply and demand point to a negative long-run signal for Conflux (Oct 12 2026, score 3.5/10). Conflux adds +0.44% new supply in 90 days, and demand reads very low (0.5/5). Conflux's price drivers: 1 ▲ price up, 0 ▼ price down.
 
 ### Is it time to take profit on Conflux?
 
@@ -78,7 +78,7 @@ We would read Conflux differently if new supply jumps (today +0.44% in 90 days),
 
 ### Is Conflux a good investment right now?
 
-Conflux scores 3.5/10 on our framework (Oct 10 2026): supply 3/5 (light), demand 0.5/5. Over the next year Conflux's supply changes +1.78%. The long-run signal is negative.
+Conflux scores 3.5/10 on our framework (Oct 12 2026): supply 3/5 (light), demand 0.5/5. Over the next year Conflux's supply changes +1.78%. The long-run signal is negative.
 
 ### How do I know when to buy Conflux?
 
@@ -90,7 +90,7 @@ Conflux's price drivers today: 1 pointing up, 0 pointing down, out of 2. ▲ Sta
 
 ### Should I buy Conflux or Bitcoin?
 
-Conflux: negative signal, 3.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 10 2026). By supply and demand, Conflux reads weaker than Bitcoin today.
+Conflux: negative signal, 3.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 12 2026). By supply and demand, Conflux reads weaker than Bitcoin today.
 
 ## More on Conflux
 

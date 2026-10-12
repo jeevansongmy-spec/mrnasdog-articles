@@ -1,6 +1,6 @@
 ---
 title:         "Filecoin (FIL) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Our read on Filecoin for Oct 10 2026: a negative long-run signal and a score of 3.5/10, from new supply, demand and what moves the price."
+description:   "Our read on Filecoin for Oct 12 2026: a negative long-run signal and a score of 3.5/10, from new supply, demand and what moves the price."
 canonical_url: "https://mrnasdog.com/research/fil"
 content_type:  "coin_hub"
 tags:          ["crypto", "fil", "filecoin", "should-i-buy"]
@@ -8,11 +8,11 @@ published:     true
 ---
 # Filecoin (FIL) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/fil (checked Oct 10 2026)*
+*Originally published at https://mrnasdog.com/research/fil (checked Oct 12 2026)*
 
-Our read on Filecoin for Oct 10 2026: a **negative** long-run signal and a score of 3.5/10, from new supply, demand and what moves the price.
+Our read on Filecoin for Oct 12 2026: a **negative** long-run signal and a score of 3.5/10, from new supply, demand and what moves the price.
 
-- **Signal:** negative (Oct 10 2026)
+- **Signal:** negative (Oct 12 2026)
 - **Score:** 3.5/10 — supply 1.5/5, demand 2/5
 - **Supply growth:** +2.25% in 90 days · +8.19% in a year
 - **How much people want it:** weak (2/5)
@@ -22,11 +22,11 @@ Our read on Filecoin for Oct 10 2026: a **negative** long-run signal and a score
 
 Filecoin added 34.62M FIL in 90 days from launch vesting, freed storage collateral and block rewards, against a 578K burn: supply up 4.09%. The vesting ends Oct 14 2026, so about 2.25% next.
 
-New FIL: +2.25% in 90 days, +8.19% in a year. Supply score 1.5/5, "heavy", #33 of 101 for new supply.
+New FIL: +2.25% in 90 days, +8.19% in a year. Supply score 1.5/5, "heavy", #32 of 101 for new supply.
 
 ## Demand: how much people want FIL
 
-Filecoin demand: 2/5 (**weak**), place #66 among 110 coins — interest today plus the buying that could come later.
+Filecoin demand: 2/5 (**weak**), place #65 among 110 coins — interest today plus the buying that could come later.
 
 Extra Filecoin demand detail for members stays on the live page.
 
@@ -45,7 +45,7 @@ More data stored → price up · Storage keeps shrinking → price down. Now: �
 | Jul 29 2026 | 1.47 EiB |
 | Aug 31 2026 | 1.38 EiB |
 | Sep 27 2026 | 1.34 EiB |
-| Oct 10 2026 | 1.27 EiB |
+| Oct 12 2026 | 1.28 EiB |
 
 *Checked Oct 10 2026*
 
@@ -69,7 +69,7 @@ Solstice upgrade on Oct 19 2026 ties rewards to paid storage.
 
 ### Should I buy Filecoin now, or wait?
 
-By the law of supply and demand, Filecoin's long-run signal is negative (Oct 10 2026, score 3.5/10). New supply: +2.25% in the next 90 days. Demand: weak (2/5). Filecoin's price drivers: 0 ▲ price up, 1 ▼ price down.
+By the law of supply and demand, Filecoin's long-run signal is negative (Oct 12 2026, score 3.5/10). New supply: +2.25% in the next 90 days. Demand: weak (2/5). Filecoin's price drivers: 0 ▲ price up, 1 ▼ price down.
 
 ### Is Filecoin dead now that its storage keeps shrinking?
 
@@ -81,7 +81,7 @@ Mostly too much supply for too few buyers. Filecoin adds +2.25% new supply in 90
 
 ### Can Filecoin reach $100?
 
-At $100, Filecoin would be worth about $83.3B in total — about 92 times its $910M market cap today (Oct 10 2026, about $1.09 a coin). Filecoin's supply also grows +8.19% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Filecoin stays negative.
+At $100, Filecoin would be worth about $83.3B in total — about 92 times its $910M market cap today (Oct 12 2026, about $1.09 a coin). Filecoin's supply also grows +8.19% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Filecoin stays negative.
 
 ### Is it time to take profit on Filecoin?
 
@@ -89,7 +89,7 @@ Filecoin's signal is negative for now. Filecoin's signal would turn if new suppl
 
 ### Is Filecoin a good investment right now?
 
-Filecoin sits at 3.5/10 today (Oct 10 2026): supply 1.5/5, demand 2/5. One more year adds +8.19% to Filecoin's supply. Long-run signal: negative.
+Filecoin sits at 3.5/10 today (Oct 12 2026): supply 1.5/5, demand 2/5. One more year adds +8.19% to Filecoin's supply. Long-run signal: negative.
 
 ### When is a good time to buy Filecoin?
 
@@ -101,7 +101,7 @@ Right now 2 things drive Filecoin's price (0 ▲, 1 ▼). ▼ Storage on network
 
 ### Should I buy Filecoin or Bitcoin?
 
-Side by side on Oct 10 2026: Filecoin at 3.5/10 with a negative signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Filecoin is the weaker of the two.
+Side by side on Oct 12 2026: Filecoin at 3.5/10 with a negative signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Filecoin is the weaker of the two.
 
 ## Go deeper on Filecoin
 

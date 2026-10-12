@@ -1,6 +1,6 @@
 ---
 title:         "Arbitrum (ARB) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Supply and demand give Arbitrum (ARB) a mixed long-run signal today (Oct 10 2026); its score is 4.5/10."
+description:   "Supply and demand give Arbitrum (ARB) a mixed long-run signal today (Oct 12 2026); its score is 4.5/10."
 canonical_url: "https://mrnasdog.com/research/arb"
 content_type:  "coin_hub"
 tags:          ["crypto", "arb", "arbitrum", "should-i-buy"]
@@ -8,11 +8,11 @@ published:     true
 ---
 # Arbitrum (ARB) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/arb (checked Oct 10 2026)*
+*Originally published at https://mrnasdog.com/research/arb (checked Oct 12 2026)*
 
-Supply and demand give Arbitrum (ARB) a **mixed** long-run signal today (Oct 10 2026); its score is 4.5/10.
+Supply and demand give Arbitrum (ARB) a **mixed** long-run signal today (Oct 12 2026); its score is 4.5/10.
 
-- **Signal:** mixed (Oct 10 2026)
+- **Signal:** mixed (Oct 12 2026)
 - **Score:** 4.5/10 — supply 0.5/5, demand 4/5
 - **Supply growth:** +4.73% in 90 days · +9.60% in a year
 - **How much people want it:** strong (4/5)
@@ -45,7 +45,7 @@ Robinhood Chain grows → price up · Robinhood Chain fades → price down. Toda
 | Jul 31 2026 | $0.358B |
 | Aug 31 2026 | $0.714B |
 | Sep 30 2026 | $1.01B |
-| Oct 10 2026 | $1.05B |
+| Oct 12 2026 | $1.06B |
 
 *Checked Oct 10 2026*
 
@@ -71,7 +71,7 @@ DAO votes by Nov 12 2026 on 100M ARB for USDG.
 
 ### Should I buy Arbitrum now, or wait?
 
-Based on the law of supply and demand, the long-run signal for Arbitrum is mixed. As of Oct 10 2026, score 4.5/10, Arbitrum faces +4.73% new supply over 90 days, with demand strong (4/5). Arbitrum's price drivers: 1 ▲ price up, 0 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Arbitrum is mixed. As of Oct 12 2026, score 4.5/10, Arbitrum faces +4.73% new supply over 90 days, with demand strong (4/5). Arbitrum's price drivers: 1 ▲ price up, 0 ▼ price down.
 
 ### Why is Arbitrum going down if Robinhood Chain is growing?
 
@@ -83,7 +83,7 @@ Ethereum looks stronger: 7/10 vs Arbitrum's 4.5/10 on Oct 10 2026. Arbitrum's de
 
 ### Is $10 possible for Arbitrum?
 
-It would take 50 times today's value: $10 × Arbitrum's coins in the market = about $67.9B, against $1.36B now (Oct 10 2026). Arbitrum's supply also grows +9.60% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Arbitrum stays mixed.
+It would take 50 times today's value: $10 × Arbitrum's coins in the market = about $67.9B, against $1.36B now (Oct 12 2026). Arbitrum's supply also grows +9.60% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Arbitrum stays mixed.
 
 ### Is it time to take profit on Arbitrum?
 
@@ -91,7 +91,7 @@ Today the signal is mixed. Supply and demand would point the other way for Arbit
 
 ### Is Arbitrum a good investment right now?
 
-On our framework Arbitrum scores 4.5/10 (Oct 10 2026), with supply 0.5/5 (flooding) and demand 4/5. In the next year Arbitrum's supply changes +9.60%, so the long-run signal reads mixed.
+On our framework Arbitrum scores 4.5/10 (Oct 12 2026), with supply 0.5/5 (flooding) and demand 4/5. In the next year Arbitrum's supply changes +9.60%, so the long-run signal reads mixed.
 
 ### What is the best time to invest in Arbitrum?
 
@@ -103,7 +103,7 @@ Arbitrum has 2 price drivers today (1 ▲ price up, 0 ▼ price down). ▲ Robin
 
 ### Should I buy Arbitrum or Bitcoin?
 
-Arbitrum reads mixed at 4.5/10; Bitcoin reads positive at 8.5/10 (Oct 10 2026). On supply and demand, Arbitrum looks weaker than Bitcoin today.
+Arbitrum reads mixed at 4.5/10; Bitcoin reads positive at 8.5/10 (Oct 12 2026). On supply and demand, Arbitrum looks weaker than Bitcoin today.
 
 ## Next steps for ARB
 

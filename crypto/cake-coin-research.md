@@ -1,6 +1,6 @@
 ---
 title:         "PancakeSwap (CAKE): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)"
-description:   "As of Oct 10 2026, PancakeSwap scores 8.5/10 on our framework, and its supply-and-demand signal reads positive."
+description:   "As of Oct 12 2026, PancakeSwap scores 8/10 on our framework, and its supply-and-demand signal reads positive."
 canonical_url: "https://mrnasdog.com/research/cake"
 content_type:  "coin_hub"
 tags:          ["crypto", "cake", "pancakeswap", "should-i-buy"]
@@ -8,14 +8,14 @@ published:     true
 ---
 # PancakeSwap (CAKE): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)
 
-*Live page: https://mrnasdog.com/research/cake · checked Oct 10 2026*
+*Live page: https://mrnasdog.com/research/cake · checked Oct 12 2026*
 
-As of Oct 10 2026, PancakeSwap scores 8.5/10 on our framework, and its supply-and-demand signal reads **positive**.
+As of Oct 12 2026, PancakeSwap scores 8/10 on our framework, and its supply-and-demand signal reads **positive**.
 
 - **Signal:** positive (by the law of supply and demand)
-- **Score:** 8.5/10 — supply 5/5, demand 3.5/5
+- **Score:** 8/10 — supply 5/5, demand 3/5
 - **Supply growth:** −1.17% in 90 days · −4.75% in a year
-- **How much people want it:** strong (3.5/5)
+- **How much people want it:** moderate (3/5)
 - **Price drivers:** 2 ▲ price up · 0 ▼ price down
 
 ## Supply: how much new CAKE is coming
@@ -26,7 +26,7 @@ Over the next 90 days CAKE supply changes −1.17%; across a full year, −4.75%
 
 ## Demand today
 
-People's appetite for PancakeSwap is **strong**: 3.5/5, ranked #19 of 110.
+People's appetite for PancakeSwap is **moderate**: 3/5, ranked #30 of 110.
 
 A deeper CAKE demand breakdown is on the page for members.
 
@@ -70,7 +70,7 @@ Good for the price: PancakeSwap wins more trades. Bad for it: Rivals take trades
 
 ### Is it a good time to buy PancakeSwap today?
 
-By the law of supply and demand, PancakeSwap's long-run signal is positive (Oct 10 2026, score 8.5/10). New supply: −1.17% in the next 90 days. Demand: strong (3.5/5). PancakeSwap's price drivers: 2 ▲ price up, 0 ▼ price down.
+By the law of supply and demand, PancakeSwap's long-run signal is positive (Oct 12 2026, score 8/10). New supply: −1.17% in the next 90 days. Demand: moderate (3/5). PancakeSwap's price drivers: 2 ▲ price up, 0 ▼ price down.
 
 ### PancakeSwap vs Uniswap: which DEX token holds up better?
 
@@ -82,19 +82,19 @@ Less trading on BNB Chain is the likely reason. DEX trading there is about a qua
 
 ### Can PancakeSwap reach $1,000?
 
-At $1,000, PancakeSwap would be worth about $318B in total — about 403 times its $790M market cap today (Oct 10 2026, about $2.48 a coin). PancakeSwap's supply barely changes in the next year (−4.75%), so the whole move would have to come from demand. That leaves PancakeSwap's long-run signal at positive, by supply and demand.
+At $1,000, PancakeSwap would be worth about $318B in total — about 403 times its $790M market cap today (Oct 12 2026, about $2.48 a coin). PancakeSwap's supply barely changes in the next year (−4.75%), so the whole move would have to come from demand. That leaves PancakeSwap's long-run signal at positive, by supply and demand.
 
 ### Should I sell my PancakeSwap now?
 
-PancakeSwap's signal is positive for now. PancakeSwap's signal would turn if new supply jumps (today −1.17% in 90 days), or demand falls from strong.
+PancakeSwap's signal is positive for now. PancakeSwap's signal would turn if new supply jumps (today −1.17% in 90 days), or demand falls from moderate.
 
 ### Is PancakeSwap a good long-term investment?
 
-PancakeSwap sits at 8.5/10 today (Oct 10 2026): supply 5/5, demand 3.5/5. One more year adds −4.75% to PancakeSwap's supply. Long-run signal: positive.
+PancakeSwap sits at 8/10 today (Oct 12 2026): supply 5/5, demand 3/5. One more year adds −4.75% to PancakeSwap's supply. Long-run signal: positive.
 
 ### When is a good time to buy PancakeSwap?
 
-By the law of supply and demand, the better time to buy PancakeSwap is when its new supply is low, demand is high and its price drivers point up. PancakeSwap today: −1.17% new supply in 90 days (shrinking), demand strong (3.5/5), drivers 2 ▲ / 0 ▼.
+By the law of supply and demand, the better time to buy PancakeSwap is when its new supply is low, demand is high and its price drivers point up. PancakeSwap today: −1.17% new supply in 90 days (shrinking), demand moderate (3/5), drivers 2 ▲ / 0 ▼.
 
 ### What could push PancakeSwap's price up or down?
 
@@ -102,7 +102,7 @@ Right now 2 things drive PancakeSwap's price (2 ▲, 0 ▼). ▲ BNB Chain tradi
 
 ### Is PancakeSwap a better investment than Bitcoin?
 
-Side by side on Oct 10 2026: PancakeSwap at 8.5/10 with a positive signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, PancakeSwap and Bitcoin read about the same.
+Side by side on Oct 12 2026: PancakeSwap at 8/10 with a positive signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, PancakeSwap is the weaker of the two.
 
 ## Go deeper on PancakeSwap
 

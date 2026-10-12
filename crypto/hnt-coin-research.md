@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy Helium (HNT)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Our read on Helium for Oct 10 2026: a negative long-run signal and a score of 1/10, from new supply, demand and what moves the price."
+description:   "Our read on Helium for Oct 12 2026: a negative long-run signal and a score of 1/10, from new supply, demand and what moves the price."
 canonical_url: "https://mrnasdog.com/research/hnt"
 content_type:  "coin_hub"
 tags:          ["crypto", "hnt", "helium", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy Helium (HNT)? Supply, Demand and Price Drivers (Oct 2026)
 
-*Live page: https://mrnasdog.com/research/hnt · checked Oct 10 2026*
+*Live page: https://mrnasdog.com/research/hnt · checked Oct 12 2026*
 
-Our read on Helium for Oct 10 2026: a **negative** long-run signal and a score of 1/10, from new supply, demand and what moves the price.
+Our read on Helium for Oct 12 2026: a **negative** long-run signal and a score of 1/10, from new supply, demand and what moves the price.
 
 - **Long-run signal:** negative (by the law of supply and demand)
 - **Score:** 1/10 — supply 0.5/5, demand 0.5/5
@@ -62,7 +62,7 @@ Good for the price: Plan wins carriers. Bad for it: Plan stalls.
 
 ## How strong is Helium demand?
 
-People's appetite for Helium is **very low**: 0.5/5, ranked #101 of 110.
+People's appetite for Helium is **very low**: 0.5/5, ranked #99 of 110.
 
 Extra Helium demand detail for members stays on the live page.
 
@@ -70,7 +70,7 @@ Extra Helium demand detail for members stays on the live page.
 
 ### Should I buy Helium now, or wait?
 
-Supply and demand point to a negative long-run signal for Helium (Oct 10 2026, score 1/10). Helium adds +9.82% new supply in 90 days, and demand reads very low (0.5/5). Helium's price drivers: 0 ▲ price up, 1 ▼ price down.
+Supply and demand point to a negative long-run signal for Helium (Oct 12 2026, score 1/10). Helium adds +9.82% new supply in 90 days, and demand reads very low (0.5/5). Helium's price drivers: 0 ▲ price up, 1 ▼ price down.
 
 ### What changed at Helium after its new CEO came in?
 
@@ -82,7 +82,7 @@ Small: about $0.098B on Oct 10 2026. What weighs most is new coins: HNT supply g
 
 ### Could Helium ever hit $1,000?
 
-Helium trades near 50.6 cents (Oct 10 2026). $1,000 a coin means a $194B market cap, 1,975 times today's $98M. Helium's supply also grows +39.19% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Helium stays negative.
+Helium trades near 50.6 cents (Oct 12 2026). $1,000 a coin means a $194B market cap, 1,975 times today's $98M. Helium's supply also grows +39.19% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Helium stays negative.
 
 ### Should I sell my Helium now?
 
@@ -90,7 +90,7 @@ We would read Helium differently if new supply keeps arriving (+9.82% in 90 days
 
 ### Is Helium a good long-term investment?
 
-Helium scores 1/10 on our framework (Oct 10 2026): supply 0.5/5 (flooding), demand 0.5/5. Over the next year Helium's supply changes +39.19%. The long-run signal is negative.
+Helium scores 1/10 on our framework (Oct 12 2026): supply 0.5/5 (flooding), demand 0.5/5. Over the next year Helium's supply changes +39.19%. The long-run signal is negative.
 
 ### How do I know when to buy Helium?
 
@@ -102,7 +102,7 @@ Helium's price drivers today: 0 pointing up, 1 pointing down, out of 2. ▼ Carr
 
 ### Is Helium a better investment than Bitcoin?
 
-Helium: negative signal, 1/10 · Bitcoin: positive signal, 8.5/10 (Oct 10 2026). By supply and demand, Helium reads weaker than Bitcoin today.
+Helium: negative signal, 1/10 · Bitcoin: positive signal, 8.5/10 (Oct 12 2026). By supply and demand, Helium reads weaker than Bitcoin today.
 
 ## Next steps for HNT
 

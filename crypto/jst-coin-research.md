@@ -1,6 +1,6 @@
 ---
 title:         "JUST (JST) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Is JUST worth buying today? By the law of supply and demand, the long-run signal for JST is positive (score 7/10, checked Oct 10 2026)."
+description:   "Is JUST worth buying today? By the law of supply and demand, the long-run signal for JST is positive (score 7/10, checked Oct 12 2026)."
 canonical_url: "https://mrnasdog.com/research/jst"
 content_type:  "coin_hub"
 tags:          ["crypto", "jst", "just", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # JUST (JST) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
 
-*From https://mrnasdog.com/research/jst, updated Oct 10 2026*
+*From https://mrnasdog.com/research/jst, updated Oct 12 2026*
 
-Is JUST worth buying today? By the law of supply and demand, the long-run signal for JST is **positive** (score 7/10, checked Oct 10 2026).
+Is JUST worth buying today? By the law of supply and demand, the long-run signal for JST is **positive** (score 7/10, checked Oct 12 2026).
 
 - **Long-run signal:** positive for JUST
 - **Score:** 7/10 — supply 5/5, demand 2/5
@@ -33,7 +33,7 @@ More money deposited → price up · Deposits leave → price down. Now: ▲ up 
 | Jul 31 2026 | $3.31B |
 | Aug 31 2026 | $3.69B |
 | Sep 30 2026 | $3.87B |
-| Oct 10 2026 | $3.78B |
+| Oct 12 2026 | $3.79B |
 
 *Checked Oct 10 2026*
 
@@ -61,7 +61,7 @@ JUST adds −1.88% new supply in the next 90 days and −4.63% over a year — s
 
 ## Demand: how much people want JST
 
-Demand reads **weak** (2/5), #66 of 110 coins we track — that is how much people want JST now and how much buying could still come.
+Demand reads **weak** (2/5), #65 of 110 coins we track — that is how much people want JST now and how much buying could still come.
 
 A deeper JST demand breakdown is on the page for members.
 
@@ -69,7 +69,7 @@ A deeper JST demand breakdown is on the page for members.
 
 ### Is it a good time to buy JUST today?
 
-Supply and demand point to a positive long-run signal for JUST (Oct 10 2026, score 7/10). JUST adds −1.88% new supply in 90 days, and demand reads weak (2/5). JUST's price drivers: 2 ▲ price up, 0 ▼ price down.
+Supply and demand point to a positive long-run signal for JUST (Oct 12 2026, score 7/10). JUST adds −1.88% new supply in 90 days, and demand reads weak (2/5). JUST's price drivers: 2 ▲ price up, 0 ▼ price down.
 
 ### What is the latest JST news, and does Justin Sun still matter?
 
@@ -81,7 +81,7 @@ We would read JUST differently if new supply jumps (today −1.88% in 90 days), 
 
 ### Is JUST a good investment in 2026?
 
-JUST scores 7/10 on our framework (Oct 10 2026): supply 5/5 (shrinking), demand 2/5. Over the next year JUST's supply changes −4.63%. The long-run signal is positive.
+JUST scores 7/10 on our framework (Oct 12 2026): supply 5/5 (shrinking), demand 2/5. Over the next year JUST's supply changes −4.63%. The long-run signal is positive.
 
 ### How do I know when to buy JUST?
 
@@ -93,7 +93,7 @@ JUST's price drivers today: 2 pointing up, 0 pointing down, out of 2. ▲ JustLe
 
 ### Should I buy JUST or Bitcoin?
 
-JUST: positive signal, 7/10 · Bitcoin: positive signal, 8.5/10 (Oct 10 2026). By supply and demand, JUST reads weaker than Bitcoin today.
+JUST: positive signal, 7/10 · Bitcoin: positive signal, 8.5/10 (Oct 12 2026). By supply and demand, JUST reads weaker than Bitcoin today.
 
 ## More on JUST
 

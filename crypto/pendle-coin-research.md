@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy PENDLE? Supply, Demand and What Moves Its Price"
-description:   "Our read on Pendle for Oct 10 2026: a negative long-run signal and a score of 4/10, from new supply, demand and what moves the price."
+description:   "Our read on Pendle for Oct 12 2026: a negative long-run signal and a score of 4/10, from new supply, demand and what moves the price."
 canonical_url: "https://mrnasdog.com/research/pendle"
 content_type:  "coin_hub"
 tags:          ["crypto", "pendle", "pendle", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy PENDLE? Supply, Demand and What Moves Its Price
 
-*Source: https://mrnasdog.com/research/pendle — numbers checked Oct 10 2026*
+*Source: https://mrnasdog.com/research/pendle — numbers checked Oct 12 2026*
 
-Our read on Pendle for Oct 10 2026: a **negative** long-run signal and a score of 4/10, from new supply, demand and what moves the price.
+Our read on Pendle for Oct 12 2026: a **negative** long-run signal and a score of 4/10, from new supply, demand and what moves the price.
 
 - **Signal today:** negative — PENDLE, read by supply and demand
 - **MrNasdog score:** 4/10 — supply 1.5/5, demand 2.5/5
@@ -22,7 +22,7 @@ Our read on Pendle for Oct 10 2026: a **negative** long-run signal and a score o
 
 Pendle mints no new PENDLE, yet 2.45M coins reached the market in 90 days from treasury wallets and ending vote-locks. The fee buyback pays stakers and removes none.
 
-Expect +1.86% more PENDLE in 90 days (+7.90% over the year). On supply alone Pendle gets 1.5/5 — heavy (place 37 of 101).
+Expect +1.86% more PENDLE in 90 days (+7.90% over the year). On supply alone Pendle gets 1.5/5 — heavy (place 36 of 101).
 
 ## PENDLE price drivers the score does not count
 
@@ -39,7 +39,7 @@ Good for the price: More money parked. Bad for it: Money keeps leaving. Right no
 | Jul 31 2026 | $1.22B |
 | Aug 31 2026 | $1.18B |
 | Sep 30 2026 | $1.26B |
-| Oct 10 2026 | $1.21B |
+| Oct 12 2026 | $1.22B |
 
 *Checked Oct 10 2026*
 
@@ -68,7 +68,7 @@ Extra Pendle demand detail for members stays on the live page.
 
 ### Should I buy Pendle now, or wait?
 
-Based on the law of supply and demand, the long-run signal for Pendle is negative. As of Oct 10 2026, score 4/10, Pendle faces +1.86% new supply over 90 days, with demand modest (2.5/5). Pendle's price drivers: 0 ▲ price up, 2 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Pendle is negative. As of Oct 12 2026, score 4/10, Pendle faces +1.86% new supply over 90 days, with demand modest (2.5/5). Pendle's price drivers: 0 ▲ price up, 2 ▼ price down.
 
 ### Is Pendle dead now that most of its money has left?
 
@@ -84,7 +84,7 @@ Today the signal is negative. Supply and demand would point the other way for Pe
 
 ### Is Pendle worth investing in for the long term?
 
-On our framework Pendle scores 4/10 (Oct 10 2026), with supply 1.5/5 (heavy) and demand 2.5/5. In the next year Pendle's supply changes +7.90%, so the long-run signal reads negative.
+On our framework Pendle scores 4/10 (Oct 12 2026), with supply 1.5/5 (heavy) and demand 2.5/5. In the next year Pendle's supply changes +7.90%, so the long-run signal reads negative.
 
 ### What is the best time to invest in Pendle?
 
@@ -96,7 +96,7 @@ Pendle has 2 price drivers today (0 ▲ price up, 2 ▼ price down). ▼ Money i
 
 ### Is Pendle a better investment than Bitcoin?
 
-Pendle reads negative at 4/10; Bitcoin reads positive at 8.5/10 (Oct 10 2026). On supply and demand, Pendle looks weaker than Bitcoin today.
+Pendle reads negative at 4/10; Bitcoin reads positive at 8.5/10 (Oct 12 2026). On supply and demand, Pendle looks weaker than Bitcoin today.
 
 ## Go deeper on Pendle
 

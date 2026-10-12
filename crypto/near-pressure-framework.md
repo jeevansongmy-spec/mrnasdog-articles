@@ -1,6 +1,6 @@
 ---
 title:         "NEAR Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description:   "NEAR supply is growing: 8.01M NEAR minted for stakers against a 66.1K gas burn gives +0.61% net over 90 days, the same next. No cap; buybacks are held."
+description:   "NEAR supply is growing: 8.01M NEAR minted for stakers against a 72.6K gas burn gives +0.61% net over 90 days, the same next. No cap; buybacks are held."
 canonical_url: "https://mrnasdog.com/research/near/inflation"
 tags:          ["crypto", "near", "near-protocol", "layer1"]
 published:     true
@@ -10,56 +10,58 @@ published:     true
 <!-- main-page -->
 The NEAR Protocol coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/near](https://mrnasdog.com/research/near). Below: supply, line by line.
 
-NEAR is a coin whose supply grows on purpose. In the 90 days to Oct 1 2026 the NEAR Protocol minted **8,005,124 NEAR** for validators, stakers and the protocol treasury, and gas fees burned **66,109 NEAR**, so net supply rose about **+0.61%**. The next 90 days should look the same. NEAR has no supply cap: the protocol may print up to **2.5%** of supply a year, and the gas burn takes back less than 1% of that.
+NEAR Protocol is mildly inflationary: the network created **8.01M NEAR** for stakers and its treasury in the last 90 days, while the gas burn destroyed **72,580 NEAR**, so supply grew **+0.61%** — and the next 90 days look the same. NEAR has no supply cap; the top issuance rate is **2.5% a year**, and the NEAR Intents buyback keeps the coins it buys instead of burning them.
 
 ## The verdict, in one paragraph
 
-Over the last 90 days NEAR supply grew by **+0.61%** net: **8.01M NEAR** of new coins against a **66.1K NEAR** gas-fee burn, measured on **1.31B NEAR** in circulation. Our supply monitor, which reads the market's circulating figure every day, shows **+0.85%** for the same 90 days. The gap is **0.25 percentage points**, inside our 0.5-point limit, so no warning flag is needed. The next 90 days project to the same **+0.61%**, because the mint and the burn both run every day with no dated change. In one line: NEAR is a staking chain that is inflationary by design, with a burn too small to matter.
+Over the 90 days to Oct 12 2026, NEAR supply grew a net **+0.61%**: 8.01M NEAR minted against 72,580 NEAR burned, out of **1.31B NEAR** in circulation. Our monitor reads **+0.83%** for the same stretch, a gap of **0.22 percentage points**, inside our 0.5-point tolerance, so no warning chip is shown. The next 90 days project the same **+0.61%**, because the NEAR mint runs at a steady rate and no supply change has a mainnet date yet. NEAR is a steady-issuance proof-of-stake chain: inflationary by design, with a burn too small to offset it.
 
 ## Sell pressure: where new NEAR comes from
 
-**Protocol inflation is the whole sell side: 8,005,124 NEAR in 90 days.** NEAR mints new coins once per epoch, a period of 43,200 blocks that lasted about 7.4 hours this window. We read the supply at all 294 epoch starts in the window, and each one added about **26,500 NEAR**. The cap on this mint is **2.5%** of supply a year, set in October 2025 when NEAR cut it in half from 5%. Validators that miss blocks lose part of their reward, and that unpaid part is never minted, so the real rate ran just under the cap. Of the new NEAR, 90% goes to validators and the people who stake with them, and 10% (**804,749 NEAR** this window) goes to the protocol treasury.
+Protocol inflation is the only source of new NEAR: **8,006,996 NEAR** in 90 days. NEAR mints at the start of every epoch, about every 7.3 hours, and 295 epochs began in this window, each adding between 26,196 and 29,461 NEAR. The size of each mint follows the clock, not the block count, and the total came to 99.5% of the full 2.5% yearly rate, the small shortfall reflecting validators who were not fully online. About 90% of each NEAR epoch reward goes to validators and the people who stake with them; about 10% goes to the protocol treasury account.
 
-**Vesting unlocks are zero.** The founding team says the NEAR supply is fully unlocked, and the circulating figure equals the total supply, so no locked pile is waiting to open. A few old Foundation lockup contracts still exist, but their coins already count as circulating.
+Vesting unlocks add **0**. The NEAR launch vesting schedule has run out, unlock trackers show no future NEAR unlock, and circulating supply equals total supply, so even coins still sitting in old lockup contracts are already counted as part of the float.
 
-**Foundation and unscheduled unlocks are zero.** The protocol treasury, the NEAR Foundation wallets and the buyback wallets all hold coins that the market already counts as circulating. When they move or sell, no new NEAR enters the market, so these moves add nothing to the ledger. We still track their balances in the overhang section below.
+Foundation and unscheduled unlocks add **0**. NEAR has team-held pools — the protocol treasury, the buyback wallets and NEAR Foundation wallets — but every one of them is already counted as circulating. When they spend or sell, coins change hands; no new NEAR supply appears.
 
-**Long-term locked or bankruptcy is zero.** No court estate, trustee or failed company holds NEAR waiting to be paid out.
+Long-term locked or bankruptcy supply adds **0**. No estate, trustee or long lock is releasing NEAR. The first US NEAR fund, launched on Sep 29 2026, and the listed companies holding NEAR bought their coins in the open market.
 
 ## Buy pressure: where new NEAR goes
 
-**The programmatic buyback books zero, even though it is real.** Since early 2026, fees from NEAR Intents, NEAR's cross-chain swap service, buy NEAR on the open market. Three buyback wallets went from **2.46M** to **3.66M NEAR** in this window, a gain of **1.20M NEAR**. But the bought NEAR is held, not burned, and it still counts as circulating. Holding coins in a wallet the market already counts does not shrink supply, so the buyback row stays at zero. It does take coins off exchanges for now, which is why we watch these wallets closely.
+The protocol fee burn is the only buy-side row that counts: **72,580 NEAR** destroyed in 90 days, about 806 a day. Most of the gas fee on each NEAR transaction is burned and the rest is paid to the contract that was called. The NEAR burn is rising with use — **32,165 NEAR** in the last 30 days, against about 19,000 to 21,000 in each of the two 30-day stretches before — but it still takes back less than 1% of what the mint creates.
 
-**The protocol fee burn removed 66,109 NEAR.** Every NEAR transaction pays gas, and the gas is destroyed, except the 30% of contract execution gas that NEAR pays to the contract's owner. We measured the burn as the gap between what was minted and how much supply actually grew, and it matches about 82% of all gas fees paid in the window, as the rule predicts. That is about **735 NEAR a day**. The burn rose late in the window as blocks got busier, but it is still less than 1% of the mint.
+The programmatic buyback books **0**, even though it is real. Fees from NEAR Intents, the cross-chain swap service, buy NEAR on the open market, and the three buyback wallets grew by **1,309,866 NEAR** in the window. Those coins are kept, not burned, and the wallets are already part of the float, so the NEAR buyback moves coins from sellers to a team wallet rather than removing them. If governance ever burned them, this row would start to count.
 
-**Foundation buy is zero.** We found no announcement or wallet flow showing the NEAR Foundation or the treasury buying NEAR this window; the buying is done by the buyback wallets.
-
-**New long-term lock is zero.** About **551.0M NEAR**, roughly 42% of supply, is staked with 408 validators, and the new Bitwise NEAR ETF stakes all of the NEAR it holds. Staked NEAR can be unstaked and still counts as circulating, so more staking does not take coins out of the float.
+Foundation buying adds **0**: apart from the Intents buyback, nothing shows the NEAR Foundation or the treasury buying NEAR. New long-term locks add **0** too. About **558.7M NEAR** is staked with 407 validators, roughly 43% of supply, but staked NEAR is still circulating, so more staking only shares out the same mint.
 
 ## Foundation and overhang
 
-The NEAR Protocol treasury wallet holds **1.25M NEAR**, up from 0.45M at the start of the window because it receives 10% of every mint. The forum puts the wider protocol treasury at about **30M NEAR** once staked coins are counted, and NEAR's co-founder has proposed turning it into a Sovereign Fund; that is still a discussion with no vote. The three buyback wallets hold **3.66M NEAR**. The NEAR Foundation's payments wallet holds **14,248 NEAR**, and an older Foundation wallet paid out about 309,000 NEAR this window. We read these balances from the chain at every rebuild. If any of them falls between refreshes, that outflow is the first thing we check, and it enters the Foundation row at the next refresh.
+We track three team-held NEAR pools. The protocol treasury account holds **1.35M NEAR**, up from about 548,000 at the start of the window, and grows by about 2,640 NEAR every epoch from its share of the mint. The three NEAR Intents buyback wallets hold **3.84M NEAR** together. The NEAR Foundation wallets we can see hold about **15,118 NEAR**; any wider Foundation reserve is not public. We read the treasury and buyback balances on-chain at every rebuild and check the Foundation by hand.
 
-## How NEAR compares to other proof-of-stake Layer 1s
+All of these coins already count as circulating, so a sale from any of them would not raise the supply figure — it would add selling in the market. That is why we watch them: if any of these balances falls between our checks, the outflow is recorded as Foundation selling at the next rebuild.
 
-NEAR sits in the group of proof-of-stake Layer 1 chains with no hard cap, where new coins pay for security. Its design is simple: one yearly ceiling of **2.5%**, minted per epoch, with a small part sent to a treasury. Ethereum works differently: its issuance rises and falls with the amount staked, and part of every fee is burned, so in busy times the burn can match the issuance. Solana prints new coins on a schedule that falls each year toward a long-term floor and burns part of its fees. NEAR's rate is lower than many young Layer 1s, but its gas fees are tiny, so the burn cannot offset the mint the way it sometimes does on Ethereum.
+## How NEAR compares to other uncapped proof-of-stake chains
 
-The other difference is where fee money goes. On NEAR, most of the real income comes from NEAR Intents, and that money buys NEAR and holds it instead of burning it. A chain that burns its buybacks shrinks supply directly; a chain that holds them builds a pile that is out of the order books today but could be spent tomorrow. Capped chains with fixed schedules, like Bitcoin, sit at the other end: their new supply is known years ahead and falls in steps. NEAR's supply only gets tighter when its community votes to change the rate, as it did in 2025.
+NEAR sits with the proof-of-stake Layer 1s that pay stakers in new coins and have no hard cap. Its rate is a flat percentage of supply — 2.5% a year since a validator vote halved it from 5% in late 2025 — rather than a rate that changes with how much is staked. Ethereum works the other way: its issuance rises with the square root of the total stake, and its fee burn is a much larger share of new supply in busy periods. Bitcoin, by contrast, has a fixed cap and a halving schedule, so its new supply shrinks on a timetable no vote can change.
+
+Solana is the closest match: it also pays stakers from a percentage rate with no cap, its rate also steps down on a set path, and its stakers voted on Aug 28 2026 for a further cut. NEAR holders are now debating the same move: a draft House of Stake proposal posted on Oct 7 2026 would lower the NEAR top rate from 2.5% to 1.6% in small steps over 24 months.
+
+The NEAR buyback is the other big difference. Many fee-sharing tokens burn what they buy back, which lowers supply. NEAR keeps its bought-back coins in team wallets, so the buying supports demand but does not shrink supply. On our measure, a held buyback is a pool of coins that could return to the market, not a burn.
 
 ## What to watch in the next 90 days
 
-**The 1.6% issuance vote.** On Sep 30 2026 a House of Stake proposal asked to lower the yearly cap from 2.5% to 1.6%, step by step every epoch over 24 months, with a vote expected by Oct 11 2026. Even if it passes, a 90-day grace period and a protocol upgrade come first, so it should not change the next 90 days.
+The House of Stake proposal to cut NEAR issuance from 2.5% to 1.6% over 24 months, posted on Oct 7 2026 and still a draft. Even if it passes, it waits a 90-day grace period, so it would slow the mint only after this window.
 
-**The full gas burn.** An approved change ends the 30% gas rebate to contract owners, so all gas would be burned. It is in nearcore 2.14, which reached test releases on Sep 16 2026 and Sep 28 2026 but has no mainnet date yet. Even then the burn would stay far below the mint.
+The mainnet date of nearcore 2.14, which carries the approved change (ratified Jul 3 2026) that ends the contract share of gas and burns all of it. Its third test release came on Sep 28 2026; once live, the NEAR burn should rise by up to about 40%, still small against the mint.
 
-**The buyback wallets and the treasury.** These now hold **3.66M** and **1.25M NEAR**. Any sale or transfer out would put held coins back in play, and any burn would finally make the buyback count on the buy side.
+The buyback and treasury wallets. Any fall in the 3.84M NEAR buyback balance or the 1.35M NEAR treasury balance would be new selling, and any decision to burn the bought-back NEAR would turn the buyback into a real supply cut.
 
-**The Bitwise NEAR ETF.** It began trading on Sep 29 2026 and stakes all of its NEAR. Its buying happens inside the float, so it does not change supply, but large flows would raise the share of NEAR that is staked.
+Network use. The burn grew to 32,165 NEAR in the last 30 days as activity rose; a lasting rise in gas use would lift the burn, though not near the size of the mint.
 
 ## Summary
 
-NEAR supply is growing: **8.01M NEAR** were minted in the last 90 days against a **66.1K NEAR** gas burn, for **+0.61%** net, and the next 90 days project the same. The mint is capped at 2.5% of supply a year and goes to stakers and the protocol treasury; there is no vesting left and no hard cap on total supply. NEAR Intents buybacks collected 1.20M NEAR this window but hold it rather than burn it, so they do not reduce supply. The main thing that could tighten NEAR's supply is the vote to cut the cap to 1.6%, which would phase in slowly over two years.
+NEAR Protocol supply grew **+0.61%** in the 90 days to Oct 12 2026 and is projected to grow the same in the next 90: **8.01M NEAR** minted at a 2.5% yearly rate against a **72,580 NEAR** gas burn. The NEAR Intents buyback is real but its coins are held, not burned, so it does not cut supply. The key risk is the team-held pools — 3.84M NEAR in buyback wallets and 1.35M NEAR in the treasury — which already count as circulating and could be sold. NEAR has no supply cap; the only ceiling on new supply is the issuance rate, which a draft proposal would lower to 1.6% over two years.
 
 ---
 
-*MrNasdog Pressure Framework analysis of NEAR, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 1 2026.*
+*MrNasdog Pressure Framework analysis of NEAR, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 12 2026.*
