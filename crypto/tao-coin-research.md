@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy TAO? Bittensor Supply, Demand and What Moves Its Price"
-description:   "Is Bittensor worth buying today? By the law of supply and demand, the long-run signal for TAO is mixed (score 6/10, checked Oct 12 2026)."
+description:   "Is Bittensor worth buying today? By the law of supply and demand, the long-run signal for TAO is mixed (score 6/10, checked Oct 13 2026)."
 canonical_url: "https://mrnasdog.com/research/tao"
 content_type:  "coin_hub"
 tags:          ["crypto", "tao", "bittensor", "should-i-buy"]
@@ -8,13 +8,13 @@ published:     true
 ---
 # Should You Buy TAO? Bittensor Supply, Demand and What Moves Its Price
 
-*Source: https://mrnasdog.com/research/tao — numbers checked Oct 12 2026*
+*Source: https://mrnasdog.com/research/tao — numbers checked Oct 13 2026*
 
-Is Bittensor worth buying today? By the law of supply and demand, the long-run signal for TAO is **mixed** (score 6/10, checked Oct 12 2026).
+Is Bittensor worth buying today? By the law of supply and demand, the long-run signal for TAO is **mixed** (score 6/10, checked Oct 13 2026).
 
 - **Long-run signal:** mixed — TAO, read by supply and demand
 - **Score:** 6/10 — supply 1/5, demand 5/5
-- **New supply:** +2.79% in 90 days · +11.32% in a year
+- **New supply:** +2.79% in 90 days · +11.30% in a year
 - **Demand:** exceptional (5/5)
 - **Price drivers:** 1 ▲ price up · 0 ▼ price down
 
@@ -22,19 +22,19 @@ Is Bittensor worth buying today? By the law of supply and demand, the long-run s
 
 ### Should I buy Bittensor now, or wait?
 
-By the law of supply and demand, Bittensor's long-run signal is mixed (Oct 12 2026, score 6/10). New supply: +2.79% in the next 90 days. Demand: exceptional (5/5). Bittensor's price drivers: 1 ▲ price up, 0 ▼ price down.
+By the law of supply and demand, Bittensor's long-run signal is mixed (Oct 13 2026, score 6/10). New supply: +2.79% in the next 90 days. Demand: exceptional (5/5). Bittensor's price drivers: 1 ▲ price up, 0 ▼ price down.
 
-### Bittensor vs NEAR Protocol: which AI coin looks better now?
+### Is Bittensor the next Bitcoin?
 
-Close call: both score 6.5/10 on Oct 10 2026. Bittensor has the stronger demand (5/5 vs 4/5), but it adds much more new supply, +2.79% in 90 days against NEAR's +0.61%. NEAR is also the bigger network, $6.26B vs Bittensor's $3.54B. Supply and demand still read mixed for Bittensor in the long run.
+Probably not yet, though the design looks alike. Like Bitcoin, Bittensor stops at 21 million coins, but only about 11.3 million were out on Oct 13 2026, and supply grows about 11.3% in the next year. At a $3.14B market cap, it is still small next to Bitcoin. Our supply-and-demand read for Bittensor stays mixed.
 
-### Why is one TAO so expensive?
+### Is Bittensor dead, or are big holders still buying?
 
-There are very few TAO coins. Like Bitcoin, Bittensor caps supply at 21 million, so each coin carries a big share of its $3.54B value (Oct 10 2026). A high price per coin says little by itself; supply still grows about 11.32% a year. Our supply-and-demand read for Bittensor stays mixed.
+Bittensor looks far from dead. Demand scores 5/5 on our framework (Oct 13 2026), and Grayscale's TAO pile is the one growing fastest, while treasury firms barely add now. Grayscale's TAO ETF still waits, with no SEC date yet. Our supply-and-demand read for Bittensor stays mixed.
 
 ### Can Bittensor reach $10,000?
 
-At $10,000, Bittensor would be worth about $113B in total — about 32 times its $3.54B market cap today (Oct 12 2026, about $312 a coin). Bittensor's supply also grows +11.32% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Bittensor stays mixed.
+At $10,000, Bittensor would be worth about $113B in total — about 36 times its $3.12B market cap today (Oct 13 2026, about $275 a coin). Bittensor's supply also grows +11.30% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Bittensor stays mixed.
 
 ### Should I sell Bittensor or hold?
 
@@ -42,7 +42,7 @@ Bittensor's signal is mixed for now. Bittensor's signal would turn if new supply
 
 ### Is Bittensor worth investing in for the long term?
 
-Bittensor sits at 6/10 today (Oct 12 2026): supply 1/5, demand 5/5. One more year adds +11.32% to Bittensor's supply. Long-run signal: mixed.
+Bittensor sits at 6/10 today (Oct 13 2026): supply 1/5, demand 5/5. One more year adds +11.30% to Bittensor's supply. Long-run signal: mixed.
 
 ### When is a good time to buy Bittensor?
 
@@ -54,17 +54,17 @@ Right now 2 things drive Bittensor's price (1 ▲, 0 ▼). ▲ Big TAO holders: 
 
 ### Is Bittensor a better investment than Bitcoin?
 
-Side by side on Oct 12 2026: Bittensor at 6/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Bittensor is the weaker of the two.
+Side by side on Oct 13 2026: Bittensor at 6/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Bittensor is the weaker of the two.
 
 ## Supply: how much new TAO is coming
 
-Bittensor makes 0.5 new TAO every block, about 324K in 90 days, and a one-time 172K mint on Sep 15 2026 pushed supply up 4.31%. Little comes back out; about +2.79% next.
+Bittensor pays 0.5 new TAO every block toward a 21M cap. With a one-time 172K mint, supply grew 4.31% in 90 days; about 2.79% is projected next.
 
-Expect +2.79% more TAO in 90 days (+11.32% over the year). On supply alone Bittensor gets 1/5 — very heavy, #27 of 101 for new supply.
+Expect +2.79% more TAO in 90 days (+11.30% over the year). On supply alone Bittensor gets 1/5 — very heavy, #26 of 100 for new supply.
 
 ## Demand: how much people want TAO
 
-How much do people want TAO? **exceptional** — 5 out of 5, #1 of 110.
+How much do people want TAO? **exceptional** — 5 out of 5, #1 of 109.
 
 (Members see more TAO demand detail on the page; it is not repeated here.)
 
@@ -85,7 +85,7 @@ More big holders → price up · Holders sell → price down. Now: ▲ up side.
 | Sep 25 2026 | — | — | 63.2 K TAO |
 | Oct 9 2026 | 61.3 K TAO | — | — |
 
-*Checked Oct 10 2026*
+*Checked Oct 13 2026*
 
 ### • ETF approval
 
@@ -101,7 +101,7 @@ Good for the price: ETF approved. Bad for it: ETF blocked.
 | Sep 30 2026 | Coinbase custody added |
 | No date yet | SEC lets ETF list (coming) |
 
-*Checked Oct 10 2026*
+*Checked Oct 13 2026*
 
 ## Where to read the rest of TAO
 

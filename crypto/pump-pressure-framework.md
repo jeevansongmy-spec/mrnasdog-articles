@@ -1,6 +1,6 @@
 ---
-title: "PUMP Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description: "Supply growing: PUMP reads +13.05% over 90 days as 82.75B PUMP of team and backer unlocks outran a 22.07B buyback burn. About +2.03% is projected next."
+title: "PUMP Inflation Analysis · October 2026 · Supply was growing · trend cooling"
+description: "PUMP supply grew +13.42% in 90 days as 83.38B PUMP of team, investor and program unlocks beat a 21.16B buyback burn. Next 90 days: about flat at -0.04%."
 canonical_url: "https://mrnasdog.com/research/pump/inflation"
 tags: ["crypto", "pump", "pumpfun", "solana"]
 published: true
@@ -10,54 +10,54 @@ published: true
 <!-- main-page -->
 Looking for the buy-or-sell answer? It is on the PUMP coin page, with demand and price drivers: [mrnasdog.com/research/pump](https://mrnasdog.com/research/pump)
 
-PUMP, the token of the Pump.fun coin launchpad on Solana, is **inflationary on its tradable float**: in the 90 days to Oct 2 2026, **82.75B PUMP** of team and backer coins left the locked wallets, while the Pump.fun buyback burned **22.07B PUMP**. Net, the float grew **+13.05%**, and the next 90 days project **+2.03%** as the monthly unlocks continue and the burn keeps going. No new PUMP can be created, so the ceiling is the **830.4B** PUMP that still exist.
+# PUMP Inflation Analysis · October 2026 · Supply was growing · trend cooling
+
+**Supply was growing · trend cooling.** In the 90 days to Oct 13 2026, locked team, investor and program wallets released **83.38B PUMP** into the market while the Pump.fun buyback bought and burned **21.16B PUMP**, so the PUMP float grew by **+13.42%**. For the next 90 days, two monthly unlocks add about **15B PUMP** and the buyback should burn about **15.18B PUMP** at today's price, which puts PUMP close to flat at **−0.04%**. No new PUMP can ever be created: total supply only goes down.
 
 ## The verdict, in one paragraph
 
-Over the last 90 days, PUMP supply on the market grew a net **+13.05%**: **82.75B** unlocked minus **22.07B** burned, measured against **464.91B** PUMP in circulation. The monitor reads **+14.92%**, a gap of **1.87 percentage points**. We checked that gap in full: the monitor counts the same flow of about 60.5B PUMP but divides it by the smaller float of 90 days ago (about 405B); on today's float it reads +13.00%, within 0.05 points of ours. So the gap is closed and no warning is shown. For the next 90 days the reading is **+2.03%**. In one line: PUMP is **a revenue-burn token still absorbing its insider unlocks**.
+Our 90-day net for PUMP is **+13.42%** of the circulating supply. The inflation monitor reads **+15.27%**, a gap of **1.85 percentage points**, which is more than our 0.5-point line, so we walked every source again. The flows are the same on both sides: the monitor divides the growth by the float of 90 days ago (about 402B PUMP), and we divide it by today's float of **463.45B PUMP**. Put on the same base, the two readings sit within a fraction of a point, so no warning is shown on the page. The short label for PUMP today: **a fixed-supply token whose insider unlocks came in faster than its revenue buyback could burn them, now roughly in balance**.
 
 ## Sell pressure: where new PUMP comes from
 
-Protocol inflation is **0**. The power to mint PUMP was removed from the token, so Pump.fun can never create more than the 1 trillion PUMP made at launch in July 2025. Every new coin on the market comes from wallets that were already holding PUMP outside the float.
+**Protocol inflation is 0.** All 1 trillion PUMP were created on Jul 10 2025, and the right to create more was removed from the Solana token. There is no mining, no staking reward and no emission schedule, so Pump.fun cannot print new PUMP even if it wanted to.
 
-Vesting unlocks are the whole sell side: **82.75B PUMP** in 90 days. The Pump.fun team holds 200B PUMP and early backers 130B; both were locked for one year, a quarter of each unlocked in July 2026, and the rest unlocks in equal monthly parts until mid-2029, about **6.88B PUMP a month**. The main locked wallet released **20B** on Sep 8 2026 and **54B** on Sep 13 2026 into payout wallets, which then paid hundreds of insider wallets on Sep 14. A separate 30B backer wallet that pays one share a month released **8.75B** (8.125B on Aug 26 and 0.625B on Sep 12 2026). The big July payout of about 57.3B PUMP came from payout wallets that had been filled on Jun 25 2026, before this window, so it is not counted again. For the next 90 days, three monthly unlocks on Oct 12, Nov 12 and Dec 12 2026 add about **20.6B PUMP**.
+**Vesting unlocks are 83.38B PUMP**, and they are the whole sell side. The team holds 20% and early investors hold 13% of the original supply. Both were locked for one year after the July 2025 token sale; the cliff passed on Jul 12 2026, releasing a quarter of their 330B PUMP, and since then 1/48 of it, about **6.875B PUMP**, vests every month on the 12th. The main custody wallet does not pay out every month: it moved **20B PUMP on Sep 8 2026** and **54B PUMP on Sep 13 2026** to two payout wallets, which paid about 120 holders on Sep 14 2026. A separate 30B allocation wallet that follows the same cliff released **9.38B PUMP** (8.13B on Aug 26 2026, then 625M on Sep 12 and Oct 12 2026). For the next 90 days, the Nov 12 and Dec 12 2026 tranches add about **15B PUMP**.
 
-Foundation and unscheduled unlocks are **0** this window. Two large idle wallets outside the float, holding 80B and 35B PUMP, have not moved since July 2025, and no schedule or announcement says when they will. Long-term locks and bankruptcy are also **0**: no court estate or trustee holds PUMP.
+**Foundation and unscheduled unlocks are 0.** Two project wallets holding 80B and 35B PUMP have not moved since July 2025 and have no public schedule. Until they move, they add nothing.
+
+**Long-term locks and bankruptcy are 0.** No court, estate or long lock is releasing PUMP.
 
 ## Buy pressure: where new PUMP goes
 
-The programmatic buyback is the whole buy side. Since Apr 28 2026, **50% of Pump.fun revenue** buys PUMP on the open market every day and burns it at once; the rule is locked for one year. In the 90 days to Oct 1 2026, Pump.fun earned **$131.93M**, spent **$67.15M** on PUMP and burned **22.07B PUMP**. The two buyback wallets hold zero PUMP, and the total supply on-chain keeps falling: it was about 830.4B on Oct 2 2026, down from 1 trillion at launch, so about **169.6B PUMP**, nearly 17% of everything ever made, is gone for good.
+**The programmatic buyback is 21.16B PUMP.** Since Apr 28 2026, half of Pump.fun's net revenue from the bonding curve, PumpSwap and Terminal buys PUMP on the open market every day, and the coins are burned at once through a contract locked for one year. In the last 90 days that spent **$75.4M**, about 51% of the revenue in the same days, and destroyed **21.16B PUMP**. On Oct 12 2026 alone it burned about 205M PUMP for $1.14M. Because the program is set in dollars, the PUMP it removes depends on the price: the same $75.4M at today's price of about $0.005 buys **15.18B PUMP** in the next 90 days. Since launch, buybacks have removed **171.4B PUMP**, about 17% of the original supply.
 
-The buyback is set in dollars, not in coins. PUMP roughly tripled in price over the window, so the same spending buys fewer coins: at today's price of about $0.0060, the trailing $67.15M would burn about **11.2B PUMP** in the next 90 days. There is no separate fee burn (the fee money that destroys PUMP is the buyback itself), no foundation buying, and no staking or new lock-up, so those three rows are **0**.
+**The protocol fee burn is 0** as a separate line. Every PUMP burn comes from the buyback, so we count it once. **Foundation buying is 0:** no project wallet buys and keeps PUMP, and the coins bought before April 2026 were all burned at the end of that month. **New long-term locks are 0:** PUMP has no staking or lock program.
 
 ## Foundation and overhang
 
-Four wallets sit outside the PUMP float and together hold about **365.5B PUMP**, which matches the gap between total supply and circulating supply almost exactly. The main locked wallet holds **229.26B** (303.26B at the start of the window); it received all 1 trillion PUMP at launch and pays out the team and backer unlocks in large steps. Two idle wallets hold **80B** and **35B** and have been still since July 2025. The 30B backer wallet holds **21.25B** and pays about 0.625B a month.
-
-Two payout wallets that pay insiders each month hold about **23B PUMP**, but those coins already count as circulating, so their monthly payouts move coins within the float and add nothing to the ledger. They are still the coins most likely to be sold soon. Pump.fun has no DAO and PUMP carries no voting rights. We read these wallets at every rebuild: if any of the four outside wallets falls between checks, the outflow enters the sell side at the next refresh.
+Four wallets sit outside the PUMP float, and together they hold **364.9B PUMP**, the whole gap between total and circulating supply. The main custody wallet holds **229.26B PUMP**: almost exactly the team and investor PUMP still to vest (about 226.9B after the Oct 12 2026 tranche), plus about 2.4B. Two idle project wallets hold **80B** and **35B PUMP**. The 30B allocation wallet has **20.62B PUMP** left and pays 625M a month. Two payout wallets that hand team and investor coins to holders keep about 22.6B PUMP between rounds, but those are already counted as circulating, so their payouts add nothing new. Both buyback wallets hold zero, because every coin bought is burned. We read all of these wallets on-chain every day: if any locked wallet's balance falls between checks, the outflow enters the sell side at the next check.
 
 ## How PUMP compares to other revenue-buyback tokens
 
-PUMP belongs to the small group of tokens whose own business revenue buys the token back. Exchange tokens with a scheduled quarterly burn destroy coins on a calendar; perpetual-exchange tokens that route trading fees into buybacks often hold the bought coins in a fund instead of destroying them. Pump.fun does the most direct version: half of revenue, every day, bought and burned the same day, with no fund in between. On the buy side that makes PUMP one of the cleanest burn mechanisms in crypto, and the burn has already removed nearly 17% of the original supply.
+PUMP belongs to the small group of app tokens that turn real revenue into buybacks. Next to a perp-exchange token that sends most of its fees to buybacks, PUMP sends a fixed half of revenue and burns the coins instead of keeping them, so the buyback shrinks total supply rather than filling a treasury. Next to a DEX token with a fee switch, PUMP's buyback is far larger compared with its value: about $75M in 90 days against a market value near $2.3B.
 
-The difference is the sell side. Most mature buyback tokens have finished their insider vesting, so the burn shows up as a shrinking supply. PUMP is only in the first months of a three-year team and backer unlock: about **6.88B PUMP a month** leaves the locked wallets, and the payout wallets released two very large rounds of about 57B each in July and September 2026. A fixed cap with no minting puts PUMP closer to capped tokens than to uncapped chains that pay stakers in new coins, but until the unlocks slow, the float grows faster than the burn shrinks it.
-
-The balance can shift quickly. The burn depends on Pump.fun revenue, which jumped to about $15.8M in the last week of September 2026, and on the PUMP price: a higher price means fewer coins burned per dollar. The unlocks, by contrast, are fixed in coins. That is why the forward reading of **+2.03%** is far lower than the last 90 days: it counts only the scheduled monthly unlocks, which the burn nearly cancels out. If the locked wallets release another large step like September's, the real number will be much higher.
+The difference from those tokens is the unlock calendar. Many exchange and DEX tokens finished their insider vesting years ago. PUMP is at the start of its: the team and investor share vests until mid-2029, so a steady 6.875B PUMP a month keeps arriving, and the custody wallet tends to release it in large lumps. Compared with a layer-1 chain that pays validators in new coins, PUMP has no issuance at all, so once the unlocks end, every buyback dollar makes the supply smaller.
 
 ## What to watch in the next 90 days
 
-**Oct 12 2026**: the next monthly team and backer unlock, about 6.88B PUMP; the same again on **Nov 12 2026** and **Dec 12 2026**.
+**Nov 12 2026 and Dec 12 2026:** the next two monthly tranches, about 7.5B PUMP each with the allocation wallet. The custody wallet may release several months at once, as it did in September.
 
-Any new move from the main locked wallet (229.26B) or the two idle wallets (80B and 35B). Each earlier release came in one large step a day or two before a payout round, so a sudden drop in these balances is the first sign of a big new round.
+**Jan 12 2027:** one day past this window, the next tranche lands; it will enter the next reading.
 
-Pump.fun weekly revenue, which sets the size of the burn. Revenue near $15M a week would burn more than the trailing pace; a fall back toward early-summer levels would burn less.
+**Daily buyback size:** the burn follows Pump.fun revenue. Fees jumped in late September 2026; a drop in meme-coin trading would shrink the burn, and a higher PUMP price means fewer coins burned per dollar.
 
-Rule changes to the buyback. The 50% buy-and-burn is locked until about Apr 28 2027; a cut in trading fees or a change in how revenue is counted would change the burn before then.
+**The two idle wallets (80B and 35B PUMP):** any move would be new supply with no schedule behind it.
 
 ## Summary
 
-PUMP supply on the market grew **+13.05%** in the 90 days to Oct 2 2026, because **82.75B PUMP** of team and backer coins unlocked while the Pump.fun buyback burned **22.07B**. The next 90 days project **+2.03%**: about 20.6B of monthly unlocks against about 11.2B burned at today's price. No PUMP can ever be minted, and the burn has already destroyed nearly 17% of the original 1 trillion, but about 365.5B PUMP still sits in wallets outside the float. The main risk is another large release from those wallets; the ceiling is the 830.4B PUMP that exist today.
+PUMP's supply grew **+13.42%** in the 90 days to Oct 13 2026, because **83.38B PUMP** of team, investor and program unlocks reached the market against a **21.16B PUMP** buyback burn. For the next 90 days the two sides are close to even, about 15B PUMP in and 15.18B PUMP burned, for a net near **−0.04%**. No new PUMP can be created, so supply can only fall over time; the risk is lumpy insider releases from a custody wallet still holding 229.26B PUMP, and a buyback that depends on how busy Pump.fun stays.
 
 ---
 
-*MrNasdog Pressure Framework analysis of PUMP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 2 2026.*
+*MrNasdog Pressure Framework analysis of PUMP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 13 2026.*
