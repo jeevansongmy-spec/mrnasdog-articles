@@ -1,17 +1,17 @@
 {
  "summary": {
-  "checked_at": "2026-10-12T13:28:29.267695+00:00",
-  "pages": 239,
+  "checked_at": "2026-10-13T12:55:15.738196+00:00",
+  "pages": 237,
   "ok": 128,
-  "gaps": 111,
+  "gaps": 109,
   "by_kind": {
    "hub": {
-    "pages": 110,
-    "gaps": 110
+    "pages": 109,
+    "gaps": 109
    },
    "coin": {
-    "pages": 110,
-    "gaps": 1
+    "pages": 109,
+    "gaps": 0
    },
    "methodology": {
     "pages": 3,
@@ -44,6 +44,8 @@
    "crypto/lab-pressure-framework.md",
    "crypto/ohm-pressure-framework.md",
    "crypto/orca-pressure-framework.md",
+   "crypto/pons-coin-research.md",
+   "crypto/pons-pressure-framework.md",
    "crypto/rain-pressure-framework.md",
    "crypto/tel-pressure-framework.md",
    "crypto/wbt-pressure-framework.md",
@@ -58,38 +60,18 @@
  },
  "rows": [
   {
-   "kind": "coin",
-   "slug": "hype",
-   "path": "/research/hype/inflation",
-   "url": "https://mrnasdog.com/research/hype/inflation",
-   "sitemap_lastmod": "2026-10-11",
-   "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
-   ],
-   "title": "HYPE Inflation Analysis — Hyperliquid · MrNasdog",
-   "page_date": "2026-10-12",
-   "mirror": "crypto/hype-pressure-framework.md",
-   "mirror_date": "2026-10-11",
-   "fresh": false,
-   "github": "current",
-   "devto_id": 3866906,
-   "devto": "off (account suspended)",
-   "telegram": "current",
-   "telegram_id": 128
-  },
-  {
    "kind": "hub",
    "slug": "aave",
    "path": "/research/aave",
    "url": "https://mrnasdog.com/research/aave",
    "sitemap_lastmod": "2026-10-02",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Aave — Should You Buy? Signal, Supply and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/aave-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -104,12 +86,12 @@
    "url": "https://mrnasdog.com/research/ada",
    "sitemap_lastmod": "2026-10-11",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy ADA? Cardano Supply, Demand and What Moves Its Price · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/ada-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -124,12 +106,12 @@
    "url": "https://mrnasdog.com/research/aero",
    "sitemap_lastmod": "2026-10-05",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Is Aerodrome (AERO) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/aero-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -144,12 +126,12 @@
    "url": "https://mrnasdog.com/research/algo",
    "sitemap_lastmod": "2026-10-04",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Algorand (ALGO) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/algo-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -164,12 +146,12 @@
    "url": "https://mrnasdog.com/research/apt",
    "sitemap_lastmod": "2026-10-05",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Is Aptos (APT) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/apt-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -184,12 +166,12 @@
    "url": "https://mrnasdog.com/research/arb",
    "sitemap_lastmod": "2026-10-04",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Arbitrum (ARB) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/arb-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -204,12 +186,12 @@
    "url": "https://mrnasdog.com/research/aster",
    "sitemap_lastmod": "2026-10-03",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Aster? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/aster-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -224,12 +206,12 @@
    "url": "https://mrnasdog.com/research/atom",
    "sitemap_lastmod": "2026-10-04",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Is Cosmos Hub (ATOM) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/atom-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -242,14 +224,14 @@
    "slug": "avax",
    "path": "/research/avax",
    "url": "https://mrnasdog.com/research/avax",
-   "sitemap_lastmod": "2026-10-01",
+   "sitemap_lastmod": "2026-10-12",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Avalanche (AVAX): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/avax-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -262,14 +244,14 @@
    "slug": "bch",
    "path": "/research/bch",
    "url": "https://mrnasdog.com/research/bch",
-   "sitemap_lastmod": "2026-10-01",
+   "sitemap_lastmod": "2026-10-12",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Bitcoin Cash (BCH)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/bch-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -284,12 +266,12 @@
    "url": "https://mrnasdog.com/research/bgb",
    "sitemap_lastmod": "2026-10-03",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Is Bitget Token (BGB) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/bgb-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -304,12 +286,12 @@
    "url": "https://mrnasdog.com/research/binancelife",
    "sitemap_lastmod": "2026-10-08",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy BinanceLife (BLIFE)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/binancelife-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -324,12 +306,12 @@
    "url": "https://mrnasdog.com/research/bnb",
    "sitemap_lastmod": "2026-10-10",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "BNB: Buy, Sell or Hold? Supply and Demand Signal (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/bnb-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -344,12 +326,12 @@
    "url": "https://mrnasdog.com/research/bonk",
    "sitemap_lastmod": "2026-10-09",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Bonk: Buy, Sell or Hold? Supply and Demand Signal (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/bonk-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -364,12 +346,12 @@
    "url": "https://mrnasdog.com/research/bsv",
    "sitemap_lastmod": "2026-10-08",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Bitcoin SV (BSV) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/bsv-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -384,12 +366,12 @@
    "url": "https://mrnasdog.com/research/btc",
    "sitemap_lastmod": "2026-10-10",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Bitcoin (BTC)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/btc-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -404,12 +386,12 @@
    "url": "https://mrnasdog.com/research/btt",
    "sitemap_lastmod": "2026-10-08",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "BitTorrent (BTT): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/btt-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -424,12 +406,12 @@
    "url": "https://mrnasdog.com/research/cake",
    "sitemap_lastmod": "2026-10-05",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "PancakeSwap (CAKE): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/cake-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -442,14 +424,14 @@
    "slug": "cc",
    "path": "/research/cc",
    "url": "https://mrnasdog.com/research/cc",
-   "sitemap_lastmod": "2026-10-01",
+   "sitemap_lastmod": "2026-10-12",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Canton Coin (CC): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/cc-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -464,12 +446,12 @@
    "url": "https://mrnasdog.com/research/cfx",
    "sitemap_lastmod": "2026-10-10",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Is Conflux (CFX) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/cfx-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -484,12 +466,12 @@
    "url": "https://mrnasdog.com/research/cro",
    "sitemap_lastmod": "2026-10-02",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Cronos (CRO)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/cro-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -504,12 +486,12 @@
    "url": "https://mrnasdog.com/research/crv",
    "sitemap_lastmod": "2026-10-08",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Is Curve DAO (CRV) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/crv-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -524,12 +506,12 @@
    "url": "https://mrnasdog.com/research/dash",
    "sitemap_lastmod": "2026-10-05",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Dash? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/dash-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -544,12 +526,12 @@
    "url": "https://mrnasdog.com/research/doge",
    "sitemap_lastmod": "2026-10-11",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Is Dogecoin (DOGE) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/doge-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -564,12 +546,12 @@
    "url": "https://mrnasdog.com/research/dot",
    "sitemap_lastmod": "2026-10-03",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Polkadot (DOT)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/dot-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -584,12 +566,12 @@
    "url": "https://mrnasdog.com/research/ena",
    "sitemap_lastmod": "2026-10-02",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Ethena (ENA)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/ena-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -604,12 +586,12 @@
    "url": "https://mrnasdog.com/research/etc",
    "sitemap_lastmod": "2026-10-03",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy ETC? Ethereum Classic Supply, Demand and What Moves Its Price · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/etc-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -624,12 +606,12 @@
    "url": "https://mrnasdog.com/research/eth",
    "sitemap_lastmod": "2026-10-10",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Ethereum (ETH)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/eth-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -644,12 +626,12 @@
    "url": "https://mrnasdog.com/research/ethfi",
    "sitemap_lastmod": "2026-10-05",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy ether.fi (ETHFI)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/ethfi-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -664,12 +646,12 @@
    "url": "https://mrnasdog.com/research/fet",
    "sitemap_lastmod": "2026-10-08",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy ASI Alliance (FET)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/fet-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -684,12 +666,12 @@
    "url": "https://mrnasdog.com/research/ff",
    "sitemap_lastmod": "2026-10-08",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Falcon Finance (FF): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/ff-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -704,12 +686,12 @@
    "url": "https://mrnasdog.com/research/fil",
    "sitemap_lastmod": "2026-10-05",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Filecoin (FIL) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/fil-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -724,12 +706,12 @@
    "url": "https://mrnasdog.com/research/floki",
    "sitemap_lastmod": "2026-10-10",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Floki — Should You Buy? Signal, Supply and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/floki-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -744,12 +726,12 @@
    "url": "https://mrnasdog.com/research/flr",
    "sitemap_lastmod": "2026-10-08",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Flare (FLR)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/flr-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -764,12 +746,12 @@
    "url": "https://mrnasdog.com/research/form",
    "sitemap_lastmod": "2026-10-10",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Four (FORM)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/form-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -784,12 +766,12 @@
    "url": "https://mrnasdog.com/research/gno",
    "sitemap_lastmod": "2026-10-09",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Gnosis (GNO): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/gno-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -802,14 +784,14 @@
    "slug": "gram",
    "path": "/research/gram",
    "url": "https://mrnasdog.com/research/gram",
-   "sitemap_lastmod": "2026-10-02",
+   "sitemap_lastmod": "2026-10-12",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Is Gram a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/gram-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -824,12 +806,12 @@
    "url": "https://mrnasdog.com/research/grt",
    "sitemap_lastmod": "2026-10-09",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Is The Graph (GRT) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/grt-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -844,12 +826,12 @@
    "url": "https://mrnasdog.com/research/gt",
    "sitemap_lastmod": "2026-10-04",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Gate (GT) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/gt-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -862,14 +844,14 @@
    "slug": "hbar",
    "path": "/research/hbar",
    "url": "https://mrnasdog.com/research/hbar",
-   "sitemap_lastmod": "2026-10-01",
+   "sitemap_lastmod": "2026-10-12",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Hedera (HBAR) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/hbar-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -884,12 +866,12 @@
    "url": "https://mrnasdog.com/research/hnt",
    "sitemap_lastmod": "2026-10-04",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Helium (HNT)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/hnt-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -904,12 +886,12 @@
    "url": "https://mrnasdog.com/research/hype",
    "sitemap_lastmod": "2026-10-11",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy HYPE? Hyperliquid Supply, Demand and What Moves Its Price · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/hype-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -924,12 +906,12 @@
    "url": "https://mrnasdog.com/research/icp",
    "sitemap_lastmod": "2026-10-03",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy ICP? Internet Computer Supply, Demand and What Moves Its Price · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/icp-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -944,12 +926,12 @@
    "url": "https://mrnasdog.com/research/imx",
    "sitemap_lastmod": "2026-10-03",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy IMX? Immutable Supply, Demand and What Moves Its Price · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/imx-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -964,12 +946,12 @@
    "url": "https://mrnasdog.com/research/inj",
    "sitemap_lastmod": "2026-10-05",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Injective (INJ)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/inj-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -984,12 +966,12 @@
    "url": "https://mrnasdog.com/research/jasmy",
    "sitemap_lastmod": "2026-10-10",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "JasmyCoin (JASMY): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/jasmy-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1004,12 +986,12 @@
    "url": "https://mrnasdog.com/research/jst",
    "sitemap_lastmod": "2026-10-04",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "JUST (JST) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/jst-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1024,12 +1006,12 @@
    "url": "https://mrnasdog.com/research/jto",
    "sitemap_lastmod": "2026-10-09",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Jito (JTO)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/jto-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1044,12 +1026,12 @@
    "url": "https://mrnasdog.com/research/jup",
    "sitemap_lastmod": "2026-10-11",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Is Jupiter (JUP) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/jup-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1064,12 +1046,12 @@
    "url": "https://mrnasdog.com/research/kaia",
    "sitemap_lastmod": "2026-10-10",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Kaia: Buy, Sell or Hold? Supply and Demand Signal (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/kaia-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1084,12 +1066,12 @@
    "url": "https://mrnasdog.com/research/kas",
    "sitemap_lastmod": "2026-10-04",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Kaspa (KAS) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/kas-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1104,12 +1086,12 @@
    "url": "https://mrnasdog.com/research/kcs",
    "sitemap_lastmod": "2026-10-04",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "KuCoin Token (KCS) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/kcs-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1124,12 +1106,12 @@
    "url": "https://mrnasdog.com/research/kite",
    "sitemap_lastmod": "2026-10-09",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Is Kite a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/kite-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1144,12 +1126,12 @@
    "url": "https://mrnasdog.com/research/ldo",
    "sitemap_lastmod": "2026-10-08",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Lido DAO (LDO)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/ldo-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1162,14 +1144,14 @@
    "slug": "leo",
    "path": "/research/leo",
    "url": "https://mrnasdog.com/research/leo",
-   "sitemap_lastmod": "2026-10-01",
+   "sitemap_lastmod": "2026-10-12",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "UNUS SED LEO (LEO): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/leo-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1184,12 +1166,12 @@
    "url": "https://mrnasdog.com/research/link",
    "sitemap_lastmod": "2026-10-11",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy LINK? Chainlink Supply, Demand and What Moves Its Price · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/link-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1204,12 +1186,12 @@
    "url": "https://mrnasdog.com/research/lit",
    "sitemap_lastmod": "2026-10-04",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Lighter (LIT)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/lit-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1222,14 +1204,14 @@
    "slug": "ltc",
    "path": "/research/ltc",
    "url": "https://mrnasdog.com/research/ltc",
-   "sitemap_lastmod": "2026-10-01",
+   "sitemap_lastmod": "2026-10-12",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Litecoin (LTC) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/ltc-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1244,12 +1226,12 @@
    "url": "https://mrnasdog.com/research/lunc",
    "sitemap_lastmod": "2026-10-09",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Terra Luna Classic (LUNC): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/lunc-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1264,12 +1246,12 @@
    "url": "https://mrnasdog.com/research/memecore",
    "sitemap_lastmod": "2026-10-02",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "MemeCore (M) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/memecore-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1284,12 +1266,12 @@
    "url": "https://mrnasdog.com/research/mnt",
    "sitemap_lastmod": "2026-10-02",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Mantle (MNT)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/mnt-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1304,12 +1286,12 @@
    "url": "https://mrnasdog.com/research/monad",
    "sitemap_lastmod": "2026-10-09",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Is Monad (MON) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/monad-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1324,12 +1306,12 @@
    "url": "https://mrnasdog.com/research/morpho",
    "sitemap_lastmod": "2026-10-03",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Morpho? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/morpho-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1342,14 +1324,14 @@
    "slug": "near",
    "path": "/research/near",
    "url": "https://mrnasdog.com/research/near",
-   "sitemap_lastmod": "2026-10-01",
+   "sitemap_lastmod": "2026-10-12",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "NEAR Protocol (NEAR): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/near-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1364,12 +1346,12 @@
    "url": "https://mrnasdog.com/research/nexo",
    "sitemap_lastmod": "2026-10-08",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Nexo? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/nexo-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1384,12 +1366,12 @@
    "url": "https://mrnasdog.com/research/night",
    "sitemap_lastmod": "2026-10-05",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Midnight (NIGHT)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/night-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1404,12 +1386,12 @@
    "url": "https://mrnasdog.com/research/okb",
    "sitemap_lastmod": "2026-10-11",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "OKB: Buy, Sell or Hold? Supply and Demand Signal (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/okb-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1424,12 +1406,12 @@
    "url": "https://mrnasdog.com/research/ondo",
    "sitemap_lastmod": "2026-10-02",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Ondo Finance (ONDO)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/ondo-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1444,12 +1426,12 @@
    "url": "https://mrnasdog.com/research/optimism",
    "sitemap_lastmod": "2026-10-09",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Optimism (OP)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/optimism-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1464,12 +1446,12 @@
    "url": "https://mrnasdog.com/research/pendle",
    "sitemap_lastmod": "2026-10-08",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy PENDLE? Supply, Demand and What Moves Its Price · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/pendle-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1484,12 +1466,12 @@
    "url": "https://mrnasdog.com/research/pengu",
    "sitemap_lastmod": "2026-10-08",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Is Pudgy Penguins (PENGU) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/pengu-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1504,12 +1486,12 @@
    "url": "https://mrnasdog.com/research/pepe",
    "sitemap_lastmod": "2026-10-03",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Pepe? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/pepe-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1524,12 +1506,12 @@
    "url": "https://mrnasdog.com/research/pi",
    "sitemap_lastmod": "2026-10-04",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Is Pi Network (PI) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/pi-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1544,12 +1526,12 @@
    "url": "https://mrnasdog.com/research/pieverse",
    "sitemap_lastmod": "2026-10-08",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Pieverse — Should You Buy? Signal, Supply and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/pieverse-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1564,32 +1546,12 @@
    "url": "https://mrnasdog.com/research/pol",
    "sitemap_lastmod": "2026-10-04",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Is Polygon (POL) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/pol-coin-research.md",
-   "mirror_date": "2026-10-11",
-   "fresh": false,
-   "github": "current",
-   "devto_id": null,
-   "devto": "off (account suspended)",
-   "telegram": "none",
-   "telegram_id": null
-  },
-  {
-   "kind": "hub",
-   "slug": "pons",
-   "path": "/research/pons",
-   "url": "https://mrnasdog.com/research/pons",
-   "sitemap_lastmod": "2026-10-10",
-   "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
-   ],
-   "title": "Should You Buy Pons? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
-   "mirror": "crypto/pons-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1604,12 +1566,12 @@
    "url": "https://mrnasdog.com/research/pump",
    "sitemap_lastmod": "2026-10-02",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Pump.fun (PUMP): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/pump-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1624,12 +1586,12 @@
    "url": "https://mrnasdog.com/research/pyth",
    "sitemap_lastmod": "2026-10-08",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Is Pyth Network (PYTH) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/pyth-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1644,12 +1606,12 @@
    "url": "https://mrnasdog.com/research/qnt",
    "sitemap_lastmod": "2026-10-02",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Quant (QNT)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/qnt-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1664,12 +1626,12 @@
    "url": "https://mrnasdog.com/research/ray",
    "sitemap_lastmod": "2026-10-11",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy RAY? Raydium Supply, Demand and What Moves Its Price · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/ray-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1684,12 +1646,12 @@
    "url": "https://mrnasdog.com/research/render",
    "sitemap_lastmod": "2026-10-11",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy RENDER? Render Network Supply, Demand and What Moves Its Price · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/render-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1704,12 +1666,12 @@
    "url": "https://mrnasdog.com/research/sei",
    "sitemap_lastmod": "2026-10-08",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Is Sei Network (SEI) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/sei-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1724,12 +1686,12 @@
    "url": "https://mrnasdog.com/research/shib",
    "sitemap_lastmod": "2026-10-02",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Shiba Inu (SHIB)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/shib-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1744,12 +1706,12 @@
    "url": "https://mrnasdog.com/research/sky",
    "sitemap_lastmod": "2026-10-03",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Sky — Should You Buy? Signal, Supply and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/sky-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1764,12 +1726,12 @@
    "url": "https://mrnasdog.com/research/sol",
    "sitemap_lastmod": "2026-10-10",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Solana (SOL): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/sol-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1784,12 +1746,12 @@
    "url": "https://mrnasdog.com/research/spx",
    "sitemap_lastmod": "2026-10-08",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy SPX6900 (SPX)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/spx-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1804,12 +1766,12 @@
    "url": "https://mrnasdog.com/research/stable",
    "sitemap_lastmod": "2026-10-05",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Stable — Should You Buy? Signal, Supply and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/stable-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1824,12 +1786,12 @@
    "url": "https://mrnasdog.com/research/strk",
    "sitemap_lastmod": "2026-10-08",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy STRK? Starknet Supply, Demand and What Moves Its Price · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/strk-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1844,12 +1806,12 @@
    "url": "https://mrnasdog.com/research/stx",
    "sitemap_lastmod": "2026-10-08",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Stacks (STX)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/stx-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1862,14 +1824,14 @@
    "slug": "sui",
    "path": "/research/sui",
    "url": "https://mrnasdog.com/research/sui",
-   "sitemap_lastmod": "2026-10-01",
+   "sitemap_lastmod": "2026-10-12",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Sui Network (SUI) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/sui-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1884,12 +1846,12 @@
    "url": "https://mrnasdog.com/research/sun",
    "sitemap_lastmod": "2026-10-09",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy SUN? Supply, Demand and What Moves Its Price · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/sun-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1904,12 +1866,12 @@
    "url": "https://mrnasdog.com/research/syrup",
    "sitemap_lastmod": "2026-10-09",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Maple Finance (SYRUP) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/syrup-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1924,12 +1886,12 @@
    "url": "https://mrnasdog.com/research/tao",
    "sitemap_lastmod": "2026-10-02",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy TAO? Bittensor Supply, Demand and What Moves Its Price · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/tao-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1944,12 +1906,12 @@
    "url": "https://mrnasdog.com/research/tezos",
    "sitemap_lastmod": "2026-10-09",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Tezos (XTZ) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/tezos-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1964,12 +1926,12 @@
    "url": "https://mrnasdog.com/research/tia",
    "sitemap_lastmod": "2026-10-08",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Celestia (TIA): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/tia-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -1984,12 +1946,12 @@
    "url": "https://mrnasdog.com/research/trump",
    "sitemap_lastmod": "2026-10-08",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Official Trump (TRUMP): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/trump-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -2004,12 +1966,12 @@
    "url": "https://mrnasdog.com/research/trx",
    "sitemap_lastmod": "2026-10-11",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy TRON (TRX)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/trx-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -2022,14 +1984,14 @@
    "slug": "uni",
    "path": "/research/uni",
    "url": "https://mrnasdog.com/research/uni",
-   "sitemap_lastmod": "2026-10-01",
+   "sitemap_lastmod": "2026-10-12",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Uniswap (UNI)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/uni-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -2044,12 +2006,12 @@
    "url": "https://mrnasdog.com/research/vet",
    "sitemap_lastmod": "2026-10-05",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy VeChain (VET)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/vet-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -2064,12 +2026,12 @@
    "url": "https://mrnasdog.com/research/virtual",
    "sitemap_lastmod": "2026-10-08",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Virtuals Protocol (VIRTUAL) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/virtual-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -2084,12 +2046,12 @@
    "url": "https://mrnasdog.com/research/vvv",
    "sitemap_lastmod": "2026-10-04",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy VVV? Venice Token Supply, Demand and What Moves Its Price · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/vvv-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -2104,12 +2066,12 @@
    "url": "https://mrnasdog.com/research/wld",
    "sitemap_lastmod": "2026-10-03",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "World (WLD) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/wld-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -2124,12 +2086,12 @@
    "url": "https://mrnasdog.com/research/wlfi",
    "sitemap_lastmod": "2026-10-03",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy WLFI? World Liberty Financial Supply, Demand and What Moves Its Price · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/wlfi-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -2144,12 +2106,12 @@
    "url": "https://mrnasdog.com/research/xdc",
    "sitemap_lastmod": "2026-10-08",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "XDC Network (XDC) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/xdc-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -2162,14 +2124,14 @@
    "slug": "xlm",
    "path": "/research/xlm",
    "url": "https://mrnasdog.com/research/xlm",
-   "sitemap_lastmod": "2026-10-01",
+   "sitemap_lastmod": "2026-10-12",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Stellar (XLM)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/xlm-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -2184,12 +2146,12 @@
    "url": "https://mrnasdog.com/research/xmr",
    "sitemap_lastmod": "2026-10-11",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Monero (XMR)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/xmr-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -2204,12 +2166,12 @@
    "url": "https://mrnasdog.com/research/xpl",
    "sitemap_lastmod": "2026-10-08",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy XPL? Plasma Supply, Demand and What Moves Its Price · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/xpl-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -2224,12 +2186,12 @@
    "url": "https://mrnasdog.com/research/xrp",
    "sitemap_lastmod": "2026-10-10",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy XRP? Supply, Demand and What Moves Its Price · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/xrp-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -2244,12 +2206,12 @@
    "url": "https://mrnasdog.com/research/zec",
    "sitemap_lastmod": "2026-10-11",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Should You Buy Zcash (ZEC)? Supply, Demand and Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/zec-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -2264,12 +2226,12 @@
    "url": "https://mrnasdog.com/research/zro",
    "sitemap_lastmod": "2026-10-05",
    "issues": [
-    "mirror older than page (2026-10-11 < 2026-10-12)"
+    "mirror older than page (2026-10-12 < 2026-10-13)"
    ],
    "title": "Is LayerZero (ZRO) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026) · MrNasdog",
-   "page_date": "2026-10-12",
+   "page_date": "2026-10-13",
    "mirror": "crypto/zro-coin-research.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": false,
    "github": "current",
    "devto_id": null,
@@ -2714,12 +2676,12 @@
    "slug": "avax",
    "path": "/research/avax/inflation",
    "url": "https://mrnasdog.com/research/avax/inflation",
-   "sitemap_lastmod": "2026-10-01",
+   "sitemap_lastmod": "2026-10-12",
    "issues": [],
    "title": "AVAX Inflation Analysis — Avalanche · MrNasdog",
-   "page_date": "2026-10-01",
+   "page_date": "2026-10-12",
    "mirror": "crypto/avax-pressure-framework.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": true,
    "github": "current",
    "devto_id": 4131161,
@@ -2732,12 +2694,12 @@
    "slug": "bch",
    "path": "/research/bch/inflation",
    "url": "https://mrnasdog.com/research/bch/inflation",
-   "sitemap_lastmod": "2026-10-01",
+   "sitemap_lastmod": "2026-10-12",
    "issues": [],
    "title": "BCH Inflation Analysis — Bitcoin Cash · MrNasdog",
-   "page_date": "2026-10-01",
+   "page_date": "2026-10-12",
    "mirror": "crypto/bch-pressure-framework.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": true,
    "github": "current",
    "devto_id": 3982209,
@@ -2894,12 +2856,12 @@
    "slug": "cc",
    "path": "/research/cc/inflation",
    "url": "https://mrnasdog.com/research/cc/inflation",
-   "sitemap_lastmod": "2026-10-01",
+   "sitemap_lastmod": "2026-10-12",
    "issues": [],
    "title": "CC Inflation Analysis — Canton Coin · MrNasdog",
-   "page_date": "2026-10-01",
+   "page_date": "2026-10-12",
    "mirror": "crypto/cc-pressure-framework.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": true,
    "github": "current",
    "devto_id": 3982246,
@@ -3218,12 +3180,12 @@
    "slug": "gram",
    "path": "/research/gram/inflation",
    "url": "https://mrnasdog.com/research/gram/inflation",
-   "sitemap_lastmod": "2026-10-02",
+   "sitemap_lastmod": "2026-10-12",
    "issues": [],
    "title": "GRAM Inflation Analysis — Gram · MrNasdog",
-   "page_date": "2026-10-02",
+   "page_date": "2026-10-12",
    "mirror": "crypto/ton-pressure-framework.md",
-   "mirror_date": "2026-10-02",
+   "mirror_date": "2026-10-12",
    "fresh": true,
    "github": "current",
    "devto_id": 4008477,
@@ -3272,12 +3234,12 @@
    "slug": "hbar",
    "path": "/research/hbar/inflation",
    "url": "https://mrnasdog.com/research/hbar/inflation",
-   "sitemap_lastmod": "2026-10-01",
+   "sitemap_lastmod": "2026-10-12",
    "issues": [],
    "title": "HBAR Inflation Analysis — Hedera · MrNasdog",
-   "page_date": "2026-10-01",
+   "page_date": "2026-10-12",
    "mirror": "crypto/hbar-pressure-framework.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": true,
    "github": "current",
    "devto_id": 3992255,
@@ -3302,6 +3264,24 @@
    "devto": "off (account suspended)",
    "telegram": "current",
    "telegram_id": 216
+  },
+  {
+   "kind": "coin",
+   "slug": "hype",
+   "path": "/research/hype/inflation",
+   "url": "https://mrnasdog.com/research/hype/inflation",
+   "sitemap_lastmod": "2026-10-11",
+   "issues": [],
+   "title": "HYPE Inflation Analysis — Hyperliquid · MrNasdog",
+   "page_date": "2026-10-12",
+   "mirror": "crypto/hype-pressure-framework.md",
+   "mirror_date": "2026-10-12",
+   "fresh": true,
+   "github": "current",
+   "devto_id": 3866906,
+   "devto": "off (account suspended)",
+   "telegram": "current",
+   "telegram_id": 128
   },
   {
    "kind": "coin",
@@ -3524,12 +3504,12 @@
    "slug": "leo",
    "path": "/research/leo/inflation",
    "url": "https://mrnasdog.com/research/leo/inflation",
-   "sitemap_lastmod": "2026-10-01",
+   "sitemap_lastmod": "2026-10-12",
    "issues": [],
    "title": "LEO Inflation Analysis — UNUS SED LEO · MrNasdog",
-   "page_date": "2026-10-01",
+   "page_date": "2026-10-12",
    "mirror": "crypto/leo-pressure-framework.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": true,
    "github": "current",
    "devto_id": 3977797,
@@ -3578,12 +3558,12 @@
    "slug": "ltc",
    "path": "/research/ltc/inflation",
    "url": "https://mrnasdog.com/research/ltc/inflation",
-   "sitemap_lastmod": "2026-10-01",
+   "sitemap_lastmod": "2026-10-12",
    "issues": [],
    "title": "LTC Inflation Analysis — Litecoin · MrNasdog",
-   "page_date": "2026-10-01",
+   "page_date": "2026-10-12",
    "mirror": "crypto/ltc-pressure-framework.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": true,
    "github": "current",
    "devto_id": 3868052,
@@ -3686,12 +3666,12 @@
    "slug": "near",
    "path": "/research/near/inflation",
    "url": "https://mrnasdog.com/research/near/inflation",
-   "sitemap_lastmod": "2026-10-01",
+   "sitemap_lastmod": "2026-10-12",
    "issues": [],
    "title": "NEAR Inflation Analysis — NEAR Protocol · MrNasdog",
-   "page_date": "2026-10-01",
+   "page_date": "2026-10-12",
    "mirror": "crypto/near-pressure-framework.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": true,
    "github": "current",
    "devto_id": 3735924,
@@ -3896,24 +3876,6 @@
    "devto": "off (account suspended)",
    "telegram": "current",
    "telegram_id": 159
-  },
-  {
-   "kind": "coin",
-   "slug": "pons",
-   "path": "/research/pons/inflation",
-   "url": "https://mrnasdog.com/research/pons/inflation",
-   "sitemap_lastmod": "2026-10-10",
-   "issues": [],
-   "title": "PONS Inflation Analysis — Pons · MrNasdog",
-   "page_date": "2026-10-10",
-   "mirror": "crypto/pons-pressure-framework.md",
-   "mirror_date": "2026-10-11",
-   "fresh": true,
-   "github": "current",
-   "devto_id": 4697765,
-   "devto": "off (account suspended)",
-   "telegram": "old text",
-   "telegram_id": 210
   },
   {
    "kind": "coin",
@@ -4154,17 +4116,17 @@
    "slug": "sui",
    "path": "/research/sui/inflation",
    "url": "https://mrnasdog.com/research/sui/inflation",
-   "sitemap_lastmod": "2026-10-01",
+   "sitemap_lastmod": "2026-10-12",
    "issues": [],
    "title": "SUI Inflation Analysis — Sui · MrNasdog",
-   "page_date": "2026-10-01",
+   "page_date": "2026-10-12",
    "mirror": "crypto/sui-pressure-framework.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": true,
    "github": "current",
    "devto_id": 3739378,
    "devto": "off (account suspended)",
-   "telegram": "old text",
+   "telegram": "current",
    "telegram_id": 22
   },
   {
@@ -4298,12 +4260,12 @@
    "slug": "uni",
    "path": "/research/uni/inflation",
    "url": "https://mrnasdog.com/research/uni/inflation",
-   "sitemap_lastmod": "2026-10-01",
+   "sitemap_lastmod": "2026-10-12",
    "issues": [],
    "title": "UNI Inflation Analysis — Uniswap · MrNasdog",
-   "page_date": "2026-10-01",
+   "page_date": "2026-10-12",
    "mirror": "crypto/uni-pressure-framework.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": true,
    "github": "current",
    "devto_id": 3861204,
@@ -4424,12 +4386,12 @@
    "slug": "xlm",
    "path": "/research/xlm/inflation",
    "url": "https://mrnasdog.com/research/xlm/inflation",
-   "sitemap_lastmod": "2026-10-01",
+   "sitemap_lastmod": "2026-10-12",
    "issues": [],
    "title": "XLM Inflation Analysis — Stellar · MrNasdog",
-   "page_date": "2026-10-01",
+   "page_date": "2026-10-12",
    "mirror": "crypto/xlm-pressure-framework.md",
-   "mirror_date": "2026-10-11",
+   "mirror_date": "2026-10-12",
    "fresh": true,
    "github": "current",
    "devto_id": 3861205,
