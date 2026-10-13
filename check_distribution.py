@@ -17,7 +17,8 @@ PER PAGE, it checks:
   origin     the live page answers 200 and declares itself canonical
   mirror     a Markdown file in crypto/ or growth/ carries that canonical_url
   fresh      the mirror is not older than the page (JSON-LD dateModified, else
-             sitemap lastmod, compared with the mirror's last git commit)
+             sitemap lastmod, compared with the mirror's last git commit); a coin
+             hub is judged against its rebuild date (its /inflation page's date)
   github     the public repo holds exactly the local file (blob sha)
   devto      the Dev.to article (by stored id) matches title/description/
              canonical/body of the local file
@@ -204,6 +205,13 @@ def assess(rows, articles, state, ev, policy):
         o = ev["origin"].get(row["url"], {})
         r["title"] = o.get("title")
         r["page_date"] = o.get("date_modified") or row.get("sitemap_lastmod")
+        if row["kind"] == "hub":
+            # The hub's dateModified = today's "checked" date (numbers refresh every night), but its
+            # mirror is a snapshot re-written only at the coin's rebuild. So a hub mirror is judged
+            # against the rebuild date, which the sibling /inflation page keeps (Oct 14 2026).
+            rebuilt = ev["origin"].get(row["url"] + "/inflation", {}).get("date_modified")
+            if rebuilt:
+                r["page_date"] = rebuilt
         if o.get("status") != 200:
             r["issues"].append(f"origin HTTP {o.get('status')}")
         elif (o.get("canonical") or "").rstrip("/") != row["url"]:
