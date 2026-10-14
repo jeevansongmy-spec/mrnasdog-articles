@@ -14,15 +14,15 @@ Supply and demand give Ethereum Classic (ETC) a **negative** long-run signal tod
 
 - **Long-run signal:** negative (by the law of supply and demand)
 - **Score:** 4/10 — supply 2.5/5, demand 1.5/5
-- **New supply:** +0.60% in 90 days · +2.41% in a year
+- **New supply:** +0.59% in 90 days · +2.41% in a year
 - **Demand:** very weak (1.5/5)
 - **Price drivers:** 0 ▲ price up · 3 ▼ price down
 
 ## ETC supply
 
-Ethereum Classic is a mined chain with a hard cap of about 210.7M. Miners get new ETC every block and nothing is burned, so supply grows about 0.6% every 90 days, a little less after each reward cut.
+Ethereum Classic pays proof-of-work miners in new ETC every block and burns nothing. 960,257 ETC were mined in 90 days, +0.60%, and after the Jul 22 2026 reward cut about +0.59% next.
 
-Over the next 90 days ETC supply changes +0.60%; across a full year, +2.41%. That puts supply at 2.5/5 (moderate), #58 of 101 for new supply.
+Over the next 90 days ETC supply changes +0.59%; across a full year, +2.41%. That puts supply at 2.5/5 (moderate), #58 of 101 for new supply.
 
 ## How strong is Ethereum Classic demand?
 
@@ -47,11 +47,11 @@ Grayscale's trust holds about 10.9M ETC, slowly shrinking from fees.
 | Mar 31 2026 | 10.9 M ETC |
 | Jun 30 2026 | 10.9 M ETC |
 
-*Checked Oct 10 2026*
+*Checked Oct 14 2026*
 
 ### ▼ Mining power
 
-Mining power sits far below its 2025 peak of about 310 TH/s.
+Mining power fell about a third since Oct 6 2026.
 
 More mining power → price up · Miners leave → price down. Today: the price-down case.
 
@@ -60,9 +60,9 @@ More mining power → price up · Miners leave → price down. Today: the price-
 | Jul 31 2026 | 165 TH/s |
 | Aug 31 2026 | 186 TH/s |
 | Sep 30 2026 | 182 TH/s |
-| Oct 14 2026 | 195 TH/s |
+| Oct 14 2026 | 124 TH/s |
 
-*Checked Oct 10 2026*
+*Checked Oct 14 2026*
 
 ### ▼ Client fight
 
@@ -80,29 +80,29 @@ One agreed upgrade path → price up · Rogue code or split → price down. Toda
 | Sep 16 2026 | Classix warning report |
 | No date yet | Olympia on mainnet (coming) |
 
-*Checked Oct 10 2026*
+*Checked Oct 14 2026*
 
 ## Ethereum Classic: buy, sell or hold — questions and answers
 
 ### Is Ethereum Classic worth buying now?
 
-Based on the law of supply and demand, the long-run signal for Ethereum Classic is negative. As of Oct 14 2026, score 4/10, Ethereum Classic faces +0.60% new supply over 90 days, with demand very weak (1.5/5). Ethereum Classic's price drivers: 0 ▲ price up, 3 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Ethereum Classic is negative. As of Oct 14 2026, score 4/10, Ethereum Classic faces +0.59% new supply over 90 days, with demand very weak (1.5/5). Ethereum Classic's price drivers: 0 ▲ price up, 3 ▼ price down.
 
-### Did the Sep 2026 developer split kill Ethereum Classic?
+### Why is Ethereum Classic going down?
 
-Weak, but still running. On Oct 10 2026 all 3 of its price drivers point down: a rogue node release on Sep 14 2026 split developers, mining power sits far below its 2025 peak of about 310 TH/s, and Grayscale's 10.9M ETC pile keeps shrinking. Demand reads very weak (1.5/5). Our supply-and-demand read for Ethereum Classic stays negative.
+All three of its drivers point down (Oct 14 2026). Mining power fell about a third since Oct 6 2026, a rogue node release on Sep 14 2026 split its developers, and Grayscale's trust of about 10.9M ETC keeps shrinking from fees. That leaves Ethereum Classic's long-run signal at negative, by supply and demand.
 
-### Ethereum Classic vs Ethereum: which one holds up better?
+### Is Ethereum Classic dead?
 
-Ethereum, by a wide margin on our numbers. It scores 7/10 against Ethereum Classic's 4.5/10 (Oct 10 2026). Ethereum is worth about $334B vs ETC's $1.4B, and its ETFs hold 6.37M ETH, while ETC demand reads very weak (1.5/5) and its supply grows +0.60% in 90 days. For Ethereum Classic, the supply-and-demand signal is negative right now.
+Probably not dead, but it looks weak. ETC is still worth about $1.28B today (Oct 14 2026). Demand reads very weak (1.5/5), and its developers are still waiting for Olympia on mainnet, with no date yet. By supply and demand, Ethereum Classic's long-run signal is negative today.
 
 ### Is $100 possible for Ethereum Classic?
 
-It would take 11 times today's value: $100 × Ethereum Classic's coins in the market = about $15.8B, against $1.4B now (Oct 14 2026). Ethereum Classic's supply also grows +2.41% in the next year, so every extra coin needs buyers too. By supply and demand, Ethereum Classic's long-run signal is negative today.
+It would take 12 times today's value: $100 × Ethereum Classic's coins in the market = about $15.9B, against $1.27B now (Oct 14 2026). Ethereum Classic's supply also grows +2.41% in the next year, so every extra coin needs buyers too. By supply and demand, Ethereum Classic's long-run signal is negative today.
 
 ### Should I sell my Ethereum Classic now?
 
-Today the signal is negative. Supply and demand would point the other way for Ethereum Classic if new supply keeps arriving (+0.60% in 90 days), or demand falls from very weak, or Grayscale ETC pile and Mining power and Client fight keep pointing down. Next date to watch for Ethereum Classic: No date yet — Olympia on mainnet.
+Today the signal is negative. Supply and demand would point the other way for Ethereum Classic if new supply keeps arriving (+0.59% in 90 days), or demand falls from very weak, or Grayscale ETC pile and Mining power and Client fight keep pointing down. Next date to watch for Ethereum Classic: No date yet — Olympia on mainnet.
 
 ### Is Ethereum Classic a good long-term investment?
 
@@ -110,11 +110,11 @@ On our framework Ethereum Classic scores 4/10 (Oct 14 2026), with supply 2.5/5 (
 
 ### What is the best time to invest in Ethereum Classic?
 
-The law of supply and demand points to one window for Ethereum Classic: low new supply, high demand, drivers pointing up. Where Ethereum Classic stands today: +0.60% new supply in 90 days (moderate), demand very weak (1.5/5), drivers 0 ▲ / 3 ▼.
+The law of supply and demand points to one window for Ethereum Classic: low new supply, high demand, drivers pointing up. Where Ethereum Classic stands today: +0.59% new supply in 90 days (moderate), demand very weak (1.5/5), drivers 0 ▲ / 3 ▼.
 
 ### Will Ethereum Classic go up? What could move its price?
 
-Ethereum Classic has 3 price drivers today (0 ▲ price up, 3 ▼ price down). ▼ Grayscale ETC pile: Grayscale's trust holds about 10.9M ETC, slowly shrinking from fees. ▼ Mining power: Mining power sits far below its 2025 peak of about 310 TH/s. ▼ Client fight: A rogue node release on Sep 14 2026 split ETC developers.
+Ethereum Classic has 3 price drivers today (0 ▲ price up, 3 ▼ price down). ▼ Grayscale ETC pile: Grayscale's trust holds about 10.9M ETC, slowly shrinking from fees. ▼ Mining power: Mining power fell about a third since Oct 6 2026. ▼ Client fight: A rogue node release on Sep 14 2026 split ETC developers.
 
 ### Is Ethereum Classic a better investment than Bitcoin?
 

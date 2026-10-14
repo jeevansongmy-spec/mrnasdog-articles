@@ -1,6 +1,6 @@
 ---
 title: "PEPE Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description: "PEPE supply is roughly steady: no mint, no unlocks, and 3.73B PEPE of holder burns against a fixed 420.69T supply gives −0.00% over 90 days, 0.00% next."
+description: "PEPE supply is flat: no mint, no unlocks, and 3.73B PEPE of holder burns on a fixed 420.69T supply give −0.00% over 90 days and 0.00% projected next."
 canonical_url: "https://mrnasdog.com/research/pepe/inflation"
 tags: ["crypto", "pepe", "memecoin", "ethereum"]
 published: true
@@ -12,50 +12,60 @@ This is the long supply read. For the signal, the price drivers and the question
 
 # PEPE Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
-**PEPE** has a fixed supply that nobody can add to. All **420.69 trillion PEPE** were created when the Pepe token launched on Ethereum in April 2023, the contract has no mint function, and its owner key was given up, so the sell side is **0**. The only flow is holders destroying coins by mistake or by choice: about **3.73B PEPE** in the 90 days to Oct 3 2026, under 0.001% of supply. Net, PEPE supply moved **−0.00%**, and the monitor read **+0.12%**, a gap of **0.12 points** that needs no warning flag.
+**PEPE supply is flat.** Pepe is a meme coin on Ethereum whose whole supply of **420.69T PEPE** was created once, at launch in April 2023, and the PEPE token code has no way to create more. Over the last 90 days new supply was **0** and holders destroyed about **3.73B PEPE**, so net supply moved **−0.00%**, with **0.00%** projected for the next 90 days. The supply monitor reads **−0.11%**, close to our number.
 
 ## The verdict, in one paragraph
 
-Over the 90 days from Jul 5 2026 to Oct 3 2026, PEPE supply changed by **−0.00%** (exactly −0.0009%): no new coins at all against **3.73B PEPE** of holder burns. For the next 90 days we count **0.00%**, because those burns follow no plan or schedule. Our inflation monitor, which estimates supply from market value and price, read **+0.12%** for the same window. The gap is **0.12 percentage points**, inside our 0.5-point tolerance, so no warning flag ships; the monitor number simply wobbles around a supply that cannot grow. PEPE is a frozen-supply meme coin: nothing is printed, nothing unlocks, and only a trickle of coins is lost each quarter.
+PEPE's net supply change over the last 90 days (Jul 16 2026 to Oct 14 2026) is **−0.00%**: no new coins, against **3.73B PEPE** of holder burns on a base of 420.69T, a fall of less than one thousandth of one percent. The next 90 days project **0.00%**, because PEPE cannot mint and the burns follow no plan. The monitor that tracks circulating supply day by day reads **−0.11%** for the same 90 days, a gap of **0.11 percentage points**, inside our 0.5-point tolerance, so no data-conflict warning is shown. The monitor's small move comes from day-to-day estimates around a fixed 420.69T, not from coins being created or destroyed. In one line: PEPE is a **fixed-supply meme coin with no mint, no unlocks and only small holder burns**.
 
 ## Sell pressure: where new PEPE comes from
 
-Protocol inflation is **0**, and it is zero for good. The PEPE token contract on Ethereum has no mint function, makes no outside calls of any kind, and its owner address is the zero address, so even its few admin switches (a blacklist and a holding limit used at launch) can never be used again. We read the contract code this build and found no path that could ever create a coin, and no new-coin transfer appeared in the whole window.
+**Protocol inflation is 0.** The PEPE contract created all 420.69T PEPE in a single step when it was deployed on Apr 14 2023. We read the verified PEPE code and the live contract on Ethereum: the only place that creates coins runs once, at deployment, and there is no mint function anyone can call. The owner key was given up, so the few owner-only switches, a blacklist and an early trading limit, can never be used again. No miner, validator or staking reward pays out in PEPE.
 
-Vesting unlocks are **0**. Pepe had no presale, no investors and no unlock calendar. On day one, 93.1% of the supply went into the launch trading pool, whose pool tokens were burned, and the other 6.9% went to one team wallet meant for exchange listings and bridges. Nothing has been waiting to unlock since.
+**Vesting unlocks are 0.** PEPE never had a vesting schedule. At launch, **93.1%** of the coins went straight into the first Uniswap trading pool and **6.9%** to a team wallet meant for exchange listings. There are no investor rounds, no team cliffs and no unlock calendar to track.
 
-Foundation and unscheduled unlocks are **0**. Pepe has no foundation. The one team holder we track is a team Safe holding about **2.12T PEPE**, the last of that 6.9% team wallet, and it did not move in these 90 days. Even if it sold, every PEPE already counts as circulating, so the sale would move coins between wallets rather than add new ones.
+**Foundation and unscheduled unlocks are 0.** Pepe has no foundation. The one team wallet still holding coins has about **2.12T PEPE**, roughly 0.5% of supply, and it did not move in the window. Every PEPE is already counted as circulating, so a sale from that wallet would hand coins to new owners without adding supply.
 
-Long-term locked or bankruptcy supply is **0**. No estate, court trustee or lock contract is paying PEPE out, and the big holders, from exchanges to whales, bought their coins on the open market.
+**Long-term locked or bankruptcy is 0.** No court estate, trustee or long lock holds PEPE. Sell pressure from new supply is therefore **0 PEPE** over the last 90 days and 0 for the next 90 days.
 
 ## Buy pressure: where new PEPE goes
 
-There is no programmatic buyback (**0**): the coin earns no fees, so no contract or team has income to buy PEPE back. There is no protocol fee burn either (**0**): transfers carry no tax, and because the contract can never be changed, an automatic burn can never be switched on. Foundation buying is **0**, and new long-term locks are **0**, since PEPE has no staking and no lock contract.
+**Programmatic buyback is 0.** The Pepe project earns no fees, runs no product and holds no income stream, so nothing buys PEPE back.
 
-The one real flow is holder burns: **3.73B PEPE** destroyed in the window. Of that, **3.61B** was sent to the PEPE token contract itself, which has no way to ever send coins back out, **118M** was sent to the standard dead address, and **1,371 PEPE** was burned through the contract's own burn button. Two one-off transfers into the contract, on Jul 26 2026 and Aug 24 2026, made up 2.62B of the total. Over the last year these burns ran between about 0.39B and 3.73B a quarter with no pattern, so we project **0** for the next 90 days rather than guess. Even the full 3.73B is less than one hundred-thousandth of the supply.
+**Protocol fee burn is 0.** PEPE has no transfer tax and no fee, and with the owner key gone the code cannot be changed to add one. Unlike Ethereum's own fee burn, using PEPE never destroys PEPE by itself.
+
+**Foundation buy and new long-term lock are both 0.** No treasury bought PEPE in the window, and PEPE has no staking or lock contract that could take coins out of the float.
+
+**Holder burns are the only buy-side flow: 3.73B PEPE in 90 days.** Some holders choose to destroy coins. In the window, **3.61B PEPE** was sent to the PEPE token's own address, which can never send coins out, **118.0M PEPE** went to the well-known dead address, and 2,348 PEPE were burned through the contract's burn function. We read all three at both ends of the window and matched every transfer into them. Over the last 12 months holder burns came to **5.24B PEPE**. The sizes jump around, with the largest single transfer of 1.41B PEPE in late August 2026, and nobody announces them, so we project **0** for the next 90 days rather than guess. At today's price the 90-day burn is worth about $15K, against a market value near $1.7B.
 
 ## Foundation and overhang
 
-PEPE has one identified team-controlled overhang: the team Safe with **2.12T PEPE**, about 0.51% of supply. Its history is public. In August 2023, three former team members moved about 16 trillion PEPE out of the original team wallet to exchanges; the remaining member then burned 6.9 trillion PEPE to the dead address in October 2023 and moved about 3.21 trillion into this Safe in December 2023. Since then it has paid out only small amounts, the last being 42B PEPE on Dec 22 2025. We read its balance directly on-chain at every rebuild. If the Safe's balance falls between refreshes, the outflow enters the Foundation row at the next refresh, although with every PEPE already counted as circulating, a sale would add selling, not new supply.
+Pepe's only identified team-controlled holding is the team wallet that descends from the original 6.9% listing wallet. That wallet lost about 16T PEPE in August 2023, when former team members moved coins out and sold them, then sent 6.9T PEPE to the dead address in October 2023 and passed what was left to the wallet we track today. It now holds **2.12T PEPE**, the same at both ends of this window. A year ago it held 2.17T; it paid out 7.78B PEPE on Nov 26 2025 and 42.0B PEPE on Dec 22 2025, and nothing since. Earlier listing wallets in the same chain now hold 0. We read the wallet on-chain at each rebuild. If this wallet's balance falls between refreshes, the outflow enters the foundation and unscheduled unlocks row at the next refresh — counted as zero new supply, because every PEPE is already in the float, but shown so readers can see the team selling.
+
+Large exchange wallets and the original trading pool are not team-controlled and are not tracked as overhang. There is no buyback wallet, because there is no buyback.
 
 ## How PEPE compares to other meme coins
 
-Among meme coins, PEPE sits at the hard-cap end. Dogecoin is the opposite design: it is mined, pays miners a fixed 10,000 DOGE in every block, and has no cap, so DOGE supply grows every single day no matter what holders do. PEPE has no miners, no validators and no rewards, so its supply can only stay flat or shrink.
+Against Dogecoin, PEPE sits at the opposite end of supply design. Dogecoin pays miners new DOGE with every block and has no cap, so it adds supply every day forever. PEPE has a hard ceiling set at launch and no mining, so its supply can only stay flat or fall. For a reader comparing PEPE vs DOGE, the supply question is settled: PEPE never dilutes holders, DOGE always does.
 
-Shiba Inu is the closer cousin: a fixed supply, a huge pile already sitting in a dead address, and a community that burns coins on purpose. PEPE has the fixed supply and the dead-address pile (about 6.92T PEPE, mostly the 2023 team burn), but no burn campaign of its own, so its burns are small and random. Meme coins that charge a tax on trades can fund steady burns or buybacks; PEPE chose no tax at launch, and its frozen contract means that choice is permanent.
+Against Shiba Inu, the comparison is closer. Both are Ethereum tokens whose supply was created up front, and both lose coins to burns. The difference is the source of the burn: Shiba Inu has its own network and products that route some activity into burns, while PEPE has no product at all, so every PEPE burn is a holder's free choice. That makes PEPE's buy side smaller and less predictable than a token with built-in burning.
 
-The trade-off is clear. A meme coin with a fixed supply and no team allocation left to unlock has almost no supply risk, but also no built-in buyer. Every move in PEPE's price comes from demand alone, which is why the demand half of our score matters more for PEPE than the supply half.
+Against Solana meme coins such as BONK, PEPE has the same fixed-supply shape but a cleaner start: no airdrop reserves or ecosystem pots are left to hand out. What PEPE lacks, like most meme coins, is any income that could fund buybacks. Its price depends on demand alone, because supply is already done moving.
 
 ## What to watch in the next 90 days
 
-First, the US spot PEPE fund. Canary Capital filed an updated application on Oct 2 2026 and named the Cboe BZX exchange for the listing; the fee and ticker are still blank. If it launches, the fund would hold real PEPE bought in the market, which is demand, not a supply change, because those coins stay in the float.
+**The planned US spot PEPE fund.** Canary Capital updated its filing for a spot PEPE fund on Oct 2 2026 and named the Cboe BZX exchange for its listing; the fee and ticker are still blank and no approval date is set. A fund would buy PEPE in the market, which moves demand, not supply.
 
-Second, the team Safe with 2.12T PEPE. It has been still since Dec 22 2025; any large transfer out would be the first team selling signal in months. Third, holder burns: another large send into the token contract or the dead address would show up as a burn at the next rebuild, but it would take trillions, not billions, to move the supply number. Fourth, the token contract itself cannot change, so there is no governance vote or upgrade to watch.
+**The team wallet of 2.12T PEPE.** It has not moved since Dec 22 2025. Any outflow will show on our next read, as a sale inside the float rather than new supply.
+
+**Large holder burns.** Transfers of more than 1B PEPE into the token's own address happened twice in this window. Another one would add to the burn count, but would still be far too small to move supply by even 0.01%.
+
+**Nothing can add supply.** With no mint, no owner and no vesting, there is no dated event in the next 90 days that could raise PEPE's supply.
 
 ## Summary
 
-PEPE supply is roughly steady: **−0.00%** over the 90 days to Oct 3 2026 and **0.00%** projected for the next 90 days, with the monitor at **+0.12%**. The Pepe token can never mint, nothing vests, and the only flow is about **3.73B PEPE** of holder burns against a fixed **420.69 trillion PEPE** supply. The main risk is not new supply but selling of coins that already exist, including the **2.12T PEPE** team Safe. With no buyback and no fee burn, PEPE's price rests entirely on demand.
+PEPE is a fixed-supply meme coin: all **420.69T PEPE** were created at launch in April 2023, the token has no mint function and no owner, and nothing vests. Over the last 90 days supply moved **−0.00%** as holders destroyed **3.73B PEPE**, and we project **0.00%** for the next 90 days. The main supply risk is not new coins but old ones: the team wallet still holds **2.12T PEPE** it could sell. With supply fixed for good, PEPE's price rests entirely on how much people want it.
 
 ---
 
-*MrNasdog Pressure Framework analysis of PEPE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 3 2026.*
+*MrNasdog Pressure Framework analysis of PEPE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 14 2026.*

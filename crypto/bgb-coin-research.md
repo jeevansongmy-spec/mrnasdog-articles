@@ -20,7 +20,7 @@ Our read on Bitget Token for Oct 14 2026: a **negative** long-run signal and a s
 
 ## How fast Bitget Token supply grows
 
-Bitget's exchange token and Morph's gas token. No new coins can be made; quarterly burns come from a locked treasury, so the float held flat at 0.00% in 90 days.
+Bitget's exchange token and the Morph chain's gas token. No new BGB can be made, and quarterly burns come from a locked treasury, so circulating BGB held flat at 0.00% in 90 days.
 
 New BGB: 0.00% in 90 days, 0.00% in a year. Supply score 4.5/5, "flat".
 
@@ -36,7 +36,7 @@ A deeper BGB demand breakdown is on the page for members.
 
 ### • Bitget reserves
 
-Bitget's tracked reserves dipped after the Sep 24 2026 hack, then recovered.
+Bitget's tracked reserves won back most of their post-hack dip.
 
 Good for the price: Reserves grow. Bad for it: Money leaves Bitget.
 
@@ -45,9 +45,9 @@ Good for the price: Reserves grow. Bad for it: Money leaves Bitget.
 | Jul 31 2026 | $4.99B |
 | Aug 31 2026 | $5.82B |
 | Sep 30 2026 | $5.88B |
-| Oct 14 2026 | $6.24B |
+| Oct 14 2026 | $6.26B |
 
-*Checked Oct 10 2026*
+*Checked Oct 14 2026*
 
 ### ▼ User cash
 
@@ -57,12 +57,12 @@ More user cash → price up · Cash leaves → price down. Now: ▼ down side.
 
 | Date | USDT + USDC on Bitget |
 |---|---|
-| Jul 31 2026 | $1.17B |
 | Aug 31 2026 | $1.16B |
 | Sep 30 2026 | $1.14B |
 | Oct 10 2026 | $0.96B |
+| Oct 14 2026 | $1.02B |
 
-*Checked Oct 10 2026*
+*Checked Oct 14 2026*
 
 ## Questions people ask about Bitget Token
 
@@ -70,9 +70,13 @@ More user cash → price up · Cash leaves → price down. Now: ▼ down side.
 
 By the law of supply and demand, Bitget Token's long-run signal is negative (Oct 14 2026, score 5/10). New supply: 0.00% in the next 90 days. Demand: very low (0.5/5). Bitget Token's price drivers: 0 ▲ price up, 1 ▼ price down.
 
-### What does the Sep 24 Bitget hack mean for Bitget Token?
+### What's the latest BGB crypto news?
 
-So far, less than feared. Bitget's tracked reserves dipped after the Sep 24 2026 hack, then recovered. The bigger worry for BGB probably is user cash: stablecoins on Bitget are about half their Aug 2025 peak, and demand for the token reads very low (0.5/5) on Oct 10 2026. That leaves Bitget Token's long-run signal at negative, by supply and demand.
+The Sep 24 2026 Bitget hack is the big story. Bitget's tracked reserves have won back most of their post-hack dip. The weaker sign: stablecoins on Bitget are about half their Aug 2025 peak, so less cash sits there to trade. That leaves Bitget Token's long-run signal at negative, by supply and demand.
+
+### What's BGB crypto's market cap?
+
+About $1.36B on Oct 14 2026, at around $1.95 a coin. Roughly 700M BGB are in the market against a 2B max, and no new supply arrives in the next 90 days. Our supply-and-demand read for Bitget Token stays negative.
 
 ### Is it time to take profit on Bitget Token?
 
@@ -88,7 +92,7 @@ By the law of supply and demand, the better time to start a position in Bitget T
 
 ### What could push Bitget Token's price up or down?
 
-Right now 2 things drive Bitget Token's price (0 ▲, 1 ▼). • Bitget reserves: Bitget's tracked reserves dipped after the Sep 24 2026 hack, then recovered. ▼ User cash: Stablecoins on Bitget are about half their Aug 2025 peak.
+Right now 2 things drive Bitget Token's price (0 ▲, 1 ▼). • Bitget reserves: Bitget's tracked reserves won back most of their post-hack dip. ▼ User cash: Stablecoins on Bitget are about half their Aug 2025 peak.
 
 ### Should I buy Bitget Token or Bitcoin?
 

@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy ICP? Internet Computer Supply, Demand and What Moves Its Price"
-description:   "The Internet Computer mints new ICP for node operators and voters, about 22 times more than apps burn for computing. Supply up about 0.49% in 90 days."
+description:   "ICP mints new coins every month for node providers and stakers; apps burn a little for computing. Supply grew 0.50% in 90 days, about 0.42% next."
 canonical_url: "https://mrnasdog.com/research/icp"
 content_type:  "coin_hub"
 tags:          ["crypto", "icp", "internetcomputer", "should-i-buy"]
@@ -14,15 +14,15 @@ published:     true
 
 - **Signal:** mixed — ICP, read by supply and demand
 - **Score:** 6.5/10 — supply 3/5, demand 3.5/5
-- **Supply growth:** +0.48% in 90 days · +1.99% in a year
+- **Supply growth:** +0.42% in 90 days · +2.07% in a year
 - **How much people want it:** strong (3.5/5)
 - **Price drivers:** 0 ▲ price up · 1 ▼ price down
 
 ## Supply: how much new ICP is coming
 
-The Internet Computer mints new ICP for node operators and voters, about 22 times more than apps burn for computing. Supply up about 0.49% in 90 days.
+ICP mints new coins every month for node providers and stakers; apps burn a little for computing. Supply grew 0.50% in 90 days, about 0.42% next.
 
-Expect +0.48% more ICP in 90 days (+1.99% over the year). On supply alone Internet Computer gets 3/5 — light, #60 of 101 for new supply.
+Expect +0.42% more ICP in 90 days (+2.07% over the year). On supply alone Internet Computer gets 3/5 — light, #61 of 101 for new supply.
 
 ## Demand: how much people want ICP
 
@@ -47,7 +47,7 @@ More ICP stays locked → price up · More ICP unstakes → price down. Right no
 | Sep 30 2026 | 290 M ICP | 244 M ICP |
 | Oct 14 2026 | 288 M ICP | 243 M ICP |
 
-*Checked Oct 10 2026*
+*Checked Oct 14 2026*
 
 ### • Apps running
 
@@ -62,37 +62,29 @@ Good for the price: More apps running. Bad for it: App growth stalls.
 | Sep 30 2026 | 1.16 M apps |
 | Oct 14 2026 | 1.17 M apps |
 
-*Checked Oct 10 2026*
+*Checked Oct 14 2026*
 
 ## Internet Computer: buy, sell or hold — questions and answers
 
 ### Is it time to buy the Internet Computer dip?
 
-By the law of supply and demand, Internet Computer's long-run signal is mixed (Oct 14 2026, score 6.5/10). New supply: +0.48% in the next 90 days. Demand: strong (3.5/5). Internet Computer's price drivers: 0 ▲ price up, 1 ▼ price down.
+By the law of supply and demand, Internet Computer's long-run signal is mixed (Oct 14 2026, score 6.5/10). New supply: +0.42% in the next 90 days. Demand: strong (3.5/5). Internet Computer's price drivers: 0 ▲ price up, 1 ▼ price down.
 
-### Is Internet Computer crypto dead, or just stuck?
+### What's going on with Internet Computer staking?
 
-Stuck looks closer. Apps on Internet Computer grew fast until Mar 2026, then nearly stalled. Demand still reads strong, 3.5 out of 5 on Oct 10 2026, so the project is far from dead. Supply and demand still read mixed for Internet Computer in the long run.
-
-### Why are so many people unstaking ICP?
-
-We do not know each holder's reason, but the jump is clear: ICP being unstaked rose from about 27M to 45M since July. Unstaked coins can be sold, so this probably adds selling pressure on top of +0.48% new supply in 90 days. Our supply-and-demand read for Internet Computer stays mixed.
-
-### Can Internet Computer reach $1,000?
-
-At $1,000, Internet Computer would be worth about $557B in total — about 304 times its $1.83B market cap today (Oct 14 2026, about $3.29 a coin). Internet Computer's supply also grows +1.99% in the next year, so every extra coin needs buyers too. Supply and demand still read mixed for Internet Computer in the long run.
+More people are leaving it. ICP being unstaked jumped from about 27M to 45M since July, which is about 8% of the coins in the market (Oct 14 2026). Unstaked coins can be sold, so this probably adds selling pressure. For Internet Computer, the supply-and-demand signal is mixed right now.
 
 ### Should I sell Internet Computer or hold?
 
-Internet Computer's signal is mixed for now. Internet Computer's signal would turn if new supply jumps (today +0.48% in 90 days), or demand falls from strong, or Staked ICP keeps pointing down.
+Internet Computer's signal is mixed for now. Internet Computer's signal would turn if new supply jumps (today +0.42% in 90 days), or demand falls from strong, or Staked ICP keeps pointing down.
 
 ### Is Internet Computer worth investing in for the long term?
 
-Internet Computer sits at 6.5/10 today (Oct 14 2026): supply 3/5, demand 3.5/5. One more year adds +1.99% to Internet Computer's supply. Long-run signal: mixed.
+Internet Computer sits at 6.5/10 today (Oct 14 2026): supply 3/5, demand 3.5/5. One more year adds +2.07% to Internet Computer's supply. Long-run signal: mixed.
 
 ### When is a good time to buy Internet Computer?
 
-By the law of supply and demand, the better time to add Internet Computer is when its new supply is low, demand is high and its price drivers point up. Internet Computer today: +0.48% new supply in 90 days (light), demand strong (3.5/5), drivers 0 ▲ / 1 ▼.
+By the law of supply and demand, the better time to add Internet Computer is when its new supply is low, demand is high and its price drivers point up. Internet Computer today: +0.42% new supply in 90 days (light), demand strong (3.5/5), drivers 0 ▲ / 1 ▼.
 
 ### What could push Internet Computer's price up or down?
 

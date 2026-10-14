@@ -14,15 +14,15 @@ Is Morpho worth buying today? By the law of supply and demand, the long-run sign
 
 - **Long-run signal:** negative for Morpho
 - **Score:** 2/10 — supply 0.5/5, demand 1.5/5
-- **New supply:** +7.05% in 90 days · +28.58% in a year
+- **New supply:** +7.03% in 90 days · +28.14% in a year
 - **Demand:** very weak (1.5/5)
 - **Price drivers:** 2 ▲ price up · 0 ▼ price down
 
 ## New MORPHO hitting the market
 
-MORPHO mints nothing, yet supply grows about 7% a quarter as founder and partner lockups open and the Morpho Association spends its 150M grant. No buyback or burn pushes back.
+Morpho mints no new MORPHO, but monthly founder and partner unlocks plus Association payouts add about 49M coins, +7.03% supply every 90 days, with nothing buying back.
 
-Morpho adds +7.05% new supply in the next 90 days and +28.58% over a year — supply scores 0.5/5 (flooding), #13 of 101 for new supply.
+Morpho adds +7.03% new supply in the next 90 days and +28.14% over a year — supply scores 0.5/5 (flooding), #14 of 101 for new supply.
 
 ## MORPHO demand
 
@@ -36,7 +36,7 @@ What the score misses: 2 drivers. Today 2 push MORPHO's price up and 0 push it d
 
 ### ▲ Coinbase loans
 
-Coinbase loans on Morpho passed $1B and keep rising.
+Coinbase loans on Morpho passed $1.5B and keep rising.
 
 More Coinbase loans → price up · Coinbase pulls back → price down. Now: ▲ up side.
 
@@ -45,9 +45,9 @@ More Coinbase loans → price up · Coinbase pulls back → price down. Now: ▲
 | Jul 31 2026 | $1,299M |
 | Aug 31 2026 | $1,353M |
 | Sep 30 2026 | $1,496M |
-| Oct 14 2026 | $1,569M |
+| Oct 14 2026 | $1,570M |
 
-*Checked Oct 10 2026*
+*Checked Oct 14 2026*
 
 ### ▲ Big partners
 
@@ -65,37 +65,37 @@ Robinhood, Fireblocks, Ledger and Apollo joined Morpho in 2026.
 | Sep 22 2026 | Coinbase fixed loans |
 | Oct 7 2026 | Ledger loans live |
 
-*Checked Oct 10 2026*
+*Checked Oct 14 2026*
 
 ## Questions about MORPHO
 
 ### Should I buy Morpho now, or wait?
 
-Based on the law of supply and demand, the long-run signal for Morpho is negative. As of Oct 14 2026, score 2/10, Morpho faces +7.05% new supply over 90 days, with demand very weak (1.5/5). Morpho's price drivers: 2 ▲ price up, 0 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Morpho is negative. As of Oct 14 2026, score 2/10, Morpho faces +7.03% new supply over 90 days, with demand very weak (1.5/5). Morpho's price drivers: 2 ▲ price up, 0 ▼ price down.
 
-### Is Morpho a better lending bet than Aave?
+### Does Morpho's crypto lending growth help the token?
 
-Aave looks better on our numbers, 7.5/10 vs Morpho's 2/10 (Oct 10 2026). Morpho's business is growing, but its supply rises +28.58% in a year against Aave's +0.60%, and demand for MORPHO reads very weak (1.5/5) while Aave's is 4/5. Supply and demand still read negative for Morpho in the long run.
+It helps the business more than the token, for now. Coinbase loans on Morpho passed $1.5B and keep rising. But about 7.03% new MORPHO arrives in the next 90 days, and that much new supply likely eats most of the good news. Our supply-and-demand read for Morpho stays negative.
 
-### Does Morpho's news with Coinbase and Robinhood help the token?
+### How big is Morpho's market cap?
 
-It helps the business more than the token, we think. Coinbase loans on Morpho passed $1B, and Robinhood, Fireblocks, Ledger and Apollo joined in 2026. But Morpho adds +7.05% new supply in 90 days, and token demand reads very weak (1.5/5) on Oct 10 2026. For Morpho, the supply-and-demand signal is negative right now.
+About $1.63B on Oct 14 2026, at around $2.32 a coin. Only 700.6M of a 1B max are out so far. Supply grows about 28.14% in the next year, so the market cap has to rise just to hold the price. By supply and demand, Morpho's long-run signal is negative today.
 
 ### When should I sell Morpho?
 
-Today the signal is negative. Supply and demand would point the other way for Morpho if new supply keeps arriving (+7.05% in 90 days), or demand falls from very weak.
+Today the signal is negative. Supply and demand would point the other way for Morpho if new supply keeps arriving (+7.03% in 90 days), or demand falls from very weak.
 
 ### Is Morpho a good investment in 2026?
 
-On our framework Morpho scores 2/10 (Oct 14 2026), with supply 0.5/5 (flooding) and demand 1.5/5. In the next year Morpho's supply changes +28.58%, so the long-run signal reads negative.
+On our framework Morpho scores 2/10 (Oct 14 2026), with supply 0.5/5 (flooding) and demand 1.5/5. In the next year Morpho's supply changes +28.14%, so the long-run signal reads negative.
 
 ### What is the best time to invest in Morpho?
 
-The law of supply and demand points to one window for Morpho: low new supply, high demand, drivers pointing up. Where Morpho stands today: +7.05% new supply in 90 days (flooding), demand very weak (1.5/5), drivers 2 ▲ / 0 ▼.
+The law of supply and demand points to one window for Morpho: low new supply, high demand, drivers pointing up. Where Morpho stands today: +7.03% new supply in 90 days (flooding), demand very weak (1.5/5), drivers 2 ▲ / 0 ▼.
 
 ### Will Morpho go up? What could move its price?
 
-Morpho has 2 price drivers today (2 ▲ price up, 0 ▼ price down). ▲ Coinbase loans: Coinbase loans on Morpho passed $1B and keep rising. ▲ Big partners: Robinhood, Fireblocks, Ledger and Apollo joined Morpho in 2026.
+Morpho has 2 price drivers today (2 ▲ price up, 0 ▼ price down). ▲ Coinbase loans: Coinbase loans on Morpho passed $1.5B and keep rising. ▲ Big partners: Robinhood, Fireblocks, Ledger and Apollo joined Morpho in 2026.
 
 ### Should I buy Morpho or Bitcoin?
 

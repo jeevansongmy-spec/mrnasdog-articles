@@ -14,15 +14,15 @@ As of Oct 14 2026, World Liberty Financial scores 7/10 on our framework, and its
 
 - **Long-run signal:** positive — WLFI, read by supply and demand
 - **Score:** 7/10 — supply 4/5, demand 3/5
-- **New supply:** +0.01% in 90 days · +0.06% in a year
+- **New supply:** +0.02% in 90 days · +0.06% in a year
 - **Demand:** moderate (3/5)
 - **Price drivers:** 0 ▲ price up · 0 ▼ price down
 
 ## Supply — new WLFI in the next 90 days
 
-WLFI mints nothing new; only late claims from the original sale reach the market, about 4.38M in 90 days (+0.01%). The big locked pile, 46.11B WLFI, stays behind a cliff until about May 2028.
+World Liberty Financial's voting coin: no new coins minted and almost nothing unlocking until a May 2028 cliff, but a 12.62B treasury and 46.11B locked coins wait.
 
-Expect +0.01% more WLFI in 90 days (+0.06% over the year). On supply alone World Liberty Financial gets 4/5 — tight, #80 of 101 for new supply.
+Expect +0.02% more WLFI in 90 days (+0.06% over the year). On supply alone World Liberty Financial gets 4/5 — tight, #79 of 101 for new supply.
 
 ## Demand today
 
@@ -47,7 +47,7 @@ USD1 has stayed below its Jan 2026 high of about $5B.
 | Sep 30 2026 | $4.43B |
 | Oct 14 2026 | $4.21B |
 
-*Checked Oct 10 2026*
+*Checked Oct 14 2026*
 
 ### • Bank charter fight
 
@@ -64,29 +64,29 @@ Trust bank opens → price up · Charter blocked → price down.
 | Soon (no date) | WLFI app launch (coming) |
 | No date yet | Bank opens, issues USD1 (coming) |
 
-*Checked Oct 10 2026*
+*Checked Oct 14 2026*
 
 ## World Liberty Financial: buy, sell or hold — questions and answers
 
 ### Is World Liberty Financial worth buying now?
 
-Supply and demand point to a positive long-run signal for World Liberty Financial (Oct 14 2026, score 7/10). World Liberty Financial adds +0.01% new supply in 90 days, and demand reads moderate (3/5). World Liberty Financial's price drivers: 0 ▲ price up, 0 ▼ price down.
+Supply and demand point to a positive long-run signal for World Liberty Financial (Oct 14 2026, score 7/10). World Liberty Financial adds +0.02% new supply in 90 days, and demand reads moderate (3/5). World Liberty Financial's price drivers: 0 ▲ price up, 0 ▼ price down.
 
-### Is World Liberty Financial a bank now?
+### Why is World Liberty Financial going down?
 
-Not yet. World Liberty Financial's bank got an early OK, but it still must meet conditions before it can open. Supply is barely moving, +0.01% in 90 days, so news like this probably matters more for WLFI. For World Liberty Financial, the supply-and-demand signal is positive right now.
+We see no single driver pulling it down today (Oct 14 2026). USD1, its dollar coin, has stayed below its Jan 2026 high of about $5B, which likely keeps some buyers waiting. New coins are not the problem: only 0.02% new supply arrives in 90 days. That leaves World Liberty Financial's long-run signal at positive, by supply and demand.
 
-### How big is USD1 for World Liberty Financial?
+### Is World Liberty Financial a bank?
 
-USD1 is World Liberty Financial's dollar coin, and it has stayed below its Jan 2026 high of about $5B. More USD1 in use would likely help WLFI demand, which reads moderate, 3 out of 5 on Oct 10 2026. For World Liberty Financial, the supply-and-demand signal is positive right now.
+Not yet. Its bank got an early OK, but it still must meet conditions before it can open. WLFI itself is a token worth about $1.81B today (Oct 14 2026), at about 5.7 cents a coin. Supply and demand still read positive for World Liberty Financial in the long run.
 
 ### Could World Liberty Financial ever hit $1?
 
-World Liberty Financial trades near 5.44 cents (Oct 14 2026). $1 a coin means a $31.8B market cap, 18 times today's $1.73B. World Liberty Financial's supply barely changes in the next year (+0.06%), so the whole move would have to come from demand. By supply and demand, World Liberty Financial's long-run signal is positive today.
+World Liberty Financial trades near 5.7 cents (Oct 14 2026). $1 a coin means a $31.8B market cap, 18 times today's $1.81B. World Liberty Financial's supply barely changes in the next year (+0.06%), so the whole move would have to come from demand. By supply and demand, World Liberty Financial's long-run signal is positive today.
 
 ### Should I sell World Liberty Financial or hold?
 
-We would read World Liberty Financial differently if new supply jumps (today +0.01% in 90 days), or demand falls from moderate. Until then World Liberty Financial's signal stays positive. Mark this date for World Liberty Financial: Soon (no date) — WLFI app launch.
+We would read World Liberty Financial differently if new supply jumps (today +0.02% in 90 days), or demand falls from moderate. Until then World Liberty Financial's signal stays positive. Mark this date for World Liberty Financial: Soon (no date) — WLFI app launch.
 
 ### Is World Liberty Financial worth investing in for the long term?
 
@@ -94,7 +94,7 @@ World Liberty Financial scores 7/10 on our framework (Oct 14 2026): supply 4/5 (
 
 ### How do I know when to buy World Liberty Financial?
 
-Supply and demand favor World Liberty Financial most when little new supply is coming, demand is strong and the price drivers point up. Right now World Liberty Financial has +0.01% new supply in 90 days (tight), demand moderate (3/5), drivers 0 ▲ / 0 ▼.
+Supply and demand favor World Liberty Financial most when little new supply is coming, demand is strong and the price drivers point up. Right now World Liberty Financial has +0.02% new supply in 90 days (tight), demand moderate (3/5), drivers 0 ▲ / 0 ▼.
 
 ### Will World Liberty Financial go up in 2026?
 

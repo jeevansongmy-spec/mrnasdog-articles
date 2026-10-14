@@ -45,9 +45,9 @@ Robinhood Chain grows → price up · Robinhood Chain fades → price down. Toda
 | Jul 31 2026 | $0.358B |
 | Aug 31 2026 | $0.714B |
 | Sep 30 2026 | $1.01B |
-| Oct 14 2026 | $1.05B |
+| Oct 14 2026 | $1.06B |
 
-*Checked Oct 10 2026*
+*Checked Oct 14 2026*
 
 ### • DAO's USDG bet
 
@@ -65,7 +65,7 @@ DAO votes by Nov 12 2026 on 100M ARB for USDG.
 | Oct 29 2026 | Onchain vote opens (coming) |
 | Nov 12 2026 | Onchain vote ends (coming) |
 
-*Checked Oct 10 2026*
+*Checked Oct 14 2026*
 
 ## Should you buy Arbitrum? The questions, answered
 
@@ -73,17 +73,17 @@ DAO votes by Nov 12 2026 on 100M ARB for USDG.
 
 Based on the law of supply and demand, the long-run signal for Arbitrum is mixed. As of Oct 14 2026, score 4.5/10, Arbitrum faces +4.73% new supply over 90 days, with demand strong (4/5). Arbitrum's price drivers: 1 ▲ price up, 0 ▼ price down.
 
-### Why is Arbitrum going down if Robinhood Chain is growing?
+### What's in the Arbitrum news right now?
 
-New supply is the likely reason. Arbitrum adds +4.73% new tokens in 90 days and +9.60% in a year, so buyers must soak up a steady flow. Demand is strong (4/5), and Robinhood Chain grew from zero to about $1B since Jul 1 2026, but that does not look like enough yet. That leaves Arbitrum's long-run signal at mixed, by supply and demand.
+A vote. The Snapshot vote opens Oct 15 2026, and the DAO decides by Nov 12 2026 on putting 100M ARB toward USDG. Robinhood Chain, built on Arbitrum, also went from zero to about $1B since Jul 1 2026. Our supply-and-demand read for Arbitrum stays mixed.
 
-### Does Arbitrum stack up against Ethereum as a token?
+### Is Arbitrum dead?
 
-Ethereum looks stronger: 7/10 vs Arbitrum's 4.5/10 on Oct 10 2026. Arbitrum's demand is actually higher (4/5 vs 3.5/5), but its supply grows +9.60% in a year against Ethereum's +0.86%. Next for ARB: the Snapshot vote on 100M ARB for USDG opens Oct 15 2026. That leaves Arbitrum's long-run signal at mixed, by supply and demand.
+Far from it. Demand reads strong (4/5) and Robinhood Chain grew to about $1B since Jul 1 2026. The real drag is supply: about 4.73% new ARB arrives in the next 90 days, and that likely holds the price back. Supply and demand still read mixed for Arbitrum in the long run.
 
 ### Is $10 possible for Arbitrum?
 
-It would take 50 times today's value: $10 × Arbitrum's coins in the market = about $67.9B, against $1.36B now (Oct 14 2026). Arbitrum's supply also grows +9.60% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Arbitrum stays mixed.
+It would take 54 times today's value: $10 × Arbitrum's coins in the market = about $67.9B, against $1.25B now (Oct 14 2026). Arbitrum's supply also grows +9.60% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Arbitrum stays mixed.
 
 ### Is it time to take profit on Arbitrum?
 

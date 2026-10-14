@@ -10,11 +10,11 @@ published:     true
 
 *From https://mrnasdog.com/research/sky, updated Oct 14 2026*
 
-**mixed** — that is Sky's long-run signal by supply and demand as of Oct 14 2026, with a score of 6.5/10.
+**positive** — that is Sky's long-run signal by supply and demand as of Oct 14 2026, with a score of 8/10.
 
-- **Long-run signal:** mixed for Sky
-- **Score:** 6.5/10 — supply 3.5/5, demand 3/5
-- **New supply:** +0.14% in 90 days · +0.56% in a year
+- **Long-run signal:** positive for Sky
+- **Score:** 8/10 — supply 5/5, demand 3/5
+- **New supply:** −0.09% in 90 days · −0.36% in a year
 - **Demand:** moderate (3/5)
 - **Price drivers:** 2 ▲ price up · 0 ▼ price down
 
@@ -33,9 +33,9 @@ More USDS in use → price up · USDS shrinks → price down. Right now it point
 | Aug 31 2026 | $6.37B | $4.79B |
 | Sep 30 2026 | $6.69B | $4.78B |
 | Oct 10 2026 | — | $4.75B |
-| Oct 14 2026 | $7.14B | — |
+| Oct 14 2026 | $7.15B | $4.53B |
 
-*Checked Oct 10 2026*
+*Checked Oct 14 2026*
 
 ### ▲ SDEV's SKY pile
 
@@ -50,13 +50,13 @@ One listed company holds about 10% of all SKY and keeps adding.
 | Jun 30 2026 | 2.29 B SKY |
 | Sep 30 2026 | 2.32 B SKY |
 
-*Checked Oct 10 2026*
+*Checked Oct 14 2026*
 
 ## New SKY hitting the market
 
-Sky mints no new SKY. Stakers are paid from the treasury and buybacks refill most of it: +0.47% over 90 days, about +0.14% next.
+Sky pays SKY stakers from a treasury its buyback refills. No SKY is minted: 183.5M SKY paid out against 94.5M bought back gave +0.38% in 90 days, and with payouts now cut to follow the buying, about -0.09% next.
 
-Sky adds +0.14% new supply in the next 90 days and +0.56% over a year — supply scores 3.5/5 (steady).
+Sky adds −0.09% new supply in the next 90 days and −0.36% over a year — supply scores 5/5 (shrinking).
 
 ## SKY demand
 
@@ -68,27 +68,31 @@ Demand reads **moderate** (3/5), #29 of 110 coins we track — that is how much 
 
 ### Is Sky worth buying now?
 
-Supply and demand point to a mixed long-run signal for Sky (Oct 14 2026, score 6.5/10). Sky adds +0.14% new supply in 90 days, and demand reads moderate (3/5). Sky's price drivers: 2 ▲ price up, 0 ▼ price down.
+Supply and demand point to a positive long-run signal for Sky (Oct 14 2026, score 8/10). Sky adds −0.09% new supply in 90 days, and demand reads moderate (3/5). Sky's price drivers: 2 ▲ price up, 0 ▼ price down.
 
-### Why are people watching Sky crypto again?
+### How big is Sky crypto's market cap today?
 
-Both of Sky's price drivers point up on Oct 10 2026. Its USDS dollar is growing again after falling from the March 2026 peak, and one listed company holds about 10% of all SKY and keeps adding. New supply is small too, +0.14% in 90 days. For Sky, the supply-and-demand signal is mixed right now.
+About $1.75B on Oct 14 2026, at roughly 7.5 cents a coin. Around 23.43B SKY are already out, close to the 23.46B max, so very few new coins are left to come. That makes demand the main thing to watch. For Sky, the supply-and-demand signal is positive right now.
+
+### What's the latest Sky crypto news?
+
+Two things look good for Sky right now. USDS, its dollar coin, is growing again after falling from its March 2026 peak. And one listed company holds about 10% of all SKY and keeps adding (Oct 14 2026). For Sky, the supply-and-demand signal is positive right now.
 
 ### Could Sky ever hit $1?
 
-Sky trades near 8.8 cents (Oct 14 2026). $1 a coin means a $23.4B market cap, 11 times today's $2.06B. Sky's supply also grows +0.56% in the next year, so every extra coin needs buyers too. By supply and demand, Sky's long-run signal is mixed today.
+Sky trades near 7.51 cents (Oct 14 2026). $1 a coin means a $23.4B market cap, 13 times today's $1.76B. Sky's supply barely changes in the next year (−0.36%), so the whole move would have to come from demand. By supply and demand, Sky's long-run signal is positive today.
 
 ### When should I sell Sky?
 
-We would read Sky differently if new supply jumps (today +0.14% in 90 days), or demand falls from moderate. Until then Sky's signal stays mixed.
+We would read Sky differently if new supply jumps (today −0.09% in 90 days), or demand falls from moderate. Until then Sky's signal stays positive.
 
 ### Is Sky a good investment in 2026?
 
-Sky scores 6.5/10 on our framework (Oct 14 2026): supply 3.5/5 (steady), demand 3/5. Over the next year Sky's supply changes +0.56%. The long-run signal is mixed.
+Sky scores 8/10 on our framework (Oct 14 2026): supply 5/5 (shrinking), demand 3/5. Over the next year Sky's supply changes −0.36%. The long-run signal is positive.
 
 ### How do I know when to buy Sky?
 
-Supply and demand favor Sky most when little new supply is coming, demand is strong and the price drivers point up. Right now Sky has +0.14% new supply in 90 days (steady), demand moderate (3/5), drivers 2 ▲ / 0 ▼.
+Supply and demand favor Sky most when little new supply is coming, demand is strong and the price drivers point up. Right now Sky has −0.09% new supply in 90 days (shrinking), demand moderate (3/5), drivers 2 ▲ / 0 ▼.
 
 ### Will Sky go up in 2026?
 
@@ -96,7 +100,7 @@ Sky's price drivers today: 2 pointing up, 0 pointing down, out of 2. ▲ Sky's d
 
 ### Should I buy Sky or Bitcoin?
 
-Sky: mixed signal, 6.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 14 2026). By supply and demand, Sky reads weaker than Bitcoin today.
+Sky: positive signal, 8/10 · Bitcoin: positive signal, 8.5/10 (Oct 14 2026). By supply and demand, Sky reads weaker than Bitcoin today.
 
 ## More on Sky
 

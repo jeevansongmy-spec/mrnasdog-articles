@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy IMX? Immutable Supply, Demand and What Moves Its Price"
-description:   "Immutable's IMX: no minting and no unlock calendar left, but the treasury paid out 33.0M IMX in 90 days (+3.65%), with 1.10B still in two treasury safes. No buyback, no burn."
+description:   "IMX hit its 2B cap, yet the float grows: Immutable's treasury still holds 1.10B IMX and paid out 33.0M in 90 days, with nothing bought back or burned."
 canonical_url: "https://mrnasdog.com/research/imx"
 content_type:  "coin_hub"
 tags:          ["crypto", "imx", "immutable", "should-i-buy"]
@@ -14,15 +14,15 @@ published:     true
 
 - **Long-run signal:** negative (by the law of supply and demand)
 - **Score:** 3/10 — supply 1/5, demand 2/5
-- **New supply:** +3.48% in 90 days · +14.10% in a year
+- **New supply:** +3.34% in 90 days · +13.54% in a year
 - **Demand:** weak (2/5)
 - **Price drivers:** 0 ▲ price up · 1 ▼ price down
 
 ## Supply — new IMX in the next 90 days
 
-Immutable's IMX: no minting and no unlock calendar left, but the treasury paid out 33.0M IMX in 90 days (+3.65%), with 1.10B still in two treasury safes. No buyback, no burn.
+IMX hit its 2B cap, yet the float grows: Immutable's treasury still holds 1.10B IMX and paid out 33.0M in 90 days, with nothing bought back or burned.
 
-Over the next 90 days IMX supply changes +3.48%; across a full year, +14.10%. That puts supply at 1/5 (very heavy).
+Over the next 90 days IMX supply changes +3.34%; across a full year, +13.54%. That puts supply at 1/5 (very heavy).
 
 ## Demand today
 
@@ -47,7 +47,7 @@ Company backs the chain → price up · Company drifts from IMX → price down. 
 | Feb 11 2026 | Immutable X wind-down |
 | Jun 22 2026 | Game teams cut, AI pivot |
 
-*Checked Oct 10 2026*
+*Checked Oct 14 2026*
 
 ### • Chain activity
 
@@ -57,42 +57,42 @@ Good for the price: More games, more use. Bad for it: Games leave the chain.
 
 | Date | Daily transactions |
 |---|---|
-| Oct 6 2026 | 38.5 K txs |
-| Oct 7 2026 | 46.8 K txs |
-| Oct 8 2026 | 48.8 K txs |
+| Oct 10 2026 | 40.8 K txs |
+| Oct 11 2026 | 42.4 K txs |
+| Oct 12 2026 | 39.3 K txs |
 | Oct 14 2026 | 45 K txs |
 
-*Checked Oct 10 2026*
+*Checked Oct 14 2026*
 
 ## Questions people ask about Immutable
 
 ### Is it a good time to buy Immutable today?
 
-Supply and demand point to a negative long-run signal for Immutable (Oct 14 2026, score 3/10). Immutable adds +3.48% new supply in 90 days, and demand reads weak (2/5). Immutable's price drivers: 0 ▲ price up, 1 ▼ price down.
+Supply and demand point to a negative long-run signal for Immutable (Oct 14 2026, score 3/10). Immutable adds +3.34% new supply in 90 days, and demand reads weak (2/5). Immutable's price drivers: 0 ▲ price up, 1 ▼ price down.
 
-### Why is Immutable X dropping?
+### What is IMX crypto now?
 
-Two things probably weigh on IMX. Immutable now sells AI marketing tools instead of its own games, and new supply keeps coming: +3.48% in 90 days and +14.10% in a year. Demand reads very weak at 1.5/5 on Oct 10 2026. Supply and demand still read negative for Immutable in the long run.
+IMX is the token of Immutable and its chain. The company now sells AI marketing tools, not its own games. IMX is worth about $155M today (Oct 14 2026), with 904M of a 2B max in the market. By supply and demand, Immutable's long-run signal is negative today.
 
-### Is Immutable X dead, or is its chain still in use?
+### Is Immutable X dead?
 
-Not dead, but quiet. Daily transactions on Immutable's chain held flat over the last 30 days, which looks like steady use with no new growth. With a score of 2.5/10 on Oct 10 2026, we see little sign of a turn yet. Supply and demand still read negative for Immutable in the long run.
+Not fully. Daily transactions on Immutable's chain held flat over the last 30 days. But supply is heavy: about 3.34% new IMX arrives in the next 90 days, and the company's pivot away from games looks like a bad sign. Supply and demand still read negative for Immutable in the long run.
 
 ### Could Immutable ever hit $100?
 
-Immutable trades near 18.8 cents (Oct 14 2026). $100 a coin means a $90.4B market cap, 532 times today's $170M. Immutable's supply also grows +14.10% in the next year, so every extra coin needs buyers too. That leaves Immutable's long-run signal at negative, by supply and demand.
+Immutable trades near 16.6 cents (Oct 14 2026). $100 a coin means a $90.4B market cap, 603 times today's $150M. Immutable's supply also grows +13.54% in the next year, so every extra coin needs buyers too. That leaves Immutable's long-run signal at negative, by supply and demand.
 
 ### Should I sell my Immutable now?
 
-We would read Immutable differently if new supply keeps arriving (+3.48% in 90 days), or demand falls from weak, or Immutable's pivot keeps pointing down. Until then Immutable's signal stays negative.
+We would read Immutable differently if new supply keeps arriving (+3.34% in 90 days), or demand falls from weak, or Immutable's pivot keeps pointing down. Until then Immutable's signal stays negative.
 
 ### Is Immutable a good long-term investment?
 
-Immutable scores 3/10 on our framework (Oct 14 2026): supply 1/5 (very heavy), demand 2/5. Over the next year Immutable's supply changes +14.10%. The long-run signal is negative.
+Immutable scores 3/10 on our framework (Oct 14 2026): supply 1/5 (very heavy), demand 2/5. Over the next year Immutable's supply changes +13.54%. The long-run signal is negative.
 
 ### How do I know when to buy Immutable?
 
-Supply and demand favor Immutable most when little new supply is coming, demand is strong and the price drivers point up. Right now Immutable has +3.48% new supply in 90 days (very heavy), demand weak (2/5), drivers 0 ▲ / 1 ▼.
+Supply and demand favor Immutable most when little new supply is coming, demand is strong and the price drivers point up. Right now Immutable has +3.34% new supply in 90 days (very heavy), demand weak (2/5), drivers 0 ▲ / 1 ▼.
 
 ### Will Immutable go up in 2026?
 

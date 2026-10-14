@@ -24,17 +24,17 @@ Supply and demand give Pepe a **mixed** long-run signal today (Oct 14 2026); its
 
 Based on the law of supply and demand, the long-run signal for Pepe is mixed. As of Oct 14 2026, score 4.5/10, Pepe faces 0.00% new supply over 90 days, with demand moderate (3/5). Pepe's price drivers: 0 ▲ price up, 0 ▼ price down.
 
-### Has the Pepe coin run out of steam for good?
+### Why is Pepe going down?
 
-No, Pepe still looks alive to us. On Oct 10 2026 it is worth about $1.79B, demand reads moderate (3/5), and the first PEPE ETF filing was updated on Oct 2 2026. The weak spot is ownership: ten wallets hold about 38%, mostly exchanges. By supply and demand, Pepe's long-run signal is mixed today.
+No new coins are to blame: Pepe adds 0.00% supply in the next 90 days, so selling comes from holders. Ten wallets hold about 38% of PEPE, mostly exchanges, so moves can be sharp. None of our drivers points down today (Oct 14 2026). Supply and demand still read mixed for Pepe in the long run.
 
-### Shiba Inu or Pepe: which meme coin looks better now?
+### Is the Pepe coin dead?
 
-Close to a tie, we think. Both score 4.5/10 on Oct 10 2026, with demand at 3/5 and almost no new supply. Shiba Inu is bigger at about $3.48B vs Pepe's $1.79B, but money on its Shibarium chain is down about 99% from peak, while Pepe has an ETF filing moving. Supply and demand still read mixed for Pepe in the long run.
+Not dead. Pepe is still worth about $1.74B (Oct 14 2026), and the first PEPE ETF filing was updated on Oct 2 2026. There is no launch date yet, so that hope is still only on paper. For Pepe, the supply-and-demand signal is mixed right now.
 
 ### Is 1 cent possible for Pepe?
 
-It would take 2,350 times today's value: 1 cent × Pepe's coins in the market = about $4.21 trillion, against $1.79B now (Oct 14 2026). Pepe's supply barely changes in the next year (0.00%), so the whole move would have to come from demand. That leaves Pepe's long-run signal at mixed, by supply and demand.
+It would take 2,446 times today's value: 1 cent × Pepe's coins in the market = about $4.21 trillion, against $1.72B now (Oct 14 2026). Pepe's supply barely changes in the next year (0.00%), so the whole move would have to come from demand. That leaves Pepe's long-run signal at mixed, by supply and demand.
 
 ### Should I sell my Pepe now?
 
@@ -58,7 +58,7 @@ Pepe reads mixed at 4.5/10; Bitcoin reads positive at 8.5/10 (Oct 14 2026). On s
 
 ## Supply: how much new PEPE is coming
 
-A fixed 420.69T supply that can never grow. Only small, random holder burns take coins away, so supply is flat.
+A fixed 420.69T supply with no mint, no owner and no vesting. Supply is flat, so PEPE's price rests on demand alone.
 
 Over the next 90 days PEPE supply changes 0.00%; across a full year, 0.00%. That puts supply at 1.5/5 (meme coin).
 
@@ -85,7 +85,7 @@ Good for the price: ETF opens to buyers. Bad for it: ETF delayed or denied.
 | Oct 2 2026 | Filing updated for Cboe |
 | No date yet | ETF starts trading (coming) |
 
-*Checked Oct 10 2026*
+*Checked Oct 14 2026*
 
 ### • Top 10 wallets
 
@@ -98,7 +98,7 @@ Ten wallets hold about 38% of PEPE, mostly exchanges.
 | Apr 2026 | Top 10 wallets 41% · Everyone else 59% |
 | Oct 9 2026 | Top 10 wallets 37.7% · Everyone else 62.3% |
 
-*Checked Oct 10 2026*
+*Checked Oct 14 2026*
 
 ## Next steps for PEPE
 
