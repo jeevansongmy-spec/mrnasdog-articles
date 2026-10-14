@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy Injective (INJ)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Our read on Injective for Oct 12 2026: a mixed long-run signal and a score of 6/10, from new supply, demand and what moves the price."
+description:   "Our read on Injective for Oct 14 2026: a mixed long-run signal and a score of 6/10, from new supply, demand and what moves the price."
 canonical_url: "https://mrnasdog.com/research/inj"
 content_type:  "coin_hub"
 tags:          ["crypto", "inj", "injective", "should-i-buy"]
@@ -8,11 +8,11 @@ published:     true
 ---
 # Should You Buy Injective (INJ)? Supply, Demand and Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/inj (checked Oct 12 2026)*
+*Originally published at https://mrnasdog.com/research/inj (checked Oct 14 2026)*
 
-Our read on Injective for Oct 12 2026: a **mixed** long-run signal and a score of 6/10, from new supply, demand and what moves the price.
+Our read on Injective for Oct 14 2026: a **mixed** long-run signal and a score of 6/10, from new supply, demand and what moves the price.
 
-- **Signal today:** mixed (Oct 12 2026)
+- **Signal today:** mixed (Oct 14 2026)
 - **MrNasdog score:** 6/10 — supply 2.5/5, demand 3.5/5
 - **New coins:** +1.03% in 90 days · +4.17% in a year
 - **Demand:** strong (3.5/5)
@@ -59,7 +59,7 @@ Keeps adding INJ → price up · Sells or gets liquidated → price down. Today:
 
 Injective paid stakers 1.07M new INJ in 90 days while four buyback rounds burned 125K: supply up 0.95%, and about 1.03% next as the higher price shrinks the burn.
 
-New INJ: +1.03% in 90 days, +4.17% in a year. Supply score 2.5/5, "moderate", #50 of 101 for new supply.
+New INJ: +1.03% in 90 days, +4.17% in a year. Supply score 2.5/5, "moderate", #49 of 101 for new supply.
 
 ## How strong is Injective demand?
 
@@ -71,7 +71,7 @@ Members get the rest of the Injective demand read on mrnasdog.com.
 
 ### Is it a good time to buy Injective today?
 
-Supply and demand point to a mixed long-run signal for Injective (Oct 12 2026, score 6/10). Injective adds +1.03% new supply in 90 days, and demand reads strong (3.5/5). Injective's price drivers: 2 ▲ price up, 0 ▼ price down.
+Supply and demand point to a mixed long-run signal for Injective (Oct 14 2026, score 6/10). Injective adds +1.03% new supply in 90 days, and demand reads strong (3.5/5). Injective's price drivers: 2 ▲ price up, 0 ▼ price down.
 
 ### Is a US Injective ETF likely to launch soon?
 
@@ -83,7 +83,7 @@ Far from dead on our numbers. Demand reads strong at 3.5/5 on Oct 10 2026, and b
 
 ### Could Injective ever hit $100?
 
-Injective trades near $7.58 (Oct 12 2026). $100 a coin means a $10B market cap, 13 times today's $758M. Injective's supply also grows +4.17% in the next year, so every extra coin needs buyers too. That leaves Injective's long-run signal at mixed, by supply and demand.
+Injective trades near $7.58 (Oct 14 2026). $100 a coin means a $10B market cap, 13 times today's $758M. Injective's supply also grows +4.17% in the next year, so every extra coin needs buyers too. That leaves Injective's long-run signal at mixed, by supply and demand.
 
 ### Is it time to take profit on Injective?
 
@@ -91,7 +91,7 @@ We would read Injective differently if new supply keeps arriving (+1.03% in 90 d
 
 ### Is Injective a good investment right now?
 
-Injective scores 6/10 on our framework (Oct 12 2026): supply 2.5/5 (moderate), demand 3.5/5. Over the next year Injective's supply changes +4.17%. The long-run signal is mixed.
+Injective scores 6/10 on our framework (Oct 14 2026): supply 2.5/5 (moderate), demand 3.5/5. Over the next year Injective's supply changes +4.17%. The long-run signal is mixed.
 
 ### How do I know when to buy Injective?
 
@@ -103,7 +103,7 @@ Injective's price drivers today: 2 pointing up, 0 pointing down, out of 2. ▲ U
 
 ### Should I buy Injective or Bitcoin?
 
-Injective: mixed signal, 6/10 · Bitcoin: positive signal, 8.5/10 (Oct 12 2026). By supply and demand, Injective reads weaker than Bitcoin today.
+Injective: mixed signal, 6/10 · Bitcoin: positive signal, 8.5/10 (Oct 14 2026). By supply and demand, Injective reads weaker than Bitcoin today.
 
 ## More on Injective
 

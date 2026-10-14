@@ -1,6 +1,6 @@
 ---
 title:         "Sui Network (SUI) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Supply and demand give Sui Network (SUI) a mixed long-run signal today (Oct 12 2026); its score is 4.5/10."
+description:   "Supply and demand give Sui Network (SUI) a mixed long-run signal today (Oct 14 2026); its score is 4.5/10."
 canonical_url: "https://mrnasdog.com/research/sui"
 content_type:  "coin_hub"
 tags:          ["crypto", "sui", "suinetwork", "should-i-buy"]
@@ -8,11 +8,11 @@ published:     true
 ---
 # Sui Network (SUI) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/sui (checked Oct 12 2026)*
+*Originally published at https://mrnasdog.com/research/sui (checked Oct 14 2026)*
 
-Supply and demand give Sui Network (SUI) a **mixed** long-run signal today (Oct 12 2026); its score is 4.5/10.
+Supply and demand give Sui Network (SUI) a **mixed** long-run signal today (Oct 14 2026); its score is 4.5/10.
 
-- **Signal today:** mixed (Oct 12 2026)
+- **Signal today:** mixed (Oct 14 2026)
 - **MrNasdog score:** 4.5/10 — supply 2/5, demand 2.5/5
 - **New coins:** +1.50% in 90 days · +5.37% in a year
 - **Demand:** modest (2.5/5)
@@ -57,7 +57,7 @@ Sui halted 3 times since late 2024; none in 137 days.
 
 Sui mints no new SUI, but a staking reward pot and monthly releases put about 66M locked coins on the market every 90 days. Supply grew 1.60% in 90 days; about 1.50% is expected next.
 
-New SUI: +1.50% in 90 days, +5.37% in a year. Supply score 2/5, "growing", #40 of 101 for new supply.
+New SUI: +1.50% in 90 days, +5.37% in a year. Supply score 2/5, "growing", #39 of 101 for new supply.
 
 ## SUI demand
 
@@ -69,7 +69,7 @@ Extra Sui Network demand detail for members stays on the live page.
 
 ### Should I buy Sui Network now, or wait?
 
-Based on the law of supply and demand, the long-run signal for Sui Network is mixed. As of Oct 12 2026, score 4.5/10, Sui Network faces +1.50% new supply over 90 days, with demand modest (2.5/5). Sui Network's price drivers: 2 ▲ price up, 0 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Sui Network is mixed. As of Oct 14 2026, score 4.5/10, Sui Network faces +1.50% new supply over 90 days, with demand modest (2.5/5). Sui Network's price drivers: 2 ▲ price up, 0 ▼ price down.
 
 ### Does Sui have a max supply?
 
@@ -85,7 +85,7 @@ Today the signal is mixed. Supply and demand would point the other way for Sui N
 
 ### Is Sui Network a good investment right now?
 
-On our framework Sui Network scores 4.5/10 (Oct 12 2026), with supply 2/5 (growing) and demand 2.5/5. In the next year Sui Network's supply changes +5.37%, so the long-run signal reads mixed.
+On our framework Sui Network scores 4.5/10 (Oct 14 2026), with supply 2/5 (growing) and demand 2.5/5. In the next year Sui Network's supply changes +5.37%, so the long-run signal reads mixed.
 
 ### What is the best time to invest in Sui Network?
 
@@ -97,7 +97,7 @@ Sui Network has 2 price drivers today (2 ▲ price up, 0 ▼ price down). ▲ Bi
 
 ### Should I buy Sui Network or Bitcoin?
 
-Sui Network reads mixed at 4.5/10; Bitcoin reads positive at 8.5/10 (Oct 12 2026). On supply and demand, Sui Network looks weaker than Bitcoin today.
+Sui Network reads mixed at 4.5/10; Bitcoin reads positive at 8.5/10 (Oct 14 2026). On supply and demand, Sui Network looks weaker than Bitcoin today.
 
 ## Where to read the rest of SUI
 

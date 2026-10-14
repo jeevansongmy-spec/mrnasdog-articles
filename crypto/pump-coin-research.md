@@ -1,6 +1,6 @@
 ---
 title:         "Pump.fun (PUMP): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)"
-description:   "Supply and demand give Pump.fun (PUMP) a mixed long-run signal today (Oct 13 2026); its score is 10/10."
+description:   "Supply and demand give Pump.fun (PUMP) a mixed long-run signal today (Oct 14 2026); its score is 10/10."
 canonical_url: "https://mrnasdog.com/research/pump"
 content_type:  "coin_hub"
 tags:          ["crypto", "pump", "pumpfun", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Pump.fun (PUMP): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)
 
-*Source: https://mrnasdog.com/research/pump — numbers checked Oct 13 2026*
+*Source: https://mrnasdog.com/research/pump — numbers checked Oct 14 2026*
 
-Supply and demand give Pump.fun (PUMP) a **mixed** long-run signal today (Oct 13 2026); its score is 10/10.
+Supply and demand give Pump.fun (PUMP) a **mixed** long-run signal today (Oct 14 2026); its score is 10/10.
 
 - **Signal:** mixed — PUMP, read by supply and demand
 - **Score:** 10/10 — supply 5/5, demand 5/5
@@ -61,7 +61,7 @@ Expect −0.04% more PUMP in 90 days (+12.25% over the year). On supply alone Pu
 
 ## Demand today
 
-How much do people want PUMP? **exceptional** — 5 out of 5, #1 of 109.
+How much do people want PUMP? **exceptional** — 5 out of 5, #1 of 110.
 
 (Members see more PUMP demand detail on the page; it is not repeated here.)
 
@@ -69,7 +69,7 @@ How much do people want PUMP? **exceptional** — 5 out of 5, #1 of 109.
 
 ### Is it time to buy the Pump.fun dip?
 
-By the law of supply and demand, Pump.fun's long-run signal is mixed (Oct 13 2026, score 10/10). New supply: −0.04% in the next 90 days. Demand: exceptional (5/5). Pump.fun's price drivers: 0 ▲ price up, 2 ▼ price down.
+By the law of supply and demand, Pump.fun's long-run signal is mixed (Oct 14 2026, score 10/10). New supply: −0.04% in the next 90 days. Demand: exceptional (5/5). Pump.fun's price drivers: 0 ▲ price up, 2 ▼ price down.
 
 ### Is Pump.fun a scam, as the RICO lawsuit claims?
 
@@ -81,7 +81,7 @@ Its launchpad share is the likely reason. Rivals took half of Pump.fun's fees in
 
 ### Can Pump.fun reach $1?
 
-At $1, Pump.fun would be worth about $463B in total — about 201 times its $2.3B market cap today (Oct 13 2026, about 0.496 cents a coin). Pump.fun's supply also grows +12.25% in the next year, so every extra coin needs buyers too. Supply and demand still read mixed for Pump.fun in the long run.
+At $1, Pump.fun would be worth about $463B in total — about 201 times its $2.3B market cap today (Oct 14 2026, about 0.496 cents a coin). Pump.fun's supply also grows +12.25% in the next year, so every extra coin needs buyers too. Supply and demand still read mixed for Pump.fun in the long run.
 
 ### Should I sell Pump.fun or hold?
 
@@ -89,7 +89,7 @@ Pump.fun's signal is mixed for now. Pump.fun's signal would turn if new supply j
 
 ### Is Pump.fun worth investing in for the long term?
 
-Pump.fun sits at 10/10 today (Oct 13 2026): supply 5/5, demand 5/5. One more year adds +12.25% to Pump.fun's supply. Long-run signal: mixed.
+Pump.fun sits at 10/10 today (Oct 14 2026): supply 5/5, demand 5/5. One more year adds +12.25% to Pump.fun's supply. Long-run signal: mixed.
 
 ### When is a good time to buy Pump.fun?
 
@@ -101,7 +101,7 @@ Right now 2 things drive Pump.fun's price (0 ▲, 2 ▼). ▼ Launchpad share: R
 
 ### Is Pump.fun a better investment than Bitcoin?
 
-Side by side on Oct 13 2026: Pump.fun at 10/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Pump.fun is the stronger of the two.
+Side by side on Oct 14 2026: Pump.fun at 10/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Pump.fun is the stronger of the two.
 
 ## Go deeper on Pump.fun
 

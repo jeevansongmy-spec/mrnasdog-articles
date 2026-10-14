@@ -1,6 +1,6 @@
 ---
 title:         "Is Aptos (APT) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)"
-description:   "Supply and demand give Aptos (APT) a negative long-run signal today (Oct 12 2026); its score is 3.5/10."
+description:   "Supply and demand give Aptos (APT) a negative long-run signal today (Oct 14 2026); its score is 3.5/10."
 canonical_url: "https://mrnasdog.com/research/apt"
 content_type:  "coin_hub"
 tags:          ["crypto", "apt", "aptos", "should-i-buy"]
@@ -8,11 +8,11 @@ published:     true
 ---
 # Is Aptos (APT) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/apt (checked Oct 12 2026)*
+*Originally published at https://mrnasdog.com/research/apt (checked Oct 14 2026)*
 
-Supply and demand give Aptos (APT) a **negative** long-run signal today (Oct 12 2026); its score is 3.5/10.
+Supply and demand give Aptos (APT) a **negative** long-run signal today (Oct 14 2026); its score is 3.5/10.
 
-- **Signal today:** negative (Oct 12 2026)
+- **Signal today:** negative (Oct 14 2026)
 - **MrNasdog score:** 3.5/10 — supply 1/5, demand 2.5/5
 - **New coins:** +2.85% in 90 days · +9.09% in a year
 - **Demand:** modest (2.5/5)
@@ -22,7 +22,7 @@ Supply and demand give Aptos (APT) a **negative** long-run signal today (Oct 12 
 
 Aptos supply grows about 4.40% a quarter, mostly from monthly unlocks; the gas burn offsets about 1%. Team and investor vesting ends Oct 12 2026.
 
-New APT: +2.85% in 90 days, +9.09% in a year. Supply score 1/5, "very heavy" (place 26 of 101).
+New APT: +2.85% in 90 days, +9.09% in a year. Supply score 1/5, "very heavy" (place 25 of 101).
 
 ## Demand today
 
@@ -45,7 +45,7 @@ Good for the price: More dollars on Aptos. Bad for it: Dollars leave Aptos. Righ
 | Jul 31 2026 | $847M | $265M |
 | Aug 31 2026 | $732M | $208M |
 | Sep 30 2026 | $522M | $358M |
-| Oct 12 2026 | $432M | $306M |
+| Oct 14 2026 | $432M | $300M |
 
 *Checked Oct 10 2026*
 
@@ -69,7 +69,7 @@ ETF approved, new buyers → price up · Stays stuck → price down.
 
 ### Should I buy Aptos now, or wait?
 
-Supply and demand point to a negative long-run signal for Aptos (Oct 12 2026, score 3.5/10). Aptos adds +2.85% new supply in 90 days, and demand reads modest (2.5/5). Aptos's price drivers: 0 ▲ price up, 1 ▼ price down.
+Supply and demand point to a negative long-run signal for Aptos (Oct 14 2026, score 3.5/10). Aptos adds +2.85% new supply in 90 days, and demand reads modest (2.5/5). Aptos's price drivers: 0 ▲ price up, 1 ▼ price down.
 
 ### Aptos or Sui: which chain looks better today?
 
@@ -81,7 +81,7 @@ Two things likely weigh on Aptos. New tokens keep coming, +2.85% in 90 days, and
 
 ### Could Aptos ever hit $100?
 
-Aptos trades near 81.3 cents (Oct 12 2026). $100 a coin means a $87.1B market cap, 123 times today's $709M. Aptos's supply also grows +9.09% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Aptos stays negative.
+Aptos trades near 81.3 cents (Oct 14 2026). $100 a coin means a $87.1B market cap, 123 times today's $709M. Aptos's supply also grows +9.09% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Aptos stays negative.
 
 ### Is it time to take profit on Aptos?
 
@@ -89,7 +89,7 @@ We would read Aptos differently if new supply keeps arriving (+2.85% in 90 days)
 
 ### Is Aptos a good investment right now?
 
-Aptos scores 3.5/10 on our framework (Oct 12 2026): supply 1/5 (very heavy), demand 2.5/5. Over the next year Aptos's supply changes +9.09%. The long-run signal is negative.
+Aptos scores 3.5/10 on our framework (Oct 14 2026): supply 1/5 (very heavy), demand 2.5/5. Over the next year Aptos's supply changes +9.09%. The long-run signal is negative.
 
 ### How do I know when to buy Aptos?
 
@@ -101,7 +101,7 @@ Aptos's price drivers today: 0 pointing up, 1 pointing down, out of 2. ▼ Stabl
 
 ### Should I buy Aptos or Bitcoin?
 
-Aptos: negative signal, 3.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 12 2026). By supply and demand, Aptos reads weaker than Bitcoin today.
+Aptos: negative signal, 3.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 14 2026). By supply and demand, Aptos reads weaker than Bitcoin today.
 
 ## Next steps for APT
 

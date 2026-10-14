@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy Pepe? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Supply and demand give Pepe a mixed long-run signal today (Oct 12 2026); its score is 4.5/10."
+description:   "Supply and demand give Pepe a mixed long-run signal today (Oct 14 2026); its score is 4.5/10."
 canonical_url: "https://mrnasdog.com/research/pepe"
 content_type:  "coin_hub"
 tags:          ["crypto", "pepe", "pepe", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy Pepe? Supply, Demand and Price Drivers (Oct 2026)
 
-*Live page: https://mrnasdog.com/research/pepe · checked Oct 12 2026*
+*Live page: https://mrnasdog.com/research/pepe · checked Oct 14 2026*
 
-Supply and demand give Pepe a **mixed** long-run signal today (Oct 12 2026); its score is 4.5/10.
+Supply and demand give Pepe a **mixed** long-run signal today (Oct 14 2026); its score is 4.5/10.
 
 - **Signal today:** mixed (by the law of supply and demand)
 - **MrNasdog score:** 4.5/10 — supply 1.5/5, demand 3/5
@@ -22,7 +22,7 @@ Supply and demand give Pepe a **mixed** long-run signal today (Oct 12 2026); its
 
 ### Is it a good time to buy Pepe today?
 
-Based on the law of supply and demand, the long-run signal for Pepe is mixed. As of Oct 12 2026, score 4.5/10, Pepe faces 0.00% new supply over 90 days, with demand moderate (3/5). Pepe's price drivers: 0 ▲ price up, 0 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Pepe is mixed. As of Oct 14 2026, score 4.5/10, Pepe faces 0.00% new supply over 90 days, with demand moderate (3/5). Pepe's price drivers: 0 ▲ price up, 0 ▼ price down.
 
 ### Has the Pepe coin run out of steam for good?
 
@@ -34,7 +34,7 @@ Close to a tie, we think. Both score 4.5/10 on Oct 10 2026, with demand at 3/5 a
 
 ### Is 1 cent possible for Pepe?
 
-It would take 2,350 times today's value: 1 cent × Pepe's coins in the market = about $4.21 trillion, against $1.79B now (Oct 12 2026). Pepe's supply barely changes in the next year (0.00%), so the whole move would have to come from demand. That leaves Pepe's long-run signal at mixed, by supply and demand.
+It would take 2,350 times today's value: 1 cent × Pepe's coins in the market = about $4.21 trillion, against $1.79B now (Oct 14 2026). Pepe's supply barely changes in the next year (0.00%), so the whole move would have to come from demand. That leaves Pepe's long-run signal at mixed, by supply and demand.
 
 ### Should I sell my Pepe now?
 
@@ -42,7 +42,7 @@ Today the signal is mixed. Supply and demand would point the other way for Pepe 
 
 ### Is Pepe a good long-term investment?
 
-On our framework Pepe scores 4.5/10 (Oct 12 2026), with supply 1.5/5 (meme coin) and demand 3/5. In the next year Pepe's supply changes 0.00%, so the long-run signal reads mixed.
+On our framework Pepe scores 4.5/10 (Oct 14 2026), with supply 1.5/5 (meme coin) and demand 3/5. In the next year Pepe's supply changes 0.00%, so the long-run signal reads mixed.
 
 ### What is the best time to invest in Pepe?
 
@@ -54,7 +54,7 @@ Pepe has 2 price drivers today (0 ▲ price up, 0 ▼ price down). • PEPE ETF:
 
 ### Is Pepe a better investment than Bitcoin?
 
-Pepe reads mixed at 4.5/10; Bitcoin reads positive at 8.5/10 (Oct 12 2026). On supply and demand, Pepe looks weaker than Bitcoin today.
+Pepe reads mixed at 4.5/10; Bitcoin reads positive at 8.5/10 (Oct 14 2026). On supply and demand, Pepe looks weaker than Bitcoin today.
 
 ## Supply: how much new PEPE is coming
 
@@ -64,7 +64,7 @@ Over the next 90 days PEPE supply changes 0.00%; across a full year, 0.00%. That
 
 ## Who wants Pepe right now
 
-People's appetite for Pepe is **moderate**: 3/5, ranked #30 of 110.
+People's appetite for Pepe is **moderate**: 3/5, ranked #29 of 110.
 
 A deeper PEPE demand breakdown is on the page for members.
 

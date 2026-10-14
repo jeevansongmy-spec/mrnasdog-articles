@@ -1,6 +1,6 @@
 ---
 title:         "Gate (GT) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Supply and demand give Gate (GT) a mixed long-run signal today (Oct 12 2026); its score is 4.5/10."
+description:   "Supply and demand give Gate (GT) a mixed long-run signal today (Oct 14 2026); its score is 4.5/10."
 canonical_url: "https://mrnasdog.com/research/gt"
 content_type:  "coin_hub"
 tags:          ["crypto", "gt", "gate", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Gate (GT) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
 
-*From https://mrnasdog.com/research/gt, updated Oct 12 2026*
+*From https://mrnasdog.com/research/gt, updated Oct 14 2026*
 
-Supply and demand give Gate (GT) a **mixed** long-run signal today (Oct 12 2026); its score is 4.5/10.
+Supply and demand give Gate (GT) a **mixed** long-run signal today (Oct 14 2026); its score is 4.5/10.
 
 - **Signal today:** mixed for Gate
 - **MrNasdog score:** 4.5/10 — supply 3.5/5, demand 1/5
@@ -22,7 +22,7 @@ Supply and demand give Gate (GT) a **mixed** long-run signal today (Oct 12 2026)
 
 GateChain mints a little GT each block; Gate's quarterly burn is refilled from a frozen reserve, so supply is roughly flat (+0.10% in 90 days).
 
-Gate adds +0.10% new supply in the next 90 days and +0.39% over a year — supply scores 3.5/5 (steady) (place 76 of 101).
+Gate adds +0.10% new supply in the next 90 days and +0.39% over a year — supply scores 3.5/5 (steady) (place 75 of 101).
 
 ## Demand: how much people want GT
 
@@ -45,7 +45,7 @@ Gate's reserves rebuilt toward $7B after a $4.6B low.
 | Jul 31 2026 | $5.3B |
 | Aug 31 2026 | $6.68B |
 | Sep 30 2026 | $7.51B |
-| Oct 12 2026 | $7.43B |
+| Oct 14 2026 | $7.36B |
 
 *Checked Oct 10 2026*
 
@@ -68,7 +68,7 @@ Good for the price: New markets, licenses. Bad for it: Bans or exits. Today: the
 
 ### Is it time to buy the Gate dip?
 
-Supply and demand point to a mixed long-run signal for Gate (Oct 12 2026, score 4.5/10). Gate adds +0.10% new supply in 90 days, and demand reads low (1/5). Gate's price drivers: 2 ▲ price up, 0 ▼ price down.
+Supply and demand point to a mixed long-run signal for Gate (Oct 14 2026, score 4.5/10). Gate adds +0.10% new supply in 90 days, and demand reads low (1/5). Gate's price drivers: 2 ▲ price up, 0 ▼ price down.
 
 ### Does the Gate exchange's recovery make GT stronger?
 
@@ -80,7 +80,7 @@ We would read Gate differently if new supply jumps (today +0.10% in 90 days), or
 
 ### Is Gate a good investment in 2026?
 
-Gate scores 4.5/10 on our framework (Oct 12 2026): supply 3.5/5 (steady), demand 1/5. Over the next year Gate's supply changes +0.39%. The long-run signal is mixed.
+Gate scores 4.5/10 on our framework (Oct 14 2026): supply 3.5/5 (steady), demand 1/5. Over the next year Gate's supply changes +0.39%. The long-run signal is mixed.
 
 ### How do I know when to buy Gate?
 
@@ -92,7 +92,7 @@ Gate's price drivers today: 2 pointing up, 0 pointing down, out of 2. ▲ Gate r
 
 ### Should I buy Gate or Bitcoin?
 
-Gate: mixed signal, 4.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 12 2026). By supply and demand, Gate reads weaker than Bitcoin today.
+Gate: mixed signal, 4.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 14 2026). By supply and demand, Gate reads weaker than Bitcoin today.
 
 ## More on Gate
 

@@ -1,6 +1,6 @@
 ---
 title:         "KuCoin Token (KCS) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Supply and demand give KuCoin Token (KCS) a negative long-run signal today (Oct 12 2026); its score is 2/10."
+description:   "Supply and demand give KuCoin Token (KCS) a negative long-run signal today (Oct 14 2026); its score is 1.5/10."
 canonical_url: "https://mrnasdog.com/research/kcs"
 content_type:  "coin_hub"
 tags:          ["crypto", "kcs", "kucointoken", "should-i-buy"]
@@ -8,12 +8,12 @@ published:     true
 ---
 # KuCoin Token (KCS) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/kcs (checked Oct 12 2026)*
+*Originally published at https://mrnasdog.com/research/kcs (checked Oct 14 2026)*
 
-Supply and demand give KuCoin Token (KCS) a **negative** long-run signal today (Oct 12 2026); its score is 2/10.
+Supply and demand give KuCoin Token (KCS) a **negative** long-run signal today (Oct 14 2026); its score is 1.5/10.
 
-- **Long-run signal:** negative (Oct 12 2026)
-- **Score:** 2/10 — supply 2/5, demand 0/5
+- **Long-run signal:** negative (Oct 14 2026)
+- **Score:** 1.5/10 — supply 1.5/5, demand 0/5
 - **New supply:** +1.79% in 90 days · +1.79% in a year
 - **Demand:** minimal (0/5)
 - **Price drivers:** 0 ▲ price up · 1 ▼ price down
@@ -60,7 +60,7 @@ Users bring BTC in → price up · Users pull BTC out → price down. Now: ▼ d
 
 KuCoin's exchange token mints nothing, but a 2022 plan unlocked 2.5M KCS on Oct 1 2026 and the burn has been off since Dec 31 2025: +1.79% per 90 days.
 
-New KCS: +1.79% in 90 days, +1.79% in a year. Supply score 2/5, "growing" (place 39 of 101).
+New KCS: +1.79% in 90 days, +1.79% in a year. Supply score 1.5/5, "heavy" (place 38 of 101).
 
 ## KCS demand
 
@@ -72,7 +72,7 @@ Members get the rest of the KuCoin Token demand read on mrnasdog.com.
 
 ### Is it time to buy the KuCoin Token dip?
 
-Supply and demand point to a negative long-run signal for KuCoin Token (Oct 12 2026, score 2/10). KuCoin Token adds +1.79% new supply in 90 days, and demand reads minimal (0/5). KuCoin Token's price drivers: 0 ▲ price up, 1 ▼ price down.
+Supply and demand point to a negative long-run signal for KuCoin Token (Oct 14 2026, score 1.5/10). KuCoin Token adds +1.79% new supply in 90 days, and demand reads minimal (0/5). KuCoin Token's price drivers: 0 ▲ price up, 1 ▼ price down.
 
 ### Can people in the US use KuCoin, and what does that mean for KCS?
 
@@ -84,11 +84,11 @@ We would read KuCoin Token differently if new supply keeps arriving (+1.79% in 9
 
 ### Is KuCoin Token a good investment right now?
 
-KuCoin Token scores 2/10 on our framework (Oct 12 2026): supply 2/5 (growing), demand 0/5. Over the next year KuCoin Token's supply changes +1.79%. The long-run signal is negative.
+KuCoin Token scores 1.5/10 on our framework (Oct 14 2026): supply 1.5/5 (heavy), demand 0/5. Over the next year KuCoin Token's supply changes +1.79%. The long-run signal is negative.
 
 ### How do I know when to buy KuCoin Token?
 
-Supply and demand favor KuCoin Token most when little new supply is coming, demand is strong and the price drivers point up. Right now KuCoin Token has +1.79% new supply in 90 days (growing), demand minimal (0/5), drivers 0 ▲ / 1 ▼.
+Supply and demand favor KuCoin Token most when little new supply is coming, demand is strong and the price drivers point up. Right now KuCoin Token has +1.79% new supply in 90 days (heavy), demand minimal (0/5), drivers 0 ▲ / 1 ▼.
 
 ### Will KuCoin Token go up in 2026?
 
@@ -96,7 +96,7 @@ KuCoin Token's price drivers today: 0 pointing up, 1 pointing down, out of 2. �
 
 ### Should I buy KuCoin Token or Bitcoin?
 
-KuCoin Token: negative signal, 2/10 · Bitcoin: positive signal, 8.5/10 (Oct 12 2026). By supply and demand, KuCoin Token reads weaker than Bitcoin today.
+KuCoin Token: negative signal, 1.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 14 2026). By supply and demand, KuCoin Token reads weaker than Bitcoin today.
 
 ## Go deeper on KuCoin Token
 

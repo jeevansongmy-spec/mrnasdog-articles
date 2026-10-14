@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy ICP? Internet Computer Supply, Demand and What Moves Its Price
 
-*Source: https://mrnasdog.com/research/icp — numbers checked Oct 12 2026*
+*Source: https://mrnasdog.com/research/icp — numbers checked Oct 14 2026*
 
-**mixed** — that is Internet Computer's long-run signal by supply and demand as of Oct 12 2026, with a score of 6.5/10.
+**mixed** — that is Internet Computer's long-run signal by supply and demand as of Oct 14 2026, with a score of 6.5/10.
 
 - **Signal:** mixed — ICP, read by supply and demand
 - **Score:** 6.5/10 — supply 3/5, demand 3.5/5
@@ -22,7 +22,7 @@ published:     true
 
 The Internet Computer mints new ICP for node operators and voters, about 22 times more than apps burn for computing. Supply up about 0.49% in 90 days.
 
-Expect +0.48% more ICP in 90 days (+1.99% over the year). On supply alone Internet Computer gets 3/5 — light, #61 of 101 for new supply.
+Expect +0.48% more ICP in 90 days (+1.99% over the year). On supply alone Internet Computer gets 3/5 — light, #60 of 101 for new supply.
 
 ## Demand: how much people want ICP
 
@@ -45,7 +45,7 @@ More ICP stays locked → price up · More ICP unstakes → price down. Right no
 | Jul 31 2026 | 289 M ICP | 242 M ICP |
 | Aug 31 2026 | 289 M ICP | 243 M ICP |
 | Sep 30 2026 | 290 M ICP | 244 M ICP |
-| Oct 12 2026 | 288 M ICP | 243 M ICP |
+| Oct 14 2026 | 288 M ICP | 243 M ICP |
 
 *Checked Oct 10 2026*
 
@@ -60,7 +60,7 @@ Good for the price: More apps running. Bad for it: App growth stalls.
 | Jul 31 2026 | 1.16 M apps |
 | Aug 31 2026 | 1.16 M apps |
 | Sep 30 2026 | 1.16 M apps |
-| Oct 12 2026 | 1.17 M apps |
+| Oct 14 2026 | 1.17 M apps |
 
 *Checked Oct 10 2026*
 
@@ -68,7 +68,7 @@ Good for the price: More apps running. Bad for it: App growth stalls.
 
 ### Is it time to buy the Internet Computer dip?
 
-By the law of supply and demand, Internet Computer's long-run signal is mixed (Oct 12 2026, score 6.5/10). New supply: +0.48% in the next 90 days. Demand: strong (3.5/5). Internet Computer's price drivers: 0 ▲ price up, 1 ▼ price down.
+By the law of supply and demand, Internet Computer's long-run signal is mixed (Oct 14 2026, score 6.5/10). New supply: +0.48% in the next 90 days. Demand: strong (3.5/5). Internet Computer's price drivers: 0 ▲ price up, 1 ▼ price down.
 
 ### Is Internet Computer crypto dead, or just stuck?
 
@@ -80,7 +80,7 @@ We do not know each holder's reason, but the jump is clear: ICP being unstaked r
 
 ### Can Internet Computer reach $1,000?
 
-At $1,000, Internet Computer would be worth about $557B in total — about 304 times its $1.83B market cap today (Oct 12 2026, about $3.29 a coin). Internet Computer's supply also grows +1.99% in the next year, so every extra coin needs buyers too. Supply and demand still read mixed for Internet Computer in the long run.
+At $1,000, Internet Computer would be worth about $557B in total — about 304 times its $1.83B market cap today (Oct 14 2026, about $3.29 a coin). Internet Computer's supply also grows +1.99% in the next year, so every extra coin needs buyers too. Supply and demand still read mixed for Internet Computer in the long run.
 
 ### Should I sell Internet Computer or hold?
 
@@ -88,7 +88,7 @@ Internet Computer's signal is mixed for now. Internet Computer's signal would tu
 
 ### Is Internet Computer worth investing in for the long term?
 
-Internet Computer sits at 6.5/10 today (Oct 12 2026): supply 3/5, demand 3.5/5. One more year adds +1.99% to Internet Computer's supply. Long-run signal: mixed.
+Internet Computer sits at 6.5/10 today (Oct 14 2026): supply 3/5, demand 3.5/5. One more year adds +1.99% to Internet Computer's supply. Long-run signal: mixed.
 
 ### When is a good time to buy Internet Computer?
 
@@ -100,7 +100,7 @@ Right now 2 things drive Internet Computer's price (0 ▲, 1 ▼). ▼ Staked IC
 
 ### Is Internet Computer a better investment than Bitcoin?
 
-Side by side on Oct 12 2026: Internet Computer at 6.5/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Internet Computer is the weaker of the two.
+Side by side on Oct 14 2026: Internet Computer at 6.5/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Internet Computer is the weaker of the two.
 
 ## Read more on ICP
 

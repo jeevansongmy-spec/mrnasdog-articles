@@ -8,21 +8,21 @@ published:     true
 ---
 # Should You Buy Midnight (NIGHT)? Supply, Demand and Price Drivers (Oct 2026)
 
-*Live page: https://mrnasdog.com/research/night · checked Oct 12 2026*
+*Live page: https://mrnasdog.com/research/night · checked Oct 14 2026*
 
-**positive** — that is Midnight's long-run signal by supply and demand as of Oct 12 2026, with a score of 7/10.
+**mixed** — that is Midnight's long-run signal by supply and demand as of Oct 14 2026, with a score of 6.5/10.
 
-- **Signal:** positive (by the law of supply and demand)
-- **Score:** 7/10 — supply 4.5/5, demand 2.5/5
+- **Signal:** mixed (by the law of supply and demand)
+- **Score:** 6.5/10 — supply 4.5/5, demand 2/5
 - **Supply growth:** 0.00% in 90 days · 0.00% in a year
-- **How much people want it:** modest (2.5/5)
+- **How much people want it:** weak (2/5)
 - **Price drivers:** 2 ▲ price up · 0 ▼ price down
 
 ## Supply — new NIGHT in the next 90 days
 
 Midnight's NIGHT: all 24B made at launch and no new coins from the chain yet, but a bridge hack added 514.6M unbacked copies (+3.10% in 90 days).
 
-Over the next 90 days NIGHT supply changes 0.00%; across a full year, 0.00%. That puts supply at 4.5/5 (flat) (place 90 of 101).
+Over the next 90 days NIGHT supply changes 0.00%; across a full year, 0.00%. That puts supply at 4.5/5 (flat) (place 89 of 101).
 
 ## NIGHT price drivers the score does not count
 
@@ -61,7 +61,7 @@ Big promises come true → price up · Hype fades, goals slip → price down. To
 
 ## Who wants Midnight right now
 
-People's appetite for Midnight is **modest**: 2.5/5, ranked #47 of 110.
+People's appetite for Midnight is **weak**: 2/5, ranked #64 of 110.
 
 Members get the rest of the Midnight demand read on mrnasdog.com.
 
@@ -69,23 +69,23 @@ Members get the rest of the Midnight demand read on mrnasdog.com.
 
 ### Is it time to buy the Midnight dip?
 
-By the law of supply and demand, Midnight's long-run signal is positive (Oct 12 2026, score 7/10). New supply: 0.00% in the next 90 days. Demand: modest (2.5/5). Midnight's price drivers: 2 ▲ price up, 0 ▼ price down.
+By the law of supply and demand, Midnight's long-run signal is mixed (Oct 14 2026, score 6.5/10). New supply: 0.00% in the next 90 days. Demand: weak (2/5). Midnight's price drivers: 2 ▲ price up, 0 ▼ price down.
 
 ### What is the latest news on Midnight's NIGHT token?
 
-Midnight apps opened on Sep 28 2026, but Cardano pools are still not making blocks, a step that was due in Q2-Q3 2026. NIGHT also jumped after Charles Hoskinson's Zcash claim that same day. New supply stays flat at 0.00% in 90 days. By supply and demand, Midnight's long-run signal is positive today.
+Midnight apps opened on Sep 28 2026, but Cardano pools are still not making blocks, a step that was due in Q2-Q3 2026. NIGHT also jumped after Charles Hoskinson's Zcash claim that same day. New supply stays flat at 0.00% in 90 days. By supply and demand, Midnight's long-run signal is mixed today.
 
 ### Should I sell my Midnight now?
 
-Midnight's signal is positive for now. Midnight's signal would turn if new supply jumps (today 0.00% in 90 days), or demand falls from modest. The next date on Midnight's calendar: Overdue (was Q2-Q3 2026) — Cardano SPOs make blocks.
+Midnight's signal is mixed for now. Midnight's signal would turn if new supply jumps (today 0.00% in 90 days), or demand falls from weak. The next date on Midnight's calendar: Overdue (was Q2-Q3 2026) — Cardano SPOs make blocks.
 
 ### Is Midnight a good long-term investment?
 
-Midnight sits at 7/10 today (Oct 12 2026): supply 4.5/5, demand 2.5/5. One more year adds 0.00% to Midnight's supply. Long-run signal: positive.
+Midnight sits at 6.5/10 today (Oct 14 2026): supply 4.5/5, demand 2/5. One more year adds 0.00% to Midnight's supply. Long-run signal: mixed.
 
 ### When is a good time to buy Midnight?
 
-By the law of supply and demand, the better time to buy Midnight is when its new supply is low, demand is high and its price drivers point up. Midnight today: 0.00% new supply in 90 days (flat), demand modest (2.5/5), drivers 2 ▲ / 0 ▼.
+By the law of supply and demand, the better time to buy Midnight is when its new supply is low, demand is high and its price drivers point up. Midnight today: 0.00% new supply in 90 days (flat), demand weak (2/5), drivers 2 ▲ / 0 ▼.
 
 ### What could push Midnight's price up or down?
 
@@ -93,7 +93,7 @@ Right now 2 things drive Midnight's price (2 ▲, 0 ▼). ▲ Mainnet rollout: A
 
 ### Is Midnight a better investment than Bitcoin?
 
-Side by side on Oct 12 2026: Midnight at 7/10 with a positive signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Midnight is the weaker of the two.
+Side by side on Oct 14 2026: Midnight at 6.5/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Midnight is the weaker of the two.
 
 ## Where to read the rest of NIGHT
 

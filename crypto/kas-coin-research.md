@@ -1,6 +1,6 @@
 ---
 title:         "Kaspa (KAS) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Supply and demand give Kaspa (KAS) a mixed long-run signal today (Oct 12 2026); its score is 6/10."
+description:   "Supply and demand give Kaspa (KAS) a mixed long-run signal today (Oct 14 2026); its score is 6/10."
 canonical_url: "https://mrnasdog.com/research/kas"
 content_type:  "coin_hub"
 tags:          ["crypto", "kas", "kaspa", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Kaspa (KAS) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
 
-*From https://mrnasdog.com/research/kas, updated Oct 12 2026*
+*From https://mrnasdog.com/research/kas, updated Oct 14 2026*
 
-Supply and demand give Kaspa (KAS) a **mixed** long-run signal today (Oct 12 2026); its score is 6/10.
+Supply and demand give Kaspa (KAS) a **mixed** long-run signal today (Oct 14 2026); its score is 6/10.
 
 - **Signal today:** mixed for Kaspa
 - **MrNasdog score:** 6/10 — supply 3/5, demand 3/5
@@ -49,7 +49,7 @@ Good for the price: Miners return. Bad for it: Miners leave.
 | Jul 31 2026 | 325 PH/s |
 | Aug 31 2026 | 326 PH/s |
 | Sep 30 2026 | 346 PH/s |
-| Oct 12 2026 | 341 PH/s |
+| Oct 14 2026 | 350 PH/s |
 
 *Checked Oct 10 2026*
 
@@ -57,11 +57,11 @@ Good for the price: Miners return. Bad for it: Miners leave.
 
 Fair-launch proof-of-work blockDAG. Miners got 180.0M new KAS in 90 days (+0.65%), with no burn or buyback; monthly reward cuts slow it to +0.55% next. 96.6% of the 28.70B cap is mined.
 
-Kaspa adds +0.55% new supply in the next 90 days and +1.74% over a year — supply scores 3/5 (light) (place 60 of 101).
+Kaspa adds +0.55% new supply in the next 90 days and +1.74% over a year — supply scores 3/5 (light) (place 59 of 101).
 
 ## Demand: how much people want KAS
 
-Demand reads **moderate** (3/5), #30 of 110 coins we track — that is how much people want KAS now and how much buying could still come.
+Demand reads **moderate** (3/5), #29 of 110 coins we track — that is how much people want KAS now and how much buying could still come.
 
 The members-only part of KAS's demand section is not included.
 
@@ -69,7 +69,7 @@ The members-only part of KAS's demand section is not included.
 
 ### Should I enter Kaspa right now?
 
-By the law of supply and demand, Kaspa's long-run signal is mixed (Oct 12 2026, score 6/10). New supply: +0.55% in the next 90 days. Demand: moderate (3/5). Kaspa's price drivers: 0 ▲ price up, 0 ▼ price down.
+By the law of supply and demand, Kaspa's long-run signal is mixed (Oct 14 2026, score 6/10). New supply: +0.55% in the next 90 days. Demand: moderate (3/5). Kaspa's price drivers: 0 ▲ price up, 0 ▼ price down.
 
 ### Does Kaspa beat XRP when it comes to new supply?
 
@@ -81,7 +81,7 @@ Many have left, but mining goes on. Kaspa's hashrate sits about 75% below its Ja
 
 ### Can Kaspa reach $1?
 
-At $1, Kaspa would be worth about $27.7B in total — about 24 times its $1.16B market cap today (Oct 12 2026, about 4.18 cents a coin). Kaspa's supply also grows +1.74% in the next year, so every extra coin needs buyers too. For Kaspa, the supply-and-demand signal is mixed right now.
+At $1, Kaspa would be worth about $27.7B in total — about 24 times its $1.16B market cap today (Oct 14 2026, about 4.18 cents a coin). Kaspa's supply also grows +1.74% in the next year, so every extra coin needs buyers too. For Kaspa, the supply-and-demand signal is mixed right now.
 
 ### When should I sell Kaspa?
 
@@ -89,7 +89,7 @@ Kaspa's signal is mixed for now. Kaspa's signal would turn if new supply keeps a
 
 ### Is Kaspa a good investment in 2026?
 
-Kaspa sits at 6/10 today (Oct 12 2026): supply 3/5, demand 3/5. One more year adds +1.74% to Kaspa's supply. Long-run signal: mixed.
+Kaspa sits at 6/10 today (Oct 14 2026): supply 3/5, demand 3/5. One more year adds +1.74% to Kaspa's supply. Long-run signal: mixed.
 
 ### When is a good time to buy Kaspa?
 
@@ -101,7 +101,7 @@ Right now 2 things drive Kaspa's price (0 ▲, 0 ▼). • Network upgrades: Toc
 
 ### Should I buy Kaspa or Bitcoin?
 
-Side by side on Oct 12 2026: Kaspa at 6/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Kaspa is the weaker of the two.
+Side by side on Oct 14 2026: Kaspa at 6/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Kaspa is the weaker of the two.
 
 ## Where to read the rest of KAS
 

@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy Aster? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Is Aster worth buying today? By the law of supply and demand, the long-run signal for ASTER is mixed (score 4.5/10, checked Oct 12 2026)."
+description:   "Is Aster worth buying today? By the law of supply and demand, the long-run signal for ASTER is mixed (score 4.5/10, checked Oct 14 2026)."
 canonical_url: "https://mrnasdog.com/research/aster"
 content_type:  "coin_hub"
 tags:          ["crypto", "aster", "aster", "should-i-buy"]
@@ -8,11 +8,11 @@ published:     true
 ---
 # Should You Buy Aster? Supply, Demand and Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/aster (checked Oct 12 2026)*
+*Originally published at https://mrnasdog.com/research/aster (checked Oct 14 2026)*
 
-Is Aster worth buying today? By the law of supply and demand, the long-run signal for ASTER is **mixed** (score 4.5/10, checked Oct 12 2026).
+Is Aster worth buying today? By the law of supply and demand, the long-run signal for ASTER is **mixed** (score 4.5/10, checked Oct 14 2026).
 
-- **Signal:** mixed (Oct 12 2026)
+- **Signal:** mixed (Oct 14 2026)
 - **Score:** 4.5/10 — supply 1.5/5, demand 3/5
 - **Supply growth:** +2.50% in 90 days · +3.54% in a year
 - **How much people want it:** moderate (3/5)
@@ -22,7 +22,7 @@ Is Aster worth buying today? By the law of supply and demand, the long-run signa
 
 Aster's fee buyback goes to stakers and its burns hit locked team coins, so neither shrinks the float. Supply grew 0.25% in 90 days from staking rewards; a 63.38M airdrop payout on Nov 4 2026 lifts the next 90 days to about 2.50%.
 
-New ASTER: +2.50% in 90 days, +3.54% in a year. Supply score 1.5/5, "heavy", #30 of 101 for new supply.
+New ASTER: +2.50% in 90 days, +3.54% in a year. Supply score 1.5/5, "heavy", #29 of 101 for new supply.
 
 ## What could move Aster's price
 
@@ -39,7 +39,7 @@ Open bets on Aster recovered after a weak first half of 2026.
 | Jul 31 2026 | $0.944B |
 | Aug 31 2026 | $1.23B |
 | Sep 30 2026 | $1.41B |
-| Oct 12 2026 | $1.35B |
+| Oct 14 2026 | $1.32B |
 
 *Checked Oct 10 2026*
 
@@ -62,7 +62,7 @@ Good for the price: US opens to Aster. Bad for it: Only rivals get US. Today: th
 
 ## Demand: how much people want ASTER
 
-Aster demand: 3/5 (**moderate**), place #30 among 110 coins — interest today plus the buying that could come later.
+Aster demand: 3/5 (**moderate**), place #29 among 110 coins — interest today plus the buying that could come later.
 
 Extra Aster demand detail for members stays on the live page.
 
@@ -70,7 +70,7 @@ Extra Aster demand detail for members stays on the live page.
 
 ### Should I buy Aster now, or wait?
 
-Based on the law of supply and demand, the long-run signal for Aster is mixed. As of Oct 12 2026, score 4.5/10, Aster faces +2.50% new supply over 90 days, with demand moderate (3/5). Aster's price drivers: 1 ▲ price up, 1 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Aster is mixed. As of Oct 14 2026, score 4.5/10, Aster faces +2.50% new supply over 90 days, with demand moderate (3/5). Aster's price drivers: 1 ▲ price up, 1 ▼ price down.
 
 ### Aster vs Hyperliquid: can Aster keep up?
 
@@ -82,7 +82,7 @@ No, Aster looks alive. Open bets on Aster recovered after a weak first half of 2
 
 ### Is $10 possible for Aster?
 
-It would take 14 times today's value: $10 × Aster's coins in the market = about $27.1B, against $1.93B now (Oct 12 2026). Aster's supply also grows +3.54% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Aster stays mixed.
+It would take 14 times today's value: $10 × Aster's coins in the market = about $27.1B, against $1.93B now (Oct 14 2026). Aster's supply also grows +3.54% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Aster stays mixed.
 
 ### Is it time to take profit on Aster?
 
@@ -90,7 +90,7 @@ Today the signal is mixed. Supply and demand would point the other way for Aster
 
 ### Is Aster a good investment right now?
 
-On our framework Aster scores 4.5/10 (Oct 12 2026), with supply 1.5/5 (heavy) and demand 3/5. In the next year Aster's supply changes +3.54%, so the long-run signal reads mixed.
+On our framework Aster scores 4.5/10 (Oct 14 2026), with supply 1.5/5 (heavy) and demand 3/5. In the next year Aster's supply changes +3.54%, so the long-run signal reads mixed.
 
 ### What is the best time to invest in Aster?
 
@@ -102,7 +102,7 @@ Aster has 2 price drivers today (1 ▲ price up, 1 ▼ price down). ▲ Aster op
 
 ### Should I buy Aster or Bitcoin?
 
-Aster reads mixed at 4.5/10; Bitcoin reads positive at 8.5/10 (Oct 12 2026). On supply and demand, Aster looks weaker than Bitcoin today.
+Aster reads mixed at 4.5/10; Bitcoin reads positive at 8.5/10 (Oct 14 2026). On supply and demand, Aster looks weaker than Bitcoin today.
 
 ## Where to read the rest of ASTER
 

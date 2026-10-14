@@ -1,6 +1,6 @@
 ---
 title:         "BitTorrent (BTT): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)"
-description:   "Supply and demand give BitTorrent (BTT) a mixed long-run signal today (Oct 12 2026); its score is 5.5/10."
+description:   "Supply and demand give BitTorrent (BTT) a mixed long-run signal today (Oct 14 2026); its score is 5.5/10."
 canonical_url: "https://mrnasdog.com/research/btt"
 content_type:  "coin_hub"
 tags:          ["crypto", "btt", "bittorrent", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # BitTorrent (BTT): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)
 
-*Live page: https://mrnasdog.com/research/btt · checked Oct 12 2026*
+*Live page: https://mrnasdog.com/research/btt · checked Oct 14 2026*
 
-Supply and demand give BitTorrent (BTT) a **mixed** long-run signal today (Oct 12 2026); its score is 5.5/10.
+Supply and demand give BitTorrent (BTT) a **mixed** long-run signal today (Oct 14 2026); its score is 5.5/10.
 
 - **Signal today:** mixed (by the law of supply and demand)
 - **MrNasdog score:** 5.5/10 — supply 4.5/5, demand 1/5
@@ -22,7 +22,7 @@ Supply and demand give BitTorrent (BTT) a **mixed** long-run signal today (Oct 1
 
 ### Should I enter BitTorrent right now?
 
-Supply and demand point to a mixed long-run signal for BitTorrent (Oct 12 2026, score 5.5/10). BitTorrent adds 0.00% new supply in 90 days, and demand reads low (1/5). BitTorrent's price drivers: 0 ▲ price up, 0 ▼ price down.
+Supply and demand point to a mixed long-run signal for BitTorrent (Oct 14 2026, score 5.5/10). BitTorrent adds 0.00% new supply in 90 days, and demand reads low (1/5). BitTorrent's price drivers: 0 ▲ price up, 0 ▼ price down.
 
 ### Is the BitTorrent coin dead in 2026?
 
@@ -30,7 +30,7 @@ Not dead, just quiet. BTT is still worth about $0.36B on Oct 10 2026 and adds 0.
 
 ### Could BitTorrent ever hit 1 cent?
 
-BitTorrent trades near 0.0000365 cents (Oct 12 2026). 1 cent a coin means a $9.87 trillion market cap, 27,418 times today's $360M. BitTorrent's supply barely changes in the next year (+0.10%), so the whole move would have to come from demand. For BitTorrent, the supply-and-demand signal is mixed right now.
+BitTorrent trades near 0.0000365 cents (Oct 14 2026). 1 cent a coin means a $9.87 trillion market cap, 27,418 times today's $360M. BitTorrent's supply barely changes in the next year (+0.10%), so the whole move would have to come from demand. For BitTorrent, the supply-and-demand signal is mixed right now.
 
 ### Should I sell my BitTorrent now?
 
@@ -38,7 +38,7 @@ We would read BitTorrent differently if new supply jumps (today 0.00% in 90 days
 
 ### Is BitTorrent a good long-term investment?
 
-BitTorrent scores 5.5/10 on our framework (Oct 12 2026): supply 4.5/5 (flat), demand 1/5. Over the next year BitTorrent's supply changes +0.10%. The long-run signal is mixed.
+BitTorrent scores 5.5/10 on our framework (Oct 14 2026): supply 4.5/5 (flat), demand 1/5. Over the next year BitTorrent's supply changes +0.10%. The long-run signal is mixed.
 
 ### How do I know when to buy BitTorrent?
 
@@ -50,7 +50,7 @@ BitTorrent's price drivers today: 0 pointing up, 0 pointing down, out of 2. • 
 
 ### Is BitTorrent a better investment than Bitcoin?
 
-BitTorrent: mixed signal, 5.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 12 2026). By supply and demand, BitTorrent reads weaker than Bitcoin today.
+BitTorrent: mixed signal, 5.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 14 2026). By supply and demand, BitTorrent reads weaker than Bitcoin today.
 
 ## BTT supply
 

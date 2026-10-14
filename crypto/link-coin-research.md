@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy LINK? Chainlink Supply, Demand and What Moves Its Price"
-description:   "Supply and demand give Chainlink (LINK) a positive long-run signal today (Oct 12 2026); its score is 7/10."
+description:   "Supply and demand give Chainlink (LINK) a mixed long-run signal today (Oct 14 2026); its score is 6.5/10."
 canonical_url: "https://mrnasdog.com/research/link"
 content_type:  "coin_hub"
 tags:          ["crypto", "link", "chainlink", "should-i-buy"]
@@ -8,25 +8,25 @@ published:     true
 ---
 # Should You Buy LINK? Chainlink Supply, Demand and What Moves Its Price
 
-*Live page: https://mrnasdog.com/research/link · checked Oct 12 2026*
+*Live page: https://mrnasdog.com/research/link · checked Oct 14 2026*
 
-Supply and demand give Chainlink (LINK) a **positive** long-run signal today (Oct 12 2026); its score is 7/10.
+Supply and demand give Chainlink (LINK) a **mixed** long-run signal today (Oct 14 2026); its score is 6.5/10.
 
-- **Long-run signal:** positive (by the law of supply and demand)
-- **Score:** 7/10 — supply 2/5, demand 5/5
+- **Long-run signal:** mixed (by the law of supply and demand)
+- **Score:** 6.5/10 — supply 2/5, demand 4.5/5
 - **New supply:** +1.47% in 90 days · +9.13% in a year
-- **Demand:** exceptional (5/5)
+- **Demand:** very strong (4.5/5)
 - **Price drivers:** 2 ▲ price up · 0 ▼ price down
 
 ## LINK supply
 
 Chainlink holds 233.15M LINK back and releases about 7% of supply a year; 18.75M came out on Oct 9 2026. Nothing is burned, so supply grew 2.45% in 90 days, with about 1.47% expected next.
 
-Over the next 90 days LINK supply changes +1.47%; across a full year, +9.13%. That puts supply at 2/5 (growing) (place 41 of 101).
+Over the next 90 days LINK supply changes +1.47%; across a full year, +9.13%. That puts supply at 2/5 (growing) (place 40 of 101).
 
 ## Demand: how much people want LINK
 
-People's appetite for Chainlink is **exceptional**: 5/5, ranked #1 of 110.
+People's appetite for Chainlink is **very strong**: 4.5/5, ranked #6 of 110.
 
 Members get the rest of the Chainlink demand read on mrnasdog.com.
 
@@ -70,31 +70,31 @@ Banks go live → price up · Bank pilots stall → price down. Now: ▲ up side
 
 ### Is it time to buy the Chainlink dip?
 
-Supply and demand point to a positive long-run signal for Chainlink (Oct 12 2026, score 7/10). Chainlink adds +1.47% new supply in 90 days, and demand reads exceptional (5/5). Chainlink's price drivers: 2 ▲ price up, 0 ▼ price down.
+Supply and demand point to a mixed long-run signal for Chainlink (Oct 14 2026, score 6.5/10). Chainlink adds +1.47% new supply in 90 days, and demand reads very strong (4.5/5). Chainlink's price drivers: 2 ▲ price up, 0 ▼ price down.
 
 ### Why is Chainlink going down while demand looks strong?
 
-New supply is the likely weight. Chainlink adds +4.01% new supply in the next 90 days and +9.36% in a year, so buyers must soak up a lot of fresh LINK. Demand itself reads exceptional at 5/5 (Oct 11 2026), which is why we call the picture mixed. Our supply-and-demand read for Chainlink stays positive.
+New supply is the likely weight. Chainlink adds +4.01% new supply in the next 90 days and +9.36% in a year, so buyers must soak up a lot of fresh LINK. Demand itself reads exceptional at 5/5 (Oct 11 2026), which is why we call the picture mixed. Our supply-and-demand read for Chainlink stays mixed.
 
 ### Chainlink or Hyperliquid: which has the better setup?
 
-On supply and demand, Hyperliquid has the edge: 8.5/10 against Chainlink's 6/10 (Oct 11 2026). Both see strong demand. The gap is new supply, with Hyperliquid adding just +0.13% in 90 days while Chainlink adds +4.01%. That leaves Chainlink's long-run signal at positive, by supply and demand.
+On supply and demand, Hyperliquid has the edge: 8.5/10 against Chainlink's 6/10 (Oct 11 2026). Both see strong demand. The gap is new supply, with Hyperliquid adding just +0.13% in 90 days while Chainlink adds +4.01%. That leaves Chainlink's long-run signal at mixed, by supply and demand.
 
 ### Could Chainlink ever hit $100?
 
-Chainlink trades near $12.9 (Oct 12 2026). $100 a coin means a $76.7B market cap, 7.8 times today's $9.89B. Chainlink's supply also grows +9.13% in the next year, so every extra coin needs buyers too. Supply and demand still read positive for Chainlink in the long run.
+Chainlink trades near $12.9 (Oct 14 2026). $100 a coin means a $76.7B market cap, 7.8 times today's $9.89B. Chainlink's supply also grows +9.13% in the next year, so every extra coin needs buyers too. Supply and demand still read mixed for Chainlink in the long run.
 
 ### Should I sell my Chainlink now?
 
-We would read Chainlink differently if new supply keeps arriving (+1.47% in 90 days), or demand falls from exceptional. Until then Chainlink's signal stays positive. Mark this date for Chainlink: Oct 29 2026 — Link:NYC event.
+We would read Chainlink differently if new supply keeps arriving (+1.47% in 90 days), or demand falls from very strong. Until then Chainlink's signal stays mixed. Mark this date for Chainlink: Oct 29 2026 — Link:NYC event.
 
 ### Is Chainlink a good long-term investment?
 
-Chainlink scores 7/10 on our framework (Oct 12 2026): supply 2/5 (growing), demand 5/5. Over the next year Chainlink's supply changes +9.13%. The long-run signal is positive.
+Chainlink scores 6.5/10 on our framework (Oct 14 2026): supply 2/5 (growing), demand 4.5/5. Over the next year Chainlink's supply changes +9.13%. The long-run signal is mixed.
 
 ### How do I know when to buy Chainlink?
 
-Supply and demand favor Chainlink most when little new supply is coming, demand is strong and the price drivers point up. Right now Chainlink has +1.47% new supply in 90 days (growing), demand exceptional (5/5), drivers 2 ▲ / 0 ▼.
+Supply and demand favor Chainlink most when little new supply is coming, demand is strong and the price drivers point up. Right now Chainlink has +1.47% new supply in 90 days (growing), demand very strong (4.5/5), drivers 2 ▲ / 0 ▼.
 
 ### Will Chainlink go up in 2026?
 
@@ -102,7 +102,7 @@ Chainlink's price drivers today: 2 pointing up, 0 pointing down, out of 2. ▲ E
 
 ### Is Chainlink a better investment than Bitcoin?
 
-Chainlink: positive signal, 7/10 · Bitcoin: positive signal, 8.5/10 (Oct 12 2026). By supply and demand, Chainlink reads weaker than Bitcoin today.
+Chainlink: mixed signal, 6.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 14 2026). By supply and demand, Chainlink reads weaker than Bitcoin today.
 
 ## Next steps for LINK
 

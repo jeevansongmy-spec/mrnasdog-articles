@@ -1,6 +1,6 @@
 ---
 title:         "Is Curve DAO (CRV) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)"
-description:   "Our read on Curve DAO for Oct 12 2026: a negative long-run signal and a score of 3.5/10, from new supply, demand and what moves the price."
+description:   "Our read on Curve DAO for Oct 14 2026: a negative long-run signal and a score of 3.5/10, from new supply, demand and what moves the price."
 canonical_url: "https://mrnasdog.com/research/crv"
 content_type:  "coin_hub"
 tags:          ["crypto", "crv", "curvedao", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Is Curve DAO (CRV) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)
 
-*From https://mrnasdog.com/research/crv, updated Oct 12 2026*
+*From https://mrnasdog.com/research/crv, updated Oct 14 2026*
 
-Our read on Curve DAO for Oct 12 2026: a **negative** long-run signal and a score of 3.5/10, from new supply, demand and what moves the price.
+Our read on Curve DAO for Oct 14 2026: a **negative** long-run signal and a score of 3.5/10, from new supply, demand and what moves the price.
 
 - **Signal today:** negative for Curve DAO
 - **MrNasdog score:** 3.5/10 — supply 1.5/5, demand 2/5
@@ -22,11 +22,11 @@ Our read on Curve DAO for Oct 12 2026: a **negative** long-run signal and a scor
 
 Curve pays liquidity providers in new CRV every second, and more CRV left locks than entered them. +2.37% last 90 days; about +1.84% next after the Aug 12 2026 emission cut. Nothing buys CRV back.
 
-Curve DAO adds +1.84% new supply in the next 90 days and +7.40% over a year — supply scores 1.5/5 (heavy), #37 of 101 for new supply.
+Curve DAO adds +1.84% new supply in the next 90 days and +7.40% over a year — supply scores 1.5/5 (heavy), #36 of 101 for new supply.
 
 ## How strong is Curve DAO demand?
 
-Demand reads **weak** (2/5), #65 of 110 coins we track — that is how much people want CRV now and how much buying could still come.
+Demand reads **weak** (2/5), #64 of 110 coins we track — that is how much people want CRV now and how much buying could still come.
 
 (Members see more CRV demand detail on the page; it is not repeated here.)
 
@@ -60,7 +60,7 @@ Good for the price: More crvUSD borrowed. Bad for it: crvUSD shrinks. Right now 
 | Jul 31 2026 | 225 M crvUSD |
 | Aug 31 2026 | 280 M crvUSD |
 | Sep 30 2026 | 250 M crvUSD |
-| Oct 12 2026 | 249 M crvUSD |
+| Oct 14 2026 | 248 M crvUSD |
 
 *Checked Oct 10 2026*
 
@@ -68,7 +68,7 @@ Good for the price: More crvUSD borrowed. Bad for it: crvUSD shrinks. Right now 
 
 ### Should I enter Curve DAO right now?
 
-Based on the law of supply and demand, the long-run signal for Curve DAO is negative. As of Oct 12 2026, score 3.5/10, Curve DAO faces +1.84% new supply over 90 days, with demand weak (2/5). Curve DAO's price drivers: 2 ▲ price up, 0 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Curve DAO is negative. As of Oct 14 2026, score 3.5/10, Curve DAO faces +1.84% new supply over 90 days, with demand weak (2/5). Curve DAO's price drivers: 2 ▲ price up, 0 ▼ price down.
 
 ### Is anyone still using Curve DAO, or is it dead?
 
@@ -80,7 +80,7 @@ Today the signal is negative. Supply and demand would point the other way for Cu
 
 ### Is Curve DAO a good investment in 2026?
 
-On our framework Curve DAO scores 3.5/10 (Oct 12 2026), with supply 1.5/5 (heavy) and demand 2/5. In the next year Curve DAO's supply changes +7.40%, so the long-run signal reads negative.
+On our framework Curve DAO scores 3.5/10 (Oct 14 2026), with supply 1.5/5 (heavy) and demand 2/5. In the next year Curve DAO's supply changes +7.40%, so the long-run signal reads negative.
 
 ### What is the best time to invest in Curve DAO?
 
@@ -92,7 +92,7 @@ Curve DAO has 2 price drivers today (2 ▲ price up, 0 ▼ price down). ▲ Conv
 
 ### Should I buy Curve DAO or Bitcoin?
 
-Curve DAO reads negative at 3.5/10; Bitcoin reads positive at 8.5/10 (Oct 12 2026). On supply and demand, Curve DAO looks weaker than Bitcoin today.
+Curve DAO reads negative at 3.5/10; Bitcoin reads positive at 8.5/10 (Oct 14 2026). On supply and demand, Curve DAO looks weaker than Bitcoin today.
 
 ## More on Curve DAO
 

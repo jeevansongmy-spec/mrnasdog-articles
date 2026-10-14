@@ -1,6 +1,6 @@
 ---
 title:         "Is Jupiter (JUP) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)"
-description:   "Our read on Jupiter for Oct 12 2026: a positive long-run signal and a score of 8/10, from new supply, demand and what moves the price."
+description:   "Our read on Jupiter for Oct 14 2026: a positive long-run signal and a score of 8/10, from new supply, demand and what moves the price."
 canonical_url: "https://mrnasdog.com/research/jup"
 content_type:  "coin_hub"
 tags:          ["crypto", "jup", "jupiter", "should-i-buy"]
@@ -8,11 +8,11 @@ published:     true
 ---
 # Is Jupiter (JUP) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/jup (checked Oct 12 2026)*
+*Originally published at https://mrnasdog.com/research/jup (checked Oct 14 2026)*
 
-Our read on Jupiter for Oct 12 2026: a **positive** long-run signal and a score of 8/10, from new supply, demand and what moves the price.
+Our read on Jupiter for Oct 14 2026: a **positive** long-run signal and a score of 8/10, from new supply, demand and what moves the price.
 
-- **Long-run signal:** positive (Oct 12 2026)
+- **Long-run signal:** positive (Oct 14 2026)
 - **Score:** 8/10 — supply 4.5/5, demand 3.5/5
 - **New supply:** 0.00% in 90 days · −0.07% in a year
 - **Demand:** strong (3.5/5)
@@ -60,7 +60,7 @@ Lending keeps growing → price up · Deposits leave → price down. Now: ▲ up
 | Jul 31 2026 | $0.93B | $1.04B |
 | Aug 31 2026 | $1.08B | $1.24B |
 | Sep 30 2026 | $1.17B | $1.42B |
-| Oct 12 2026 | $1.14B | $1.33B |
+| Oct 14 2026 | $1.11B | $1.31B |
 
 *Checked Oct 11 2026*
 
@@ -68,7 +68,7 @@ Lending keeps growing → price up · Deposits leave → price down. Now: ▲ up
 
 ### Is it a good time to buy Jupiter today?
 
-Based on the law of supply and demand, the long-run signal for Jupiter is positive. As of Oct 12 2026, score 8/10, Jupiter faces 0.00% new supply over 90 days, with demand strong (3.5/5). Jupiter's price drivers: 1 ▲ price up, 1 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Jupiter is positive. As of Oct 14 2026, score 8/10, Jupiter faces 0.00% new supply over 90 days, with demand strong (3.5/5). Jupiter's price drivers: 1 ▲ price up, 1 ▼ price down.
 
 ### Is Jupiter crypto dead now that it routes fewer swaps?
 
@@ -76,7 +76,7 @@ No, though its main business is shrinking. Jupiter's share of Solana swap routin
 
 ### Is $10 possible for Jupiter?
 
-It would take 27 times today's value: $10 × Jupiter's coins in the market = about $33.2B, against $1.21B now (Oct 12 2026). Jupiter's supply barely changes in the next year (−0.07%), so the whole move would have to come from demand. That leaves Jupiter's long-run signal at positive, by supply and demand.
+It would take 27 times today's value: $10 × Jupiter's coins in the market = about $33.2B, against $1.21B now (Oct 14 2026). Jupiter's supply barely changes in the next year (−0.07%), so the whole move would have to come from demand. That leaves Jupiter's long-run signal at positive, by supply and demand.
 
 ### Is it time to take profit on Jupiter?
 
@@ -84,7 +84,7 @@ Today the signal is positive. Supply and demand would point the other way for Ju
 
 ### Is Jupiter a good investment right now?
 
-On our framework Jupiter scores 8/10 (Oct 12 2026), with supply 4.5/5 (flat) and demand 3.5/5. In the next year Jupiter's supply changes −0.07%, so the long-run signal reads positive.
+On our framework Jupiter scores 8/10 (Oct 14 2026), with supply 4.5/5 (flat) and demand 3.5/5. In the next year Jupiter's supply changes −0.07%, so the long-run signal reads positive.
 
 ### What is the best time to invest in Jupiter?
 
@@ -96,7 +96,7 @@ Jupiter has 2 price drivers today (1 ▲ price up, 1 ▼ price down). ▼ Swap m
 
 ### Should I buy Jupiter or Bitcoin?
 
-Jupiter reads positive at 8/10; Bitcoin reads positive at 8.5/10 (Oct 12 2026). On supply and demand, Jupiter looks weaker than Bitcoin today.
+Jupiter reads positive at 8/10; Bitcoin reads positive at 8.5/10 (Oct 14 2026). On supply and demand, Jupiter looks weaker than Bitcoin today.
 
 ## Read more on JUP
 
