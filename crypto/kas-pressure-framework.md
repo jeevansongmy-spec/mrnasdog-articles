@@ -1,6 +1,6 @@
 ---
 title: "KAS Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description: "KAS supply is growing: miners got 180.0M new KAS in 90 days with no burn or buyback, +0.65% net. Monthly reward cuts bring +0.55% next, toward a 28.70B cap."
+description: "KAS is still inflating, but less each month: 176M KAS of mining rewards and no fee burn give +0.64% net over 90 days and about +0.54% next. No unlocks."
 canonical_url: "https://mrnasdog.com/research/kas/inflation"
 tags: ["crypto", "kas", "kaspa", "proof-of-work"]
 published: true
@@ -12,52 +12,57 @@ The Kaspa coin page has the score, the price drivers and every question answered
 
 # KAS Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
-Kaspa (KAS) is mildly inflationary, and the rate falls a little every month. Proof-of-work miners received **180.0M KAS** of new coins in the last 90 days, and nothing was burned or bought back, so supply grew **+0.65%**. The Kaspa block reward is cut by about 5.6% each month, so the next 90 days should add about **151.7M KAS**, or **+0.55%**. The monitor reads **+0.84%**, a gap of **0.20pp**, inside our tolerance.
+Kaspa (KAS) supply grew **+0.64%** over the last 90 days and is set to grow about **+0.54%** over the next 90. All of it is mining pay: **176,264,320 KAS** of new block rewards, with no burn, no buyback, no staking lock and no unlocks against it. The Kaspa block reward shrinks by about 5.6% every month, one full halving a year, and 96.7% of the 28.70B KAS cap is already mined, so the new supply keeps getting smaller.
 
 ## The verdict, in one paragraph
 
-Over the 90 days to Oct 4 2026, KAS supply grew **+0.65%**: 180.0M KAS of new mining rewards against **27.74B KAS** in circulation, with zero on the buy side. The next 90 days project **+0.55%**, lower because three monthly reward cuts land inside that window. The monitor measures **+0.84%** over its own 90 days, so the gap is **+0.20pp**, well under the 0.5pp line, and no warning chip is shown. Kaspa is a **shrinking-emission proof-of-work chain**: every new coin goes to miners, and the flow of new coins halves every year in twelve small monthly steps.
+The MrNasdog Pressure Framework reads KAS at **+0.64% net** for the 90 days to Oct 15 2026: **176.3M KAS** of new supply against **0 KAS** taken out, measured over a circulating supply of **27.76B KAS**. Our inflation monitor reads **+0.95%** for nearly the same window, a gap of **0.31 percentage points**, inside our 0.5-point limit, so no warning chip is needed. The monitor runs higher because its supply figure stood still from early July to early August 2026 and then caught up in one step, which makes its 90-day starting point look low. For the next 90 days the Kaspa reward schedule gives **148.6M KAS**, or **+0.54%**. In one line: KAS is a fair-launch proof-of-work coin that is still inflating, but a little less every month.
 
 ## Sell pressure: where new KAS comes from
 
-Protocol inflation is the whole Kaspa sell side: **179.99M KAS** in 90 days, about 2.0M KAS a day. Kaspa makes ten blocks every second, and each block pays its miner a fixed subsidy taken from a table built into the node software. At the start of the window the reward was 2.45 KAS per block; it fell to 2.31 KAS on Aug 5 2026 and to **2.18 KAS** on Sep 4 2026. We added the reward up block by block over the window and checked it against the network's own supply count at six dates since Jun 16 2026: the two agree to within 0.001%. Miners sell part of these coins to pay for power and machines, which is why this is counted as sell pressure.
+Protocol inflation is the only source of new KAS: **176,264,320 KAS** in the last 90 days, about **1.96M KAS a day**. Kaspa makes 10 blocks a second, and the network held that pace all window long. Each block pays a reward set by a fixed table in the Kaspa node code. The table steps down once a month by a factor that halves the reward every twelve months, so the reward went from 2.45 KAS per block in July to 2.31 KAS on Aug 5 2026, 2.18 KAS on Sep 4 2026 and 2.06 KAS on Oct 5 2026. That is why the three 30-day parts of the window fell from 62.1M to 58.7M to 55.4M KAS. We added up the reward for every block in the window and checked the total against the live supply read at six dates over 121 days; the two agreed to within 0.0001%.
 
-Vesting unlocks are **zero**. Kaspa launched in November 2021 as a fair launch: no premine, no coin sale, no team, investor or foundation allocation. There is no unlock calendar because nothing was ever set aside to unlock. Foundation and unscheduled unlocks are also **zero**: the only group wallets are community donation funds, none of them paid out in the window, and they already count as circulating. Long-term locked or bankruptcy supply is **zero** too, with no estate, trustee or exchange failure holding KAS for later release.
+Vesting unlocks are **0**. Kaspa launched on mainnet in November 2021 with no premine, no coin sale and no share for a team, a company or investors. There is no vesting calendar because no allocation was ever made; every KAS in circulation came out of mining.
+
+Foundation and unscheduled unlocks are **0**. Kaspa has no foundation treasury. It has community funds paid for by donations, and none of them fell in the window. Because every one of those coins was mined and is already counted as circulating, even a payout from them would move coins between holders and add no new supply.
+
+Long-term locked or bankruptcy supply is **0**. No exchange estate, trustee or lockup holds KAS for later release. The largest single holder seen on-chain grew to about 1.53B KAS in the window, but it bought those coins in the market.
 
 ## Buy pressure: where new KAS goes
 
-Nothing in Kaspa takes coins out of the market. There is no programmatic buyback (**zero**), because the network earns no revenue of its own. There is no protocol fee burn (**zero**): every transaction fee goes to the miner who includes it. The Toccata upgrade on Jun 30 2026 added covenants and zero-knowledge tools and raised the minimum fee, but it still burns nothing. Some users send coins to an address no one can spend; it took in **1,519 KAS** this window, too small to matter and not a protocol rule, so we do not count it.
+Programmatic buyback is **0**. Kaspa has no company, token treasury or fee switch that could buy KAS back.
 
-Foundation buying is **zero**, since no treasury buys KAS on the market. New long-term locks are **zero** as well: Kaspa is proof-of-work, so there is no staking contract to pull coins out of circulation. The result is a buy side of zero, which makes Kaspa's net supply change equal to its mining issuance.
+Protocol fee burn is **0**. Every transaction fee on Kaspa goes to the miner who includes it; the protocol destroys nothing. Some people send KAS to the well-known burn address by hand, and it gained 2,502 KAS in the window to about 11.23M KAS. Those coins can never move again, but they still sit inside the supply count, so the framework does not book them as coins leaving the market.
+
+Foundation buy is **0**: no foundation or treasury buys KAS, and the community funds only take donations and pay developers. New long-term lock is **0**: Kaspa is proof of work, so there is no staking and no lock that pulls coins out of the float. With the whole buy side at zero, the net figure equals the mining figure.
 
 ## Foundation and overhang
 
-Kaspa has no company treasury and no unminted reserve controlled by a team. The tracked group wallets are community donation funds. The DAGKnight fund holds **70.25M KAS** and the Rust fund **46.16M KAS**; neither moved coins out between Jul 6 and Oct 4 2026. The dev fund holds **1.19M KAS** and only received small gifts, and the mining dev fund holds about **0.22M KAS**. Together that is about 117.8M KAS, or 0.42% of circulating supply.
-
-All of these coins are already inside the circulating count, so if a fund pays developers who then sell, the coins change hands without any new supply appearing. We read every fund balance on chain at each rebuild. If one of these balances falls between our checks, we look at where the coins went and record the outflow in the Foundation row at the next check.
+The Kaspa community funds are the only group-controlled KAS we track. The DAGKnight fund, raised from donations to pay for the next consensus upgrade, holds about **70.25M KAS** and barely moved in the window. The Rust fund, raised to pay for the node rewrite, holds about **46.16M KAS** and did not move. The Dev Fund holds about **1.19M KAS** and only received coins, the Mining Dev Fund holds about **220K KAS**, and two small marketing and funding wallets hold under 2,500 KAS together. Elected community treasurers sign for these wallets, and payouts follow public votes. We read every one of these balances from the chain at each rebuild. If any of them falls between rebuilds, we look at where the coins went and record it in the foundation row at the next rebuild; because the coins are already in the float, a payout would not change the net figure.
 
 ## How KAS compares to other proof-of-work chains
 
-Kaspa and Bitcoin share the same basic promise: a hard cap and a reward that halves over time. Kaspa's cap is about **28.70B KAS**, and **96.6%** of it is already mined, leaving about 966M KAS for all future miners. The difference is the shape. Bitcoin halves its reward in one step every four years, so its new supply drops sharply on a single day. Kaspa halves its reward every year, spread over twelve monthly cuts of about 5.6% each, so the KAS supply curve bends smoothly with no single halving shock.
+Kaspa and Bitcoin both pay miners on a schedule that halves, and both stop at a hard cap: 28.70B KAS and 21M BTC. The difference is the shape of the cut. Bitcoin halves its reward in one step every four years, so its new supply stays flat for four years and then drops by half overnight. Kaspa halves every year in twelve small monthly steps, so KAS supply growth falls a little every month and never has a single big halving day. Kaspa is also much further along: about 96.7% of all KAS is already mined after under five years.
 
-Because Kaspa halves every year rather than every four, its inflation falls much faster than Bitcoin's did at the same age. At today's reward Kaspa adds about **483M KAS** over the next 365 days, about 1.7% of circulating supply, and the year after that roughly half as much. Proof-of-work chains that copied Bitcoin's four-year halving, such as Litecoin and Bitcoin Cash, step down far more slowly.
+Against chains with no end to mining, the gap is wider. Monero pays a small fixed tail reward forever after its main emission ended, and Dogecoin pays a fixed 10,000 DOGE per block with no cap, so both keep adding the same number of coins each year. Kaspa's new supply heads towards zero instead: the next year adds about 473M KAS, and the next four years about 887M KAS, close to everything left under the cap.
 
-Kaspa also differs from chains with a permanent tail emission, such as Monero, which keep a small fixed reward forever so miners are always paid. Kaspa's reward table keeps shrinking until it runs out around 2057, after which miners would live on fees alone. And unlike most proof-of-stake Layer 1s, Kaspa has no fee burn and no staking lock, so its net supply change is simply the mining reward, with nothing on the other side of the ledger.
+Like Bitcoin and unlike Ethereum, Kaspa has no fee burn, no staking lock and no buyback, so nothing on the buy side offsets mining. Its supply can only grow until the cap is reached, slower each month.
 
 ## What to watch in the next 90 days
 
-**Oct 5 2026:** the monthly reward cut takes the Kaspa block subsidy from 2.18 to 2.06 KAS per block, about 1.78M KAS a day.
+On Nov 4 2026 the Kaspa block reward drops from 2.06 to 1.94 KAS. On Dec 5 2026 it drops again to 1.84 KAS, and on Jan 4 2027 to 1.73 KAS; these three cuts are why the next 90 days bring about 148.6M KAS instead of 176.3M.
 
-**Nov 4 2026:** the next cut takes the subsidy to 1.94 KAS per block, and **Dec 5 2026** brings it to 1.84 KAS per block, which together give the 151.7M KAS forward figure.
+KCC-20, the token standard built on the covenants that the Toccata upgrade switched on in June 2026, entered its last-call review on Oct 7 2026; it creates new tokens on Kaspa, not new KAS, so it does not change the supply reading.
 
-**Any block-rate change:** when Kaspa moved from one to ten blocks per second in May 2025, the reward table split the same per-second emission across ten times as many blocks. No new block-rate upgrade is scheduled; if one is, we will check that its release keeps the same rule, so a faster chain does not change supply.
+The DAGKnight consensus upgrade is on the Kaspa roadmap with no date set; any hard fork that touched the reward table would change this reading, and none of the published upgrade plans do.
 
-**The donation funds:** any outflow from the DAGKnight fund (70.25M KAS) or the Rust fund (46.16M KAS) would be the first sign of a group-controlled sale. Neither has moved in this window.
+The DAGKnight fund (70.25M KAS) and the Rust fund (46.16M KAS) are the two balances to watch for payouts, and the burn address is worth a look at each rebuild.
 
 ## Summary
 
-Kaspa (KAS) is a capped proof-of-work coin whose only new supply is the mining reward: about **180.0M KAS**, or **+0.65%**, in the last 90 days, and about **151.7M KAS**, or **+0.55%**, in the next 90. Nothing is burned, bought back or locked, so the buy side is zero, and there are no vesting unlocks because Kaspa had no premine. The main risk is that miners keep selling into a market where little else absorbs the coins. The ceiling is firm: **96.6%** of the 28.70B KAS cap is already mined, and the reward halves again every year.
+The MrNasdog Pressure Framework reads Kaspa (KAS) at **+0.64% net** over the last 90 days and about **+0.54%** over the next 90: **176,264,320 KAS** of mining rewards with nothing burned, bought back or locked. KAS was fair-launched with no premine, so there are no unlocks and no team coins waiting to reach the market. The key risk is plain: mining keeps adding coins every block, and the buy side stays at zero. The ceiling is hard, though: the Kaspa reward shrinks about 5.6% every month, 96.7% of the 28.70B KAS cap is already mined, and KAS supply growth will keep getting smaller until mining ends.
+
 
 ---
 
-*MrNasdog Pressure Framework analysis of KAS, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 4 2026.*
+*MrNasdog Pressure Framework analysis of KAS, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.*

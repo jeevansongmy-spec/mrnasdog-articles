@@ -1,6 +1,6 @@
 ---
 title:         "POL Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description:   "POL supply is roughly steady: a 100M POL fee burn beat the 52.24M POL mint, so POL fell 0.45% in 90 days. Only a promised 25M burn is counted next: +0.26%."
+description:   "POL supply is roughly steady: a 2% mint made 52.27M POL in 90 days while a fee burn destroyed 100M, so supply fell 0.45%. Next 90 days: about +0.29%."
 canonical_url: "https://mrnasdog.com/research/pol/inflation"
 tags:          ["crypto", "pol", "polygon", "layer2"]
 published:     true
@@ -10,56 +10,54 @@ published:     true
 <!-- main-page -->
 The Polygon coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/pol](https://mrnasdog.com/research/pol). Below: supply, line by line.
 
-POL supply is roughly steady, and over the last 90 days it actually shrank. Polygon mints new POL every day at a fixed **2% a year**, which made **52.24M POL** in the window, but on Sep 23 2026 the network burned **100.0M POL** of saved base fees in one go. Net, supply fell by **0.45%**; the monitor reads **−0.40%**. For the next 90 days the mint keeps running while only a promised **25M POL** burn is counted, so we project about **+0.26%**. POL has no supply cap.
+POL supply is roughly steady, and it swings with the base-fee burn. In the 90 days to Oct 15 2026 the Polygon 2% yearly mint created **52.27M POL** while one batch burn of saved base fees destroyed **100M POL**, so the coins on the market fell by **0.45%**. For the next 90 days we count **52.53M POL** of new mint against a **21.62M POL** burn that can start on Dec 22 2026, which points to growth of about **0.29%**. POL has no supply cap and no vesting left; the mint and the burn are the whole story.
 
 ## The verdict, in one paragraph
 
-Over the 90 days from Jul 6 to Oct 4 2026, POL supply changed by **−0.45%** on our ledger: **52.24M POL** minted against **100.0M POL** burned, on a circulating supply of **10.63B POL**. The monitor, which reads circulating supply day by day, shows **−0.40%** for nearly the same window. The gap is **0.05 percentage points**, well inside our 0.5-point tolerance, so no warning chip is shown. Looking ahead, the Polygon mint adds about **52.50M POL** and we count only the **25M POL** burn the founder has promised, for a projected **+0.26%**. In one line: POL is a low-inflation Polygon token whose fee burns come in big, irregular batches.
+Our ledger reads POL at **−0.45%** over the last 90 days and **+0.29%** over the next 90. The independent supply monitor reads **−0.45%** for the last 90 days as well, a gap of **0.01** percentage points, far inside our 0.5-point tolerance, so no warning chip is shown. Both readings agree because Polygon counts every minted POL as circulating except the coins sent to the dead address, which is exactly how we count it too. The label that fits: **a steady 2% mint against a lumpy fee burn**.
 
 ## Sell pressure: where new POL comes from
 
-Protocol inflation is the only source of new POL. The POL emission contract on Ethereum mints once a day at a compounded **2% a year**, and every mint splits evenly: half goes to the Polygon staking contract that pays validators and delegators, and half to the Polygon Community Treasury. In this window the chain made 90 mints, one a day, worth **52.24M POL**, about 580,000 POL a day. We counted every mint event and the total matches the rise in POL total supply to the last coin. Because the rate is fixed by time, not by blocks, the faster Polygon PoS block times of 2026 do not change it; the next 90 days print about **52.50M POL**.
+**Protocol inflation is the only source of new POL: 52.27M POL in 90 days.** Once a day the Polygon emission contract on Ethereum mints new POL at a fixed rate of 2% a year, compounded. Every mint is split in half. One half goes to the Polygon staking contract, which pays validators and the people who delegate POL to them; the other half goes to the Polygon Community Treasury. We added up all 90 mints in the window and checked the sum against total supply at both ends; the two numbers match to a fraction of a coin. At today's supply the same 2% rate gives about **52.53M POL** in the next 90 days.
 
-Vesting unlocks are **zero**. POL replaced MATIC one for one, and every team, sale and foundation schedule from the MATIC years ended long ago, so there is no locked pile left to open.
+A governance change, PIP-92, raised staking rewards from about 3% to about 7.7% a year between Oct 1 and Dec 1 2026. That extra pay comes from **27.33M POL** of saved priority fees that were already in circulation, so it creates no new POL and does not change the mint.
 
-Foundation and unscheduled unlocks are **zero**. Every POL that exists, except the coins sitting at the dead address, already counts as circulating, so the Community Treasury, the fee collectors and any Polygon Foundation wallet can move or sell coins without adding new supply to the market.
-
-Long-term locked or bankruptcy supply is **zero**. No estate or trustee holds POL, and the coins still waiting to swap from MATIC belong to MATIC holders and are already counted.
+**Vesting unlocks are zero.** The old MATIC schedules for the team, the sale and the foundation ended years ago, unlock trackers show POL as fully unlocked, and circulating supply equals total supply. **Foundation and unscheduled unlocks are zero**, because every Polygon wallet is already counted as circulating; when the treasury spends POL, coins change hands but no new supply appears. **Long-term locked or bankruptcy releases are zero**: no court case, estate or long lock holds POL.
 
 ## Buy pressure: where new POL goes
 
-There is **no programmatic buyback**. No contract or treasury buys POL on the market, and a forum proposal to fund one from the treasury never reached a vote.
+**The base-fee burn removed 100M POL in this window.** Every transaction on Polygon pays a base fee in POL. Those fees are not destroyed at once; they are saved in a burn wallet on Polygon and destroyed later on Ethereum. A new burn contract now releases them in batches: anyone can start a burn, at most once every 90 days, and each batch can take up to 100M POL. The first batch ran on Sep 23 2026. The saved fees left Polygon through the bridge to Ethereum and were sent to the dead address in one transaction of exactly **100,000,000 POL**. We read the dead-address balance at both ends of the window and it rose by the same amount.
 
-The protocol fee burn is the whole buy side. On Polygon PoS the base fee of each transaction is not destroyed on the spot; it is collected in a fee wallet on the chain. On Sep 23 2026 the first community-triggered burn sent **100.0M POL** through a bridge contract to a dead address on Ethereum, almost twice the new coins of the whole window. Anyone can now start a burn; nobody needs the Polygon Foundation to sign. After that burn, about **79.5M POL** was still waiting in the two Polygon fee wallets, and base fees add roughly 0.42M POL a day. On Sep 27 2026 Polygon co-founder Sandeep Nailwal said another **25M POL** will be burned soon, with no date. Our next-90-day ledger counts only that 25M, the smallest number the evidence names.
+The next batch can start on **Dec 22 2026**, inside the next 90 days. The burn wallet holds **21.62M POL** today, and that is the amount we count. Another **62.88M POL** of base fees sits in a fee wallet run by a Polygon Labs multisig; it only becomes burnable when its signers forward it to the burn wallet, so we do not count it yet. Under PIP-82, part of those fees (up to $1M worth) is paid back to payment apps as gas rebates until Dec 31 2026.
 
-Foundation buying is **zero**: no announcement or on-chain flow shows the Polygon Foundation, Polygon Labs or the treasury buying POL. New long-term locks are also **zero**. About 3.45B POL is staked, and stakers earn a higher reward from Oct 1 to Dec 1 2026, but staked POL still counts as circulating, so staking removes nothing from the float.
+**Programmatic buyback is zero**: no contract or team buys POL back, and a forum idea to replace the mint with treasury buybacks has had no vote. **Foundation buy is zero**: we found no purchase of POL by Polygon Labs or the treasury. **New long-term lock is zero**: about 3.77B POL is staked on Ethereum, including **100.7M POL** the Community Treasury moved into staking on Oct 14 2026, but staked POL still counts as circulating, so staking takes nothing off the market.
 
 ## Foundation and overhang
 
-The largest tracked pile is the Polygon Community Treasury, which held **97.52M POL** on Oct 4 2026. It grew by 26.12M POL in the window, exactly its half of the mint, and paid nothing out. The Polygon PoS base-fee collector holds **21.62M POL** and its routing wallet holds **57.84M POL**; both are waiting for future burns. A pool of **27.33M POL** of saved priority fees is being paid to stakers between Oct 1 and Dec 1 2026 under a governance proposal known as PIP-92. Polygon Foundation and Polygon Labs wallets are not published. We read the on-chain balances at every rebuild. If any of these balances falls between refreshes and the coins reach the market, that outflow enters the foundation row of the sell ledger at the next refresh; a fall in the fee wallets that lands at the dead address enters the burn row instead.
+All the POL that Polygon-linked wallets hold is already counted as circulating, so none of it can add new supply; it can only change hands. We still track it. The **Community Treasury** receives half of every mint; on Oct 14 2026 it sent **100.7M POL** through a multisig into staking and was left with about 18,700 POL. On Polygon itself the burn wallet holds **21.62M POL** and the multisig fee wallet **62.88M POL**, both made of saved base fees. A fee account for stakers held about 8.70M POL of priority fees. The MATIC swap contract holds **373.99M POL** for MATIC that holders have not yet converted. Polygon Labs' own operating wallets are not published. We read these balances on every rebuild; if any of them falls between rebuilds, we trace where the coins went at the next refresh, and a move into the dead address is booked as a burn.
 
-## How POL compares to other uncapped proof-of-stake chains
+## How POL compares to other EVM chains
 
-POL sits in the same family as Ethereum and other uncapped proof-of-stake chains: new coins pay for security, and a fee burn pulls coins back out. The difference is the shape of the two flows. Ethereum issues new ETH every epoch in proportion to the stake and burns its base fee in every block, so its net supply moves smoothly. POL mints on a fixed 2% clock that ignores the stake, and its base fees pile up for months before a single large burn, so the ledger swings from deeply negative in a burn quarter to mildly positive in a quiet one.
+POL sits between Ethereum and BNB in how it handles supply. Like ETH, POL has no hard cap and pays stakers with newly minted coins, and like ETH it destroys the base fee of every transaction. The difference is timing: Ethereum burns the base fee in the same block, every block, while Polygon saves base fees and burns them in batches up to 90 days apart. So the ETH burn shows up smoothly, and the POL burn shows up as a step.
 
-Against exchange tokens with scheduled quarterly burns, such as BNB, POL has a burn that is quarterly in intent but not yet in practice: one burn has happened, and the next has no date. Against capped chains such as Avalanche, which also burn every fee, POL has no ceiling at all; the 2% mint runs until governance changes it, and a forum push to end it has not reached a vote.
+BNB also burns in quarterly batches, but BNB has a fixed target supply and no ongoing mint, so every batch makes the supply smaller. POL keeps a steady 2% yearly mint, about 52M POL a quarter, so a batch only shrinks POL when it is bigger than the mint. In the last 90 days it was (100M against 52.27M); in the next 90 days the coins already waiting to be burned are smaller (21.62M against 52.53M).
 
-Against Layer-2 tokens such as Arbitrum or Optimism, whose supply grows mostly through scheduled team and investor unlocks, POL carries almost no unlock risk. Its supply story is the mint versus the burn, and both are visible on chain.
+Many proof-of-stake chains mint 5% or more a year for stakers and burn little. Next to them POL's 2% rate is low, though half of it goes to a treasury instead of to stakers. Whether POL shrinks or grows over a full year comes down to one question: do Polygon's fees burn more than about 215M POL a year?
 
 ## What to watch in the next 90 days
 
-The next POL fee burn is the main event. The founder has promised **25M POL** soon, and a quarterly rhythm would point to a burn around late December 2026; a larger burn of the full **79.5M POL** waiting would turn the next 90 days negative.
+**Dec 22 2026**: the burn contract's 90-day wait ends and anyone can start the next batch. If the multisig fee wallet forwards its **62.88M POL** to the burn wallet before then, the batch could be far larger than the 21.62M we count.
 
-The PIP-92 staker payout runs from Oct 1 to Dec 1 2026. It pays out existing fees, not new coins, so it moves no supply, but the reward rate falls back after Dec 1 2026.
+**Dec 1 2026**: the PIP-92 boost to staking rewards ends. A follow-up proposal, PIP-93, is meant to pay a share of fees to stakers automatically; watch whether it changes the 2% mint or only redirects fees.
 
-PIP-93, a planned upgrade to share priority fees with stakers automatically, and any vote on the forum idea to cut the 2% mint would change the sell side. Neither had a vote date on Oct 4 2026.
+**Dec 31 2026**: the PIP-82 gas-rebate program for payment apps ends, after which all base fees go back to the burn path.
 
-Base-fee income itself has been slowing through the window, from about 0.6M POL a day in July to about 0.42M POL a day in late September, which sets the size of every future burn.
+**The 2% mint debate**: a forum proposal to cut or end the mint and add treasury buybacks was revived in August 2026. Any vote that lowers the mint would cut the sell side directly.
 
 ## Summary
 
-POL supply is roughly steady: Polygon mints **52.24M POL** every 90 days at a fixed 2% a year, and a **100.0M POL** base-fee burn on Sep 23 2026 more than offset it, for a **−0.45%** change against a monitor reading of **−0.40%**. The next 90 days project about **+0.26%**, counting only the promised 25M POL burn. The key risk is timing: burns come in batches with no fixed date, while the mint never stops. There is no supply cap, so the long-run number depends on fee income keeping pace with the 2% mint.
+POL is a mixed-flows coin with supply roughly steady: Polygon mints new POL at 2% a year, about **52.27M POL** every 90 days, and burns saved base fees in batches up to 90 days apart. The first batch destroyed **100M POL** on Sep 23 2026, so supply fell **0.45%** in the last 90 days; with only **21.62M POL** waiting for the next batch on Dec 22 2026, we expect growth of about **0.29%** in the next 90. The key risk is that fees stay too small to match the mint, because POL has no supply cap and no vesting left to end.
 
 ---
 
-*MrNasdog Pressure Framework analysis of POL, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 4 2026.*
+*MrNasdog Pressure Framework analysis of POL, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.*

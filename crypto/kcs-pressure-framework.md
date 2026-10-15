@@ -1,6 +1,6 @@
 ---
-title: "KCS Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description: "KCS supply is growing: a 2.5M KCS unlock landed Oct 1 2026 and KuCoin has not burned any KCS since Dec 31 2025, so net is +1.79% over 90 days, the same next."
+title: "KCS Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
+description: "KuCoin Token (KCS) supply is flat: nothing minted, no KCS burned since Dec 31 2025, and its 47.5M KCS lock wallet never moved: 0.00% net in 90 days."
 canonical_url: "https://mrnasdog.com/research/kcs/inflation"
 tags: ["crypto", "kcs", "kucoin", "exchange"]
 published: true
@@ -10,56 +10,56 @@ published: true
 <!-- main-page -->
 Looking for the buy-or-sell answer? It is on the KCS coin page, with demand and price drivers: [mrnasdog.com/research/kcs](https://mrnasdog.com/research/kcs)
 
-# KCS Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+# KCS Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
-KuCoin Token (KCS) supply is growing: a 2022 release plan added **2.5M KCS** on Oct 1 2026, and KuCoin's buyback-and-burn has not burned a single KCS since **Dec 31 2025**. That puts net supply at **+1.79%** over the last 90 days, against **+1.87%** on our independent monitor. One final **2.5M KCS** slice is due on Jan 1 2027, so the next 90 days read **+1.79%** too; after that, nothing is left locked.
+KCS supply stood still over the 90 days to Oct 15 2026. KuCoin Community Chain mints no new KuCoin Token, the monthly buyback and burn has not fired since **Dec 31 2025**, and the 2022 lock wallet that holds **47.5M KCS** did not send a single coin. The MrNasdog Pressure Framework books **0 KCS** of sell pressure and **0 KCS** of buy pressure, a net of **0.00%**, and projects **0.00%** for the next 90 days. The published circulating figure still rose **2.5M KCS** on Oct 1 2026, because the lock plan counts one more slice as unlocked each quarter even though the coins stay where they are.
 
 ## The verdict, in one paragraph
 
-Over the 90 days from Jul 6 2026 to Oct 4 2026, KCS sell pressure was **2.5M KCS** and buy pressure was **0 KCS**, so net supply rose **+1.79%** of the **139.66M KCS** in circulation. Our monitor, which reads circulating supply day by day, shows **+1.87%** over its own 90 days. The gap is **0.08 percentage points**, inside the 0.5-point line, so no warning chip is needed. The KCS reading in one line: a scheduled unlock with its burn switched off.
+Our primary read of KCS is **0.00%** net supply change over the last 90 days and **0.00%** over the next 90, on a circulating base of **139.66M KCS** out of **142.16M** in existence. The inflation monitor reads **+1.92%** for its own 90-day window, a gap of **1.92 percentage points**, so the page carries a ⚠ monitor gap note. We walked that gap to its source: the supply figure the monitor follows stepped up by 2.5M KCS on Oct 1 2026, the same quarterly step it took on Jul 1 2026, when one more slice of the 2022 lock plan was counted as unlocked. On-chain the lock wallet held the same **47.5M KCS** at both ends of the window, so no coin reached the market and our number stays. KCS today is a quiet exchange token: no minting, no burning, and one large wallet that has not moved in four and a half years.
 
 ## Sell pressure: where new KCS comes from
 
-Protocol inflation is **0**. KCS is the gas coin of KuCoin Community Chain, and the chain pays its validators only the gas that users spend; its blocks carry no reward, so the chain mints no new KCS.
+Protocol inflation is **0 KCS**. KuCoin Community Chain, the network where KCS is the gas coin, has no block reward. Validators are paid from a reserve pool that KuCoin refills with coins it already holds: **215,339 KCS** went into that pool in these 90 days, about 2,390 a day, and about **152,800 KCS** was paid out to validators. Those are existing coins moving from KuCoin to validators, so they add nothing to supply.
 
-Vesting unlocks are the whole sell side: **2.5M KCS**. The KCS whitepaper of 2022 re-locked 90M KCS from the founding team and early backers. Of that, 20M was burned and 20M went to holder and contributor rewards, and 50M (18M for early investors plus 32M gifted to the KCS Management Foundation) stayed locked, to be released in equal quarterly slices over five years. Each slice is **2.5M KCS**, and it lands on the first day of a quarter: Jan 1 2026, Apr 1 2026, Jul 1 2026 and Oct 1 2026 all show the same step. The Jul 1 slice fell five days before this window, so only the Oct 1 2026 slice counts here. It moved circulating supply from **137.16M** to **139.66M KCS**, and KuCoin's own published circulating figure moved by exactly the same amount.
+Vesting unlocks are **0 KCS** on our ledger. The 2022 KCS whitepaper re-locked **50M KCS** (25M and 7M gifted to the KCS Management Foundation, 18M for early investors) to unlock in 20 quarterly slices of **2.5M** over five years. KuCoin named one cold wallet as the home of the locked coins back in 2020. That wallet sent the first 2.5M slice, a 20M burn and a 20M reward pool on Mar 31 2022, and has sent nothing since. The published circulating figure counts every slice after that as unlocked anyway, so today only 2.5M is still counted as locked, but the coins themselves never left. We count supply when it reaches the market, and none did.
 
-Foundation and unscheduled unlocks are **0**. No wallet outside the circulating count released anything this window. Long-term locked or bankruptcy supply is also **0**: no court estate or trustee holds KCS, and the only lock left is the final 2.5M slice of the release plan.
+Foundation and unscheduled unlocks are **0 KCS**: none of the team-side wallets we follow sent coins out in the window. Long-term locked or bankruptcy supply is **0 KCS**: there is no bankruptcy estate, court-run trustee or long lock paying out KuCoin Token.
 
 ## Buy pressure: where new KCS goes
 
-The programmatic buyback is **0 KCS** this window, and this is the real change in the KCS story. KuCoin's stated rule is to spend part of its profit buying KCS on the open market and burning it, until supply falls from 200M to 100M. Through 2025 it burned every month; in the second half of the year each burn was between about 20K and 84K KCS. The last burn was **20,240 KCS** on Dec 31 2025. Since then there has been no burn notice and no burn on the chain: the burn address still holds **26.78M KCS** and gained only dust (0.018 KCS) in the window. Total supply has sat at **142.16M KCS** all year.
+The programmatic buyback is **0 KCS** for this window. For years KuCoin bought KCS back with part of its profit and destroyed it every month; the 66th burn, of **20,240 KCS**, landed on Dec 31 2025. Since then the burn address has gained only **0.46 KCS** of dust, just 0.018 of it in these 90 days, and KuCoin has published no burn notice in 2026. With no burn for more than nine months and no new schedule, we project nothing for the next 90 days either.
 
-The protocol fee burn is **0**: gas on KuCoin Community Chain goes to validators and none of it is destroyed. Foundation buying is **0**, with no announcement or on-chain flow showing any treasury buying KCS. A new long-term lock is **0** as well. KCS can be staked on the exchange and with chain validators, and the validator contract holds about 55.4M KCS, but staked KCS still counts as circulating, so staking takes nothing out of the float.
+The protocol fee burn is **0 KCS**: gas paid on KuCoin Community Chain goes to validators, and no share of a fee is destroyed. Foundation buying is **0 KCS**: no KuCoin or Foundation purchase showed up on-chain or in announcements. New long-term locks are **0 KCS**: about **55.4M KCS** is staked with chain validators and more is staked on the exchange for its fee bonus, but staked KCS still counts as circulating, so it takes nothing out of the float.
 
 ## Foundation and overhang
 
-The locked overhang is small and nearly finished: **2.5M KCS**, which is total supply of 142.16M minus circulating supply of 139.66M. It is the last quarterly slice of the 2022 plan, due on Jan 1 2027. Two wallets filled on Mar 31 2022 hold 1.6M and 0.9M KCS, together exactly that amount, and neither has moved.
+The KuCoin Token overhang is large, and it sits in a handful of wallets that barely move. The biggest is the 2022 lock wallet with **47.5M KCS**, untouched since Mar 31 2022; only 2.5M of it is still counted as locked, so about 45M is already in the circulating figure without ever having been sold. Next is the holder and contributor reward pool with **19.9M KCS**, untouched since 2024, then an early KuCoin wallet with **12.48M KCS**, untouched since Mar 2025, and two wallets that took the first slice in 2022 with **1.6M** and **0.9M KCS**, which have never moved. The burn address holds the **26.78M KCS** destroyed on this chain so far.
 
-Much bigger KCS wallets sit on the chain, but they are already inside the circulating count. One holds **47.5M KCS** and has not moved since Mar 31 2022; two others hold 19.9M and 12.48M and were also still this window. Each is many times larger than the 2.5M still locked, so a sale from them would be a move inside the float, not new supply. We read these wallets, and the burn address, on the chain at every rebuild. If the locked balance falls before Jan 1 2027, or the burn address balance ever falls, the outflow enters the sell side at the next rebuild.
+We read all of these balances from the chain at every rebuild. If any of them falls between refreshes, the outflow enters Sell #3 at the next refresh, and a move from the lock wallet would be the single biggest supply event KCS could have.
 
 ## How KCS compares to other exchange tokens
 
-Exchange tokens usually earn their place with a burn that runs on a fixed rule. Some burn every quarter by a published rule until they reach a target supply; others burned a large block once and then fixed their supply for good. KCS was built on the same idea, a profit-funded buyback-and-burn with a 100M target, and through 2025 it ran on a monthly rhythm. In 2026 that rhythm stopped, while the release side kept going. That makes KCS, for now, an exchange token whose supply only grows.
+Exchange tokens usually earn their supply story from a buyback or burn funded by exchange profit. KCS ran exactly that model for years, with a stated goal of shrinking from 200M to 100M KCS, and about 57.8M has been destroyed so far. What sets KCS apart in October 2026 is that the burn has gone silent. Tokens whose exchanges still burn on a fixed schedule shrink every quarter; KCS today neither shrinks nor grows.
 
-The other difference is the release plan. Many exchange tokens have no locked insider supply left; KCS still freed **2.5M KCS** a quarter in 2026, about 1.8% of the float each time. That ends on Jan 1 2027. From then on, with no block reward and nothing locked, KCS supply can only stay flat or shrink, depending on whether the burn comes back.
+The second difference is the lock. Many exchange tokens launched with a large team share that has long since been spent or burned. KCS still has a single wallet holding about a third of its circulating supply, untouched since 2022. Compared with chain tokens that pay validators in newly minted coins, KCS has no issuance at all: validator pay comes out of KuCoin's own holdings, so the chain itself never dilutes holders.
 
-Compared with chains that pay validators in new coins, KCS has no protocol inflation at all; its growth comes only from a dated, finite schedule. That is easier to plan around than open-ended issuance, but it is still real supply reaching the market each quarter.
+So KCS sits between the two usual shapes: no new supply like a capped coin, no burn like an uncapped one, and a concentrated overhang that decides which way it goes next.
 
 ## What to watch in the next 90 days
 
-Jan 1 2027: the final **2.5M KCS** slice of the 2022 plan should unlock. After it, total and circulating supply should match.
+Around Jan 1 2027 the last 2.5M KCS slice of the 2022 lock plan is due to be counted as unlocked, which would take the locked figure to zero; it books 0 unless coins actually leave the lock wallet.
 
-Any new burn notice from KuCoin, or any rise in the burn address balance above 26.78M KCS. A restart of the monthly burn at its 2025 pace would cut the next-90-day figure by roughly 0.05 to 0.2 points.
+Any monthly or quarterly KCS burn notice from KuCoin would restart the buyback, and the first one would land in Buy #1.
 
-Any change to KuCoin's stated burn rule or to KCS's supply plan, now that the release schedule is ending.
+Any outflow from the 47.5M KCS lock wallet, the 19.9M KCS reward pool or the 12.48M KCS early wallet would be new sell pressure on the next refresh.
 
-The large on-chain wallets (47.5M, 19.9M and 12.48M KCS). They sit inside the float, but a sudden move would be worth reading.
+KuCoin's access block in South Korea from Oct 13 2026 does not change supply, but it is the kind of news that can change how much of the float holders want to keep.
 
 ## Summary
 
-KuCoin Token (KCS) supply grew **+1.79%** over the last 90 days and is projected to grow **+1.79%** over the next 90, because a 2022 plan releases **2.5M KCS** a quarter and KuCoin's buyback-and-burn has not run since Dec 31 2025. The chain itself mints nothing. The key risk is that the burn stays off; the key limit is that only **2.5M KCS** is left to unlock, on Jan 1 2027, after which supply growth ends.
+KuCoin Token is flat on supply: **0.00%** over the last 90 days and **0.00%** projected for the next 90, against a monitor reading of **+1.92%** that comes from counting a locked slice as unlocked, not from coins moving. KuCoin Community Chain mints nothing, and the monthly buyback and burn has been silent since Dec 31 2025. The key risk is the 2022 lock wallet with **47.5M KCS**, most of it already counted as circulating, which could reach the market at any time. The ceiling is the 142.16M KCS in existence, well under the 200M ever created.
 
 ---
 
-*MrNasdog Pressure Framework analysis of KCS, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 4 2026.*
+*MrNasdog Pressure Framework analysis of KCS, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.*

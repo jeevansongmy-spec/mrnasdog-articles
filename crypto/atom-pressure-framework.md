@@ -1,6 +1,6 @@
 ---
 title: "ATOM Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description: "Supply growing, projected to keep growing: ATOM reads +3.04% over 90 days. Cosmos Hub minted 16.24M ATOM at a real 12.7% rate and burned only 2.02K by slashing."
+description: "Supply growing, projected to keep growing: ATOM reads +3.04% over 90 days. Cosmos Hub minted 16.33M ATOM at a real 12.7% rate and burned only 1.95K by slashing."
 canonical_url: "https://mrnasdog.com/research/atom/inflation"
 tags: ["crypto", "atom", "cosmos", "staking"]
 published: true
@@ -12,62 +12,60 @@ This is the long supply read. For the signal, the price drivers and the question
 
 # ATOM Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
-**ATOM supply is growing fast, and it should keep growing.** In the 90 days to Oct 4 2026 the Cosmos Hub minted **16.24M ATOM** for stakers, while slashing destroyed only **2,021 ATOM**, so net supply rose **+3.04%**; the next 90 days project **+3.17%**. ATOM has no supply cap and no fee burn, and its staking reward runs at the 10% ceiling — closer to **12.7%** a year in practice, because Cosmos Hub blocks arrive faster than the mint rule assumes.
+ATOM is inflationary by design. In the 90 days to Oct 15 2026 the Cosmos Hub minted **16.33M ATOM** for stakers while only **1,950 ATOM** was destroyed, so supply grew a net **+3.04%**, and the next 90 days point to **+3.18%**. The mint rate is stuck at its **10%** ceiling because staking sits below its goal, and fast blocks push the real yearly rate to about **12.7%**. ATOM has no supply cap, no buyback and no fee burn.
 
 ## The verdict, in one paragraph
 
-Our ledger reads **+3.04%** net new ATOM over the last 90 days and **+3.17%** for the next 90. The inflation monitor, which tracks the circulating figure the market reads, shows **+2.99%** for the same stretch. The gap is **−0.05 percentage points**, well inside our 0.5-point tolerance, so no warning chip is shown and no deep walk was needed: two independent reads of ATOM supply agree. ATOM is **a high-issuance staking chain with almost no sink** — new coins flow to stakers every block, and close to nothing leaves.
+Our 90-day reading for ATOM is **+3.04%**: **16.33M ATOM** of new staking rewards against **1,950 ATOM** of slashing burns, measured on **536.26M** circulating ATOM. The inflation monitor reads **+3.32%** for its own 90 days, a gap of **0.28 percentage points**. That is inside our 0.5-point tolerance, so no warning chip is shown and the two readings agree. Looking forward, the Cosmos Hub adds about **17.04M ATOM** in the next 90 days if blocks keep their normal pace, a net **+3.18%**. The plain label: the Cosmos Hub is a high-emission staking chain where almost all of the new ATOM goes straight to stakers and nothing takes it back out.
 
 ## Sell pressure: where new ATOM comes from
 
-**Protocol inflation is the whole story: 16.24M ATOM in 90 days.** The Cosmos Hub mint module pays new ATOM to stakers in every block. Its yearly rate moves between 7% and 10% depending on how much ATOM is staked against a 67% goal. Only **63.3%** is staked today (338.39M ATOM), so the rate is pinned at its **10%** maximum, and it stayed there at every check through the window. We read the supply at both ends — 517.94M ATOM on Jul 6 2026 and 534.18M ATOM on Oct 4 2026 — and added back the coins that were burned, which gives **16,244,654 new ATOM**, about 180,500 a day. Of each block reward, 2% goes to the community pool and the rest to validators and their delegators.
+Protocol inflation is the whole story: **16.33M ATOM** in 90 days. The Cosmos Hub mints ATOM in every block. Its rule aims for **67%** of all ATOM to be staked; when staking is lower, the rate climbs until it hits the **10%** ceiling, and today only **63.1%** is staked (**338.17M ATOM**), so the rate has sat at the ceiling for the whole window. The rule also assumes a block every 7.2 seconds, but Cosmos Hub blocks arrive about every **5.7 seconds**. Each block pays a fixed slice of the yearly amount, so more blocks mean more new ATOM, and the real rate is close to **12.7%** a year. A one-day chain halt on Sep 22 and Sep 23 2026 skipped about a day of blocks; with normal block speed the next 90 days mint about **17.04M ATOM**.
 
-**Why ATOM issuance runs above the headline 10%.** The rate is split per block, on the assumption of 4.36M blocks a year — one every 7.23 seconds. Cosmos Hub blocks actually arrive about every **5.71 seconds**, roughly 5.5M blocks a year, and nothing in the rule corrects for it. So each block pays its full share more often, and real issuance comes to about **12.7%** a year before compounding. The window also held a **25-hour halt**, from Sep 22 to Sep 23 2026, when validators stopped the chain after the Neutron governance attack; no ATOM was minted while it was down. Our next-90-day figure of **16.95M ATOM** uses today's larger supply and today's block pace, and does not assume another halt.
+Vesting unlocks are **0**. The 2017 fundraiser and the genesis allocations were released years ago, unlock trackers show the Cosmos Hub as fully unlocked, and circulating supply is within 5K ATOM of total supply.
 
-**Vesting unlocks: zero.** The 2017 fundraiser and the genesis allocations finished unlocking years ago, unlock trackers list the Cosmos Hub as fully unlocked, and circulating supply sits within about 10.6K ATOM of total supply. There is no locked pile left to open.
+Foundation and unscheduled unlocks are **0**. The community pool, the Interchain Foundation and the parked fee pot all hold ATOM that is already counted as circulating, so when they spend or sell, coins change hands and no new supply appears. The same goes for the 1.23M ATOM recovered after the September attack on Neutron, which went back to Neutron on Oct 14 2026.
 
-**Foundation and unscheduled unlocks: zero.** The large ATOM holders we track — the community pool, the Interchain Foundation, a recovery multisig and the fee account — are all already counted as circulating. If they move or sell, coins change hands, but no new ATOM enters the market.
-
-**Long-term locks or bankruptcy: zero.** No court estate or trustee pays out ATOM, and staked ATOM unbonds in 21 days, so staking never acts as a long lock.
+Long-term locked or bankruptcy supply is **0**. No estate or trustee is paying out ATOM. On Sep 30 2026 Cosmos Hub voters rejected a proposal to pay 1.72M ATOM from the community pool to the Neutron attacker, so nothing moved.
 
 ## Buy pressure: where new ATOM goes
 
-**Programmatic buyback: zero.** No contract or treasury buys ATOM back. A tokenomics review run for the Hub has delivered its second-phase recommendations, but they are still in review, with no vote and no date.
+The only thing that removes ATOM is slashing: **1,950 ATOM** in 90 days. When a validator stays offline too long, a small part of its stake is destroyed. Most of the burns came in bursts around network events, on Sep 3 2026 after an upgrade, on Sep 22 around the halt, and on Oct 3 and Oct 10 2026. Five burns from late July could not be read and are left out. Because bursts came every month, we expect about the same in the next 90 days. Next to the mint, slashing offsets about **0.01%** of new supply.
 
-**Protocol fee burn: zero.** Unlike Ethereum's base-fee burn, Cosmos Hub fees are not destroyed. Base fees gather in a fee account that holds **61.05K ATOM**, and its balance kept rising between two reads minutes apart. Those coins stay in circulation.
+There is no programmatic buyback (**0**). Nothing on the Cosmos Hub uses fees or treasury money to buy ATOM, and the long-running review of ATOM's economics has no vote or date yet.
 
-**Foundation buy: zero.** Nothing shows the Interchain Foundation or the community pool buying ATOM in the window.
+The protocol fee burn is **0**. Cosmos Hub base fees are not destroyed. They pile up in a protocol pot that held **61.6K ATOM** on Oct 15 2026 and keeps growing, so the coins still exist.
 
-**New long-term lock: zero.** Staking is real and slashable, but staked ATOM still counts as circulating, so a larger stake removes nothing from the float. It only keeps the mint rate where it is.
-
-**Slashing burn: 2,021 ATOM.** This is the one place ATOM is destroyed. When a validator misses too many blocks, a small slice of its stake is burned. It happened in bursts on about Jul 9, Aug 6, Sep 3, Sep 9 and Sep 22 2026, and the burn events at those blocks match the drop in supply to the cent. That is about **8,000 times smaller** than the new issuance. Spam governance proposals were vetoed in the window too, but none reached quorum, so their deposits were returned rather than burned.
+Foundation buying is **0**, and new long-term locks are **0**. Staking is a real lock with a 21-day exit, but staked ATOM still counts as circulating, so a bigger stake takes nothing out of the float. It only changes how the mint is shared.
 
 ## Foundation and overhang
 
-Four large ATOM piles sit under group control, and every one is already inside the circulating count. The **community pool** holds **11.40M ATOM** and grows from the 2% tax on rewards; it can only be spent by a passed governance vote, and we read it from the chain at each rebuild. The **Interchain Foundation** reported **14.93M ATOM** at Jun 30 2026 in its monthly treasury snapshot, the last one published; it names no wallets, so we follow its reports. A **recovery multisig** holds **1.23M ATOM** that the Hub took back from the Neutron attacker when it restarted on Sep 23 2026; a proposal to send it back to Neutron users is being drafted. The **fee account** holds **61.05K ATOM**. If any of these balances falls between our checks, we look at where the coins went and, if they reached the market from outside the float, they enter Sell #3 at the next refresh.
+We track three team-controlled balances. The Cosmos Hub community pool holds **11.44M ATOM**; it can only spend through a passing governance vote, and we read it on-chain at every rebuild. In September it took back 555,400 ATOM that an older ecosystem program had held since 2023. The Interchain Foundation reported **14.93M ATOM** in its last treasury snapshot, dated Jun 30 2026; it publishes no wallet, so we follow its reports by hand, and its staff said on Oct 15 2026 that it has stopped selling ATOM this year. The protocol fee pot holds **61.6K ATOM**. The Neutron recovery wallet is now empty after it sent its 1.23M ATOM back to Neutron.
+
+All of these balances are already inside the circulating figure, so none of them can add new supply when it moves. If any of these balances falls between our checks, the outflow goes into Sell #3 at the next rebuild.
 
 ## How ATOM compares to other proof-of-stake Layer 1s
 
-Most large proof-of-stake chains pair issuance with some kind of sink. Ethereum burns its base fee, which offsets part of validator pay; Solana's yearly rate steps down a little each year toward a floor. ATOM has neither: no fee burn, no scheduled step-down, and a mint rate that rises to its 10% ceiling whenever less than 67% of supply is staked — which has been the case through this whole window. Its only removal, slashing, is a penalty rather than a design feature.
+Most large proof-of-stake chains pay validators in new coins, but they differ in two ways: how the rate is set and whether anything is destroyed. Ethereum ties issuance to the square root of the stake and burns the base fee of every transaction, so busy weeks cancel part of the new ETH. Solana follows a fixed schedule that lowers its rate a little every year toward a long-term floor and also burns part of its fees. ATOM has neither feature: its rate depends on how much ATOM is staked, it is capped at **10%** on paper, and nothing burns its fees.
 
-The other difference is mechanical. Chains that pay rewards by time, or that rescale when block times change, issue what their headline rate says. ATOM pays per block against a fixed 4.36M-blocks-a-year assumption, so faster blocks quietly raise issuance — here by about a quarter, from 10% to roughly 12.7%. Compared with capped, halving-based coins like Bitcoin, ATOM is at the opposite end: uncapped, continuous, and adding about 3% to supply every quarter.
+The Cosmos Hub also has a quirk the others do not: its rule counts blocks, not time. Ethereum and Solana pay per unit of time, so faster blocks do not raise issuance. On the Cosmos Hub faster blocks mean more payouts, which is why the real rate sits near **12.7%** instead of 10%. Against capped coins such as Bitcoin, ATOM has no hard limit at all.
+
+The trade-off is clear. The high mint pays stakers a strong yield, but holders who do not stake are diluted by about 3% every 90 days, and the coins paid out to stakers are free to be sold.
 
 ## What to watch in the next 90 days
 
-**Tokenomics Phase 2.** The Hub's tokenomics review has handed in its recommendations, and a wrap-up post with the full report and a timeline is promised next. Any vote that lowers the 10% ceiling or adds a burn would change this ledger.
+First, the economics review. A wrap-up with recommendations for Cosmos Hub governance is being prepared, with no numbers and no dates as of Oct 15 2026; any vote that lowers the 10% ceiling or fixes the block count would cut Sell #1 directly.
 
-**The staked share.** At **63.3%** staked, the mint stays at its maximum. Only a climb above 67% would let the rate drift down toward 7%.
+Second, the staked share. If staking rises above **67%** of supply from today's 63.1%, the rate starts to fall from its ceiling; until then it stays at 10%.
 
-**Block pace.** If Cosmos Hub blocks speed up or slow down, issuance follows, because the mint rule does not adjust for it.
+Third, the next software upgrade. Gaia v29 is on the test network and changes no mint setting, but past upgrades brought slashing bursts, which add to the small Buy #5 row.
 
-**The 1.23M ATOM recovery vote.** A Hub proposal to send the recovered coins back to Neutron users is being drafted. The coins are already circulating, so this moves no supply, but it decides who can sell them.
-
-**Community pool spending.** The pool holds 11.40M ATOM; large spending proposals put more ATOM in active hands even though the coins already count as circulating.
+Fourth, community pool spends and the Interchain Foundation's next treasury report. Neither adds supply, but they show whether large holders are selling into the market.
 
 ## Summary
 
-ATOM is inflationary by design: the Cosmos Hub minted **16.24M ATOM** in 90 days against a **2,021 ATOM** slashing burn, a net **+3.04%**, with **+3.17%** projected for the next 90 days. The mint rate is pinned at its 10% ceiling because less than 67% of ATOM is staked, and faster-than-assumed blocks lift real issuance to about 12.7% a year. There is no supply cap, no fee burn and no buyback, so the key risk is steady dilution for anyone who does not stake. Only a governance change to the mint rules, or a much higher staked share, would slow it.
+ATOM supply is growing and is projected to keep growing: **+3.04%** in the last 90 days and **+3.18%** in the next, from **16.33M ATOM** of new staking rewards against only **1,950 ATOM** of slashing burns. The Cosmos Hub mint sits at its 10% ceiling and runs nearer **12.7%** a year because blocks come faster than the rule expects. There is no cap, no buyback and no fee burn, so the only real brake is a governance vote, and none is scheduled yet.
 
 ---
 
-*MrNasdog Pressure Framework analysis of ATOM, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 4 2026.*
+*MrNasdog Pressure Framework analysis of ATOM, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.*

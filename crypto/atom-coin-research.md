@@ -8,13 +8,13 @@ published:     true
 ---
 # Is Cosmos Hub (ATOM) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/atom (checked Oct 14 2026)*
+*Originally published at https://mrnasdog.com/research/atom (checked Oct 15 2026)*
 
-**negative** — that is Cosmos Hub's long-run signal by supply and demand as of Oct 14 2026, with a score of 3.5/10.
+**negative** — that is Cosmos Hub's long-run signal by supply and demand as of Oct 15 2026, with a score of 3.5/10.
 
-- **Long-run signal:** negative (Oct 14 2026)
+- **Long-run signal:** negative (Oct 15 2026)
 - **Score:** 3.5/10 — supply 1/5, demand 2.5/5
-- **New supply:** +3.17% in 90 days · +13.52% in a year
+- **New supply:** +3.18% in 90 days · +13.52% in a year
 - **Demand:** modest (2.5/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
@@ -24,7 +24,7 @@ published:     true
 
 ### ▼ Hacks and halts
 
-Two big exploits since Aug 20; Hub froze 1.23M stolen ATOM.
+Two big exploits since Aug 20; frozen ATOM now sent to Neutron.
 
 No new hacks or halts → price up · More hacks, more halts → price down. Today: the price-down case.
 
@@ -35,9 +35,10 @@ No new hacks or halts → price up · More hacks, more halts → price down. Tod
 | Sep 22 2026 | Neutron hack, Hub halts |
 | Sep 23 2026 | 1.23M ATOM frozen |
 | Sep 30 2026 | Refund demand rejected |
-| Oct 12 2026 | Vote: send ATOM back (coming) |
+| Oct 12 2026 | Vote passes: ATOM back |
+| Oct 14 2026 | ATOM sent to Neutron |
 
-*Checked Oct 10 2026*
+*Checked Oct 15 2026*
 
 ### ▲ Hub value votes
 
@@ -52,13 +53,13 @@ Voters rejected the Osmosis merger, then paid for a Paxos listing.
 | Apr 16 2026 | Osmosis merger rejected |
 | Sep 17 2026 | Paxos listing passes |
 
-*Checked Oct 10 2026*
+*Checked Oct 15 2026*
 
 ## How fast Cosmos Hub supply grows
 
-The Cosmos Hub pays stakers new ATOM every block at its 10% ceiling, nearer 12.7% a year on fast blocks. Only slashing burns any: supply up 3.04% in 90 days, about 3.17% next.
+The Cosmos Hub pays stakers new ATOM every block at its 10% ceiling, nearer 12.7% a year on fast blocks. Only slashing burns any: supply up 3.04% in 90 days, about 3.18% next.
 
-New ATOM: +3.17% in 90 days, +13.52% in a year. Supply score 1/5, "very heavy" (place 24 of 101).
+New ATOM: +3.18% in 90 days, +13.52% in a year. Supply score 1/5, "very heavy" (place 23 of 101).
 
 ## Demand today
 
@@ -70,31 +71,31 @@ Members get the rest of the Cosmos Hub demand read on mrnasdog.com.
 
 ### Is it a good time to buy Cosmos Hub today?
 
-Based on the law of supply and demand, the long-run signal for Cosmos Hub is negative. As of Oct 14 2026, score 3.5/10, Cosmos Hub faces +3.17% new supply over 90 days, with demand modest (2.5/5). Cosmos Hub's price drivers: 1 ▲ price up, 1 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Cosmos Hub is negative. As of Oct 15 2026, score 3.5/10, Cosmos Hub faces +3.18% new supply over 90 days, with demand modest (2.5/5). Cosmos Hub's price drivers: 1 ▲ price up, 1 ▼ price down.
 
-### What happened to Cosmos Hub and ATOM this year?
+### What is the latest Cosmos Hub news for ATOM?
 
-Two big exploits hit Cosmos Hub since Aug 20, and the Hub froze 1.23M stolen ATOM. A vote on sending that ATOM back is set for Oct 12 2026. On top of that, new supply is very heavy: +3.17% in 90 days and +13.52% in a year. Our supply-and-demand read for Cosmos Hub stays negative.
+Mostly security news. Two big exploits hit since Aug 20, and the frozen ATOM has now been sent to Neutron. Voters also rejected the Osmosis merger, then paid for a Paxos listing. Meanwhile ATOM supply grows 3.17% in 90 days. Our supply-and-demand read for Cosmos Hub stays negative.
 
 ### Is it time to take profit on Cosmos Hub?
 
-Today the signal is negative. Supply and demand would point the other way for Cosmos Hub if new supply keeps arriving (+3.17% in 90 days), or demand falls from modest, or Hacks and halts keeps pointing down. Next date to watch for Cosmos Hub: Oct 12 2026 — Vote: send ATOM back.
+Today the signal is negative. Supply and demand would point the other way for Cosmos Hub if new supply keeps arriving (+3.18% in 90 days), or demand falls from modest, or Hacks and halts keeps pointing down.
 
 ### Is Cosmos Hub a good investment right now?
 
-On our framework Cosmos Hub scores 3.5/10 (Oct 14 2026), with supply 1/5 (very heavy) and demand 2.5/5. In the next year Cosmos Hub's supply changes +13.52%, so the long-run signal reads negative.
+On our framework Cosmos Hub scores 3.5/10 (Oct 15 2026), with supply 1/5 (very heavy) and demand 2.5/5. In the next year Cosmos Hub's supply changes +13.52%, so the long-run signal reads negative.
 
 ### What is the best time to invest in Cosmos Hub?
 
-The law of supply and demand points to one window for Cosmos Hub: low new supply, high demand, drivers pointing up. Where Cosmos Hub stands today: +3.17% new supply in 90 days (very heavy), demand modest (2.5/5), drivers 1 ▲ / 1 ▼.
+The law of supply and demand points to one window for Cosmos Hub: low new supply, high demand, drivers pointing up. Where Cosmos Hub stands today: +3.18% new supply in 90 days (very heavy), demand modest (2.5/5), drivers 1 ▲ / 1 ▼.
 
 ### Will Cosmos Hub go up? What could move its price?
 
-Cosmos Hub has 2 price drivers today (1 ▲ price up, 1 ▼ price down). ▼ Hacks and halts: Two big exploits since Aug 20; Hub froze 1.23M stolen ATOM. ▲ Hub value votes: Voters rejected the Osmosis merger, then paid for a Paxos listing.
+Cosmos Hub has 2 price drivers today (1 ▲ price up, 1 ▼ price down). ▼ Hacks and halts: Two big exploits since Aug 20; frozen ATOM now sent to Neutron. ▲ Hub value votes: Voters rejected the Osmosis merger, then paid for a Paxos listing.
 
 ### Should I buy Cosmos Hub or Bitcoin?
 
-Cosmos Hub reads negative at 3.5/10; Bitcoin reads positive at 8.5/10 (Oct 14 2026). On supply and demand, Cosmos Hub looks weaker than Bitcoin today.
+Cosmos Hub reads negative at 3.5/10; Bitcoin reads positive at 8.5/10 (Oct 15 2026). On supply and demand, Cosmos Hub looks weaker than Bitcoin today.
 
 ## Where to read the rest of ATOM
 
