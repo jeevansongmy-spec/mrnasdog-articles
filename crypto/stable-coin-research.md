@@ -1,6 +1,6 @@
 ---
 title:         "Stable — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "By the law of supply and demand, Stable's long-run signal is negative (Oct 14 2026, score 5/10). New supply: 0.00% in the next 90 days. Demand: very low (0.5/5). Stable's price drivers: 0 ▲ price up, 1 ▼ price down."
+description:   "By the law of supply and demand, Stable's long-run signal is negative (Oct 16 2026, score 5/10). New supply: 0.00% in the next 90 days. Demand: very low (0.5/5). Stable's price drivers: 0 ▲ price up, 1 ▼ price down."
 canonical_url: "https://mrnasdog.com/research/stable"
 content_type:  "coin_hub"
 tags:          ["crypto", "stable", "stable", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Stable — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
 
-*From https://mrnasdog.com/research/stable, updated Oct 14 2026*
+*From https://mrnasdog.com/research/stable, updated Oct 16 2026*
 
-**negative** — that is Stable's long-run signal by supply and demand as of Oct 14 2026, with a score of 5/10.
+**negative** — that is Stable's long-run signal by supply and demand as of Oct 16 2026, with a score of 5/10.
 
 - **Signal:** negative for Stable
 - **Score:** 5/10 — supply 4.5/5, demand 0.5/5
@@ -22,11 +22,11 @@ published:     true
 
 ### Is it time to buy the Stable dip?
 
-By the law of supply and demand, Stable's long-run signal is negative (Oct 14 2026, score 5/10). New supply: 0.00% in the next 90 days. Demand: very low (0.5/5). Stable's price drivers: 0 ▲ price up, 1 ▼ price down.
+By the law of supply and demand, Stable's long-run signal is negative (Oct 16 2026, score 5/10). New supply: 0.00% in the next 90 days. Demand: very low (0.5/5). Stable's price drivers: 0 ▲ price up, 1 ▼ price down.
 
-### How much money actually sits on the Stable chain?
+### Is the Stable chain token ahead of what the chain is used for?
 
-About $25M in stablecoins, as of Oct 10 2026. That is under 1% of the dollars on payment chains, far below rival chains. Demand for Stable reads very low at 0.5/5, and this thin use is probably the main reason. Supply and demand still read negative for Stable in the long run.
+It looks that way. Stable's market cap was about $714M on Oct 16 2026, while stablecoins on the chain stay near $25M, under 1% of the dollars on payment chains. And only about 27.3B of the 100B tokens are in the market so far. Our supply-and-demand read for Stable stays negative.
 
 ### When should I sell Stable?
 
@@ -34,7 +34,7 @@ Stable's signal is negative for now. Stable's signal would turn if new supply ju
 
 ### Is Stable a good investment in 2026?
 
-Stable sits at 5/10 today (Oct 14 2026): supply 4.5/5, demand 0.5/5. One more year adds 0.00% to Stable's supply. Long-run signal: negative.
+Stable sits at 5/10 today (Oct 16 2026): supply 4.5/5, demand 0.5/5. One more year adds 0.00% to Stable's supply. Long-run signal: negative.
 
 ### When is a good time to buy Stable?
 
@@ -46,17 +46,17 @@ Right now 2 things drive Stable's price (0 ▲, 1 ▼). • Dollars on Stable: S
 
 ### Should I buy Stable or Bitcoin?
 
-Side by side on Oct 14 2026: Stable at 5/10 with a negative signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Stable is the weaker of the two.
+Side by side on Oct 16 2026: Stable at 5/10 with a negative signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Stable is the weaker of the two.
 
 ## New STABLE hitting the market
 
-All 100B STABLE are already minted and nothing unlocks before Dec 8 2027, so supply is flat; the big release runs from late 2027 to 2029.
+All 100B STABLE already exist, the token cannot mint or burn, and a new lock keeps 82B coins shut until Dec 8 2027, so supply is flat; the release runs from late 2027 to 2029.
 
-Stable adds 0.00% new supply in the next 90 days and 0.00% over a year — supply scores 4.5/5 (flat) (place 94 of 101).
+Stable adds 0.00% new supply in the next 90 days and 0.00% over a year — supply scores 4.5/5 (flat) (place 92 of 101).
 
 ## Who wants Stable right now
 
-Demand reads **very low** (0.5/5), #100 of 110 coins we track — that is how much people want STABLE now and how much buying could still come.
+Demand reads **very low** (0.5/5), #99 of 110 coins we track — that is how much people want STABLE now and how much buying could still come.
 
 A deeper STABLE demand breakdown is on the page for members.
 
@@ -75,9 +75,9 @@ Good for the price: More dollars on Stable. Bad for it: Dollars leave Stable.
 | Jul 31 2026 | $26.1M |
 | Aug 31 2026 | $23.8M |
 | Sep 30 2026 | $25M |
-| Oct 10 2026 | $25M |
+| Oct 16 2026 | $24.3M |
 
-*Checked Oct 10 2026*
+*Checked Oct 16 2026*
 
 ### ▼ Rival chains
 
@@ -88,9 +88,9 @@ Stable gains share → price up · Rivals take the dollars → price down. Right
 | When | Who holds what |
 |---|---|
 | Mar 2026 | Stable 1.6% · Plasma 98.4% |
-| Oct 2026 | Stable 0.9% · Plasma 52.1% · Tempo 27.5% · Arc 19.5% |
+| Oct 2026 | Stable 0.9% · Plasma 50.5% · Tempo 26% · Arc 22.6% |
 
-*Checked Oct 10 2026*
+*Checked Oct 16 2026*
 
 ## Read more on STABLE
 

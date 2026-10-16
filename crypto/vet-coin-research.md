@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy VeChain (VET)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Supply and demand give VeChain (VET) a positive long-run signal today (Oct 14 2026); its score is 7/10."
+description:   "Supply and demand give VeChain (VET) a positive long-run signal today (Oct 16 2026); its score is 7/10."
 canonical_url: "https://mrnasdog.com/research/vet"
 content_type:  "coin_hub"
 tags:          ["crypto", "vet", "vechain", "should-i-buy"]
@@ -8,11 +8,11 @@ published:     true
 ---
 # Should You Buy VeChain (VET)? Supply, Demand and Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/vet (checked Oct 14 2026)*
+*Originally published at https://mrnasdog.com/research/vet (checked Oct 16 2026)*
 
-Supply and demand give VeChain (VET) a **positive** long-run signal today (Oct 14 2026); its score is 7/10.
+Supply and demand give VeChain (VET) a **positive** long-run signal today (Oct 16 2026); its score is 7/10.
 
-- **Signal today:** positive (Oct 14 2026)
+- **Signal today:** positive (Oct 16 2026)
 - **MrNasdog score:** 7/10 — supply 4.5/5, demand 2.5/5
 - **New coins:** 0.00% in 90 days · 0.00% in a year
 - **Demand:** modest (2.5/5)
@@ -20,9 +20,9 @@ Supply and demand give VeChain (VET) a **positive** long-run signal today (Oct 1
 
 ## Where new VeChain comes from
 
-VeChain's VET has a fixed supply: rewards and fees run on VTHO, so 0 VET was added or burned in 90 days (0.00%).
+VeChain pays stakers and burns fees in its second coin, VTHO, so no VET is ever added or removed. Supply held flat at 0.00% in 90 days, and the same next.
 
-New VET: 0.00% in 90 days, 0.00% in a year. Supply score 4.5/5, "flat" (place 96 of 101).
+New VET: 0.00% in 90 days, 0.00% in a year. Supply score 4.5/5, "flat" (place 94 of 101).
 
 ## Big wallets, votes and dates behind VET
 
@@ -39,9 +39,9 @@ Staked VET nearly doubled since Dec 2025; last 90 days grew slowly
 | Jul 31 2026 | 14.1 B VET |
 | Aug 31 2026 | 14.1 B VET |
 | Sep 30 2026 | 14.3 B VET |
-| Oct 10 2026 | 14.4 B VET |
+| Oct 16 2026 | 14.4 B VET |
 
-*Checked Oct 10 2026*
+*Checked Oct 16 2026*
 
 ### ▲ Network upgrades
 
@@ -57,11 +57,11 @@ Good for the price: Upgrades ship smoothly. Bad for it: Delays or bugs. Today: t
 | Sep 16 2026 | Interstellar EVM upgrade |
 | No date yet | Next: Ethereum tx match (coming) |
 
-*Checked Oct 10 2026*
+*Checked Oct 16 2026*
 
 ## Demand today
 
-VeChain demand: 2.5/5 (**modest**), place #47 among 110 coins — interest today plus the buying that could come later.
+VeChain demand: 2.5/5 (**modest**), place #46 among 110 coins — interest today plus the buying that could come later.
 
 Extra VeChain demand detail for members stays on the live page.
 
@@ -69,19 +69,15 @@ Extra VeChain demand detail for members stays on the live page.
 
 ### Is it time to buy the VeChain dip?
 
-Supply and demand point to a positive long-run signal for VeChain (Oct 14 2026, score 7/10). VeChain adds 0.00% new supply in 90 days, and demand reads modest (2.5/5). VeChain's price drivers: 2 ▲ price up, 0 ▼ price down.
+Supply and demand point to a positive long-run signal for VeChain (Oct 16 2026, score 7/10). VeChain adds 0.00% new supply in 90 days, and demand reads modest (2.5/5). VeChain's price drivers: 2 ▲ price up, 0 ▼ price down.
 
-### Is VeChain still alive after the Interstellar upgrade?
+### Why is VeChain so low, under one cent a coin?
 
-Yes, and it scores 7/10 on Oct 10 2026. Interstellar went live on Sep 16 2026, and staked VET has nearly doubled since Dec 2025, though it grew slowly in the last 90 days. New supply is flat, 0.00% in 90 days. Supply and demand still read positive for VeChain in the long run.
-
-### VeChain vs Hedera: which one has the better setup?
-
-VeChain does on supply and demand: 7/10 against Hedera's 4.5/10 on Oct 10 2026. VeChain adds 0.00% new supply over the next year, while Hedera adds +2.71%. Demand is close, 2.5/5 vs 2/5. Hedera is about 6 times bigger, $4.59B vs $0.75B. By supply and demand, VeChain's long-run signal is positive today.
+Mostly because there are so many coins: about 86B VET are in the market, so even a $592M market cap means about 0.69 cents a coin (Oct 16 2026). Supply barely grows, so the low price says more about the coin count than about weakness. Our supply-and-demand read for VeChain stays positive.
 
 ### Could VeChain ever hit $1?
 
-VeChain trades near 0.875 cents (Oct 14 2026). $1 a coin means a $86B market cap, 114 times today's $752M. VeChain's supply barely changes in the next year (0.00%), so the whole move would have to come from demand. Supply and demand still read positive for VeChain in the long run.
+VeChain trades near 0.686 cents (Oct 16 2026). $1 a coin means a $86B market cap, 146 times today's $590M. VeChain's supply barely changes in the next year (0.00%), so the whole move would have to come from demand. Supply and demand still read positive for VeChain in the long run.
 
 ### Is it time to take profit on VeChain?
 
@@ -89,7 +85,7 @@ We would read VeChain differently if new supply jumps (today 0.00% in 90 days), 
 
 ### Is VeChain a good investment right now?
 
-VeChain scores 7/10 on our framework (Oct 14 2026): supply 4.5/5 (flat), demand 2.5/5. Over the next year VeChain's supply changes 0.00%. The long-run signal is positive.
+VeChain scores 7/10 on our framework (Oct 16 2026): supply 4.5/5 (flat), demand 2.5/5. Over the next year VeChain's supply changes 0.00%. The long-run signal is positive.
 
 ### How do I know when to buy VeChain?
 
@@ -101,7 +97,7 @@ VeChain's price drivers today: 2 pointing up, 0 pointing down, out of 2. ▲ VET
 
 ### Should I buy VeChain or Bitcoin?
 
-VeChain: positive signal, 7/10 · Bitcoin: positive signal, 8.5/10 (Oct 14 2026). By supply and demand, VeChain reads weaker than Bitcoin today.
+VeChain: positive signal, 7/10 · Bitcoin: positive signal, 8.5/10 (Oct 16 2026). By supply and demand, VeChain reads weaker than Bitcoin today.
 
 ## More on VeChain
 

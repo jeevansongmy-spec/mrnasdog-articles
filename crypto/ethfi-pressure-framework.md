@@ -1,6 +1,6 @@
 ---
 title: "ETHFI Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description: "ETHFI supply is growing: no new ETHFI can be minted, but the last ether.fi team grant unlocks 17.65M ETHFI every 90 days, +1.83% net and the same next."
+description: "ETHFI supply is growing: no mint, but the ether.fi core-contributor grant unlocks 26.84M ETHFI per 90 days, +2.78% net. Weekly buybacks stay in the float."
 canonical_url: "https://mrnasdog.com/research/ethfi/inflation"
 tags: ["crypto", "ethfi", "etherfi", "defi"]
 published: true
@@ -12,50 +12,52 @@ Originally published at [ETHFI Inflation Analysis · October 2026 · Supply grow
 <!-- main-page -->
 **Main page:** the full ETHFI coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/ethfi](https://mrnasdog.com/research/ethfi)
 
-**ETHFI**, the governance token of **ether.fi**, is mildly inflationary on its tradable float even though no new ETHFI can ever be minted. Over the 90 days to Oct 5 2026 the last core-contributor grant released about **17.65M ETHFI** into a float of **965.35M**, while buybacks and burns removed **0**, for a net of **+1.83%**, and the next 90 days should look the same. The monitor reads **+4.09%**; the difference comes from a circulating count that was recounted twice, not from new coins. The ceiling is hard: supply is fixed at 1B, already burned down to 998,535,999, and the grant stops unlocking on Mar 18 2027.
+ETHFI supply is growing, and the reason is one vesting schedule rather than any minting. Over the 90 days to Oct 16 2026, the ether.fi core-contributor grant released **26.84M ETHFI** into the market while nothing was burned or locked away, so net supply rose **+2.78%**, and the MrNasdog Pressure Framework projects the same **+2.78%** for the next 90 days. The ETHFI token has no mint function, so the pressure ends when the last grant part unlocks on **Mar 18 2027**.
 
 ## The verdict, in one paragraph
 
-The MrNasdog Pressure Framework puts ETHFI's 90-day net supply change at **+1.83%** (sell 17.65M, buy 0, over 965.35M circulating), with the same **+1.83%** projected for the next 90 days. The inflation monitor reads **+4.09%** for the same stretch, a gap of **2.26 percentage points**, which is more than our 0.5-point limit, so a ⚠ monitor gap note ships on the coin page. We walked the gap: the circulating count behind the monitor jumped about 44.3M on Jul 17 2026 and 45.1M on Aug 17 2026, briefly showing more ETHFI than exist, then was cut back to about 965.3M on Aug 27 2026, while on-chain supply never moved. Our number stays. In one line: **a fixed-supply token whose float still grows from one vesting team grant**.
+Our ledger reads **+2.78%** net new ETHFI supply over the last 90 days and **+2.78%** for the next 90. The monitor reads **+4.09%** for its own 90-day window, a gap of **1.31 percentage points**, which is more than our 0.5-point limit, so the page carries a ⚠ monitor-gap note. We walked five kinds of sources to explain it: the circulating count the monitor reads jumped about 44.3M ETHFI on Jul 17 2026 and 45.1M on Aug 17 2026, briefly above the 998.54M ETHFI that exist, then was cut back on Aug 27 2026. No on-chain flow matches those jumps, so our number stays. In one line: ETHFI is a fixed-supply governance token with one team grant still unlocking.
 
 ## Sell pressure: where new ETHFI comes from
 
-**Protocol inflation is 0, permanently.** The ETHFI contract created all 1,000,000,000 coins once, at launch, and has no mint function at all; it is a plain, non-upgradeable ERC-20 with a burn function. So every coin that will ever exist already exists, and supply can only go down. It has gone down: earlier ether.fi buybacks in 2025 burned 1,464,001 ETHFI, leaving 998,535,999 on chain at both ends of this window.
+Protocol inflation is **0**. All 1B ETHFI were created at launch in February 2024, the token contract has no mint function, and on-chain supply read **998,535,999 ETHFI** at both ends of the window, after 1,464,001 ETHFI were burned in earlier buybacks.
 
-**Vesting unlocks are 17.65M ETHFI in 90 days**, and they are the whole sell side. ether.fi set aside **214.7M ETHFI** (21.47%) for core contributors on a 3-year schedule with a 1-year cliff from the Mar 18 2024 launch. One third came free at the cliff in March 2025; the other two thirds, 143.13M, unlock in a straight line until **Mar 18 2027** — about **196,073 ETHFI a day**, or 17,646,575 every 90 days. No on-chain vesting contract holds the rest: the grant was paid out to holder wallets in February and April 2025, so the published schedule is what decides the release. A check backs it up: on-chain supply minus the circulating count leaves 33.19M not yet counted as circulating, and the grant's unvested remainder on Oct 5 2026 is 32.16M — the same pile, 3% apart. The much larger investor grant (33.74%) finished unlocking on Mar 18 2026, when the last monthly payouts landed.
+Vesting unlocks are the whole sell side: **26.84M ETHFI** in the last 90 days and **26.84M ETHFI** in the next 90. The ether.fi core contributors hold a grant of **214.7M ETHFI** that vests over three years with a one-year cliff. After the cliff it releases in 24 equal monthly parts of about **8.95M ETHFI** on the 18th of each month. The investor grant, which shared the same cliff, was paid out the same way, in 12 equal monthly parts that ended on Mar 18 2026. Jul 18, Aug 18 and Sep 18 2026 fell inside our window; Oct 18, Nov 18 and Dec 18 2026 fall inside the next one. About **53.7M ETHFI** of the grant is still locked.
 
-**Foundation and unscheduled unlocks are 0.** The ether.fi treasury moved coins this window — 20M ETHFI on Oct 4 2026 into the Safe that holds the new rewards buffer, and 1M on Oct 2 2026 from a second treasury Safe — but treasury coins already count as circulating, so a move between them adds no new float. **Long-term locked or bankruptcy is 0**: there is no estate, trustee or long lock behind ETHFI.
+Foundation and unscheduled unlocks are **0**. The ether.fi Foundation holds large treasury balances and moved some of them in this window, but only 33.19M ETHFI is held out of the circulating count, which matches the grant still to unlock, so the treasury already counts as circulating and spending it adds no new supply. Long-term locked or bankruptcy supply is also **0**: no estate, trustee or long lock holds ETHFI.
 
 ## Buy pressure: where new ETHFI goes
 
-**The programmatic buyback books 0, though it is real.** In a vote that closed on Sep 3 2026, ether.fi holders approved weekly ETHFI purchases funded by card, swap and staking revenue, about **$1.33M a month** when it was proposed, with lending and perps revenue to be added later. The bought ETHFI is kept in the Foundation treasury, paid to stakers or sent to users as card cashback. Every one of those places is inside the circulating float, so the buying moves coins from sellers to the treasury or to users without taking them out of circulation.
+The programmatic buyback books **0**, even though it is real. Since Sep 9 2026, after a governance vote that closed Sep 3 2026, ether.fi has sent app revenue in dollars to a buyback wallet every week, between **$225K and $305K**, and that wallet buys ETHFI in hundreds of small orders. It bought about **1.51M ETHFI** for about **$1.16M** by Oct 16 2026, and passed **1.47M** of it on to user-reward wallets. Those coins go back to ether.fi card users as cashback or stay with the Foundation, so they never leave the market.
 
-**The protocol fee burn is 0 for this window.** We read supply and the dead address at both ends: 998,535,999 and 0.66 ETHFI both times. The 2025 burns proved the burn path works; the current program simply keeps what it buys. **Foundation buy is 0**: a separate treasury program of up to $50M, approved in November 2025 and active only below $3, reported no spending this quarter. **New long-term lock is 0**: staked ETHFI rose by 9.23M to 110.6M, helped by card memberships that reward staking, but staked ETHFI can be withdrawn and still counts as circulating.
+The protocol fee burn is **0**: ether.fi fees are not burned, supply did not move, and the dead-address balance stayed at 0.66 ETHFI. The Foundation buy row is **0** as well. A $50M Foundation buyback voted in November 2025, for prices under $3, is still allowed, and in this window a Foundation wallet took 5.0M ETHFI out of an exchange and bought about 1.05M on a DEX, but it keeps or pays out those coins. New long-term locks are **0**: staked ETHFI rose from **103.39M to 109.75M** as users stake for card membership perks, but staked ETHFI can be withdrawn and still counts as circulating.
 
 ## Foundation and overhang
 
-We track six ETHFI piles that the team side controls. The DAO treasury Safe holds **153.2M ETHFI**, down from 173.2M after the Oct 4 2026 transfer; the Safe that received it now holds **20.0M**, the rewards buffer the Sep 3 2026 vote allowed for cashback when bought ETHFI falls short. A second treasury Safe holds **12.9M**. The largest team-grant wallet holds **101.5M** and has never moved since February 2025. A small operating Safe holds **2.1M**, and the staking pot that receives buyback payouts holds **110.6M**. All of them already count as circulating, so none adds to the ledger today. We read every one of these balances on chain at each rebuild; if any of them falls between refreshes, the outflow goes into the Foundation and unscheduled unlocks row at the next refresh.
+The largest overhang is the ether.fi treasury Safe, which holds **153.2M ETHFI**, down from 173.2M at the start of the window. On Oct 4 2026 it sent 20M ETHFI to a second Safe that tops up user rewards when bought coins run short, as the Sep 3 2026 vote allowed; that Safe now holds about **20.0M ETHFI**. A second treasury wallet holds **12.88M**, the Foundation operating wallet **1.76M**, and the buyback wallet about 40K. About 11M ETHFI was lent to market makers in 2025 under loans of one to one and a half years.
+
+The core-contributor grant itself sits in about 30 holder wallets that together hold about **151.1M ETHFI**; they sent out 7.17M ETHFI in these 90 days. We read every one of these balances on-chain at each rebuild. If any of these balances falls between refreshes, the outflow enters Sell #3 at the next refresh.
 
 ## How ETHFI compares to other DeFi governance tokens
 
-ETHFI sits in the group of fixed-supply DeFi governance tokens: one mint at launch, no staking rewards paid in new coins, and a float that grows only while insider grants unlock. Lido's LDO is the closest older example — also a fixed 1B supply, but its insider vesting ended years ago, so its float barely grows. ETHFI is still in the tail of that phase: one grant left, about 32.2M ETHFI, and then the sell side should drop toward zero after Mar 18 2027.
+ETHFI belongs to the class of fixed-supply DeFi governance tokens whose only new supply is a team and investor vesting schedule. That makes it different from uncapped staking-reward chains, where new coins are printed every block forever. For ETHFI the pressure has an end date: once the core-contributor grant finishes in March 2027, the sell side falls to zero unless the Foundation starts selling its treasury.
 
-The contrast with emission-funded tokens is the mechanism, not the price. Many staking and restaking tokens pay holders in newly minted coins, so their supply grows every year with no end date. ETHFI pays its stakers and card users with coins bought on the market, which moves coins around inside the float but creates none.
+It also differs from DeFi tokens that burn what they buy back. Some exchange and perpetual-DEX tokens send repurchased coins to a dead address, which shrinks supply. ether.fi chose to spend its buybacks on rewards for card users and stakers, and to hold the rest in a Foundation wallet. That supports the price by creating steady buying, but it does not reduce the float, so the buy side of our ledger stays at zero while the grant is still unlocking.
 
-The contrast with buy-and-burn tokens matters too. Some DeFi tokens destroy what they buy, which shrinks supply and shows up as a negative number in this framework. ETHFI did that in 2025, burning 1.46M, but its 2026 program keeps the coins in the treasury or hands them to users. Until the bought ETHFI is burned or locked away, the buyback supports demand without lowering the supply count.
+Compared with liquid-staking rivals that pay their stakers in newly minted tokens, ETHFI pays staking and membership rewards from coins bought on the market or from the existing treasury. That keeps the token free of inflation from rewards, at the cost of a treasury that shrinks over time.
 
 ## What to watch in the next 90 days
 
-**The grant keeps unlocking every day** through Jan 3 2027, about 17.65M ETHFI in the window, with the final day on Mar 18 2027.
+The core-contributor grant releases about **8.95M ETHFI** on each of Oct 18 2026, Nov 18 2026 and Dec 18 2026; the next part after that is Jan 18 2027.
 
-**The buyback dashboard**, promised with the Sep 3 2026 vote, will show ETHFI bought versus ETHFI paid out as rewards; if the program switches to burning, the burn row turns negative.
+The weekly buyback: if ether.fi starts burning or locking the bought ETHFI instead of paying it out as rewards, the buy side of the ledger would start to count it.
 
-**The 20M rewards buffer**, moved into its own Safe on Oct 4 2026: it stays inside the float, but a fast drain would show heavy cashback selling.
+The 20M ETHFI rewards Safe: how fast it is drawn down shows whether bought coins cover user rewards or the Foundation is topping them up from its treasury.
 
-**The circulating count itself**: it has not moved since Aug 27 2026 while the grant unlocked, so a catch-up step of a few million ETHFI is possible, and we will check it against the chain.
+The circulating count the monitor reads has not moved since Aug 27 2026; a catch-up step when it next updates would close part of the gap.
 
 ## Summary
 
-ETHFI is a fixed-supply token — 1B created once, no mint function, 998,535,999 left after past burns — yet its tradable float still grows about **+1.83% every 90 days** because the last core-contributor grant unlocks about 196,073 ETHFI a day until Mar 18 2027. ether.fi's weekly buybacks are real but book 0 here, because the coins stay in the treasury or go to stakers and card users instead of being burned. The key risk is that grant: about 32.2M ETHFI is still to come. The ceiling is fixed — once the grant ends, new supply from the token itself goes to zero.
+ETHFI, the governance token of ether.fi, has a fixed supply of 998,535,999 coins and no way to mint more, yet its circulating supply grows by about **+2.78%** every 90 days because the core-contributor grant releases about **8.95M ETHFI** each month. Weekly buybacks funded by ether.fi revenue are real but book nothing on our ledger, because the bought coins go to card users and the Foundation instead of being burned. The key risk is the remaining **53.7M ETHFI** of the grant and the large Foundation treasury; the ceiling is clear, since the grant ends on Mar 18 2027 and no new ETHFI can ever be created.
 
-*MrNasdog Pressure Framework analysis of ETHFI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 5 2026.*
+*MrNasdog Pressure Framework analysis of ETHFI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 16 2026.*

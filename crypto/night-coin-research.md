@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy Midnight (NIGHT)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Midnight's NIGHT: all 24B made at launch and no new coins from the chain yet, but a bridge hack added 514.6M unbacked copies (+3.10% in 90 days)."
+description:   "Midnight's NIGHT: no coin was created in 90 days, but a bridge hack left 514.6M copies unbacked (+3.10%). Next 90 days flat until block rewards start."
 canonical_url: "https://mrnasdog.com/research/night"
 content_type:  "coin_hub"
 tags:          ["crypto", "night", "midnight", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy Midnight (NIGHT)? Supply, Demand and Price Drivers (Oct 2026)
 
-*Live page: https://mrnasdog.com/research/night · checked Oct 14 2026*
+*Live page: https://mrnasdog.com/research/night · checked Oct 16 2026*
 
-**mixed** — that is Midnight's long-run signal by supply and demand as of Oct 14 2026, with a score of 6.5/10.
+**mixed** — that is Midnight's long-run signal by supply and demand as of Oct 16 2026, with a score of 6.5/10.
 
 - **Signal:** mixed (by the law of supply and demand)
 - **Score:** 6.5/10 — supply 4.5/5, demand 2/5
@@ -20,9 +20,9 @@ published:     true
 
 ## Supply — new NIGHT in the next 90 days
 
-Midnight's NIGHT: all 24B made at launch and no new coins from the chain yet, but a bridge hack added 514.6M unbacked copies (+3.10% in 90 days).
+Midnight's NIGHT: no coin was created in 90 days, but a bridge hack left 514.6M copies unbacked (+3.10%). Next 90 days flat until block rewards start.
 
-Over the next 90 days NIGHT supply changes 0.00%; across a full year, 0.00%. That puts supply at 4.5/5 (flat) (place 89 of 101).
+Over the next 90 days NIGHT supply changes 0.00%; across a full year, 0.00%. That puts supply at 4.5/5 (flat) (place 87 of 101).
 
 ## NIGHT price drivers the score does not count
 
@@ -30,7 +30,7 @@ Besides supply and demand, we track 2 price drivers for Midnight: 2 ▲ and 0 �
 
 ### ▲ Mainnet rollout
 
-Apps opened Sep 28 2026; Cardano pools still not making blocks.
+Roadmap targets NIGHT staking by Mar 31 2027; pools still waiting.
 
 ▲ Price up if: Phases land on time. ▼ Price down if: Delays or more hacks. Now: ▲ up side.
 
@@ -39,14 +39,16 @@ Apps opened Sep 28 2026; Cardano pools still not making blocks.
 | Mar 30 2026 | Mainnet live (federated) |
 | Jul 20 2026 | Wanchain bridge hacked |
 | Sep 28 2026 | Anyone can deploy apps |
+| Oct 14 2026 | New roadmap posted |
 | Overdue (was Q2-Q3 2026) | Cardano SPOs make blocks (coming) |
 | Late 2026 or later | Hua: hybrid apps (coming) |
+| Q1 2027 (target) | First NIGHT staking (coming) |
 
-*Checked Oct 10 2026*
+*Checked Oct 16 2026*
 
 ### ▲ Charles Hoskinson
 
-NIGHT jumped after his Sep 28 2026 Zcash claim.
+He keeps promising big: Zcash, then AI trading in Midnight City.
 
 Big promises come true → price up · Hype fades, goals slip → price down. Today: the price-up case.
 
@@ -55,13 +57,14 @@ Big promises come true → price up · Hype fades, goals slip → price down. To
 | Jul 22 2026 | Calls for ZK revamp |
 | Sep 28 2026 | Says it'll top Zcash |
 | Oct 9 2026 | Repeats Zcash claim |
+| Oct 13 2026 | Teases AI agent trading |
 | Within 2 years (his goal) | Goal: bigger than Zcash (coming) |
 
-*Checked Oct 10 2026*
+*Checked Oct 16 2026*
 
 ## Who wants Midnight right now
 
-People's appetite for Midnight is **weak**: 2/5, ranked #64 of 110.
+People's appetite for Midnight is **weak**: 2/5, ranked #65 of 110.
 
 Members get the rest of the Midnight demand read on mrnasdog.com.
 
@@ -69,11 +72,11 @@ Members get the rest of the Midnight demand read on mrnasdog.com.
 
 ### Is it time to buy the Midnight dip?
 
-By the law of supply and demand, Midnight's long-run signal is mixed (Oct 14 2026, score 6.5/10). New supply: 0.00% in the next 90 days. Demand: weak (2/5). Midnight's price drivers: 2 ▲ price up, 0 ▼ price down.
+By the law of supply and demand, Midnight's long-run signal is mixed (Oct 16 2026, score 6.5/10). New supply: 0.00% in the next 90 days. Demand: weak (2/5). Midnight's price drivers: 2 ▲ price up, 0 ▼ price down.
 
-### What is the latest news on Midnight's NIGHT token?
+### What is the latest NIGHT crypto news on Midnight's mainnet?
 
-Midnight apps opened on Sep 28 2026, but Cardano pools are still not making blocks, a step that was due in Q2-Q3 2026. NIGHT also jumped after Charles Hoskinson's Zcash claim that same day. New supply stays flat at 0.00% in 90 days. By supply and demand, Midnight's long-run signal is mixed today.
+Apps on Midnight opened Sep 28 2026, but Cardano pools are still not making blocks, a step that was planned for Q2-Q3 2026 and is now overdue. The roadmap targets NIGHT staking by Mar 31 2027. NIGHT traded near 4.1 cents on Oct 16 2026. Supply and demand still read mixed for Midnight in the long run.
 
 ### Should I sell my Midnight now?
 
@@ -81,7 +84,7 @@ Midnight's signal is mixed for now. Midnight's signal would turn if new supply j
 
 ### Is Midnight a good long-term investment?
 
-Midnight sits at 6.5/10 today (Oct 14 2026): supply 4.5/5, demand 2/5. One more year adds 0.00% to Midnight's supply. Long-run signal: mixed.
+Midnight sits at 6.5/10 today (Oct 16 2026): supply 4.5/5, demand 2/5. One more year adds 0.00% to Midnight's supply. Long-run signal: mixed.
 
 ### When is a good time to buy Midnight?
 
@@ -89,11 +92,11 @@ By the law of supply and demand, the better time to buy Midnight is when its new
 
 ### What could push Midnight's price up or down?
 
-Right now 2 things drive Midnight's price (2 ▲, 0 ▼). ▲ Mainnet rollout: Apps opened Sep 28 2026; Cardano pools still not making blocks. ▲ Charles Hoskinson: NIGHT jumped after his Sep 28 2026 Zcash claim.
+Right now 2 things drive Midnight's price (2 ▲, 0 ▼). ▲ Mainnet rollout: Roadmap targets NIGHT staking by Mar 31 2027; pools still waiting. ▲ Charles Hoskinson: He keeps promising big: Zcash, then AI trading in Midnight City.
 
 ### Is Midnight a better investment than Bitcoin?
 
-Side by side on Oct 14 2026: Midnight at 6.5/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Midnight is the weaker of the two.
+Side by side on Oct 16 2026: Midnight at 6.5/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Midnight is the weaker of the two.
 
 ## Where to read the rest of NIGHT
 
