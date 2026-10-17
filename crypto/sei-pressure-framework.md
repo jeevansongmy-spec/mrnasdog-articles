@@ -1,6 +1,6 @@
 ---
 title:         "SEI Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description:   "SEI supply is growing: 293.33M SEI of team and investor unlocks plus 41.79M minted for stakers gives +4.98% net in 90 days, +4.96% next. No burn, no buyback."
+description:   "SEI is inflationary: 293.33M SEI of team and investor unlocks plus 41.37M minted for stakers give +4.97% net in 90 days, +4.96% next. No burn, no buyback."
 canonical_url: "https://mrnasdog.com/research/sei/inflation"
 tags:           ["crypto", "sei", "cosmos", "layer1"]
 published:     true
@@ -12,48 +12,50 @@ Originally published at [SEI Inflation Analysis · October 2026 · Supply growin
 <!-- main-page -->
 This is the long supply read. For the signal, the price drivers and the questions people ask about Sei Network, see [mrnasdog.com/research/sei](https://mrnasdog.com/research/sei).
 
-SEI supply is growing fast and nothing takes it back. In the 90 days to Oct 7 2026, **335.12M SEI** reached the market — **293.33M** from team and private-sale vesting and **41.79M** newly minted for stakers — against **0** bought back or burned. That is **+4.98%** of the circulating supply, and the next 90 days project **+4.96%**, because the monthly unlocks run on a fixed calendar until Aug 15 2027 and the mint runs until Aug 2033.
+SEI is inflationary: supply grew about **4.97%** in the last 90 days and is projected to grow about **4.96%** in the next 90. Sei adds **334.71M SEI** in a quarter from two sources, monthly team and investor unlocks of **293.33M SEI** and a daily mint for stakers of **41.37M SEI**, and nothing is bought back or burned. The unlocks run until Aug 2027, and the whole supply is capped at **10B SEI**.
 
 ## The verdict, in one paragraph
 
-The MrNasdog Pressure Framework reads SEI at **+4.98%** net new supply over the last 90 days and **+4.96%** over the next 90. The inflation monitor reads only **+0.01%**, a gap of **4.97 percentage points**, which is far over our 0.5-point line, so the page carries a ⚠ monitor gap chip. The reason is dated and checkable: the float figure the monitor divides by rose every month until Feb 16 2026 and has held near **6,733.3M SEI** since, so it sees none of the unlocks or the mint in this window. We keep our number. Sei Network is a chain with a heavy, scheduled unlock calendar and no buyer of its own coin: inflationary by design on the tradable float.
+Our net reading for SEI is **+4.97%** over the last 90 days (Jul 19 to Oct 17 2026) and **+4.96%** for the next 90, measured against **6.73B SEI** of circulating supply. The monitor reads only **+0.05%**, a gap of **4.92 percentage points**, so the page carries a ⚠ monitor gap chip. We walked the gap and found its cause: the circulating figure the monitor divides by rose on the 16th of every month until Feb 16 2026 and has held near 6,733.3M SEI since, so it misses every unlock and every daily mint after that date. On-chain, the team vesting contracts kept paying out each month and the chain kept minting, so our number stays. SEI is inflationary by unlock schedule, with no buyer on the other side.
 
 ## Sell pressure: where new SEI comes from
 
-The largest source is vesting. The Sei team allocation sits in two on-chain vesting contracts that pay one wallet on the 15th of each month: one releases **22.22M SEI** a month until Aug 15 2027, the other **20M SEI** a month until Aug 15 2029. We read both contracts this session. They paid out **42.22M SEI** on each of Jul 16, Aug 17 and Sep 16 2026, exactly as scheduled, and still hold **945.08M SEI**. Private-sale investors bought 2B SEI with a one-year cliff and then 36 monthly releases, so they receive **55.56M SEI** on the 15th of every month until Aug 15 2027. Together, vesting added **293.33M SEI** in these 90 days.
+The largest source is vesting unlocks. Sei's team share of 2B SEI sits in two on-chain vesting contracts that pay out on the 15th of each month: one releases about 22.22M SEI a month until Aug 15 2027, the other 20M SEI a month until Aug 15 2029. Together they paid **42.22M SEI** on each of Aug 17, Sep 16 and Oct 15 2026. The private-sale investors, who also hold 2B SEI, unlock **55.56M SEI** on the 15th of each month until Aug 2027 under the published schedule. That makes **293.33M SEI** of vesting unlocks in the last 90 days, and the same amount again on Nov 15 2026, Dec 15 2026 and Jan 15 2027.
 
-The second source is protocol inflation. Sei mints new SEI once a day and pays it to stakers, following a ten-year release plan written into the chain itself: 1.5B SEI in total, in yearly tranches that shrink over time. The tranche stepped down from 180M to **165M SEI** a year on Aug 15 2026, so the mint fell from 494,505 to 453,297 SEI. Over the window the mint created **41.79M SEI**, and the next 90 days at the new rate create about **40.80M**. Two reads of total supply this session moved by exactly one day's mint and nothing else, which confirms the mint is the only thing writing new SEI.
+The second source is protocol inflation. Sei's mint module releases staking rewards from a fixed plan of 1.5B SEI spread over ten years, ending Aug 14 2033. The plan year that started Aug 15 2026 releases 165M SEI, about **453,297 SEI a day**, down from 180M SEI the year before. Counting each daily mint inside the window gives **41.37M SEI** of new coins in the last 90 days and **40.80M SEI** in the next 90. Reading total supply on-chain at three points in October showed it rising by exactly this mint and nothing else.
 
-The Foundation and unscheduled-unlock row is **0**: the Foundation's 900M allocation and the ecosystem-reserve contracts have been fully paid out to project wallets in the past, and we found no release from them in this window. The long-term-locked or bankruptcy row is also **0**: no estate, trustee or lock is paying SEI out.
+The Foundation and unscheduled unlocks row is zero: we found no public evidence of a Foundation or ecosystem-reserve release in the window. The long-term locked or bankruptcy row is also zero, because no bankruptcy estate, court trustee or long lock holds SEI.
 
 ## Buy pressure: where new SEI goes
 
-Every buy row is **0**. Sei runs no programmatic buyback — no contract, treasury or announced programme buys SEI back. There is no fee burn either: transaction fees go to validators and stakers, total supply rose by exactly the mint between our reads, and the dead addresses together hold under 1,600 SEI. No Foundation purchase shows on-chain or in any announcement. Staking is large — about **4.05B SEI** is bonded with a 21-day exit — but staked SEI still counts as circulating, so a bigger stake takes nothing out of the float; it only decides who receives the mint. Planned staked-SEI exchange-traded funds would buy coins on the open market, which moves existing SEI between holders rather than removing supply.
+Every buy row is zero. Sei has no programmatic buyback, and transaction fees are paid to validators rather than burned, so the protocol fee burn is zero too. Since launch in 2023 only about **1,032 SEI** has ever been destroyed. We found no Foundation buy and no project treasury buying SEI in the window.
+
+The new long-term lock row is zero as well. About **4.11B SEI** is staked, with a 21-day exit queue, but staked SEI still counts as circulating, so staking more does not take coins out of the float. The planned staked SEI funds would buy coins in the market and stake most of them, which is real demand but not a supply lock in our ledger.
 
 ## Foundation and overhang
 
-Four overhangs sit behind the float. The team vesting contracts hold **945.08M SEI**, released 42.22M a month; we read them on-chain at every refresh. The private-sale remainder is about **611.1M SEI**, released 55.56M a month until Aug 15 2027, with no readable escrow, so we follow the published schedule and check it by hand every two weeks. The staking plan still has **770.5M SEI** left to mint through Aug 2033. Finally, about **940M SEI** of Foundation and ecosystem-reserve coins sit outside the float in unlabelled project wallets with no published schedule, which we watch by hand. The first three are already booked in the vesting and inflation rows. If any of these balances falls faster than its schedule between refreshes, the extra outflow enters the Foundation row at the next refresh.
+Large amounts of SEI still sit outside the float. The two team vesting contracts hold **902.86M SEI**, all of it staked, and they pay out on the schedule above; we read them from the chain at every rebuild. About **555.56M SEI** of private-sale coins remain to unlock between Nov 2026 and Aug 2027. The mint module still has **765.99M SEI** to create for stakers through Aug 2033. On top of that, about **1.04B SEI** sits outside the float in Foundation and ecosystem-reserve wallets with no public release schedule, which we track through official updates. The team payout wallet holds **7.31M SEI**, already inside the float. If any of these balances falls between our checks, the outflow enters the Foundation and unscheduled unlocks row at the next refresh.
 
 ## How SEI compares to other high-speed Layer 1s
 
-SEI belongs to the newer class of fast Layer 1 chains launched in 2023 with large insider allocations — the same structural shape as Sui and Aptos. In all three, the dominant supply force is not the staking reward but the monthly release of team and investor coins, and in all three that calendar, not market demand, sets the pace of new supply. SEI's team and private sale together hold 40% of the 10B cap, and the private-sale stream alone keeps the monthly flow near 100M SEI until Aug 2027.
+SEI belongs to the group of young, fast Layer 1 chains whose supply still grows mainly through insider unlocks. Like Aptos and Sui, Sei releases team and investor coins on a monthly calendar, so its supply growth is set by a schedule rather than by how busy the chain is. The difference is that Sei's calendar ends earlier for investors: the private-sale and first team tranche finish in Aug 2027, leaving only the second team contract and the shrinking staking mint after that.
 
-Against Ethereum, the contrast is the burn. Ethereum destroys part of every fee, which offsets some of its issuance; Sei Network pays all fees to validators, so nothing offsets its mint. Against older Cosmos-SDK chains like Cosmos Hub, which mint a percentage of supply to stakers with no fixed end, Sei's mint is capped: the 1.5B plan is a fixed amount that shrinks every August and ends in 2033, so SEI has a hard 10B ceiling that those chains lack.
+Compared with Ethereum or Solana, SEI has no fee burn at all. Those chains destroy part of every fee, so heavy use can offset some of their issuance; on Sei, more activity adds nothing to the buy side. Sei's staking mint is also different from an open-ended inflation rate: it follows a fixed, falling plan inside a hard cap of 10B SEI, from 180M SEI last year to 165M SEI this year and down to 75M SEI a year from Aug 2031.
 
-The practical reading: SEI's inflation is front-loaded. Once the private-sale stream ends on Aug 15 2027, the monthly flow drops to the team contracts (20M SEI a month to 2029) plus a smaller mint, and the 90-day figure should fall well below today's level. Until then, roughly 5% of the float arrives every quarter.
+The practical result is that SEI's inflation is front-loaded. Today it is close to 5% a quarter of circulating supply, mostly from vesting; after Aug 2027 the scheduled flow falls to the 20M SEI monthly team tranche plus a mint near 135M SEI a year.
 
 ## What to watch in the next 90 days
 
-The next three monthly unlocks land on **Oct 15 2026**, **Nov 15 2026** and **Dec 15 2026**, each about **97.78M SEI**; the team contracts are already unstaking 42.22M SEI that becomes free on Oct 14 2026, ready for the first of them.
+**Nov 15 2026, Dec 15 2026 and Jan 15 2027:** the three monthly unlocks of about 97.78M SEI each (team contracts plus investors) — any change to the contract payouts would move the reading.
 
-Planned staked-SEI funds have set **Oct 23 2026** as an effective date for at least one product; they would buy existing SEI and stake most of it, which changes who holds SEI, not how much exists.
+**Oct 23 2026:** the target date for a staked SEI fund to become effective; a launch would add a market buyer that stakes most of what it buys, though trading may start later.
 
-A software upgrade to v6.7 is in its governance vote now, and the Giga upgrade rollout continues; neither changes the mint plan or the vesting contracts as written, and any change to either would show in the chain's own parameters, which we re-read at every rebuild.
+**The final SIP-3 upgrade (date not yet set):** Sei is closing its old Cosmos side and moving to EVM only. Coins on old addresses that are never linked could become hard to reach, and we will check whether the team vesting contracts keep paying out after the switch.
 
-We also watch for any move out of the unlabelled Foundation and ecosystem-reserve wallets, and for the monitor's float figure to start updating again, which would close most of today's gap.
+**Foundation and ecosystem-reserve wallets:** about 1.04B SEI with no public schedule — any visible release would enter the sell side.
 
 ## Summary
 
-SEI is inflationary on the tradable float: **335.12M SEI** reached the market in 90 days — 293.33M from team and private-sale vesting and 41.79M from the staking mint — and nothing was bought back or burned, for a net **+4.98%** and a projected **+4.96%** next. The structure is a fixed monthly unlock calendar plus a shrinking ten-year mint. The key risk is the steady 97.78M SEI monthly release meeting demand that has to absorb it with no protocol buyer. The ceiling is the 10B cap, and the heaviest stream ends on Aug 15 2027.
+SEI is inflationary: Sei adds about **334.71M SEI**, or **4.97%** of circulating supply, every 90 days, and takes nothing out. Most of it is monthly team and investor vesting of **293.33M SEI** a quarter, with a daily staking mint of about 41M SEI on top, and there is no buyback or fee burn to absorb it. The key risk is the steady monthly unlock until Aug 2027, plus about 1.04B SEI held in Foundation and ecosystem wallets with no schedule. The ceiling is the hard cap of 10B SEI, and the pace of new supply should fall sharply after Aug 2027.
 
-*MrNasdog Pressure Framework analysis of SEI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 8 2026.*
+*MrNasdog Pressure Framework analysis of SEI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 17 2026.*
