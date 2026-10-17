@@ -102,10 +102,10 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/aero-coin-research.md",
     "receipts": {
       "github": {
-        "at": "2026-10-14T03:19:40Z",
+        "at": "2026-10-16T20:34:30Z",
         "note": "batch commit",
         "ok": true,
-        "sha256": "370e856343b74659"
+        "sha256": "bbe1539da041d726"
       }
     },
     "site": "mrnasdog.com"
@@ -116,16 +116,16 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/aero-pressure-framework.md",
     "receipts": {
       "github": {
-        "at": "2026-10-10T21:43:46Z",
-        "note": "batch commit",
+        "at": "2026-10-16T20:34:36Z",
+        "note": "already current \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/aero-pressure-framework.md",
         "ok": true,
-        "sha256": "865f4be47fdd4774"
+        "sha256": "d19bbd06adf4ccf4"
       },
       "telegram": {
-        "at": "2026-10-05T14:31:24Z",
+        "at": "2026-10-16T20:34:37Z",
         "note": "edited in place \u2192 @mrnasdog (msg 56)",
         "ok": true,
-        "sha256": "70d56ad32949d7aa"
+        "sha256": "d19bbd06adf4ccf4"
       }
     },
     "site": "crypto",
@@ -202,10 +202,10 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/apt-coin-research.md",
     "receipts": {
       "github": {
-        "at": "2026-10-14T03:19:40Z",
+        "at": "2026-10-16T20:34:30Z",
         "note": "batch commit",
         "ok": true,
-        "sha256": "dc29f4beb433f0b7"
+        "sha256": "8e06753225b20e47"
       }
     },
     "site": "mrnasdog.com"
@@ -216,16 +216,16 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/apt-pressure-framework.md",
     "receipts": {
       "github": {
-        "at": "2026-10-10T21:43:46Z",
-        "note": "batch commit",
+        "at": "2026-10-16T20:34:42Z",
+        "note": "already current \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/apt-pressure-framework.md",
         "ok": true,
-        "sha256": "6bff6f1d160cd676"
+        "sha256": "df48083a77fe7fb7"
       },
       "telegram": {
-        "at": "2026-10-05T14:31:49Z",
+        "at": "2026-10-16T20:34:43Z",
         "note": "edited in place \u2192 @mrnasdog (msg 192)",
         "ok": true,
-        "sha256": "53fc768ce20c29c7"
+        "sha256": "df48083a77fe7fb7"
       }
     },
     "site": "crypto",
@@ -511,10 +511,10 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/binancelife-coin-research.md",
     "receipts": {
       "github": {
-        "at": "2026-10-14T03:19:40Z",
+        "at": "2026-10-17T21:32:17Z",
         "note": "batch commit",
         "ok": true,
-        "sha256": "13975b643b46e2a5"
+        "sha256": "28e136ae0236a23f"
       }
     },
     "site": "mrnasdog.com"
@@ -531,16 +531,16 @@
         "sha256": "49b28216cf69ce01"
       },
       "github": {
-        "at": "2026-10-10T21:43:46Z",
-        "note": "batch commit",
+        "at": "2026-10-17T21:32:47Z",
+        "note": "already current \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/binancelife-pressure-framework.md",
         "ok": true,
-        "sha256": "d7dc7d632863caca"
+        "sha256": "adbd5f0c81b272ec"
       },
       "telegram": {
-        "at": "2026-10-07T17:36:27Z",
+        "at": "2026-10-17T21:32:48Z",
         "note": "edited in place \u2192 @mrnasdog (msg 200)",
         "ok": true,
-        "sha256": "cdfc3ac1df8b83be"
+        "sha256": "adbd5f0c81b272ec"
       }
     },
     "site": "crypto",
@@ -789,10 +789,10 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/cake-coin-research.md",
     "receipts": {
       "github": {
-        "at": "2026-10-14T03:19:40Z",
+        "at": "2026-10-16T20:34:30Z",
         "note": "batch commit",
         "ok": true,
-        "sha256": "f87d49116424efb2"
+        "sha256": "6791c62170d4e876"
       }
     },
     "site": "mrnasdog.com"
@@ -803,16 +803,16 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/cake-pressure-framework.md",
     "receipts": {
       "github": {
-        "at": "2026-10-10T21:43:46Z",
-        "note": "batch commit",
+        "at": "2026-10-16T20:34:47Z",
+        "note": "already current \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/cake-pressure-framework.md",
         "ok": true,
-        "sha256": "e7189bbdd4359096"
+        "sha256": "c883b65001090652"
       },
       "telegram": {
-        "at": "2026-10-05T14:31:27Z",
+        "at": "2026-10-16T20:34:48Z",
         "note": "edited in place \u2192 @mrnasdog (msg 194)",
         "ok": true,
-        "sha256": "5e71798b9c5b3e06"
+        "sha256": "c883b65001090652"
       }
     },
     "site": "crypto",
@@ -983,10 +983,10 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/crv-coin-research.md",
     "receipts": {
       "github": {
-        "at": "2026-10-14T03:19:40Z",
+        "at": "2026-10-17T21:32:17Z",
         "note": "batch commit",
         "ok": true,
-        "sha256": "592cea1070437740"
+        "sha256": "1f9d4be1d239af04"
       }
     },
     "site": "mrnasdog.com"
@@ -1003,16 +1003,16 @@
         "sha256": "d1ccd7007045d65c"
       },
       "github": {
-        "at": "2026-10-10T21:43:46Z",
-        "note": "batch commit",
+        "at": "2026-10-17T21:32:39Z",
+        "note": "already current \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/crv-pressure-framework.md",
         "ok": true,
-        "sha256": "110f06720ba32717"
+        "sha256": "6ad2cd1c1bb40d15"
       },
       "telegram": {
-        "at": "2026-10-07T17:36:10Z",
+        "at": "2026-10-17T21:32:40Z",
         "note": "edited in place \u2192 @mrnasdog (msg 77)",
         "ok": true,
-        "sha256": "6e096224b4c03a6b"
+        "sha256": "6ad2cd1c1bb40d15"
       }
     },
     "site": "crypto",
@@ -1022,10 +1022,10 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/dash-coin-research.md",
     "receipts": {
       "github": {
-        "at": "2026-10-14T03:19:40Z",
+        "at": "2026-10-16T20:34:30Z",
         "note": "batch commit",
         "ok": true,
-        "sha256": "d918b1a778893e86"
+        "sha256": "06086daaaf19e892"
       }
     },
     "site": "mrnasdog.com"
@@ -1036,16 +1036,16 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/dash-pressure-framework.md",
     "receipts": {
       "github": {
-        "at": "2026-10-10T21:43:46Z",
-        "note": "batch commit",
+        "at": "2026-10-16T20:34:51Z",
+        "note": "already current \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/dash-pressure-framework.md",
         "ok": true,
-        "sha256": "5ee759ef7916292f"
+        "sha256": "ab7cdcce5f677edd"
       },
       "telegram": {
-        "at": "2026-10-05T14:31:32Z",
+        "at": "2026-10-16T20:34:52Z",
         "note": "edited in place \u2192 @mrnasdog (msg 78)",
         "ok": true,
-        "sha256": "32cdef28da234e88"
+        "sha256": "ab7cdcce5f677edd"
       }
     },
     "site": "crypto",
@@ -1310,10 +1310,10 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/ethfi-coin-research.md",
     "receipts": {
       "github": {
-        "at": "2026-10-14T03:19:40Z",
+        "at": "2026-10-16T20:34:30Z",
         "note": "batch commit",
         "ok": true,
-        "sha256": "c614a214e212e030"
+        "sha256": "63cf578f4c869abc"
       }
     },
     "site": "mrnasdog.com"
@@ -1330,16 +1330,16 @@
         "sha256": "4ec49f4c4ccd1535"
       },
       "github": {
-        "at": "2026-10-10T21:43:46Z",
-        "note": "batch commit",
+        "at": "2026-10-16T20:34:49Z",
+        "note": "already current \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/ethfi-pressure-framework.md",
         "ok": true,
-        "sha256": "ec38c6383d4f855d"
+        "sha256": "57f886feb78f4451"
       },
       "telegram": {
-        "at": "2026-10-05T14:31:44Z",
+        "at": "2026-10-16T20:34:50Z",
         "note": "edited in place \u2192 @mrnasdog (msg 81)",
         "ok": true,
-        "sha256": "ee773286fe124ac1"
+        "sha256": "57f886feb78f4451"
       }
     },
     "site": "crypto",
@@ -1427,10 +1427,10 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/fil-coin-research.md",
     "receipts": {
       "github": {
-        "at": "2026-10-14T03:19:40Z",
+        "at": "2026-10-16T20:34:30Z",
         "note": "batch commit",
         "ok": true,
-        "sha256": "d18c131c672c351a"
+        "sha256": "25165fe9f7785f25"
       }
     },
     "site": "mrnasdog.com"
@@ -1441,16 +1441,16 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/fil-pressure-framework.md",
     "receipts": {
       "github": {
-        "at": "2026-10-10T21:43:46Z",
-        "note": "batch commit",
+        "at": "2026-10-16T20:34:37Z",
+        "note": "already current \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/fil-pressure-framework.md",
         "ok": true,
-        "sha256": "8a5ad21abdc9b143"
+        "sha256": "12ea98ab5b8bb1ac"
       },
       "telegram": {
-        "at": "2026-10-05T14:31:21Z",
+        "at": "2026-10-16T20:34:38Z",
         "note": "edited in place \u2192 @mrnasdog (msg 83)",
         "ok": true,
-        "sha256": "80b7f08d0b3813b6"
+        "sha256": "12ea98ab5b8bb1ac"
       }
     },
     "site": "crypto",
@@ -1526,10 +1526,10 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/flr-coin-research.md",
     "receipts": {
       "github": {
-        "at": "2026-10-14T03:19:40Z",
+        "at": "2026-10-17T21:32:17Z",
         "note": "batch commit",
         "ok": true,
-        "sha256": "e6d3e1fc07de3a3d"
+        "sha256": "4d55e6bf31afa30d"
       }
     },
     "site": "mrnasdog.com"
@@ -1546,16 +1546,16 @@
         "sha256": "d37823a2b5e4805d"
       },
       "github": {
-        "at": "2026-10-10T21:43:46Z",
-        "note": "batch commit",
+        "at": "2026-10-17T21:32:38Z",
+        "note": "already current \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/flr-pressure-framework.md",
         "ok": true,
-        "sha256": "380523b671eaff31"
+        "sha256": "5f7a35318edec16a"
       },
       "telegram": {
-        "at": "2026-10-07T17:36:01Z",
+        "at": "2026-10-17T21:32:39Z",
         "note": "edited in place \u2192 @mrnasdog (msg 84)",
         "ok": true,
-        "sha256": "d0ecbd7195de8b49"
+        "sha256": "5f7a35318edec16a"
       }
     },
     "site": "crypto",
@@ -2051,10 +2051,10 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/inj-coin-research.md",
     "receipts": {
       "github": {
-        "at": "2026-10-14T03:19:40Z",
+        "at": "2026-10-16T20:34:30Z",
         "note": "batch commit",
         "ok": true,
-        "sha256": "fd65d33113f9b011"
+        "sha256": "fea3424f393a922c"
       }
     },
     "site": "mrnasdog.com"
@@ -2071,16 +2071,16 @@
         "sha256": "df11f12952960a42"
       },
       "github": {
-        "at": "2026-10-10T21:43:46Z",
-        "note": "batch commit",
+        "at": "2026-10-16T20:34:39Z",
+        "note": "already current \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/inj-pressure-framework.md",
         "ok": true,
-        "sha256": "8213cce54ca4bbab"
+        "sha256": "1c36e2f8087753e8"
       },
       "telegram": {
-        "at": "2026-10-05T14:31:38Z",
+        "at": "2026-10-16T20:34:40Z",
         "note": "edited in place \u2192 @mrnasdog (msg 87)",
         "ok": true,
-        "sha256": "6cd7d79c42e48b46"
+        "sha256": "1c36e2f8087753e8"
       }
     },
     "site": "crypto",
@@ -2873,10 +2873,10 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/nexo-coin-research.md",
     "receipts": {
       "github": {
-        "at": "2026-10-14T03:19:40Z",
+        "at": "2026-10-17T21:32:17Z",
         "note": "batch commit",
         "ok": true,
-        "sha256": "fd18030e313d3ac4"
+        "sha256": "2c3ce0b021bc2208"
       }
     },
     "site": "mrnasdog.com"
@@ -2887,16 +2887,16 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/nexo-pressure-framework.md",
     "receipts": {
       "github": {
-        "at": "2026-10-10T21:43:46Z",
-        "note": "batch commit",
+        "at": "2026-10-17T21:32:42Z",
+        "note": "already current \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/nexo-pressure-framework.md",
         "ok": true,
-        "sha256": "31657207b9664c8d"
+        "sha256": "9f37a47fd96c6ea6"
       },
       "telegram": {
-        "at": "2026-10-07T17:36:15Z",
+        "at": "2026-10-17T21:32:43Z",
         "note": "edited in place \u2192 @mrnasdog (msg 52)",
         "ok": true,
-        "sha256": "fb96e24a75ea011c"
+        "sha256": "9f37a47fd96c6ea6"
       }
     },
     "site": "crypto",
@@ -2906,10 +2906,10 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/night-coin-research.md",
     "receipts": {
       "github": {
-        "at": "2026-10-14T03:19:40Z",
+        "at": "2026-10-16T20:34:30Z",
         "note": "batch commit",
         "ok": true,
-        "sha256": "bc114091241cf9d1"
+        "sha256": "9168ee26d49c2fca"
       }
     },
     "site": "mrnasdog.com"
@@ -2926,16 +2926,16 @@
         "sha256": "b798dc9a9941d912"
       },
       "github": {
-        "at": "2026-10-10T21:43:46Z",
-        "note": "batch commit",
+        "at": "2026-10-16T20:34:46Z",
+        "note": "already current \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/night-pressure-framework.md",
         "ok": true,
-        "sha256": "d8b959c387a49030"
+        "sha256": "dd6290f109864a6c"
       },
       "telegram": {
-        "at": "2026-10-05T14:31:29Z",
+        "at": "2026-10-16T20:34:47Z",
         "note": "edited in place \u2192 @mrnasdog (msg 145)",
         "ok": true,
-        "sha256": "f80c2b593bc2c429"
+        "sha256": "dd6290f109864a6c"
       }
     },
     "site": "crypto",
@@ -3415,10 +3415,10 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/pyth-coin-research.md",
     "receipts": {
       "github": {
-        "at": "2026-10-14T03:19:40Z",
+        "at": "2026-10-17T21:32:17Z",
         "note": "batch commit",
         "ok": true,
-        "sha256": "085e6920e3f8a893"
+        "sha256": "8e408de12b31fc5f"
       }
     },
     "site": "mrnasdog.com"
@@ -3435,16 +3435,16 @@
         "sha256": "7420d73820ab12b0"
       },
       "github": {
-        "at": "2026-10-10T21:43:46Z",
-        "note": "batch commit",
+        "at": "2026-10-17T21:32:36Z",
+        "note": "already current \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/pyth-pressure-framework.md",
         "ok": true,
-        "sha256": "210590dfe4fac60e"
+        "sha256": "34fb8b1cec43def2"
       },
       "telegram": {
-        "at": "2026-10-07T17:36:04Z",
+        "at": "2026-10-17T21:32:37Z",
         "note": "edited in place \u2192 @mrnasdog (msg 148)",
         "ok": true,
-        "sha256": "4c7073ba8fdfd18d"
+        "sha256": "34fb8b1cec43def2"
       }
     },
     "site": "crypto",
@@ -3599,10 +3599,10 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/sei-coin-research.md",
     "receipts": {
       "github": {
-        "at": "2026-10-14T03:19:40Z",
+        "at": "2026-10-17T21:32:17Z",
         "note": "batch commit",
         "ok": true,
-        "sha256": "13d64d8377cb5be9"
+        "sha256": "9545dad12863970f"
       }
     },
     "site": "mrnasdog.com"
@@ -3619,16 +3619,16 @@
         "sha256": "63180b59cf7a1787"
       },
       "github": {
-        "at": "2026-10-10T21:43:46Z",
-        "note": "batch commit",
+        "at": "2026-10-17T21:32:46Z",
+        "note": "already current \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/sei-pressure-framework.md",
         "ok": true,
-        "sha256": "693f2565d685a897"
+        "sha256": "6973868ca117d6fd"
       },
       "telegram": {
-        "at": "2026-10-07T17:36:21Z",
+        "at": "2026-10-17T21:32:46Z",
         "note": "edited in place \u2192 @mrnasdog (msg 149)",
         "ok": true,
-        "sha256": "63146c4209ba3836"
+        "sha256": "6973868ca117d6fd"
       }
     },
     "site": "crypto",
@@ -3789,10 +3789,10 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/stable-coin-research.md",
     "receipts": {
       "github": {
-        "at": "2026-10-14T03:19:40Z",
+        "at": "2026-10-16T20:34:30Z",
         "note": "batch commit",
         "ok": true,
-        "sha256": "d719f9ada13f8dc4"
+        "sha256": "f8d43b6767c118e3"
       }
     },
     "site": "mrnasdog.com"
@@ -3809,16 +3809,16 @@
         "sha256": "68793a453b8b344e"
       },
       "github": {
-        "at": "2026-10-10T21:43:46Z",
-        "note": "batch commit",
+        "at": "2026-10-16T20:34:44Z",
+        "note": "already current \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/stable-pressure-framework.md",
         "ok": true,
-        "sha256": "05b7e4535e7d7ea7"
+        "sha256": "42e573b965840a24"
       },
       "telegram": {
-        "at": "2026-10-05T14:31:46Z",
+        "at": "2026-10-16T20:34:45Z",
         "note": "edited in place \u2192 @mrnasdog (msg 199)",
         "ok": true,
-        "sha256": "8f9fed9c4cede64b"
+        "sha256": "42e573b965840a24"
       }
     },
     "site": "crypto",
@@ -3836,10 +3836,10 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/strk-coin-research.md",
     "receipts": {
       "github": {
-        "at": "2026-10-14T03:19:40Z",
+        "at": "2026-10-17T21:32:17Z",
         "note": "batch commit",
         "ok": true,
-        "sha256": "61bf2b9feca4ee28"
+        "sha256": "daa9077b1756b5bb"
       }
     },
     "site": "mrnasdog.com"
@@ -3856,16 +3856,16 @@
         "sha256": "dd51e6dbf5290682"
       },
       "github": {
-        "at": "2026-10-10T21:43:46Z",
-        "note": "batch commit",
+        "at": "2026-10-17T21:32:41Z",
+        "note": "already current \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/strk-pressure-framework.md",
         "ok": true,
-        "sha256": "9d3685450243d149"
+        "sha256": "f52fd0cf88af07dc"
       },
       "telegram": {
-        "at": "2026-10-07T17:36:46Z",
+        "at": "2026-10-17T21:32:42Z",
         "note": "edited in place \u2192 @mrnasdog (msg 106)",
         "ok": true,
-        "sha256": "b1f5bc719784a7dc"
+        "sha256": "f52fd0cf88af07dc"
       }
     },
     "site": "crypto",
@@ -3875,10 +3875,10 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/stx-coin-research.md",
     "receipts": {
       "github": {
-        "at": "2026-10-14T03:19:40Z",
+        "at": "2026-10-17T21:32:17Z",
         "note": "batch commit",
         "ok": true,
-        "sha256": "65660e3f1c40138c"
+        "sha256": "3ff091bd6f1170f8"
       }
     },
     "site": "mrnasdog.com"
@@ -3895,16 +3895,16 @@
         "sha256": "62829ba0d8023923"
       },
       "github": {
-        "at": "2026-10-10T21:43:46Z",
-        "note": "batch commit",
+        "at": "2026-10-17T21:32:35Z",
+        "note": "already current \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/stx-pressure-framework.md",
         "ok": true,
-        "sha256": "2138b41817386ae1"
+        "sha256": "685733e1abe845d9"
       },
       "telegram": {
-        "at": "2026-10-07T17:35:55Z",
+        "at": "2026-10-17T21:32:35Z",
         "note": "edited in place \u2192 @mrnasdog (msg 151)",
         "ok": true,
-        "sha256": "bf30c54fdc3df01c"
+        "sha256": "685733e1abe845d9"
       }
     },
     "site": "crypto",
@@ -4127,10 +4127,10 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/tia-coin-research.md",
     "receipts": {
       "github": {
-        "at": "2026-10-14T03:19:40Z",
+        "at": "2026-10-17T21:32:17Z",
         "note": "batch commit",
         "ok": true,
-        "sha256": "8a03d85b889793a0"
+        "sha256": "7151c52e00dc6ee8"
       }
     },
     "site": "mrnasdog.com"
@@ -4147,16 +4147,16 @@
         "sha256": "b187b64836f8ae04"
       },
       "github": {
-        "at": "2026-10-10T21:43:46Z",
-        "note": "batch commit",
+        "at": "2026-10-17T21:32:33Z",
+        "note": "already current \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/tia-pressure-framework.md",
         "ok": true,
-        "sha256": "f1bdaf79e2868780"
+        "sha256": "1395dd9852670d18"
       },
       "telegram": {
-        "at": "2026-10-07T17:36:31Z",
+        "at": "2026-10-17T21:32:34Z",
         "note": "edited in place \u2192 @mrnasdog (msg 179)",
         "ok": true,
-        "sha256": "6a0bfa7806ef50b7"
+        "sha256": "1395dd9852670d18"
       }
     },
     "site": "crypto",
@@ -4193,10 +4193,10 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/trump-coin-research.md",
     "receipts": {
       "github": {
-        "at": "2026-10-14T03:19:40Z",
+        "at": "2026-10-17T21:32:17Z",
         "note": "batch commit",
         "ok": true,
-        "sha256": "8c25711b450ebcc8"
+        "sha256": "d49e50f1521b9747"
       }
     },
     "site": "mrnasdog.com"
@@ -4213,16 +4213,16 @@
         "sha256": "7cdf62a11e237dce"
       },
       "github": {
-        "at": "2026-10-10T21:43:46Z",
-        "note": "batch commit",
+        "at": "2026-10-17T21:32:44Z",
+        "note": "already current \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/trump-pressure-framework.md",
         "ok": true,
-        "sha256": "6a4a703d77d8895a"
+        "sha256": "11284d6acc527af4"
       },
       "telegram": {
-        "at": "2026-10-07T17:36:18Z",
+        "at": "2026-10-17T21:32:45Z",
         "note": "edited in place \u2192 @mrnasdog (msg 180)",
         "ok": true,
-        "sha256": "94c5a0f908725eaa"
+        "sha256": "11284d6acc527af4"
       }
     },
     "site": "crypto",
@@ -4319,10 +4319,10 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/vet-coin-research.md",
     "receipts": {
       "github": {
-        "at": "2026-10-14T03:19:40Z",
+        "at": "2026-10-16T20:34:30Z",
         "note": "batch commit",
         "ok": true,
-        "sha256": "e822032587f06aea"
+        "sha256": "354becb67227f90d"
       }
     },
     "site": "mrnasdog.com"
@@ -4339,16 +4339,16 @@
         "sha256": "98479e3a138f3f3d"
       },
       "github": {
-        "at": "2026-10-10T21:43:46Z",
-        "note": "batch commit",
+        "at": "2026-10-16T20:34:53Z",
+        "note": "already current \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/vet-pressure-framework.md",
         "ok": true,
-        "sha256": "30f964da743e84f0"
+        "sha256": "6d6e985a85a4e32a"
       },
       "telegram": {
-        "at": "2026-10-05T14:31:41Z",
+        "at": "2026-10-16T20:34:54Z",
         "note": "edited in place \u2192 @mrnasdog (msg 171)",
         "ok": true,
-        "sha256": "b717e6ae9a11052a"
+        "sha256": "6d6e985a85a4e32a"
       }
     },
     "site": "crypto",
@@ -4619,10 +4619,10 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/xdc-coin-research.md",
     "receipts": {
       "github": {
-        "at": "2026-10-14T03:19:40Z",
+        "at": "2026-10-17T21:32:17Z",
         "note": "batch commit",
         "ok": true,
-        "sha256": "872e0659c8690a41"
+        "sha256": "b67f26ab3f8b083b"
       }
     },
     "site": "mrnasdog.com"
@@ -4639,16 +4639,16 @@
         "sha256": "fcef82a9e62502b8"
       },
       "github": {
-        "at": "2026-10-10T21:43:46Z",
-        "note": "batch commit",
+        "at": "2026-10-17T21:32:31Z",
+        "note": "already current \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/xdc-pressure-framework.md",
         "ok": true,
-        "sha256": "e8c61d9a1649cef2"
+        "sha256": "caa3a09ea5387486"
       },
       "telegram": {
-        "at": "2026-10-07T17:35:58Z",
+        "at": "2026-10-17T21:32:32Z",
         "note": "edited in place \u2192 @mrnasdog (msg 114)",
         "ok": true,
-        "sha256": "8eb6be5d6d7d58d3"
+        "sha256": "caa3a09ea5387486"
       }
     },
     "site": "crypto",
@@ -4860,10 +4860,10 @@
     "github_url": "https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/zro-coin-research.md",
     "receipts": {
       "github": {
-        "at": "2026-10-14T03:19:40Z",
+        "at": "2026-10-16T20:34:30Z",
         "note": "batch commit",
         "ok": true,
-        "sha256": "dfaa458b306c3170"
+        "sha256": "10d48c523c5f9130"
       }
     },
     "site": "mrnasdog.com"
@@ -4880,16 +4880,16 @@
         "sha256": "8c4a5857a9daa767"
       },
       "github": {
-        "at": "2026-10-10T21:43:46Z",
-        "note": "batch commit",
+        "at": "2026-10-16T20:34:41Z",
+        "note": "already current \u2192 https://github.com/jeevansongmy-spec/mrnasdog-articles/blob/main/crypto/zro-pressure-framework.md",
         "ok": true,
-        "sha256": "d15d2ce1a81179fb"
+        "sha256": "986014078ba30477"
       },
       "telegram": {
-        "at": "2026-10-05T14:31:35Z",
+        "at": "2026-10-16T20:34:42Z",
         "note": "edited in place \u2192 @mrnasdog (msg 176)",
         "ok": true,
-        "sha256": "c7a9533f560889e6"
+        "sha256": "986014078ba30477"
       }
     },
     "site": "crypto",
