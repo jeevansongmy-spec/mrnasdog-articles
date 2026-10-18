@@ -14,15 +14,15 @@ Is Pieverse worth buying today? By the law of supply and demand, the long-run si
 
 - **Signal:** negative for Pieverse
 - **Score:** 0/10 — supply 0/5, demand 0/5
-- **Supply growth:** +19.87% in 90 days · +103.73% in a year
+- **Supply growth:** +24.11% in 90 days · +96.78% in a year
 - **How much people want it:** minimal (0/5)
 - **Price drivers:** 0 ▲ price up · 0 ▼ price down
 
 ## New PIEVERSE hitting the market
 
-Pieverse builds payment tools for AI agents. Only about 27% of its 1B coins circulate; project safes pay out monthly and the team and investor lock ends Nov 14 2026.
+Pieverse is an AI-agent payments app on Ethereum and BNB Chain. Only 27.5% of its 1B coins circulate, team Safes keep paying out, and team and investor unlocks start Nov 14 2026.
 
-Pieverse adds +19.87% new supply in the next 90 days and +103.73% over a year — supply scores 0/5 (extreme).
+Pieverse adds +24.11% new supply in the next 90 days and +96.78% over a year — supply scores 0/5 (extreme).
 
 ## The things that move Pieverse
 
@@ -42,7 +42,7 @@ Good for the price: Bigger exchanges list it. Bad for it: Delistings.
 | Apr 20 2026 | Upbit KRW market opens |
 | May 20 2026 | Kraken spot listed |
 
-*Checked Oct 10 2026*
+*Checked Oct 18 2026*
 
 ### • Product rollout
 
@@ -59,7 +59,7 @@ Real users and payments → price up · Products stay unused → price down.
 | Sep 16 2026 | Added to Arc mainnet |
 | Q4 2026 | Global compliance push (coming) |
 
-*Checked Oct 10 2026*
+*Checked Oct 18 2026*
 
 ## Demand: how much people want PIEVERSE
 
@@ -71,23 +71,23 @@ The members-only part of PIEVERSE's demand section is not included.
 
 ### Is it time to buy the Pieverse dip?
 
-Based on the law of supply and demand, the long-run signal for Pieverse is negative. As of Oct 18 2026, score 0/10, Pieverse faces +19.87% new supply over 90 days, with demand minimal (0/5). Pieverse's price drivers: 0 ▲ price up, 0 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Pieverse is negative. As of Oct 18 2026, score 0/10, Pieverse faces +24.11% new supply over 90 days, with demand minimal (0/5). Pieverse's price drivers: 0 ▲ price up, 0 ▼ price down.
 
-### What is new with the Pieverse token?
+### What is coming next for the Pieverse token?
 
-Pieverse was added on Upbit and Kraken in 2026, but has no Binance spot yet. Its agent-payment products keep shipping, though user numbers are not public, and a global compliance push is planned for Q4 2026. The bigger story is supply: +19.87% new tokens in 90 days. Our supply-and-demand read for Pieverse stays negative.
+Unlocks. Team and investor unlocks start Nov 14 2026, and supply likely grows +24.11% in the next 90 days. Upbit and Kraken listed PIEVERSE in 2026, but there is no Binance spot yet. Our supply-and-demand read for Pieverse stays negative.
 
 ### When should I sell Pieverse?
 
-Today the signal is negative. Supply and demand would point the other way for Pieverse if new supply keeps arriving (+19.87% in 90 days), or demand falls from minimal. Next date to watch for Pieverse: Q4 2026 — Global compliance push.
+Today the signal is negative. Supply and demand would point the other way for Pieverse if new supply keeps arriving (+24.11% in 90 days), or demand falls from minimal. Next date to watch for Pieverse: Q4 2026 — Global compliance push.
 
 ### Is Pieverse a good investment in 2026?
 
-On our framework Pieverse scores 0/10 (Oct 18 2026), with supply 0/5 (extreme) and demand 0/5. In the next year Pieverse's supply changes +103.73%, so the long-run signal reads negative.
+On our framework Pieverse scores 0/10 (Oct 18 2026), with supply 0/5 (extreme) and demand 0/5. In the next year Pieverse's supply changes +96.78%, so the long-run signal reads negative.
 
 ### What is the best time to invest in Pieverse?
 
-The law of supply and demand points to one window for Pieverse: low new supply, high demand, drivers pointing up. Where Pieverse stands today: +19.87% new supply in 90 days (extreme), demand minimal (0/5), drivers 0 ▲ / 0 ▼.
+The law of supply and demand points to one window for Pieverse: low new supply, high demand, drivers pointing up. Where Pieverse stands today: +24.11% new supply in 90 days (extreme), demand minimal (0/5), drivers 0 ▲ / 0 ▼.
 
 ### Will Pieverse go up? What could move its price?
 

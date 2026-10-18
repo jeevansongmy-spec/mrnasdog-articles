@@ -1,6 +1,6 @@
 ---
 title:         "Virtuals Protocol (VIRTUAL) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "A capped 1B coin with no minting: old 2024 lockups are almost empty (295K left), and a 340.65M treasury has not moved since May 2024. Supply up about 0.25% in 90 days."
+description:   "Fixed 1B supply with no minting. The last old lockup is almost empty, and the 340.65M treasury has sat still since May 2024."
 canonical_url: "https://mrnasdog.com/research/virtual"
 content_type:  "coin_hub"
 tags:          ["crypto", "virtual", "virtualsprotocol", "should-i-buy"]
@@ -20,7 +20,7 @@ published:     true
 
 ## How fast Virtuals Protocol supply grows
 
-A capped 1B coin with no minting: old 2024 lockups are almost empty (295K left), and a 340.65M treasury has not moved since May 2024. Supply up about 0.25% in 90 days.
+Fixed 1B supply with no minting. The last old lockup is almost empty, and the 340.65M treasury has sat still since May 2024.
 
 New VIRTUAL: +0.04% in 90 days, +0.04% in a year. Supply score 3.5/5, "steady", #76 of 101 for new supply.
 
@@ -36,7 +36,7 @@ Virtuals Protocol demand: 2.5/5 (**modest**), place #45 among 110 coins — inte
 
 ### ▼ New agents
 
-New agents fell 87% from the July peak by September.
+New agents fell 87% from July to September; October is slower.
 
 More new agents → price up · Fewer new agents → price down. Right now it points down.
 
@@ -49,11 +49,11 @@ More new agents → price up · Fewer new agents → price down. Right now it po
 | Aug 2026 | 8,569 agents |
 | Sep 2026 | 2,722 agents |
 
-*Checked Oct 10 2026*
+*Checked Oct 18 2026*
 
 ### ▲ Product rollout
 
-Virtuals spread to Robinhood Chain, Solana and an iOS app.
+Virtuals keeps shipping: Robinhood Chain, Solana, an iOS app, Butler.
 
 ▲ Price up if: New products land. ▼ Price down if: Launches stall. Today: the price-up case.
 
@@ -64,8 +64,9 @@ Virtuals spread to Robinhood Chain, Solana and an iOS app.
 | Jul 2 2026 | Robinhood Chain launches |
 | Aug 24 2026 | Solana Agent Access |
 | Oct 5 2026 | iOS app closed beta |
+| Oct 12 2026 | Butler auto-trading app |
 
-*Checked Oct 10 2026*
+*Checked Oct 18 2026*
 
 ## Questions people ask about Virtuals Protocol
 
@@ -73,17 +74,13 @@ Virtuals spread to Robinhood Chain, Solana and an iOS app.
 
 Based on the law of supply and demand, the long-run signal for Virtuals Protocol is mixed. As of Oct 18 2026, score 6/10, Virtuals Protocol faces +0.04% new supply over 90 days, with demand modest (2.5/5). Virtuals Protocol's price drivers: 1 ▲ price up, 1 ▼ price down.
 
-### Why is Virtuals Protocol going down?
+### What is the latest Virtuals Protocol news?
 
-New agents dried up: launches fell 87% from the July peak by September. That likely weighs on demand, which reads modest at 2.5/5 on Oct 10 2026. Supply is not the problem, with only +0.04% new tokens in 90 days. By supply and demand, Virtuals Protocol's long-run signal is mixed today.
-
-### Is Virtuals Protocol dead after the agent slump?
-
-No, the team is still shipping: Virtuals spread to Robinhood Chain, Solana and an iOS app. The weak spot is use, not supply. It scores 6.5/10 on Oct 10 2026, helped by tiny new supply of +0.04% in 90 days. Supply and demand still read mixed for Virtuals Protocol in the long run.
+Virtuals keeps shipping: Robinhood Chain, Solana, an iOS app and Butler. The weak side is new agents, down 87% from July to September, and October looks slower. Supply barely moves (+0.24% in 90 days), so demand is likely the whole story. Supply and demand still read mixed for Virtuals Protocol in the long run.
 
 ### Is $100 possible for Virtuals Protocol?
 
-It would take 130 times today's value: $100 × Virtuals Protocol's coins in the market = about $65.8B, against $505M now (Oct 18 2026). Virtuals Protocol's supply barely changes in the next year (+0.04%), so the whole move would have to come from demand. That leaves Virtuals Protocol's long-run signal at mixed, by supply and demand.
+It would take 160 times today's value: $100 × Virtuals Protocol's coins in the market = about $65.8B, against $412M now (Oct 18 2026). Virtuals Protocol's supply barely changes in the next year (+0.04%), so the whole move would have to come from demand. That leaves Virtuals Protocol's long-run signal at mixed, by supply and demand.
 
 ### Is it time to take profit on Virtuals Protocol?
 
@@ -99,7 +96,7 @@ The law of supply and demand points to one window for Virtuals Protocol: low new
 
 ### Will Virtuals Protocol go up? What could move its price?
 
-Virtuals Protocol has 2 price drivers today (1 ▲ price up, 1 ▼ price down). ▼ New agents: New agents fell 87% from the July peak by September. ▲ Product rollout: Virtuals spread to Robinhood Chain, Solana and an iOS app.
+Virtuals Protocol has 2 price drivers today (1 ▲ price up, 1 ▼ price down). ▼ New agents: New agents fell 87% from July to September; October is slower. ▲ Product rollout: Virtuals keeps shipping: Robinhood Chain, Solana, an iOS app, Butler.
 
 ### Should I buy Virtuals Protocol or Bitcoin?
 

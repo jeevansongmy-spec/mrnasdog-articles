@@ -1,6 +1,6 @@
 ---
 title:         "PIEVERSE Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description:   "PIEVERSE is inflationary: 29.75M left project safes in 90 days, +10.83% net with no burn, and +19.87% next as the team and investor lock ends Nov 14 2026."
+description:   "PIEVERSE is inflationary: team Safes released 24.75M in 90 days, +9.01% net with no buyback or burn, and +24.11% next as insider locks end Nov 14 2026."
 canonical_url: "https://mrnasdog.com/research/pieverse/inflation"
 tags:          ["crypto", "pieverse", "tokenomics", "vesting"]
 published:     true
@@ -12,60 +12,50 @@ Originally published at [PIEVERSE Inflation Analysis · October 2026 · Supply g
 <!-- main-page -->
 Looking for the buy-or-sell answer? It is on the PIEVERSE coin page, with demand and price drivers: [mrnasdog.com/research/pieverse](https://mrnasdog.com/research/pieverse)
 
-PIEVERSE supply is growing fast, and the next 90 days should be faster. Project safes released **29.75M PIEVERSE** into the market between Jul 9 and Oct 7 2026, against a circulating count of **274.75M**, for a net of **+10.83%**. Nothing was bought back, burned or locked away, so removals were **0**. The 12-month lock on team and investor coins ends on Nov 14 2026, which lifts the projection to **54.58M PIEVERSE**, or **+19.87%**, inside a hard limit of 1B coins.
+PIEVERSE supply is growing, and the next 90 days should grow it faster. Team Safes paid **24.75M PIEVERSE** into the market between Jul 20 and Oct 18 2026, nothing was bought back or burned, and that is **+9.01%** of the **274.75M** coins in circulation. On **Nov 14 2026** the team and investors finish their 12-month lock, so the next 90 days carry about **66.25M PIEVERSE** of new supply, or **+24.11%**. The monitor reads **-0.03%** because the circulating figure it reads has not changed since Jun 15 2026.
 
 ## The verdict, in one paragraph
 
-Our reading of Pieverse for the last 90 days is **+10.83%** net new supply, and **+19.87%** for the next 90 days. The monitor reads **-0.41%**, a gap of **11.24 percentage points**, so the page carries a ⚠ monitor gap chip. The reason is simple: the circulating figure the monitor reads stepped up every month after launch, then stopped at about 274.75M PIEVERSE on Jun 14 2026 and has not moved since. The chain kept moving. Three project safes sent out 29.75M PIEVERSE on Jul 15, Aug 17 and Sep 18 2026, and their combined balance fell by exactly that amount. We keep the on-chain number. In one line: **PIEVERSE is a young, unlock-driven token, with most of its supply still waiting in project safes**.
+Over the last 90 days the Pieverse ledger shows **24.75M PIEVERSE** of sell pressure and **0** of buy pressure, a net of **+9.01%** of circulating supply. The monitor reads **-0.03%** for the same window, a gap of **9.04 percentage points**, which is far above our 0.5-point limit, so the page carries a monitor-gap warning. We walked every source class and the gap did not close: the circulating number the monitor follows is the project's own report, fixed at 274.75M PIEVERSE every day since Jun 15 2026, while on-chain the team Safes fell by exactly the 24.75M they paid out. Our number stays. For the next 90 days we read **66.25M PIEVERSE** of new supply against no buyer, or **+24.11%**. Pieverse is an **unlock-driven token**: no coins are printed, but most of the 1B supply still sits with the team and is now being released.
 
 ## Sell pressure: where new PIEVERSE comes from
 
-**Protocol inflation is 0.** PIEVERSE has no block reward and pays no coins for staking. All 1B PIEVERSE were made when the token launched: 900M on Ethereum and 100M on BNB Chain. The token moves between the two chains by being destroyed on one side and recreated on the other, and we read both chains at both ends of the window: they add up to exactly 1B every time. The owner key can still mint, and it can also reset the counter the contract uses to enforce the 1B limit, so we treat the limit as watched, not locked.
+Protocol inflation is **0**. PIEVERSE has no staking pay, no block rewards and no emission. All 1B coins were made before launch, 900M on Ethereum and 100M on BNB Chain, and the two chains together held exactly 1B PIEVERSE at both ends of the window; only the split moved, by about 103.5K, as people bridged between them. One caution: the token contract still lets its owner make new coins up to the 1B limit and reset the counter behind that limit, so the cap depends on trust in the Pieverse team rather than on code.
 
-**Vesting unlocks came to 21.25M PIEVERSE.** Two project safes pay out the community pools about once a month, and the coins move on to airdrop and campaign wallets: 5M on Jul 15, 6.25M and 5M on Aug 17, and 5M on Sep 18 2026. The published Pieverse schedule allowed about 50.2M PIEVERSE in these three months, so the project released well under half of what it could. For the next 90 days we expect the community safes to keep their real pace, about 21.25M, and we add the first team and investor unlocks. The team pool (200M over 24 months) and the investor pool (150M over 18 months) each start paying about 8.33M a month from Nov 14 2026. Two of those monthly unlocks fall inside the window, on Nov 14 and Dec 14 2026, for **33.33M**. Together that makes **54.58M PIEVERSE** of vesting in the next 90 days.
+Vesting unlocks are **16.25M PIEVERSE** for the last 90 days. Two community Safes paid out on schedule-like dates: 5M and 6.25M on Aug 17 2026, then 5M on Sep 18 2026. Community growth (27.6% of supply) and ecosystem and marketing (27.4%) vest month by month, and on paper they could release about 11.19M a month together, but the Safes have paid less than that, so we carry the real pace of 16.25M forward. The large new step is the team and investor cliff. Team and advisors hold 200M on a 12-month lock then 24 months of release, and investors hold 150M on a 12-month lock then 18 months, so from **Nov 14 2026** about **16.67M PIEVERSE** a month reaches them. Three of those dates, Nov 14, Dec 14 and Jan 14, fall inside the next 90 days, adding **50M PIEVERSE**. Forward vesting is therefore **66.25M PIEVERSE**.
 
-**Foundation and unscheduled unlocks came to 8.50M PIEVERSE.** An operations safe sent 8.5M to a new wallet on Aug 17 2026, and that wallet still holds it. This safe pays out at no fixed time: past payouts ranged from under 1M to 30M, once with a gap of more than three months. With no pattern we can trust, we book 0 for it in the next 90 days and watch it instead.
-
-**Long-term locked or bankruptcy is 0.** No court case, estate or trustee holds Pieverse coins. Every long hold sits in the project's own safes, which we cover below.
+Foundation and unscheduled unlocks are **8.5M PIEVERSE**. The Pieverse operations Safe sent 8.5M to a new wallet on Aug 17 2026. Its payments have come at uneven times, from 0.3M to 30M, with a gap of more than three months before this one, so we count none ahead. The 100M Foundation Safe could draw on paper since May 2026 but has not moved a single coin. Long-term locked or bankruptcy is **0**: Pieverse launched in November 2025 and has no court estate or long lock releasing coins.
 
 ## Buy pressure: where new PIEVERSE goes
 
-**Programmatic buyback is 0.** The Pieverse whitepaper lists what the coin is for: fee discounts on the x402b payment rails, staking, voting and payments. It describes no plan to buy coins back with revenue, and no wallet did so this window.
+Programmatic buyback is **0**. Pieverse has not announced a buyback, and no wallet uses payment or app fees to buy PIEVERSE back. Protocol fee burn is **0**: nothing in the token burns coins, total supply across both chains stayed at 1B, and the burn address holds only dust. Foundation buy is **0**; the team Safes only paid out in this window.
 
-**Protocol fee burn is 0.** Paying fees in PIEVERSE earns a discount, but the coins are not destroyed. The dead addresses on both chains hold nothing but dust, and the total across both chains stayed at exactly 1B.
-
-**Foundation buy is 0.** Every project safe either paid coins out or stayed still. None bought PIEVERSE on the market.
-
-**New long-term lock is 0.** Pieverse staking opened on Aug 25 2026 with 90, 180 and 365-day locks and pays points rather than new coins. The staking contract now holds about **10.87M PIEVERSE** across both chains. Those coins came from holders who were already in the market, and they are still counted as circulating, so the lock removes nothing from the count. It does slow selling a little while it lasts.
+New long-term lock is **0**, with one real flow behind it. Pieverse staking opened in August 2026 with fixed terms of 90, 180 or 365 days, paying points instead of new coins, and about **10.87M PIEVERSE** is staked so far. Those coins came from holders who were already counted as circulating, so the lock takes nothing out of the float. If staking grows a lot, it could hold coins off the market for a few months, but it is still small next to the 66.25M due in the next 90 days.
 
 ## Foundation and overhang
 
-The real story of Pieverse supply is what has not moved yet. At launch, one deployer wallet spread the Ethereum coins across ten project safes, and we read each one at both ends of the window. Today they hold about **724.65M PIEVERSE** on Ethereum, plus 4M of the operations safe on BNB Chain. A 166M safe has never moved. A 100M safe matches the foundation reserve; its schedule allowed payouts from May 2026, yet it is untouched. Two 150M safes and a 50M safe match the investor and team pools whose lock ends on Nov 14 2026. The two monthly community safes hold 62.5M between them, the operations safe about 10.15M, and two more safes hold 20M each without moving.
+Most PIEVERSE has never reached the market. Nine Pieverse Safes with the same three keyholders hold **704.65M PIEVERSE** on Ethereum, plus 4M on BNB Chain. Five have never moved since launch: one of 166M, two of 150M, one of 100M and one of 50M, which together match the team, investor and Foundation shares and a large community pool. The two monthly community Safes hold 35M and 27.5M, the operations Safe holds 6.15M, and an idle Safe holds 20M. A further 20M sits in a Safe with different keyholders that has not moved since October 2025. Wallets that the team funded earlier, of 33M, 30M, 19.5M and two of 15M, already count as circulating.
 
-A few large wallets that got coins from these safes earlier in 2026, holding 33M, 30M and 19.5M, sit outside the safes and count as circulating. They have not moved this window. We check every one of these balances at each rebuild. If any project safe's balance falls between checks, that outflow enters the Pieverse ledger as new sell pressure at the next check.
+We read every one of these balances on-chain at each rebuild. If any team Safe's balance falls between two checks, that outflow enters the Foundation and unscheduled row, or the vesting row when it follows the published schedule, at the next refresh.
 
-## How PIEVERSE compares to other young unlock-driven tokens
+## How PIEVERSE compares to other newly launched app tokens
 
-PIEVERSE belongs to the class of tokens with a fixed supply and a long unlock calendar. Large Layer 1 chains such as Ethereum or Solana create new coins every day to pay validators, so their supply grows smoothly and slowly. PIEVERSE creates no coins at all. Its supply only grows when the project hands out coins it already made, which is why its growth comes in steps around the 14th of each month rather than as a steady drip.
+PIEVERSE belongs to the group of young app tokens with a fixed supply and a long unlock calendar. Like many tokens launched in the last two years, it printed its full 1B supply at the start and put about a quarter in the market. Its supply grows only as insiders and community pools release coins, so its inflation comes in steps on unlock dates rather than in a smooth, steady flow like a proof-of-stake chain that pays validators in new coins.
 
-Against exchange tokens that burn coins every quarter, Pieverse has no buyer of last resort: no burn and no buyback. Every coin that leaves a safe stays in the market. Against older tokens whose unlocks have finished, Pieverse is near the start of its calendar. About 27% of the supply is counted as circulating today, and the full schedule runs to Nov 2028, so the circulating count could still more than triple.
+The difference with the app tokens that hold up best on our ledger is the buy side. Several trading and launchpad tokens send a share of their fees to open-market buybacks or burns every day, which takes coins out of the float against the unlocks. Pieverse has no fee buyback and no burn, so every unlocked coin is net new supply. Chains with a fee burn, such as Ethereum, also offset part of their issuance; PIEVERSE has nothing on that side yet.
 
-What makes Pieverse unusual within this class is that its project has released less than its schedule allowed. A schedule says what may unlock; the chain shows what did. That gap is good news for holders today, but it also means the coins not yet released are still waiting, and they can come out later.
+The size of the coming wave also sets PIEVERSE apart. With only **27.5%** of supply circulating, the team and investor releases from Nov 14 2026 are large next to the float, much as for other tokens in their first year after a cliff. The custody is clear and readable on-chain, which helps, but the cap still depends on the owner keys.
 
 ## What to watch in the next 90 days
 
-**Oct 14 2026:** the next monthly community payout. Recent months brought about 5M to 11M PIEVERSE from the two community safes.
+**Nov 14 2026**: the first team and investor release after the 12-month lock, about 16.67M PIEVERSE, with the monthly community payout due around the same date. Watch whether the 150M and 50M Safes move at all, and where the coins go.
 
-**Nov 14 2026:** the 12-month lock on team and investor coins ends, and about 16.7M PIEVERSE a month can start to flow. Investors bought near $0.067, far below today's price, so this is the date the market is most worried about.
+**Dec 14 2026** and **Jan 14 2027**: the second and third team and investor releases, about 16.67M PIEVERSE each. If the team keeps coins in the Safes rather than sending them out, the real flow will be lower than our forward figure.
 
-**Dec 14 2026:** the second team and investor monthly unlock, about 16.7M PIEVERSE more.
-
-**The 100M foundation safe and the operations safe:** neither has a fixed payout date. Any move from either would add to sell pressure that we have not projected.
-
-**The owner's mint key:** the token still allows minting, and the owner can reset the counter behind the 1B limit. We read both chains' supply at every rebuild.
+The 100M Foundation Safe and the 166M Safe that has never moved: any first outflow would be a new release. Also watch the circulating figure the market reads, which has been stuck at 274.75M PIEVERSE since Jun 15 2026, and the staking total, now about 10.87M.
 
 ## Summary
 
-PIEVERSE supply grew **+10.83%** in the last 90 days as project safes released **29.75M PIEVERSE**, and we project **+19.87%** for the next 90 days as the team and investor lock ends on Nov 14 2026. Pieverse has no burn, no buyback and no coin rewards, so nothing offsets those releases. The key risk is the size of the stock still in project safes, about 725M PIEVERSE, against 274.75M circulating. The ceiling is the 1B total, which holds only as long as the owner key does not reset the contract's supply counter.
+PIEVERSE is inflationary on its tradable float: **24.75M PIEVERSE** left team Safes in the last 90 days for a net of **+9.01%**, and with the team and investor lock ending on Nov 14 2026 we expect about **66.25M**, or **+24.11%**, in the next 90 days. Nothing on the buy side offsets it: no buyback, no burn, and staking only moves coins that already circulate. The total is capped at 1B, but the owner keys can still mint up to that cap, and about 71% of the supply is still waiting in team hands.
 
-*MrNasdog Pressure Framework analysis of PIEVERSE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 8 2026.*
+*MrNasdog Pressure Framework analysis of PIEVERSE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 18 2026.*

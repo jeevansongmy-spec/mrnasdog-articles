@@ -14,7 +14,7 @@ As of Oct 18 2026, Lido DAO scores 2/10 on our framework, and its supply-and-dem
 
 - **Long-run signal:** negative for Lido DAO
 - **Score:** 2/10 — supply 0.5/5, demand 1.5/5
-- **New supply:** +5.19% in 90 days · +3.04% in a year
+- **New supply:** +5.13% in 90 days · +1.27% in a year
 - **Demand:** very weak (1.5/5)
 - **Price drivers:** 2 ▲ price up · 0 ▼ price down
 
@@ -33,9 +33,9 @@ Good for the price: More ETH staked. Bad for it: ETH leaves Lido. Right now it p
 | Jul 31 2026 | 9.39 M ETH |
 | Aug 31 2026 | 9.63 M ETH |
 | Sep 30 2026 | 9.87 M ETH |
-| Oct 18 2026 | 9.68 M ETH |
+| Oct 19 2026 | 9.68 M ETH |
 
-*Checked Oct 10 2026*
+*Checked Oct 18 2026*
 
 ### ▲ ETH staking yield
 
@@ -48,19 +48,19 @@ Staking yield holds up → price up · Staking yield gets cut → price down. To
 | Jul 31 2026 | 2.23% |
 | Aug 31 2026 | 2.27% |
 | Sep 30 2026 | 2.25% |
-| Oct 18 2026 | 2.22% |
+| Oct 19 2026 | 2.22% |
 
-*Checked Oct 10 2026*
+*Checked Oct 18 2026*
 
 ## New LDO hitting the market
 
-Fixed 1B supply, no emission. The Lido DAO buys LDO back with staked ETH and keeps it, but 48.93M locked LDO opens on Jan 1 2027.
+No new LDO is printed. The Lido DAO buys LDO back with staked ETH and keeps it, but 48.93M locked LDO unlock on Jan 1 2027.
 
-Lido DAO adds +5.19% new supply in the next 90 days and +3.04% over a year — supply scores 0.5/5 (flooding).
+Lido DAO adds +5.13% new supply in the next 90 days and +1.27% over a year — supply scores 0.5/5 (flooding).
 
 ## Demand: how much people want LDO
 
-Demand reads **very weak** (1.5/5), #80 of 110 coins we track — that is how much people want LDO now and how much buying could still come.
+Demand reads **very weak** (1.5/5), #79 of 110 coins we track — that is how much people want LDO now and how much buying could still come.
 
 (Members see more LDO demand detail on the page; it is not repeated here.)
 
@@ -68,27 +68,23 @@ Demand reads **very weak** (1.5/5), #80 of 110 coins we track — that is how mu
 
 ### Is it time to buy the Lido DAO dip?
 
-By the law of supply and demand, Lido DAO's long-run signal is negative (Oct 18 2026, score 2/10). New supply: +5.19% in the next 90 days. Demand: very weak (1.5/5). Lido DAO's price drivers: 2 ▲ price up, 0 ▼ price down.
+By the law of supply and demand, Lido DAO's long-run signal is negative (Oct 18 2026, score 2/10). New supply: +5.13% in the next 90 days. Demand: very weak (1.5/5). Lido DAO's price drivers: 2 ▲ price up, 0 ▼ price down.
 
-### Lido is winning back staked ETH, so why is LDO still falling?
+### What is the latest Lido DAO news for LDO holders?
 
-The token side looks like the problem. ETH staked in Lido climbed back from its 8.5M low, yet LDO adds +5.19% new supply in 90 days while demand reads very weak (1.5/5). More tokens with few buyers usually means a lower price, even when the protocol does fine. Supply and demand still read negative for Lido DAO in the long run.
-
-### Does the Ethereum staking reward debate matter for Lido DAO?
-
-Yes, probably a lot. Lido lives on ETH staking, so lower rewards could push stakers away. A plan to cut staking rewards was pulled, which reads good for Lido DAO today, but the debate goes on. Even so, LDO's own demand reads very weak (1.5/5) on Oct 10 2026. By supply and demand, Lido DAO's long-run signal is negative today.
+The big date is Jan 1 2027, when 48.93M LDO unlock; supply likely grows +5.13% in the next 90 days. Before that, ETH staked in Lido has climbed back from its 8.5M low, and the plan to cut staking rewards was pulled. Our supply-and-demand read for Lido DAO stays negative.
 
 ### When should I sell Lido DAO?
 
-Lido DAO's signal is negative for now. Lido DAO's signal would turn if new supply keeps arriving (+5.19% in 90 days), or demand falls from very weak.
+Lido DAO's signal is negative for now. Lido DAO's signal would turn if new supply keeps arriving (+5.13% in 90 days), or demand falls from very weak.
 
 ### Is Lido DAO a good investment in 2026?
 
-Lido DAO sits at 2/10 today (Oct 18 2026): supply 0.5/5, demand 1.5/5. One more year adds +3.04% to Lido DAO's supply. Long-run signal: negative.
+Lido DAO sits at 2/10 today (Oct 18 2026): supply 0.5/5, demand 1.5/5. One more year adds +1.27% to Lido DAO's supply. Long-run signal: negative.
 
 ### When is a good time to buy Lido DAO?
 
-By the law of supply and demand, the better time to enter Lido DAO is when its new supply is low, demand is high and its price drivers point up. Lido DAO today: +5.19% new supply in 90 days (flooding), demand very weak (1.5/5), drivers 2 ▲ / 0 ▼.
+By the law of supply and demand, the better time to enter Lido DAO is when its new supply is low, demand is high and its price drivers point up. Lido DAO today: +5.13% new supply in 90 days (flooding), demand very weak (1.5/5), drivers 2 ▲ / 0 ▼.
 
 ### What could push Lido DAO's price up or down?
 

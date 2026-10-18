@@ -1,6 +1,6 @@
 ---
-title: "BTT Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description: "BTT supply is flat: 0.00% net over 90 days and the next 90. A fixed 990T token, no mint, 3.94T left in one release wallet, first burn due mid-October 2026."
+title: "BTT Inflation Analysis · October 2026 · Supply shrinking · projected to keep shrinking"
+description: "BTT is shrinking: no new coins, and a revenue buyback burned 21.62T BTT on Oct 16 2026. Supply fell 2.24% in 90 days; the next burn is due in January."
 canonical_url: "https://mrnasdog.com/research/btt/inflation"
 tags: ["crypto", "btt", "bittorrent", "tron"]
 published: true
@@ -10,50 +10,50 @@ published: true
 <!-- main-page -->
 The BitTorrent coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/btt](https://mrnasdog.com/research/btt). Below: supply, line by line.
 
-# BTT Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+# BTT Inflation Analysis · October 2026 · Supply shrinking · projected to keep shrinking
 
-BTT supply did not move in the 90 days to Oct 8 2026, and it is set to stay flat for the next 90. The BitTorrent token has a fixed supply of **990T BTT** that its TRON contract can never raise, **987.04T BTT** of it already counts as circulating, and no coins were created, released or burned in the window: **0 sell**, **0 buy**, net **0.00%**, against **+0.00%** on our monitor. The open questions are the last **3.94T BTT** in BitTorrent's release wallet and a new quarterly buyback and burn whose first burn is due in mid-October 2026, with no size published.
+BitTorrent (BTT) is shrinking. The token contract holds a fixed **990 trillion BTT** and makes no new coins, and on Oct 16 2026 BitTorrent's first revenue buyback burned **21,621.6B BTT**, worth about $7.6M. Against **965.42T BTT** in circulation, BTT supply fell **2.24%** over the last 90 days, and a second quarterly burn due in mid-January 2027 points to about **2.22%** less over the next 90 days.
 
 ## The verdict, in one paragraph
 
-The MrNasdog Pressure Framework puts BTT at a net **0.00%** over the last 90 days and **0.00%** over the next 90. Our inflation monitor, which tracks the market's circulating supply count, reads **+0.00%** over the same 90 days, so the gap is **0.00 percentage points** — well inside the half-point line, and no warning chip is needed. Every BTT that will ever exist was made in December 2021, almost all of it is already in the float, and the burn has not started yet. The cite-able label: **a fixed-supply token sitting still, waiting on its first burn**.
+Over the 90 days to Oct 18 2026, BTT added **0** new coins to the market and burned **21,621.6B BTT**, a net change of **−2.24%** of circulating supply. Our inflation monitor, which tracks the circulating figure day by day, reads **−2.17%** for the same 90 days, a gap of only **0.07 percentage points**, so the two readings agree and no data-conflict warning is needed. For the next 90 days we expect **−2.22%**, because the BitTorrent buyback burns once a quarter and the next burn falls in mid-January. In one line: BTT is a fixed-supply token that has turned deflationary through a revenue-funded buyback and burn.
 
 ## Sell pressure: where new BTT comes from
 
-Protocol inflation is **0**, and it is permanent. BTT is a TRON token, and its contract fixed **990T BTT** at creation. We checked the contract code itself this rebuild: it only has the standard token functions — transfer, approve, balance and allowance — and nothing that can mint new BTT. Copies of BTT on BitTorrent Chain, Ethereum and BNB Chain were made by locking TRON BTT, so they add nothing either. Staking pay on BitTorrent Chain comes out of a staking pot filled with existing BTT, not from new coins.
+Protocol inflation is **0**. The BTT contract on TRON was created with all 990 trillion coins and has no way to make more. The BitTorrent Chain (BTTC) pays its stakers about **6.8% a year** on **44.77T staked BTT**, roughly 755B BTT a quarter, but that pay comes from coins already counted as circulating, so it moves BTT between holders rather than adding new supply.
 
-Vesting unlocks are **0** for both windows, but this is the row to watch. In November 2024 BitTorrent said **21.75T BTT** was still unreleased and would come out over five years, ending in 2029. On-chain, that whole amount went into a single release wallet on Nov 23 2024. The 2025 batch, **17.81T BTT**, left it on Jan 30 2025. Since then the wallet has not moved: it still holds **3.94T BTT**, which is four yearly batches of about **0.98T BTT** each (2026, 2027, 2028 and 2029). So the 2026 batch is late — it is October and it has not left the wallet. But the market's supply count already includes it: circulating supply today matches the 2026 target in BitTorrent's own plan, less the coins already burned. When that batch finally moves, BTT counted as circulating will not grow, so it books 0. The 2027 batch is the next real addition; the last batch left at the end of January, which would fall just after the next 90-day window.
+Vesting unlocks are **0** in both windows. BitTorrent published a release table in November 2024: what was left of the old allocation is freed in yearly batches of **984.7B BTT** until the last one in 2029. All of it sits in one release wallet holding **3,938.9B BTT**, which has not moved since it paid out the 2025 batch on Jan 30 2025. The 2026 batch is already counted as circulating even though it never left that wallet, so if it moves now it adds nothing new. The 2027 batch has no published date; going by the January 30 timing of the last move, we expect it after this window closes on Jan 16 2027.
 
-Foundation and unscheduled unlocks are **0**. The team-linked wallets we track did move a little — one sent **212B BTT** on Aug 19 2026 — but every one of them holds coins that are already counted as circulating, so those moves only shift BTT inside the float. Long-term locked or bankruptcy supply is **0**: there is no estate or trustee holding BTT, and the US regulator's case against the founder and the BitTorrent company ended in March 2026 with a **$10M** fine paid in cash, not in coins.
+Foundation and unscheduled unlocks are **0**. Large team-linked wallets exist, but every one of them is already inside the circulating count, so a sale from them would change hands, not supply. Long-term locks and bankruptcy releases are also **0**: no estate, trustee or long lock holds BTT.
 
 ## Buy pressure: where new BTT goes
 
-The programmatic buyback books **0** for now, but it is the most important change to BTT's supply story this year. On Jul 6 2026 BitTorrent said it will spend **100% of the revenue** from its decentralized services — BitTorrent Speed and its new AI compute service, BTTInferGrid — on buying BTT from the market every quarter, and burn those coins. The first burn is due in **mid-October 2026**, with the amount, the share of supply and the transaction promised at that time. A TRON ecosystem report in August said BTT also bought some back in the second quarter, with no size given. Until coins actually reach a burn address, there is nothing we can count: the main burn address still holds **7.91B BTT** and has received nothing since December 2025.
+The programmatic buyback is the whole story. On Jul 6 2026 BitTorrent said it would spend all revenue from its decentralized services, such as the paid BitTorrent apps and its new compute network, on buying BTT from the market each quarter and burning it. The first burn arrived on Oct 16 2026: **21,621.6B BTT**, about **2.2%** of circulating supply, sent in one transfer to the TRON burn address. The coins were bought on exchanges, so they came out of the float and left it for good. At today's price the same $7.6M would buy about **21,441.3B BTT** in the October to December round, which BitTorrent says it will report in the middle of January.
 
-The protocol fee burn is **0**. BitTorrent Chain blocks carry no base fee to destroy; fees go to the validators. Foundation buying is **0** — no purchase for a team treasury was announced or seen. New long-term lock is **0** too: about **23.15T BTT** is staked in the BitTorrent Chain staking contract on TRON, but staked coins still count as circulating, so staking more removes nothing from the float.
+The protocol fee burn is **0**: BitTorrent Chain blocks do not burn a base fee, and fees go to validators. Apart from the buyback burn, nothing else reached the burn address in the window. Foundation buying is **0**, and new long-term locks are **0**, because staked BTT still counts as circulating.
 
 ## Foundation and overhang
 
-Five pools of team-linked BTT matter. First, the release wallet with **3.94T BTT**, untouched since Jan 30 2025; it is the only BTT outside the market's float, and we read it on-chain at every rebuild. Second, the team wallet that filled the release wallet in 2024, now holding **52.46T BTT**; it sent out 212B BTT in August 2026. Third, a wallet that public reporting ties to exchanges owned by the founder, holding **112.60T BTT** and quiet since July 2025. Fourth, **8.90T BTT** that was swept into a team wallet on Jul 7 2026 when BitTorrent closed its cross-chain bridge in June. Fifth, the wallet that will hold bought-back BTT before each burn, which has not been named yet. All but the first are already part of the float, so a sale from them would not add new supply — but they are large, and we watch them. If any of these balances falls between rebuilds, the outflow enters Sell #3 at the next rebuild.
+The release wallet is the one real overhang outside the float: about **2,954.1B BTT** of its 3,938.9B is still waiting for the 2027, 2028 and 2029 batches. Inside the float, we watch several team-linked wallets: one holding about **112.6T BTT** that has not moved, one holding **52.46T BTT** that sent out 212B on Aug 19 2026, and one holding **8.90T BTT** swept from the closed BTTC bridge, unmoved this window. The staking contract on TRON holds about **23.07T BTT**, and the buyback wallet was empty after the October burn. We re-read these balances at every rebuild; if the release wallet's balance falls between refreshes, the outflow enters the foundation and unscheduled unlocks row at the next refresh.
 
-## How BTT compares to other fixed-supply exchange-ecosystem tokens
+## How BTT compares to other revenue-buyback tokens
 
-BTT belongs to the group of tokens whose whole supply was minted at launch and whose only lever on supply is a buyback and burn — the same shape as the other big TRON-ecosystem tokens such as JST, SUN and WIN. Against uncapped Layer 1 coins like ETH or SOL, which pay validators in new coins every day, BTT has no issuance at all: staking on BitTorrent Chain is paid from coins that already exist. Against tokens with large investor and team unlocks still ahead, BTT is nearly done: **99.7%** of its supply is already counted as circulating.
+Most tokens that shrink do it through a fee burn written into the chain, where every transaction destroys a little. BTT works differently: its own chain burns nothing, and the shrink comes from a company decision to turn service revenue into quarterly buybacks. That puts BTT closer to exchange tokens and app tokens that buy back with earnings than to chains with a built-in burn. Several other TRON-group tokens also run revenue buybacks and burns, so BTT now follows a pattern already common around it.
 
-The difference from its TRON neighbours is the burn. JST and SUN already report quarterly burns with sizes; BTT has not burned anything under its new programme yet, and its revenue base — BitTorrent Speed and an AI compute service that only launched this year — is unproven next to the very large supply. With **987.04T BTT** circulating, a burn has to be big to move the percentage: even **1T BTT** burned in a quarter would be only about **0.10%** of supply.
+Compared with tokens that still unlock large team and investor shares each month, BTT's supply side is unusually quiet: the release table leaves under **0.31%** of supply to come, in three small yearly steps, and nothing is printed for staking. The trade-off is that the buy side depends on revenue and on the team keeping its promise: there is no contract that forces a burn, so each quarter's size can rise, fall or stop.
 
 ## What to watch in the next 90 days
 
-**Mid-October 2026:** the first BTT burn and its report — the amount, the share of supply and the transaction. A real number here turns the buyback row from 0 into a measured flow.
+**Mid-January 2027:** the burn for October to December 2026 is due; its size will show whether the $7.6M first round was typical.
 
-**The release wallet:** any movement out of the **3.94T BTT** wallet. The late 2026 batch of about 0.98T would only move coins already counted; a move larger than one batch would be new supply.
+**The release wallet (3,938.9B BTT):** any move would most likely be the 2027 batch of 984.7B or the late 2026 batch.
 
-**Late January 2027:** the 2027 release batch of about **0.98T BTT**, which BitTorrent's plan puts in 2027; the last batch went out on Jan 30. If it arrives before Jan 6 2027, it lands inside the next window.
+**Staking pay on BitTorrent Chain:** a change to the 6.8% rate would change how fast coins move from the staking pot to stakers, though not total supply.
 
-**Large team-linked wallets:** the 112.60T and 52.46T wallets and the 8.90T bridge sweep, and whether the quarterly report from the TRON ecosystem gives BTT burn sizes.
+**Team-linked wallets:** large moves from the 112.6T and 52.46T wallets would not add supply, but they could add selling.
 
 ## Summary
 
-The MrNasdog Pressure Framework reads BTT at a net **0.00%** over the last 90 days and **0.00%** over the next 90: the BitTorrent token has a fixed **990T BTT** supply that its contract cannot raise, nothing was released or burned in the window, and our monitor agrees. The structure is almost fully unlocked, with only **3.94T BTT** left in one release wallet and four yearly batches of about 0.98T BTT due through 2029. The key risk is the very large team-linked wallets already inside the float; the upside case is the quarterly buyback and burn that starts in mid-October 2026, whose size is still unknown. BTT can never inflate above 990T, so from here its supply can only stay flat or shrink.
+BitTorrent (BTT) has a fixed 990 trillion supply with no minting, and from October 2026 it shrinks through a quarterly buyback paid by service revenue. The first burn removed **21,621.6B BTT**, taking supply down **2.24%** in 90 days, and the next burn in mid-January points to about **2.22%** less again. Only about 2.95T BTT is left to release, in yearly steps to 2029. The key risk is that the burn depends on revenue and on the team's choice, not on code, so a smaller or skipped round would leave BTT close to flat.
 
-*MrNasdog Pressure Framework analysis of BTT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 8 2026.*
+*MrNasdog Pressure Framework analysis of BTT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 18 2026.*

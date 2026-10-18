@@ -14,15 +14,15 @@ Our read on Pudgy Penguins for Oct 18 2026: a **mixed** long-run signal and a sc
 
 - **Signal today:** mixed (Oct 18 2026)
 - **MrNasdog score:** 4/10 — supply 1.5/5, demand 2.5/5
-- **New coins:** +2.48% in 90 days · +9.93% in a year
+- **New coins:** +1.86% in 90 days · +7.54% in a year
 - **Demand:** modest (2.5/5)
 - **Drivers:** 1 ▲ price up · 0 ▼ price down
 
 ## New PENGU hitting the market
 
-No new PENGU can be minted, but team and company wallets release about 520M PENGU every month and nothing buys them back.
+No new PENGU can be minted, but team and company wallets sent out 1.17B PENGU in 90 days and nothing buys them back.
 
-New PENGU: +2.48% in 90 days, +9.93% in a year. Supply score 1.5/5, "meme coin".
+New PENGU: +1.86% in 90 days, +7.54% in a year. Supply score 1.5/5, "meme coin".
 
 ## Demand: how much people want PENGU
 
@@ -49,11 +49,11 @@ Igloo is closing Abstract on Dec 15 to focus on PENGU.
 | Dec 15 2026 | Abstract shuts down (coming) |
 | By 2027 | IPO goal (CEO) (coming) |
 
-*Checked Oct 10 2026*
+*Checked Oct 18 2026*
 
 ### ▲ Toy business
 
-Toys reached Walmart and Target; sales passed $13M by Oct 2025.
+Toys now in Walmart, Target and 330 Kung Fu Tea stores.
 
 Good for the price: More toys sold. Bad for it: Retail sales fade. Today: the price-up case.
 
@@ -66,42 +66,43 @@ Good for the price: More toys sold. Bad for it: Retail sales fade. Today: the pr
 | Jun 20 2026 | Cards in Target stores |
 | Jul 2026 | Plush in all Targets |
 | Sep 15 2026 | Robot toy licence deal |
+| Oct 1 2026 | Kung Fu Tea: 330 stores |
 
-*Checked Oct 10 2026*
+*Checked Oct 18 2026*
 
 ## Questions about PENGU
 
 ### Should I enter Pudgy Penguins right now?
 
-Supply and demand point to a mixed long-run signal for Pudgy Penguins (Oct 18 2026, score 4/10). Pudgy Penguins adds +2.48% new supply in 90 days, and demand reads modest (2.5/5). Pudgy Penguins's price drivers: 1 ▲ price up, 0 ▼ price down.
+Supply and demand point to a mixed long-run signal for Pudgy Penguins (Oct 18 2026, score 4/10). Pudgy Penguins adds +1.86% new supply in 90 days, and demand reads modest (2.5/5). Pudgy Penguins's price drivers: 1 ▲ price up, 0 ▼ price down.
 
-### What does Abstract closing mean for Pudgy Penguins?
+### Why is Pudgy Penguins so popular outside crypto?
 
-Igloo is closing its Abstract chain on Dec 15 2026 to put its focus on PENGU, which could help the token, though it is early to tell. The toy business already helps: toys reached Walmart and Target, with sales past $13M by Oct 2025. Supply and demand still read mixed for Pudgy Penguins in the long run.
+The penguins themselves are the draw. Pudgy Penguins toys now sit in Walmart, Target and 330 Kung Fu Tea stores, so many people meet the brand before the coin. That reach probably helps PENGU, worth about $464M in market cap on Oct 18 2026. For Pudgy Penguins, the supply-and-demand signal is mixed right now.
 
-### What keeps pulling Pudgy Penguins down?
+### Is Pudgy Penguins dead, or is PENGU still building?
 
-Supply, mostly. About +2.48% new PENGU arrives in 90 days and +9.93% over the next year. Demand reads weak (2/5), so buyers are probably not soaking up the new coins yet. Supply and demand still read mixed for Pudgy Penguins in the long run.
+It looks alive to us. Igloo is closing Abstract on Dec 15 2026 to focus on PENGU, and the toys keep spreading. The weak spot is supply: team wallets released 1.17B PENGU in 90 days, which likely weighs on the price. That leaves Pudgy Penguins's long-run signal at mixed, by supply and demand.
 
 ### Could Pudgy Penguins ever hit $10?
 
-Pudgy Penguins trades near 0.859 cents (Oct 18 2026). $10 a coin means a $629B market cap, 1,164 times today's $540M. Pudgy Penguins's supply also grows +9.93% in the next year, so every extra coin needs buyers too. For Pudgy Penguins, the supply-and-demand signal is mixed right now.
+Pudgy Penguins trades near 0.716 cents (Oct 18 2026). $10 a coin means a $629B market cap, 1,397 times today's $450M. Pudgy Penguins's supply also grows +7.54% in the next year, so every extra coin needs buyers too. For Pudgy Penguins, the supply-and-demand signal is mixed right now.
 
 ### Is it time to take profit on Pudgy Penguins?
 
-We would read Pudgy Penguins differently if new supply keeps arriving (+2.48% in 90 days), or demand falls from modest. Until then Pudgy Penguins's signal stays mixed. Mark this date for Pudgy Penguins: Dec 15 2026 — Abstract shuts down.
+We would read Pudgy Penguins differently if new supply keeps arriving (+1.86% in 90 days), or demand falls from modest. Until then Pudgy Penguins's signal stays mixed. Mark this date for Pudgy Penguins: Dec 15 2026 — Abstract shuts down.
 
 ### Is Pudgy Penguins a good investment right now?
 
-Pudgy Penguins scores 4/10 on our framework (Oct 18 2026): supply 1.5/5 (meme coin), demand 2.5/5. Over the next year Pudgy Penguins's supply changes +9.93%. The long-run signal is mixed.
+Pudgy Penguins scores 4/10 on our framework (Oct 18 2026): supply 1.5/5 (meme coin), demand 2.5/5. Over the next year Pudgy Penguins's supply changes +7.54%. The long-run signal is mixed.
 
 ### How do I know when to buy Pudgy Penguins?
 
-Supply and demand favor Pudgy Penguins most when little new supply is coming, demand is strong and the price drivers point up. Right now Pudgy Penguins has +2.48% new supply in 90 days (meme coin), demand modest (2.5/5), drivers 1 ▲ / 0 ▼.
+Supply and demand favor Pudgy Penguins most when little new supply is coming, demand is strong and the price drivers point up. Right now Pudgy Penguins has +1.86% new supply in 90 days (meme coin), demand modest (2.5/5), drivers 1 ▲ / 0 ▼.
 
 ### Will Pudgy Penguins go up in 2026?
 
-Pudgy Penguins's price drivers today: 1 pointing up, 0 pointing down, out of 2. • Igloo's decisions: Igloo is closing Abstract on Dec 15 to focus on PENGU. ▲ Toy business: Toys reached Walmart and Target; sales passed $13M by Oct 2025.
+Pudgy Penguins's price drivers today: 1 pointing up, 0 pointing down, out of 2. • Igloo's decisions: Igloo is closing Abstract on Dec 15 to focus on PENGU. ▲ Toy business: Toys now in Walmart, Target and 330 Kung Fu Tea stores.
 
 ### Should I buy Pudgy Penguins or Bitcoin?
 

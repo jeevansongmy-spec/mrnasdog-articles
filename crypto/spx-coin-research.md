@@ -32,7 +32,7 @@ Good for the price: Murad keeps holding. Bad for it: Murad sells. Now: ▲ up si
 |---|---|
 | Sep 2026 | Murad's known wallets 3% · Everyone else 97% |
 
-*Checked Oct 10 2026*
+*Checked Oct 18 2026*
 
 ### • Exchange listings
 
@@ -47,11 +47,11 @@ New big listings → price up · Delistings → price down.
 | Sep 9 2025 | Coinbase spot listing |
 | Jun 16 2026 | Upbit + Bithumb list SPX |
 
-*Checked Oct 10 2026*
+*Checked Oct 18 2026*
 
 ## How fast SPX6900 supply grows
 
-SPX6900 has a fixed 1B supply with no mint, no owner and no vesting. Only small third-party burns touch it: 5,722 SPX in 90 days, about 0.00% of the float.
+SPX6900 is an Ethereum meme coin with a fixed 1B supply and 930.99M circulating. No mint, no vesting, no team: supply roughly flat in 90 days.
 
 SPX6900 adds 0.00% new supply in the next 90 days and 0.00% over a year — supply scores 1.5/5 (meme coin).
 
@@ -67,17 +67,9 @@ Demand reads **modest** (2.5/5), #45 of 110 coins we track — that is how much 
 
 Supply and demand point to a mixed long-run signal for SPX6900 (Oct 18 2026, score 4/10). SPX6900 adds 0.00% new supply in 90 days, and demand reads modest (2.5/5). SPX6900's price drivers: 1 ▲ price up, 0 ▼ price down.
 
-### Is Murad still holding his SPX6900, and why does it matter?
+### Is SPX6900 dead, or do holders still believe?
 
-Yes, it looks that way: Murad's wallets hold about 3% of SPX and have not sold. That matters because SPX6900 adds 0.00% new supply in 90 days, so a big holder selling is likely the main supply risk. Demand reads modest (2.5/5) on Oct 10 2026. Supply and demand still read mixed for SPX6900 in the long run.
-
-### No new SPX6900 is coming, so why does the price still drop?
-
-Because the price rests on demand, and demand reads only modest (2.5/5) on Oct 10 2026. SPX6900 adds 0.00% new supply in 90 days, so no unlock is to blame. The last big listing was Upbit and Bithumb on Jun 16 2026, and none has come since. That leaves SPX6900's long-run signal at mixed, by supply and demand.
-
-### Could SPX6900 ever hit $100?
-
-SPX6900 trades near 38.7 cents (Oct 18 2026). $100 a coin means a $93.1B market cap, 259 times today's $360M. SPX6900's supply barely changes in the next year (0.00%), so the whole move would have to come from demand. Our supply-and-demand read for SPX6900 stays mixed.
+SPX6900 does not look dead. Murad's wallets hold about 3% of SPX and have not sold, and Upbit and Bithumb listed it on Jun 16 2026. Supply is fixed with no mint, so the price of about $0.36 (Oct 18 2026) rests on demand alone. For SPX6900, the supply-and-demand signal is mixed right now.
 
 ### When should I sell SPX6900?
 

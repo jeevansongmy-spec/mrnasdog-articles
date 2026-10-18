@@ -14,15 +14,15 @@ Our read on Pendle for Oct 18 2026: a **negative** long-run signal and a score o
 
 - **Signal today:** negative — PENDLE, read by supply and demand
 - **MrNasdog score:** 4/10 — supply 1.5/5, demand 2.5/5
-- **New coins:** +1.86% in 90 days · +7.90% in a year
+- **New coins:** +1.86% in 90 days · +8.81% in a year
 - **Demand:** modest (2.5/5)
 - **Drivers:** 0 ▲ price up · 2 ▼ price down
 
 ## PENDLE supply
 
-Pendle mints no new PENDLE, yet 2.45M coins reached the market in 90 days from treasury wallets and ending vote-locks. The fee buyback pays stakers and removes none.
+No PENDLE is minted, but team Safes and ended vote-locks released 2.48M PENDLE in 90 days, up 1.42%; 2.19M more locks end by mid-January.
 
-Expect +1.86% more PENDLE in 90 days (+7.90% over the year). On supply alone Pendle gets 1.5/5 — heavy (place 36 of 101).
+Expect +1.86% more PENDLE in 90 days (+8.81% over the year). On supply alone Pendle gets 1.5/5 — heavy (place 36 of 101).
 
 ## PENDLE price drivers the score does not count
 
@@ -39,9 +39,9 @@ Good for the price: More money parked. Bad for it: Money keeps leaving. Right no
 | Jul 31 2026 | $1.22B |
 | Aug 31 2026 | $1.18B |
 | Sep 30 2026 | $1.26B |
-| Oct 18 2026 | $1.11B |
+| Oct 19 2026 | $1.11B |
 
-*Checked Oct 10 2026*
+*Checked Oct 18 2026*
 
 ### ▼ Ethena's share
 
@@ -51,12 +51,12 @@ Ethena went from 70% of Pendle's money to about 8%
 
 | Date | Ethena (USDe + sUSDe) |
 |---|---|
-| Jul 31 2026 | 20.7% |
 | Aug 31 2026 | 12.3% |
 | Sep 30 2026 | 8% |
 | Oct 10 2026 | 8.1% |
+| Oct 18 2026 | 7.7% |
 
-*Checked Oct 10 2026*
+*Checked Oct 18 2026*
 
 ## Who wants Pendle right now
 
@@ -70,13 +70,9 @@ Extra Pendle demand detail for members stays on the live page.
 
 Based on the law of supply and demand, the long-run signal for Pendle is negative. As of Oct 18 2026, score 4/10, Pendle faces +1.86% new supply over 90 days, with demand modest (2.5/5). Pendle's price drivers: 0 ▲ price up, 2 ▼ price down.
 
-### Is Pendle dead now that most of its money has left?
+### Is Pendle dead after most of its money left?
 
-Pendle is still running, but it has shrunk a lot: money in Pendle is down about 90% from its 2025 peak. Ethena, once 70% of that money, is now about 8%. With +1.86% new supply in 90 days, it scores 4/10 (Oct 10 2026). By supply and demand, Pendle's long-run signal is negative today.
-
-### Pendle vs Aave: which DeFi token looks stronger?
-
-Aave looks stronger right now. On Oct 10 2026 Aave scores 7.5/10 with strong demand (4/5) and +0.15% new supply in 90 days. Pendle scores 4/10, with modest demand (2.5/5) and +1.86% new supply. Supply and demand still read negative for Pendle in the long run.
+Pendle is still running, but it has shrunk a lot. Money in Pendle is down about 90% from its 2025 peak, and Ethena went from 70% of it to about 8%. Supply grows +1.42% in 90 days, so the bigger worry looks like demand. That leaves Pendle's long-run signal at negative, by supply and demand.
 
 ### Should I sell Pendle or hold?
 
@@ -84,7 +80,7 @@ Today the signal is negative. Supply and demand would point the other way for Pe
 
 ### Is Pendle worth investing in for the long term?
 
-On our framework Pendle scores 4/10 (Oct 18 2026), with supply 1.5/5 (heavy) and demand 2.5/5. In the next year Pendle's supply changes +7.90%, so the long-run signal reads negative.
+On our framework Pendle scores 4/10 (Oct 18 2026), with supply 1.5/5 (heavy) and demand 2.5/5. In the next year Pendle's supply changes +8.81%, so the long-run signal reads negative.
 
 ### What is the best time to invest in Pendle?
 
@@ -102,6 +98,6 @@ Pendle reads negative at 4/10; Bitcoin reads positive at 8.5/10 (Oct 18 2026). O
 
 - The long read on Pendle supply: https://mrnasdog.com/research/pendle/inflation
 - Which crypto to buy now — PENDLE next to every coin we rank: https://mrnasdog.com/coins
-- How the Pendle score is built: https://mrnasdog.com/research/pressure-framework/full
+- About the Pendle score: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*
