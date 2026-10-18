@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy Four (FORM)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Our read on Four for Oct 14 2026: a negative long-run signal and a score of 4.5/10, from new supply, demand and what moves the price."
+description:   "Our read on Four for Oct 18 2026: a negative long-run signal and a score of 4.5/10, from new supply, demand and what moves the price."
 canonical_url: "https://mrnasdog.com/research/form"
 content_type:  "coin_hub"
 tags:          ["crypto", "form", "four", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy Four (FORM)? Supply, Demand and Price Drivers (Oct 2026)
 
-*Source: https://mrnasdog.com/research/form — numbers checked Oct 14 2026*
+*Source: https://mrnasdog.com/research/form — numbers checked Oct 18 2026*
 
-Our read on Four for Oct 14 2026: a **negative** long-run signal and a score of 4.5/10, from new supply, demand and what moves the price.
+Our read on Four for Oct 18 2026: a **negative** long-run signal and a score of 4.5/10, from new supply, demand and what moves the price.
 
 - **Signal:** negative — FORM, read by supply and demand
 - **Score:** 4.5/10 — supply 4/5, demand 0.5/5
@@ -48,7 +48,7 @@ Good for the price: More trading. Bad for it: Less trading. Now: ▼ down side.
 | Jul 31 2026 | $140M |
 | Aug 31 2026 | $52.3M |
 | Sep 30 2026 | $33.4M |
-| Oct 14 2026 | $31.5M |
+| Oct 18 2026 | $29.1M |
 
 *Checked Oct 10 2026*
 
@@ -56,11 +56,11 @@ Good for the price: More trading. Bad for it: Less trading. Now: ▼ down side.
 
 FORM prints no new coins. A one-time team buyback burned 408.6K FORM, so supply fell about 0.10% in 90 days; about 280M old BNX in project wallets can still swap in.
 
-Expect +0.01% more FORM in 90 days (+0.02% over the year). On supply alone Four gets 4/5 — tight, #81 of 101 for new supply.
+Expect +0.01% more FORM in 90 days (+0.02% over the year). On supply alone Four gets 4/5 — tight, #78 of 101 for new supply.
 
 ## Demand: how much people want FORM
 
-How much do people want FORM? **very low** — 0.5 out of 5, #100 of 110.
+How much do people want FORM? **very low** — 0.5 out of 5, #99 of 110.
 
 The members-only part of FORM's demand section is not included.
 
@@ -68,7 +68,7 @@ The members-only part of FORM's demand section is not included.
 
 ### Is it a good time to buy Four today?
 
-Based on the law of supply and demand, the long-run signal for Four is negative. As of Oct 14 2026, score 4.5/10, Four faces +0.01% new supply over 90 days, with demand very low (0.5/5). Four's price drivers: 0 ▲ price up, 2 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Four is negative. As of Oct 18 2026, score 4.5/10, Four faces +0.01% new supply over 90 days, with demand very low (0.5/5). Four's price drivers: 0 ▲ price up, 2 ▼ price down.
 
 ### Why is Four (FORM) down so much?
 
@@ -80,7 +80,7 @@ Today the signal is negative. Supply and demand would point the other way for Fo
 
 ### Is Four worth investing in for the long term?
 
-On our framework Four scores 4.5/10 (Oct 14 2026), with supply 4/5 (tight) and demand 0.5/5. In the next year Four's supply changes +0.02%, so the long-run signal reads negative.
+On our framework Four scores 4.5/10 (Oct 18 2026), with supply 4/5 (tight) and demand 0.5/5. In the next year Four's supply changes +0.02%, so the long-run signal reads negative.
 
 ### What is the best time to invest in Four?
 
@@ -92,7 +92,7 @@ Four has 2 price drivers today (0 ▲ price up, 2 ▼ price down). ▼ Four.meme
 
 ### Is Four a better investment than Bitcoin?
 
-Four reads negative at 4.5/10; Bitcoin reads positive at 8.5/10 (Oct 14 2026). On supply and demand, Four looks weaker than Bitcoin today.
+Four reads negative at 4.5/10; Bitcoin reads positive at 8.5/10 (Oct 18 2026). On supply and demand, Four looks weaker than Bitcoin today.
 
 ## Go deeper on Four
 

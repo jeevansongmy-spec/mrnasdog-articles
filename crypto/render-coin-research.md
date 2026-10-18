@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy RENDER? Render Network Supply, Demand and What Moves Its Price"
-description:   "Supply and demand give Render Network (RENDER) a positive long-run signal today (Oct 14 2026); its score is 7/10."
+description:   "Supply and demand give Render Network (RENDER) a positive long-run signal today (Oct 18 2026); its score is 7/10."
 canonical_url: "https://mrnasdog.com/research/render"
 content_type:  "coin_hub"
 tags:          ["crypto", "render", "rendernetwork", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy RENDER? Render Network Supply, Demand and What Moves Its Price
 
-*Live page: https://mrnasdog.com/research/render · checked Oct 14 2026*
+*Live page: https://mrnasdog.com/research/render · checked Oct 18 2026*
 
-Supply and demand give Render Network (RENDER) a **positive** long-run signal today (Oct 14 2026); its score is 7/10.
+Supply and demand give Render Network (RENDER) a **positive** long-run signal today (Oct 18 2026); its score is 7/10.
 
 - **Signal today:** positive (by the law of supply and demand)
 - **MrNasdog score:** 7/10 — supply 3.5/5, demand 3.5/5
@@ -26,7 +26,7 @@ Over the next 90 days RENDER supply changes +0.20%; across a full year, +0.82%. 
 
 ## Demand today
 
-People's appetite for Render Network is **strong**: 3.5/5, ranked #19 of 110.
+People's appetite for Render Network is **strong**: 3.5/5, ranked #17 of 110.
 
 Members get the rest of the Render Network demand read on mrnasdog.com.
 
@@ -45,7 +45,7 @@ Good for the price: OTOY holds, no selling. Bad for it: OTOY moves more out.
 | Jul 31 2026 | 81.9 M RENDER |
 | Aug 31 2026 | 81.9 M RENDER |
 | Sep 30 2026 | 81.9 M RENDER |
-| Oct 14 2026 | 81.9 M RENDER |
+| Oct 18 2026 | 81.9 M RENDER |
 
 *Checked Oct 11 2026*
 
@@ -70,7 +70,7 @@ Salad deal approved; its move onto RENDER has no set date.
 
 ### Is it a good time to buy Render Network today?
 
-Supply and demand point to a positive long-run signal for Render Network (Oct 14 2026, score 7/10). Render Network adds +0.20% new supply in 90 days, and demand reads strong (3.5/5). Render Network's price drivers: 0 ▲ price up, 0 ▼ price down.
+Supply and demand point to a positive long-run signal for Render Network (Oct 18 2026, score 7/10). Render Network adds +0.20% new supply in 90 days, and demand reads strong (3.5/5). Render Network's price drivers: 0 ▲ price up, 0 ▼ price down.
 
 ### How much new Render supply unlocks in the next 90 days?
 
@@ -82,7 +82,7 @@ We would read Render Network differently if new supply jumps (today +0.20% in 90
 
 ### Is Render Network a good long-term investment?
 
-Render Network scores 7/10 on our framework (Oct 14 2026): supply 3.5/5 (steady), demand 3.5/5. Over the next year Render Network's supply changes +0.82%. The long-run signal is positive.
+Render Network scores 7/10 on our framework (Oct 18 2026): supply 3.5/5 (steady), demand 3.5/5. Over the next year Render Network's supply changes +0.82%. The long-run signal is positive.
 
 ### How do I know when to buy Render Network?
 
@@ -94,7 +94,7 @@ Render Network's price drivers today: 0 pointing up, 0 pointing down, out of 2. 
 
 ### Is Render Network a better investment than Bitcoin?
 
-Render Network: positive signal, 7/10 · Bitcoin: positive signal, 8.5/10 (Oct 14 2026). By supply and demand, Render Network reads weaker than Bitcoin today.
+Render Network: positive signal, 7/10 · Bitcoin: positive signal, 8.5/10 (Oct 18 2026). By supply and demand, Render Network reads weaker than Bitcoin today.
 
 ## Where to read the rest of RENDER
 

@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy SUN? Supply, Demand and What Moves Its Price"
-description:   "Supply and demand give SUN a mixed long-run signal today (Oct 14 2026); its score is 7/10."
+description:   "Supply and demand give SUN a mixed long-run signal today (Oct 18 2026); its score is 7/10."
 canonical_url: "https://mrnasdog.com/research/sun"
 content_type:  "coin_hub"
 tags:          ["crypto", "sun", "sun", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy SUN? Supply, Demand and What Moves Its Price
 
-*Live page: https://mrnasdog.com/research/sun · checked Oct 14 2026*
+*Live page: https://mrnasdog.com/research/sun · checked Oct 18 2026*
 
-Supply and demand give SUN a **mixed** long-run signal today (Oct 14 2026); its score is 7/10.
+Supply and demand give SUN a **mixed** long-run signal today (Oct 18 2026); its score is 7/10.
 
 - **Signal:** mixed (by the law of supply and demand)
 - **Score:** 7/10 — supply 5/5, demand 2/5
@@ -22,7 +22,7 @@ Supply and demand give SUN a **mixed** long-run signal today (Oct 14 2026); its 
 
 ### Is it a good time to buy SUN today?
 
-By the law of supply and demand, SUN's long-run signal is mixed (Oct 14 2026, score 7/10). New supply: −0.04% in the next 90 days. Demand: weak (2/5). SUN's price drivers: 0 ▲ price up, 2 ▼ price down.
+By the law of supply and demand, SUN's long-run signal is mixed (Oct 18 2026, score 7/10). New supply: −0.04% in the next 90 days. Demand: weak (2/5). SUN's price drivers: 0 ▲ price up, 2 ▼ price down.
 
 ### Should I sell my SUN now?
 
@@ -30,7 +30,7 @@ SUN's signal is mixed for now. SUN's signal would turn if new supply jumps (toda
 
 ### Is SUN a good long-term investment?
 
-SUN sits at 7/10 today (Oct 14 2026): supply 5/5, demand 2/5. One more year adds −0.17% to SUN's supply. Long-run signal: mixed.
+SUN sits at 7/10 today (Oct 18 2026): supply 5/5, demand 2/5. One more year adds −0.17% to SUN's supply. Long-run signal: mixed.
 
 ### When is a good time to buy SUN?
 
@@ -42,17 +42,17 @@ Right now 2 things drive SUN's price (0 ▲, 2 ▼). ▼ SunSwap trading: Tradin
 
 ### Is SUN a better investment than Bitcoin?
 
-Side by side on Oct 14 2026: SUN at 7/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, SUN is the weaker of the two.
+Side by side on Oct 18 2026: SUN at 7/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, SUN is the weaker of the two.
 
 ## SUN supply
 
 SUN.io's token has a fixed 19.90B supply and no mint. A quarterly revenue buyback burns a little each round, so supply edges down about 0.05% in 90 days.
 
-Over the next 90 days SUN supply changes −0.04%; across a full year, −0.17%. That puts supply at 5/5 (shrinking), #103 of 101 for new supply.
+Over the next 90 days SUN supply changes −0.04%; across a full year, −0.17%. That puts supply at 5/5 (shrinking), #101 of 101 for new supply.
 
 ## Demand today
 
-People's appetite for SUN is **weak**: 2/5, ranked #64 of 110.
+People's appetite for SUN is **weak**: 2/5, ranked #65 of 110.
 
 Members get the rest of the SUN demand read on mrnasdog.com.
 

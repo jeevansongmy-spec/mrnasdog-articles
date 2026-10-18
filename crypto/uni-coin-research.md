@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy Uniswap (UNI)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Our read on Uniswap for Oct 14 2026: a positive long-run signal and a score of 8/10, from new supply, demand and what moves the price."
+description:   "Our read on Uniswap for Oct 18 2026: a positive long-run signal and a score of 7.5/10, from new supply, demand and what moves the price."
 canonical_url: "https://mrnasdog.com/research/uni"
 content_type:  "coin_hub"
 tags:          ["crypto", "uni", "uniswap", "should-i-buy"]
@@ -8,12 +8,12 @@ published:     true
 ---
 # Should You Buy Uniswap (UNI)? Supply, Demand and Price Drivers (Oct 2026)
 
-*Live page: https://mrnasdog.com/research/uni · checked Oct 14 2026*
+*Live page: https://mrnasdog.com/research/uni · checked Oct 18 2026*
 
-Our read on Uniswap for Oct 14 2026: a **positive** long-run signal and a score of 8/10, from new supply, demand and what moves the price.
+Our read on Uniswap for Oct 18 2026: a **positive** long-run signal and a score of 7.5/10, from new supply, demand and what moves the price.
 
 - **Signal:** positive (by the law of supply and demand)
-- **Score:** 8/10 — supply 4/5, demand 4/5
+- **Score:** 7.5/10 — supply 3.5/5, demand 4/5
 - **Supply growth:** +0.06% in 90 days · +0.20% in a year
 - **How much people want it:** strong (4/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
@@ -22,7 +22,7 @@ Our read on Uniswap for Oct 14 2026: a **positive** long-run signal and a score 
 
 Uniswap's treasury pays out 5M UNI a quarter while trading fees burn UNI. Two payouts landed in 90 days, so supply grew 0.65%; about 0.06% next.
 
-Over the next 90 days UNI supply changes +0.06%; across a full year, +0.20%. That puts supply at 4/5 (tight).
+Over the next 90 days UNI supply changes +0.06%; across a full year, +0.20%. That puts supply at 3.5/5 (steady).
 
 ## Demand: how much people want UNI
 
@@ -45,7 +45,7 @@ Treasury keeps its UNI → price up · Treasury pays out UNI → price down. Now
 | Jul 31 2026 | 267 M UNI |
 | Aug 31 2026 | 267 M UNI |
 | Sep 30 2026 | 267 M UNI |
-| Oct 14 2026 | 262 M UNI |
+| Oct 18 2026 | 262 M UNI |
 
 *Checked Oct 12 2026*
 
@@ -83,7 +83,7 @@ Good for the price: ETF and futures open. Bad for it: ETF denied.
 
 ### Is it a good time to buy Uniswap today?
 
-By the law of supply and demand, Uniswap's long-run signal is positive (Oct 14 2026, score 8/10). New supply: +0.06% in the next 90 days. Demand: strong (4/5). Uniswap's price drivers: 1 ▲ price up, 1 ▼ price down.
+By the law of supply and demand, Uniswap's long-run signal is positive (Oct 18 2026, score 7.5/10). New supply: +0.06% in the next 90 days. Demand: strong (4/5). Uniswap's price drivers: 1 ▲ price up, 1 ▼ price down.
 
 ### Why is Uniswap going up?
 
@@ -95,11 +95,11 @@ Uniswap's signal is positive for now. Uniswap's signal would turn if new supply 
 
 ### Is Uniswap a good long-term investment?
 
-Uniswap sits at 8/10 today (Oct 14 2026): supply 4/5, demand 4/5. One more year adds +0.20% to Uniswap's supply. Long-run signal: positive.
+Uniswap sits at 7.5/10 today (Oct 18 2026): supply 3.5/5, demand 4/5. One more year adds +0.20% to Uniswap's supply. Long-run signal: positive.
 
 ### When is a good time to buy Uniswap?
 
-By the law of supply and demand, the better time to buy Uniswap is when its new supply is low, demand is high and its price drivers point up. Uniswap today: +0.06% new supply in 90 days (tight), demand strong (4/5), drivers 1 ▲ / 1 ▼.
+By the law of supply and demand, the better time to buy Uniswap is when its new supply is low, demand is high and its price drivers point up. Uniswap today: +0.06% new supply in 90 days (steady), demand strong (4/5), drivers 1 ▲ / 1 ▼.
 
 ### What could push Uniswap's price up or down?
 
@@ -107,7 +107,7 @@ Right now 3 things drive Uniswap's price (1 ▲, 1 ▼). ▼ DAO treasury: DAO t
 
 ### Is Uniswap a better investment than Bitcoin?
 
-Side by side on Oct 14 2026: Uniswap at 8/10 with a positive signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Uniswap is the weaker of the two.
+Side by side on Oct 18 2026: Uniswap at 7.5/10 with a positive signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Uniswap is the weaker of the two.
 
 ## Read more on UNI
 

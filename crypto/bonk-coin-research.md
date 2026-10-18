@@ -1,6 +1,6 @@
 ---
 title:         "Bonk: Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)"
-description:   "Is Bonk worth buying today? By the law of supply and demand, the long-run signal for BONK is negative (score 3.5/10, checked Oct 14 2026)."
+description:   "Is Bonk worth buying today? By the law of supply and demand, the long-run signal for BONK is negative (score 3.5/10, checked Oct 18 2026)."
 canonical_url: "https://mrnasdog.com/research/bonk"
 content_type:  "coin_hub"
 tags:          ["crypto", "bonk", "bonk", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Bonk: Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)
 
-*Live page: https://mrnasdog.com/research/bonk · checked Oct 14 2026*
+*Live page: https://mrnasdog.com/research/bonk · checked Oct 18 2026*
 
-Is Bonk worth buying today? By the law of supply and demand, the long-run signal for BONK is **negative** (score 3.5/10, checked Oct 14 2026).
+Is Bonk worth buying today? By the law of supply and demand, the long-run signal for BONK is **negative** (score 3.5/10, checked Oct 18 2026).
 
 - **Signal today:** negative (by the law of supply and demand)
 - **MrNasdog score:** 3.5/10 — supply 1.5/5, demand 2/5
@@ -57,7 +57,7 @@ Over the next 90 days BONK supply changes 0.00%; across a full year, 0.00%. That
 
 ## Who wants Bonk right now
 
-People's appetite for Bonk is **weak**: 2/5, ranked #64 of 110.
+People's appetite for Bonk is **weak**: 2/5, ranked #65 of 110.
 
 The members-only part of BONK's demand section is not included.
 
@@ -65,7 +65,7 @@ The members-only part of BONK's demand section is not included.
 
 ### Is Bonk worth buying now?
 
-Based on the law of supply and demand, the long-run signal for Bonk is negative. As of Oct 14 2026, score 3.5/10, Bonk faces 0.00% new supply over 90 days, with demand weak (2/5). Bonk's price drivers: 0 ▲ price up, 1 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Bonk is negative. As of Oct 18 2026, score 3.5/10, Bonk faces 0.00% new supply over 90 days, with demand weak (2/5). Bonk's price drivers: 0 ▲ price up, 1 ▼ price down.
 
 ### Why does Bonk keep sliding lower?
 
@@ -77,7 +77,7 @@ Pepe looks a bit stronger. On Oct 10 2026 Pepe scores 4.5/10 with demand at 3/5,
 
 ### Is 1 cent possible for Bonk?
 
-It would take 3,003 times today's value: 1 cent × Bonk's coins in the market = about $880B, against $293M now (Oct 14 2026). Bonk's supply barely changes in the next year (0.00%), so the whole move would have to come from demand. By supply and demand, Bonk's long-run signal is negative today.
+It would take 3,003 times today's value: 1 cent × Bonk's coins in the market = about $880B, against $293M now (Oct 18 2026). Bonk's supply barely changes in the next year (0.00%), so the whole move would have to come from demand. By supply and demand, Bonk's long-run signal is negative today.
 
 ### Should I sell my Bonk now?
 
@@ -85,7 +85,7 @@ Today the signal is negative. Supply and demand would point the other way for Bo
 
 ### Is Bonk a good long-term investment?
 
-On our framework Bonk scores 3.5/10 (Oct 14 2026), with supply 1.5/5 (meme coin) and demand 2/5. In the next year Bonk's supply changes 0.00%, so the long-run signal reads negative.
+On our framework Bonk scores 3.5/10 (Oct 18 2026), with supply 1.5/5 (meme coin) and demand 2/5. In the next year Bonk's supply changes 0.00%, so the long-run signal reads negative.
 
 ### What is the best time to invest in Bonk?
 
@@ -97,7 +97,7 @@ Bonk has 2 price drivers today (0 ▲ price up, 1 ▼ price down). • Bonk Inc 
 
 ### Is Bonk a better investment than Bitcoin?
 
-Bonk reads negative at 3.5/10; Bitcoin reads positive at 8.5/10 (Oct 14 2026). On supply and demand, Bonk looks weaker than Bitcoin today.
+Bonk reads negative at 3.5/10; Bitcoin reads positive at 8.5/10 (Oct 18 2026). On supply and demand, Bonk looks weaker than Bitcoin today.
 
 ## Go deeper on Bonk
 

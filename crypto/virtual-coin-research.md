@@ -8,12 +8,12 @@ published:     true
 ---
 # Virtuals Protocol (VIRTUAL) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/virtual (checked Oct 14 2026)*
+*Originally published at https://mrnasdog.com/research/virtual (checked Oct 18 2026)*
 
-**mixed** — that is Virtuals Protocol's long-run signal by supply and demand as of Oct 14 2026, with a score of 6.5/10.
+**mixed** — that is Virtuals Protocol's long-run signal by supply and demand as of Oct 18 2026, with a score of 6/10.
 
-- **Signal:** mixed (Oct 14 2026)
-- **Score:** 6.5/10 — supply 4/5, demand 2.5/5
+- **Signal:** mixed (Oct 18 2026)
+- **Score:** 6/10 — supply 3.5/5, demand 2.5/5
 - **Supply growth:** +0.04% in 90 days · +0.04% in a year
 - **How much people want it:** modest (2.5/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
@@ -22,11 +22,11 @@ published:     true
 
 A capped 1B coin with no minting: old 2024 lockups are almost empty (295K left), and a 340.65M treasury has not moved since May 2024. Supply up about 0.25% in 90 days.
 
-New VIRTUAL: +0.04% in 90 days, +0.04% in a year. Supply score 4/5, "tight", #79 of 101 for new supply.
+New VIRTUAL: +0.04% in 90 days, +0.04% in a year. Supply score 3.5/5, "steady", #76 of 101 for new supply.
 
 ## Who wants Virtuals Protocol right now
 
-Virtuals Protocol demand: 2.5/5 (**modest**), place #47 among 110 coins — interest today plus the buying that could come later.
+Virtuals Protocol demand: 2.5/5 (**modest**), place #45 among 110 coins — interest today plus the buying that could come later.
 
 (Members see more VIRTUAL demand detail on the page; it is not repeated here.)
 
@@ -71,7 +71,7 @@ Virtuals spread to Robinhood Chain, Solana and an iOS app.
 
 ### Is it a good time to buy Virtuals Protocol today?
 
-Based on the law of supply and demand, the long-run signal for Virtuals Protocol is mixed. As of Oct 14 2026, score 6.5/10, Virtuals Protocol faces +0.04% new supply over 90 days, with demand modest (2.5/5). Virtuals Protocol's price drivers: 1 ▲ price up, 1 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Virtuals Protocol is mixed. As of Oct 18 2026, score 6/10, Virtuals Protocol faces +0.04% new supply over 90 days, with demand modest (2.5/5). Virtuals Protocol's price drivers: 1 ▲ price up, 1 ▼ price down.
 
 ### Why is Virtuals Protocol going down?
 
@@ -83,7 +83,7 @@ No, the team is still shipping: Virtuals spread to Robinhood Chain, Solana and a
 
 ### Is $100 possible for Virtuals Protocol?
 
-It would take 130 times today's value: $100 × Virtuals Protocol's coins in the market = about $65.8B, against $505M now (Oct 14 2026). Virtuals Protocol's supply barely changes in the next year (+0.04%), so the whole move would have to come from demand. That leaves Virtuals Protocol's long-run signal at mixed, by supply and demand.
+It would take 130 times today's value: $100 × Virtuals Protocol's coins in the market = about $65.8B, against $505M now (Oct 18 2026). Virtuals Protocol's supply barely changes in the next year (+0.04%), so the whole move would have to come from demand. That leaves Virtuals Protocol's long-run signal at mixed, by supply and demand.
 
 ### Is it time to take profit on Virtuals Protocol?
 
@@ -91,11 +91,11 @@ Today the signal is mixed. Supply and demand would point the other way for Virtu
 
 ### Is Virtuals Protocol a good investment right now?
 
-On our framework Virtuals Protocol scores 6.5/10 (Oct 14 2026), with supply 4/5 (tight) and demand 2.5/5. In the next year Virtuals Protocol's supply changes +0.04%, so the long-run signal reads mixed.
+On our framework Virtuals Protocol scores 6/10 (Oct 18 2026), with supply 3.5/5 (steady) and demand 2.5/5. In the next year Virtuals Protocol's supply changes +0.04%, so the long-run signal reads mixed.
 
 ### What is the best time to invest in Virtuals Protocol?
 
-The law of supply and demand points to one window for Virtuals Protocol: low new supply, high demand, drivers pointing up. Where Virtuals Protocol stands today: +0.04% new supply in 90 days (tight), demand modest (2.5/5), drivers 1 ▲ / 1 ▼.
+The law of supply and demand points to one window for Virtuals Protocol: low new supply, high demand, drivers pointing up. Where Virtuals Protocol stands today: +0.04% new supply in 90 days (steady), demand modest (2.5/5), drivers 1 ▲ / 1 ▼.
 
 ### Will Virtuals Protocol go up? What could move its price?
 
@@ -103,7 +103,7 @@ Virtuals Protocol has 2 price drivers today (1 ▲ price up, 1 ▼ price down). 
 
 ### Should I buy Virtuals Protocol or Bitcoin?
 
-Virtuals Protocol reads mixed at 6.5/10; Bitcoin reads positive at 8.5/10 (Oct 14 2026). On supply and demand, Virtuals Protocol looks weaker than Bitcoin today.
+Virtuals Protocol reads mixed at 6/10; Bitcoin reads positive at 8.5/10 (Oct 18 2026). On supply and demand, Virtuals Protocol looks weaker than Bitcoin today.
 
 ## Where to read the rest of VIRTUAL
 

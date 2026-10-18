@@ -1,6 +1,6 @@
 ---
 title:         "Stable — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "By the law of supply and demand, Stable's long-run signal is negative (Oct 16 2026, score 5/10). New supply: 0.00% in the next 90 days. Demand: very low (0.5/5). Stable's price drivers: 0 ▲ price up, 1 ▼ price down."
+description:   "By the law of supply and demand, Stable's long-run signal is negative (Oct 18 2026, score 5/10). New supply: 0.00% in the next 90 days. Demand: very low (0.5/5). Stable's price drivers: 0 ▲ price up, 1 ▼ price down."
 canonical_url: "https://mrnasdog.com/research/stable"
 content_type:  "coin_hub"
 tags:          ["crypto", "stable", "stable", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Stable — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
 
-*From https://mrnasdog.com/research/stable, updated Oct 16 2026*
+*From https://mrnasdog.com/research/stable, updated Oct 18 2026*
 
-**negative** — that is Stable's long-run signal by supply and demand as of Oct 16 2026, with a score of 5/10.
+**negative** — that is Stable's long-run signal by supply and demand as of Oct 18 2026, with a score of 5/10.
 
 - **Signal:** negative for Stable
 - **Score:** 5/10 — supply 4.5/5, demand 0.5/5
@@ -22,7 +22,7 @@ published:     true
 
 ### Is it time to buy the Stable dip?
 
-By the law of supply and demand, Stable's long-run signal is negative (Oct 16 2026, score 5/10). New supply: 0.00% in the next 90 days. Demand: very low (0.5/5). Stable's price drivers: 0 ▲ price up, 1 ▼ price down.
+By the law of supply and demand, Stable's long-run signal is negative (Oct 18 2026, score 5/10). New supply: 0.00% in the next 90 days. Demand: very low (0.5/5). Stable's price drivers: 0 ▲ price up, 1 ▼ price down.
 
 ### Is the Stable chain token ahead of what the chain is used for?
 
@@ -34,7 +34,7 @@ Stable's signal is negative for now. Stable's signal would turn if new supply ju
 
 ### Is Stable a good investment in 2026?
 
-Stable sits at 5/10 today (Oct 16 2026): supply 4.5/5, demand 0.5/5. One more year adds 0.00% to Stable's supply. Long-run signal: negative.
+Stable sits at 5/10 today (Oct 18 2026): supply 4.5/5, demand 0.5/5. One more year adds 0.00% to Stable's supply. Long-run signal: negative.
 
 ### When is a good time to buy Stable?
 
@@ -46,7 +46,7 @@ Right now 2 things drive Stable's price (0 ▲, 1 ▼). • Dollars on Stable: S
 
 ### Should I buy Stable or Bitcoin?
 
-Side by side on Oct 16 2026: Stable at 5/10 with a negative signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Stable is the weaker of the two.
+Side by side on Oct 18 2026: Stable at 5/10 with a negative signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Stable is the weaker of the two.
 
 ## New STABLE hitting the market
 

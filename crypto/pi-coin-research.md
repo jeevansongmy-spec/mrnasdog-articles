@@ -1,6 +1,6 @@
 ---
 title:         "Is Pi Network (PI) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)"
-description:   "Is Pi Network worth buying today? By the law of supply and demand, the long-run signal for PI is negative (score 2.5/10, checked Oct 15 2026)."
+description:   "Is Pi Network worth buying today? By the law of supply and demand, the long-run signal for PI is negative (score 2.5/10, checked Oct 18 2026)."
 canonical_url: "https://mrnasdog.com/research/pi"
 content_type:  "coin_hub"
 tags:          ["crypto", "pi", "pinetwork", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Is Pi Network (PI) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)
 
-*From https://mrnasdog.com/research/pi, updated Oct 15 2026*
+*From https://mrnasdog.com/research/pi, updated Oct 18 2026*
 
-Is Pi Network worth buying today? By the law of supply and demand, the long-run signal for PI is **negative** (score 2.5/10, checked Oct 15 2026).
+Is Pi Network worth buying today? By the law of supply and demand, the long-run signal for PI is **negative** (score 2.5/10, checked Oct 18 2026).
 
 - **Signal today:** negative for Pi Network
 - **MrNasdog score:** 2.5/10 — supply 1/5, demand 1.5/5
@@ -62,7 +62,7 @@ Good for the price: Real uses go live. Bad for it: Upgrades bring no use.
 
 ## Who wants Pi Network right now
 
-Demand reads **very weak** (1.5/5), #79 of 110 coins we track — that is how much people want PI now and how much buying could still come.
+Demand reads **very weak** (1.5/5), #80 of 110 coins we track — that is how much people want PI now and how much buying could still come.
 
 (Members see more PI demand detail on the page; it is not repeated here.)
 
@@ -70,11 +70,11 @@ Demand reads **very weak** (1.5/5), #79 of 110 coins we track — that is how mu
 
 ### Is it a good time to buy Pi Network today?
 
-Based on the law of supply and demand, the long-run signal for Pi Network is negative. As of Oct 15 2026, score 2.5/10, Pi Network faces +2.93% new supply over 90 days, with demand very weak (1.5/5). Pi Network's price drivers: 0 ▲ price up, 1 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Pi Network is negative. As of Oct 18 2026, score 2.5/10, Pi Network faces +2.93% new supply over 90 days, with demand very weak (1.5/5). Pi Network's price drivers: 0 ▲ price up, 1 ▼ price down.
 
 ### Why does the Pi Network price keep dropping?
 
-Mostly supply. Pi Network adds 4.05% new coins in 90 days, while demand reads very weak (1.5/5). Binance and Coinbase still have not listed PI, so new buyers are harder to reach. PI sits near 7.9 cents (Oct 15 2026). By supply and demand, Pi Network's long-run signal is negative today.
+Mostly supply. Pi Network adds 2.93% new coins in 90 days, while demand reads very weak (1.5/5). Binance and Coinbase still have not listed PI, so new buyers are harder to reach. PI sits near 7.9 cents (Oct 15 2026). By supply and demand, Pi Network's long-run signal is negative today.
 
 ### What Pi Network update should we watch next?
 
@@ -82,7 +82,7 @@ Protocol 28 was set for mainnet on Oct 16 2026. The stablecoin plans still look 
 
 ### Is $100 possible for Pi Network?
 
-It would take 1,263 times today's value: $100 × Pi Network's coins in the market = about $1.12 trillion, against $890M now (Oct 15 2026). Pi Network's supply also grows +11.74% in the next year, so every extra coin needs buyers too. That leaves Pi Network's long-run signal at negative, by supply and demand.
+It would take 1,263 times today's value: $100 × Pi Network's coins in the market = about $1.12 trillion, against $890M now (Oct 18 2026). Pi Network's supply also grows +11.74% in the next year, so every extra coin needs buyers too. That leaves Pi Network's long-run signal at negative, by supply and demand.
 
 ### When should I sell Pi Network?
 
@@ -90,7 +90,7 @@ Today the signal is negative. Supply and demand would point the other way for Pi
 
 ### Is Pi Network a good investment in 2026?
 
-On our framework Pi Network scores 2.5/10 (Oct 15 2026), with supply 1/5 (very heavy) and demand 1.5/5. In the next year Pi Network's supply changes +11.74%, so the long-run signal reads negative.
+On our framework Pi Network scores 2.5/10 (Oct 18 2026), with supply 1/5 (very heavy) and demand 1.5/5. In the next year Pi Network's supply changes +11.74%, so the long-run signal reads negative.
 
 ### What is the best time to invest in Pi Network?
 
@@ -102,7 +102,7 @@ Pi Network has 2 price drivers today (0 ▲ price up, 1 ▼ price down). ▼ Big
 
 ### Should I buy Pi Network or Bitcoin?
 
-Pi Network reads negative at 2.5/10; Bitcoin reads positive at 8.5/10 (Oct 15 2026). On supply and demand, Pi Network looks weaker than Bitcoin today.
+Pi Network reads negative at 2.5/10; Bitcoin reads positive at 8.5/10 (Oct 18 2026). On supply and demand, Pi Network looks weaker than Bitcoin today.
 
 ## Where to read the rest of PI
 

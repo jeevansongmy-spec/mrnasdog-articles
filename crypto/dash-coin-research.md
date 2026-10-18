@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy Dash? Supply, Demand and Price Drivers (Oct 2026)
 
-*Live page: https://mrnasdog.com/research/dash · checked Oct 16 2026*
+*Live page: https://mrnasdog.com/research/dash · checked Oct 18 2026*
 
-**mixed** — that is Dash's long-run signal by supply and demand as of Oct 16 2026, with a score of 4.5/10.
+**mixed** — that is Dash's long-run signal by supply and demand as of Oct 18 2026, with a score of 4.5/10.
 
 - **Signal:** mixed (by the law of supply and demand)
 - **Score:** 4.5/10 — supply 2.5/5, demand 2/5
@@ -72,7 +72,7 @@ Good for the price: Private payments catch on. Bad for it: Upgrade goes unused.
 
 ### Should I enter Dash right now?
 
-Supply and demand point to a mixed long-run signal for Dash (Oct 16 2026, score 4.5/10). Dash adds +0.71% new supply in 90 days, and demand reads weak (2/5). Dash's price drivers: 0 ▲ price up, 0 ▼ price down.
+Supply and demand point to a mixed long-run signal for Dash (Oct 18 2026, score 4.5/10). Dash adds +0.71% new supply in 90 days, and demand reads weak (2/5). Dash's price drivers: 0 ▲ price up, 0 ▼ price down.
 
 ### Does Dash still exist as a working crypto project?
 
@@ -84,7 +84,7 @@ It probably adds pressure. An EU exchange ban on privacy coins starts Jul 10 202
 
 ### Could Dash ever hit $10,000?
 
-Dash trades near $48.6 (Oct 16 2026). $10,000 a coin means a $129B market cap, 206 times today's $625M. Dash's supply also grows +2.90% in the next year, so every extra coin needs buyers too. For Dash, the supply-and-demand signal is mixed right now.
+Dash trades near $48.6 (Oct 18 2026). $10,000 a coin means a $129B market cap, 206 times today's $625M. Dash's supply also grows +2.90% in the next year, so every extra coin needs buyers too. For Dash, the supply-and-demand signal is mixed right now.
 
 ### Should I sell my Dash now?
 
@@ -92,7 +92,7 @@ We would read Dash differently if new supply keeps arriving (+0.71% in 90 days),
 
 ### Is Dash a good long-term investment?
 
-Dash scores 4.5/10 on our framework (Oct 16 2026): supply 2.5/5 (moderate), demand 2/5. Over the next year Dash's supply changes +2.90%. The long-run signal is mixed.
+Dash scores 4.5/10 on our framework (Oct 18 2026): supply 2.5/5 (moderate), demand 2/5. Over the next year Dash's supply changes +2.90%. The long-run signal is mixed.
 
 ### How do I know when to buy Dash?
 
@@ -104,7 +104,7 @@ Dash's price drivers today: 0 pointing up, 0 pointing down, out of 2. • Privac
 
 ### Is Dash a better investment than Bitcoin?
 
-Dash: mixed signal, 4.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 16 2026). By supply and demand, Dash reads weaker than Bitcoin today.
+Dash: mixed signal, 4.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 18 2026). By supply and demand, Dash reads weaker than Bitcoin today.
 
 ## Read more on DASH
 

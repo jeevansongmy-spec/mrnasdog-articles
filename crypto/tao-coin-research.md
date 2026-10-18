@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy TAO? Bittensor Supply, Demand and What Moves Its Price"
-description:   "Is Bittensor worth buying today? By the law of supply and demand, the long-run signal for TAO is mixed (score 6/10, checked Oct 14 2026)."
+description:   "Is Bittensor worth buying today? By the law of supply and demand, the long-run signal for TAO is mixed (score 6/10, checked Oct 18 2026)."
 canonical_url: "https://mrnasdog.com/research/tao"
 content_type:  "coin_hub"
 tags:          ["crypto", "tao", "bittensor", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy TAO? Bittensor Supply, Demand and What Moves Its Price
 
-*Source: https://mrnasdog.com/research/tao — numbers checked Oct 14 2026*
+*Source: https://mrnasdog.com/research/tao — numbers checked Oct 18 2026*
 
-Is Bittensor worth buying today? By the law of supply and demand, the long-run signal for TAO is **mixed** (score 6/10, checked Oct 14 2026).
+Is Bittensor worth buying today? By the law of supply and demand, the long-run signal for TAO is **mixed** (score 6/10, checked Oct 18 2026).
 
 - **Long-run signal:** mixed — TAO, read by supply and demand
 - **Score:** 6/10 — supply 1/5, demand 5/5
@@ -22,7 +22,7 @@ Is Bittensor worth buying today? By the law of supply and demand, the long-run s
 
 ### Should I buy Bittensor now, or wait?
 
-By the law of supply and demand, Bittensor's long-run signal is mixed (Oct 14 2026, score 6/10). New supply: +2.79% in the next 90 days. Demand: exceptional (5/5). Bittensor's price drivers: 1 ▲ price up, 0 ▼ price down.
+By the law of supply and demand, Bittensor's long-run signal is mixed (Oct 18 2026, score 6/10). New supply: +2.79% in the next 90 days. Demand: exceptional (5/5). Bittensor's price drivers: 1 ▲ price up, 0 ▼ price down.
 
 ### Is Bittensor the next Bitcoin?
 
@@ -34,7 +34,7 @@ Bittensor looks far from dead. Demand scores 5/5 on our framework (Oct 13 2026),
 
 ### Can Bittensor reach $10,000?
 
-At $10,000, Bittensor would be worth about $113B in total — about 36 times its $3.12B market cap today (Oct 14 2026, about $275 a coin). Bittensor's supply also grows +11.30% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Bittensor stays mixed.
+At $10,000, Bittensor would be worth about $113B in total — about 36 times its $3.12B market cap today (Oct 18 2026, about $275 a coin). Bittensor's supply also grows +11.30% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Bittensor stays mixed.
 
 ### Should I sell Bittensor or hold?
 
@@ -42,7 +42,7 @@ Bittensor's signal is mixed for now. Bittensor's signal would turn if new supply
 
 ### Is Bittensor worth investing in for the long term?
 
-Bittensor sits at 6/10 today (Oct 14 2026): supply 1/5, demand 5/5. One more year adds +11.30% to Bittensor's supply. Long-run signal: mixed.
+Bittensor sits at 6/10 today (Oct 18 2026): supply 1/5, demand 5/5. One more year adds +11.30% to Bittensor's supply. Long-run signal: mixed.
 
 ### When is a good time to buy Bittensor?
 
@@ -54,13 +54,13 @@ Right now 2 things drive Bittensor's price (1 ▲, 0 ▼). ▲ Big TAO holders: 
 
 ### Is Bittensor a better investment than Bitcoin?
 
-Side by side on Oct 14 2026: Bittensor at 6/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Bittensor is the weaker of the two.
+Side by side on Oct 18 2026: Bittensor at 6/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Bittensor is the weaker of the two.
 
 ## Supply: how much new TAO is coming
 
 Bittensor pays 0.5 new TAO every block toward a 21M cap. With a one-time 172K mint, supply grew 4.31% in 90 days; about 2.79% is projected next.
 
-Expect +2.79% more TAO in 90 days (+11.30% over the year). On supply alone Bittensor gets 1/5 — very heavy, #26 of 101 for new supply.
+Expect +2.79% more TAO in 90 days (+11.30% over the year). On supply alone Bittensor gets 1/5 — very heavy, #25 of 101 for new supply.
 
 ## Demand: how much people want TAO
 

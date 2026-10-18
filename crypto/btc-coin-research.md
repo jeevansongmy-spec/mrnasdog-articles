@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy Bitcoin (BTC)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "As of Oct 14 2026, Bitcoin scores 8.5/10 on our framework, and its supply-and-demand signal reads positive."
+description:   "As of Oct 18 2026, Bitcoin scores 8.5/10 on our framework, and its supply-and-demand signal reads positive."
 canonical_url: "https://mrnasdog.com/research/btc"
 content_type:  "coin_hub"
 tags:          ["crypto", "btc", "bitcoin", "should-i-buy"]
@@ -8,11 +8,11 @@ published:     true
 ---
 # Should You Buy Bitcoin (BTC)? Supply, Demand and Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/btc (checked Oct 14 2026)*
+*Originally published at https://mrnasdog.com/research/btc (checked Oct 18 2026)*
 
-As of Oct 14 2026, Bitcoin scores 8.5/10 on our framework, and its supply-and-demand signal reads **positive**.
+As of Oct 18 2026, Bitcoin scores 8.5/10 on our framework, and its supply-and-demand signal reads **positive**.
 
-- **Signal today:** positive (Oct 14 2026)
+- **Signal today:** positive (Oct 18 2026)
 - **MrNasdog score:** 8.5/10 — supply 3.5/5, demand 5/5
 - **New coins:** +0.20% in 90 days · +0.82% in a year
 - **Demand:** exceptional (5/5)
@@ -28,7 +28,7 @@ since the Apr 2024 halving · next halving about Apr 2028
 
 Bottom zone (day ~900) → price up · Top zone (day ~530) → price down. Now: ▲ up side.
 
-*Checked Oct 13 2026*
+*Checked Oct 17 2026*
 
 ### ▲ Big buyers
 
@@ -58,7 +58,7 @@ Mt. Gox deadline Oct 31 2026; US moved 12K seized BTC.
 | Aug 31 2026 | 34,388 BTC | 324,552 BTC |
 | Sep 30 2026 | 34,388 BTC | 324,552 BTC |
 
-*Checked Oct 13 2026*
+*Checked Oct 17 2026*
 
 ## New BTC hitting the market
 
@@ -76,7 +76,7 @@ Members get the rest of the Bitcoin demand read on mrnasdog.com.
 
 ### Is it a good time to buy Bitcoin today?
 
-By the law of supply and demand, Bitcoin's long-run signal is positive (Oct 14 2026, score 8.5/10). New supply: +0.20% in the next 90 days. Demand: exceptional (5/5). Bitcoin's price drivers: 2 ▲ price up, 0 ▼ price down.
+By the law of supply and demand, Bitcoin's long-run signal is positive (Oct 18 2026, score 8.5/10). New supply: +0.20% in the next 90 days. Demand: exceptional (5/5). Bitcoin's price drivers: 2 ▲ price up, 0 ▼ price down.
 
 ### Why is Bitcoin dropping if big buyers are still buying?
 
@@ -88,7 +88,7 @@ Bitcoin looks stronger. It scores 8.5/10 against XRP's 6/10 on Oct 10 2026. Bitc
 
 ### Can Bitcoin reach $1,000,000?
 
-At $1,000,000, Bitcoin would be worth about $20.1 trillion in total — about 12 times its $1.66 trillion market cap today (Oct 14 2026, about $82,757 a coin). Bitcoin's supply also grows +0.82% in the next year, so every extra coin needs buyers too. That leaves Bitcoin's long-run signal at positive, by supply and demand.
+At $1,000,000, Bitcoin would be worth about $20.1 trillion in total — about 12 times its $1.66 trillion market cap today (Oct 18 2026, about $82,757 a coin). Bitcoin's supply also grows +0.82% in the next year, so every extra coin needs buyers too. That leaves Bitcoin's long-run signal at positive, by supply and demand.
 
 ### Is it time to take profit on Bitcoin?
 
@@ -96,7 +96,7 @@ Bitcoin's signal is positive for now. Bitcoin's signal would turn if new supply 
 
 ### Is Bitcoin a good investment right now?
 
-Bitcoin sits at 8.5/10 today (Oct 14 2026): supply 3.5/5, demand 5/5. One more year adds +0.82% to Bitcoin's supply. Long-run signal: positive.
+Bitcoin sits at 8.5/10 today (Oct 18 2026): supply 3.5/5, demand 5/5. One more year adds +0.82% to Bitcoin's supply. Long-run signal: positive.
 
 ### When is a good time to buy Bitcoin?
 
@@ -108,7 +108,7 @@ Right now 3 things drive Bitcoin's price (2 ▲, 0 ▼). ▲ The 4-year cycle: s
 
 ### Should I buy Bitcoin or Ethereum?
 
-Side by side on Oct 14 2026: Bitcoin at 8.5/10 with a positive signal, Ethereum at 6.5/10 with a mixed signal. By supply and demand, Bitcoin is the stronger of the two.
+Side by side on Oct 18 2026: Bitcoin at 8.5/10 with a positive signal, Ethereum at 6.5/10 with a mixed signal. By supply and demand, Bitcoin is the stronger of the two.
 
 ## Where to read the rest of BTC
 

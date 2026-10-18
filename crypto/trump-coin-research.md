@@ -1,6 +1,6 @@
 ---
 title:         "Official Trump (TRUMP): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)"
-description:   "Is Official Trump worth buying today? By the law of supply and demand, the long-run signal for TRUMP is negative (score 2.5/10, checked Oct 17 2026)."
+description:   "Is Official Trump worth buying today? By the law of supply and demand, the long-run signal for TRUMP is negative (score 2.5/10, checked Oct 18 2026)."
 canonical_url: "https://mrnasdog.com/research/trump"
 content_type:  "coin_hub"
 tags:          ["crypto", "trump", "officialtrump", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Official Trump (TRUMP): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)
 
-*Source: https://mrnasdog.com/research/trump — numbers checked Oct 17 2026*
+*Source: https://mrnasdog.com/research/trump — numbers checked Oct 18 2026*
 
-Is Official Trump worth buying today? By the law of supply and demand, the long-run signal for TRUMP is **negative** (score 2.5/10, checked Oct 17 2026).
+Is Official Trump worth buying today? By the law of supply and demand, the long-run signal for TRUMP is **negative** (score 2.5/10, checked Oct 18 2026).
 
 - **Signal today:** negative — TRUMP, read by supply and demand
 - **MrNasdog score:** 2.5/10 — supply 0/5, demand 2.5/5
@@ -22,19 +22,15 @@ Is Official Trump worth buying today? By the law of supply and demand, the long-
 
 ### Is it a good time to buy Official Trump today?
 
-Based on the law of supply and demand, the long-run signal for Official Trump is negative. As of Oct 17 2026, score 2.5/10, Official Trump faces +15.77% new supply over 90 days, with demand modest (2.5/5). Official Trump's price drivers: 1 ▲ price up, 1 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Official Trump is negative. As of Oct 18 2026, score 2.5/10, Official Trump faces +15.77% new supply over 90 days, with demand modest (2.5/5). Official Trump's price drivers: 1 ▲ price up, 1 ▼ price down.
 
-### What could be lifting Official Trump crypto today?
+### What's the latest news on the Official Trump coin?
 
-The holder events are the likely lift. A Gala leaderboard is live, and holders must keep their coins until Nov 12 2026 to count, which can keep coins off the market. Against that, new Official Trump supply runs +15.77% in 90 days. By supply and demand, Official Trump's long-run signal is negative today.
-
-### What does the Nov 3 midterm mean for the Official Trump coin?
-
-Nov 3 2026 is a real date to watch. Democrats promise memecoin probes if they win Congress, which could weigh on Official Trump. The issuer's planned sales of unlocked coins also nearly doubled, to under 9.6%. Supply and demand still read negative for Official Trump in the long run.
+The Nov 12 gala is the main event: a holder leaderboard runs until then, and the top 185 holders get seats. On the other side, the issuer's planned sales of unlocked coins nearly doubled, to under 9.6%. With +15.77% new supply in 90 days, selling pressure probably stays high. Our supply-and-demand read for Official Trump stays negative.
 
 ### Is $1,000 possible for Official Trump?
 
-It would take 537 times today's value: $1,000 × Official Trump's coins in the market = about $282B, against $525M now (Oct 17 2026). Official Trump's supply also grows +63.08% in the next year, so every extra coin needs buyers too. That leaves Official Trump's long-run signal at negative, by supply and demand.
+It would take 560 times today's value: $1,000 × Official Trump's coins in the market = about $282B, against $503M now (Oct 18 2026). Official Trump's supply also grows +63.08% in the next year, so every extra coin needs buyers too. That leaves Official Trump's long-run signal at negative, by supply and demand.
 
 ### Should I sell Official Trump or hold?
 
@@ -42,7 +38,7 @@ Today the signal is negative. Supply and demand would point the other way for Of
 
 ### Is Official Trump worth investing in for the long term?
 
-On our framework Official Trump scores 2.5/10 (Oct 17 2026), with supply 0/5 (meme coin) and demand 2.5/5. In the next year Official Trump's supply changes +63.08%, so the long-run signal reads negative.
+On our framework Official Trump scores 2.5/10 (Oct 18 2026), with supply 0/5 (meme coin) and demand 2.5/5. In the next year Official Trump's supply changes +63.08%, so the long-run signal reads negative.
 
 ### What is the best time to invest in Official Trump?
 
@@ -50,21 +46,21 @@ The law of supply and demand points to one window for Official Trump: low new su
 
 ### Will Official Trump go up? What could move its price?
 
-Official Trump has 3 price drivers today (1 ▲ price up, 1 ▼ price down). ▲ Trump's holder events: Gala leaderboard is live; holders must keep coins until Nov 12. ▼ Insider sale plan: Issuer's planned sales of unlocked coins nearly doubled, to under 9.6%. • Washington probes: Democrats promise memecoin probes if they win Congress on Nov 3.
+Official Trump has 3 price drivers today (1 ▲ price up, 1 ▼ price down). ▲ Trump's holder events: Gala leaderboard runs to Nov 12; top 185 holders get seats. ▼ Insider sale plan: Issuer's planned sales of unlocked coins nearly doubled, to under 9.6%. • Washington probes: Democrats promise memecoin probes if they win Congress on Nov 3.
 
 ### Is Official Trump a better investment than Bitcoin?
 
-Official Trump reads negative at 2.5/10; Bitcoin reads positive at 8.5/10 (Oct 17 2026). On supply and demand, Official Trump looks weaker than Bitcoin today.
+Official Trump reads negative at 2.5/10; Bitcoin reads positive at 8.5/10 (Oct 18 2026). On supply and demand, Official Trump looks weaker than Bitcoin today.
 
 ## Supply — new TRUMP in the next 90 days
 
-Official Trump can never mint a new coin, yet its trading supply grew 15.77% in 90 days as the creators kept withdrawing from a vault that still holds 72% of all TRUMP.
+Official Trump is a fixed 1B meme coin on Solana, but only 28% trades: team vault releases grew the float about 15.8% in 90 days.
 
 Expect +15.77% more TRUMP in 90 days (+63.08% over the year). On supply alone Official Trump gets 0/5 — meme coin.
 
 ## Who wants Official Trump right now
 
-How much do people want TRUMP? **modest** — 2.5 out of 5, #46 of 110.
+How much do people want TRUMP? **modest** — 2.5 out of 5, #45 of 110.
 
 (Members see more TRUMP demand detail on the page; it is not repeated here.)
 
@@ -74,7 +70,7 @@ Official Trump has 3 price drivers. Right now: 1 up, 1 down.
 
 ### ▲ Trump's holder events
 
-Gala leaderboard is live; holders must keep coins until Nov 12.
+Gala leaderboard runs to Nov 12; top 185 holders get seats.
 
 Good for the price: Holders buy for seats. Bad for it: Sell after events. Now: ▲ up side.
 
@@ -88,7 +84,7 @@ Good for the price: Holders buy for seats. Bad for it: Sell after events. Now: �
 | Feb 7 2027 | Super Bowl snapshot (coming) |
 | Feb 12 2027 | Super Bowl trip, top 18 (coming) |
 
-*Checked Oct 10 2026*
+*Checked Oct 17 2026*
 
 ### ▼ Insider sale plan
 
@@ -101,7 +97,7 @@ Issuer's planned sales of unlocked coins nearly doubled, to under 9.6%.
 | Feb 2026 | 5% |
 | Jul 2026 | 9.6% |
 
-*Checked Oct 10 2026*
+*Checked Oct 17 2026*
 
 ### • Washington probes
 
@@ -115,7 +111,7 @@ No new probes → price up · Probes or bans → price down.
 | Sep 27 2026 | California memecoin law |
 | Nov 3 2026 | US midterm election (coming) |
 
-*Checked Oct 10 2026*
+*Checked Oct 17 2026*
 
 ## More on Official Trump
 

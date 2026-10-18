@@ -1,6 +1,6 @@
 ---
 title:         "NEAR Protocol (NEAR): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)"
-description:   "Supply and demand give NEAR Protocol (NEAR) a mixed long-run signal today (Oct 14 2026); its score is 6.5/10."
+description:   "Supply and demand give NEAR Protocol (NEAR) a mixed long-run signal today (Oct 18 2026); its score is 6.5/10."
 canonical_url: "https://mrnasdog.com/research/near"
 content_type:  "coin_hub"
 tags:          ["crypto", "near", "nearprotocol", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # NEAR Protocol (NEAR): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)
 
-*Source: https://mrnasdog.com/research/near — numbers checked Oct 14 2026*
+*Source: https://mrnasdog.com/research/near — numbers checked Oct 18 2026*
 
-Supply and demand give NEAR Protocol (NEAR) a **mixed** long-run signal today (Oct 14 2026); its score is 6.5/10.
+Supply and demand give NEAR Protocol (NEAR) a **mixed** long-run signal today (Oct 18 2026); its score is 6.5/10.
 
 - **Long-run signal:** mixed — NEAR, read by supply and demand
 - **Score:** 6.5/10 — supply 2.5/5, demand 4/5
@@ -22,7 +22,7 @@ Supply and demand give NEAR Protocol (NEAR) a **mixed** long-run signal today (O
 
 NEAR pays stakers 2.5% a year in new coins, 8.01M in 90 days, and the gas burn takes back only 72,580. The Intents buyback keeps what it buys. Supply grew 0.61% in 90 days; about the same next.
 
-Expect +0.61% more NEAR in 90 days (+2.47% over the year). On supply alone NEAR Protocol gets 2.5/5 — moderate, #57 of 101 for new supply.
+Expect +0.61% more NEAR in 90 days (+2.47% over the year). On supply alone NEAR Protocol gets 2.5/5 — moderate, #56 of 101 for new supply.
 
 ## Who wants NEAR Protocol right now
 
@@ -71,7 +71,7 @@ ETFs draw buyers → price up · ETF demand flops → price down. Now: ▲ up si
 
 ### Should I enter NEAR Protocol right now?
 
-By the law of supply and demand, NEAR Protocol's long-run signal is mixed (Oct 14 2026, score 6.5/10). New supply: +0.61% in the next 90 days. Demand: strong (4/5). NEAR Protocol's price drivers: 2 ▲ price up, 0 ▼ price down.
+By the law of supply and demand, NEAR Protocol's long-run signal is mixed (Oct 18 2026, score 6.5/10). New supply: +0.61% in the next 90 days. Demand: strong (4/5). NEAR Protocol's price drivers: 2 ▲ price up, 0 ▼ price down.
 
 ### Why has NEAR Protocol been going up?
 
@@ -83,7 +83,7 @@ Sui has more waiting. Only about 41% of its 10B max supply, 4.12B SUI, was circu
 
 ### Can NEAR Protocol reach $1,000?
 
-At $1,000, NEAR Protocol would be worth about $1.31 trillion in total — about 177 times its $7.38B market cap today (Oct 14 2026, about $5.64 a coin). NEAR Protocol's supply also grows +2.47% in the next year, so every extra coin needs buyers too. For NEAR Protocol, the supply-and-demand signal is mixed right now.
+At $1,000, NEAR Protocol would be worth about $1.31 trillion in total — about 177 times its $7.38B market cap today (Oct 18 2026, about $5.64 a coin). NEAR Protocol's supply also grows +2.47% in the next year, so every extra coin needs buyers too. For NEAR Protocol, the supply-and-demand signal is mixed right now.
 
 ### Should I sell NEAR Protocol or hold?
 
@@ -91,7 +91,7 @@ NEAR Protocol's signal is mixed for now. NEAR Protocol's signal would turn if ne
 
 ### Is NEAR Protocol worth investing in for the long term?
 
-NEAR Protocol sits at 6.5/10 today (Oct 14 2026): supply 2.5/5, demand 4/5. One more year adds +2.47% to NEAR Protocol's supply. Long-run signal: mixed.
+NEAR Protocol sits at 6.5/10 today (Oct 18 2026): supply 2.5/5, demand 4/5. One more year adds +2.47% to NEAR Protocol's supply. Long-run signal: mixed.
 
 ### When is a good time to buy NEAR Protocol?
 
@@ -103,7 +103,7 @@ Right now 2 things drive NEAR Protocol's price (2 ▲, 0 ▼). ▲ NEAR Intents:
 
 ### Is NEAR Protocol a better investment than Bitcoin?
 
-Side by side on Oct 14 2026: NEAR Protocol at 6.5/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, NEAR Protocol is the weaker of the two.
+Side by side on Oct 18 2026: NEAR Protocol at 6.5/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, NEAR Protocol is the weaker of the two.
 
 ## Go deeper on NEAR Protocol
 

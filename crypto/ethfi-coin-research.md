@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy ether.fi (ETHFI)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "As of Oct 16 2026, ether.fi scores 4.5/10 on our framework, and its supply-and-demand signal reads mixed."
+description:   "As of Oct 18 2026, ether.fi scores 4.5/10 on our framework, and its supply-and-demand signal reads mixed."
 canonical_url: "https://mrnasdog.com/research/ethfi"
 content_type:  "coin_hub"
 tags:          ["crypto", "ethfi", "etherfi", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy ether.fi (ETHFI)? Supply, Demand and Price Drivers (Oct 2026)
 
-*Live page: https://mrnasdog.com/research/ethfi · checked Oct 16 2026*
+*Live page: https://mrnasdog.com/research/ethfi · checked Oct 18 2026*
 
-As of Oct 16 2026, ether.fi scores 4.5/10 on our framework, and its supply-and-demand signal reads **mixed**.
+As of Oct 18 2026, ether.fi scores 4.5/10 on our framework, and its supply-and-demand signal reads **mixed**.
 
 - **Long-run signal:** mixed (by the law of supply and demand)
 - **Score:** 4.5/10 — supply 1/5, demand 3.5/5
@@ -26,7 +26,7 @@ Over the next 90 days ETHFI supply changes +2.78%; across a full year, +5.56%. T
 
 ## Demand today
 
-People's appetite for ether.fi is **strong**: 3.5/5, ranked #18 of 110.
+People's appetite for ether.fi is **strong**: 3.5/5, ranked #17 of 110.
 
 Extra ether.fi demand detail for members stays on the live page.
 
@@ -60,7 +60,7 @@ Good for the price: More money in Cash. Bad for it: Users pull money. Now: ▲ u
 | Jul 31 2026 | $118M |
 | Aug 31 2026 | $203M |
 | Sep 30 2026 | $242M |
-| Oct 17 2026 | $240M |
+| Oct 18 2026 | $241M |
 
 *Checked Oct 16 2026*
 
@@ -68,7 +68,7 @@ Good for the price: More money in Cash. Bad for it: Users pull money. Now: ▲ u
 
 ### Is ether.fi worth buying now?
 
-Supply and demand point to a mixed long-run signal for ether.fi (Oct 16 2026, score 4.5/10). ether.fi adds +2.78% new supply in 90 days, and demand reads strong (3.5/5). ether.fi's price drivers: 2 ▲ price up, 0 ▼ price down.
+Supply and demand point to a mixed long-run signal for ether.fi (Oct 18 2026, score 4.5/10). ether.fi adds +2.78% new supply in 90 days, and demand reads strong (3.5/5). ether.fi's price drivers: 2 ▲ price up, 0 ▼ price down.
 
 ### What is the latest ether.fi news for ETHFI holders?
 
@@ -80,7 +80,7 @@ We would read ether.fi differently if new supply keeps arriving (+2.78% in 90 da
 
 ### Is ether.fi a good long-term investment?
 
-ether.fi scores 4.5/10 on our framework (Oct 16 2026): supply 1/5 (very heavy), demand 3.5/5. Over the next year ether.fi's supply changes +5.56%. The long-run signal is mixed.
+ether.fi scores 4.5/10 on our framework (Oct 18 2026): supply 1/5 (very heavy), demand 3.5/5. Over the next year ether.fi's supply changes +5.56%. The long-run signal is mixed.
 
 ### How do I know when to buy ether.fi?
 
@@ -92,7 +92,7 @@ ether.fi's price drivers today: 2 pointing up, 0 pointing down, out of 2. ▲ ET
 
 ### Is ether.fi a better investment than Bitcoin?
 
-ether.fi: mixed signal, 4.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 16 2026). By supply and demand, ether.fi reads weaker than Bitcoin today.
+ether.fi: mixed signal, 4.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 18 2026). By supply and demand, ether.fi reads weaker than Bitcoin today.
 
 ## Read more on ETHFI
 

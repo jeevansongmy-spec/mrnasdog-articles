@@ -1,6 +1,6 @@
 ---
 title:         "Celestia (TIA): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)"
-description:   "Is Celestia worth buying today? By the law of supply and demand, the long-run signal for TIA is negative (score 3.5/10, checked Oct 17 2026)."
+description:   "Is Celestia worth buying today? By the law of supply and demand, the long-run signal for TIA is negative (score 3.5/10, checked Oct 18 2026)."
 canonical_url: "https://mrnasdog.com/research/tia"
 content_type:  "coin_hub"
 tags:          ["crypto", "tia", "celestia", "should-i-buy"]
@@ -8,13 +8,13 @@ published:     true
 ---
 # Celestia (TIA): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)
 
-*Live page: https://mrnasdog.com/research/tia · checked Oct 17 2026*
+*Live page: https://mrnasdog.com/research/tia · checked Oct 18 2026*
 
-Is Celestia worth buying today? By the law of supply and demand, the long-run signal for TIA is **negative** (score 3.5/10, checked Oct 17 2026).
+Is Celestia worth buying today? By the law of supply and demand, the long-run signal for TIA is **negative** (score 3.5/10, checked Oct 18 2026).
 
 - **Signal:** negative (by the law of supply and demand)
 - **Score:** 3.5/10 — supply 1/5, demand 2.5/5
-- **Supply growth:** +2.72% in 90 days · +9.85% in a year
+- **Supply growth:** +2.55% in 90 days · +9.65% in a year
 - **How much people want it:** modest (2.5/5)
 - **Price drivers:** 1 ▲ price up · 0 ▼ price down
 
@@ -22,27 +22,27 @@ Is Celestia worth buying today? By the law of supply and demand, the long-run si
 
 ### Is it time to buy the Celestia dip?
 
-Supply and demand point to a negative long-run signal for Celestia (Oct 17 2026, score 3.5/10). Celestia adds +2.72% new supply in 90 days, and demand reads modest (2.5/5). Celestia's price drivers: 1 ▲ price up, 0 ▼ price down.
+Supply and demand point to a negative long-run signal for Celestia (Oct 18 2026, score 3.5/10). Celestia adds +2.55% new supply in 90 days, and demand reads modest (2.5/5). Celestia's price drivers: 1 ▲ price up, 0 ▼ price down.
 
-### Is Celestia (TIA) a dead coin now?
+### What is the latest Celestia news that could move TIA?
 
-Celestia still looks alive, but work is moving slowly. Its Fibre upgrade runs on testnet with no mainnet date, and the blob fee plan is still a forum post with no vote. Supply weighs too: +2.72% new TIA in 90 days, with demand modest at 2.5/5. Our supply-and-demand read for Celestia stays negative.
+Fibre is the big Celestia story: the upgrade runs on testnet, but there is no mainnet date yet (Oct 17 2026). The new blob fee plan is still a forum post with no vote. So TIA, near $0.67, is probably waiting on those two steps. Supply and demand still read negative for Celestia in the long run.
 
 ### Could Celestia ever hit $100?
 
-Celestia trades near 45 cents (Oct 17 2026). $100 a coin means a $97.8B market cap, 222 times today's $440M. Celestia's supply also grows +9.85% in the next year, so every extra coin needs buyers too. Supply and demand still read negative for Celestia in the long run.
+Celestia trades near 67.2 cents (Oct 18 2026). $100 a coin means a $98.2B market cap, 149 times today's $660M. Celestia's supply also grows +9.65% in the next year, so every extra coin needs buyers too. Supply and demand still read negative for Celestia in the long run.
 
 ### Should I sell my Celestia now?
 
-We would read Celestia differently if new supply keeps arriving (+2.72% in 90 days), or demand falls from modest. Until then Celestia's signal stays negative. Mark this date for Celestia: No date yet — Fibre on mainnet.
+We would read Celestia differently if new supply keeps arriving (+2.55% in 90 days), or demand falls from modest. Until then Celestia's signal stays negative. Mark this date for Celestia: No date yet — Fibre on mainnet.
 
 ### Is Celestia a good long-term investment?
 
-Celestia scores 3.5/10 on our framework (Oct 17 2026): supply 1/5 (very heavy), demand 2.5/5. Over the next year Celestia's supply changes +9.85%. The long-run signal is negative.
+Celestia scores 3.5/10 on our framework (Oct 18 2026): supply 1/5 (very heavy), demand 2.5/5. Over the next year Celestia's supply changes +9.65%. The long-run signal is negative.
 
 ### How do I know when to buy Celestia?
 
-Supply and demand favor Celestia most when little new supply is coming, demand is strong and the price drivers point up. Right now Celestia has +2.72% new supply in 90 days (very heavy), demand modest (2.5/5), drivers 1 ▲ / 0 ▼.
+Supply and demand favor Celestia most when little new supply is coming, demand is strong and the price drivers point up. Right now Celestia has +2.55% new supply in 90 days (very heavy), demand modest (2.5/5), drivers 1 ▲ / 0 ▼.
 
 ### Will Celestia go up in 2026?
 
@@ -50,17 +50,17 @@ Celestia's price drivers today: 1 pointing up, 0 pointing down, out of 2. ▲ Fi
 
 ### Is Celestia a better investment than Bitcoin?
 
-Celestia: negative signal, 3.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 17 2026). By supply and demand, Celestia reads weaker than Bitcoin today.
+Celestia: negative signal, 3.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 18 2026). By supply and demand, Celestia reads weaker than Bitcoin today.
 
 ## Supply: how much new TIA is coming
 
-Celestia pays for data space with TIA. Unlocks and staking pay add about 3.85% to supply every 90 days, and nothing is burned.
+Celestia is a network that stores data for other chains. Team and Foundation shares still unlock every day and stakers get new TIA, with no burn or buyback: supply grows about 3.83% in 90 days, slowing after the team stream ends on Oct 30 2026.
 
-Over the next 90 days TIA supply changes +2.72%; across a full year, +9.85%. That puts supply at 1/5 (very heavy).
+Over the next 90 days TIA supply changes +2.55%; across a full year, +9.65%. That puts supply at 1/5 (very heavy).
 
 ## Who wants Celestia right now
 
-People's appetite for Celestia is **modest**: 2.5/5, ranked #46 of 110.
+People's appetite for Celestia is **modest**: 2.5/5, ranked #45 of 110.
 
 (Members see more TIA demand detail on the page; it is not repeated here.)
 
@@ -85,7 +85,7 @@ Good for the price: Fibre ships on time. Bad for it: Fibre delayed. Right now it
 | Oct 1 2026 | Fibre test: 3 Tb/s |
 | No date yet | Fibre on mainnet (coming) |
 
-*Checked Oct 10 2026*
+*Checked Oct 17 2026*
 
 ### • Blob fee plan
 
@@ -101,7 +101,7 @@ The fee plan is still a forum post; no vote yet.
 | Sep 22 2026 | Fee plan v2.0 |
 | No date yet | First spend vote (coming) |
 
-*Checked Oct 10 2026*
+*Checked Oct 17 2026*
 
 ## Read more on TIA
 

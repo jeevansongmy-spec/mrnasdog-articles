@@ -1,6 +1,6 @@
 ---
 title:         "Solana (SOL): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)"
-description:   "Is Solana worth buying today? By the law of supply and demand, the long-run signal for SOL is mixed (score 6/10, checked Oct 14 2026)."
+description:   "Is Solana worth buying today? By the law of supply and demand, the long-run signal for SOL is mixed (score 6/10, checked Oct 18 2026)."
 canonical_url: "https://mrnasdog.com/research/sol"
 content_type:  "coin_hub"
 tags:          ["crypto", "sol", "solana", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Solana (SOL): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)
 
-*Live page: https://mrnasdog.com/research/sol · checked Oct 14 2026*
+*Live page: https://mrnasdog.com/research/sol · checked Oct 18 2026*
 
-Is Solana worth buying today? By the law of supply and demand, the long-run signal for SOL is **mixed** (score 6/10, checked Oct 14 2026).
+Is Solana worth buying today? By the law of supply and demand, the long-run signal for SOL is **mixed** (score 6/10, checked Oct 18 2026).
 
 - **Signal:** mixed (by the law of supply and demand)
 - **Score:** 6/10 — supply 2/5, demand 4/5
@@ -51,7 +51,7 @@ Good for the price: More big buyers. Bad for it: Fewer. Now: ▲ up side.
 
 ### ▲ Network stops
 
-Solana stopped 6 times by 2024. None in 981 days.
+Solana stopped 6 times by 2024. None in 985 days.
 
 ▲ Price up if: No stops. ▼ Price down if: A new stop. Today: the price-up case.
 
@@ -64,13 +64,13 @@ Solana stopped 6 times by 2024. None in 981 days.
 | Jul 2025 | 0 stops |
 | Jul 2026 | 0 stops |
 
-*Checked Oct 14 2026*
+*Checked Oct 18 2026*
 
 ## Should you buy SOL? Questions about Solana
 
 ### Is it a good time to buy Solana today?
 
-Supply and demand point to a mixed long-run signal for Solana (Oct 14 2026, score 6/10). Solana adds +1.26% new supply in 90 days, and demand reads strong (4/5). Solana's price drivers: 2 ▲ price up, 0 ▼ price down.
+Supply and demand point to a mixed long-run signal for Solana (Oct 18 2026, score 6/10). Solana adds +1.26% new supply in 90 days, and demand reads strong (4/5). Solana's price drivers: 2 ▲ price up, 0 ▼ price down.
 
 ### Why is Solana dropping when its drivers look good?
 
@@ -82,7 +82,7 @@ Ethereum reads a little better. It scores 7/10 with a positive signal, while Sol
 
 ### Could Solana ever hit $1,000?
 
-Solana trades near $110 (Oct 14 2026). $1,000 a coin means a $589B market cap, 9.1 times today's $64.6B. Solana's supply also grows +5.19% in the next year, so every extra coin needs buyers too. That leaves Solana's long-run signal at mixed, by supply and demand.
+Solana trades near $110 (Oct 18 2026). $1,000 a coin means a $589B market cap, 9.1 times today's $64.6B. Solana's supply also grows +5.19% in the next year, so every extra coin needs buyers too. That leaves Solana's long-run signal at mixed, by supply and demand.
 
 ### Should I sell my Solana now?
 
@@ -90,7 +90,7 @@ We would read Solana differently if new supply keeps arriving (+1.26% in 90 days
 
 ### Is Solana a good long-term investment?
 
-Solana scores 6/10 on our framework (Oct 14 2026): supply 2/5 (growing), demand 4/5. Over the next year Solana's supply changes +5.19%. The long-run signal is mixed.
+Solana scores 6/10 on our framework (Oct 18 2026): supply 2/5 (growing), demand 4/5. Over the next year Solana's supply changes +5.19%. The long-run signal is mixed.
 
 ### How do I know when to buy Solana?
 
@@ -98,11 +98,11 @@ Supply and demand favor Solana most when little new supply is coming, demand is 
 
 ### Will Solana go up in 2026?
 
-Solana's price drivers today: 2 pointing up, 0 pointing down, out of 2. ▲ Big buyers: ETFs hold about 16M SOL, nearly double Forward's 8.5M. ▲ Network stops: Solana stopped 6 times by 2024. None in 981 days.
+Solana's price drivers today: 2 pointing up, 0 pointing down, out of 2. ▲ Big buyers: ETFs hold about 16M SOL, nearly double Forward's 8.5M. ▲ Network stops: Solana stopped 6 times by 2024. None in 985 days.
 
 ### Is Solana a better investment than Bitcoin?
 
-Solana: mixed signal, 6/10 · Bitcoin: positive signal, 8.5/10 (Oct 14 2026). By supply and demand, Solana reads weaker than Bitcoin today.
+Solana: mixed signal, 6/10 · Bitcoin: positive signal, 8.5/10 (Oct 18 2026). By supply and demand, Solana reads weaker than Bitcoin today.
 
 ## Next steps for SOL
 

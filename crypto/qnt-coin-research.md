@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy Quant (QNT)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Is Quant worth buying today? By the law of supply and demand, the long-run signal for QNT is positive (score 7.5/10, checked Oct 14 2026)."
+description:   "Is Quant worth buying today? By the law of supply and demand, the long-run signal for QNT is positive (score 7.5/10, checked Oct 18 2026)."
 canonical_url: "https://mrnasdog.com/research/qnt"
 content_type:  "coin_hub"
 tags:          ["crypto", "qnt", "quant", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy Quant (QNT)? Supply, Demand and Price Drivers (Oct 2026)
 
-*From https://mrnasdog.com/research/qnt, updated Oct 14 2026*
+*From https://mrnasdog.com/research/qnt, updated Oct 18 2026*
 
-Is Quant worth buying today? By the law of supply and demand, the long-run signal for QNT is **positive** (score 7.5/10, checked Oct 14 2026).
+Is Quant worth buying today? By the law of supply and demand, the long-run signal for QNT is **positive** (score 7.5/10, checked Oct 18 2026).
 
 - **Long-run signal:** positive for Quant
 - **Score:** 7.5/10 — supply 4.5/5, demand 3/5
@@ -26,7 +26,7 @@ Quant adds 0.00% new supply in the next 90 days and 0.00% over a year — supply
 
 ## How strong is Quant demand?
 
-Demand reads **moderate** (3/5), #29 of 110 coins we track — that is how much people want QNT now and how much buying could still come.
+Demand reads **moderate** (3/5), #30 of 110 coins we track — that is how much people want QNT now and how much buying could still come.
 
 The members-only part of QNT's demand section is not included.
 
@@ -45,7 +45,7 @@ Good for the price: Coins stay put. Bad for it: Coins leave wallets. Today: the 
 | Jul 31 2026 | 626 K QNT | 623 K QNT |
 | Aug 31 2026 | 626 K QNT | 623 K QNT |
 | Sep 30 2026 | 600 K QNT | 600 K QNT |
-| Oct 14 2026 | 600 K QNT | 600 K QNT |
+| Oct 18 2026 | 600 K QNT | 600 K QNT |
 
 *Checked Oct 13 2026*
 
@@ -70,7 +70,7 @@ More banks use Quant → price up · Banks skip QNT token → price down. Now: �
 
 ### Is it time to buy the Quant dip?
 
-Supply and demand point to a positive long-run signal for Quant (Oct 14 2026, score 7.5/10). Quant adds 0.00% new supply in 90 days, and demand reads moderate (3/5). Quant's price drivers: 1 ▲ price up, 1 ▼ price down.
+Supply and demand point to a positive long-run signal for Quant (Oct 18 2026, score 7.5/10). Quant adds 0.00% new supply in 90 days, and demand reads moderate (3/5). Quant's price drivers: 1 ▲ price up, 1 ▼ price down.
 
 ### Is Quant crypto dead after all these years?
 
@@ -78,7 +78,7 @@ Unlikely, with a US bank group picking Quant on Sep 24 2026 and its network due 
 
 ### Could Quant ever hit $100,000?
 
-Quant trades near $206 (Oct 14 2026). $100,000 a coin means a $1.46 trillion market cap, 485 times today's $3B. Quant's supply barely changes in the next year (0.00%), so the whole move would have to come from demand. Supply and demand still read positive for Quant in the long run.
+Quant trades near $206 (Oct 18 2026). $100,000 a coin means a $1.46 trillion market cap, 485 times today's $3B. Quant's supply barely changes in the next year (0.00%), so the whole move would have to come from demand. Supply and demand still read positive for Quant in the long run.
 
 ### When should I sell Quant?
 
@@ -86,7 +86,7 @@ We would read Quant differently if new supply jumps (today 0.00% in 90 days), or
 
 ### Is Quant a good investment in 2026?
 
-Quant scores 7.5/10 on our framework (Oct 14 2026): supply 4.5/5 (flat), demand 3/5. Over the next year Quant's supply changes 0.00%. The long-run signal is positive.
+Quant scores 7.5/10 on our framework (Oct 18 2026): supply 4.5/5 (flat), demand 3/5. Over the next year Quant's supply changes 0.00%. The long-run signal is positive.
 
 ### How do I know when to buy Quant?
 
@@ -98,7 +98,7 @@ Quant's price drivers today: 1 pointing up, 1 pointing down, out of 2. ▼ Found
 
 ### Should I buy Quant or Bitcoin?
 
-Quant: positive signal, 7.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 14 2026). By supply and demand, Quant reads weaker than Bitcoin today.
+Quant: positive signal, 7.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 18 2026). By supply and demand, Quant reads weaker than Bitcoin today.
 
 ## Read more on QNT
 

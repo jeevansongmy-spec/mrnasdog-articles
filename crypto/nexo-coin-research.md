@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy Nexo? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Supply and demand give Nexo a mixed long-run signal today (Oct 17 2026); its score is 5/10."
+description:   "Supply and demand give Nexo a mixed long-run signal today (Oct 18 2026); its score is 5/10."
 canonical_url: "https://mrnasdog.com/research/nexo"
 content_type:  "coin_hub"
 tags:          ["crypto", "nexo", "nexo", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy Nexo? Supply, Demand and Price Drivers (Oct 2026)
 
-*Live page: https://mrnasdog.com/research/nexo · checked Oct 17 2026*
+*Live page: https://mrnasdog.com/research/nexo · checked Oct 18 2026*
 
-Supply and demand give Nexo a **mixed** long-run signal today (Oct 17 2026); its score is 5/10.
+Supply and demand give Nexo a **mixed** long-run signal today (Oct 18 2026); its score is 5/10.
 
 - **Long-run signal:** mixed (by the law of supply and demand)
 - **Score:** 5/10 — supply 4.5/5, demand 0.5/5
@@ -36,7 +36,7 @@ Good for the price: New markets open. Bad for it: Regulators push it out. Right 
 | Aug 19 2026 | Australia credit lines |
 | Aug 2026 | Listed on Bithumb |
 
-*Checked Oct 10 2026*
+*Checked Oct 17 2026*
 
 ### • Bulgaria $3B claim
 
@@ -52,11 +52,11 @@ Case still fights over jurisdiction; no hearing date is public.
 | Jul 10 2026 | Nexo jurisdiction brief |
 | Sep 16 2026 | Bulgaria reply filed |
 
-*Checked Oct 10 2026*
+*Checked Oct 17 2026*
 
 ## Supply — new NEXO in the next 90 days
 
-Nexo's token: a fixed 1B NEXO that can't be minted or burned. Supply flat; the company holds about 768M.
+NEXO is the Nexo platform token: 1B coins made in 2018, none added and none burned. Supply stays flat; the risk is the 768M NEXO that Nexo itself holds.
 
 Over the next 90 days NEXO supply changes 0.00%; across a full year, 0.00%. That puts supply at 4.5/5 (flat) (place 86 of 101).
 
@@ -70,15 +70,7 @@ A deeper NEXO demand breakdown is on the page for members.
 
 ### Is it time to buy the Nexo dip?
 
-Based on the law of supply and demand, the long-run signal for Nexo is mixed. As of Oct 17 2026, score 5/10, Nexo faces 0.00% new supply over 90 days, with demand very low (0.5/5). Nexo's price drivers: 1 ▲ price up, 0 ▼ price down.
-
-### Is Nexo still not available in the US?
-
-It is back. Nexo returned to the US in Feb 2026, and new markets keep opening, which is the one driver pointing up for Nexo today. Token supply is flat, 0.00% new in 90 days, but demand still reads low (1/5). For Nexo, the supply-and-demand signal is mixed right now.
-
-### Where does Nexo's $3B Bulgaria case stand?
-
-Still stuck on one point: which court should hear it. No hearing date is public as of Oct 10 2026, so the $3B claim probably stays a background risk for Nexo, not a near-term event. For Nexo, the supply-and-demand signal is mixed right now.
+Based on the law of supply and demand, the long-run signal for Nexo is mixed. As of Oct 18 2026, score 5/10, Nexo faces 0.00% new supply over 90 days, with demand very low (0.5/5). Nexo's price drivers: 1 ▲ price up, 0 ▼ price down.
 
 ### Should I sell my Nexo now?
 
@@ -86,7 +78,7 @@ Today the signal is mixed. Supply and demand would point the other way for Nexo 
 
 ### Is Nexo a good long-term investment?
 
-On our framework Nexo scores 5/10 (Oct 17 2026), with supply 4.5/5 (flat) and demand 0.5/5. In the next year Nexo's supply changes 0.00%, so the long-run signal reads mixed.
+On our framework Nexo scores 5/10 (Oct 18 2026), with supply 4.5/5 (flat) and demand 0.5/5. In the next year Nexo's supply changes 0.00%, so the long-run signal reads mixed.
 
 ### What is the best time to invest in Nexo?
 
@@ -98,7 +90,7 @@ Nexo has 2 price drivers today (1 ▲ price up, 0 ▼ price down). ▲ Nexo's ma
 
 ### Is Nexo a better investment than Bitcoin?
 
-Nexo reads mixed at 5/10; Bitcoin reads positive at 8.5/10 (Oct 17 2026). On supply and demand, Nexo looks weaker than Bitcoin today.
+Nexo reads mixed at 5/10; Bitcoin reads positive at 8.5/10 (Oct 18 2026). On supply and demand, Nexo looks weaker than Bitcoin today.
 
 ## Next steps for NEXO
 

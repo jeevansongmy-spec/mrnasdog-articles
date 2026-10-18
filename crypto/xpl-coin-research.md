@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy XPL? Plasma Supply, Demand and What Moves Its Price"
-description:   "As of Oct 14 2026, Plasma scores 2/10 on our framework, and its supply-and-demand signal reads negative."
+description:   "As of Oct 18 2026, Plasma scores 2/10 on our framework, and its supply-and-demand signal reads negative."
 canonical_url: "https://mrnasdog.com/research/xpl"
 content_type:  "coin_hub"
 tags:          ["crypto", "xpl", "plasma", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy XPL? Plasma Supply, Demand and What Moves Its Price
 
-*Source: https://mrnasdog.com/research/xpl — numbers checked Oct 14 2026*
+*Source: https://mrnasdog.com/research/xpl — numbers checked Oct 18 2026*
 
-As of Oct 14 2026, Plasma scores 2/10 on our framework, and its supply-and-demand signal reads **negative**.
+As of Oct 18 2026, Plasma scores 2/10 on our framework, and its supply-and-demand signal reads **negative**.
 
 - **Long-run signal:** negative — XPL, read by supply and demand
 - **Score:** 2/10 — supply 0/5, demand 2/5
@@ -22,7 +22,7 @@ As of Oct 14 2026, Plasma scores 2/10 on our framework, and its supply-and-deman
 
 ### Is Plasma worth buying now?
 
-Supply and demand point to a negative long-run signal for Plasma (Oct 14 2026, score 2/10). Plasma adds +15.07% new supply in 90 days, and demand reads weak (2/5). Plasma's price drivers: 1 ▲ price up, 1 ▼ price down.
+Supply and demand point to a negative long-run signal for Plasma (Oct 18 2026, score 2/10). Plasma adds +15.07% new supply in 90 days, and demand reads weak (2/5). Plasma's price drivers: 1 ▲ price up, 1 ▼ price down.
 
 ### Are Plasma XPL token unlocks still a selling-pressure risk?
 
@@ -34,7 +34,7 @@ We would read Plasma differently if new supply keeps arriving (+15.07% in 90 day
 
 ### Is Plasma worth investing in for the long term?
 
-Plasma scores 2/10 on our framework (Oct 14 2026): supply 0/5 (extreme), demand 2/5. Over the next year Plasma's supply changes +60.29%. The long-run signal is negative.
+Plasma scores 2/10 on our framework (Oct 18 2026): supply 0/5 (extreme), demand 2/5. Over the next year Plasma's supply changes +60.29%. The long-run signal is negative.
 
 ### How do I know when to buy Plasma?
 
@@ -46,17 +46,17 @@ Plasma's price drivers today: 1 pointing up, 1 pointing down, out of 2. ▲ Stab
 
 ### Is Plasma a better investment than Bitcoin?
 
-Plasma: negative signal, 2/10 · Bitcoin: positive signal, 8.5/10 (Oct 14 2026). By supply and demand, Plasma reads weaker than Bitcoin today.
+Plasma: negative signal, 2/10 · Bitcoin: positive signal, 8.5/10 (Oct 18 2026). By supply and demand, Plasma reads weaker than Bitcoin today.
 
 ## Supply: how much new XPL is coming
 
 Plasma's stablecoin chain coin: the team and investor cliff opened on Sep 25 2026, and 227.8M XPL now unlock every month until 2028, with almost no burn.
 
-Expect +15.07% more XPL in 90 days (+60.29% over the year). On supply alone Plasma gets 0/5 — extreme, #7 of 101 for new supply.
+Expect +15.07% more XPL in 90 days (+60.29% over the year). On supply alone Plasma gets 0/5 — extreme, #8 of 101 for new supply.
 
 ## Demand: how much people want XPL
 
-How much do people want XPL? **weak** — 2 out of 5, #64 of 110.
+How much do people want XPL? **weak** — 2 out of 5, #65 of 110.
 
 (Members see more XPL demand detail on the page; it is not repeated here.)
 
@@ -75,7 +75,7 @@ More dollars on Plasma → price up · Dollars leave Plasma → price down. Now:
 | Jul 31 2026 | $0.91B |
 | Aug 31 2026 | $1.05B |
 | Sep 30 2026 | $1.45B |
-| Oct 14 2026 | $1.39B |
+| Oct 18 2026 | $1.34B |
 
 *Checked Oct 10 2026*
 
@@ -90,7 +90,7 @@ Good for the price: Aave deposits grow. Bad for it: Aave deposits shrink. Today:
 | Jul 31 2026 | $0.545B |
 | Aug 31 2026 | $0.509B |
 | Sep 30 2026 | $0.474B |
-| Oct 14 2026 | $0.477B |
+| Oct 18 2026 | $0.495B |
 
 *Checked Oct 10 2026*
 

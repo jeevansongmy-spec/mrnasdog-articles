@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy Ethereum (ETH)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Supply and demand give Ethereum (ETH) a mixed long-run signal today (Oct 14 2026); its score is 6.5/10."
+description:   "Supply and demand give Ethereum (ETH) a mixed long-run signal today (Oct 18 2026); its score is 6.5/10."
 canonical_url: "https://mrnasdog.com/research/eth"
 content_type:  "coin_hub"
 tags:          ["crypto", "eth", "ethereum", "should-i-buy"]
@@ -8,11 +8,11 @@ published:     true
 ---
 # Should You Buy Ethereum (ETH)? Supply, Demand and Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/eth (checked Oct 14 2026)*
+*Originally published at https://mrnasdog.com/research/eth (checked Oct 18 2026)*
 
-Supply and demand give Ethereum (ETH) a **mixed** long-run signal today (Oct 14 2026); its score is 6.5/10.
+Supply and demand give Ethereum (ETH) a **mixed** long-run signal today (Oct 18 2026); its score is 6.5/10.
 
-- **Signal today:** mixed (Oct 14 2026)
+- **Signal today:** mixed (Oct 18 2026)
 - **MrNasdog score:** 6.5/10 — supply 3/5, demand 3.5/5
 - **New coins:** +0.21% in 90 days · +0.86% in a year
 - **Demand:** strong (3.5/5)
@@ -22,11 +22,11 @@ Supply and demand give Ethereum (ETH) a **mixed** long-run signal today (Oct 14 
 
 Validators get about 263K new ETH a quarter; a 4.66K ETH fee burn barely dents it, so supply grows about 0.21% every 90 days.
 
-New ETH: +0.21% in 90 days, +0.86% in a year. Supply score 3/5, "light" (place 65 of 101).
+New ETH: +0.21% in 90 days, +0.86% in a year. Supply score 3/5, "light" (place 64 of 101).
 
 ## Demand today
 
-Ethereum demand: 3.5/5 (**strong**), place #19 among 110 coins — interest today plus the buying that could come later.
+Ethereum demand: 3.5/5 (**strong**), place #17 among 110 coins — interest today plus the buying that could come later.
 
 Extra Ethereum demand detail for members stays on the live page.
 
@@ -85,7 +85,7 @@ Upgrade on time → price up · Delay or bug → price down.
 
 ### Should I buy Ethereum now, or wait?
 
-Supply and demand point to a mixed long-run signal for Ethereum (Oct 14 2026, score 6.5/10). Ethereum adds +0.21% new supply in 90 days, and demand reads strong (3.5/5). Ethereum's price drivers: 1 ▲ price up, 0 ▼ price down.
+Supply and demand point to a mixed long-run signal for Ethereum (Oct 18 2026, score 6.5/10). Ethereum adds +0.21% new supply in 90 days, and demand reads strong (3.5/5). Ethereum's price drivers: 1 ▲ price up, 0 ▼ price down.
 
 ### Is Ethereum dead, or still in the game?
 
@@ -97,7 +97,7 @@ Ethereum looks stronger, 7/10 against XRP's 6/10 on Oct 10 2026. The gap is most
 
 ### Could Ethereum ever hit $10,000?
 
-Ethereum trades near $2,495 (Oct 14 2026). $10,000 a coin means a $1.22 trillion market cap, 4 times today's $305B. Ethereum's supply also grows +0.86% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Ethereum stays mixed.
+Ethereum trades near $2,495 (Oct 18 2026). $10,000 a coin means a $1.22 trillion market cap, 4 times today's $305B. Ethereum's supply also grows +0.86% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Ethereum stays mixed.
 
 ### Is it time to take profit on Ethereum?
 
@@ -105,7 +105,7 @@ We would read Ethereum differently if new supply jumps (today +0.21% in 90 days)
 
 ### Is Ethereum a good investment right now?
 
-Ethereum scores 6.5/10 on our framework (Oct 14 2026): supply 3/5 (light), demand 3.5/5. Over the next year Ethereum's supply changes +0.86%. The long-run signal is mixed.
+Ethereum scores 6.5/10 on our framework (Oct 18 2026): supply 3/5 (light), demand 3.5/5. Over the next year Ethereum's supply changes +0.86%. The long-run signal is mixed.
 
 ### How do I know when to buy Ethereum?
 
@@ -117,7 +117,7 @@ Ethereum's price drivers today: 1 pointing up, 0 pointing down, out of 3. • Bi
 
 ### Should I buy Ethereum or Bitcoin?
 
-Ethereum: mixed signal, 6.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 14 2026). By supply and demand, Ethereum reads weaker than Bitcoin today.
+Ethereum: mixed signal, 6.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 18 2026). By supply and demand, Ethereum reads weaker than Bitcoin today.
 
 ## Where to read the rest of ETH
 

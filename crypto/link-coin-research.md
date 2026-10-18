@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy LINK? Chainlink Supply, Demand and What Moves Its Price"
-description:   "Supply and demand give Chainlink (LINK) a mixed long-run signal today (Oct 14 2026); its score is 6.5/10."
+description:   "Supply and demand give Chainlink (LINK) a mixed long-run signal today (Oct 18 2026); its score is 6.5/10."
 canonical_url: "https://mrnasdog.com/research/link"
 content_type:  "coin_hub"
 tags:          ["crypto", "link", "chainlink", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy LINK? Chainlink Supply, Demand and What Moves Its Price
 
-*Live page: https://mrnasdog.com/research/link · checked Oct 14 2026*
+*Live page: https://mrnasdog.com/research/link · checked Oct 18 2026*
 
-Supply and demand give Chainlink (LINK) a **mixed** long-run signal today (Oct 14 2026); its score is 6.5/10.
+Supply and demand give Chainlink (LINK) a **mixed** long-run signal today (Oct 18 2026); its score is 6.5/10.
 
 - **Long-run signal:** mixed (by the law of supply and demand)
 - **Score:** 6.5/10 — supply 2/5, demand 4.5/5
@@ -22,7 +22,7 @@ Supply and demand give Chainlink (LINK) a **mixed** long-run signal today (Oct 1
 
 Chainlink holds 233.15M LINK back and releases about 7% of supply a year; 18.75M came out on Oct 9 2026. Nothing is burned, so supply grew 2.45% in 90 days, with about 1.47% expected next.
 
-Over the next 90 days LINK supply changes +1.47%; across a full year, +9.13%. That puts supply at 2/5 (growing) (place 40 of 101).
+Over the next 90 days LINK supply changes +1.47%; across a full year, +9.13%. That puts supply at 2/5 (growing) (place 39 of 101).
 
 ## Demand: how much people want LINK
 
@@ -70,7 +70,7 @@ Banks go live → price up · Bank pilots stall → price down. Now: ▲ up side
 
 ### Is it time to buy the Chainlink dip?
 
-Supply and demand point to a mixed long-run signal for Chainlink (Oct 14 2026, score 6.5/10). Chainlink adds +1.47% new supply in 90 days, and demand reads very strong (4.5/5). Chainlink's price drivers: 2 ▲ price up, 0 ▼ price down.
+Supply and demand point to a mixed long-run signal for Chainlink (Oct 18 2026, score 6.5/10). Chainlink adds +1.47% new supply in 90 days, and demand reads very strong (4.5/5). Chainlink's price drivers: 2 ▲ price up, 0 ▼ price down.
 
 ### Why is Chainlink going down while demand looks strong?
 
@@ -82,7 +82,7 @@ On supply and demand, Hyperliquid has the edge: 8.5/10 against Chainlink's 6/10 
 
 ### Could Chainlink ever hit $100?
 
-Chainlink trades near $12.9 (Oct 14 2026). $100 a coin means a $76.7B market cap, 7.8 times today's $9.89B. Chainlink's supply also grows +9.13% in the next year, so every extra coin needs buyers too. Supply and demand still read mixed for Chainlink in the long run.
+Chainlink trades near $12.9 (Oct 18 2026). $100 a coin means a $76.7B market cap, 7.8 times today's $9.89B. Chainlink's supply also grows +9.13% in the next year, so every extra coin needs buyers too. Supply and demand still read mixed for Chainlink in the long run.
 
 ### Should I sell my Chainlink now?
 
@@ -90,7 +90,7 @@ We would read Chainlink differently if new supply keeps arriving (+1.47% in 90 d
 
 ### Is Chainlink a good long-term investment?
 
-Chainlink scores 6.5/10 on our framework (Oct 14 2026): supply 2/5 (growing), demand 4.5/5. Over the next year Chainlink's supply changes +9.13%. The long-run signal is mixed.
+Chainlink scores 6.5/10 on our framework (Oct 18 2026): supply 2/5 (growing), demand 4.5/5. Over the next year Chainlink's supply changes +9.13%. The long-run signal is mixed.
 
 ### How do I know when to buy Chainlink?
 
@@ -102,7 +102,7 @@ Chainlink's price drivers today: 2 pointing up, 0 pointing down, out of 2. ▲ E
 
 ### Is Chainlink a better investment than Bitcoin?
 
-Chainlink: mixed signal, 6.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 14 2026). By supply and demand, Chainlink reads weaker than Bitcoin today.
+Chainlink: mixed signal, 6.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 18 2026). By supply and demand, Chainlink reads weaker than Bitcoin today.
 
 ## Next steps for LINK
 
