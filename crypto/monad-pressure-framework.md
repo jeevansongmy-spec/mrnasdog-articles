@@ -1,6 +1,6 @@
 ---
 title:         "MON Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description:   "MON supply grew +3.27% in 90 days from staking rewards and Foundation payouts; 16.48B team and investor MON unlock from Nov 24 2026, about +143% next."
+description:   "MON supply grew +3.33% in 90 days from staking rewards and Foundation payouts; a 15.62B team and investor unlock lands Nov 24 2026, about +143% next."
 canonical_url: "https://mrnasdog.com/research/monad/inflation"
 tags:          ["crypto", "mon", "monad", "layer1"]
 published:     true
@@ -12,50 +12,60 @@ published:     true
 
 # MON Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
-The MrNasdog Pressure Framework reads Monad's MON supply as growing: **+3.27% net** over the last 90 days and **+142.68%** over the next 90. In the last 90 days, **180.1M MON** of staking rewards reached holders and the Monad Foundation paid out **242.8M MON**, while the base-fee burn destroyed only **36.25M MON**. The next 90 days are a different story: the first-year lock on team and investor coins ends on **Nov 24 2026**, releasing about **16.48B MON** by Dec 24 2026, more than the **11.83B MON** that circulate today. The monitor reads **+0.02%**, because the supply figure it follows has not moved since Apr 14 2026.
+**Monad (MON) is inflationary, and the biggest step is still ahead.** In the 90 days to Oct 19 2026, **430.4M MON** reached the market — **182.3M** from staking rewards and **248.2M** from Monad Foundation payouts — while the fee burn destroyed only **36.5M**. That is **+3.33%** of the **11.83B MON** in circulation. On **Nov 24 2026** the first-year lock ends and **15.62B** team and investor MON unlocks at once, so the next 90 days read about **+142.72%**. The monitor reads **+0.01%**, because the figure it follows has not moved since April.
 
 ## The verdict, in one paragraph
 
-Over the 90 days to Oct 9 2026, MON's tradable supply grew **+3.27%**: **422.9M MON** entered the float (180.1M of staking rewards and 242.8M of Monad Foundation payouts) and **36.25M MON** were burned in fees. The monitor reads **+0.02%**, a gap of **3.25 percentage points**, which is over the 0.5-point line, so the page carries a ⚠ monitor gap chip. We walked every source class and found the reason: the monitor's supply figure is a fixed count of the free float that sat near 10.83B MON from launch, stepped to 11.83B MON on Apr 14 2026, and has not moved since, while the Monad chain kept minting new MON every block and the Foundation kept paying out. Our number stays. For the next 90 days we project **+142.68%**, because of the Nov 24 2026 unlock. In one line: Monad is a young Layer 1 whose float is about to more than double.
+Over the last 90 days, net new MON in the market came to **+3.33%** of circulating supply, and the next 90 days project to **+142.72%**. The monitor reads **+0.01%** for the same 90 days, a gap of **3.32 percentage points**, so the page carries a ⚠ monitor gap note. The reason is on the monitor's side: the circulating figure it reads sat near 10.83B MON from launch, stepped once to 11.83B MON on Apr 14 2026 and has stayed there, while the chain kept minting new MON every block. Our reading stays. Monad today is **a young chain with a small free float and a very large locked overhang**: steady staking inflation now, and an unlock bigger than the whole float in five weeks.
 
 ## Sell pressure: where new MON comes from
 
-Protocol inflation is the steady source. Every Monad block mints a fixed reward for the stakers of the validator that produced it: **25 MON** a block until the MIP-12 upgrade of Jul 23 2026, and **18 MON** since, when blocks sped up from 0.4 to 0.3 seconds and the reward was cut in proportion. Across the window that minted **465.4M MON**. The Monad Foundation delegates part of its Ecosystem Development pool to about 170 validators, and its **10.91B MON** of stake earned about **285.3M MON** of those rewards, which stay in the Foundation's pool. The other **180.1M MON** went to ordinary stakers and validator commissions, and that is the part that adds to the tradable supply. At the current pace of about 285,700 blocks a day, the next 90 days add about **182.8M MON** the same way.
+**Protocol inflation: 182.3M MON in 90 days.** Every Monad block mints a fixed reward for stakers. It was 25 MON per block until the MIP-12 upgrade on Jul 23 2026, which cut it to 18 MON per block while making blocks faster (from about 0.4 seconds to about 0.3 seconds), so the amount minted per hour barely changed. In these 90 days the chain minted **463.2M MON** in total. About 61% of that goes to the stake the Monad Foundation delegates to validators, and those rewards stay in the Foundation's Ecosystem reserve. The other **182.3M MON** reached validators and outside stakers. At the current rate the next 90 days bring about the same.
 
-Vesting unlocks are zero for the window just ended and enormous for the next one. All team, investor and Category Labs Treasury coins have been locked since mainnet launch on Nov 24 2025. On **Nov 24 2026** the Monad Foundation says about **10.7B** team coins are released, and investors receive a quarter of their **19.68B** allocation, about **4.92B MON**. Monthly releases start on Dec 24 2026: **410.07M MON** for investors (1/48 of their allocation) and about **452.48M MON** for the team, whose remaining coins release over the three years after the cliff. That is **16.48B MON** in the next 90 days.
+**Vesting unlocks: 0 last 90 days, about 16.48B MON next.** All team and investor MON has been locked since the Nov 24 2025 mainnet launch, so nothing unlocked in the window. On **Nov 24 2026** the one-year lock ends: about **10.70B** team MON and a quarter of the investor allocation, **4.92B**, unlock on the same day — **15.62B MON**, more than all MON trading today. A monthly unlock of about **862.5M MON** follows on Dec 24 2026 and continues each month until late 2029.
 
-Foundation and unscheduled unlocks are the second live source. The Monad Foundation's main Ecosystem Development wallet refilled its payout wallets with 250M MON on Jul 17 2026, and those wallets sent **242.8M MON** net to outside wallets over the 90 days, in batches every week or two, as grants and payments to builders and partners. The payouts ran before the window too, so we expect about the same **242.8M MON** in the next 90 days. The long-term locked or bankruptcy row is zero: no estate or court holds MON.
+**Foundation + unscheduled unlocks: 248.2M MON.** The Monad Foundation pays grants, incentives and partners from its Ecosystem reserve through a small group of payout wallets. Those wallets sent out **248.2M MON** more than they received in the 90 days, with payments spread through the whole window, so we expect about the same in the next 90 days. The reserve itself has no unlock schedule.
+
+**Long-term locked or bankruptcy: 0.** Monad has no bankruptcy estate and no court-held MON; every locked coin belongs to the team, investor or Category Labs allocations covered above.
 
 ## Buy pressure: where new MON goes
 
-The only working buyer is the protocol fee burn. Monad destroys the base fee of every transaction, and it charges that fee on the gas a transaction reserves, not only on the gas it uses. Over the 90 days the burn removed about **36.25M MON**, around 403,000 a day, with **14.95M MON** of that in the last 30 days as the chain got busier. Priority tips go to validators and are not burned. Set against **422.9M MON** of new coins reaching the market, the burn is small.
+**Programmatic buyback: 0.** The Monad protocol does not buy MON back. Fees are either burned or paid to the block's validator.
 
-The programmatic buyback row is zero. Category Labs, the company that develops Monad, has said it may buy up to $80M of MON on the open market by Dec 31 2026, but it has disclosed no purchase and no wallet, so nothing is booked. The Foundation buy row is zero as well: in August 2026 the Foundation offered up to $60M to early investors for their locked coins, nearly all of them declined, and any coins it bought stay locked on the original schedule. New long-term locks are zero because staked MON can be withdrawn and still counts as circulating, so the **15.47B MON** now staked takes nothing out of the float.
+**Protocol fee burn: 36.5M MON in 90 days.** The base part of every Monad fee is destroyed. Monad charges for the gas limit a user sets rather than the gas a transaction ends up using, and the base fee almost always sits at its floor, so the burn follows how much block space people book. It grew through the window, with **14.0M MON** burned in the last 30 days alone, but in total it is only about 8% of the new MON minted.
+
+**Foundation buy: 0.** Category Labs, the company that builds Monad, has permission to buy up to $80M of MON in the open market until Dec 31 2026, but it has not disclosed any purchase or wallet. In August 2026 the Monad Foundation offered to buy locked MON from early investors; nearly all of them declined, and anything it bought stays locked, so no MON left the market.
+
+**New long-term lock: 0.** About **15.44B MON** is staked, most of it delegated by the Foundation. Staked MON can be withdrawn, so it still counts as circulating, and locked team and investor MON cannot be staked at all.
 
 ## Foundation and overhang
 
-The Monad Foundation stewards the Ecosystem Development pool: **38.23B MON** on Mar 31 2026, unlocked but outside the tradable float. On-chain we follow three parts of it. The main wallet holds **17.14B MON** and moves rarely, in large refills. The payout wallets hold **48.7M MON** and send coins out every week or two. The 20 staking wallets hold **10.91B MON** delegated to validators and **2.64B MON** liquid, which grows as staking rewards are claimed; they sent nothing to outside wallets in the window. The Category Labs Treasury holds **3.95B MON**, locked until Nov 24 2026, after which a quarter opens and then 1/48 each month into the company's own hands. Behind them sit the locked team and investor allocations of **26.99B** and **19.68B MON**, which release on the schedule above until Nov 2029. We re-read the Foundation wallets on-chain at every rebuild and its allocation reports by hand. If any of these balances falls between refreshes, the outflow enters the Foundation and unscheduled unlocks row at the next refresh.
+The Monad Foundation controls the largest pool of MON outside the market. Its main Ecosystem wallet holds about **17.14B MON** and did not move in these 90 days. Its 20 validator-delegation wallets hold **10.91B MON** staked plus about **2.67B** liquid, built up from staking rewards. Its payout wallets ended the window almost empty, at about 22M MON, after the 248.2M MON of payments, so a new top-up from the main wallet is the next thing to watch.
 
-## How MON compares to other high-speed Layer 1s
+Beyond the Foundation, **3.95B MON** belongs to the Category Labs treasury: a quarter of it unlocks on Nov 24 2026 and the rest monthly, into the company's own hands rather than straight to the market. The locked investor MON the Foundation bought in August stays on the investor schedule and returns to the Foundation, not to traders. We read these wallets at every rebuild: if the Foundation's or Category Labs' balances fall between checks, that outflow joins Foundation + unscheduled unlocks at the next check.
 
-Monad belongs to the young, venture-funded Layer 1s that launched with a small float and a large locked pile, like Sui and Aptos did. Those chains also pay stakers in new coins and also opened large team and investor allocations after their first year, and their supply curves were shaped far more by unlocks than by staking rewards. MON follows the same pattern: a fixed per-block reward worth about 1.9% of the initial supply a year, against a first cliff and first monthly release worth about 139% of today's float.
+## How MON compares to other new high-speed Layer 1s
 
-Against Ethereum, the mechanism is close but the balance is not. Both mint rewards for stakers and both burn the base fee. Ethereum has no locked pile left, so its supply moves by a fraction of a percent; Monad's burn is small next to its reward, and its unlock schedule runs until Nov 2029. Against Solana, which pays a percentage-based inflation that steps down each year, Monad's reward is a fixed number of coins per block, so its inflation rate falls only slowly as supply grows.
+Monad belongs to the group of fast Layer 1 chains launched with a small public float and most of the supply held by the team, investors and a foundation. In that group the main supply question is rarely staking inflation — it is the unlock calendar. MON's issuance is modest for a proof-of-stake chain, close to 2% of all MON a year, but because only about 11.7% of MON circulates, the same issuance is a much larger share of the float. A chain whose free float is already most of its supply feels new coins far less.
 
-The other difference is who holds the stake and who pays out. Most of Monad's staked coins belong to the Foundation's delegation program, and the rewards on that stake stay in the Foundation's pool. That keeps today's reward inflation on the float lower than the headline reward suggests, but the same pool funds a steady stream of grants and payments, so the Foundation's spending matters as much as the reward itself.
+Monad's fee design follows Ethereum: the base fee is burned and the tip goes to the block producer. On Ethereum the burn can match issuance when blocks are busy; on Monad the base fee rests at its floor and the burn covers less than a tenth of new MON. Sui takes a different route, paying stakers from a fixed 10B supply set aside at launch rather than minting new coins, so its total never grows. Monad has no supply cap: new MON is minted every block, and only the burn works against it.
+
+What sets MON apart is the size of its first unlock against its float. Many young chains release their team and investor coins in small monthly steps from the start. Monad held everything for a full year and releases about 15.62B MON in one day, then about 862.5M MON a month — so the float more than doubles in a single day.
 
 ## What to watch in the next 90 days
 
-**Nov 24 2026**: the first-year cliff releases about 10.7B team and 4.92B investor MON, plus a quarter of the Category Labs Treasury; watch how much moves to exchanges in the days after.
+**Nov 24 2026:** the first-year unlock of about 15.62B team and investor MON, plus about 988M MON into the Category Labs treasury — watch exchange deposits from the newly unlocked wallets.
 
-**Dec 24 2026**: the first monthly release, about 410.07M investor and 452.48M team MON.
+**Dec 24 2026:** the first monthly unlock, about 862.5M MON, with the same amount due every month after.
 
-**Dec 31 2026**: the end of Category Labs' authorization to buy up to $80M of MON on the open market; any disclosed purchase would enter the buyback row.
+**Dec 31 2026:** the end of Category Labs' permission to buy up to $80M of MON — any disclosed purchase would be the first real buyer on the other side.
 
-The Monad Foundation's payout wallets and its next allocation report, which would show how much of the Ecosystem Development pool went out since Mar 31 2026, and any change to the staking reward or the validator set.
+**Foundation payouts:** the payout wallets are close to empty, so a top-up from the 17.14B MON main wallet would show whether grant spending keeps its pace of about 248M MON per 90 days.
+
+**Staking after the unlock:** unlocked team and investor MON can be staked, which would shrink the Foundation's share of rewards and send more of each block's new MON to the market.
 
 ## Summary
 
-Monad's MON supply grew **+3.27%** in the 90 days to Oct 9 2026, as **180.1M MON** of staking rewards and **242.8M MON** of Foundation payouts reached the market and the fee burn removed only **36.25M MON**. The next 90 days are dominated by the Nov 24 2026 cliff: about **16.48B MON** of team and investor coins are due by Dec 24 2026, which puts the projected change at **+142.68%**. The key risk is how many of those coins are sold, with no buyback of real size in place to meet them. MON has no supply cap, the per-block reward keeps minting, and the locked schedule runs until Nov 2029.
+Monad (MON) is inflationary: **+3.33%** net over the last 90 days from staking rewards and Foundation payouts, with a fee burn of only **36.5M MON** against them. The next 90 days read about **+142.72%**, because the Nov 24 2026 unlock releases about 15.62B team and investor MON into a float of 11.83B, followed by about 862.5M MON every month until late 2029. The key risk is that newly unlocked holders sell; the only buyers on the supply side today are a small burn and an undisclosed company buyback. MON has no supply cap, so issuance continues after every unlock is done.
 
-*MrNasdog Pressure Framework analysis of MON, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 9 2026.*
+*MrNasdog Pressure Framework analysis of MON, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*

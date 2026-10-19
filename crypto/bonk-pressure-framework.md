@@ -1,61 +1,71 @@
 ---
 title:         "BONK Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description:   "BONK supply is roughly steady: no new BONK can be minted, and burns removed 352.1M BONK in 90 days, a −0.0004% change. Nothing vests; about −0.0002% next."
+description:   "BONK supply is flat: no new BONK can be made and nothing unlocks, while burns removed 285M BONK in 90 days, −0.0003% net. A fixed-supply Solana meme coin."
 canonical_url: "https://mrnasdog.com/research/bonk/inflation"
 tags:          ["crypto", "bonk", "solana", "memecoin"]
 published:     true
 ---
-Originally published at [BONK Inflation Analysis · October 2026 · Mixed flows · supply roughly steady](https://mrnasdog.com/research/bonk/inflation).
-
-# BONK Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+*Originally published at [https://mrnasdog.com/research/bonk/inflation](https://mrnasdog.com/research/bonk/inflation)*
 
 <!-- main-page -->
 **Main page:** the full BONK coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/bonk](https://mrnasdog.com/research/bonk)
 
-The MrNasdog Pressure Framework reads BONK as flat with a slight shrink: **0 BONK** of new supply against **352.1M BONK** burned over the last 90 days, a net change of **−0.0004%**, and about **−0.0002%** projected for the next 90 days. Bonk is a Solana meme coin whose mint power was switched off for good, so the BONK supply can only go down, and only through burns. Those burns are now tiny next to the **88.0T** BONK in circulation, so supply is roughly steady and the coin's price rests on demand.
+# BONK Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+
+**BONK supply is flat, with a slight downward drift.** No new BONK can ever be created, nothing is left to unlock, and burns removed **284.95M BONK** in the 90 days to Oct 19 2026 against **0** new coins, a net change of **−0.0003%** on **87.99T BONK** in circulation. The burns are real but tiny next to the supply, so BONK is a fixed-supply Solana meme coin whose float barely moves; market data shows **+0.15%** over the same 90 days.
 
 ## The verdict, in one paragraph
 
-Over the 90 days from Jul 11 to Oct 9 2026, BONK's net supply change was **−0.0004%**: no BONK was created and **352.1M BONK** was destroyed, out of **87.99T** circulating. The independent inflation monitor reads **+0.07%** for the same window. The gap is **0.07 percentage points**, small enough that no warning chip is shown, and the reading stands as verified. The monitor's small plus comes from price and market-value rounding, not from new coins, since none can be made. In one line: BONK is a fixed-supply meme coin with a slow, small burn.
+Over the last 90 days (Jul 21 to Oct 19 2026) BONK supply changed by **−0.0003%**, and the next 90 days project about **−0.0003%** again (**237.42M BONK** of burns expected, **0** new coins). Market data shows **+0.15%** for the same window, a gap of **0.15 percentage points**, which is small enough that no warning chip is shown. The on-chain supply of the BONK mint fell every week of the window and never rose once. In one line: BONK is a **capped meme coin with no new supply and a slow trickle of burns**.
 
 ## Sell pressure: where new BONK comes from
 
-Protocol inflation is **0**. The BONK mint account on Solana has no mint authority, and on the SPL token program that cannot be undone, so no new BONK can ever be created. There is no staking reward or block reward paid in BONK either.
+**Protocol inflation is 0.** The power to create new BONK was switched off on-chain, and the Solana token program cannot switch it back on, so the 2022 genesis supply of about 100T BONK is the most that will ever exist. BONK pays no staking reward and no block reward in its own coin, so there is no stream of fresh supply for anyone to sell.
 
-Vesting unlocks are **0**. The shares set at the December 2022 launch, for early contributors, the BonkDAO, marketing, liquidity and the big airdrop to Solana users, have all been released. Unlock trackers show BONK as fully unlocked, and the circulating count equals the whole supply, so nothing is waiting to open.
+**Vesting unlocks are 0.** The early contributor and team shares finished unlocking, unlock trackers show BONK as 100% unlocked, and the circulating supply of **87,994,322,654,784 BONK** equals the total supply to within about 100 coins. There is no cliff, no linear release and no locked bucket left.
 
-Foundation and unscheduled unlocks are **0**, even in a window with a dramatic event. On Jul 6 2026 an attacker bought enough BONK to pass a hostile governance proposal and moved **4.43T BONK** out of the BonkDAO treasury, then sold it over about two weeks. That selling was real and it hurt the price. But those coins were already counted as circulating while they sat in the treasury, so the supply in the market did not grow; the coins only changed hands. Long-term locks and bankruptcy releases are **0** as well: no estate or trustee holds BONK, and coins locked for rewards still count as circulating.
+**Foundation and unscheduled unlocks are 0.** BONK has big holders, but none of their coins sit outside the circulating count. The biggest event of the summer, a governance attack that took **4.43T BONK** out of the BonkDAO treasury on Jul 6 2026, happened before this window, and the attacker had moved those coins on by Jul 20 2026. Because every one of those coins was already circulating, the sale moved coins between holders and created no new BONK.
+
+**Long-term locked or bankruptcy supply is 0.** No court estate, trustee or long lock is releasing BONK, and none is scheduled.
 
 ## Buy pressure: where new BONK goes
 
-The programmatic buyback row is **154.8M BONK**. A Bonk buy-and-burn wallet, paid in dollars from a project multisig, bought and burned BONK twice in the window: **107.3M BONK** on Jul 11 2026 and **47.5M BONK** on Sep 21 2026. Each buy was only a few hundred dollars and there is no set schedule, so the forward 90 days count **0** from this wallet until it fires again.
+**Programmatic buyback: 47.53M BONK.** A wallet funded in USDC from a project fee account buys BONK on the market and burns it. It fired once inside the window, burning **47,531,979 BONK** on Sep 21 2026 with about 156 USDC; its only other burn was **107.3M BONK** on Jul 11 2026, just before the window. It has no public schedule, so the next 90 days count **0** from it until it fires again.
 
-Holder and app burns add **197.3M BONK**. Trading bots, apps and ordinary holders destroy BONK every day, mostly in small amounts: **191.2M BONK** was burned directly on-chain and **6.1M BONK** was sent to a dead address that no one can spend from. That is about 2.2M BONK a day, and the projection keeps the same rate for the next 90 days.
+**Protocol fee burn: 0.** The BONK token itself takes no fee on transfers, so nothing burns automatically when coins move. Fee-funded burns by BONK apps such as the trading bot, the launchpad and the casino land in the holder and app burns row instead.
 
-The protocol fee burn is **0**, because the BONK token takes no fee of its own. The foundation buy row is **0** too, though buying does happen: the listed company Bonk, Inc. uses half of the BONK.fun launchpad's fees to buy BONK and held **2.47T BONK** on Jun 30 2026. Those coins stay in custody and still count as circulating, so the buying moves BONK between hands and removes none. New long-term locks are **0** for the same reason. Total buy pressure is **352.1M BONK** over the last 90 days and **197.3M BONK** projected for the next 90.
+**Foundation buy: 0.** Under a governance rule, 51% of launchpad fees buy BONK for the treasury of Bonk, Inc. (Nasdaq: BNKK), which held **2,468,728,678,821 BONK** at Jun 30 2026 and aims for 5% of supply. Those purchases are real buying, but the coins stay in a company account and still count as circulating, so they remove nothing from supply.
+
+**New long-term lock: 0.** No new lock took BONK out of circulation in the window.
+
+**Holder and app burns: 237.42M BONK.** Beyond the buy-and-burn wallet, the BONK supply fell by **231.31M** as holders and apps destroyed coins, and another **6.11M BONK** was sent to a burn address that nobody can spend from (6.11M of it in one transfer on Sep 17 2026). Burns came in bursts rather than evenly: about **15.9M** in the first 30 days, **128.5M** in the middle 30 and **134.5M** in the last 30. The largest single burns came from private wallets: **39.83M BONK** on Aug 31 2026 and **30.54M BONK** on Oct 18 2026. The next 90 days assume the same pace, **237.42M BONK**.
 
 ## Foundation and overhang
 
-BONK has no foundation wallet with a reserve still to release. The BonkDAO treasury, once the main pool of project coins, is empty after the Jul 6 2026 drain, and the wallets that received the drained BONK are empty too. The largest identified holders today are the company Bonk, Inc. with **2.47T BONK** in custody on Jun 30 2026, a former BONK.fun burn wallet with **217.2B BONK** that has not moved since Apr 10 2026, and a partner company that reported **219.7B BONK** bought on the open market by Jan 5 2026. We re-read the on-chain wallets and the company filings at every check.
+BONK has no foundation holding a reserve of unissued coins, but a few large holders could sell. Bonk, Inc. holds about **2.47T BONK** with a custodian (its latest filed count, Jun 30 2026), and its plan is to buy more, not sell. A former launchpad wallet holds **217.2B BONK** and has not moved since April 2026. TenX Protocols disclosed about **219.7B BONK** bought on the market and over the counter, in January 2026. The BonkDAO treasury holds just **6 BONK** after the July attack, and the attacker's wallets are empty.
 
-All of these coins already count as circulating, so a sale by any of them would add selling to the market but not new supply. If one of these balances falls between our checks, we record the outflow as a foundation or unscheduled release at the next check and say where the coins went.
+All of these coins already count as circulating, so a sale by any of them would push price but would not add supply. We re-check the on-chain wallets every day and the company filings every two weeks; if any of these balances falls between checks, the outflow enters the foundation and unscheduled unlocks row at the next check.
 
 ## How BONK compares to other meme coins
 
-Among large meme coins, BONK sits in the fixed-supply, burn-only group. Dogecoin is the opposite design: it has no cap and pays miners a fixed number of new coins with every block, so its supply grows every day and a buyer has to absorb that flow. BONK has no such flow, because its mint power is gone.
+BONK sits in the same group as DOGE, SHIB and PEPE, but its supply rules are closest to PEPE and SHIB, not DOGE. DOGE has no cap and mints about 5 billion new coins a year to miners forever, so its supply always grows. BONK, like PEPE, has a hard ceiling because the power to mint is gone; the supply it has is the most it will ever have.
 
-Shiba Inu and Pepe are closer cousins. Both have a fixed supply. Shiba Inu leans on community burns sent to dead addresses, much like BONK's holder burns, while Pepe has no burn engine at all. BONK adds app-driven burns, from trading bots and its own launch and game products, on top of holder burns. Over Bonk's life these burns removed about 12% of the first 100T BONK, but most of that happened in the early years; today the pace is a few hundred million BONK a quarter, a rounding error against 88T.
+The difference from PEPE is the burn. PEPE has no app income feeding a burn, while BONK has several products, a trading bot, a launchpad and a casino, that send part of their fees to buy and burn BONK, plus a holder culture of burning coins. That makes BONK slowly shrinking rather than perfectly flat. SHIB also burns, but its burns are mostly holders sending coins to dead addresses; BONK burns are mostly real supply cuts on the token itself.
 
-The fair comparison, then, is that BONK's supply is steady rather than shrinking. What sets BONK apart is a business layer around the coin: a listed company that holds BONK and a launchpad whose fees buy it. Those buyers move coins into custody, not into burns, so they change who holds BONK, not how much exists.
+The scale is the catch. At **284.95M BONK** per 90 days, the burn removes about one coin in every 300,000 a quarter. Since launch, burns have removed about 12% of the genesis supply, but almost all of that came from large one-time burns between 2023 and 2025; the steady app-and-holder flow today is far smaller.
 
 ## What to watch in the next 90 days
 
-First, the buy-and-burn wallet: its last burn was on Sep 21 2026, and any new firing adds straight to the buy side. Second, the BONKplay casino, launched on Jul 30 2026, says up to 10% of its fees will buy and burn BONK; so far no burn can be tied to it on its own, and a visible stream would lift the burn rate. Third, Bonk, Inc.'s next quarterly filing, likely around mid-November 2026, will show how much BONK the company held on Sep 30 2026, and whether it sold any. Fourth, the old promise to burn 1T BONK once Bonk reaches one million holders has no date and no funded wallet since the treasury was drained; if it ever happens it would be the largest burn in years, about 1.1% of supply. Fifth, Upbit closed BONK withdrawals on Oct 7 2026 after delisting it on Sep 7 2026, which moves coins between holders but does not change the supply.
+**The buy-and-burn wallet.** It fired on Jul 11 2026 and Sep 21 2026, about 72 days apart. If it fires again before Jan 17 2027, the next-90-day burn rises by its size.
+
+**Bonk, Inc.'s next filing.** Its third-quarter report should show the BONK count at Sep 30 2026. A drop would mean the company sold coins, which moves price but adds no supply.
+
+**Big one-off burns.** Single private burns of 30M to 40M BONK drove much of this window. The next 90 days assume the same pace; a quiet quarter would cut the burn, a large announced burn would raise it.
+
+**Launchpad and trading-bot activity.** App fees fund part of the burn and all of the company buying. Launchpad volume fell sharply in 2026, and a further slide would shrink both.
 
 ## Summary
 
-The MrNasdog Pressure Framework reads Bonk (BONK) as a fixed-supply Solana meme coin with roughly steady supply: net **−0.0004%** over the last 90 days and about **−0.0002%** over the next 90, with **0 BONK** of new supply and **352.1M BONK** burned. No BONK can ever be minted, nothing vests, and the July 2026 treasury drain changed who holds the coins, not how many exist. The key risk is not new supply but selling by large holders such as Bonk, Inc., whose **2.47T BONK** already trades as part of the float. With burns now tiny, BONK's price depends almost entirely on demand.
+BONK is a fixed-supply Solana meme coin: no new BONK can be created, nothing is left to vest, and all **87.99T BONK** already circulate. Burns by a buy-and-burn wallet, apps and holders removed **284.95M BONK** in the 90 days to Oct 19 2026, a net change of **−0.0003%**, so supply is roughly steady with a slight downward drift. The main supply risk is not new coins but large holders selling coins that already circulate, such as Bonk, Inc.'s **2.47T BONK**. The ceiling is fixed: BONK supply can only stay where it is or go down.
 
----
-
-*MrNasdog Pressure Framework analysis of BONK, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 9 2026.*
+*MrNasdog Pressure Framework analysis of BONK, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*

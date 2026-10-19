@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy SUN? Supply, Demand and What Moves Its Price"
-description:   "Supply and demand give SUN a mixed long-run signal today (Oct 18 2026); its score is 7/10."
+description:   "Supply and demand give SUN a mixed long-run signal today (Oct 19 2026); its score is 7/10."
 canonical_url: "https://mrnasdog.com/research/sun"
 content_type:  "coin_hub"
 tags:          ["crypto", "sun", "sun", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy SUN? Supply, Demand and What Moves Its Price
 
-*Live page: https://mrnasdog.com/research/sun · checked Oct 18 2026*
+*Live page: https://mrnasdog.com/research/sun · checked Oct 19 2026*
 
-Supply and demand give SUN a **mixed** long-run signal today (Oct 18 2026); its score is 7/10.
+Supply and demand give SUN a **mixed** long-run signal today (Oct 19 2026); its score is 7/10.
 
 - **Signal:** mixed (by the law of supply and demand)
 - **Score:** 7/10 — supply 5/5, demand 2/5
@@ -22,7 +22,7 @@ Supply and demand give SUN a **mixed** long-run signal today (Oct 18 2026); its 
 
 ### Is it a good time to buy SUN today?
 
-By the law of supply and demand, SUN's long-run signal is mixed (Oct 18 2026, score 7/10). New supply: −0.04% in the next 90 days. Demand: weak (2/5). SUN's price drivers: 0 ▲ price up, 2 ▼ price down.
+By the law of supply and demand, SUN's long-run signal is mixed (Oct 19 2026, score 7/10). New supply: −0.04% in the next 90 days. Demand: weak (2/5). SUN's price drivers: 0 ▲ price up, 2 ▼ price down.
 
 ### Should I sell my SUN now?
 
@@ -30,7 +30,7 @@ SUN's signal is mixed for now. SUN's signal would turn if new supply jumps (toda
 
 ### Is SUN a good long-term investment?
 
-SUN sits at 7/10 today (Oct 18 2026): supply 5/5, demand 2/5. One more year adds −0.17% to SUN's supply. Long-run signal: mixed.
+SUN sits at 7/10 today (Oct 19 2026): supply 5/5, demand 2/5. One more year adds −0.17% to SUN's supply. Long-run signal: mixed.
 
 ### When is a good time to buy SUN?
 
@@ -38,17 +38,17 @@ By the law of supply and demand, the better time to buy SUN is when its new supp
 
 ### What could push SUN's price up or down?
 
-Right now 2 things drive SUN's price (0 ▲, 2 ▼). ▼ SunSwap trading: Trading is under a third of its Dec 2024 peak. ▼ Justin Sun: SEC case is closed, but two lawsuits and HTX trouble stay open.
+Right now 2 things drive SUN's price (0 ▲, 2 ▼). ▼ SunSwap trading: Trading is under a third of its Dec 2024 peak. ▼ Justin Sun: SEC case closed, but lawsuits keep coming; Poloniex lost $9M case.
 
 ### Is SUN a better investment than Bitcoin?
 
-Side by side on Oct 18 2026: SUN at 7/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, SUN is the weaker of the two.
+Side by side on Oct 19 2026: SUN at 7/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, SUN is the weaker of the two.
 
 ## SUN supply
 
-SUN.io's token has a fixed 19.90B supply and no mint. A quarterly revenue buyback burns a little each round, so supply edges down about 0.05% in 90 days.
+SUN.io's token: a fixed 19.90B supply with no mint, and a quarterly fee buyback that burned 9.03M SUN in 90 days. Supply down 0.05%.
 
-Over the next 90 days SUN supply changes −0.04%; across a full year, −0.17%. That puts supply at 5/5 (shrinking), #101 of 101 for new supply.
+Over the next 90 days SUN supply changes −0.04%; across a full year, −0.17%. That puts supply at 5/5 (shrinking), #100 of 101 for new supply.
 
 ## Demand today
 
@@ -75,11 +75,11 @@ Trading is under a third of its Dec 2024 peak.
 | Aug 2026 | $1,669M |
 | Sep 2026 | $1,814M |
 
-*Checked Oct 10 2026*
+*Checked Oct 19 2026*
 
 ### ▼ Justin Sun
 
-SEC case is closed, but two lawsuits and HTX trouble stay open.
+SEC case closed, but lawsuits keep coming; Poloniex lost $9M case.
 
 Fewer legal fights → price up · More lawsuits, sanctions → price down. Today: the price-down case.
 
@@ -90,13 +90,14 @@ Fewer legal fights → price up · More lawsuits, sanctions → price down. Toda
 | May 4 2026 | WLFI sues Sun |
 | May 26 2026 | UK sanctions HTX |
 | Aug 31 2026 | HTX down after DDoS |
+| Oct 16 2026 | Poloniex $9M judgment |
 
-*Checked Oct 10 2026*
+*Checked Oct 19 2026*
 
 ## More on SUN
 
 - Every SUN unlock and burn, explained: https://mrnasdog.com/research/sun/inflation
 - Compare SUN with 100+ coins: https://mrnasdog.com/coins
-- The method behind the SUN score: https://mrnasdog.com/research/pressure-framework/full
+- The MrNasdog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

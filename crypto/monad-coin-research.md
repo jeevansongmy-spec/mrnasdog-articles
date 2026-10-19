@@ -1,6 +1,6 @@
 ---
 title:         "Is Monad (MON) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)"
-description:   "Monad's float is 11.83B MON; the Nov 24 2026 team and investor unlock adds about 16.48B by Dec 24, more than everything trading today."
+description:   "Monad mints 18 MON a block and burns only part of its fees. Supply grew 3.33% in 90 days, and a 15.62B unlock on Nov 24 2026 is bigger than today's float."
 canonical_url: "https://mrnasdog.com/research/monad"
 content_type:  "coin_hub"
 tags:          ["crypto", "mon", "monad", "should-i-buy"]
@@ -8,21 +8,21 @@ published:     true
 ---
 # Is Monad (MON) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/monad (checked Oct 18 2026)*
+*Originally published at https://mrnasdog.com/research/monad (checked Oct 19 2026)*
 
-**mixed** — that is Monad's long-run signal by supply and demand as of Oct 18 2026, with a score of 4/10.
+**mixed** — that is Monad's long-run signal by supply and demand as of Oct 19 2026, with a score of 4/10.
 
-- **Signal:** mixed (Oct 18 2026)
+- **Signal:** mixed (Oct 19 2026)
 - **Score:** 4/10 — supply 0/5, demand 4/5
-- **Supply growth:** +142.68% in 90 days · +218.21% in a year
+- **Supply growth:** +142.72% in 90 days · +218.54% in a year
 - **How much people want it:** strong (4/5)
 - **Price drivers:** 2 ▲ price up · 0 ▼ price down
 
 ## New MON hitting the market
 
-Monad's float is 11.83B MON; the Nov 24 2026 team and investor unlock adds about 16.48B by Dec 24, more than everything trading today.
+Monad mints 18 MON a block and burns only part of its fees. Supply grew 3.33% in 90 days, and a 15.62B unlock on Nov 24 2026 is bigger than today's float.
 
-New MON: +142.68% in 90 days, +218.21% in a year. Supply score 0/5, "extreme", #1 of 101 for new supply.
+New MON: +142.72% in 90 days, +218.54% in a year. Supply score 0/5, "extreme", #1 of 101 for new supply.
 
 ## The things that move Monad
 
@@ -39,9 +39,9 @@ Good for the price: More money arrives. Bad for it: Money leaves. Now: ▲ up si
 | Jul 31 2026 | $834M | $636M |
 | Aug 31 2026 | $953M | $755M |
 | Sep 30 2026 | $1,026M | $703M |
-| Oct 10 2026 | $999M | $752M |
+| Oct 19 2026 | $1,009M | $699M |
 
-*Checked Oct 10 2026*
+*Checked Oct 19 2026*
 
 ### ▲ Foundation pile
 
@@ -54,7 +54,7 @@ Foundation keeps holding → price up · Foundation sells → price down. Right 
 | All 100B MON | Monad Foundation 38.5% · Others 61.5% |
 | Unlocked at launch | Monad Foundation 77.9% · Others 22.1% |
 
-*Checked Oct 10 2026*
+*Checked Oct 19 2026*
 
 ## MON demand
 
@@ -66,31 +66,31 @@ Members get the rest of the Monad demand read on mrnasdog.com.
 
 ### Should I buy Monad now, or wait?
 
-Based on the law of supply and demand, the long-run signal for Monad is mixed. As of Oct 18 2026, score 4/10, Monad faces +142.68% new supply over 90 days, with demand strong (4/5). Monad's price drivers: 2 ▲ price up, 0 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Monad is mixed. As of Oct 19 2026, score 4/10, Monad faces +142.72% new supply over 90 days, with demand strong (4/5). Monad's price drivers: 2 ▲ price up, 0 ▼ price down.
 
-### With demand strong, why does Monad keep dropping?
+### Monad news: what happens on Nov 24 2026?
 
-Supply, most likely. Only 11.8B of 100.7B MON are out so far, and +142.68% new supply arrives in 90 days, more than strong demand (4/5) can easily soak up. One good sign stays: DeFi money on Monad nearly tripled since Aave arrived. That leaves Monad's long-run signal at mixed, by supply and demand.
+That's Monad's big unlock day. About 15.62B MON for the team and investors unlock, more than the 11.83B coins out today, so supply could grow about +143% in 90 days. On the good side, DeFi money on Monad nearly tripled since Aave arrived. Supply and demand still read mixed for Monad in the long run.
 
-### Monad vs Solana: can the newer chain keep up?
+### Is Monad a dead chain already?
 
-Solana looks stronger today, 6/10 vs Monad's 4/10 (Oct 10 2026). Demand is strong for both (4/5), so supply makes the gap: Monad adds +142.68% new supply in 90 days, Solana only +1.27%. Monad is also tiny next to Solana, $0.29B vs $72B. By supply and demand, Monad's long-run signal is mixed today.
+No, Monad looks alive. DeFi money on the chain nearly tripled since Aave arrived, and the Foundation says it sold none of the MON it steers. The price is the weak part: MON trades near 2.1 cents (Oct 19 2026), about a $246M market cap. By supply and demand, Monad's long-run signal is mixed today.
 
 ### Is $1 possible for Monad?
 
-It would take 41 times today's value: $1 × Monad's coins in the market = about $11.8B, against $292M now (Oct 18 2026). Monad's supply also grows +218.21% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Monad stays mixed.
+It would take 48 times today's value: $1 × Monad's coins in the market = about $11.8B, against $245M now (Oct 19 2026). Monad's supply also grows +218.54% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Monad stays mixed.
 
 ### Is it time to take profit on Monad?
 
-Today the signal is mixed. Supply and demand would point the other way for Monad if new supply keeps arriving (+142.68% in 90 days), or demand falls from strong.
+Today the signal is mixed. Supply and demand would point the other way for Monad if new supply keeps arriving (+142.72% in 90 days), or demand falls from strong.
 
 ### Is Monad a good investment right now?
 
-On our framework Monad scores 4/10 (Oct 18 2026), with supply 0/5 (extreme) and demand 4/5. In the next year Monad's supply changes +218.21%, so the long-run signal reads mixed.
+On our framework Monad scores 4/10 (Oct 19 2026), with supply 0/5 (extreme) and demand 4/5. In the next year Monad's supply changes +218.54%, so the long-run signal reads mixed.
 
 ### What is the best time to invest in Monad?
 
-The law of supply and demand points to one window for Monad: low new supply, high demand, drivers pointing up. Where Monad stands today: +142.68% new supply in 90 days (extreme), demand strong (4/5), drivers 2 ▲ / 0 ▼.
+The law of supply and demand points to one window for Monad: low new supply, high demand, drivers pointing up. Where Monad stands today: +142.72% new supply in 90 days (extreme), demand strong (4/5), drivers 2 ▲ / 0 ▼.
 
 ### Will Monad go up? What could move its price?
 
@@ -98,7 +98,7 @@ Monad has 2 price drivers today (2 ▲ price up, 0 ▼ price down). ▲ Money on
 
 ### Should I buy Monad or Bitcoin?
 
-Monad reads mixed at 4/10; Bitcoin reads positive at 8.5/10 (Oct 18 2026). On supply and demand, Monad looks weaker than Bitcoin today.
+Monad reads mixed at 4/10; Bitcoin reads positive at 8.5/10 (Oct 19 2026). On supply and demand, Monad looks weaker than Bitcoin today.
 
 ## More on Monad
 
