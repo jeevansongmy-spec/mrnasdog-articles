@@ -46,8 +46,8 @@ First, the firing itself, dated **Oct 15 2026** by HTX DAO and the only event in
 
 ## Summary
 
-The MrNasdog Pressure Framework reads HTX at **−0.83%** over the trailing 90 days and **−0.83%** projected forward: supply shrinking, projected to keep shrinking. The structural mechanism is not scarcity by promise but scarcity by code — HTX DAO holds a contract that can neither mint nor destroy, so the **999,990,000,000,000 HTX** ceiling is arithmetic, the float can only fall, and the one thing that moves it is a quarterly burn funded by half of exchange revenue. The key risk is that the burn is a corporate decision rather than a protocol rule, and it has shrunk three quarters running with revenue. The genuine comfort is the one-way ratchet underneath: nothing HTX DAO can do adds a coin, the reserve it burns from is already counted in the float, and every coin it has sent to the dead address is gone for good.
+The MrNasDog Pressure Framework reads HTX at **−0.83%** over the trailing 90 days and **−0.83%** projected forward: supply shrinking, projected to keep shrinking. The structural mechanism is not scarcity by promise but scarcity by code — HTX DAO holds a contract that can neither mint nor destroy, so the **999,990,000,000,000 HTX** ceiling is arithmetic, the float can only fall, and the one thing that moves it is a quarterly burn funded by half of exchange revenue. The key risk is that the burn is a corporate decision rather than a protocol rule, and it has shrunk three quarters running with revenue. The genuine comfort is the one-way ratchet underneath: nothing HTX DAO can do adds a coin, the reserve it burns from is already counted in the float, and every coin it has sent to the dead address is gone for good.
 
 ---
 
-*MrNasdog Pressure Framework analysis of HTX, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 10 2026.*
+*MrNasDog Pressure Framework analysis of HTX, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 10 2026.*

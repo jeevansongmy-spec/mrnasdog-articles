@@ -60,4 +60,4 @@ Where OP differs is the buyback. Many Layer-2 tokens have no link at all between
 
 OP supply is growing: the float rose a net **+1.26%** in the 90 days to Oct 19 2026 and is projected at **+1.96%** for the next 90 days. No OP is minted; new coins come from the Optimism Foundation's grant payouts (**33.83M OP**) and, next, early-contributor coins (**16.42M OP**), while the Superchain revenue buyback took back **4.94M OP**. The key risk is the size of what the Foundation still controls, including a 1.29B OP reserve and a 546.9M OP strategic fund with no schedule. The ceiling is the fixed 4.29B OP total, which only a governance-approved mint of up to 2% a year can raise.
 
-*MrNasdog Pressure Framework analysis of OP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*
+*MrNasDog Pressure Framework analysis of OP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*

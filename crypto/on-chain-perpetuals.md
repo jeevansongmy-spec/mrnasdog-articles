@@ -6,7 +6,7 @@ tags: ["crypto", "perpetuals", "defi", "trading"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/analysis/on-chain-perpetuals](https://mrnasdog.com/analysis/on-chain-perpetuals)** by MrNasdog.
+> Originally published at **[mrnasdog.com/analysis/on-chain-perpetuals](https://mrnasdog.com/analysis/on-chain-perpetuals)** by MrNasDog.
 
 The biggest trade in crypto is leaving the black box — and there's no obvious reason for it to come back.
 

@@ -58,4 +58,4 @@ The practical result is that SEI's inflation is front-loaded. Today it is close 
 
 SEI is inflationary: Sei adds about **334.71M SEI**, or **4.97%** of circulating supply, every 90 days, and takes nothing out. Most of it is monthly team and investor vesting of **293.33M SEI** a quarter, with a daily staking mint of about 41M SEI on top, and there is no buyback or fee burn to absorb it. The key risk is the steady monthly unlock until Aug 2027, plus about 1.04B SEI held in Foundation and ecosystem wallets with no schedule. The ceiling is the hard cap of 10B SEI, and the pace of new supply should fall sharply after Aug 2027.
 
-*MrNasdog Pressure Framework analysis of SEI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 17 2026.*
+*MrNasDog Pressure Framework analysis of SEI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 17 2026.*

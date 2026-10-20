@@ -60,4 +60,4 @@ The bigger APT difference is the unlock calendar. With the team and investor ves
 
 APT is inflationary: over the 90 days to Oct 16 2026 the Aptos supply grew **+4.33%**, made of **33.93M APT** in monthly unlocks and **4.74M APT** in staking rewards against a net gas burn of **403.5K APT**, and the monitor agrees at **+4.60%**. With the last team and investor unlock done on Oct 12 2026, we project about **+2.03%** for the next 90 days. The key risk is that the community and Foundation pools still hold about 327.1M locked APT, released at about 4.54M a month until 2032, while the burn stays small. The 2.1B hard cap is the ceiling.
 
-*MrNasdog Pressure Framework analysis of APT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 16 2026.*
+*MrNasDog Pressure Framework analysis of APT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 16 2026.*

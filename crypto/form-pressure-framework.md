@@ -12,7 +12,7 @@ Originally published at [FORM Inflation Analysis · October 2026 · Mixed flows 
 <!-- main-page -->
 This is the long supply read. For the signal, the price drivers and the questions people ask about Four, see [mrnasdog.com/research/form](https://mrnasdog.com/research/form).
 
-The MrNasdog Pressure Framework reads Four (FORM) as **roughly steady, leaning slightly smaller**: over the last 90 days **20,547** coins left a project wallet while the team bought and burned **408,602 FORM**, so supply fell **0.10%**. No FORM is printed as a reward; new FORM only appears when holders swap the older BNX token one for one. For the next 90 days we expect about **+0.01%**, because the burn was a single event and the wallet payouts continue.
+The MrNasDog Pressure Framework reads Four (FORM) as **roughly steady, leaning slightly smaller**: over the last 90 days **20,547** coins left a project wallet while the team bought and burned **408,602 FORM**, so supply fell **0.10%**. No FORM is printed as a reward; new FORM only appears when holders swap the older BNX token one for one. For the next 90 days we expect about **+0.01%**, because the burn was a single event and the wallet payouts continue.
 
 ## The verdict, in one paragraph
 
@@ -64,6 +64,6 @@ Against fee-burn chains, FORM also differs in where activity lands. A busy chain
 
 ## Summary
 
-The MrNasdog Pressure Framework reads Four (FORM) at **−0.10%** over the last 90 days and about **+0.01%** for the next 90: no coins are printed, a project Safe paid **20,547** BNX to a game pool, and a one-time team buyback burned **408,602 FORM**. Swaps from the older BNX token add no new coins, and supply is capped at 580M. The key risk is the roughly 280M unswapped BNX held mostly by project wallets, which can become FORM at any time; the upside case is a regular buyback paid from platform profit. Until either happens, FORM supply stays roughly steady.
+The MrNasDog Pressure Framework reads Four (FORM) at **−0.10%** over the last 90 days and about **+0.01%** for the next 90: no coins are printed, a project Safe paid **20,547** BNX to a game pool, and a one-time team buyback burned **408,602 FORM**. Swaps from the older BNX token add no new coins, and supply is capped at 580M. The key risk is the roughly 280M unswapped BNX held mostly by project wallets, which can become FORM at any time; the upside case is a regular buyback paid from platform profit. Until either happens, FORM supply stays roughly steady.
 
-*MrNasdog Pressure Framework analysis of FORM, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 10 2026.*
+*MrNasDog Pressure Framework analysis of FORM, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 10 2026.*

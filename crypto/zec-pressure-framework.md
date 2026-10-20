@@ -12,7 +12,7 @@ published:     true
 
 # ZEC Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
-Zcash (ZEC) supply is growing, and the MrNasdog Pressure Framework expects it to keep growing at the same pace. Proof-of-work mining created **161,240.6 ZEC** in the last 90 days, and nothing was burned or bought back, so the net change is **+0.95%** of the **16.98M ZEC** in circulation, with the same **+0.95%** projected for the next 90 days. Like Bitcoin, Zcash has a hard cap of **21M ZEC** and halves its block reward about every four years; the next halving is not due until about November 2028.
+Zcash (ZEC) supply is growing, and the MrNasDog Pressure Framework expects it to keep growing at the same pace. Proof-of-work mining created **161,240.6 ZEC** in the last 90 days, and nothing was burned or bought back, so the net change is **+0.95%** of the **16.98M ZEC** in circulation, with the same **+0.95%** projected for the next 90 days. Like Bitcoin, Zcash has a hard cap of **21M ZEC** and halves its block reward about every four years; the next halving is not due until about November 2028.
 
 ## The verdict, in one paragraph
 
@@ -66,4 +66,4 @@ Zcash (ZEC) supply grows **+0.95%** every 90 days, all of it from the proof-of-w
 
 ---
 
-*MrNasdog Pressure Framework analysis of ZEC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 11 2026.*
+*MrNasDog Pressure Framework analysis of ZEC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 11 2026.*

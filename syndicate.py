@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-MrNasdog article syndication pipeline.
+MrNasDog article syndication pipeline.
 
 One command fans an article out to all distribution channels:
   GitHub (this public repo)  ·  Dev.to  ·  Telegram (@mrnasdog)
@@ -210,10 +210,10 @@ def push_devto(art, state, creds, dry, draft):
 
 
 def push_telegram(art, state, creds, dry, force):
-    # MrNasdog, Sep 27 2026: the @mrnasdog channel is the investment brand only. mrnasdoggrowth.com is his
+    # MrNasDog, Sep 27 2026: the @mrnasdog channel is the investment brand only. mrnasdoggrowth.com is his
     # personal side — never mentioned or promoted there. Growth articles never go to Telegram.
     if "mrnasdoggrowth.com" in art.get("canonical_url", ""):
-        return "skipped (growth article: never on the MrNasdog Telegram channel)"
+        return "skipped (growth article: never on the MrNasDog Telegram channel)"
     tok = creds.get("TELEGRAM_BOT_TOKEN")
     chan = creds.get("TELEGRAM_CHANNEL", "@mrnasdog")
     if not tok:
@@ -290,7 +290,7 @@ def main(argv):
         return 1
     channels = (only,) if only else CHANNELS
     # A channel whose account is suspended is skipped, never retried (distribution-policy.json "suspended_channels";
-    # Dev.to took the MrNasdog account down on Sep 29 2026).
+    # Dev.to took the MrNasDog account down on Sep 29 2026).
     suspended = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "distribution-policy.json"))).get("suspended_channels", {})
     if suspended and not only:
         channels = tuple(c for c in channels if c not in suspended)

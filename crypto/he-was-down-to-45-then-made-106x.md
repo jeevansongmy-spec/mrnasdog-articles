@@ -6,7 +6,7 @@ tags: ["crypto", "hyperliquid", "airdrop", "casestudy"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/case-studies/he-was-down-to-45-then-made-106x](https://mrnasdog.com/case-studies/he-was-down-to-45-then-made-106x)** by MrNasdog. Case Study 002 — exclusive.
+> Originally published at **[mrnasdog.com/case-studies/he-was-down-to-45-then-made-106x](https://mrnasdog.com/case-studies/he-was-down-to-45-then-made-106x)** by MrNasDog. Case Study 002 — exclusive.
 
 **He Was Down to $45. Then He Made 106×.** Liquidated again and again. Rich anyway.
 
@@ -66,7 +66,7 @@ Today, the money he took out plus what he still holds adds up to **$423,940**. T
 
 *Figure 4 — The whole story in order. The numbers match the dots on Figures 2 and 3.*
 
-## 4. MrNasdog's Thought
+## 4. MrNasDog's Thought
 
 > When I was digging into this story, one thing stood out to me. Mr. Oops worked really, really hard, but the hard work alone didn't seem to pay off. So I think finding the right method, and learning from people who do it better, probably matters more than working harder.
 >
@@ -74,11 +74,11 @@ Today, the money he took out plus what he still holds adds up to **$423,940**. T
 >
 > His money is still in his wallet, so we keep tracking it. If you're curious, everything is right below, for free: the full PDF and his live wallet.
 >
-> *Just my personal view. — MrNasdog*
+> *Just my personal view. — MrNasDog*
 
 - **Read it all, free** — the full case study (5 pages, every deposit, every liquidation, every sale): [mrnasdog.com/case-studies/he-was-down-to-45-then-made-106x](https://mrnasdog.com/case-studies/he-was-down-to-45-then-made-106x#preview)
 - **Is he still holding?** — his wallet, tracked live every 30 minutes: [mrnasdog.com/tracking/case-002](https://mrnasdog.com/tracking/case-002)
 
 ---
 
-*MrNasdog Case Study 002 · Exclusive. Research and explanation only — not financial advice. The story, the charts and the live wallet are on [mrnasdog.com](https://mrnasdog.com/case-studies/he-was-down-to-45-then-made-106x).*
+*MrNasDog Case Study 002 · Exclusive. Research and explanation only — not financial advice. The story, the charts and the live wallet are on [mrnasdog.com](https://mrnasdog.com/case-studies/he-was-down-to-45-then-made-106x).*

@@ -68,4 +68,4 @@ Dash (DASH) supply grew **+0.74%** in the last 90 days and is projected to grow 
 
 ---
 
-*MrNasdog Pressure Framework analysis of DASH, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 16 2026.*
+*MrNasDog Pressure Framework analysis of DASH, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 16 2026.*

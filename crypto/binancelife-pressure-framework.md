@@ -85,4 +85,4 @@ The trade-off of the BinanceLife model is that nothing on the buy side is built 
       
 BinanceLife (BLIFE, 币安人生) is a BNB Chain meme coin with a fixed supply of **1,000,000,000**, all of it circulating, and its net supply change was **0.00%** over the last 90 days with **0.00%** expected next. No coins can be created, nothing vests, and there is no buyback or fee burn. The main risk is concentration, not inflation: exchanges hold about 65.8% of the coins and 25 private wallets about 30%. The 1B cap is the ceiling for good, so any change in BLIFE's price comes from demand alone.
 
-*MrNasdog Pressure Framework analysis of BLIFE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 17 2026.*
+*MrNasDog Pressure Framework analysis of BLIFE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 17 2026.*

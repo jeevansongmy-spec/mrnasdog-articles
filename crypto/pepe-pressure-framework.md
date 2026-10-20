@@ -5,7 +5,7 @@ canonical_url: "https://mrnasdog.com/research/pepe/inflation"
 tags: ["crypto", "pepe", "memecoin", "ethereum"]
 published: true
 ---
-> Originally published at **[mrnasdog.com/research/pepe/inflation](https://mrnasdog.com/research/pepe/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/pepe/inflation](https://mrnasdog.com/research/pepe/inflation)** by MrNasDog.
 
 <!-- main-page -->
 This is the long supply read. For the signal, the price drivers and the questions people ask about Pepe, see [mrnasdog.com/research/pepe](https://mrnasdog.com/research/pepe).
@@ -68,4 +68,4 @@ PEPE is a fixed-supply meme coin: all **420.69T PEPE** were created at launch in
 
 ---
 
-*MrNasdog Pressure Framework analysis of PEPE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 14 2026.*
+*MrNasDog Pressure Framework analysis of PEPE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 14 2026.*

@@ -66,4 +66,4 @@ ARB is inflationary on its tradable float: **+2.75%** in the last 90 days and a 
 
 ---
 
-*MrNasdog Pressure Framework analysis of ARB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 14 2026.*
+*MrNasDog Pressure Framework analysis of ARB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 14 2026.*

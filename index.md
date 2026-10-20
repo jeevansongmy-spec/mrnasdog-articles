@@ -1,11 +1,11 @@
 ---
 layout: article
-title: MrNasdog Research
-description: Mirror of MrNasdog crypto research — coin supply, demand and inflation analyses. Originals on mrnasdog.com.
+title: MrNasDog Research
+description: Mirror of MrNasDog crypto research — coin supply, demand and inflation analyses. Originals on mrnasdog.com.
 canonical_url: https://mrnasdog.com/
 ---
 
-# MrNasdog Research
+# MrNasDog Research
 
 Should you buy a coin, sell it, or wait? Each coin page answers it with the law of supply and demand — new supply,
 demand, price drivers and the questions people ask, with dated numbers. Each page here is a copy; the original, always

@@ -6,7 +6,7 @@ tags: ["crypto", "chainlink", "bitcoin", "investing"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/analysis/why-i-sold-half-my-link](https://mrnasdog.com/analysis/why-i-sold-half-my-link)** by MrNasdog.
+> Originally published at **[mrnasdog.com/analysis/why-i-sold-half-my-link](https://mrnasdog.com/analysis/why-i-sold-half-my-link)** by MrNasDog.
 
 *(This is my own view, not financial advice. I could be wrong.)*
 
@@ -63,13 +63,13 @@ So my read is roughly this: the release alone probably doesn't decide the price.
 
 If Bitcoin keeps going up, LINK could rise with it, like in 2023 and 2024, and I'd miss part of that move. Chainlink also buys LINK back every week and keeps it in its Reserve, which is a good sign for the long run. That's why I sold only half, not all of it.
 
-## MrNasdog's Thought
+## MrNasDog's Thought
 
 > I think Chainlink is still a real project with real users. My worry is only the next few months: a big release, coins that cost the team nothing, and a Bitcoin that might turn down.
 >
 > Last year that mix probably hurt LINK a lot. I don't know if it will happen again. So I took the safer road: I sold half and moved it into Bitcoin, which is likely a bit steadier if the market falls. I still hold the other half.
 >
-> *Just my personal view. — MrNasdog*
+> *Just my personal view. — MrNasDog*
 
 *(Again, this is my own view, not financial advice. Please check the numbers yourself before you decide anything.)*
 

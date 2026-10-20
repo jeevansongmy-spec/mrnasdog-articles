@@ -6,13 +6,13 @@ tags: ["crypto", "chz", "chiliz", "fantokens"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/research/chz/inflation](https://mrnasdog.com/research/chz/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/chz/inflation](https://mrnasdog.com/research/chz/inflation)** by MrNasDog.
 
 Chiliz has exactly two forces acting on CHZ supply, and one of them is bigger. A per-block mint on Chiliz Chain printed **151.4M CHZ** over the 90 days to **Aug 20 2026**, while the fan-token revenue buyback-and-burn retired **28.9M CHZ** and the base-fee burn a further **1.3M**. That is **+1.15%** net supply growth against our supply monitor at **+1.13%**, a gap of **0.02 percentage points**. The mint stepped down **16.5%** on **Jun 17 2026** and the lower rate now carries the whole forward quarter, so the framework projects **+1.07%** for the next 90 days. CHZ is an uncapped chain whose burn covers about a fifth of what it prints.
 
 ## The verdict, in one paragraph
 
-For the 90-day window ending **Aug 20 2026**, the MrNasdog Pressure Framework reads Chiliz at **+1.15% net**, with the forward view at **+1.07%**. Our supply monitor reads **+1.13%**, so the gap is **0.02 percentage points** — far inside tolerance, and no monitor-gap flag ships. That agreement matters more than usual here, because the two readings share nothing. The monitor infers supply from market cap divided by price; the framework never looks at a supply series at all. It reads one number — the constant per-block credit paid to the Chiliz Chain validator reward contract, **35.962167 CHZ** a block, which is the documented **65%** share of a total mint of **55.3264 CHZ** — and two burn-address balances at each end of the window. Two independent methods landing 0.02 percentage points apart is a strong reconciliation, not a coincidence of shared inputs. Chiliz is a **structurally inflationary chain with a real but partial revenue burn**.
+For the 90-day window ending **Aug 20 2026**, the MrNasDog Pressure Framework reads Chiliz at **+1.15% net**, with the forward view at **+1.07%**. Our supply monitor reads **+1.13%**, so the gap is **0.02 percentage points** — far inside tolerance, and no monitor-gap flag ships. That agreement matters more than usual here, because the two readings share nothing. The monitor infers supply from market cap divided by price; the framework never looks at a supply series at all. It reads one number — the constant per-block credit paid to the Chiliz Chain validator reward contract, **35.962167 CHZ** a block, which is the documented **65%** share of a total mint of **55.3264 CHZ** — and two burn-address balances at each end of the window. Two independent methods landing 0.02 percentage points apart is a strong reconciliation, not a coincidence of shared inputs. Chiliz is a **structurally inflationary chain with a real but partial revenue burn**.
 
 ## Sell pressure: where new CHZ comes from
 
@@ -48,4 +48,4 @@ Chiliz is a clean, legible, structurally inflationary chain. New CHZ comes from 
 
 ---
 
-*MrNasdog Pressure Framework analysis of CHZ, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Aug 20 2026.*
+*MrNasDog Pressure Framework analysis of CHZ, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Aug 20 2026.*

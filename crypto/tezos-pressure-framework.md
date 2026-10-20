@@ -58,4 +58,4 @@ The staked share: if more XTZ is staked, the yearly rate drops below 2.81%; if s
 
 Tezos (XTZ) grew its circulating supply by **+0.73%** in the 90 days to Oct 18 2026 and projects about the same next, in line with the monitor. The supply comes almost entirely from staking rewards that adjust to the staked share, about **2.81% a year**, while storage and exchange burns remove only a small slice. There are no vesting unlocks left; the overhangs are the Foundation's roughly 91.57M XTZ, already circulating, and 19.97M XTZ of unclaimed fundraiser coins. XTZ has no supply cap.
 
-*MrNasdog Pressure Framework analysis of XTZ, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*
+*MrNasDog Pressure Framework analysis of XTZ, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*

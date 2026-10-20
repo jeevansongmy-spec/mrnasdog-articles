@@ -1,18 +1,18 @@
 ---
 title: "AKT Inflation Analysis · August 2026 · The mint shrank, the treasury didn't"
-description: "A MrNasdog Pressure Framework read of Akash Network (AKT): governance halved the mint to 4% and diverts 70% of it to a non-circulating pool, so only ~0.90M AKT reached the float — but five votes released ~4.43M AKT out of that pool. Framework +1.82% net; monitor +1.21%; forward +1.17%."
+description: "A MrNasDog Pressure Framework read of Akash Network (AKT): governance halved the mint to 4% and diverts 70% of it to a non-circulating pool, so only ~0.90M AKT reached the float — but five votes released ~4.43M AKT out of that pool. Framework +1.82% net; monitor +1.21%; forward +1.17%."
 canonical_url: "https://mrnasdog.com/research/akt/inflation"
 tags: ["crypto", "akt", "akash", "depin", "staking"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/research/akt/inflation](https://mrnasdog.com/research/akt/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/akt/inflation](https://mrnasdog.com/research/akt/inflation)** by MrNasDog.
 
-Akash Network halved its AKT staking mint to **4%** a year in May 2026 and simultaneously raised the skim into its own community pool to **70%**, so only about **0.90M AKT** of the mint actually reached the market over the trailing 90 days. The pressure came from the other direction: five governance votes released **~4.43M AKT** out of that same community pool, making the MrNasdog Pressure Framework read **+1.82%** net new supply against our supply monitor's **+1.21%** — a **0.61 percentage point** gap that ships a data-conflict flag, because the monitor watches total minted AKT and cannot see a treasury drawdown. Akash's inflation is a treasury story, not an emission story.
+Akash Network halved its AKT staking mint to **4%** a year in May 2026 and simultaneously raised the skim into its own community pool to **70%**, so only about **0.90M AKT** of the mint actually reached the market over the trailing 90 days. The pressure came from the other direction: five governance votes released **~4.43M AKT** out of that same community pool, making the MrNasDog Pressure Framework read **+1.82%** net new supply against our supply monitor's **+1.21%** — a **0.61 percentage point** gap that ships a data-conflict flag, because the monitor watches total minted AKT and cannot see a treasury drawdown. Akash's inflation is a treasury story, not an emission story.
 
 ## The verdict, in one paragraph
 
-For the 90-day window to **Aug 11 2026**, the MrNasdog Pressure Framework reads **AKT at +1.82% net** on the trailing window and **+1.17%** on the forward window. Our supply monitor reads **+1.21%** for the same trailing window, a gap of **0.61 percentage points** — over the framework's 0.5-point tolerance, so the AKT overview carries a data-conflict chip. The gap is mechanical rather than contradictory: the monitor measures total minted AKT, which grew only about **3.00M** (roughly **1.03%** of the float) under the new 4% mint, while the framework measures what reaches the tradable float, where **70%** of that mint never arrives and **4.43M AKT** of already-minted treasury supply did. AKT is best characterised as **a low-emission compute chain whose inflation is set by its DAO treasury's spending rate, not by its mint**.
+For the 90-day window to **Aug 11 2026**, the MrNasDog Pressure Framework reads **AKT at +1.82% net** on the trailing window and **+1.17%** on the forward window. Our supply monitor reads **+1.21%** for the same trailing window, a gap of **0.61 percentage points** — over the framework's 0.5-point tolerance, so the AKT overview carries a data-conflict chip. The gap is mechanical rather than contradictory: the monitor measures total minted AKT, which grew only about **3.00M** (roughly **1.03%** of the float) under the new 4% mint, while the framework measures what reaches the tradable float, where **70%** of that mint never arrives and **4.43M AKT** of already-minted treasury supply did. AKT is best characterised as **a low-emission compute chain whose inflation is set by its DAO treasury's spending rate, not by its mint**.
 
 ## Sell pressure: where new AKT comes from
 
@@ -52,8 +52,8 @@ Watch for the **Q3 2026 funding round** around **Oct 30 2026**: the last three q
 
 ## Summary
 
-The MrNasdog Pressure Framework reads Akash Network (AKT) at **+1.82%** net new supply over the 90 days to **Aug 11 2026**, cooling to **+1.17%** over the next 90 days. The structural mechanism is a Cosmos-SDK staking mint pinned at **4%** a year with **70%** of it diverted into a non-circulating community pool — a genuinely low market-reaching emission of about **0.90M AKT** per quarter — sitting underneath a DAO treasury that released **4.43M AKT** to contributors in the same window. The key risk is that this second flow is discretionary and quarterly rather than fixed: nothing caps how fast Akash Network's governance can spend its pool, and the pool is being drained faster than it refills. The ceiling is real but distant — AKT's whitepaper cap of **388,539,008** leaves roughly **96M** of unminted headroom above today's float, and vesting ended for good in **2023**, so every future AKT that reaches the market must come from either the mint or a governance vote.
+The MrNasDog Pressure Framework reads Akash Network (AKT) at **+1.82%** net new supply over the 90 days to **Aug 11 2026**, cooling to **+1.17%** over the next 90 days. The structural mechanism is a Cosmos-SDK staking mint pinned at **4%** a year with **70%** of it diverted into a non-circulating community pool — a genuinely low market-reaching emission of about **0.90M AKT** per quarter — sitting underneath a DAO treasury that released **4.43M AKT** to contributors in the same window. The key risk is that this second flow is discretionary and quarterly rather than fixed: nothing caps how fast Akash Network's governance can spend its pool, and the pool is being drained faster than it refills. The ceiling is real but distant — AKT's whitepaper cap of **388,539,008** leaves roughly **96M** of unminted headroom above today's float, and vesting ended for good in **2023**, so every future AKT that reaches the market must come from either the mint or a governance vote.
 
 ---
 
-*MrNasdog Pressure Framework analysis of Akash Network (AKT), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Aug 11 2026.*
+*MrNasDog Pressure Framework analysis of Akash Network (AKT), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Aug 11 2026.*

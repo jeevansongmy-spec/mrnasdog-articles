@@ -60,4 +60,4 @@ Bitcoin supply grew **+0.20%** in the last 90 days and is projected to grow the 
 
 ---
 
-*MrNasdog Pressure Framework analysis of BTC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 10 2026.*
+*MrNasDog Pressure Framework analysis of BTC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 10 2026.*

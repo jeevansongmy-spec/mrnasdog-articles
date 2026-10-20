@@ -12,7 +12,7 @@ Originally published at [ETHFI Inflation Analysis · October 2026 · Supply grow
 <!-- main-page -->
 **Main page:** the full ETHFI coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/ethfi](https://mrnasdog.com/research/ethfi)
 
-ETHFI supply is growing, and the reason is one vesting schedule rather than any minting. Over the 90 days to Oct 16 2026, the ether.fi core-contributor grant released **26.84M ETHFI** into the market while nothing was burned or locked away, so net supply rose **+2.78%**, and the MrNasdog Pressure Framework projects the same **+2.78%** for the next 90 days. The ETHFI token has no mint function, so the pressure ends when the last grant part unlocks on **Mar 18 2027**.
+ETHFI supply is growing, and the reason is one vesting schedule rather than any minting. Over the 90 days to Oct 16 2026, the ether.fi core-contributor grant released **26.84M ETHFI** into the market while nothing was burned or locked away, so net supply rose **+2.78%**, and the MrNasDog Pressure Framework projects the same **+2.78%** for the next 90 days. The ETHFI token has no mint function, so the pressure ends when the last grant part unlocks on **Mar 18 2027**.
 
 ## The verdict, in one paragraph
 
@@ -60,4 +60,4 @@ The circulating count the monitor reads has not moved since Aug 27 2026; a catch
 
 ETHFI, the governance token of ether.fi, has a fixed supply of 998,535,999 coins and no way to mint more, yet its circulating supply grows by about **+2.78%** every 90 days because the core-contributor grant releases about **8.95M ETHFI** each month. Weekly buybacks funded by ether.fi revenue are real but book nothing on our ledger, because the bought coins go to card users and the Foundation instead of being burned. The key risk is the remaining **53.7M ETHFI** of the grant and the large Foundation treasury; the ceiling is clear, since the grant ends on Mar 18 2027 and no new ETHFI can ever be created.
 
-*MrNasdog Pressure Framework analysis of ETHFI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 16 2026.*
+*MrNasDog Pressure Framework analysis of ETHFI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 16 2026.*

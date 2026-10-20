@@ -62,4 +62,4 @@ ZRO's total supply stays at 1B and it has no emission, yet its circulating suppl
 
 ---
 
-*MrNasdog Pressure Framework analysis of ZRO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 16 2026.*
+*MrNasDog Pressure Framework analysis of ZRO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 16 2026.*

@@ -16,7 +16,7 @@ import html, json, re, sys, urllib.request
 
 START, END = "<!-- questions:start -->", "<!-- questions:end -->"
 NOTE = "Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice."
-SKIP = ("How does MrNasdog judge", "alerts cover?")  # shared help items, not coin answers
+SKIP = ("How does MrNasDog judge", "alerts cover?")  # shared help items, not coin answers
 MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 SHORT = [m[:3] for m in MONTHS]
 

@@ -5,7 +5,7 @@ canonical_url: "https://mrnasdog.com/research/doge/inflation"
 tags: ["crypto", "doge", "dogecoin", "proof-of-work"]
 published: true
 ---
-Originally published at [https://mrnasdog.com/research/doge/inflation](https://mrnasdog.com/research/doge/inflation) by MrNasdog.
+Originally published at [https://mrnasdog.com/research/doge/inflation](https://mrnasdog.com/research/doge/inflation) by MrNasDog.
 
 # DOGE Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
@@ -56,4 +56,4 @@ House of Doge's next quarterly filing, expected around mid-November 2026, will s
 
 Dogecoin's supply grew **+0.78%** in the 90 days to Oct 11 2026 and is projected to grow the same **+0.78%** next, all from a flat 10,000 DOGE mining reward that produced **1.23B new DOGE**. Nothing burns DOGE, nothing buys it back, and there is no cap, so the supply rises by about 5B coins every year. There are no unlocks and almost no team wallets, which removes surprise risk; the steady risk is simply that the market must keep absorbing the new coins. Our monitor agrees within **0.01 points**.
 
-*MrNasdog Pressure Framework analysis of DOGE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 11 2026.*
+*MrNasDog Pressure Framework analysis of DOGE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 11 2026.*

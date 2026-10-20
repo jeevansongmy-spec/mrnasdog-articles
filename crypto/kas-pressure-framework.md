@@ -5,7 +5,7 @@ canonical_url: "https://mrnasdog.com/research/kas/inflation"
 tags: ["crypto", "kas", "kaspa", "proof-of-work"]
 published: true
 ---
-> Originally published at **[mrnasdog.com/research/kas/inflation](https://mrnasdog.com/research/kas/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/kas/inflation](https://mrnasdog.com/research/kas/inflation)** by MrNasDog.
 
 <!-- main-page -->
 The Kaspa coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/kas](https://mrnasdog.com/research/kas). Below: supply, line by line.
@@ -16,7 +16,7 @@ Kaspa (KAS) supply grew **+0.64%** over the last 90 days and is set to grow abou
 
 ## The verdict, in one paragraph
 
-The MrNasdog Pressure Framework reads KAS at **+0.64% net** for the 90 days to Oct 15 2026: **176.3M KAS** of new supply against **0 KAS** taken out, measured over a circulating supply of **27.76B KAS**. Our inflation monitor reads **+0.95%** for nearly the same window, a gap of **0.31 percentage points**, inside our 0.5-point limit, so no warning chip is needed. The monitor runs higher because its supply figure stood still from early July to early August 2026 and then caught up in one step, which makes its 90-day starting point look low. For the next 90 days the Kaspa reward schedule gives **148.6M KAS**, or **+0.54%**. In one line: KAS is a fair-launch proof-of-work coin that is still inflating, but a little less every month.
+The MrNasDog Pressure Framework reads KAS at **+0.64% net** for the 90 days to Oct 15 2026: **176.3M KAS** of new supply against **0 KAS** taken out, measured over a circulating supply of **27.76B KAS**. Our inflation monitor reads **+0.95%** for nearly the same window, a gap of **0.31 percentage points**, inside our 0.5-point limit, so no warning chip is needed. The monitor runs higher because its supply figure stood still from early July to early August 2026 and then caught up in one step, which makes its 90-day starting point look low. For the next 90 days the Kaspa reward schedule gives **148.6M KAS**, or **+0.54%**. In one line: KAS is a fair-launch proof-of-work coin that is still inflating, but a little less every month.
 
 ## Sell pressure: where new KAS comes from
 
@@ -60,9 +60,9 @@ The DAGKnight fund (70.25M KAS) and the Rust fund (46.16M KAS) are the two balan
 
 ## Summary
 
-The MrNasdog Pressure Framework reads Kaspa (KAS) at **+0.64% net** over the last 90 days and about **+0.54%** over the next 90: **176,264,320 KAS** of mining rewards with nothing burned, bought back or locked. KAS was fair-launched with no premine, so there are no unlocks and no team coins waiting to reach the market. The key risk is plain: mining keeps adding coins every block, and the buy side stays at zero. The ceiling is hard, though: the Kaspa reward shrinks about 5.6% every month, 96.7% of the 28.70B KAS cap is already mined, and KAS supply growth will keep getting smaller until mining ends.
+The MrNasDog Pressure Framework reads Kaspa (KAS) at **+0.64% net** over the last 90 days and about **+0.54%** over the next 90: **176,264,320 KAS** of mining rewards with nothing burned, bought back or locked. KAS was fair-launched with no premine, so there are no unlocks and no team coins waiting to reach the market. The key risk is plain: mining keeps adding coins every block, and the buy side stays at zero. The ceiling is hard, though: the Kaspa reward shrinks about 5.6% every month, 96.7% of the 28.70B KAS cap is already mined, and KAS supply growth will keep getting smaller until mining ends.
 
 
 ---
 
-*MrNasdog Pressure Framework analysis of KAS, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.*
+*MrNasDog Pressure Framework analysis of KAS, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.*

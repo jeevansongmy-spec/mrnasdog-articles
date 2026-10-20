@@ -56,4 +56,4 @@ First, the larger Immutable treasury Safe: it paid out on Jul 22, Aug 11 and Sep
 
 IMX is inflationary on its float even with a fixed 2B cap: the Immutable treasury released **33.0M IMX** in 90 days, supply in the market grew **+3.65%**, and the 12-month pace points to about **+3.34%** over the next 90 days. Nothing is minted, nothing vests and nothing is burned or bought back, so treasury payouts are the only moving part. The key risk is the **1.10B IMX** still held in two Immutable treasury Safes, released on no public calendar. The ceiling is hard: circulating supply can never pass 2B.
 
-MrNasdog Pressure Framework analysis of IMX, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 14 2026.
+MrNasDog Pressure Framework analysis of IMX, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 14 2026.

@@ -12,7 +12,7 @@ Looking for the buy-or-sell answer? It is on the TIA coin page, with demand and 
 
 # TIA Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
-The MrNasdog Pressure Framework reads Celestia (TIA) as inflationary: circulating TIA grew **+3.83%** over the last 90 days and is projected to grow about **+2.55%** over the next 90. Two streams that pay out every day drive it: **31.01M TIA** of team and Foundation vesting unlocks and **6.62M TIA** minted for stakers, while only **500 TIA** left the supply, from one governance deposit. Celestia has no supply cap, no fee burn and no buyback, so the pace only eases as the vesting streams run out and the yearly inflation rate steps down.
+The MrNasDog Pressure Framework reads Celestia (TIA) as inflationary: circulating TIA grew **+3.83%** over the last 90 days and is projected to grow about **+2.55%** over the next 90. Two streams that pay out every day drive it: **31.01M TIA** of team and Foundation vesting unlocks and **6.62M TIA** minted for stakers, while only **500 TIA** left the supply, from one governance deposit. Celestia has no supply cap, no fee burn and no buyback, so the pace only eases as the vesting streams run out and the yearly inflation rate steps down.
 
 ## The verdict, in one paragraph
 
@@ -56,6 +56,6 @@ Against fixed-supply or buyback tokens, TIA sits on the other side of the line: 
 
 ## Summary
 
-The MrNasdog Pressure Framework reads Celestia (TIA) at **+3.83% net** over the last 90 days and about **+2.55%** over the next 90, with **31.01M TIA** of vesting unlocks and **6.62M TIA** of staking issuance against a single **500 TIA** burn. The structure is simple: a yearly-stepped mint now at 2.32%, plus Foundation ecosystem unlocks that run until Oct 30 2027, and no burn or buyback on the other side. The key risk is the Foundation's **125.94M TIA** unscheduled reserve, which could reach the market without a calendar. Supply growth slows after Oct 30 2026, but TIA stays inflationary until the ecosystem stream ends or a fee burn goes live.
+The MrNasDog Pressure Framework reads Celestia (TIA) at **+3.83% net** over the last 90 days and about **+2.55%** over the next 90, with **31.01M TIA** of vesting unlocks and **6.62M TIA** of staking issuance against a single **500 TIA** burn. The structure is simple: a yearly-stepped mint now at 2.32%, plus Foundation ecosystem unlocks that run until Oct 30 2027, and no burn or buyback on the other side. The key risk is the Foundation's **125.94M TIA** unscheduled reserve, which could reach the market without a calendar. Supply growth slows after Oct 30 2026, but TIA stays inflationary until the ecosystem stream ends or a fee burn goes live.
 
-*MrNasdog Pressure Framework analysis of TIA, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 17 2026.*
+*MrNasDog Pressure Framework analysis of TIA, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 17 2026.*

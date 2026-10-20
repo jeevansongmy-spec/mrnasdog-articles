@@ -55,4 +55,4 @@ GNO's supply was flat over the 90 days to Oct 19 2026, at **0.00%**, with the sa
 
 ---
 
-*MrNasdog Pressure Framework analysis of GNO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*
+*MrNasDog Pressure Framework analysis of GNO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*

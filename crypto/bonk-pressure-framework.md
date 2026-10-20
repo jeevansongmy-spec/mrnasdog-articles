@@ -68,4 +68,4 @@ The scale is the catch. At **284.95M BONK** per 90 days, the burn removes about 
 
 BONK is a fixed-supply Solana meme coin: no new BONK can be created, nothing is left to vest, and all **87.99T BONK** already circulate. Burns by a buy-and-burn wallet, apps and holders removed **284.95M BONK** in the 90 days to Oct 19 2026, a net change of **−0.0003%**, so supply is roughly steady with a slight downward drift. The main supply risk is not new coins but large holders selling coins that already circulate, such as Bonk, Inc.'s **2.47T BONK**. The ceiling is fixed: BONK supply can only stay where it is or go down.
 
-*MrNasdog Pressure Framework analysis of BONK, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*
+*MrNasDog Pressure Framework analysis of BONK, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*

@@ -5,7 +5,7 @@ canonical_url: "https://mrnasdog.com/research/leo/inflation"
 tags: ["crypto", "leo", "bitfinex", "exchange-token"]
 published: true
 ---
-> Originally published at **[mrnasdog.com/research/leo/inflation](https://mrnasdog.com/research/leo/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/leo/inflation](https://mrnasdog.com/research/leo/inflation)** by MrNasDog.
 
 <!-- main-page -->
 **Main page:** the full LEO coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/leo](https://mrnasdog.com/research/leo)
@@ -16,7 +16,7 @@ published: true
 
 ## The verdict, in one paragraph
 
-The MrNasdog Pressure Framework reads LEO at **−0.04% net** over the last 90 days and **−0.07%** projected for the next 90. The inflation monitor reads **−0.13%** for its own 90-day window, a gap of **0.09 percentage points**, well inside the 0.5-point line, so there is **no warning chip**. Both say the same thing: LEO supply edges down a little every quarter, and nothing pushes it up. Call it a quiet, slowly shrinking corporate token, where the only moving part is how much money Bitfinex makes.
+The MrNasDog Pressure Framework reads LEO at **−0.04% net** over the last 90 days and **−0.07%** projected for the next 90. The inflation monitor reads **−0.13%** for its own 90-day window, a gap of **0.09 percentage points**, well inside the 0.5-point line, so there is **no warning chip**. Both say the same thing: LEO supply edges down a little every quarter, and nothing pushes it up. Call it a quiet, slowly shrinking corporate token, where the only moving part is how much money Bitfinex makes.
 
 ## Sell pressure: where new LEO comes from
 
@@ -64,6 +64,6 @@ Fourth, any move out of the issuer account or the 648M LEO contract, or any new 
 
 ## Summary
 
-The MrNasdog Pressure Framework reads UNUS SED LEO at **−0.04% net** over the last 90 days and **−0.07%** projected for the next 90: no new LEO at all, against a revenue-funded buyback that moved **355,203 LEO** out of supply. The buyback has paused its moves since Sep 1 2026 with **236,909 LEO** bought and waiting, so the next reading depends on Bitfinex resuming them. The key risks are the parked, not destroyed, **47.80M LEO** in the issuer account and the heavy concentration in Bitfinex wallets; the upside is the promised buyback from any recovered hack bitcoin. Until one of those changes, LEO supply keeps shrinking very slowly.
+The MrNasDog Pressure Framework reads UNUS SED LEO at **−0.04% net** over the last 90 days and **−0.07%** projected for the next 90: no new LEO at all, against a revenue-funded buyback that moved **355,203 LEO** out of supply. The buyback has paused its moves since Sep 1 2026 with **236,909 LEO** bought and waiting, so the next reading depends on Bitfinex resuming them. The key risks are the parked, not destroyed, **47.80M LEO** in the issuer account and the heavy concentration in Bitfinex wallets; the upside is the promised buyback from any recovered hack bitcoin. Until one of those changes, LEO supply keeps shrinking very slowly.
 
-*MrNasdog Pressure Framework analysis of LEO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 12 2026.*
+*MrNasDog Pressure Framework analysis of LEO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 12 2026.*

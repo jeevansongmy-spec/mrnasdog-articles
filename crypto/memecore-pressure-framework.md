@@ -5,7 +5,7 @@ canonical_url: "https://mrnasdog.com/research/memecore/inflation"
 tags:          ["crypto", "m", "memecore", "layer1"]
 published:     true
 ---
-> Originally published at **[mrnasdog.com/research/memecore/inflation](https://mrnasdog.com/research/memecore/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/memecore/inflation](https://mrnasdog.com/research/memecore/inflation)** by MrNasDog.
 
 <!-- main-page -->
 **Main page:** the full M coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/memecore](https://mrnasdog.com/research/memecore)
@@ -64,4 +64,4 @@ MemeCore (M) supply grew **+42.07%** in the 90 days to Oct 13 2026 because one p
 
 ---
 
-*MrNasdog Pressure Framework analysis of M (MemeCore), Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 13 2026.*
+*MrNasDog Pressure Framework analysis of M (MemeCore), Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 13 2026.*

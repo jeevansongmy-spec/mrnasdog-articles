@@ -5,7 +5,7 @@ canonical_url: "https://mrnasdog.com/research/uni/inflation"
 tags: ["crypto", "uni", "uniswap", "defi"]
 published: true
 ---
-Originally published at [https://mrnasdog.com/research/uni/inflation](https://mrnasdog.com/research/uni/inflation) by MrNasdog.
+Originally published at [https://mrnasdog.com/research/uni/inflation](https://mrnasdog.com/research/uni/inflation) by MrNasDog.
 
 # UNI Inflation Analysis · October 2026 · Supply was growing · trend cooling
 
@@ -62,4 +62,4 @@ UNI supply grew **+0.65%** in the 90 days to Oct 12 2026 and is projected near f
 
 ---
 
-*MrNasdog Pressure Framework analysis of UNI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 12 2026.*
+*MrNasDog Pressure Framework analysis of UNI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 12 2026.*

@@ -64,4 +64,4 @@ NEAR Protocol supply grew **+0.61%** in the 90 days to Oct 12 2026 and is projec
 
 ---
 
-*MrNasdog Pressure Framework analysis of NEAR, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 12 2026.*
+*MrNasDog Pressure Framework analysis of NEAR, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 12 2026.*

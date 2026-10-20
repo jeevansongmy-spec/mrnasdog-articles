@@ -12,7 +12,7 @@ Originally published at [FLOKI Inflation Analysis · October 2026 · Mixed flows
 <!-- main-page -->
 The Floki coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/floki](https://mrnasdog.com/research/floki). Below: supply, line by line.
 
-The MrNasdog Pressure Framework reads FLOKI as very slightly deflationary: supply fell **0.05%** over the last 90 days and is on course to fall about **0.05%** again over the next 90. No new FLOKI can be made, and **4.88B FLOKI** was burned — **4.84B** from early-unstake staking penalties and **38.05M** from locker-fee buy-and-burn. The monitor reads **−0.07%**, so the two readings agree.
+The MrNasDog Pressure Framework reads FLOKI as very slightly deflationary: supply fell **0.05%** over the last 90 days and is on course to fall about **0.05%** again over the next 90. No new FLOKI can be made, and **4.88B FLOKI** was burned — **4.84B** from early-unstake staking penalties and **38.05M** from locker-fee buy-and-burn. The monitor reads **−0.07%**, so the two readings agree.
 
 ## The verdict, in one paragraph
 
@@ -66,8 +66,8 @@ Governance: the last FLOKI DAO vote closed in March 2026. Any new vote on the ta
 
 ## Summary
 
-The MrNasdog Pressure Framework reads FLOKI at **−0.05%** over the last 90 days and **−0.05%** over the next 90: no new FLOKI can be made, and **4.88B FLOKI** was burned, almost all of it from early-unstake staking penalties. FLOKI's supply on Ethereum and BNB Chain is fixed in code, so it can only shrink, and it shrinks slowly. The key risk is not new supply but the **228.1B FLOKI** held by the team, including the monthly batches the treasury sends to a market maker. The ceiling is the 9.64T FLOKI already circulating; the burn has a long way to go before it changes that number much.
+The MrNasDog Pressure Framework reads FLOKI at **−0.05%** over the last 90 days and **−0.05%** over the next 90: no new FLOKI can be made, and **4.88B FLOKI** was burned, almost all of it from early-unstake staking penalties. FLOKI's supply on Ethereum and BNB Chain is fixed in code, so it can only shrink, and it shrinks slowly. The key risk is not new supply but the **228.1B FLOKI** held by the team, including the monthly batches the treasury sends to a market maker. The ceiling is the 9.64T FLOKI already circulating; the burn has a long way to go before it changes that number much.
 
 ---
 
-*MrNasdog Pressure Framework analysis of FLOKI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 10 2026.*
+*MrNasDog Pressure Framework analysis of FLOKI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 10 2026.*

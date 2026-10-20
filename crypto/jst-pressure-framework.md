@@ -59,4 +59,4 @@ Fourth, the JST owner's mint right and the 500.0M JST in the burn wallet: a mint
 
 JUST (JST) is deflationary: no new JST has been created since 2020, and JustLend DAO's quarterly buyback and burn plus a one-off fee burn removed **355.02M JST**, **4.34%** of circulating supply, in the 90 days to Oct 15 2026. We expect about **1.89%** more to be burned in the next 90 days. The key risk is the size of future rounds, which shrink as the price rises and as the old reserve runs out, plus an owner mint right that still exists. The ceiling on JST supply is the 9.9B ever minted, and 1.71B of that has now been destroyed.
 
-*MrNasdog Pressure Framework analysis of JST, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.*
+*MrNasDog Pressure Framework analysis of JST, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.*

@@ -56,4 +56,4 @@ The long-term plan gives KITE a buyer tied to use: a small fee on each AI-agent 
 
 KITE is a fixed-cap 10B token that mints nothing, yet its circulating supply grew **+8.18%** in the last 90 days from monthly ecosystem unlocks, and is set to grow about **+47.21%** in the next 90 as the team and investor lock ends on **Nov 3 2026** with about 800M KITE. Nothing on the buy side offsets it: no buyback, no burn, no new long-term lock. The key risk is that newly unlocked team and investor coins reach exchanges; the ceiling is the 10B cap, of which **23.91%** circulates today.
 
-*MrNasdog Pressure Framework analysis of KITE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*
+*MrNasDog Pressure Framework analysis of KITE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*

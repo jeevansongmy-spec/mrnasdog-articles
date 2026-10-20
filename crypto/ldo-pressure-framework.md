@@ -12,7 +12,7 @@ Looking for the buy-or-sell answer? It is on the LDO coin page, with demand and 
 
 # LDO Inflation Analysis · October 2026 · Supply was shrinking · trend softening
 
-The MrNasdog Pressure Framework reads Lido DAO (LDO) at **−0.82% net** over the last 90 days and about **+5.13%** over the next 90. No new LDO was printed and none left the treasury, while the Lido DAO treasury took **6.79M LDO** off the market, almost all through its stETH-funded buyback. The next 90 days turn the other way: **48.93M LDO** held in ten hack-recovery wallets unlock on **Jan 1 2027**, against about **6.40M LDO** the next buyback round should buy by Nov 24 2026.
+The MrNasDog Pressure Framework reads Lido DAO (LDO) at **−0.82% net** over the last 90 days and about **+5.13%** over the next 90. No new LDO was printed and none left the treasury, while the Lido DAO treasury took **6.79M LDO** off the market, almost all through its stETH-funded buyback. The next 90 days turn the other way: **48.93M LDO** held in ten hack-recovery wallets unlock on **Jan 1 2027**, against about **6.40M LDO** the next buyback round should buy by Nov 24 2026.
 
 ## The verdict, in one paragraph
 
@@ -58,6 +58,6 @@ The market-maker loan: a vote to add the up-to-7.5M LDO loan to the DAO's fast-t
 
 ## Summary
 
-The MrNasdog Pressure Framework reads Lido DAO (LDO) at **−0.82% net** for the last 90 days and about **+5.13%** for the next 90. LDO prints no new coins, and the Lido DAO treasury bought back **6.73M LDO** in the window and keeps it. The key risk is the single unlock of **48.93M LDO** on Jan 1 2027, more than seven times the next buyback round. After that unlock, no other lock is left: LDO supply then moves only with treasury buying and treasury spending.
+The MrNasDog Pressure Framework reads Lido DAO (LDO) at **−0.82% net** for the last 90 days and about **+5.13%** for the next 90. LDO prints no new coins, and the Lido DAO treasury bought back **6.73M LDO** in the window and keeps it. The key risk is the single unlock of **48.93M LDO** on Jan 1 2027, more than seven times the next buyback round. After that unlock, no other lock is left: LDO supply then moves only with treasury buying and treasury spending.
 
-*MrNasdog Pressure Framework analysis of LDO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 18 2026.*
+*MrNasDog Pressure Framework analysis of LDO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 18 2026.*

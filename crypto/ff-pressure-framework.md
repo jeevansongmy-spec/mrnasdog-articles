@@ -65,4 +65,4 @@ Any new Falcon Finance governance vote on a buyback, a burn or a change to the u
 
 FF has a hard cap of 10B and no way to mint more, yet its circulating float grew **+11.16%** in 90 days and is projected to grow **+18.22%** in the next 90, because about 203M FF leave Falcon Finance's project locks every month. Nothing buys back or burns FF, so every unlock is new float with no offset. The main risk is the steady overhang of **6.66B FF** still locked, paid out monthly into 2029; the ceiling is that total supply can never pass 10B.
 
-*MrNasdog Pressure Framework analysis of FF, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 18 2026.*
+*MrNasDog Pressure Framework analysis of FF, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 18 2026.*

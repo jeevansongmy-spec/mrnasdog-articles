@@ -5,14 +5,14 @@ canonical_url: "https://mrnasdog.com/research/fil/inflation"
 tags:          ["crypto", "fil", "filecoin", "storage"]
 published:     true
 ---
-> Originally published at **[mrnasdog.com/research/fil/inflation](https://mrnasdog.com/research/fil/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/fil/inflation](https://mrnasdog.com/research/fil/inflation)** by MrNasDog.
 
 <!-- main-page -->
 ➜ Start with the Filecoin coin page for the short answer (should you buy FIL?) and its price drivers: [mrnasdog.com/research/fil](https://mrnasdog.com/research/fil)
 
 # FIL Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
-FIL supply grew fast over the last 90 days and should keep growing, but at less than half the pace. In the 90 days to Oct 16 2026, Filecoin added **16.43M FIL** from the launch vesting of Protocol Labs and the Filecoin Foundation, **10.19M FIL** from storage collateral that came back to providers and **5.30M FIL** of block rewards, while fees and penalties burned **433,316 FIL**, so net supply rose **+3.77%**. The six-year vesting ended on Oct 14 2026, so the MrNasdog Pressure Framework projects about **+1.78%** for the next 90 days, driven by block rewards and returning collateral.
+FIL supply grew fast over the last 90 days and should keep growing, but at less than half the pace. In the 90 days to Oct 16 2026, Filecoin added **16.43M FIL** from the launch vesting of Protocol Labs and the Filecoin Foundation, **10.19M FIL** from storage collateral that came back to providers and **5.30M FIL** of block rewards, while fees and penalties burned **433,316 FIL**, so net supply rose **+3.77%**. The six-year vesting ended on Oct 14 2026, so the MrNasDog Pressure Framework projects about **+1.78%** for the next 90 days, driven by block rewards and returning collateral.
 
 ## The verdict, in one paragraph
 
@@ -64,8 +64,8 @@ What set Filecoin apart until this month was the launch vesting, which added abo
 
 ## Summary
 
-The MrNasdog Pressure Framework reads Filecoin (FIL) at **+3.77% net** over the last 90 days: **16.43M FIL** of launch vesting, **10.19M FIL** of returned storage collateral and **5.30M FIL** of block rewards against a **433,316 FIL** burn. The six-year vesting ended on Oct 14 2026, so the next 90 days drop to about **+1.78%**, with block rewards and returning collateral as the only taps. The key risk is that storage keeps shrinking and collateral keeps flowing back; the upside case is that the Solstice upgrade brings new storage that locks FIL again and, from 2027, burns part of the reward. FIL's supply cap is 2B FIL, and 282.93M of it sits in a reserve no one can spend without a network upgrade.
+The MrNasDog Pressure Framework reads Filecoin (FIL) at **+3.77% net** over the last 90 days: **16.43M FIL** of launch vesting, **10.19M FIL** of returned storage collateral and **5.30M FIL** of block rewards against a **433,316 FIL** burn. The six-year vesting ended on Oct 14 2026, so the next 90 days drop to about **+1.78%**, with block rewards and returning collateral as the only taps. The key risk is that storage keeps shrinking and collateral keeps flowing back; the upside case is that the Solstice upgrade brings new storage that locks FIL again and, from 2027, burns part of the reward. FIL's supply cap is 2B FIL, and 282.93M of it sits in a reserve no one can spend without a network upgrade.
 
 ---
 
-*MrNasdog Pressure Framework analysis of FIL, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 16 2026.*
+*MrNasDog Pressure Framework analysis of FIL, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 16 2026.*

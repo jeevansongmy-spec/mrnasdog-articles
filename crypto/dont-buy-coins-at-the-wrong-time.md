@@ -6,7 +6,7 @@ tags: ["crypto", "trading", "investing", "bitcoin"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/analysis/dont-buy-coins-at-the-wrong-time](https://mrnasdog.com/analysis/dont-buy-coins-at-the-wrong-time)** by MrNasdog.
+> Originally published at **[mrnasdog.com/analysis/dont-buy-coins-at-the-wrong-time](https://mrnasdog.com/analysis/dont-buy-coins-at-the-wrong-time)** by MrNasDog.
 
 A coin we like suddenly takes off. Every new high makes waiting feel harder. We still believe in the project, so buying now feels reasonable.
 

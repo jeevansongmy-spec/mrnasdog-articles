@@ -68,4 +68,4 @@ ADA supply grew **+0.74%** in 90 days and we expect about **+0.30%** next: Suppl
 
 ---
 
-*MrNasdog Pressure Framework analysis of ADA, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 11 2026.*
+*MrNasDog Pressure Framework analysis of ADA, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 11 2026.*

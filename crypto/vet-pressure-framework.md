@@ -65,4 +65,4 @@ Fourth, the staking contract: after the Interstellar upgrade on Sep 16 2026 chan
 
 VeChain's VET supply was flat over the last 90 days — **0 VET** created, **0 VET** destroyed, **0.00%** net — and projects **0.00%** for the next 90 days, matching the monitor. All **86.71B** VET were created at launch; staking rewards and fee burns run in VTHO, and the VeChain node code has no path to make more VET. The key risk is the frozen **727.58M VET** pile, which only a hard fork could release; the ceiling is the 86.71B launch total, of which **85.99B** circulate.
 
-*MrNasdog Pressure Framework analysis of VET, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 16 2026.*
+*MrNasDog Pressure Framework analysis of VET, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 16 2026.*

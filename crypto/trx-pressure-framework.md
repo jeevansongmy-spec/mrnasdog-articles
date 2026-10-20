@@ -60,4 +60,4 @@ TRX supply is roughly steady: TRON minted **352.4M TRX** in block rewards over 9
 
 ---
 
-*MrNasdog Pressure Framework analysis of TRX, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 11 2026.*
+*MrNasDog Pressure Framework analysis of TRX, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 11 2026.*

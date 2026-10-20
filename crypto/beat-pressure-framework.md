@@ -1,12 +1,12 @@
 ---
 title: "BEAT Inflation Analysis · August 2026 · Supply growing, projected to keep growing"
-description: "A MrNasdog Pressure Framework read of Audiera (BEAT): a fixed 1B token with no reachable mint path, releasing 63.75M of vesting over 90 days against a 10.07M revenue burn. Net +16.24%, monitor +24.20%."
+description: "A MrNasDog Pressure Framework read of Audiera (BEAT): a fixed 1B token with no reachable mint path, releasing 63.75M of vesting over 90 days against a 10.07M revenue burn. Net +16.24%, monitor +24.20%."
 canonical_url: "https://mrnasdog.com/research/beat/inflation"
 tags: ["crypto", "beat", "audiera", "gamefi"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/research/beat/inflation](https://mrnasdog.com/research/beat/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/beat/inflation](https://mrnasdog.com/research/beat/inflation)** by MrNasDog.
 
 Audiera released **63.75M BEAT** from its vesting wallets over the last 90 days and destroyed **10.07M** through its weekly revenue burn, a net **+16.24%** of the **330.5M** circulating supply — while our own monitor reads **+24.20%**, a gap of **7.96** percentage points that carries a warning chip. BEAT is a fixed **1,000,000,000** BEP-20 token on BNB Chain whose owner slot is the empty address, so the mint function in its code can never be called again: every token that will ever exist already exists, and the entire inflation story is a release calendar. The burn is genuine and unusually well evidenced, but it is roughly a sixth of the calendar — and on **Nov 1 2026** a 12-month cliff makes the calendar bigger, not smaller.
 
@@ -50,4 +50,4 @@ Audiera's BEAT cannot inflate and is inflating anyway: the supply is fixed at **
 
 ---
 
-*MrNasdog Pressure Framework analysis of BEAT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Aug 19 2026.*
+*MrNasDog Pressure Framework analysis of BEAT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Aug 19 2026.*

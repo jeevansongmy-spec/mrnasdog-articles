@@ -6,7 +6,7 @@ tags: ["crypto", "bitcoin", "ethereum", "investing"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/analysis/first-review](https://mrnasdog.com/analysis/first-review)** by MrNasdog.
+> Originally published at **[mrnasdog.com/analysis/first-review](https://mrnasdog.com/analysis/first-review)** by MrNasDog.
 
 Three accounts, all in the red. What I got wrong, what I got right, and what I do next.
 

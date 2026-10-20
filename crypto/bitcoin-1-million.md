@@ -6,7 +6,7 @@ tags: ["crypto", "bitcoin", "cbdc", "economics"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/analysis/bitcoin-1-million](https://mrnasdog.com/analysis/bitcoin-1-million)** by MrNasdog.
+> Originally published at **[mrnasdog.com/analysis/bitcoin-1-million](https://mrnasdog.com/analysis/bitcoin-1-million)** by MrNasDog.
 
 Watch the video: [Where does all the new money go?](https://www.youtube.com/watch?v=jWkTDaHDpeQ)
 

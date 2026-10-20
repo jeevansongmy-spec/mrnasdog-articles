@@ -5,7 +5,7 @@ canonical_url: "https://mrnasdog.com/research/lit/inflation"
 tags:          ["crypto", "lit", "lighter", "perpdex"]
 published:     true
 ---
-> Originally published at **[mrnasdog.com/research/lit/inflation](https://mrnasdog.com/research/lit/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/lit/inflation](https://mrnasdog.com/research/lit/inflation)** by MrNasDog.
 
 <!-- main-page -->
 **Main page:** the full LIT coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/lit](https://mrnasdog.com/research/lit)
@@ -13,7 +13,7 @@ published:     true
 
 # LIT Inflation Analysis · October 2026 · Mixed last 90D · projected to grow
 
-The MrNasdog Pressure Framework reads Lighter (LIT) at **0.00% net** over the last 90 days and **+5.41%** over the next 90: no new LIT reached the market from July to October, but the first team and investor unlock, about **13.51M LIT**, is due on Dec 30 2026. Lighter has a fixed 1B LIT supply and no minting, so new supply on the market comes from unlocks of coins that already exist. The fee buyback bought **2.33M LIT** in 90 days, yet the float did not shrink, because the bought coins pay stakers while the matching burns come from the unreleased ecosystem reserve. Our monitor reads **−0.14%**.
+The MrNasDog Pressure Framework reads Lighter (LIT) at **0.00% net** over the last 90 days and **+5.41%** over the next 90: no new LIT reached the market from July to October, but the first team and investor unlock, about **13.51M LIT**, is due on Dec 30 2026. Lighter has a fixed 1B LIT supply and no minting, so new supply on the market comes from unlocks of coins that already exist. The fee buyback bought **2.33M LIT** in 90 days, yet the float did not shrink, because the bought coins pay stakers while the matching burns come from the unreleased ecosystem reserve. Our monitor reads **−0.14%**.
 
 ## The verdict, in one paragraph
 
@@ -51,8 +51,8 @@ Watch the October to December buyback and its burn, which on the last two quarte
 
 ## Summary
 
-The MrNasdog Pressure Framework reads Lighter (LIT) at **0.00%** over the last 90 days and **+5.41%** over the next 90, with the monitor at **−0.14%**. LIT has a fixed supply with no minting; its fee buyback is real but recycles bought coins to stakers, and its burns of **18.09M LIT** so far come from the ecosystem reserve, cutting the maximum supply rather than the float. The key risk is the team and investor share of 500M LIT, which starts releasing about 13.51M LIT a month on Dec 30 2026 and runs to late 2029, against a buyback that bought 2.33M LIT in the last 90 days. Until fee income grows several times larger, the unlocks set the direction of LIT's supply.
+The MrNasDog Pressure Framework reads Lighter (LIT) at **0.00%** over the last 90 days and **+5.41%** over the next 90, with the monitor at **−0.14%**. LIT has a fixed supply with no minting; its fee buyback is real but recycles bought coins to stakers, and its burns of **18.09M LIT** so far come from the ecosystem reserve, cutting the maximum supply rather than the float. The key risk is the team and investor share of 500M LIT, which starts releasing about 13.51M LIT a month on Dec 30 2026 and runs to late 2029, against a buyback that bought 2.33M LIT in the last 90 days. Until fee income grows several times larger, the unlocks set the direction of LIT's supply.
 
 ---
 
-*MrNasdog Pressure Framework analysis of LIT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.*
+*MrNasDog Pressure Framework analysis of LIT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.*

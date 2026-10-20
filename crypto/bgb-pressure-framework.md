@@ -17,7 +17,7 @@ Bitget Token (BGB) had a flat 90 days: **0 BGB** of new supply reached the marke
 
 ## The verdict, in one paragraph
 
-The MrNasdog Pressure Framework reads BGB at **0.00%** net over the last 90 days (Jul 16 to Oct 14 2026) and **0.00%** for the next 90 days. Our monitor reads **-0.16%** for the same stretch, a gap of **0.16** percentage points, which is inside our 0.5-point tolerance, so no warning chip is shown. The small difference is rounding in the monitor's market-cap-based supply figure; the BGB circulating supply itself did not change by a single coin. BGB is a quiet exchange token: fixed supply, no unlocks, and a locked treasury that only ever moves to the burn address.
+The MrNasDog Pressure Framework reads BGB at **0.00%** net over the last 90 days (Jul 16 to Oct 14 2026) and **0.00%** for the next 90 days. Our monitor reads **-0.16%** for the same stretch, a gap of **0.16** percentage points, which is inside our 0.5-point tolerance, so no warning chip is shown. The small difference is rounding in the monitor's market-cap-based supply figure; the BGB circulating supply itself did not change by a single coin. BGB is a quiet exchange token: fixed supply, no unlocks, and a locked treasury that only ever moves to the burn address.
 
 ## Sell pressure: where new BGB comes from
 
@@ -59,4 +59,4 @@ Watch for any change to the burn rule by Morph governance, and for any return of
 
 BGB supply is flat: **0.00%** net over the last 90 days and **0.00%** projected for the next 90, with 699.99M BGB circulating out of 910.92M in total. The token cannot be minted, nothing vests, and the Morph Foundation's 210.93M BGB treasury released nothing to the market. Quarterly burns of about 3M BGB shrink total supply but come from that locked treasury, so they do not reduce the float. The key risk is a release from the treasury, which may send up to about 4.4M BGB a month to the market.
 
-*MrNasdog Pressure Framework analysis of BGB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 14 2026.*
+*MrNasDog Pressure Framework analysis of BGB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 14 2026.*

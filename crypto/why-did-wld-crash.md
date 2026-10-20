@@ -6,7 +6,7 @@ tags: ["crypto", "worldcoin", "wld", "investing"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/analysis/why-did-wld-crash](https://mrnasdog.com/analysis/why-did-wld-crash)** by MrNasdog.
+> Originally published at **[mrnasdog.com/analysis/why-did-wld-crash](https://mrnasdog.com/analysis/why-did-wld-crash)** by MrNasDog.
 
 *(This is our own view, not financial advice. We could be wrong.)*
 
@@ -36,7 +36,7 @@ Worldcoin is not alone. A few other big coins look very similar to us:
 
 These coins can still jump in a hot market. And World has said apps will pay fees in WLD to use its ID system. If that really takes off, people would finally need to buy WLD, and the picture could change a lot. For now, we haven't seen it at a size that matters.
 
-## 5. MrNasdog's Thought
+## 5. MrNasDog's Thought
 
 A big user number is not the same as demand for the coin. With Worldcoin, I think users get coins instead of buying them. So before I look at any coin with millions of users, I ask one question: does a user actually have to buy it?
 

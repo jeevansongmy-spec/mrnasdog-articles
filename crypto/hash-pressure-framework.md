@@ -52,4 +52,4 @@ Through **Dec 19 2026**, check whether daily vesting continues near **37.8M HASH
 
 The Pressure Framework reads HASH at **+5.86%** over the trailing 90 days and **+5.86%** projected forward. Continuous vesting releases **3,401.9M HASH** while measured minting and destruction remain zero. The principal risk is the **36,899.1M HASH** remaining lockup. The monitor difference stays visible, and it is fully explained by its base and the Aug 27 2026 recount. Current gross supply is **95,000M HASH**, with governance authority still capable of changing the rules.
 
-MrNasdog Pressure Framework analysis of HASH, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 20 2026.
+MrNasDog Pressure Framework analysis of HASH, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 20 2026.

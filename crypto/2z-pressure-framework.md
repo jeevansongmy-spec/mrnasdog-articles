@@ -10,7 +10,7 @@ published:     true
 
 # 2Z Inflation Analysis · September 2026 · Mixed last 90D · projected to grow
 
-2Z, the coin of the DoubleZero network, had a quiet 90 days and faces a very loud next 90. No new 2Z reached the market in the window to **Sep 29 2026**, while the DoubleZero payout program burned **204,382 2Z**, so the MrNasdog Pressure Framework reads the last 90 days at **−0.01% net**. On **Oct 2 2026** the one-year vesting cliff opens about **1.62B 2Z** at once, and linear vesting adds about **391M** more by **Dec 29 2026**, so the next 90 days read **+58.10%** — the float grows by more than half on a fixed schedule that runs to 2029.
+2Z, the coin of the DoubleZero network, had a quiet 90 days and faces a very loud next 90. No new 2Z reached the market in the window to **Sep 29 2026**, while the DoubleZero payout program burned **204,382 2Z**, so the MrNasDog Pressure Framework reads the last 90 days at **−0.01% net**. On **Oct 2 2026** the one-year vesting cliff opens about **1.62B 2Z** at once, and linear vesting adds about **391M** more by **Dec 29 2026**, so the next 90 days read **+58.10%** — the float grows by more than half on a fixed schedule that runs to 2029.
 
 ## The verdict, in one paragraph
 
@@ -46,6 +46,6 @@ The risk sits in the vesting calendar instead. Tokens that launched with a small
 
 ## Summary
 
-The MrNasdog Pressure Framework reads 2Z at **−0.01% net** over the last 90 days and **+58.10%** over the next 90. DoubleZero has created no new 2Z since launch and burns a tenth of its payouts, **204,382 2Z** in the window, but about **6.50B 2Z** of insider and investor coins sit in a four-year lockup whose first cliff, about **1.62B 2Z**, opens on **Oct 2 2026**. The key risk is how much of that unlock is sold; the ceiling is the fixed **10B** launch supply, which can only grow if staking rewards are switched on.
+The MrNasDog Pressure Framework reads 2Z at **−0.01% net** over the last 90 days and **+58.10%** over the next 90. DoubleZero has created no new 2Z since launch and burns a tenth of its payouts, **204,382 2Z** in the window, but about **6.50B 2Z** of insider and investor coins sit in a four-year lockup whose first cliff, about **1.62B 2Z**, opens on **Oct 2 2026**. The key risk is how much of that unlock is sold; the ceiling is the fixed **10B** launch supply, which can only grow if staking rewards are switched on.
 
-*MrNasdog Pressure Framework analysis of 2Z, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Sep 30 2026.*
+*MrNasDog Pressure Framework analysis of 2Z, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Sep 30 2026.*

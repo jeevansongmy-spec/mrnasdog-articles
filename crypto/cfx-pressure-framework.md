@@ -12,7 +12,7 @@ Originally published at [CFX Inflation Analysis · October 2026 · Mixed flows �
 <!-- main-page -->
 This is the long supply read. For the signal, the price drivers and the questions people ask about Conflux, see [mrnasdog.com/research/cfx](https://mrnasdog.com/research/cfx).
 
-CFX supply grows slowly and steadily: the MrNasdog Pressure Framework reads Conflux as **mixed flows with supply roughly steady**. In the 90 days to **Oct 10 2026**, Conflux paid **23,055,419 new CFX** to miners and stakers while its fee and storage burns destroyed only **7,625 CFX**, so net supply rose **+0.44%**, against **+0.61%** on our monitor. There is no supply cap, no vesting left and no buyback, so the pace is set by two rates that CFX stakers vote on.
+CFX supply grows slowly and steadily: the MrNasDog Pressure Framework reads Conflux as **mixed flows with supply roughly steady**. In the 90 days to **Oct 10 2026**, Conflux paid **23,055,419 new CFX** to miners and stakers while its fee and storage burns destroyed only **7,625 CFX**, so net supply rose **+0.44%**, against **+0.61%** on our monitor. There is no supply cap, no vesting left and no buyback, so the pace is set by two rates that CFX stakers vote on.
 
 ## The verdict, in one paragraph
 
@@ -60,4 +60,4 @@ Finally, any new company-treasury deal from the ecosystem fund, which was propos
 
 Conflux (CFX) adds about **0.44%** to its supply every 90 days: **23.06M** new CFX for miners and stakers against a **7,625 CFX** fee and storage burn. The vesting era is over and there is no buyback, so the only real dials are the block reward and the staking rate that CFX holders vote on, plus the size of the stake itself. The main risk is the **2.31B CFX** held in project fund contracts, which pay out every month. There is no supply cap; the ceiling is whatever the next vote allows.
 
-*MrNasdog Pressure Framework analysis of CFX, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 10 2026.*
+*MrNasDog Pressure Framework analysis of CFX, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 10 2026.*

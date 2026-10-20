@@ -64,4 +64,4 @@ Midnight (NIGHT) printed no new coins and burned none in the last 90 days, but t
 
 ---
 
-*MrNasdog Pressure Framework analysis of NIGHT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 16 2026.*
+*MrNasDog Pressure Framework analysis of NIGHT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 16 2026.*

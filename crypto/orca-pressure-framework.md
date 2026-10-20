@@ -1,18 +1,18 @@
 ---
 title: "ORCA Inflation Analysis · August 2026 · Supply shrinking, projected to keep shrinking"
-description: "MrNasdog Pressure Framework read of Orca (ORCA): zero issuance, vesting done since 2024, and a fee-funded buyback of 396.0K ORCA in 90 days. Framework −0.65%, supply monitor +0.01%."
+description: "MrNasDog Pressure Framework read of Orca (ORCA): zero issuance, vesting done since 2024, and a fee-funded buyback of 396.0K ORCA in 90 days. Framework −0.65%, supply monitor +0.01%."
 canonical_url: "https://mrnasdog.com/research/orca/inflation"
 tags: ["crypto", "orca", "solana", "dex"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/research/orca/inflation](https://mrnasdog.com/research/orca/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/orca/inflation](https://mrnasdog.com/research/orca/inflation)** by MrNasDog.
 
 Orca, the Solana exchange behind the ORCA token, issues nothing at all: the ORCA mint on Solana held **74,999,541** coins at both ends of the 90 days to **Aug 22 2026**, sitting **458** coins below the ceiling left by the community burn of **Apr 16 2025**. Against that flat supply, the protocol's own trading fees bought **396,030 ORCA** on the open market across **2,128** purchases. On a circulating base of **60.8M ORCA** the Pressure Framework reads **−0.65%** net against our supply monitor's **+0.01%** — a gap of **0.66 percentage points** that is caused by the buyback's destination, not by an error. ORCA is **a fixed-supply token whose only live mechanism is a revenue-funded buyback-and-hold**.
 
 ## The verdict, in one paragraph
 
-For the 90-day window ending **Aug 22 2026**, the MrNasdog Pressure Framework reads **ORCA at −0.65% net**: sell pressure of **zero** against buy pressure of **396,030 ORCA** of programmatic buyback, on a circulating base of **60.8M ORCA**. Our supply monitor reads **+0.01%** for the same window, a gap of **0.66 percentage points**, which is over the half-point tolerance and so a monitor-gap flag ships with this build. The gap has a single, checkable cause. Bought-back ORCA is not burned — it is deposited into the staking vault at **Ce5j11WAsSzM3nkzrw4Kw6v6ic3nbyqpv5eywjYKeKc5** — and the subtraction that settles the classification is exact: total supply of **74,999,541.855** minus circulating supply of **60,798,773.518** equals **14,200,768.337**, which is the balance of the community treasury account at **5ooCx5vKiV2ZxAEKNNHAJjAJ7BARfLUZPGvgiApZjgFD** to the sixth decimal. The treasury is the only bucket held outside the counted float, so the staking vault sits inside it and a supply count cannot see the buyback at all. ORCA is best labelled **deflationary by revenue, not by protocol code**.
+For the 90-day window ending **Aug 22 2026**, the MrNasDog Pressure Framework reads **ORCA at −0.65% net**: sell pressure of **zero** against buy pressure of **396,030 ORCA** of programmatic buyback, on a circulating base of **60.8M ORCA**. Our supply monitor reads **+0.01%** for the same window, a gap of **0.66 percentage points**, which is over the half-point tolerance and so a monitor-gap flag ships with this build. The gap has a single, checkable cause. Bought-back ORCA is not burned — it is deposited into the staking vault at **Ce5j11WAsSzM3nkzrw4Kw6v6ic3nbyqpv5eywjYKeKc5** — and the subtraction that settles the classification is exact: total supply of **74,999,541.855** minus circulating supply of **60,798,773.518** equals **14,200,768.337**, which is the balance of the community treasury account at **5ooCx5vKiV2ZxAEKNNHAJjAJ7BARfLUZPGvgiApZjgFD** to the sixth decimal. The treasury is the only bucket held outside the counted float, so the staking vault sits inside it and a supply count cannot see the buyback at all. ORCA is best labelled **deflationary by revenue, not by protocol code**.
 
 ## Sell pressure: where new ORCA comes from
 
@@ -48,4 +48,4 @@ ORCA is a fixed-supply exchange token with no issuance whatsoever and a single l
 
 ---
 
-*MrNasdog Pressure Framework analysis of ORCA, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Aug 22 2026.*
+*MrNasDog Pressure Framework analysis of ORCA, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Aug 22 2026.*

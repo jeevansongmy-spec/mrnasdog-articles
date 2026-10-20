@@ -56,4 +56,4 @@ The listed Bitcoin Cash fund's request to become an exchange-traded fund is stil
 
 Bitcoin Cash (BCH) has slow, predictable inflation: about **40,525 BCH** of new coins go to miners every 90 days, a net **+0.20%**, with no burn, no buyback, no vesting and no team reserve. Our monitor agrees at **+0.24%**. The main risk on the supply side is simply that miners sell what they earn, since nothing else offsets it. The ceiling is fixed: supply can never pass **21M BCH**, and the next halving, around April 2028, cuts new coins to **1.5625 BCH** per block.
 
-*MrNasdog Pressure Framework analysis of BCH, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 12 2026.*
+*MrNasDog Pressure Framework analysis of BCH, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 12 2026.*

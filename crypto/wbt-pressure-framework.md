@@ -10,7 +10,7 @@ published:     true
 
 # WBT Inflation Analysis · September 2026 · Mixed flows, supply roughly steady
 
-WhiteBIT Coin's contract cannot create a coin. The instruction that would mint a WBT is not in its code at all, the contract cannot be swapped for one that has it, and no WBT was created anywhere in the last 90 days. Against that, a weekly revenue-funded buyback destroyed **583,391 WBT** in eleven rounds, while a single identified holder released **250,000 WBT** on **Aug 6 2026**. The MrNasdog Pressure Framework reads WBT at **−0.28%** over the trailing 90 days and **−0.49%** over the next 90 — a coin that only ever shrinks, but slowly, against a **400,000,000** ceiling it can never reach again.
+WhiteBIT Coin's contract cannot create a coin. The instruction that would mint a WBT is not in its code at all, the contract cannot be swapped for one that has it, and no WBT was created anywhere in the last 90 days. Against that, a weekly revenue-funded buyback destroyed **583,391 WBT** in eleven rounds, while a single identified holder released **250,000 WBT** on **Aug 6 2026**. The MrNasDog Pressure Framework reads WBT at **−0.28%** over the trailing 90 days and **−0.49%** over the next 90 — a coin that only ever shrinks, but slowly, against a **400,000,000** ceiling it can never reach again.
 
 ## The verdict, in one paragraph
 
@@ -48,4 +48,4 @@ WhiteBIT Coin is one of the few tokens whose supply ceiling is a property of the
 
 ---
 
-*MrNasdog Pressure Framework analysis of WBT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 7 2026.*
+*MrNasDog Pressure Framework analysis of WBT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 7 2026.*

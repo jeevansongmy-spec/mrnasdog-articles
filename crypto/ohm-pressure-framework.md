@@ -1,18 +1,18 @@
 ---
 title: "OHM Inflation Analysis · June 2026 · Supply shrinking as the burn outruns the mint"
-description: "A MrNasdog Pressure Framework read of Olympus (OHM): rebase APY retired, no vesting vs ~0.30M / 90D of treasury-yield buy-and-burn on ~14.96M circulating. Framework reads −2.0% net; monitor −4.86%."
+description: "A MrNasDog Pressure Framework read of Olympus (OHM): rebase APY retired, no vesting vs ~0.30M / 90D of treasury-yield buy-and-burn on ~14.96M circulating. Framework reads −2.0% net; monitor −4.86%."
 canonical_url: "https://mrnasdog.com/research/ohm/inflation"
 tags: ["crypto", "ohm", "olympus", "burn"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/research/ohm/inflation](https://mrnasdog.com/research/ohm/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/ohm/inflation](https://mrnasdog.com/research/ohm/inflation)** by MrNasDog.
 
 Olympus retired its high-APY staking rebase, so OHM adds **no new supply on net** over the next 90 days — new OHM is minted only when the token trades above its treasury backing, and there is no vesting left to unlock. Meanwhile a yield-funded facility buys and burns roughly **0.30M OHM** a quarter. The framework reads about **−2.01% net** on **~14.96M** circulating. Our supply monitor reads the trailing 90 days at **−4.86%**, a **2.85 percentage-point** gap, so the page carries a monitor-gap flag.
 
 ## The verdict, in one paragraph
 
-For the 90-day window from June 20 2026, the MrNasdog Pressure Framework reads **OHM at about −2.01% net** — supply shrinking, driven entirely by the burn rather than by anything new entering the float. Our supply monitor reads the realized last-90-day change at **−4.86%**, a gap of **2.85 percentage points**, so the page ships a **monitor-gap flag**. The gap is a mechanism artefact rather than a conflict: the trailing window front-loaded a heavier burn because the Yield Repurchase Facility buys more OHM per dollar as the price falls, and that pace has since decelerated to roughly **0.30M OHM** a quarter. The framework projects the recent rate, not the front-loaded one. OHM is best characterised as a **treasury-backed reserve currency that now burns more than it mints** — structurally deflationary on the active float, but at a rate that tracks treasury yield and price.
+For the 90-day window from June 20 2026, the MrNasDog Pressure Framework reads **OHM at about −2.01% net** — supply shrinking, driven entirely by the burn rather than by anything new entering the float. Our supply monitor reads the realized last-90-day change at **−4.86%**, a gap of **2.85 percentage points**, so the page ships a **monitor-gap flag**. The gap is a mechanism artefact rather than a conflict: the trailing window front-loaded a heavier burn because the Yield Repurchase Facility buys more OHM per dollar as the price falls, and that pace has since decelerated to roughly **0.30M OHM** a quarter. The framework projects the recent rate, not the front-loaded one. OHM is best characterised as a **treasury-backed reserve currency that now burns more than it mints** — structurally deflationary on the active float, but at a rate that tracks treasury yield and price.
 
 ## Sell pressure: where new OHM comes from
 
@@ -44,4 +44,4 @@ OHM is a treasury-backed reserve currency whose supply is now steered by two pol
 
 ---
 
-*MrNasdog Pressure Framework analysis of Olympus (OHM), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 20 2026.*
+*MrNasDog Pressure Framework analysis of Olympus (OHM), Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated June 20 2026.*

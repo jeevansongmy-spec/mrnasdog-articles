@@ -62,4 +62,4 @@ Render Network's RENDER is roughly steady, growing about **+0.19%** every 90 day
 
 ---
 
-*MrNasdog Pressure Framework analysis of RENDER, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 11 2026.*
+*MrNasDog Pressure Framework analysis of RENDER, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 11 2026.*

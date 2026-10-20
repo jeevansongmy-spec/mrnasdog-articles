@@ -70,4 +70,4 @@ Compared with proof-of-stake chains such as Ethereum, Litecoin has no staking po
 
 Litecoin (LTC) is mildly inflationary on a fixed schedule: miners received **322,794 LTC** in the 90 days to Oct 12 2026, almost none was removed, and net supply rose **+0.42%**, in line with the monitor's **+0.41%**. There is no premine, no vesting, no buyback and no fee burn, so the only lever is the block reward. The main risk is steady miner selling of about 3,587 new LTC a day, with no burn to offset it. The ceiling is hard: supply cannot pass **84M LTC**, and the reward halves to 3.125 LTC around late July 2027.
 
-*MrNasdog Pressure Framework analysis of LTC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 12 2026.*
+*MrNasDog Pressure Framework analysis of LTC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 12 2026.*

@@ -12,7 +12,7 @@ Originally published at [LUNC Inflation Analysis · October 2026 · Mixed flows 
 <!-- main-page -->
 This is the long supply read. For the signal, the price drivers and the questions people ask about Terra Luna Classic, see [mrnasdog.com/research/lunc](https://mrnasdog.com/research/lunc).
 
-Terra Luna Classic (LUNC) supply is shrinking slowly: the MrNasdog Pressure Framework reads **−0.12% net** over the last 90 days and **−0.17%** for the next 90. The chain mints no new LUNC, while a **1.5% transfer tax** burned **7.13B LUNC**, Binance's monthly fee burns destroyed **966.42M** and the community pool took in **1.29B**. Against that, holders unstaked **2.30B LUNC** net and governance paid **534.92M** out of the pool, so the float fell by about 6.55B LUNC out of 5.52T.
+Terra Luna Classic (LUNC) supply is shrinking slowly: the MrNasDog Pressure Framework reads **−0.12% net** over the last 90 days and **−0.17%** for the next 90. The chain mints no new LUNC, while a **1.5% transfer tax** burned **7.13B LUNC**, Binance's monthly fee burns destroyed **966.42M** and the community pool took in **1.29B**. Against that, holders unstaked **2.30B LUNC** net and governance paid **534.92M** out of the pool, so the float fell by about 6.55B LUNC out of 5.52T.
 
 ## The verdict, in one paragraph
 
@@ -64,6 +64,6 @@ The scale is the catch. With about **5.52T LUNC** in circulation, even a 7B burn
 
 ## Summary
 
-The MrNasdog Pressure Framework reads Terra Luna Classic (LUNC) at **−0.12% net** over the last 90 days and **−0.17%** for the next 90: the chain mints nothing, a 1.5% transfer tax burned **7.13B LUNC**, Binance burned **966.42M** and the community pool held back **1.29B**, while **2.30B** came back from unstaking and **534.92M** from voted pool payouts. LUNC supply can only fall, but at more than 5.5 trillion coins the burn trims it by a fraction of a percent each quarter. The key risks are a tax cut that slows the burn and a wave of unstaking from the 901B LUNC staked. The upside case is more on-chain activity, since every extra transfer burns more.
+The MrNasDog Pressure Framework reads Terra Luna Classic (LUNC) at **−0.12% net** over the last 90 days and **−0.17%** for the next 90: the chain mints nothing, a 1.5% transfer tax burned **7.13B LUNC**, Binance burned **966.42M** and the community pool held back **1.29B**, while **2.30B** came back from unstaking and **534.92M** from voted pool payouts. LUNC supply can only fall, but at more than 5.5 trillion coins the burn trims it by a fraction of a percent each quarter. The key risks are a tax cut that slows the burn and a wave of unstaking from the 901B LUNC staked. The upside case is more on-chain activity, since every extra transfer burns more.
 
-*MrNasdog Pressure Framework analysis of LUNC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*
+*MrNasDog Pressure Framework analysis of LUNC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*

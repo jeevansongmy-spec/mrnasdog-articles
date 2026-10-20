@@ -54,5 +54,5 @@ Confirm the scheduled **Sep 30 2026** ecosystem release and the reserve balances
 
 The Pressure Framework reads BDX at **+1.68%** for both the trailing and projected 90-day windows. The main force is a **130.68M BDX** quarterly reserve release, supplemented by ongoing native issuance and partly offset by **889.9K BDX** of measured destruction. The key uncertainty is the timing of any additional movement from privately held reserves, whose last disclosed balance totals **1,822.26M BDX**. Beldex has no fixed supply cap, and the near match with the monitor does not remove the need to verify the next release.
 
-MrNasdog Pressure Framework analysis of BDX, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 20 2026.
+MrNasDog Pressure Framework analysis of BDX, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 20 2026.
 

@@ -16,7 +16,7 @@ MORPHO supply is growing fast, even though no new MORPHO is ever minted. In the 
 
 ## The verdict, in one paragraph
 
-The MrNasdog Pressure Framework reads Morpho (MORPHO) at **+7.03% net** over the last 90 days (Jul 16 to Oct 14 2026) and **+7.03%** for the next 90. Our supply monitor, which reads the market's circulating figure every day, shows **+7.17%** over its own 90 days. The gap is **0.14 percentage points**, inside our 0.5-point line, so no warning chip is shown: the two readings agree. In one line, MORPHO is **inflationary by unlock** — a fixed-supply token whose float grows every month as locked coins are released, with no buyer built into the protocol.
+The MrNasDog Pressure Framework reads Morpho (MORPHO) at **+7.03% net** over the last 90 days (Jul 16 to Oct 14 2026) and **+7.03%** for the next 90. Our supply monitor, which reads the market's circulating figure every day, shows **+7.17%** over its own 90 days. The gap is **0.14 percentage points**, inside our 0.5-point line, so no warning chip is shown: the two readings agree. In one line, MORPHO is **inflationary by unlock** — a fixed-supply token whose float grows every month as locked coins are released, with no buyer built into the protocol.
 
 ## Sell pressure: where new MORPHO comes from
 
@@ -66,8 +66,8 @@ Apollo's buying under its 90M MORPHO deal: it adds demand, but any coins it rece
 
 ## Summary
 
-The MrNasdog Pressure Framework reads Morpho (MORPHO) at **+7.03% net** over the last 90 days and about the same for the next 90: **34.79M MORPHO** of monthly founder and partner unlocks plus **14.49M** of Morpho Association payouts, against no buyback, no burn and no lock. Nothing is minted and the cap stays at 1B MORPHO, but about 208M MORPHO is still due under the unlock calendar until Apr 21 2028, and the Association holds another 91.36M. The key risk is that this steady flow of unlocked coins meets no buyer built into the protocol; the main upside would be a governance vote that turns on the fee switch. Until then, MORPHO supply keeps growing by about 7% every 90 days.
+The MrNasDog Pressure Framework reads Morpho (MORPHO) at **+7.03% net** over the last 90 days and about the same for the next 90: **34.79M MORPHO** of monthly founder and partner unlocks plus **14.49M** of Morpho Association payouts, against no buyback, no burn and no lock. Nothing is minted and the cap stays at 1B MORPHO, but about 208M MORPHO is still due under the unlock calendar until Apr 21 2028, and the Association holds another 91.36M. The key risk is that this steady flow of unlocked coins meets no buyer built into the protocol; the main upside would be a governance vote that turns on the fee switch. Until then, MORPHO supply keeps growing by about 7% every 90 days.
 
 ---
 
-*MrNasdog Pressure Framework analysis of MORPHO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 14 2026.*
+*MrNasDog Pressure Framework analysis of MORPHO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 14 2026.*

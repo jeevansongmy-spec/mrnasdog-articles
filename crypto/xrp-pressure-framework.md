@@ -5,7 +5,7 @@ canonical_url: "https://mrnasdog.com/research/xrp/inflation"
 tags: ["crypto", "xrp", "ripple", "escrow"]
 published: true
 ---
-Originally published at [https://mrnasdog.com/research/xrp/inflation](https://mrnasdog.com/research/xrp/inflation) by MrNasdog.
+Originally published at [https://mrnasdog.com/research/xrp/inflation](https://mrnasdog.com/research/xrp/inflation) by MrNasDog.
 
 # XRP Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
@@ -62,4 +62,4 @@ XRP does not mint new coins, but its circulating supply still grows because Ripp
 
 ---
 
-*MrNasdog Pressure Framework analysis of XRP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 10 2026.*
+*MrNasDog Pressure Framework analysis of XRP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 10 2026.*

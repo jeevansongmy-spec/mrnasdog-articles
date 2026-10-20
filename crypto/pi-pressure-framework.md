@@ -5,7 +5,7 @@ canonical_url: "https://mrnasdog.com/research/pi/inflation"
 tags: ["crypto", "pi", "pinetwork", "layer1"]
 published: true
 ---
-> Originally published at **[mrnasdog.com/research/pi/inflation](https://mrnasdog.com/research/pi/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/pi/inflation](https://mrnasdog.com/research/pi/inflation)** by MrNasDog.
 
 <!-- main-page -->
 This is the long supply read. For the signal, the price drivers and the questions people ask about Pi Network, see [mrnasdog.com/research/pi](https://mrnasdog.com/research/pi).
@@ -16,7 +16,7 @@ PI supply is growing fast. In the 90 days to Oct 15 2026, Pi Network moved **301
 
 ## The verdict, in one paragraph
 
-The MrNasdog Pressure Framework reads PI at **+3.64%** net new supply over the last 90 days and **+2.93%** for the next 90. The inflation monitor reads **+3.03%**, a gap of **0.61 percentage points**. That is above our 0.5-point line, so we walked every source again, and the walk closed it: the monitor's window starts six days earlier and catches one more 50M mining payout (about +0.35 points), and it cannot see the 110.76M PI that team wallets sent to exchanges (about −0.99 points), because the Pi Network supply count includes only mining rewards moved to mainnet. No warning chip is needed. PI is a pre-minted coin whose float grows by release, not by printing: inflationary by unlock, with the team's wallets as a second tap.
+The MrNasDog Pressure Framework reads PI at **+3.64%** net new supply over the last 90 days and **+2.93%** for the next 90. The inflation monitor reads **+3.03%**, a gap of **0.61 percentage points**. That is above our 0.5-point line, so we walked every source again, and the walk closed it: the monitor's window starts six days earlier and catches one more 50M mining payout (about +0.35 points), and it cannot see the 110.76M PI that team wallets sent to exchanges (about −0.99 points), because the Pi Network supply count includes only mining rewards moved to mainnet. No warning chip is needed. PI is a pre-minted coin whose float grows by release, not by printing: inflationary by unlock, with the team's wallets as a second tap.
 
 ## Sell pressure: where new PI comes from
 
@@ -60,4 +60,4 @@ Against XRP, the comparison is about the release rule. Ripple's escrow releases 
 
 PI is a pre-minted coin whose counted supply grows as the Pi Core Team pays out mobile-mining rewards and as team, Foundation and liquidity wallets send coins to exchanges: **301.27M** plus **110.76M PI** in the last 90 days, against a **2.42M PI** fee burn, for **+3.64%** net and **+2.93%** projected next. The main risk is the size of what is still held back: 48.65B PI in the mining pool and more than 31B PI in team, Foundation and liquidity wallets. There is no cap on the pace of release other than the team's own choices, so PI supply will keep growing for years.
 
-*MrNasdog Pressure Framework analysis of PI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.*
+*MrNasDog Pressure Framework analysis of PI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.*

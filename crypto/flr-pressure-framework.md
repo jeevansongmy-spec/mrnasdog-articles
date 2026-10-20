@@ -62,4 +62,4 @@ The biggest overhang is the **incentive pool, about 17.22B FLR**, which pays rFL
 
 Flare (FLR) is **inflationary by design**: **635.0M FLR** of inflation rewards and **314.1M FLR** of rFLR and escrow unlocks entered the market in 90 days, against **24.95M FLR** burned or set aside, for a net **+1.06%** and the same ahead. The structure is a flat 3% yearly inflation capped at 3B FLR plus a 17.22B FLR incentive pool paid out as rFLR. The key risk is that the burns stay this small while both streams keep flowing; the FIRE buy-and-burn and captured MEV are the only planned ways to change that, and neither has bought FLR yet.
 
-*MrNasdog Pressure Framework analysis of FLR, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 17 2026.*
+*MrNasDog Pressure Framework analysis of FLR, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 17 2026.*

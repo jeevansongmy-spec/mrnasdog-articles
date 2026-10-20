@@ -12,7 +12,7 @@ This is the long supply read. For the signal, the price drivers and the question
 
 # ONDO Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
-The MrNasdog Pressure Framework reads Ondo Finance (ONDO) as flat: **0.00% net** over the last 90 days and **0.00%** for the next 90, with **0 ONDO** of new sell pressure and **0 ONDO** of buy pressure, against an inflation monitor reading of **+0.0002%**. ONDO has no emission, no buyback and no burn; its supply only moves when locked coins open on the yearly Jan 18 unlock. The calm ends there: about **1.71B ONDO**, roughly a third more coins than circulate today, are due on **Jan 18 2027**, a week after this 90-day window closes.
+The MrNasDog Pressure Framework reads Ondo Finance (ONDO) as flat: **0.00% net** over the last 90 days and **0.00%** for the next 90, with **0 ONDO** of new sell pressure and **0 ONDO** of buy pressure, against an inflation monitor reading of **+0.0002%**. ONDO has no emission, no buyback and no burn; its supply only moves when locked coins open on the yearly Jan 18 unlock. The calm ends there: about **1.71B ONDO**, roughly a third more coins than circulate today, are due on **Jan 18 2027**, a week after this 90-day window closes.
 
 ## The verdict, in one paragraph
 
@@ -58,8 +58,8 @@ The founder's estate: a court decision could move an ONDO holding of unknown siz
 
 ## Summary
 
-The MrNasdog Pressure Framework reads Ondo Finance (ONDO) at **0.00% net** over the last 90 days and the next 90: no emission, no vesting unlock in either window, no buyback, no burn and no staking. The Ondo Foundation's **300M ONDO** of payouts came from coins already counted as circulating, so they moved coins between holders without adding supply. The key risk is the yearly unlock of about **1.71B ONDO** on **Jan 18 2027**, with two more of a similar size to follow in 2028 and 2029, and nothing on the buy side to absorb them. ONDO's supply is capped at 10B, but less than half of it is unlocked today.
+The MrNasDog Pressure Framework reads Ondo Finance (ONDO) at **0.00% net** over the last 90 days and the next 90: no emission, no vesting unlock in either window, no buyback, no burn and no staking. The Ondo Foundation's **300M ONDO** of payouts came from coins already counted as circulating, so they moved coins between holders without adding supply. The key risk is the yearly unlock of about **1.71B ONDO** on **Jan 18 2027**, with two more of a similar size to follow in 2028 and 2029, and nothing on the buy side to absorb them. ONDO's supply is capped at 10B, but less than half of it is unlocked today.
 
 ---
 
-*MrNasdog Pressure Framework analysis of ONDO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 13 2026.*
+*MrNasDog Pressure Framework analysis of ONDO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 13 2026.*

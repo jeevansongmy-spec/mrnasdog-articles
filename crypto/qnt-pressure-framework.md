@@ -69,4 +69,4 @@ QNT is a closed-supply Ethereum token: no new QNT since June 2018, no vesting, n
 
 ---
 
-*MrNasdog Pressure Framework analysis of QNT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 13 2026.*
+*MrNasDog Pressure Framework analysis of QNT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 13 2026.*

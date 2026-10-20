@@ -6,7 +6,7 @@ tags: ["crypto", "btw", "bitway", "defi"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/research/btw/inflation](https://mrnasdog.com/research/btw/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/btw/inflation](https://mrnasdog.com/research/btw/inflation)** by MrNasDog.
 
 Bitway creates no new BTW — the token has no mint function and the count of BTW in existence read 10,000M at both ends of the last 90 days — yet the Pressure Framework reads BTW at **+18.76%** over the trailing 90 days and **+11.26%** over the next 90. All of it comes from one mechanism: monthly vesting unlocks out of on-chain lock contracts, which released **508.1M BTW** on **Aug 8 2026** and are scheduled to release **101.6M BTW** on the 2nd of every month. Sell pressure is **508.1M BTW**, buy pressure is **0**, and **7,291.9M BTW** of the fixed 10,000M supply is still locked.
 
@@ -48,6 +48,6 @@ First, the three scheduled tranches of **101.6M BTW** on **Oct 2 2026**, **Nov 2
 
 ## Summary
 
-The MrNasdog Pressure Framework reads BTW at **+18.76%** over the trailing 90 days and **+11.26%** projected forward: supply growing, projected to keep growing. The mechanism is not minting but vesting — Bitway's token cannot be minted, while lock contracts on Ethereum release 101.6M BTW a month and released 508.1M BTW in one claim on Aug 8 2026. The key risk is the size of the remaining overhang: 7,291.9M BTW still locked and more than 2,000M BTW in project wallets, against a buy side of zero. The ceiling is a fixed 10,000M BTW, and the Team and Backers pools stay locked until Mar 2 2027.
+The MrNasDog Pressure Framework reads BTW at **+18.76%** over the trailing 90 days and **+11.26%** projected forward: supply growing, projected to keep growing. The mechanism is not minting but vesting — Bitway's token cannot be minted, while lock contracts on Ethereum release 101.6M BTW a month and released 508.1M BTW in one claim on Aug 8 2026. The key risk is the size of the remaining overhang: 7,291.9M BTW still locked and more than 2,000M BTW in project wallets, against a buy side of zero. The ceiling is a fixed 10,000M BTW, and the Team and Backers pools stay locked until Mar 2 2027.
 
-*MrNasdog Pressure Framework analysis of BTW, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 15 2026.*
+*MrNasDog Pressure Framework analysis of BTW, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 15 2026.*

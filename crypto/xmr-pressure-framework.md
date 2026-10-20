@@ -16,7 +16,7 @@ Monero (XMR) is mildly inflationary and fully predictable: the protocol pays min
 
 ## The verdict, in one paragraph
 
-Over the last 90 days the MrNasdog Pressure Framework counts **38,812 XMR** of new supply and **0 XMR** removed, a net change of **+0.21%** of circulating supply. The monitor, which measures the same window from market data, reads **+0.21%** (exactly +0.2084% against our +0.2063%), a gap of **0.002 percentage points**, far inside our 0.5-point tolerance, so no warning chip is shown. The next 90 days project the same **+0.21%**, because the Monero block reward does not change and no mainnet upgrade is scheduled. Put simply: Monero is a quiet tail-emission chain, inflationary by a small, fixed amount, with no unlocks and no burn.
+Over the last 90 days the MrNasDog Pressure Framework counts **38,812 XMR** of new supply and **0 XMR** removed, a net change of **+0.21%** of circulating supply. The monitor, which measures the same window from market data, reads **+0.21%** (exactly +0.2084% against our +0.2063%), a gap of **0.002 percentage points**, far inside our 0.5-point tolerance, so no warning chip is shown. The next 90 days project the same **+0.21%**, because the Monero block reward does not change and no mainnet upgrade is scheduled. Put simply: Monero is a quiet tail-emission chain, inflationary by a small, fixed amount, with no unlocks and no burn.
 
 ## Sell pressure: where new XMR comes from
 
@@ -52,4 +52,4 @@ First, the FCMP++ upgrade: its third test network forked on Oct 5 2026, but no m
 
 Monero (XMR) grew its supply by **+0.21%** over the 90 days to Oct 11 2026, from a fixed tail emission of **0.6 XMR** per block that created **38,812 XMR**, with nothing burned, bought back or locked, and the monitor agrees at **+0.21%**. There are no unlocks, no team allocation and no treasury outside the float, so the only supply risk is the steady mining reward itself. Monero has no cap, but because the reward is a flat number of coins, its yearly inflation rate keeps falling slowly, from about 0.84% today.
 
-*MrNasdog Pressure Framework analysis of XMR, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 11 2026.*
+*MrNasDog Pressure Framework analysis of XMR, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 11 2026.*

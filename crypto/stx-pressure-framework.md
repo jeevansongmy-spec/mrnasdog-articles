@@ -7,7 +7,7 @@ published:     true
 ---
 # STX Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
-*Originally published at [mrnasdog.com/research/stx/inflation](https://mrnasdog.com/research/stx/inflation). MrNasdog Pressure Framework · Inflation Analysis.*
+*Originally published at [mrnasdog.com/research/stx/inflation](https://mrnasdog.com/research/stx/inflation). MrNasDog Pressure Framework · Inflation Analysis.*
 
 <!-- main-page -->
 This is the long supply read. For the signal, the price drivers and the questions people ask about Stacks, see [mrnasdog.com/research/stx](https://mrnasdog.com/research/stx).
@@ -62,4 +62,4 @@ STX is inflationary: **+1.18%** of supply was added in the last 90 days and abou
 
 ---
 
-*MrNasdog Pressure Framework analysis of STX, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 17 2026.*
+*MrNasDog Pressure Framework analysis of STX, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 17 2026.*

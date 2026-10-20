@@ -6,7 +6,7 @@ tags: ["crypto", "memecoin", "robinhood", "casestudy"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/case-studies/how-did-this-guy-turn-87-into-3-million](https://mrnasdog.com/case-studies/how-did-this-guy-turn-87-into-3-million)** by MrNasdog. Case Study 001 — following the money.
+> Originally published at **[mrnasdog.com/case-studies/how-did-this-guy-turn-87-into-3-million](https://mrnasdog.com/case-studies/how-did-this-guy-turn-87-into-3-million)** by MrNasDog. Case Study 001 — following the money.
 
 **How did this guy turn $87 into $3 million?** And it's still growing.
 
@@ -110,4 +110,4 @@ That is the question the full case study tests: whether we could have got in bef
 
 ---
 
-*MrNasdog Case Study 001 · Following the money. Research and explanation only — not financial advice. The full 18-page case study (wallet evidence, the method test) is on [mrnasdog.com](https://mrnasdog.com/case-studies/how-did-this-guy-turn-87-into-3-million).*
+*MrNasDog Case Study 001 · Following the money. Research and explanation only — not financial advice. The full 18-page case study (wallet evidence, the method test) is on [mrnasdog.com](https://mrnasdog.com/case-studies/how-did-this-guy-turn-87-into-3-million).*

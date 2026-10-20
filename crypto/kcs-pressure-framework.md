@@ -5,14 +5,14 @@ canonical_url: "https://mrnasdog.com/research/kcs/inflation"
 tags: ["crypto", "kcs", "kucoin", "exchange"]
 published: true
 ---
-> Originally published at **[mrnasdog.com/research/kcs/inflation](https://mrnasdog.com/research/kcs/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/kcs/inflation](https://mrnasdog.com/research/kcs/inflation)** by MrNasDog.
 
 <!-- main-page -->
 Looking for the buy-or-sell answer? It is on the KCS coin page, with demand and price drivers: [mrnasdog.com/research/kcs](https://mrnasdog.com/research/kcs)
 
 # KCS Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
-KCS supply stood still over the 90 days to Oct 15 2026. KuCoin Community Chain mints no new KuCoin Token, the monthly buyback and burn has not fired since **Dec 31 2025**, and the 2022 lock wallet that holds **47.5M KCS** did not send a single coin. The MrNasdog Pressure Framework books **0 KCS** of sell pressure and **0 KCS** of buy pressure, a net of **0.00%**, and projects **0.00%** for the next 90 days. The published circulating figure still rose **2.5M KCS** on Oct 1 2026, because the lock plan counts one more slice as unlocked each quarter even though the coins stay where they are.
+KCS supply stood still over the 90 days to Oct 15 2026. KuCoin Community Chain mints no new KuCoin Token, the monthly buyback and burn has not fired since **Dec 31 2025**, and the 2022 lock wallet that holds **47.5M KCS** did not send a single coin. The MrNasDog Pressure Framework books **0 KCS** of sell pressure and **0 KCS** of buy pressure, a net of **0.00%**, and projects **0.00%** for the next 90 days. The published circulating figure still rose **2.5M KCS** on Oct 1 2026, because the lock plan counts one more slice as unlocked each quarter even though the coins stay where they are.
 
 ## The verdict, in one paragraph
 
@@ -62,4 +62,4 @@ KuCoin Token is flat on supply: **0.00%** over the last 90 days and **0.00%** pr
 
 ---
 
-*MrNasdog Pressure Framework analysis of KCS, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.*
+*MrNasDog Pressure Framework analysis of KCS, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.*

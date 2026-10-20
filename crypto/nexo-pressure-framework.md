@@ -5,7 +5,7 @@ canonical_url: "https://mrnasdog.com/research/nexo/inflation"
 tags:          ["crypto", "nexo", "cefi", "exchange-token"]
 published:     true
 ---
-> Originally published at **[mrnasdog.com/research/nexo/inflation](https://mrnasdog.com/research/nexo/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/nexo/inflation](https://mrnasdog.com/research/nexo/inflation)** by MrNasDog.
 
 <!-- main-page -->
 Looking for the buy-or-sell answer? It is on the NEXO coin page, with demand and price drivers: [mrnasdog.com/research/nexo](https://mrnasdog.com/research/nexo)
@@ -66,4 +66,4 @@ NEXO is a fixed-supply token: **1B NEXO** exist, the code cannot make more or bu
 
 ---
 
-*MrNasdog Pressure Framework analysis of NEXO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 17 2026.*
+*MrNasDog Pressure Framework analysis of NEXO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 17 2026.*

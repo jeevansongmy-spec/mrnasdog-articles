@@ -1,5 +1,5 @@
 # Daily free dataset — copies mrnasdog.com/data/true-inflation.csv into data/ (added Oct 8 2026).
-# True inflation = new supply minus burns and buybacks, for every free coin MrNasdog researches.
+# True inflation = new supply minus burns and buybacks, for every free coin MrNasDog researches.
 # Read-only against the site: no secrets, one public GET.
 name: inflation-dataset
 on:

@@ -6,7 +6,7 @@ tags: ["crypto", "rain", "prediction-markets", "arbitrum"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/research/rain/inflation](https://mrnasdog.com/research/rain/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/rain/inflation](https://mrnasdog.com/research/rain/inflation)** by MrNasDog.
 
 Rain Protocol mints no new RAIN — the one mint switch in the token contract has never been used — and yet the Pressure Framework reads RAIN at **+12.21%** over the trailing 90 days and **+10.02%** over the next 90. Almost all of it comes from one mechanism: a Sablier lockup that released **93,706M RAIN** in the window into the project's own wallets, which sit inside the circulating float. Sell pressure is **94,017M RAIN**, buy pressure is **7,447M RAIN**, and the lockup still holds **424,738M RAIN**, all of it scheduled out by **Sep 9 2027**.
 
@@ -48,6 +48,6 @@ First, the Sablier streams, which release about **70,778M RAIN** by **Dec 14 202
 
 ## Summary
 
-The MrNasdog Pressure Framework reads RAIN at **+12.21%** over the trailing 90 days and **+10.02%** projected forward: supply growing, projected to keep growing. The mechanism is unlock, not issuance — Rain Protocol minted nothing, while a Sablier lockup released **93,706M RAIN** into the float and burns removed **7,447M RAIN**, almost all in one DAO settlement. The key risk is that the lockup still holds **424,738M RAIN** and runs until **Sep 9 2027**, while the fee burn has nearly stopped. The ceiling is the 1,150,000M launch supply, held by policy rather than code.
+The MrNasDog Pressure Framework reads RAIN at **+12.21%** over the trailing 90 days and **+10.02%** projected forward: supply growing, projected to keep growing. The mechanism is unlock, not issuance — Rain Protocol minted nothing, while a Sablier lockup released **93,706M RAIN** into the float and burns removed **7,447M RAIN**, almost all in one DAO settlement. The key risk is that the lockup still holds **424,738M RAIN** and runs until **Sep 9 2027**, while the fee burn has nearly stopped. The ceiling is the 1,150,000M launch supply, held by policy rather than code.
 
-*MrNasdog Pressure Framework analysis of RAIN, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 15 2026.*
+*MrNasDog Pressure Framework analysis of RAIN, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 15 2026.*

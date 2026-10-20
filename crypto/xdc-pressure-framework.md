@@ -12,7 +12,7 @@ published:     true
 
 # XDC Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
-XDC is close to flat: the MrNasdog Pressure Framework finds **18.59M XDC** of new supply in the last 90 days and **0** taken out, a net change of **+0.09%** on a circulating supply of **19.95B XDC**. All of the new XDC is the fixed masternode reward of **5,000 XDC** per epoch; XDC Network burns no fees and runs no buyback. The monitor reads **0.00%** for the same window, so the two readings agree.
+XDC is close to flat: the MrNasDog Pressure Framework finds **18.59M XDC** of new supply in the last 90 days and **0** taken out, a net change of **+0.09%** on a circulating supply of **19.95B XDC**. All of the new XDC is the fixed masternode reward of **5,000 XDC** per epoch; XDC Network burns no fees and runs no buyback. The monitor reads **0.00%** for the same window, so the two readings agree.
 
 ## The verdict, in one paragraph
 
@@ -60,8 +60,8 @@ XDC also sits with the pre-mined chains whose real supply question is the treasu
 
 ## Summary
 
-XDC supply grew **+0.09%** in the last 90 days and is projected to grow about the same in the next 90, so the MrNasdog Pressure Framework reads it as mixed flows with supply roughly steady. The only new supply is the fixed masternode reward of **5,000 XDC** per epoch, **18.59M XDC** in this window, and nothing is burned or bought back. The key risk is the overhang: **18.12B XDC** is not yet circulating and reaches the market through yearly unlock steps and project wallets. XDC has no supply cap, but at the current pace the mint adds well under 1% a year.
+XDC supply grew **+0.09%** in the last 90 days and is projected to grow about the same in the next 90, so the MrNasDog Pressure Framework reads it as mixed flows with supply roughly steady. The only new supply is the fixed masternode reward of **5,000 XDC** per epoch, **18.59M XDC** in this window, and nothing is burned or bought back. The key risk is the overhang: **18.12B XDC** is not yet circulating and reaches the market through yearly unlock steps and project wallets. XDC has no supply cap, but at the current pace the mint adds well under 1% a year.
 
 ---
 
-*MrNasdog Pressure Framework analysis of XDC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 17 2026.*
+*MrNasDog Pressure Framework analysis of XDC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 17 2026.*

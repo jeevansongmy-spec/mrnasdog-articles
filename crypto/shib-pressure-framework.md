@@ -5,7 +5,7 @@ canonical_url: "https://mrnasdog.com/research/shib/inflation"
 tags: ["crypto", "shib", "shiba-inu", "memecoin"]
 published: true
 ---
-> Originally published at **[mrnasdog.com/research/shib/inflation](https://mrnasdog.com/research/shib/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/shib/inflation](https://mrnasdog.com/research/shib/inflation)** by MrNasDog.
 
 # SHIB Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
@@ -63,4 +63,4 @@ Fourth, SHIB on Solana, live since Oct 4 2026: the bridged coins are locked on E
 
 SHIB supply is fixed: the Shiba Inu token contract cannot mint, nothing vests, and there is no team share to unlock. Burns removed **4.56B SHIB** in the last 90 days and we expect about **1.45B SHIB** in the next 90, both **0.00%** of the **589.24T SHIB** in circulation, against a monitor reading of **−0.06%**. The main supply risk is not new coins but existing holders selling, such as the government's FTX-case SHIB. For SHIB, price depends on demand, not on supply.
 
-*MrNasdog Pressure Framework analysis of SHIB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 13 2026.*
+*MrNasDog Pressure Framework analysis of SHIB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 13 2026.*

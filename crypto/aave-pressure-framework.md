@@ -11,7 +11,7 @@ Originally published at [AAVE Inflation Analysis · October 2026 · Mixed flows 
 
 <!-- main-page -->
 ➜ Start with the Aave coin page for the short answer (should you buy AAVE?) and its price drivers: [mrnasdog.com/research/aave](https://mrnasdog.com/research/aave)
-The MrNasdog Pressure Framework reads Aave (AAVE) at **+0.14% net** over the last 90 days and **+0.15%** for the next 90. No AAVE is minted: all **16M AAVE** already exist, and new circulating supply only comes out of the DAO's Ecosystem Reserve, which paid **15,642 AAVE** of Safety Module staking rewards and **5,888 AAVE** on DAO streams in the window. Nothing takes AAVE off the market today: the AAVE buyback has been paused since **Apr 19 2026** and there is no fee burn.
+The MrNasDog Pressure Framework reads Aave (AAVE) at **+0.14% net** over the last 90 days and **+0.15%** for the next 90. No AAVE is minted: all **16M AAVE** already exist, and new circulating supply only comes out of the DAO's Ecosystem Reserve, which paid **15,642 AAVE** of Safety Module staking rewards and **5,888 AAVE** on DAO streams in the window. Nothing takes AAVE off the market today: the AAVE buyback has been paused since **Apr 19 2026** and there is no fee burn.
 
 ## The verdict, in one paragraph
 
@@ -47,6 +47,6 @@ First, an Aavenomics 3.0 proposal: if it brings back automatic buying and burns 
 
 ## Summary
 
-The MrNasdog Pressure Framework reads Aave (AAVE) at **+0.14%** over the last 90 days and **+0.15%** for the next 90: **21,530 AAVE** of staking rewards and DAO streams left the Ecosystem Reserve, and nothing was bought back or burned. AAVE cannot grow past its 16M supply this way, and the reserve that pays out holds only 563,912 AAVE. The key risk is that the reserve keeps paying while the buyback stays off; the upside case is an Aavenomics 3.0 buyback that burns what it buys. Until then, AAVE supply grows slowly and smoothly.
+The MrNasDog Pressure Framework reads Aave (AAVE) at **+0.14%** over the last 90 days and **+0.15%** for the next 90: **21,530 AAVE** of staking rewards and DAO streams left the Ecosystem Reserve, and nothing was bought back or burned. AAVE cannot grow past its 16M supply this way, and the reserve that pays out holds only 563,912 AAVE. The key risk is that the reserve keeps paying while the buyback stays off; the upside case is an Aavenomics 3.0 buyback that burns what it buys. Until then, AAVE supply grows slowly and smoothly.
 
-*MrNasdog Pressure Framework analysis of AAVE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 13 2026.*
+*MrNasDog Pressure Framework analysis of AAVE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 13 2026.*

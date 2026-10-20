@@ -12,7 +12,7 @@ Originally published at [STRK Inflation Analysis · October 2026 · Supply growi
 <!-- main-page -->
 This is the long supply read. For the signal, the price drivers and the questions people ask about Starknet, see [mrnasdog.com/research/strk](https://mrnasdog.com/research/strk).
 
-The MrNasdog Pressure Framework reads Starknet (STRK) as clearly inflationary: **+9.47% net** over the last 90 days and **+8.28%** projected for the next 90. Three sources add STRK to the market — **381M STRK** of monthly investor and early-contributor unlocks, **300M STRK** sent out of a team reserve wallet, and **37.7M STRK** newly minted for stakers — while nothing burns or buys STRK back. Our monitor reads **+12.73%**, a gap of **3.26 percentage points** that we trace to how the monitor schedules its float, not to any coins we could find moving.
+The MrNasDog Pressure Framework reads Starknet (STRK) as clearly inflationary: **+9.47% net** over the last 90 days and **+8.28%** projected for the next 90. Three sources add STRK to the market — **381M STRK** of monthly investor and early-contributor unlocks, **300M STRK** sent out of a team reserve wallet, and **37.7M STRK** newly minted for stakers — while nothing burns or buys STRK back. Our monitor reads **+12.73%**, a gap of **3.26 percentage points** that we trace to how the monitor schedules its float, not to any coins we could find moving.
 
       
 ## The verdict, in one paragraph
@@ -92,4 +92,4 @@ The difference will shrink after Mar 15 2027, when the investor and contributor 
       
 Starknet's STRK supply grew about **9.47%** in the last 90 days and is projected to grow about **8.28%** in the next 90, because monthly unlocks of up to 127M STRK, releases from a team reserve wallet and a staking mint all add coins while no burn or buyback takes any out. The unlocks end on Mar 15 2027, which removes the largest source of new STRK. The key risk is the team reserve: 950M STRK in one wallet and another 1.08B in two safes, released with no public schedule. STRK has no hard cap — its supply is already above 10B and rises with every staking epoch.
 
-*MrNasdog Pressure Framework analysis of STRK, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 17 2026.*
+*MrNasDog Pressure Framework analysis of STRK, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 17 2026.*

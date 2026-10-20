@@ -68,4 +68,4 @@ ATOM supply is growing and is projected to keep growing: **+3.04%** in the last 
 
 ---
 
-*MrNasdog Pressure Framework analysis of ATOM, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.*
+*MrNasDog Pressure Framework analysis of ATOM, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.*

@@ -50,4 +50,4 @@ ZBCN is a fully-issued token: the Zebec Network mint authority on Solana is dest
 
 ---
 
-*MrNasdog Pressure Framework analysis of ZBCN, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Aug 22 2026.*
+*MrNasDog Pressure Framework analysis of ZBCN, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Aug 22 2026.*

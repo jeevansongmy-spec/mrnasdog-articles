@@ -56,8 +56,8 @@ Compared with a token that burns every coin it buys, SKY's supply shrinks more s
 
 ## Summary
 
-SKY is roughly steady by the MrNasdog Pressure Framework: **+0.38%** net over the last 90 days and about **−0.09%** over the next 90. No SKY is minted; the Sky treasury pays stakers with coins the Smart Burn Engine buys back with protocol profit, and burns a slice each month. The key risk is a profit drop that slows the buyback while payouts already set keep running, and the fact that governance can still vote new SKY into existence. There is no hard cap, but the treasury now holds only 21.26M SKY, so payouts can no longer run far ahead of the buying.
+SKY is roughly steady by the MrNasDog Pressure Framework: **+0.38%** net over the last 90 days and about **−0.09%** over the next 90. No SKY is minted; the Sky treasury pays stakers with coins the Smart Burn Engine buys back with protocol profit, and burns a slice each month. The key risk is a profit drop that slows the buyback while payouts already set keep running, and the fact that governance can still vote new SKY into existence. There is no hard cap, but the treasury now holds only 21.26M SKY, so payouts can no longer run far ahead of the buying.
 
 ---
 
-*MrNasdog Pressure Framework analysis of SKY, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 14 2026.*
+*MrNasDog Pressure Framework analysis of SKY, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 14 2026.*

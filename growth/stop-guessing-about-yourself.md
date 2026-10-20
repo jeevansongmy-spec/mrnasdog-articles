@@ -6,7 +6,7 @@ tags: ["ai", "self-knowledge", "growth", "frameworks"]
 published: true
 ---
 
-> Originally published at **[mrnasdoggrowth.com](https://mrnasdoggrowth.com/growth/stop-guessing-about-yourself)** by MrNasdog.
+> Originally published at **[mrnasdoggrowth.com](https://mrnasdoggrowth.com/growth/stop-guessing-about-yourself)** by MrNasDog.
 
 Here's a strange fact: most people understand other people better than they understand themselves.
 
@@ -80,4 +80,4 @@ You already have the tool. You already have the history. All you have to do is s
 
 ---
 
-*Part of the MrNasdog framework library.*
+*Part of the MrNasDog framework library.*

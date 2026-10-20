@@ -58,4 +58,4 @@ AVAX supply grew **+0.85%** in the 90 days to Oct 12 2026 and we project **+0.80
 
 ---
 
-*MrNasdog Pressure Framework analysis of AVAX, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 12 2026.*
+*MrNasDog Pressure Framework analysis of AVAX, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 12 2026.*

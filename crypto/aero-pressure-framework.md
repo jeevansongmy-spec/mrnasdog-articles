@@ -66,6 +66,6 @@ The Velodrome merger is the unusual part. Most mergers swap one coin for another
 
 ## Summary
 
-AERO, the token of the Aerodrome exchange on Base, is inflationary: its supply grew **+3.46%** in the 90 days to Oct 16 2026, and the MrNasdog Pressure Framework projects **+10.84%** for the next 90 days. The weekly mint, **55.80M AERO** to the market, is the main source of new coins, and holders locking **22.43M** plus a small growth-fund buyback absorb less than half of it. The Aero upgrade on Oct 22 2026 adds up to **59.47M** AERO for Velodrome holders in one step and swaps the mint for Aero rewards expected near 12% a year, with a 20% ceiling and no hard cap. The key risk is that locks and buybacks fall behind a bigger, merged supply.
+AERO, the token of the Aerodrome exchange on Base, is inflationary: its supply grew **+3.46%** in the 90 days to Oct 16 2026, and the MrNasDog Pressure Framework projects **+10.84%** for the next 90 days. The weekly mint, **55.80M AERO** to the market, is the main source of new coins, and holders locking **22.43M** plus a small growth-fund buyback absorb less than half of it. The Aero upgrade on Oct 22 2026 adds up to **59.47M** AERO for Velodrome holders in one step and swaps the mint for Aero rewards expected near 12% a year, with a 20% ceiling and no hard cap. The key risk is that locks and buybacks fall behind a bigger, merged supply.
 
-*MrNasdog Pressure Framework analysis of AERO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 16 2026.*
+*MrNasDog Pressure Framework analysis of AERO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 16 2026.*

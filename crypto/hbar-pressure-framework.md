@@ -66,4 +66,4 @@ HBAR is a pre-minted coin with no mint, no burn and no buyback, so its supply mo
 
 ---
 
-*MrNasdog Pressure Framework analysis of HBAR, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 12 2026.*
+*MrNasDog Pressure Framework analysis of HBAR, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 12 2026.*

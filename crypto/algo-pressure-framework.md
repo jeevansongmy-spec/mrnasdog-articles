@@ -66,4 +66,4 @@ Per 90 days, Algorand's **+1.13%** is on the high side for a large Layer 1: most
 
 Algorand's ALGO is a fixed 10B-coin supply with no minting and no burn, yet circulating supply grew **+1.13%** in 90 days because **84.28M ALGO** left Algorand Foundation wallets and **18.75M ALGO** was paid to stakers from a Foundation-funded pot. We project about **+0.66%** for the next 90 days. The key risk is the pace of Foundation selling and one-off payments, which no schedule fixes; the ceiling is the roughly 927.9M ALGO the Foundation still holds.
 
-*MrNasdog Pressure Framework analysis of ALGO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.*
+*MrNasDog Pressure Framework analysis of ALGO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.*

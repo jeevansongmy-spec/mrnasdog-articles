@@ -5,7 +5,7 @@ canonical_url: "https://mrnasdog.com/research/cake/inflation"
 tags: ["crypto", "cake", "pancakeswap", "defi"]
 published: true
 ---
-> Originally published at **[mrnasdog.com/research/cake/inflation](https://mrnasdog.com/research/cake/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/cake/inflation](https://mrnasdog.com/research/cake/inflation)** by MrNasDog.
 
 <!-- main-page -->
 This is the long supply read. For the signal, the price drivers and the questions people ask about PancakeSwap, see [mrnasdog.com/research/cake](https://mrnasdog.com/research/cake).
@@ -66,4 +66,4 @@ CAKE, the PancakeSwap token, is deflationary: the weekly fee buyback burned **7,
 
 ---
 
-*MrNasdog Pressure Framework analysis of CAKE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 16 2026.*
+*MrNasDog Pressure Framework analysis of CAKE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 16 2026.*

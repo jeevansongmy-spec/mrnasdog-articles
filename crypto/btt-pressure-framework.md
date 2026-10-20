@@ -56,4 +56,4 @@ Compared with tokens that still unlock large team and investor shares each month
 
 BitTorrent (BTT) has a fixed 990 trillion supply with no minting, and from October 2026 it shrinks through a quarterly buyback paid by service revenue. The first burn removed **21,621.6B BTT**, taking supply down **2.24%** in 90 days, and the next burn in mid-January points to about **2.22%** less again. Only about 2.95T BTT is left to release, in yearly steps to 2029. The key risk is that the burn depends on revenue and on the team's choice, not on code, so a smaller or skipped round would leave BTT close to flat.
 
-*MrNasdog Pressure Framework analysis of BTT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 18 2026.*
+*MrNasDog Pressure Framework analysis of BTT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 18 2026.*

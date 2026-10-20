@@ -62,4 +62,4 @@ VIRTUAL is a fixed-supply coin: the contract caps it at 1B and no one can mint m
 
 ---
 
-*MrNasdog Pressure Framework analysis of VIRTUAL, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 18 2026.*
+*MrNasDog Pressure Framework analysis of VIRTUAL, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 18 2026.*

@@ -1,6 +1,6 @@
-# MrNasdog — Articles
+# MrNasDog — Articles
 
-Public mirror + syndication source for articles by **MrNasdog** (Zhiyi Song).
+Public mirror + syndication source for articles by **MrNasDog** (Zhiyi Song).
 
 Every article here is a copy whose **canonical link points back to the original**
 on [mrnasdog.com](https://mrnasdog.com) (crypto research) or

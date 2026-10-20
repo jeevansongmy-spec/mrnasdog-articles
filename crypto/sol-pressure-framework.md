@@ -64,4 +64,4 @@ SOL supply grew **+1.68%** in the 90 days to Oct 10 2026 and is projected to gro
 
 ---
 
-*MrNasdog Pressure Framework analysis of SOL, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 10 2026.*
+*MrNasDog Pressure Framework analysis of SOL, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 10 2026.*

@@ -12,7 +12,7 @@ published:     true
 
 # SPX Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
-SPX6900 (SPX) has a supply that cannot grow. The Ethereum contract fixes it at **1B SPX**, of which **930.99M SPX** circulate and the rest sits in a dead address. In the 90 days to Oct 18 2026 the MrNasdog Pressure Framework counts **0 SPX** of new supply against **5,722 SPX** burned by fan-built apps, a net change of **−0.0006%**; the monitor reads **−0.17%**. With no mint, no vesting and no team, the only thing that moves SPX supply is coins sent to a dead address.
+SPX6900 (SPX) has a supply that cannot grow. The Ethereum contract fixes it at **1B SPX**, of which **930.99M SPX** circulate and the rest sits in a dead address. In the 90 days to Oct 18 2026 the MrNasDog Pressure Framework counts **0 SPX** of new supply against **5,722 SPX** burned by fan-built apps, a net change of **−0.0006%**; the monitor reads **−0.17%**. With no mint, no vesting and no team, the only thing that moves SPX supply is coins sent to a dead address.
 
 ## The verdict, in one paragraph
 
@@ -58,4 +58,4 @@ Fourth, new exchange listings. They move SPX between holders but add no supply, 
 
 SPX6900 (SPX) is a fixed-supply meme coin: the Ethereum contract caps it at 1B, no one can mint more, and there is no team share, treasury or vesting left. In the 90 days to Oct 18 2026, supply shrank by **−0.0006%** as fan-built apps burned **5,722 SPX**, and we project **0.00%** for the next 90 days. The supply side carries almost no risk; the risk is on the demand side, because nothing in the design buys SPX back. The ceiling is permanent: **930.99M SPX** in circulation can only fall from here.
 
-*MrNasdog Pressure Framework analysis of SPX, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 18 2026.*
+*MrNasDog Pressure Framework analysis of SPX, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 18 2026.*

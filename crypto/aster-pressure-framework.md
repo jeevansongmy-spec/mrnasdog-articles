@@ -11,7 +11,7 @@ Originally published at [ASTER Inflation Analysis · October 2026 · Mixed last 
 
 <!-- main-page -->
 ➜ Start with the Aster coin page for the short answer (should you buy ASTER?) and its price drivers: [mrnasdog.com/research/aster](https://mrnasdog.com/research/aster)
-ASTER supply grew only a little in the last 90 days, and it is set to grow faster in the next 90. Over the 90 days to Oct 14 2026, Aster paid stakers **4.5M ASTER** from a locked pool and nothing left the market, so net supply rose **+0.17%**. The MrNasdog Pressure Framework projects **+2.58%** for the next 90 days, mostly because the last ASTER airdrop pays out about **63.38M ASTER** on Nov 4 2026. The 99% fee buyback and the burn are real, but the buyback goes back to stakers and the burn takes coins from the locked team share, so neither shrinks the tradable supply.
+ASTER supply grew only a little in the last 90 days, and it is set to grow faster in the next 90. Over the 90 days to Oct 14 2026, Aster paid stakers **4.5M ASTER** from a locked pool and nothing left the market, so net supply rose **+0.17%**. The MrNasDog Pressure Framework projects **+2.58%** for the next 90 days, mostly because the last ASTER airdrop pays out about **63.38M ASTER** on Nov 4 2026. The 99% fee buyback and the burn are real, but the buyback goes back to stakers and the burn takes coins from the locked team share, so neither shrinks the tradable supply.
 
 ## The verdict, in one paragraph
 
@@ -55,4 +55,4 @@ ASTER's burn is also unusual. Most burning tokens destroy coins that were bought
 
 ASTER grew by only **+0.17%** in the last 90 days and is projected to grow **+2.58%** in the next 90, almost all of it from the **63.38M ASTER** Stage 6 airdrop payout on Nov 4 2026. Aster spends 99% of its fees on ASTER and burns a matching amount, but the bought coins go to stakers and the burn comes from locked team coins, so the tradable supply does not shrink. The main risk is the 2.92B ASTER still in the airdrop reserve and the 560M treasury, which can only be released through new decisions. The ceiling is the 7.79B left after burns, falling toward the 3B target as the burns continue.
 
-*MrNasdog Pressure Framework analysis of ASTER, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 14 2026.*
+*MrNasDog Pressure Framework analysis of ASTER, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 14 2026.*

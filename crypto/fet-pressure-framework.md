@@ -56,4 +56,4 @@ Fourth, any public statement from the team explaining the native mints or retiri
 
 FET supply grew about **18.71%** in the 90 days to Oct 19 2026 and is projected to grow about **18.74%** in the next 90. Staking rewards are small at **10.82M FET**; the real driver is the team, which released **421.7M FET** in the window, most of it newly created on Fetch.ai's own chain and sent to exchange accounts. Nothing is burned or bought back, and the team still holds more than 400M FET across both chains. The 2.71B Ethereum supply is no longer a ceiling, so the key risk is more new FET from the same bridge.
 
-*MrNasdog Pressure Framework analysis of FET, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*
+*MrNasDog Pressure Framework analysis of FET, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*

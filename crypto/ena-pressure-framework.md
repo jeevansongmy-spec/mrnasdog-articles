@@ -12,7 +12,7 @@ Looking for the buy-or-sell answer? It is on the ENA coin page, with demand and 
 
 # ENA Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
-The MrNasdog Pressure Framework reads Ethena (ENA) at **+28.68% net** over the last 90 days and **+2.10%** over the next 90. Unlocks put **3.85B ENA** into the float, most of it on Oct 5 2026, when Ethena released the last investor coins and the rest of the Foundation and ecosystem shares at once; nothing was bought back or burned. After that one big day, only the core team's **93.75M ENA a month** is still locked, so the ENA supply curve flattens sharply from here.
+The MrNasDog Pressure Framework reads Ethena (ENA) at **+28.68% net** over the last 90 days and **+2.10%** over the next 90. Unlocks put **3.85B ENA** into the float, most of it on Oct 5 2026, when Ethena released the last investor coins and the rest of the Foundation and ecosystem shares at once; nothing was bought back or burned. After that one big day, only the core team's **93.75M ENA a month** is still locked, so the ENA supply curve flattens sharply from here.
 
 ## The verdict, in one paragraph
 
@@ -54,4 +54,4 @@ The core team unlocks **93.75M ENA** on Nov 2 2026, Dec 2 2026 and Jan 2 2027, t
 
 ENA supply grew **+28.68%** in 90 days because Ethena released **3.85B ENA** of locked coins, most of it in one day on Oct 5 2026, with no buyback or burn on the other side. With the investor, Foundation and ecosystem calendars now empty, only the core team's 93.75M ENA a month remains, so the next 90 days project a much smaller **+2.10%**. The key risk is that the newly free coins, including the treasury company's 3.03B, are sold into the market; the cap is 15B ENA, with a never-used 10% yearly mint as the only way above it. A real ENA buyer arrives only if USDe grows past $7.5B and the fee switch turns on.
 
-*MrNasdog Pressure Framework analysis of ENA, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 13 2026.*
+*MrNasDog Pressure Framework analysis of ENA, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 13 2026.*

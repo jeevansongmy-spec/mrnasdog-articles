@@ -12,7 +12,7 @@ The Kaia coin page has the score, the price drivers and every question answered 
 
 # KAIA Inflation Analysis · October 2026
 
-KAIA supply is growing, and the MrNasdog Pressure Framework expects it to keep growing. Kaia mints a fixed **9.6 KAIA** in every block, about one block a second, which came to **74.60M KAIA** in the last 90 days, while the transaction-fee burn destroyed only **128.8K KAIA**. Net, supply rose **+1.16%** in 90 days. The next 90 days read **+1.04%**, a little lower only because a one-time burn of about **7.35M KAIA** in unpaid contribution rewards is set for November 2026. Kaia has no supply cap, no halving and nothing left to vest.
+KAIA supply is growing, and the MrNasDog Pressure Framework expects it to keep growing. Kaia mints a fixed **9.6 KAIA** in every block, about one block a second, which came to **74.60M KAIA** in the last 90 days, while the transaction-fee burn destroyed only **128.8K KAIA**. Net, supply rose **+1.16%** in 90 days. The next 90 days read **+1.04%**, a little lower only because a one-time burn of about **7.35M KAIA** in unpaid contribution rewards is set for November 2026. Kaia has no supply cap, no halving and nothing left to vest.
 
 ## The verdict, in one paragraph
 
@@ -68,4 +68,4 @@ KAIA is an uncapped proof-of-stake coin whose supply grows by a fixed 9.6 KAIA p
 
 ---
 
-*MrNasdog Pressure Framework analysis of KAIA, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 10 2026.*
+*MrNasDog Pressure Framework analysis of KAIA, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 10 2026.*

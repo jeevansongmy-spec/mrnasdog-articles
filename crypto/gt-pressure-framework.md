@@ -5,14 +5,14 @@ canonical_url: "https://mrnasdog.com/research/gt/inflation"
 tags: ["crypto", "gt", "gate", "exchange-token"]
 published: true
 ---
-> Originally published at **[mrnasdog.com/research/gt/inflation](https://mrnasdog.com/research/gt/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/gt/inflation](https://mrnasdog.com/research/gt/inflation)** by MrNasDog.
 
 <!-- main-page -->
 Looking for the buy-or-sell answer? It is on the GT coin page, with demand and price drivers: [mrnasdog.com/research/gt](https://mrnasdog.com/research/gt)
 
 # GT Inflation Analysis · October 2026 · Supply shrinking · projected to keep shrinking
 
-The MrNasdog Pressure Framework reads Gate's GT as a shrinking coin: net supply fell **1.80%** over the last 90 days and is projected to fall about **1.95%** over the next 90. Gate's quarterly buyback-and-burn removed **1,987,321 GT** on Oct 4 2026, while GateChain's block reward added only **102,987 GT**. The inflation monitor reads **−1.68%**, a gap of **0.12 points**, so the two readings agree. The one thing that could undo the burn is Gate's **12.25M GT** frozen reserve, which has twice refilled the burn wallet this year.
+The MrNasDog Pressure Framework reads Gate's GT as a shrinking coin: net supply fell **1.80%** over the last 90 days and is projected to fall about **1.95%** over the next 90. Gate's quarterly buyback-and-burn removed **1,987,321 GT** on Oct 4 2026, while GateChain's block reward added only **102,987 GT**. The inflation monitor reads **−1.68%**, a gap of **0.12 points**, so the two readings agree. The one thing that could undo the burn is Gate's **12.25M GT** frozen reserve, which has twice refilled the burn wallet this year.
 
 ## The verdict, in one paragraph
 
@@ -50,6 +50,6 @@ First, the Q4 2026 burn, expected before Jan 13 2027: the framework already coun
 
 ## Summary
 
-The MrNasdog Pressure Framework reads Gate's GT at **−1.80% net** over the last 90 days and about **−1.95%** over the next 90: a **1,987,321 GT** quarterly buyback-and-burn against **102,987 GT** of GateChain block rewards, with the monitor at **−1.68%**. The burn is sized in dollars from Gate's results, so it depends on the exchange keeping its profits and its promise. The key risk is the **12.25M GT** frozen reserve, which can refill the burn wallet and cancel a burn, as it did in July 2026. While Gate keeps burning about $20M of GT a quarter and the reserve stays still, GT supply keeps shrinking by close to 2% a quarter.
+The MrNasDog Pressure Framework reads Gate's GT at **−1.80% net** over the last 90 days and about **−1.95%** over the next 90: a **1,987,321 GT** quarterly buyback-and-burn against **102,987 GT** of GateChain block rewards, with the monitor at **−1.68%**. The burn is sized in dollars from Gate's results, so it depends on the exchange keeping its profits and its promise. The key risk is the **12.25M GT** frozen reserve, which can refill the burn wallet and cancel a burn, as it did in July 2026. While Gate keeps burning about $20M of GT a quarter and the reserve stays still, GT supply keeps shrinking by close to 2% a quarter.
 
-*MrNasdog Pressure Framework analysis of GT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.*
+*MrNasDog Pressure Framework analysis of GT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.*

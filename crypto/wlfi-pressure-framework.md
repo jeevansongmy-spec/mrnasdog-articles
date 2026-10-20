@@ -16,7 +16,7 @@ WLFI supply is roughly steady: over the 90 days to Oct 14 2026, only **4.79M WLF
 
 ## The verdict, in one paragraph
 
-The MrNasdog Pressure Framework reads WLFI at **+0.02%** net new supply over the last 90 days (4.79M WLFI of claims against 0 WLFI removed), and the same **+0.02%** for the next 90 days. Our inflation monitor, which tracks the market's circulating figure, reads **+0.01%** for the same stretch, a gap of **less than 0.01 percentage points** — well inside our 0.5-point line, so no warning chip is needed. In one label: WLFI is a locked-supply token on pause, with almost all of its future selling pressure parked behind the May 2028 cliff rather than reaching the market today.
+The MrNasDog Pressure Framework reads WLFI at **+0.02%** net new supply over the last 90 days (4.79M WLFI of claims against 0 WLFI removed), and the same **+0.02%** for the next 90 days. Our inflation monitor, which tracks the market's circulating figure, reads **+0.01%** for the same stretch, a gap of **less than 0.01 percentage points** — well inside our 0.5-point line, so no warning chip is needed. In one label: WLFI is a locked-supply token on pause, with almost all of its future selling pressure parked behind the May 2028 cliff rather than reaching the market today.
 
 ## Sell pressure: where new WLFI comes from
 
@@ -62,4 +62,4 @@ WLFI, the governance token of World Liberty Financial, is in a quiet supply phas
 
 ---
 
-*MrNasdog Pressure Framework analysis of WLFI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 14 2026.*
+*MrNasDog Pressure Framework analysis of WLFI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 14 2026.*

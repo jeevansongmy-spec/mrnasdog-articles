@@ -1,14 +1,14 @@
 ---
-title: "MrNasdog Pressure Framework: How We Pick Which Crypto to Buy"
+title: "MrNasDog Pressure Framework: How We Pick Which Crypto to Buy"
 description: "Why $100 in Hyperliquid became about $354 while Worldcoin fell to $27, and the three checks we use to pick which crypto to buy: new coins coming, buyers, and the big price drivers."
 canonical_url: "https://mrnasdog.com/research/pressure-framework/full"
 tags: ["crypto", "framework", "tokenomics", "which-crypto-to-buy"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/research/pressure-framework/full](https://mrnasdog.com/research/pressure-framework/full)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/pressure-framework/full](https://mrnasdog.com/research/pressure-framework/full)** by MrNasDog.
 
-# MrNasdog Pressure Framework
+# MrNasDog Pressure Framework
 
 *Why one coin turned $100 into $354 while another left $27, and the three checks we use to spot the difference before we buy.*
 
@@ -28,7 +28,7 @@ So what made the difference? It wasn't luck, and it wasn't the chart. Look at wh
 
 That's the whole story. One coin kept flooding the market with new coins. The other kept taking coins off it. Spotting that difference before we buy is exactly what our framework is for.
 
-We started out as venture capital investors, and we've lived off crypto since 2018. Over those years, one question never went away: which coin should we buy, and when? The MrNasdog Pressure Framework is our answer. It comes down to three simple checks, and we run them on every coin we follow.
+We started out as venture capital investors, and we've lived off crypto since 2018. Over those years, one question never went away: which coin should we buy, and when? The MrNasDog Pressure Framework is our answer. It comes down to three simple checks, and we run them on every coin we follow.
 
 ## 1. How many new coins are coming?
 
@@ -78,7 +78,7 @@ It's the oldest rule in any market: more buyers and fewer sellers usually means 
 
 ## Overall
 
-So that's the MrNasdog Pressure Framework. It's about one thing: making money in crypto by buying the right coin at the right time. We're trying to predict when to buy, by watching how many new coins are coming over the next 90 days, how many buyers are coming, and what the big price drivers are doing. Pick any coin we cover, like [Bitcoin](https://mrnasdog.com/research/btc), [Ethereum](https://mrnasdog.com/research/eth) or [Solana](https://mrnasdog.com/research/sol), and you'll see all three checks side by side.
+So that's the MrNasDog Pressure Framework. It's about one thing: making money in crypto by buying the right coin at the right time. We're trying to predict when to buy, by watching how many new coins are coming over the next 90 days, how many buyers are coming, and what the big price drivers are doing. Pick any coin we cover, like [Bitcoin](https://mrnasdog.com/research/btc), [Ethereum](https://mrnasdog.com/research/eth) or [Solana](https://mrnasdog.com/research/sol), and you'll see all three checks side by side.
 
 - [Hyperliquid (HYPE)](https://mrnasdog.com/research/hype): All three checks, live
 
@@ -90,7 +90,7 @@ So that's the MrNasdog Pressure Framework. It's about one thing: making money in
 
 ## Questions people ask
 
-**What is the MrNasdog Pressure Framework?** It's our way of picking which crypto to buy, and when. On every coin we check three things: how many new coins are coming, whether buyers are growing, and what the big price drivers are doing. When all three line up, the odds of a rising price are much better.
+**What is the MrNasDog Pressure Framework?** It's our way of picking which crypto to buy, and when. On every coin we check three things: how many new coins are coming, whether buyers are growing, and what the big price drivers are doing. When all three line up, the odds of a rising price are much better.
 
 **How do you know which crypto to buy?** We look for coins with few new tokens coming, growing demand and big drivers pointing up. When all three line up, the odds of a rising price are much better.
 

@@ -60,6 +60,6 @@ The SYRUP issuance contract can only restart through a governance vote; the vote
 
 ## Summary
 
-The MrNasdog Pressure Framework reads Maple Finance (SYRUP) at **+1.11%** over the last 90 days and about **+1.14%** over the next 90: the three-year issuance ended on Oct 1 2026, no vesting is left and nothing is burned, so all new SYRUP comes from Maple's DAO, Strategic Fund and operations wallets, which released **12.98M SYRUP**. The monthly revenue buyback bought **2.90M SYRUP** but keeps it inside the float. The key risk is a faster draw on the **90.92M SYRUP** treasury; the upside case is a buyback that burns or locks what it buys. Until then, SYRUP supply keeps growing slowly from treasury spending.
+The MrNasDog Pressure Framework reads Maple Finance (SYRUP) at **+1.11%** over the last 90 days and about **+1.14%** over the next 90: the three-year issuance ended on Oct 1 2026, no vesting is left and nothing is burned, so all new SYRUP comes from Maple's DAO, Strategic Fund and operations wallets, which released **12.98M SYRUP**. The monthly revenue buyback bought **2.90M SYRUP** but keeps it inside the float. The key risk is a faster draw on the **90.92M SYRUP** treasury; the upside case is a buyback that burns or locks what it buys. Until then, SYRUP supply keeps growing slowly from treasury spending.
 
-*MrNasdog Pressure Framework analysis of SYRUP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*
+*MrNasDog Pressure Framework analysis of SYRUP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*

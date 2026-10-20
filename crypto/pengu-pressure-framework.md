@@ -56,6 +56,6 @@ PENGU also has no burn or buyback to push back. Some meme coins burn part of eve
 
 ## Summary
 
-The MrNasdog Pressure Framework reads PENGU at **+1.86% net** over the last 90 days and **+1.86%** for the next 90 days: supply growing, projected to keep growing. Pudgy Penguins can never mint another PENGU, but the team and company wallets sent out **1.17B PENGU** in 90 days, still hold **20.30B**, and nothing buys or burns coins to absorb them. The key risk is the backlog: the wallets are about **2.22B PENGU** behind their calendar, so releases could speed up before the schedule ends in Nov 2028.
+The MrNasDog Pressure Framework reads PENGU at **+1.86% net** over the last 90 days and **+1.86%** for the next 90 days: supply growing, projected to keep growing. Pudgy Penguins can never mint another PENGU, but the team and company wallets sent out **1.17B PENGU** in 90 days, still hold **20.30B**, and nothing buys or burns coins to absorb them. The key risk is the backlog: the wallets are about **2.22B PENGU** behind their calendar, so releases could speed up before the schedule ends in Nov 2028.
 
-*MrNasdog Pressure Framework analysis of PENGU, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 18 2026.*
+*MrNasDog Pressure Framework analysis of PENGU, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 18 2026.*

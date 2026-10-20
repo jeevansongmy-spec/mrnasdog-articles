@@ -64,4 +64,4 @@ STABLE's supply was flat at **0.00%** over the last 90 days and is projected at 
 
 ---
 
-*MrNasdog Pressure Framework analysis of STABLE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 16 2026.*
+*MrNasDog Pressure Framework analysis of STABLE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 16 2026.*

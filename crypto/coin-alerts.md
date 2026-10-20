@@ -3,14 +3,14 @@ title: "Coin Alerts: One Email When A Coin's Supply Outlook Changes"
 description: "Pick coins in your profile. When my researched Next-90d inflation number moves more than 0.5 points, you get one short email. Free for everyone."
 canonical_url: "https://mrnasdog.com/analysis/coin-alerts"
 tags: ["crypto", "investing", "tokenomics"]
-# Dev.to only. Unpublished there on MrNasdog's instruction (Jul 19 2026) — a
+# Dev.to only. Unpublished there on MrNasDog's instruction (Jul 19 2026) — a
 # product announcement is off-key for that audience. GitHub + Telegram stand.
 # Keep this false: syndicate.py sends it straight through to the Dev.to PUT, so
 # flipping it back to true is what would republish the post.
 published: false
 ---
 
-> Originally published at **[mrnasdog.com/analysis/coin-alerts](https://mrnasdog.com/analysis/coin-alerts)** by MrNasdog.
+> Originally published at **[mrnasdog.com/analysis/coin-alerts](https://mrnasdog.com/analysis/coin-alerts)** by MrNasDog.
 
 Set it once in your profile. When my researched number moves, you get one short email. No spam, no noise.
 

@@ -10,7 +10,7 @@ published:     true
 
 # LAB Inflation Analysis · September 2026 · Supply growing, projected to keep growing
 
-LAB, the token of the LAB Terminal multi-chain trading app on BNB Chain, cannot be minted — the LAB contract carries no mint path — so every new LAB in the market comes out of LAB Terminal team wallets. Over the 90 days to **Sep 18 2026**, **151.27M LAB** left team control against about **204 LAB** destroyed from the float, so the MrNasdog Pressure Framework reads LAB at **+19.50% net**, and **+19.82%** for the next 90 days as LAB vesting contracts release on **Oct 14**, **Nov 14** and **Dec 14 2026**. The supply monitor reads **+147.39%** — a **127.89-point** gap, because the counted LAB float jumped on **Aug 13 2026** while **341.73M** of those coins still sit in team wallets and locks. LAB total supply is **989,999,803** and can only fall.
+LAB, the token of the LAB Terminal multi-chain trading app on BNB Chain, cannot be minted — the LAB contract carries no mint path — so every new LAB in the market comes out of LAB Terminal team wallets. Over the 90 days to **Sep 18 2026**, **151.27M LAB** left team control against about **204 LAB** destroyed from the float, so the MrNasDog Pressure Framework reads LAB at **+19.50% net**, and **+19.82%** for the next 90 days as LAB vesting contracts release on **Oct 14**, **Nov 14** and **Dec 14 2026**. The supply monitor reads **+147.39%** — a **127.89-point** gap, because the counted LAB float jumped on **Aug 13 2026** while **341.73M** of those coins still sit in team wallets and locks. LAB total supply is **989,999,803** and can only fall.
 
 ## The verdict, in one paragraph
 
@@ -42,6 +42,6 @@ First, the monthly LAB unlocks: the LAB vesting contracts release **28.30M LAB**
 
 ## Summary
 
-The MrNasdog Pressure Framework reads LAB at **+19.50% net** over the trailing 90 days and **+19.82%** over the next 90. LAB cannot be minted, so the whole sell side is LAB Terminal team coins leaving custody — **151.27M LAB** this window, most of it on the 14th of each month — while the buy side is close to zero because the **10M LAB** burn used coins that were never tradable. The key risk is size: the team group still holds **526.19M LAB**, more than two thirds of the counted float, with **153.75M** scheduled out by **Dec 14 2026**. The ceiling is the **989,999,803 LAB** in existence, and every LAB still in team hands is supply that has not reached the market yet.
+The MrNasDog Pressure Framework reads LAB at **+19.50% net** over the trailing 90 days and **+19.82%** over the next 90. LAB cannot be minted, so the whole sell side is LAB Terminal team coins leaving custody — **151.27M LAB** this window, most of it on the 14th of each month — while the buy side is close to zero because the **10M LAB** burn used coins that were never tradable. The key risk is size: the team group still holds **526.19M LAB**, more than two thirds of the counted float, with **153.75M** scheduled out by **Dec 14 2026**. The ceiling is the **989,999,803 LAB** in existence, and every LAB still in team hands is supply that has not reached the market yet.
 
-*MrNasdog Pressure Framework analysis of LAB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 18 2026.*
+*MrNasDog Pressure Framework analysis of LAB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 18 2026.*

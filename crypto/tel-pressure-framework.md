@@ -6,7 +6,7 @@ tags:          ["crypto", "tel", "telcoin", "payments"]
 published:     true
 ---
 
-> Originally published at **[mrnasdog.com/research/tel/inflation](https://mrnasdog.com/research/tel/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/tel/inflation](https://mrnasdog.com/research/tel/inflation)** by MrNasDog.
 
 # TEL Inflation Analysis · August 2026 · Mixed flows, supply roughly steady
 
@@ -14,7 +14,7 @@ Telcoin cannot create another TEL. All **100B** was minted at the 2017 genesis, 
 
 ## The verdict, in one paragraph
 
-For the 90-day window ending **Aug 16 2026**, the MrNasdog Pressure Framework reads **TEL at +0.23% net**: sell pressure of **221.9M TEL** against buy pressure of **0 TEL**, on a circulating base of **98.57B TEL**. Our supply monitor reads **+3.74%** for the same period, a gap of **3.51 percentage points**, which is over the half-point tolerance and therefore ships with a data-conflict flag on the overview card. The deep walk found the cause and it is not a Telcoin event. The tracked float sat pinned near **95.08B** every single day from **Jan 1 2026** to **Aug 3 2026**, jumped to **100.00B** on **Aug 4 2026** — nearly **5B** in one day, with no transaction anywhere on Ethereum or Polygon to match it — and settled back at **98.54B** on **Aug 14 2026**. That is the Telcoin Association treasury bucket being reclassified, not TEL reaching the market. The framework labels Telcoin **a hard-capped payments token whose only supply lever is a discretionary annual treasury vote**.
+For the 90-day window ending **Aug 16 2026**, the MrNasDog Pressure Framework reads **TEL at +0.23% net**: sell pressure of **221.9M TEL** against buy pressure of **0 TEL**, on a circulating base of **98.57B TEL**. Our supply monitor reads **+3.74%** for the same period, a gap of **3.51 percentage points**, which is over the half-point tolerance and therefore ships with a data-conflict flag on the overview card. The deep walk found the cause and it is not a Telcoin event. The tracked float sat pinned near **95.08B** every single day from **Jan 1 2026** to **Aug 3 2026**, jumped to **100.00B** on **Aug 4 2026** — nearly **5B** in one day, with no transaction anywhere on Ethereum or Polygon to match it — and settled back at **98.54B** on **Aug 14 2026**. That is the Telcoin Association treasury bucket being reclassified, not TEL reaching the market. The framework labels Telcoin **a hard-capped payments token whose only supply lever is a discretionary annual treasury vote**.
 
 ## Sell pressure: where new TEL comes from
 
@@ -50,4 +50,4 @@ Telcoin's TEL is a hard-capped, fully-minted token that still inflates gently. T
 
 ---
 
-*MrNasdog Pressure Framework analysis of TEL, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Aug 17 2026.*
+*MrNasDog Pressure Framework analysis of TEL, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Aug 17 2026.*

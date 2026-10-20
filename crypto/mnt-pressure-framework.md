@@ -56,8 +56,8 @@ First, the fourth Mantle budget vote: the last budget and its extension ended in
 
 ## Summary
 
-The MrNasdog Pressure Framework reads Mantle (MNT) at **−0.01% net** over the last 90 days and **0.00%** over the next 90: no MNT was minted, nothing vested, nothing was burned, and the only flow was **291,000 MNT** returned to the Mantle Treasury on Oct 1 2026. The structure is simple: a fully unlocked token, a mint switched off at zero, and a **2,917.3M MNT** treasury outside the circulating count. The key risk is a treasury budget or a switched-on mint that puts new MNT on the market; the upside case is a buyback or burn funded by revenue, which today is only a discussion. Until the DAO votes, MNT supply stays where it is.
+The MrNasDog Pressure Framework reads Mantle (MNT) at **−0.01% net** over the last 90 days and **0.00%** over the next 90: no MNT was minted, nothing vested, nothing was burned, and the only flow was **291,000 MNT** returned to the Mantle Treasury on Oct 1 2026. The structure is simple: a fully unlocked token, a mint switched off at zero, and a **2,917.3M MNT** treasury outside the circulating count. The key risk is a treasury budget or a switched-on mint that puts new MNT on the market; the upside case is a buyback or burn funded by revenue, which today is only a discussion. Until the DAO votes, MNT supply stays where it is.
 
 ---
 
-*MrNasdog Pressure Framework analysis of MNT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 13 2026.*
+*MrNasDog Pressure Framework analysis of MNT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 13 2026.*

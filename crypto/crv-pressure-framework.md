@@ -15,7 +15,7 @@ The Curve DAO coin page has the score, the price drivers and every question answ
 
 ## The verdict, in one paragraph
 
-The MrNasdog Pressure Framework reads CRV at **+2.26%** net supply over the last 90 days and about **+2.00%** over the next 90. Our monitor, which watches the circulating supply day by day, reads **+2.42%** for nearly the same window, a gap of **0.16 percentage points**. That is inside our 0.5-point tolerance, so no warning chip is shown: the two readings agree. Most of the small difference is the base, because the monitor divides by the supply of 90 days ago and we divide by today's. CRV is a coin that is **inflationary by design on the circulating float**: new coins flow out to liquidity providers every second, and locked coins come back as locks end.
+The MrNasDog Pressure Framework reads CRV at **+2.26%** net supply over the last 90 days and about **+2.00%** over the next 90. Our monitor, which watches the circulating supply day by day, reads **+2.42%** for nearly the same window, a gap of **0.16 percentage points**. That is inside our 0.5-point tolerance, so no warning chip is shown: the two readings agree. Most of the small difference is the base, because the monitor divides by the supply of 90 days ago and we divide by today's. CRV is a coin that is **inflationary by design on the circulating float**: new coins flow out to liquidity providers every second, and locked coins come back as locks end.
 
 ## Sell pressure: where new CRV comes from
 
@@ -57,4 +57,4 @@ Many exchange tokens now take the other road and use fees to buy back or burn th
 
 CRV supply grew **+2.26%** in the 90 days to Oct 17 2026 and is projected to grow about **+2.00%** in the next 90, in line with our monitor's +2.42%. Curve DAO releases about 1.86M new CRV a week to liquidity providers, and ended veCRV locks return millions more, while new locks take in far less and there is no buyback or burn. The key risk is the lock calendar: 14.08M CRV is already free to withdraw and 5.41M more ends on Jan 7 2027. The ceiling is the 3.03B CRV hard cap, and the yearly rate cut is the only thing that slows the flow.
 
-*MrNasdog Pressure Framework analysis of CRV, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 17 2026.*
+*MrNasDog Pressure Framework analysis of CRV, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 17 2026.*

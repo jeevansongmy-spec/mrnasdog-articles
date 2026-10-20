@@ -68,4 +68,4 @@ Compared with a large-cap layer 1 such as SOL, which issues new coins to validat
 
 Jito's JTO is inflationary for now: supply grew **+6.20%** in the 90 days to Oct 19 2026 and should grow about **+3.35%** more in the next 90 days, almost all of it from the team and investor vesting that ends on Dec 7 2026. No JTO can ever be minted, and the JTX buyback has started to pull **638K JTO** a quarter into the DAO treasury for burning. The main risk after vesting ends is the 210.06M JTO DAO treasury, which only a JTO holder vote can spend.
 
-*MrNasdog Pressure Framework analysis of JTO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*
+*MrNasDog Pressure Framework analysis of JTO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*

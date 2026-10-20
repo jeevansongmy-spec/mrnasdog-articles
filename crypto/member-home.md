@@ -1,12 +1,12 @@
 ---
-title: "Member Home: Ask MrNasdog or Book a Call Every Month"
-description: "Members can ask any investment question and book a one-to-one call with MrNasdog on AMA Day, one Sunday every month."
+title: "Member Home: Ask MrNasDog or Book a Call Every Month"
+description: "Members can ask any investment question and book a one-to-one call with MrNasDog on AMA Day, one Sunday every month."
 canonical_url: "https://mrnasdog.com/analysis/member-home"
 tags: ["crypto", "investing", "community", "ama"]
 published: false
 ---
 
-> Originally published at **[mrnasdog.com/analysis/member-home](https://mrnasdog.com/analysis/member-home)** by MrNasdog.
+> Originally published at **[mrnasdog.com/analysis/member-home](https://mrnasdog.com/analysis/member-home)** by MrNasDog.
 
 Watch it in under a minute: the video plays at the top of [the Member Home article on mrnasdog.com](https://mrnasdog.com/analysis/member-home).
 
@@ -17,7 +17,7 @@ Thank you for being with us. We've built a home just for members, founding membe
 Inside, three things:
 
 - **Ask a question.** Any investment question. We answer by email on AMA Day.
-- **Book a one-to-one call with MrNasdog.** 20 minutes, on AMA Day.
+- **Book a one-to-one call with MrNasDog.** 20 minutes, on AMA Day.
 - **Everything you get,** in one list, with simple on/off switches.
 
 **AMA Day is one Sunday a month**, early in the month. The next ones are **Oct 4**, **Nov 1** and **Dec 6 2026**.
@@ -31,7 +31,7 @@ Write your question in the box and press **Send question**. It can be about any 
 
 ## How do I book a one-to-one call?
 
-Want to talk it through? Press **Book a call**, pick a time and write your question, so MrNasdog can prepare. Times show in **your own time zone**.
+Want to talk it through? Press **Book a call**, pick a time and write your question, so MrNasDog can prepare. Times show in **your own time zone**.
 
 You'll get an email with your own video link. It also shows at the top of Member Home, with **Join the call**, **Change time** and **Cancel**.
 
@@ -50,6 +50,6 @@ Portfolio alerts, member-only email, coin alerts, our personal portfolio and the
 ![Everything you get: portfolio alerts, member-only email, coin alerts, personal portfolio, full track record](https://mrnasdog.com/analysis/member-home/tools.webp)
 *Figure 4 — Everything you get, with on/off switches.*
 
-Thanks for being here. — MrNasdog
+Thanks for being here. — MrNasDog
 
 Not a member yet? [See the membership](https://mrnasdog.com/membership).

@@ -12,7 +12,7 @@ This is the long supply read. For the signal, the price drivers and the question
 
 # CC Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
-Canton Coin (CC) supply is growing at a steady pace. Over the 90 days to Oct 11 2026, the Canton Network minted **1.95B CC** in rewards, the Canton Foundation's development fund paid out **76.5M CC** in grants and super-validator votes released **91.0M CC** from the unclaimed-reward pool, while the traffic-fee burn destroyed **1.35B CC**. Net supply rose **+1.91%**, and the MrNasdog Pressure Framework projects about the same **+1.91%** for the next 90 days. CC has no cap: the burn only slows the growth, and right now it removes about two coins for every three that are created.
+Canton Coin (CC) supply is growing at a steady pace. Over the 90 days to Oct 11 2026, the Canton Network minted **1.95B CC** in rewards, the Canton Foundation's development fund paid out **76.5M CC** in grants and super-validator votes released **91.0M CC** from the unclaimed-reward pool, while the traffic-fee burn destroyed **1.35B CC**. Net supply rose **+1.91%**, and the MrNasDog Pressure Framework projects about the same **+1.91%** for the next 90 days. CC has no cap: the burn only slows the growth, and right now it removes about two coins for every three that are created.
 
 ## The verdict, in one paragraph
 
@@ -68,8 +68,8 @@ The other difference is the start. Most Layer 1s launched with large team and in
 
 ## Summary
 
-The MrNasdog Pressure Framework reads Canton Coin (CC) at **+1.91% net** over the last 90 days and the next 90: **1.95B CC** of reward mints, **76.5M CC** of development-fund grants and **91.0M CC** of voted pool releases against a **1.35B CC** traffic-fee burn, with no pre-mine, no vesting and no supply cap. The burn is large and tied to real network use, but the reward mint still runs ahead of it. The key risk is that the reward budget and the two outside pools keep adding coins faster than fees burn them; the upside case is traffic growth that lifts the dollar burn toward the mint. Until one of those changes, CC supply keeps growing a little under 2% every 90 days.
+The MrNasDog Pressure Framework reads Canton Coin (CC) at **+1.91% net** over the last 90 days and the next 90: **1.95B CC** of reward mints, **76.5M CC** of development-fund grants and **91.0M CC** of voted pool releases against a **1.35B CC** traffic-fee burn, with no pre-mine, no vesting and no supply cap. The burn is large and tied to real network use, but the reward mint still runs ahead of it. The key risk is that the reward budget and the two outside pools keep adding coins faster than fees burn them; the upside case is traffic growth that lifts the dollar burn toward the mint. Until one of those changes, CC supply keeps growing a little under 2% every 90 days.
 
 ---
 
-*MrNasdog Pressure Framework analysis of CC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 12 2026.*
+*MrNasDog Pressure Framework analysis of CC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 12 2026.*

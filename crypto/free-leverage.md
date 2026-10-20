@@ -6,7 +6,7 @@ tags: ["crypto", "bitcoin", "leverage", "trading"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/analysis/free-leverage](https://mrnasdog.com/analysis/free-leverage)** by MrNasdog.
+> Originally published at **[mrnasdog.com/analysis/free-leverage](https://mrnasdog.com/analysis/free-leverage)** by MrNasDog.
 
 Leverage is tempting. There are two ways to get it, and only one of them can take everything.
 

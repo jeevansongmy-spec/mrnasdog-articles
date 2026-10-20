@@ -58,4 +58,4 @@ Against **Filecoin**-style networks, which lock coins as collateral for storage 
 
 **HNT** moved from a shrinking supply to a fast-growing one in 2026. The Helium network minted 16.47M HNT in the last 90 days and burned 2.33M, for a net of **+7.21%**, and we expect about **+9.77%** in the next 90 days, because the HIP-149 growth fund mints 196,000 HNT a day while data credit burns have dropped. The main risk is that the fund's coins, which go to Nova Labs, are sold faster than usage grows. The ceiling is set in code: about 141M HNT over three years, flat until about Aug 2027 and then tapering to zero, unless holders vote to cut it.
 
-MrNasdog Pressure Framework analysis of HNT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.
+MrNasDog Pressure Framework analysis of HNT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.

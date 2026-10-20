@@ -64,4 +64,4 @@ Gram (GRAM) is inflationary at about **+3.52%** per 90 days, with about **+3.54%
 
 ---
 
-*MrNasdog Pressure Framework analysis of GRAM, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 12 2026.*
+*MrNasDog Pressure Framework analysis of GRAM, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 12 2026.*

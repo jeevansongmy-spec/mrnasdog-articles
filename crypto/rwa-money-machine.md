@@ -6,7 +6,7 @@ tags: ["crypto", "rwa", "stablecoins", "finance"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/analysis/rwa-money-machine](https://mrnasdog.com/analysis/rwa-money-machine)** by MrNasdog.
+> Originally published at **[mrnasdog.com/analysis/rwa-money-machine](https://mrnasdog.com/analysis/rwa-money-machine)** by MrNasDog.
 
 Note: I simplified the logic on purpose so everyone can follow it. A short note on the simplifications is at the end.
 

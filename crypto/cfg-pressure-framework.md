@@ -6,11 +6,11 @@ tags: ["crypto", "cfg", "centrifuge", "rwa"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/research/cfg/inflation](https://mrnasdog.com/research/cfg/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/cfg/inflation](https://mrnasdog.com/research/cfg/inflation)** by MrNasDog.
 
 # CFG Inflation Analysis · September 2026 · Supply growing, projected to keep growing
 
-CFG, the token of the Centrifuge tokenization platform, is growing in the market on two lines at once. A permissionless Centrifuge contract mints about **3% a year** into the Centrifuge treasury — **3.17M CFG** this window, in one mint on **Aug 3 2026** — and the project's own wallets released a further **33.61M CFG** they already held, **16.88M** of it to Grove's strategic stake. Nothing is bought back or burned. That is **36.78M CFG** added against **zero** removed, so the MrNasdog Pressure Framework reads CFG at **+9.67% net** over the last 90 days and **+7.06%** over the next 90, against a supply-monitor reading of **−0.07%** — a gap the monitor cannot close, because its circulating figure has not moved since June. CFG has no supply cap.
+CFG, the token of the Centrifuge tokenization platform, is growing in the market on two lines at once. A permissionless Centrifuge contract mints about **3% a year** into the Centrifuge treasury — **3.17M CFG** this window, in one mint on **Aug 3 2026** — and the project's own wallets released a further **33.61M CFG** they already held, **16.88M** of it to Grove's strategic stake. Nothing is bought back or burned. That is **36.78M CFG** added against **zero** removed, so the MrNasDog Pressure Framework reads CFG at **+9.67% net** over the last 90 days and **+7.06%** over the next 90, against a supply-monitor reading of **−0.07%** — a gap the monitor cannot close, because its circulating figure has not moved since June. CFG has no supply cap.
 
 ## The verdict, in one paragraph
 
@@ -42,8 +42,8 @@ First, **CP172**, the token-to-equity plan that passed its Snapshot vote on **Se
 
 ## Summary
 
-The MrNasdog Pressure Framework reads CFG at **+9.67% net** over the trailing 90 days and **+7.06%** over the next 90, with zero on every buy row. The structural mechanism is a coded Centrifuge mint of about 3% a year into a treasury that spends everything it receives, plus a **116.07M CFG** foundation reserve that feeds that treasury. The key risk is that the reserve spend is discretionary and unscheduled, so the largest line on the page can jump in any quarter — it ranged from about **22M** to **34M CFG** a quarter over the last year. CFG has no supply cap; the one planned change to that is CP172, where the mint stops only after an equity conversion that has no date yet.
+The MrNasDog Pressure Framework reads CFG at **+9.67% net** over the trailing 90 days and **+7.06%** over the next 90, with zero on every buy row. The structural mechanism is a coded Centrifuge mint of about 3% a year into a treasury that spends everything it receives, plus a **116.07M CFG** foundation reserve that feeds that treasury. The key risk is that the reserve spend is discretionary and unscheduled, so the largest line on the page can jump in any quarter — it ranged from about **22M** to **34M CFG** a quarter over the last year. CFG has no supply cap; the one planned change to that is CP172, where the mint stops only after an equity conversion that has no date yet.
 
 ---
 
-*MrNasdog Pressure Framework analysis of CFG, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 18 2026.*
+*MrNasDog Pressure Framework analysis of CFG, Metric 1 — Inflation. Data + explanation only. Not financial advice. Updated Sep 18 2026.*

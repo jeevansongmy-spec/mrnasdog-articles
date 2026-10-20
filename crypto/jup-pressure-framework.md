@@ -12,7 +12,7 @@ This is the long supply read. For the signal, the price drivers and the question
 
 # JUP Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
-The MrNasdog Pressure Framework reads Jupiter (JUP) as roughly steady: supply fell **0.03%** over the last 90 days and is set to stay flat over the next 90. No new JUP can be created, team vesting is paused, and the **3.54B JUP** held in reserve wallets outside the circulating count did not move. The only change was a token-verification fee burn of **948,427 JUP**, while the Litterbox buyback bought **26.73M JUP** and kept it.
+The MrNasDog Pressure Framework reads Jupiter (JUP) as roughly steady: supply fell **0.03%** over the last 90 days and is set to stay flat over the next 90. No new JUP can be created, team vesting is paused, and the **3.54B JUP** held in reserve wallets outside the circulating count did not move. The only change was a token-verification fee burn of **948,427 JUP**, while the Litterbox buyback bought **26.73M JUP** and kept it.
 
 ## The verdict, in one paragraph
 
@@ -56,6 +56,6 @@ First, the next verification-fee burn: about 227K JUP is waiting in the burn wal
 
 ## Summary
 
-The MrNasdog Pressure Framework reads Jupiter (JUP) as roughly steady: **−0.03%** net over the last 90 days and about flat over the next 90, with no mint, paused team vesting and a **948,427 JUP** token-verification fee burn. The Litterbox buyback bought **26.73M JUP** but keeps it in the float, so the buying lifts demand rather than cutting supply. The key risk is the **3.54B JUP** held in reserve wallets that governance could release, including the 700M postponed airdrop. Until the DAO votes to burn the Litterbox or release a reserve, JUP supply stays close to where it is.
+The MrNasDog Pressure Framework reads Jupiter (JUP) as roughly steady: **−0.03%** net over the last 90 days and about flat over the next 90, with no mint, paused team vesting and a **948,427 JUP** token-verification fee burn. The Litterbox buyback bought **26.73M JUP** but keeps it in the float, so the buying lifts demand rather than cutting supply. The key risk is the **3.54B JUP** held in reserve wallets that governance could release, including the 700M postponed airdrop. Until the DAO votes to burn the Litterbox or release a reserve, JUP supply stays close to where it is.
 
-*MrNasdog Pressure Framework analysis of JUP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 11 2026.*
+*MrNasDog Pressure Framework analysis of JUP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 11 2026.*

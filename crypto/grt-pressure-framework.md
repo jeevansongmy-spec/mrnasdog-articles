@@ -66,4 +66,4 @@ GRT, the token of The Graph, is inflationary: supply grew about **1.04%** in the
 
 ---
 
-*MrNasdog Pressure Framework analysis of GRT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*
+*MrNasDog Pressure Framework analysis of GRT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*

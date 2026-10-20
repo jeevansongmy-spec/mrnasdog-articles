@@ -12,7 +12,7 @@ Originally published at [XPL Inflation Analysis · October 2026 · Supply growin
 <!-- main-page -->
 **Main page:** the full XPL coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/xpl](https://mrnasdog.com/research/xpl)
 
-The MrNasdog Pressure Framework reads Plasma (XPL) as strongly inflationary: circulating XPL grew **+42.65%** over the last 90 days and is set to grow another **+15.07%** over the next 90. Almost all of it is vesting. The one-year team and investor cliff on Sep 25 2026 released **1.67B XPL**, the ecosystem pool added **266.7M XPL** in three monthly tranches, and from Oct 25 2026 a tranche of **227.8M XPL** unlocks on the 25th of every month until Sep 25 2028. Nothing on the buy side offsets it: there is no buyback, and the base-fee burn removed only about **15 XPL**.
+The MrNasDog Pressure Framework reads Plasma (XPL) as strongly inflationary: circulating XPL grew **+42.65%** over the last 90 days and is set to grow another **+15.07%** over the next 90. Almost all of it is vesting. The one-year team and investor cliff on Sep 25 2026 released **1.67B XPL**, the ecosystem pool added **266.7M XPL** in three monthly tranches, and from Oct 25 2026 a tranche of **227.8M XPL** unlocks on the 25th of every month until Sep 25 2028. Nothing on the buy side offsets it: there is no buyback, and the base-fee burn removed only about **15 XPL**.
 
 ## The verdict, in one paragraph
 
@@ -64,4 +64,4 @@ The practical difference is timing. Most of XPL's dilution is fixed in a calenda
 
 Plasma (XPL) is inflationary by schedule: circulating supply grew **+42.65%** in the 90 days to Oct 19 2026, driven by the **1.67B XPL** team and investor cliff on Sep 25 2026, and is set to grow **+15.07%** in the next 90 days as **227.8M XPL** unlocks every month. There is no buyback, the EIP-1559 fee burn is close to zero, and validator issuance has not started. The key risk is that monthly tranches keep landing until Sep 25 2028 while the fee burn stays too small to absorb any of them; staking delegation would add new issuance on top. The only ceiling is the calendar itself: **5.47B XPL** is still locked, and none of it is scheduled to stop.
 
-*MrNasdog Pressure Framework analysis of XPL, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*
+*MrNasDog Pressure Framework analysis of XPL, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*

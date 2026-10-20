@@ -60,4 +60,4 @@ PYTH is flat on supply: **0.00%** net over the last 90 days and the next 90, wit
 
 ---
 
-*MrNasdog Pressure Framework analysis of PYTH, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 17 2026.*
+*MrNasDog Pressure Framework analysis of PYTH, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 17 2026.*

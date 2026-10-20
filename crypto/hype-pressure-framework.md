@@ -17,7 +17,7 @@ HYPE supply is growing even with one of crypto's largest buybacks running every 
 
 ## The verdict, in one paragraph
 
-The MrNasdog Pressure Framework reads HYPE at **+1.38%** net supply growth over the last 90 days and **+1.41%** for the next 90, measured against **222.45M HYPE** in circulation. The inflation monitor reads **+0.00%**, a gap of **1.38 percentage points**, which is over our 0.5-point line, so the page carries a warning chip. We walked every source and the gap does not close: the circulating figure the monitor reads has stayed at 222.45M HYPE every single day since May 27 2026, so it cannot show any new coins at all. On-chain, the team wallet, the staking reward reserve and the buyback fund all moved by millions of HYPE in the window. Our reading stays. In one line: HYPE is a buyback coin whose team payouts now outrun the buyback.
+The MrNasDog Pressure Framework reads HYPE at **+1.38%** net supply growth over the last 90 days and **+1.41%** for the next 90, measured against **222.45M HYPE** in circulation. The inflation monitor reads **+0.00%**, a gap of **1.38 percentage points**, which is over our 0.5-point line, so the page carries a warning chip. We walked every source and the gap does not close: the circulating figure the monitor reads has stayed at 222.45M HYPE every single day since May 27 2026, so it cannot show any new coins at all. On-chain, the team wallet, the staking reward reserve and the buyback fund all moved by millions of HYPE in the window. Our reading stays. In one line: HYPE is a buyback coin whose team payouts now outrun the buyback.
 
 ## Sell pressure: where new HYPE comes from
 
@@ -59,4 +59,4 @@ HYPE supply grew **+1.38%** over the 90 days to Oct 11 2026 and is projected at 
 
 ---
 
-*MrNasdog Pressure Framework analysis of HYPE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 11 2026.*
+*MrNasDog Pressure Framework analysis of HYPE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 11 2026.*

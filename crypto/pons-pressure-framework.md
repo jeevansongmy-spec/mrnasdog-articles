@@ -66,4 +66,4 @@ PONS is a fixed-supply launchpad token: no new PONS can be created, and nothing 
 
 ---
 
-*MrNasdog Pressure Framework analysis of PONS, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 14 2026.*
+*MrNasDog Pressure Framework analysis of PONS, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 14 2026.*

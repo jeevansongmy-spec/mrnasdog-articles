@@ -5,7 +5,7 @@ canonical_url: "https://mrnasdog.com/research/bsv/inflation"
 tags: ["crypto", "bsv", "bitcoin-sv", "proof-of-work"]
 published: true
 ---
-> Originally published at **[mrnasdog.com/research/bsv/inflation](https://mrnasdog.com/research/bsv/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/bsv/inflation](https://mrnasdog.com/research/bsv/inflation)** by MrNasDog.
 
 <!-- main-page -->
 ➜ Start with the Bitcoin SV coin page for the short answer (should you buy BSV?) and its price drivers: [mrnasdog.com/research/bsv](https://mrnasdog.com/research/bsv)
@@ -66,4 +66,4 @@ Bitcoin SV adds about **0.20%** to its supply every 90 days, all of it from the 
 
 ---
 
-*MrNasdog Pressure Framework analysis of BSV, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 18 2026.*
+*MrNasDog Pressure Framework analysis of BSV, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 18 2026.*

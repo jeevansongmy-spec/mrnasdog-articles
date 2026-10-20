@@ -12,7 +12,7 @@ published:     true
 
 # ETH Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
-ETH supply is growing slowly and steadily. Over the 90 days to Oct 10 2026, Ethereum paid validators **263,305 ETH** of new issuance and its EIP-1559 fee burn destroyed **4,661 ETH**, so net supply rose **+0.21%**, and the MrNasdog Pressure Framework projects about **+0.21%** for the next 90 days. Staking drives the number: the bigger the stake, the more new ETH the protocol creates, and nothing caps the total.
+ETH supply is growing slowly and steadily. Over the 90 days to Oct 10 2026, Ethereum paid validators **263,305 ETH** of new issuance and its EIP-1559 fee burn destroyed **4,661 ETH**, so net supply rose **+0.21%**, and the MrNasDog Pressure Framework projects about **+0.21%** for the next 90 days. Staking drives the number: the bigger the stake, the more new ETH the protocol creates, and nothing caps the total.
 
 ## The verdict, in one paragraph
 
@@ -62,8 +62,8 @@ The one way ETH supply could shrink again is a much busier main chain. In 2022 a
 
 ## Summary
 
-The MrNasdog Pressure Framework reads Ethereum (ETH) at **+0.21% net** over the last 90 days and the next 90: **263,305 ETH** of validator issuance against a **4,661 ETH** EIP-1559 fee burn, with no vesting, no unlocks, no buyback and no supply cap. Issuance rises with the stake, which is still growing with 1.37M ETH in the queue, while the burn depends on how busy the main chain is. The key risk is that issuance keeps climbing while the burn stays small; the upside case is a busier chain after Glamsterdam that burns more. Until the burn catches up or Ethereum changes how validators are paid, ETH supply keeps growing slowly.
+The MrNasDog Pressure Framework reads Ethereum (ETH) at **+0.21% net** over the last 90 days and the next 90: **263,305 ETH** of validator issuance against a **4,661 ETH** EIP-1559 fee burn, with no vesting, no unlocks, no buyback and no supply cap. Issuance rises with the stake, which is still growing with 1.37M ETH in the queue, while the burn depends on how busy the main chain is. The key risk is that issuance keeps climbing while the burn stays small; the upside case is a busier chain after Glamsterdam that burns more. Until the burn catches up or Ethereum changes how validators are paid, ETH supply keeps growing slowly.
 
 ---
 
-*MrNasdog Pressure Framework analysis of ETH, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 10 2026.*
+*MrNasDog Pressure Framework analysis of ETH, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 10 2026.*

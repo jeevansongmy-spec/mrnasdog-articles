@@ -59,4 +59,4 @@ ICP supply grew **+0.50%** in the 90 days to Oct 14 2026 and should grow about *
 
 ---
 
-*MrNasdog Pressure Framework analysis of ICP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 14 2026.*
+*MrNasDog Pressure Framework analysis of ICP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 14 2026.*

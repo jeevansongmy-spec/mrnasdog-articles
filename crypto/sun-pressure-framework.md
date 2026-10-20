@@ -62,4 +62,4 @@ Against exchange tokens that burn a fixed share of exchange profit, SUN's buybac
 
 SUN is mildly deflationary: its supply fell **0.05%** in the 90 days to Oct 19 2026, as a quarterly revenue buyback burned **9.03M SUN** and nothing new was created. The supply is capped by code at **19.90B SUN**, **678.55M** of it already burned, and the next burn of about **8.41M SUN** is due around Oct 25 2026. The key risk is concentration, not inflation: eight wallets hold about three quarters of all SUN, and a sale from them would outweigh years of burns.
 
-*MrNasdog Pressure Framework analysis of SUN, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*
+*MrNasDog Pressure Framework analysis of SUN, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*

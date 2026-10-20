@@ -66,4 +66,4 @@ Venice Token (VVV) is inflationary: its free float grew **+2.98%** in the 90 day
 
 ---
 
-*MrNasdog Pressure Framework analysis of VVV, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.*
+*MrNasDog Pressure Framework analysis of VVV, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.*

@@ -12,7 +12,7 @@ published:     true
 <!-- main-page -->
 ➜ Start with the OKB coin page for the short answer (should you buy OKB?) and its price drivers: [mrnasdog.com/research/okb](https://mrnasdog.com/research/okb)
 
-The MrNasdog Pressure Framework reads OKB, the gas token of OKX's X Layer network, as **flat at 0.00%** over the last 90 days and the next 90: **0 OKB** of new supply against **0 OKB** removed, with **21M OKB** in circulation and all of it unlocked. OKX fixed the OKB supply at 21 million in August 2025, after a one-time burn of **65.26M OKB**, and removed the mint function from the token contract. Since then nothing adds OKB and nothing takes it away: there is no block reward, no vesting, no buyback and no fee burn. The inflation monitor agrees at **+0.01%**.
+The MrNasDog Pressure Framework reads OKB, the gas token of OKX's X Layer network, as **flat at 0.00%** over the last 90 days and the next 90: **0 OKB** of new supply against **0 OKB** removed, with **21M OKB** in circulation and all of it unlocked. OKX fixed the OKB supply at 21 million in August 2025, after a one-time burn of **65.26M OKB**, and removed the mint function from the token contract. Since then nothing adds OKB and nothing takes it away: there is no block reward, no vesting, no buyback and no fee burn. The inflation monitor agrees at **+0.01%**.
 
 ## The verdict, in one paragraph
 
@@ -56,4 +56,4 @@ OKB supply is flat: **0.00%** net over the last 90 days and the next 90, with **
 
 ---
 
-*MrNasdog Pressure Framework analysis of OKB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 11 2026.*
+*MrNasDog Pressure Framework analysis of OKB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 11 2026.*

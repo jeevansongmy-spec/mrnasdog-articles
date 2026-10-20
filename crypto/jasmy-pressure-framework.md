@@ -16,7 +16,7 @@ JasmyCoin (JASMY) supply is **flat**: in the 90 days to Oct 10 2026 no new JASMY
 
 ## The verdict, in one paragraph
 
-The MrNasdog Pressure Framework puts JASMY supply at **0.00%** over the last 90 days and **0.00%** over the next 90 days. Our monitor, which tracks circulating supply day by day, also reads **0.00%** for the same window, so the gap is **0.00 percentage points** — well inside our 0.5-point limit, and no warning chip is needed. Sell pressure was **0 JASMY** and buy pressure was **0 JASMY**. In one line: JasmyCoin is a **fully minted, fixed-cap token with no emission and no burn**, and the only supply risk is one dormant wallet.
+The MrNasDog Pressure Framework puts JASMY supply at **0.00%** over the last 90 days and **0.00%** over the next 90 days. Our monitor, which tracks circulating supply day by day, also reads **0.00%** for the same window, so the gap is **0.00 percentage points** — well inside our 0.5-point limit, and no warning chip is needed. Sell pressure was **0 JASMY** and buy pressure was **0 JASMY**. In one line: JasmyCoin is a **fully minted, fixed-cap token with no emission and no burn**, and the only supply risk is one dormant wallet.
 
 ## Sell pressure: where new JASMY comes from
 
@@ -64,4 +64,4 @@ JasmyChain and its launchpad: any new rule that destroys JASMY in real size, or 
 
 JasmyCoin (JASMY) supply was flat over the 90 days to Oct 10 2026: **0 JASMY** created, **0 JASMY** burned, net **0.00%**, with the monitor in agreement. The structure is a fixed 50B cap with no mint function, no vesting left, no burn and no buyback. The key risk is the dormant issuer wallet holding **555.0M JASMY**, about 1.1% of supply, which has no release schedule. The ceiling is hard: JASMY supply can never pass 50B.
 
-*MrNasdog Pressure Framework analysis of JASMY, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 10 2026.*
+*MrNasDog Pressure Framework analysis of JASMY, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 10 2026.*

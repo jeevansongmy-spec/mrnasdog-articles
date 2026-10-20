@@ -66,4 +66,4 @@ Compared with hard-capped coins like Bitcoin, which still issue new coins until 
 
 BNB's supply is shrinking: no new BNB is created on BNB Smart Chain, and in the 90 days to Oct 10 2026 the quarterly Auto-Burn and the fee burn destroyed 1.62M BNB, a net change of **−1.22%**, with **−1.24%** projected next as the 37th Auto-Burn lands around Oct 15 2026. The main risk to this reading is a change to the burn rules or a smaller burn when the BNB price is high. The ceiling on the mechanism is the 100M BNB floor, about 33.16M BNB below today's supply, after which only the fee burn would keep supply falling.
 
-*MrNasdog Pressure Framework analysis of BNB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 10 2026.*
+*MrNasDog Pressure Framework analysis of BNB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 10 2026.*

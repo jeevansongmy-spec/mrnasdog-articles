@@ -58,4 +58,4 @@ The 100M Foundation Safe and the 166M Safe that has never moved: any first outfl
 
 PIEVERSE is inflationary on its tradable float: **24.75M PIEVERSE** left team Safes in the last 90 days for a net of **+9.01%**, and with the team and investor lock ending on Nov 14 2026 we expect about **66.25M**, or **+24.11%**, in the next 90 days. Nothing on the buy side offsets it: no buyback, no burn, and staking only moves coins that already circulate. The total is capped at 1B, but the owner keys can still mint up to that cap, and about 71% of the supply is still waiting in team hands.
 
-*MrNasdog Pressure Framework analysis of PIEVERSE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 18 2026.*
+*MrNasDog Pressure Framework analysis of PIEVERSE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 18 2026.*

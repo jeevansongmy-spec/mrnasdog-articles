@@ -1,4 +1,4 @@
-# Token true inflation — free dataset by MrNasdog
+# Token true inflation — free dataset by MrNasDog
 
 `true-inflation.csv` — the **true inflation** of every free coin we research on [mrnasdog.com](https://mrnasdog.com/token-supply): new coins made or unlocked, minus coins burned or bought back, as a % of the coins in circulation. Updated every day.
 

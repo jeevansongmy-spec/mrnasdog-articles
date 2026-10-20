@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Distribution check — is every public MrNasdog page mirrored, and is every mirror current?
+Distribution check — is every public MrNasDog page mirrored, and is every mirror current?
 
 WHY (Sep 18 2026): the release steps lived in four documents and nothing checked
 them. Five coin articles went stale on GitHub + Dev.to after a hub rebuild, six

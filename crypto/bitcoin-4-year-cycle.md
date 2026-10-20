@@ -1,12 +1,12 @@
 ---
-title: "Is Bitcoin's Price Predictable? The MrNasdog Bitcoin Framework"
+title: "Is Bitcoin's Price Predictable? The MrNasDog Bitcoin Framework"
 description: "One median price per half-year reveals the same Quiet → Pump → Drop → Recover shape in every Bitcoin cycle since 2012 — and three patterns that read the cycle high and low."
 canonical_url: "https://mrnasdog.com/research/bitcoin-4-year-cycle"
 tags: ["bitcoin", "crypto", "investing", "trading"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/research/bitcoin-4-year-cycle](https://mrnasdog.com/research/bitcoin-4-year-cycle)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/bitcoin-4-year-cycle](https://mrnasdog.com/research/bitcoin-4-year-cycle)** by MrNasDog.
 
 I built this framework in 2019. It's how I bought Bitcoin near its bottoms — around **$3,400** at the 2018–19 low, and again near **$17,000** in 2023 — and caught the recovery each time. Here's the full mechanism, and how it reads where the price is heading.
 
@@ -44,4 +44,4 @@ Cycle 4's pump base is **$65,670** (2024 H2). The 2026 H1 median is **$73,054** 
 
 ---
 
-*The MrNasdog Bitcoin Framework is my own original work, read from a daily Bitcoin price record kept since 2013. It shows how I think about Bitcoin — a personal method, not financial advice.*
+*The MrNasDog Bitcoin Framework is my own original work, read from a daily Bitcoin price record kept since 2013. It shows how I think about Bitcoin — a personal method, not financial advice.*

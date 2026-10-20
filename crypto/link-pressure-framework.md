@@ -5,14 +5,14 @@ canonical_url: "https://mrnasdog.com/research/link/inflation"
 tags: ["crypto", "link", "chainlink", "oracles"]
 published: true
 ---
-> Originally published at **[mrnasdog.com/research/link/inflation](https://mrnasdog.com/research/link/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/link/inflation](https://mrnasdog.com/research/link/inflation)** by MrNasDog.
 
 # LINK Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
 <!-- main-page -->
 Looking for the buy-or-sell answer? It is on the LINK coin page, with demand and price drivers: [mrnasdog.com/research/link](https://mrnasdog.com/research/link)
 
-The MrNasdog Pressure Framework reads Chainlink (LINK) as inflationary: **18.75M LINK** left the project's own wallets in the last 90 days, nothing was burned, and circulating supply grew **+2.45%**. LINK has a fixed cap of **1B** coins and no mining or staking issuance, so all new supply comes from the **233.15M LINK** the project still holds back and releases at about 7% of supply a year. The next step, about **11.25M LINK** expected in December 2026, puts the next 90 days at **+1.47%**.
+The MrNasDog Pressure Framework reads Chainlink (LINK) as inflationary: **18.75M LINK** left the project's own wallets in the last 90 days, nothing was burned, and circulating supply grew **+2.45%**. LINK has a fixed cap of **1B** coins and no mining or staking issuance, so all new supply comes from the **233.15M LINK** the project still holds back and releases at about 7% of supply a year. The next step, about **11.25M LINK** expected in December 2026, puts the next 90 days at **+1.47%**.
 
 ## The verdict, in one paragraph
 
@@ -68,4 +68,4 @@ Chainlink (LINK) is a fixed-cap token, 1B coins with no mining and no burn, whos
 
 ---
 
-*MrNasdog Pressure Framework analysis of LINK, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 11 2026.*
+*MrNasDog Pressure Framework analysis of LINK, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 11 2026.*

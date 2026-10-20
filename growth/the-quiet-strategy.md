@@ -6,7 +6,7 @@ tags: ["ai", "strategy", "career", "frameworks"]
 published: true
 ---
 
-> Originally published at **[mrnasdoggrowth.com](https://mrnasdoggrowth.com/thinking/the-quiet-strategy)** by MrNasdog.
+> Originally published at **[mrnasdoggrowth.com](https://mrnasdoggrowth.com/thinking/the-quiet-strategy)** by MrNasDog.
 
 Most of what's being written about AI right now is loud.
 

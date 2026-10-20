@@ -16,7 +16,7 @@ Official Trump (**TRUMP**) is inflationary on its tradable float even though no 
 
 ## The verdict, in one paragraph
 
-The MrNasdog Pressure Framework reads TRUMP at **+15.77%** net supply over the last 90 days and **+15.77%** projected for the next 90. Our supply monitor reads **+18.67%**, a gap of **2.90 percentage points**, which is above our 0.5-point line, so we walked every source again. The gap closed: both readings see the same coins leaving the same team vault in July, August and September, and the difference comes only from the starting point. The monitor divides the new coins by the float of 90 days ago (about **237.1M**), while we divide by today's float of **281.87M**. No warning chip ships. In one line: TRUMP is a fixed-supply meme coin that is inflationary by team unlock, not by code.
+The MrNasDog Pressure Framework reads TRUMP at **+15.77%** net supply over the last 90 days and **+15.77%** projected for the next 90. Our supply monitor reads **+18.67%**, a gap of **2.90 percentage points**, which is above our 0.5-point line, so we walked every source again. The gap closed: both readings see the same coins leaving the same team vault in July, August and September, and the difference comes only from the starting point. The monitor divides the new coins by the float of 90 days ago (about **237.1M**), while we divide by today's float of **281.87M**. No warning chip ships. In one line: TRUMP is a fixed-supply meme coin that is inflationary by team unlock, not by code.
 
 ## Sell pressure: where new TRUMP comes from
 
@@ -60,4 +60,4 @@ TRUMP, the Official Trump meme coin on Solana, cannot mint a single new coin, bu
 
 ---
 
-*MrNasdog Pressure Framework analysis of TRUMP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 17 2026.*
+*MrNasDog Pressure Framework analysis of TRUMP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 17 2026.*

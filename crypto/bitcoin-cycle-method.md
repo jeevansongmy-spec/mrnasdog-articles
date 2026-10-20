@@ -1,14 +1,14 @@
 ---
-title: "The MrNasdog Bitcoin Framework — Full Method (Three Findings)"
+title: "The MrNasDog Bitcoin Framework — Full Method (Three Findings)"
 description: "The full method: half-year median prices, the four phases, and the three patterns that predict Bitcoin's cycle high and low — proven with the exact numbers from every cycle since 2012."
 canonical_url: "https://mrnasdog.com/research/bitcoin-cycle-method"
 tags: ["bitcoin", "crypto", "analysis", "data"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/research/bitcoin-cycle-method](https://mrnasdog.com/research/bitcoin-cycle-method)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/bitcoin-cycle-method](https://mrnasdog.com/research/bitcoin-cycle-method)** by MrNasDog.
 
-The MrNasdog Bitcoin Framework reads Bitcoin's four-year cycle from one number per half-year: the **median price** of each six months (H1 = Jan–Jun, H2 = Jul–Dec). Eight half-years make one cycle (Cycle 1 = 2012–2015, Cycle 2 = 2016–2019, Cycle 3 = 2020–2023, Cycle 4 = 2024–2027). Below are the three findings, each stated in plain language and proven with the exact numbers — no chart required.
+The MrNasDog Bitcoin Framework reads Bitcoin's four-year cycle from one number per half-year: the **median price** of each six months (H1 = Jan–Jun, H2 = Jul–Dec). Eight half-years make one cycle (Cycle 1 = 2012–2015, Cycle 2 = 2016–2019, Cycle 3 = 2020–2023, Cycle 4 = 2024–2027). Below are the three findings, each stated in plain language and proven with the exact numbers — no chart required.
 
 ## Finding 1 — Bitcoin always moves through the same four price-phases, in order
 
@@ -55,4 +55,4 @@ By Finding 3, Cycle 4's Drop should not close a half-year below its pump base of
 
 ---
 
-*The MrNasdog Bitcoin Framework, built from MrNasdog's own daily Bitcoin price record since 2013. A personal research method, not financial advice. 2012 figures are approximate; 2026 H2 onward are forward reads.*
+*The MrNasDog Bitcoin Framework, built from MrNasDog's own daily Bitcoin price record since 2013. A personal research method, not financial advice. 2012 figures are approximate; 2026 H2 onward are forward reads.*

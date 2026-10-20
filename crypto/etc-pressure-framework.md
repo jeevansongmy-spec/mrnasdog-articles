@@ -56,4 +56,4 @@ Against **Ethereum (ETH)**, the chain it split from in 2016, ETC is the opposite
 
 Ethereum Classic (ETC) grows its supply only through the proof-of-work mining reward: **960,257 ETC** in the last 90 days, **+0.60%**, and about **942,365 ETC**, **+0.59%**, in the next 90 days after the Jul 22 2026 reward cut. Nothing is burned, bought back, staked or vested, so every new coin goes to miners who can sell it. The main risk is steady miner selling with no buyer built into the protocol. The ceiling is the ECIP-1017 schedule, which cuts the reward 20% every 5M blocks toward a cap of about 210.7M ETC.
 
-*MrNasdog Pressure Framework analysis of ETC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 14 2026.*
+*MrNasDog Pressure Framework analysis of ETC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 14 2026.*

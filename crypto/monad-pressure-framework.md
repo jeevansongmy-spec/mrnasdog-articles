@@ -68,4 +68,4 @@ What sets MON apart is the size of its first unlock against its float. Many youn
 
 Monad (MON) is inflationary: **+3.33%** net over the last 90 days from staking rewards and Foundation payouts, with a fee burn of only **36.5M MON** against them. The next 90 days read about **+142.72%**, because the Nov 24 2026 unlock releases about 15.62B team and investor MON into a float of 11.83B, followed by about 862.5M MON every month until late 2029. The key risk is that newly unlocked holders sell; the only buyers on the supply side today are a small burn and an undisclosed company buyback. MON has no supply cap, so issuance continues after every unlock is done.
 
-*MrNasdog Pressure Framework analysis of MON, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*
+*MrNasDog Pressure Framework analysis of MON, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*

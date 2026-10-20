@@ -5,7 +5,7 @@ canonical_url: "https://mrnasdog.com/research/pol/inflation"
 tags:          ["crypto", "pol", "polygon", "layer2"]
 published:     true
 ---
-> Originally published at **[mrnasdog.com/research/pol/inflation](https://mrnasdog.com/research/pol/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/pol/inflation](https://mrnasdog.com/research/pol/inflation)** by MrNasDog.
 
 <!-- main-page -->
 The Polygon coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/pol](https://mrnasdog.com/research/pol). Below: supply, line by line.
@@ -60,4 +60,4 @@ POL is a mixed-flows coin with supply roughly steady: Polygon mints new POL at 2
 
 ---
 
-*MrNasdog Pressure Framework analysis of POL, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.*
+*MrNasDog Pressure Framework analysis of POL, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 15 2026.*

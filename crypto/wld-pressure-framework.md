@@ -16,7 +16,7 @@ The World coin page has the score, the price drivers and every question answered
 
 ## The verdict, in one paragraph
 
-The MrNasdog Pressure Framework puts WLD at **+8.87% net over the last 90 days** and **+8.73% over the next 90**. The inflation monitor reads **+7.80%**, a gap of **1.07 percentage points**. That is above our 0.5-point line, so we walked every source class again. The walk found the reason: the monitor's starting point, Jul 11 2026, still uses a supply figure 64.9M WLD higher than World's own, later-corrected count for that day, because its upstream supply series was stepped down on Sep 14 2026 without rewriting older days. On the corrected series the two readings agree, so no warning chip is shown. In one line: **WLD is a fixed-cap token that still inflates its float by about 9% a quarter, through unlocks and Foundation releases, with no buyback or burn to absorb them**.
+The MrNasDog Pressure Framework puts WLD at **+8.87% net over the last 90 days** and **+8.73% over the next 90**. The inflation monitor reads **+7.80%**, a gap of **1.07 percentage points**. That is above our 0.5-point line, so we walked every source class again. The walk found the reason: the monitor's starting point, Jul 11 2026, still uses a supply figure 64.9M WLD higher than World's own, later-corrected count for that day, because its upstream supply series was stepped down on Sep 14 2026 without rewriting older days. On the corrected series the two readings agree, so no warning chip is shown. In one line: **WLD is a fixed-cap token that still inflates its float by about 9% a quarter, through unlocks and Foundation releases, with no buyback or burn to absorb them**.
 
 ## Sell pressure: where new WLD comes from
 
@@ -60,4 +60,4 @@ WLD cannot be minted before Jul 24 2038, yet its circulating supply grew **8.87%
 
 ---
 
-*MrNasdog Pressure Framework analysis of WLD, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 14 2026.*
+*MrNasDog Pressure Framework analysis of WLD, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 14 2026.*

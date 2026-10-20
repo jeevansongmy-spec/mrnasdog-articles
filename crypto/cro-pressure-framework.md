@@ -60,4 +60,4 @@ The 100B CRO cap is real and written into the chain, so CRO cannot grow without 
 
 CRO supply grew **+6.99%** in the 90 days to Oct 13 2026 and is projected to grow **+7.38%** in the next 90, because the 70B Cronos Strategic Reserve releases 1.17B CRO every month until March 2030. Staking adds a smaller and shrinking amount, and a rare community vote burned 228.0M CRO on Oct 3 2026. The key risk is the 49.0B CRO still locked in the reserve, which keeps arriving on a fixed timetable. The 100B CRO cap sets the ceiling, but until a revenue buyback grows large, unlocks will set the pace.
 
-*MrNasdog Pressure Framework analysis of CRO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 13 2026.*
+*MrNasDog Pressure Framework analysis of CRO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 13 2026.*

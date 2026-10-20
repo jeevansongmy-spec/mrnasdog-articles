@@ -62,4 +62,4 @@ Against Ethereum, the shape is similar — new coins for stakers, part of the ac
 
 INJ supply grew about **+0.79%** in the 90 days to Oct 16 2026 and is projected to grow about **+0.82%** in the next 90 days. Injective mints new INJ for stakers at the 4.4% ceiling — **1,092,975 INJ** in 90 days — while the monthly Community BuyBack burned **81,846 INJ**. With vesting finished and no hard cap, the key risk is that staking stays below 60% and the burn stays small next to the mint; the ceiling on new supply is the 4.4% yearly rate.
 
-*MrNasdog Pressure Framework analysis of INJ, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 16 2026.*
+*MrNasDog Pressure Framework analysis of INJ, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 16 2026.*

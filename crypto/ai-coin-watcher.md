@@ -6,7 +6,7 @@ tags: ["api", "ai", "crypto", "webdev"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/analysis/ai-coin-watcher](https://mrnasdog.com/analysis/ai-coin-watcher)** by MrNasdog.
+> Originally published at **[mrnasdog.com/analysis/ai-coin-watcher](https://mrnasdog.com/analysis/ai-coin-watcher)** by MrNasDog.
 
 I opened my research to your own AI. Copy one instruction from your profile, paste it into Claude or ChatGPT, and it watches your coins every morning.
 

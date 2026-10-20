@@ -64,4 +64,4 @@ PENDLE's tradable supply grew **+1.42%** in the 90 days to Oct 18 2026 and is pr
 
 ---
 
-*MrNasdog Pressure Framework analysis of PENDLE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 18 2026.*
+*MrNasDog Pressure Framework analysis of PENDLE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 18 2026.*

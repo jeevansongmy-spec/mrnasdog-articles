@@ -5,7 +5,7 @@ canonical_url: "https://mrnasdog.com/research/ray/inflation"
 tags: ["crypto", "ray", "raydium", "defi"]
 published: true
 ---
-> Originally published at **[mrnasdog.com/research/ray/inflation](https://mrnasdog.com/research/ray/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/ray/inflation](https://mrnasdog.com/research/ray/inflation)** by MrNasDog.
 
 <!-- main-page -->
 This is the long supply read. For the signal, the price drivers and the questions people ask about Raydium, see [mrnasdog.com/research/ray](https://mrnasdog.com/research/ray).
@@ -16,7 +16,7 @@ RAY supply is roughly steady. Over the 90 days to Oct 11 2026, Raydium released 
 
 ## The verdict, in one paragraph
 
-The MrNasdog Pressure Framework reads RAY at **+0.19%** net new supply over the last 90 days (525,000 RAY sold into the float against 0 RAY taken out, on **269.86M RAY** circulating), and projects the same **+0.19%** for the next 90 days. The inflation monitor, which reads the same circulating figure every day, shows **+0.32%**. The gap is **0.13** percentage points, inside our 0.5-point tolerance, so no warning chip is shown. Part of the monitor's extra comes from one small step of about 25,000 RAY on Aug 26 2026 that we could not tie to any wallet, and part is rounding in its reading. In one line: RAY is a capped token with a small reward drip and a large buyback that hoards rather than burns.
+The MrNasDog Pressure Framework reads RAY at **+0.19%** net new supply over the last 90 days (525,000 RAY sold into the float against 0 RAY taken out, on **269.86M RAY** circulating), and projects the same **+0.19%** for the next 90 days. The inflation monitor, which reads the same circulating figure every day, shows **+0.32%**. The gap is **0.13** percentage points, inside our 0.5-point tolerance, so no warning chip is shown. Part of the monitor's extra comes from one small step of about 25,000 RAY on Aug 26 2026 that we could not tie to any wallet, and part is rounding in its reading. In one line: RAY is a capped token with a small reward drip and a large buyback that hoards rather than burns.
 
 ## Sell pressure: where new RAY comes from
 
@@ -52,4 +52,4 @@ RAY, the token of the Raydium exchange on Solana, grew its circulating supply by
 
 ---
 
-*MrNasdog Pressure Framework analysis of RAY, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 11 2026.*
+*MrNasDog Pressure Framework analysis of RAY, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 11 2026.*

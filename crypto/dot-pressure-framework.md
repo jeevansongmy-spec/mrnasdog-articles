@@ -5,7 +5,7 @@ canonical_url: "https://mrnasdog.com/research/dot/inflation"
 tags:          ["crypto", "dot", "polkadot", "layer0"]
 published:     true
 ---
-> Originally published at **[mrnasdog.com/research/dot/inflation](https://mrnasdog.com/research/dot/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/dot/inflation](https://mrnasdog.com/research/dot/inflation)** by MrNasDog.
 
 <!-- main-page -->
 ➜ Start with the Polkadot coin page for the short answer (should you buy DOT?) and its price drivers: [mrnasdog.com/research/dot](https://mrnasdog.com/research/dot)
@@ -54,4 +54,4 @@ No dated supply event falls inside the next 90 days: the mint continues at about
 
 Polkadot's DOT supply grew **+0.81%** in the 90 days to Oct 13 2026, from **13.78M DOT** of new issuance and almost no burn, and the same **+0.81%** is projected for the next 90 days. The mint is fixed by a stepped curve that pays about 55.9M DOT a year until Mar 14 2028 and aims at a hard cap of 2.1B DOT. The main risk is that nothing offsets it: fees and part of each mint now go to a governance pool rather than being burned, and the Treasury and pool together hold about 27M DOT that votes can spend. The cap and the two-yearly cuts mean the flow only gets smaller from here.
 
-*MrNasdog Pressure Framework analysis of DOT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 13 2026.*
+*MrNasDog Pressure Framework analysis of DOT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 13 2026.*

@@ -6,7 +6,7 @@ tags: ["crypto", "solana", "defi", "investing"]
 published: true
 ---
 
-> Originally published at **[mrnasdog.com/analysis/why-i-bought-pump](https://mrnasdog.com/analysis/why-i-bought-pump)** by MrNasdog.
+> Originally published at **[mrnasdog.com/analysis/why-i-bought-pump](https://mrnasdog.com/analysis/why-i-bought-pump)** by MrNasDog.
 
 *(This is my own view, not financial advice. I could be wrong.)*
 
@@ -73,6 +73,6 @@ PUMP still has inflation, because of the unlock (more on that below). But a burn
 
 ---
 
-**The rest of this analysis is for MrNasdog members:** Reason 2 (the memecoin leader), Reason 3 (always first), the two risks with the unlock chart, and what I plan to do. Read it at **[mrnasdog.com/analysis/why-i-bought-pump](https://mrnasdog.com/analysis/why-i-bought-pump)**.
+**The rest of this analysis is for MrNasDog members:** Reason 2 (the memecoin leader), Reason 3 (always first), the two risks with the unlock chart, and what I plan to do. Read it at **[mrnasdog.com/analysis/why-i-bought-pump](https://mrnasdog.com/analysis/why-i-bought-pump)**.
 
 *This is my own view, not financial advice. I could be wrong.*

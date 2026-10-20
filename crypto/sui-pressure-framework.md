@@ -5,7 +5,7 @@ canonical_url: "https://mrnasdog.com/research/sui/inflation"
 tags: ["crypto", "sui", "layer1", "vesting"]
 published: true
 ---
-> Originally published at **[mrnasdog.com/research/sui/inflation](https://mrnasdog.com/research/sui/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/sui/inflation](https://mrnasdog.com/research/sui/inflation)** by MrNasDog.
 
 # SUI Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
@@ -63,4 +63,4 @@ SUI is a capped coin whose tradable supply grows by about **+1.60%** every 90 da
 
 ---
 
-*MrNasdog Pressure Framework analysis of SUI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 12 2026.*
+*MrNasDog Pressure Framework analysis of SUI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 12 2026.*

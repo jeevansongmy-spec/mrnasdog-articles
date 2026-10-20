@@ -5,7 +5,7 @@ canonical_url: "https://mrnasdog.com/research/pump/inflation"
 tags: ["crypto", "pump", "pumpfun", "solana"]
 published: true
 ---
-> Originally published at **[mrnasdog.com/research/pump/inflation](https://mrnasdog.com/research/pump/inflation)** by MrNasdog.
+> Originally published at **[mrnasdog.com/research/pump/inflation](https://mrnasdog.com/research/pump/inflation)** by MrNasDog.
 
 <!-- main-page -->
 Looking for the buy-or-sell answer? It is on the PUMP coin page, with demand and price drivers: [mrnasdog.com/research/pump](https://mrnasdog.com/research/pump)
@@ -60,4 +60,4 @@ PUMP's supply grew **+13.42%** in the 90 days to Oct 13 2026, because **83.38B P
 
 ---
 
-*MrNasdog Pressure Framework analysis of PUMP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 13 2026.*
+*MrNasDog Pressure Framework analysis of PUMP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 13 2026.*
