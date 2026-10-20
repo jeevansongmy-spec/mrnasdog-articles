@@ -1,6 +1,6 @@
 ---
 title:         "FORM Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description: "FORM supply is roughly steady: no coins printed, 20.5K paid from a team wallet and a 408.6K team buyback-burn give −0.10% in 90 days, +0.01% next."
+description: "FORM supply is roughly steady: a 408,602 FORM team burn against 27,396 BNX paid from a team safe gives −0.10% over 90 days, about flat next. 580M cap."
 canonical_url: "https://mrnasdog.com/research/form/inflation"
 tags: ["crypto", "form", "four", "launchpad"]
 published: true
@@ -12,58 +12,56 @@ Originally published at [FORM Inflation Analysis · October 2026 · Mixed flows 
 <!-- main-page -->
 This is the long supply read. For the signal, the price drivers and the questions people ask about Four, see [mrnasdog.com/research/form](https://mrnasdog.com/research/form).
 
-The MrNasDog Pressure Framework reads Four (FORM) as **roughly steady, leaning slightly smaller**: over the last 90 days **20,547** coins left a project wallet while the team bought and burned **408,602 FORM**, so supply fell **0.10%**. No FORM is printed as a reward; new FORM only appears when holders swap the older BNX token one for one. For the next 90 days we expect about **+0.01%**, because the burn was a single event and the wallet payouts continue.
+**FORM**, the coin of the **Four.meme** launchpad on BNB Chain, had a slightly shrinking supply over the last 90 days: one team buyback and burn removed **408,602 FORM**, while a team safe paid **27,396 BNX** into the game reward pool, for a net change of **−0.10%**. FORM is never printed by the protocol; it only appears when old BNX is swapped in one for one, and about **278M** unswapped BNX in team wallets is the one large supply that could still reach the market. For the next 90 days we expect **+0.01%**, close to flat, under a hard cap of **580M**.
 
 ## The verdict, in one paragraph
 
-Primary on-chain reads give a net change of **−0.10%** over the 90 days to Oct 10 2026: **0.0205M FORM** of sell pressure against **0.4086M FORM** of buy pressure, on a circulating supply of **381.87M FORM**. The inflation monitor reads **−0.01%** for the same stretch, a gap of **0.09 percentage points**, inside our 0.5-point tolerance, so no warning chip is shown. Next 90 days: **+0.01%**. FORM is a **no-emission platform token whose supply only shrinks when the team chooses to burn**.
+FORM supply changed by **−0.10%** between Jul 22 and Oct 20 2026, out of 381.87M FORM in circulation. Market data puts the same 90 days at **+0.01%**, a difference of **0.11 points**, small enough that no warning flag shows on the page. The circulating figure in market data has stayed at about 381.87M since August 2025, so the on-chain events carry this reading: one burn out, a slow drip of team payouts in. The next 90 days look like **+0.01%**, because the payouts are expected to continue and no second burn is planned. FORM is a quiet supply with a large dormant team overhang.
 
 ## Sell pressure: where new FORM comes from
 
-Protocol inflation is **0**. FORM pays no staking or mining reward. The FORM contract creates new coins only when a holder sends old BNX to a dead address and receives the same amount of FORM, and the BNX contract does the same for the first-generation token at one old coin for 100 BNX. We checked both swaps at both ends of the window: FORM grew by **203,763** and exactly the same amount of BNX landed at the dead address; BNX grew by **17,944**, matched by 179.44 first-generation tokens sent to the dead address. A swap changes the wrapper of a coin that already existed, so it adds nothing. The owner can still approve a new minter, which is why this row is checked rather than marked permanent.
+**Protocol inflation is 0.** FORM has no block reward, no staking emission and no game printing of its own. The FORM token contract creates new coins only when a holder swaps BNX, the token FORM replaced in the 2025 rebrand, and the BNX is destroyed in the same step. Over the window **203,796 FORM** were created this way, matched by 203,796 BNX sent to the burn address, so the coin's total did not grow. The oldest first-generation BNX swaps into BNX at 1 for 100 in the same way: 179 old coins turned into 17,944 BNX, again a change of form, not new supply.
 
-Vesting unlocks are **0**. Four has no published vesting calendar, and the unlock trackers list no FORM schedule. In 2024 BNX holders voted to cut the maximum from 2.1 billion to **580M**, and the team's coins were moved into project pools rather than a dated release.
+**Vesting unlocks are 0.** Four never published a vesting calendar for FORM, and unlock trackers list no dated release. The 2024 holder vote that cut the cap from 2.1 billion to 580M moved the team's coins into an ecosystem fund and a player reward pool instead of a locked schedule.
 
-Foundation and unscheduled unlocks come to **20,547 FORM-equivalent**. A project Safe holding **75.91M** unswapped BNX sent **6,849** BNX on Jul 25, Aug 13 and Sep 23 2026 into a game reward pool, the same payment it has made about once a month since March 2026. Because a BNX coin swaps 1:1 into FORM, we count it as FORM leaving a team wallet, and we project three more payouts for the next 90 days. A game vault that pays players also fell, from 711,107 to 567,412 BNX, but players send coins into it too, so those are players' coins already in the float.
+**Foundation and unscheduled unlocks are about 27.4K.** One project safe sent exactly 6,849 BNX into the game reward pool four times in the window, on Jul 25, Aug 13, Sep 23 and Oct 14 2026, a total of **27,396 BNX**. The payouts come every 19 to 41 days, so about three more, or **20,547**, are expected in the next 90 days. Because BNX swaps into FORM one for one, every BNX that leaves a team wallet is future FORM.
 
-Long-term locked or bankruptcy supply is **0**. No estate, court trustee or long lock is paying FORM out. The biggest FORM wallets, 124.51M and 119.69M, are exchange wallets holding users' coins; their 28.1M shuffle between each other in the window stays inside the float.
+**Long-term locked or bankruptcy is 0.** No estate, trustee or time lock holds FORM. The biggest FORM balances, about 243M together, sit with one large exchange on behalf of its customers, whose BNX was swapped automatically in 2025, so those coins were already in the market.
 
 ## Buy pressure: where new FORM goes
 
-Programmatic buyback is **0**. No contract or fixed rule buys FORM. Four.meme does run a buyback campaign from Sep 9 to Dec 9 2026, but it spends launchpad fees on the busiest community meme token each day, never on FORM.
+**Programmatic buyback is 0.** No rule sends Four.meme launchpad fees to FORM. The platform does run a buyback campaign from Sep 9 to Dec 9 2026, but each day it buys and burns the day's most traded community meme token, not FORM.
 
-Protocol fee burn is **0**. Fees are not burned in FORM, and the FORM total never fell during the window; it only rose by the swaps described above.
+**Protocol fee burn is 0.** Using FORM, or the launchpad, burns no FORM. A few holders sent dust to the burn address, about 2 FORM in 90 days, too small to count.
 
-Foundation buy is **408,602 FORM**, the one large flow on the page. On Sep 21 2026 a fresh wallet spent stablecoins in the FORM trading pools for about 30 minutes, then sent every coin it bought to a dead address in one transfer. The team presented it the next day as its first buyback, paid from platform profit. It came with no schedule and no promise of a second round, so the next 90 days book **0** here until another burn happens.
+**Foundation buy is about 408.6K.** On Sep 21 2026 a fresh wallet spent about 117,406 USDT buying FORM in the two main trading pools on BNB Chain, then sent all **408,602 FORM** to the burn address, where they can never move again. The team said the money came from platform profit. It was the first FORM burn ever: the burn address held only dust before. Nothing says it will repeat, so the next 90 days count **0** here until a second buyback happens.
 
-New long-term lock is **0**. FORM has no staking lock or new lockup contract that pulls coins out of the market.
+**New long-term lock is 0.** No staking contract or new lock took FORM out of the market in the window.
 
 ## Foundation and overhang
 
-The real overhang is the old BNX that has never been swapped: about **280.24M** BNX still sits outside FORM, and each coin can become FORM at any time. Most of it is in eight wallets. The Safe that pays the game pool holds **75.91M**. Two plain wallets hold **63.06M** and **24.74M**, and five more project contracts or Safes hold **61.61M**, **25.16M**, **16.44M**, **9.60M** and **1.36M**. Together that is about 277.9M, more than the 190.43M the market counts as not circulating, so some of these coins are already counted in the float and the exact split cannot be known from outside.
+The real weight on FORM is the BNX that was never swapped. About **278M BNX**, close to the whole FORM supply that exists today, sits in team wallets: multi-signature safes holding 75.9M, 61.6M, 25.2M, 16.4M and 1.4M BNX, two single wallets with 63.1M and 24.7M, and a 9.6M contract. The 2024 plan split this into an ecosystem fund, a player reward pool and a small team share. Only the 75.9M safe moved in the window, through the four payouts above; the rest has no published schedule.
 
-A smaller tail remains one level further back: **649,869** first-generation tokens have not been swapped, worth up to about 65M BNX if every one came back, though most sit in old game contracts. The burn wallet now holds **408,604 FORM**. We read every one of these balances on-chain each rebuild: if any of them falls between refreshes, the outflow enters Sell #3 at the next refresh.
+A separate wallet holds about 5.0M FORM and did not move. The game reward pool that receives the safe payouts held about 313K BNX on Oct 20 2026 and paid about 2,890 BNX to players in 90 days. If any of these team balances falls between rebuilds, the outflow is counted as new sell pressure at the next one.
 
 ## How FORM compares to other launchpad and platform tokens
 
-FORM sits in the group of tokens that belong to a trading platform rather than a blockchain. Inside that group the split that matters is how platform income reaches the token. Some launchpad tokens use a standing rule that spends a share of fees on buybacks every day, so the buy side is steady and easy to forecast. Others, like exchange-chain tokens with a quarterly burn, follow a published rule. FORM has neither: its one burn so far was a team decision, so its buy side is lumpy and cannot be projected forward.
+Most platform tokens live on a promise of buybacks. Exchange coins and some launchpad coins set aside a fixed share of fees every month or quarter and burn what they buy, so their supply falls on a timetable. FORM has no such rule. Its one burn on Sep 21 2026 was a single decision, so FORM sits between a token with a buyback programme and one with none at all.
 
-On the sell side FORM is quieter than most platform tokens. Many of them still pay out farming rewards or unlock investor and team allocations on a calendar. FORM prints nothing and has no vesting calendar; its risk is different, a large pile of unswapped older coins held mostly by project wallets. That makes FORM closer to a fixed-cap token with a big team treasury than to an emission token, and the treasury's choices, not a fixed rule, decide how supply moves.
-
-Against fee-burn chains, FORM also differs in where activity lands. A busy chain burns its own coin with every transaction, so usage shrinks supply directly. Four.meme's fees are paid in other assets and, in the current campaign, spent on other meme tokens, so heavy use of the launchpad does not reduce FORM supply unless the team chooses to buy FORM.
+On the sell side FORM is calmer than most young launchpad tokens, which often carry monthly investor and team unlocks. FORM has no vesting calendar and no emission. Its risk has a different shape: one large pool of old BNX under team control that can be swapped into FORM at any moment, worth about as much as the whole current supply. Coins with a clean cap and nothing held back carry less of that risk; FORM's cap of 580M is close to its 577M swap total, so the cap limits new minting but not the release of what the team already holds.
 
 ## What to watch in the next 90 days
 
-**Monthly Safe payouts:** the next 6,849 BNX transfers from the 75.91M Safe should come around late October, November and December 2026; a larger payment would raise the sell side.
+**A second buyback.** If Four burns FORM again, especially on a set rhythm, the next 90 days turn from flat to shrinking.
 
-**A second buyback:** any new team burn after Sep 21 2026, or a written rule tying platform profit to FORM buybacks, would move the buy side from 0.
+**The team BNX wallets.** A move out of the 278M held in safes and wallets would be the largest possible source of new FORM.
 
-**Big BNX swaps:** a swap or transfer from the 63.06M, 61.61M or 24.74M wallets would show whether team-side coins are heading to market.
+**The safe payouts.** The 6,849 BNX payouts came on Jul 25, Aug 13, Sep 23 and Oct 14 2026; the next one is likely in November 2026.
 
-**The meme buyback campaign:** it ends on Dec 9 2026; if it is renewed with FORM as a target, the reading changes.
+**The meme buyback campaign ending Dec 9 2026.** It burns other tokens, but a new version that included FORM would change the buy side.
 
 ## Summary
 
-The MrNasDog Pressure Framework reads Four (FORM) at **−0.10%** over the last 90 days and about **+0.01%** for the next 90: no coins are printed, a project Safe paid **20,547** BNX to a game pool, and a one-time team buyback burned **408,602 FORM**. Swaps from the older BNX token add no new coins, and supply is capped at 580M. The key risk is the roughly 280M unswapped BNX held mostly by project wallets, which can become FORM at any time; the upside case is a regular buyback paid from platform profit. Until either happens, FORM supply stays roughly steady.
+FORM supply shrank by **0.10%** in the last 90 days, because one team buyback burned **408,602 FORM** on Sep 21 2026 while a team safe paid only 27,396 BNX into the game reward pool. FORM has no emission and no vesting: new FORM only appears when old BNX is swapped in one for one. The key risk is the roughly **278M** unswapped BNX in team wallets, which could become FORM at any time. With no second burn planned, the next 90 days look flat at **+0.01%**, under a hard cap of 580M.
 
-*MrNasDog Pressure Framework analysis of FORM, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 10 2026.*
+*MrNasDog Pressure Framework analysis of FORM, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 20 2026.*

@@ -14,15 +14,15 @@ Is Solana worth buying today? By the law of supply and demand, the long-run sign
 
 - **Signal:** mixed (by the law of supply and demand)
 - **Score:** 6/10 — supply 2/5, demand 4/5
-- **Supply growth:** +1.26% in 90 days · +5.19% in a year
+- **Supply growth:** +1.26% in 90 days · +5.12% in a year
 - **How much people want it:** strong (4/5)
-- **Price drivers:** 2 ▲ price up · 0 ▼ price down
+- **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## Supply — new SOL in the next 90 days
 
-Stakers get about 5.2M new SOL a quarter and locks keep opening every month; a 79K SOL fee burn barely dents it, so supply grows about 1.7% every 90 days.
+SOL supply grew about 1.50% in 90 days: stakers got 4.85M new SOL, locks and reserves released 4.15M, and the fee burn took back only 82.5K.
 
-Over the next 90 days SOL supply changes +1.26%; across a full year, +5.19%. That puts supply at 2/5 (growing).
+Over the next 90 days SOL supply changes +1.26%; across a full year, +5.12%. That puts supply at 2/5 (growing).
 
 ## Demand: how much people want SOL
 
@@ -32,26 +32,26 @@ People's appetite for Solana is **strong**: 4/5, ranked #9 of 110.
 
 ## SOL price drivers the score does not count
 
-Besides supply and demand, we track 2 price drivers for Solana: 2 ▲ and 0 ▼ right now.
+Besides supply and demand, we track 2 price drivers for Solana: 1 ▲ and 1 ▼ right now.
 
-### ▲ Big buyers
+### ▼ Big buyers
 
-ETFs hold about 16M SOL, nearly double Forward's 8.5M.
+ETFs hold ~15.5M SOL after record outflows; Forward holds 8.5M.
 
-Good for the price: More big buyers. Bad for it: Fewer. Now: ▲ up side.
+Good for the price: More big buyers. Bad for it: Fewer. Now: ▼ down side.
 
 | Date | US ETFs | Forward Industries |
 |---|---|---|
 | Jul 31 2026 | 11,814,000 SOL | — |
 | Aug 31 2026 | 13,940,000 SOL | — |
 | Sep 30 2026 | 16,147,000 SOL | 8,501,298 SOL |
-| Oct 8 2026 | 15,871,000 SOL | — |
+| Oct 16 2026 | 15,530,000 SOL | — |
 
-*Checked Oct 10 2026*
+*Checked Oct 20 2026*
 
 ### ▲ Network stops
 
-Solana stopped 6 times by 2024. None in 987 days.
+Solana stopped 6 times by 2024. None in 988 days.
 
 ▲ Price up if: No stops. ▼ Price down if: A new stop. Today: the price-up case.
 
@@ -64,41 +64,41 @@ Solana stopped 6 times by 2024. None in 987 days.
 | Jul 2025 | 0 stops |
 | Jul 2026 | 0 stops |
 
-*Checked Oct 20 2026*
+*Checked Oct 21 2026*
 
 ## Should you buy SOL? Questions about Solana
 
 ### Is it a good time to buy Solana today?
 
-Supply and demand point to a mixed long-run signal for Solana (Oct 20 2026, score 6/10). Solana adds +1.26% new supply in 90 days, and demand reads strong (4/5). Solana's price drivers: 2 ▲ price up, 0 ▼ price down.
+Supply and demand point to a mixed long-run signal for Solana (Oct 20 2026, score 6/10). Solana adds +1.26% new supply in 90 days, and demand reads strong (4/5). Solana's price drivers: 1 ▲ price up, 1 ▼ price down.
 
-### Why is Solana dropping when its drivers look good?
+### How many Solana coins exist, and how fast is supply growing?
 
-Likely new supply, plus the wider market. Both Solana drivers point up: ETFs hold about 16M SOL, and the network has not stopped in 977 days. But Solana adds +1.27% new supply in 90 days, so buyers have to keep absorbing fresh coins. For Solana, the supply-and-demand signal is mixed right now.
+About 589.5M SOL are in the market out of 636.2M in total (Oct 20 2026), and our data shows no max supply. New coins keep coming: about +1.26% in the next 90 days, or around +5.19% over a year. That leaves Solana's long-run signal at mixed, by supply and demand.
 
-### Is Solana a better buy than Ethereum right now?
+### Is Solana dead after the big ETF outflows?
 
-Ethereum reads a little better. It scores 7/10 with a positive signal, while Solana sits at 6/10, mixed (Oct 10 2026). Solana has stronger demand, 4/5 against 3.5/5, but its new supply is much higher: +1.27% in 90 days versus +0.21%. By supply and demand, Solana's long-run signal is mixed today.
+Not really. The network has run 988 days without a single stop, after 6 stops by 2024. The weak spot is buyers: ETFs had record outflows and now hold about 15.5M SOL, while Forward still holds 8.5M. For Solana, the supply-and-demand signal is mixed right now.
 
 ### Could Solana ever hit $1,000?
 
-Solana trades near $110 (Oct 20 2026). $1,000 a coin means a $589B market cap, 9.1 times today's $64.6B. Solana's supply also grows +5.19% in the next year, so every extra coin needs buyers too. That leaves Solana's long-run signal at mixed, by supply and demand.
+Solana trades near $106 (Oct 20 2026). $1,000 a coin means a $590B market cap, 9.4 times today's $62.5B. Solana's supply also grows +5.12% in the next year, so every extra coin needs buyers too. That leaves Solana's long-run signal at mixed, by supply and demand.
 
 ### Should I sell my Solana now?
 
-We would read Solana differently if new supply keeps arriving (+1.26% in 90 days), or demand falls from strong. Until then Solana's signal stays mixed.
+We would read Solana differently if new supply keeps arriving (+1.26% in 90 days), or demand falls from strong, or Big buyers keeps pointing down. Until then Solana's signal stays mixed.
 
 ### Is Solana a good long-term investment?
 
-Solana scores 6/10 on our framework (Oct 20 2026): supply 2/5 (growing), demand 4/5. Over the next year Solana's supply changes +5.19%. The long-run signal is mixed.
+Solana scores 6/10 on our framework (Oct 20 2026): supply 2/5 (growing), demand 4/5. Over the next year Solana's supply changes +5.12%. The long-run signal is mixed.
 
 ### How do I know when to buy Solana?
 
-Supply and demand favor Solana most when little new supply is coming, demand is strong and the price drivers point up. Right now Solana has +1.26% new supply in 90 days (growing), demand strong (4/5), drivers 2 ▲ / 0 ▼.
+Supply and demand favor Solana most when little new supply is coming, demand is strong and the price drivers point up. Right now Solana has +1.26% new supply in 90 days (growing), demand strong (4/5), drivers 1 ▲ / 1 ▼.
 
 ### Will Solana go up in 2026?
 
-Solana's price drivers today: 2 pointing up, 0 pointing down, out of 2. ▲ Big buyers: ETFs hold about 16M SOL, nearly double Forward's 8.5M. ▲ Network stops: Solana stopped 6 times by 2024. None in 987 days.
+Solana's price drivers today: 1 pointing up, 1 pointing down, out of 2. ▼ Big buyers: ETFs hold ~15.5M SOL after record outflows; Forward holds 8.5M. ▲ Network stops: Solana stopped 6 times by 2024. None in 988 days.
 
 ### Is Solana a better investment than Bitcoin?
 

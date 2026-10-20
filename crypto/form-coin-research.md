@@ -24,18 +24,18 @@ Four has 2 price drivers. Right now: 0 up, 2 down.
 
 ### ▼ Four.meme market share
 
-Four.meme's launchpad share fell from about 90% to about 1%
+Four.meme's launchpad share fell from about 90% to under 1%
 
 Wins share back → price up · Flap keeps winning → price down. Right now it points down.
 
 | Date | Four.meme share of BNB launchpad fees |
 |---|---|
-| Jul 31 2026 | 35.2% |
 | Aug 31 2026 | 2.4% |
 | Sep 30 2026 | 0.5% |
 | Oct 9 2026 | 1% |
+| Oct 20 2026 | 0.6% |
 
-*Checked Oct 10 2026*
+*Checked Oct 20 2026*
 
 ### ▼ Four.meme trading volume
 
@@ -48,13 +48,13 @@ Good for the price: More trading. Bad for it: Less trading. Now: ▼ down side.
 | Jul 31 2026 | $140M |
 | Aug 31 2026 | $52.3M |
 | Sep 30 2026 | $33.4M |
-| Oct 20 2026 | $27.1M |
+| Oct 21 2026 | $26.8M |
 
-*Checked Oct 10 2026*
+*Checked Oct 20 2026*
 
 ## Supply: how much new FORM is coming
 
-FORM prints no new coins. A one-time team buyback burned 408.6K FORM, so supply fell about 0.10% in 90 days; about 280M old BNX in project wallets can still swap in.
+FORM prints no new coins. One team buyback burned 408.6K FORM on Sep 21 2026, so supply fell about 0.10% in 90 days; about 278M old BNX in team wallets can still swap in.
 
 Expect +0.01% more FORM in 90 days (+0.02% over the year). On supply alone Four gets 4/5 — tight, #79 of 101 for new supply.
 
@@ -70,9 +70,9 @@ The members-only part of FORM's demand section is not included.
 
 Based on the law of supply and demand, the long-run signal for Four is negative. As of Oct 20 2026, score 4.5/10, Four faces +0.01% new supply over 90 days, with demand very low (0.5/5). Four's price drivers: 0 ▲ price up, 2 ▼ price down.
 
-### Why is Four (FORM) down so much?
+### Is Four (FORM) dead now that Four.meme lost its lead?
 
-Mostly because Four.meme lost its users. Its launchpad share fell from about 90% to about 1%, and trading there is far below the Oct 2025 peak. Supply is tight (+0.01% in 90 days), so the problem looks like demand, which reads low at 1/5. That leaves Four's long-run signal at negative, by supply and demand.
+Not dead, but badly hurt. Four.meme's launchpad share fell from about 90% to under 1%, and its trading is far below the Oct 2025 peak. FORM is now worth about $94M in total (Oct 20 2026). Supply and demand still read negative for Four in the long run.
 
 ### Should I sell Four or hold?
 
@@ -88,7 +88,7 @@ The law of supply and demand points to one window for Four: low new supply, high
 
 ### Will Four go up? What could move its price?
 
-Four has 2 price drivers today (0 ▲ price up, 2 ▼ price down). ▼ Four.meme market share: Four.meme's launchpad share fell from about 90% to about 1% ▼ Four.meme trading volume: Four.meme trading is far below its Oct 2025 peak
+Four has 2 price drivers today (0 ▲ price up, 2 ▼ price down). ▼ Four.meme market share: Four.meme's launchpad share fell from about 90% to under 1% ▼ Four.meme trading volume: Four.meme trading is far below its Oct 2025 peak
 
 ### Is Four a better investment than Bitcoin?
 

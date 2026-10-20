@@ -1,6 +1,6 @@
 ---
 title:         "TRX Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description:   "TRX supply is roughly steady: TRON minted 352M TRX in block rewards against a 227M TRX fee burn, +0.13% net over 90 days and about the same next. No cap."
+description:   "TRX supply is roughly steady: TRON minted 352.4M TRX in block rewards against a 223.55M TRX fee burn, +0.14% net over 90 days and about the same next. No cap."
 canonical_url: "https://mrnasdog.com/research/trx/inflation"
 tags:          ["crypto", "trx", "tron", "payments"]
 published:     true
@@ -12,52 +12,58 @@ published:     true
 <!-- main-page -->
 **Main page:** the full TRX coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/trx](https://mrnasdog.com/research/trx)
 
-TRON's supply is close to flat. Over the last 90 days the TRON network minted **352.4M TRX** in block rewards and destroyed **226.95M TRX** in fees, so TRX supply grew a net **+0.13%**, and we expect about the same over the next 90 days. TRX has no supply cap and no vesting left: the only things that move supply are the 136 TRX minted with every block and the fee burn, and the burn now covers about two thirds of the new coins.
+TRX supply is growing, but only a little. In the 90 days to Oct 19 2026, TRON created **352,395,176 TRX** in block rewards, and its fee burn destroyed **223,553,597 TRX**, so net supply rose **+0.14%** — and the next 90 days look the same. TRX has no supply cap: every block mints 136 new TRX, and only the fee burn pulls coins back out.
 
 ## The verdict, in one paragraph
 
-TRX supply rose **+0.13%** over the last 90 days (Jul 13 2026 to Oct 10 2026) and is projected to rise **+0.13%** over the next 90. Our supply monitor, which reads circulating supply from the market each day, shows **+0.13%** for the same stretch, a gap of about **0.00 percentage points** — far inside our 0.5-point tolerance, so no warning chip is needed and the reading stands as checked. TRON is a **low-inflation chain held near flat by its fee burn**: it prints new TRX every three seconds, and the people paying for transactions destroy most of it.
+Our ledger reads TRX at **+0.14%** net over the last 90 days and **+0.14%** over the next 90. The inflation monitor reads **+0.11%** for the same stretch, a gap of **0.02 percentage points** — the two agree, so no warning chip is shown. TRON adds **352.4M TRX** every 90 days and burns back **223.55M TRX**, about 63% of it. Label: **a mint-and-burn chain where the burn falls short** — mildly inflationary, with the size of the gap set by how much TRON is used.
 
 ## Sell pressure: where new TRX comes from
 
-Protocol inflation is the only source of new TRX. Every block mints **136 TRX**: 8 TRX to the Super Representative that produced it, and 128 TRX shared among the top 127 vote-getters, who pass much of it on to the TRX holders who vote for them. The TRON network produced **2,591,074 blocks** in the window, so it minted **352.4M TRX**, about **3.92M TRX a day**. That reward was last changed by a network vote in June 2025 (from 16 + 160 TRX down to 8 + 128 TRX per block), and no vote to change it again is open.
+**Protocol inflation is the only source of new TRX: 352.4M TRX in 90 days.** TRON is run by 27 Super Representatives, elected by TRX holders who stake and vote. Every block pays 8 TRX to the Super Representative that produced it and 128 TRX into a pool shared with the voters, so each block mints 136 TRX. Between Jul 22 and Oct 19 2026 the chain produced 2,591,141 blocks, which works out to 352,395,176 new TRX — about 3.92M TRX a day. Both reward sizes were last set by a holder vote in June 2025. The only change voted in this window, on Aug 28 2026, upgraded the smart-contract engine and did not touch rewards.
 
-Vesting unlocks are **zero**. The TRX token sale and team allocation date back to 2017, and every coin from them was released years ago; today circulating supply sits within 0.001% of total supply, so there is no locked bucket left to unlock. Foundation and unscheduled unlocks are also **zero**: the old Foundation fund accounts are dormant, and every large holder already counts as circulating. Long-term locks and bankruptcy releases are **zero** too: no estate or trustee holds TRX for release, and staked TRX can leave its stake 14 days after unstaking but was already counted as circulating while staked.
+**Vesting unlocks add 0 TRX.** The 2017 token sale and the early team and foundation shares were released years ago. Circulating TRX equals total TRX within about 72K coins, so there is nothing left on a vesting calendar.
+
+**Foundation and unscheduled unlocks add 0 TRX.** The old TRON Foundation fund accounts now hold only about 283 TRX and have not moved since 2022. The biggest named holder is Tron Inc., a Nasdaq-listed company with about 718.9M TRX, but it bought those coins in the market, so they were already part of the circulating supply. If it sold, coins would change hands; no new TRX would appear.
+
+**Long-term locks and bankruptcy releases add 0 TRX.** No court estate, trustee or long lock holds TRX that is waiting to come out. Staked TRX can be withdrawn after a 14-day wait, but it is counted as circulating the whole time, so unstaking adds nothing new.
 
 ## Buy pressure: where new TRX goes
 
-The protocol fee burn is the only thing removing TRX. Every fee paid in TRX on TRON — for bandwidth and energy, smart contract calls such as USDT transfers, new accounts, memos and multisig — is destroyed rather than paid to anyone. Over the 90 days it destroyed **226.95M TRX**, about **2.52M TRX a day**, which offsets about **64%** of the new block rewards. We measured it as the gap between new coins minted and the change in total supply, and a random sample of blocks read straight from the chain gave a matching figure.
+**The protocol fee burn removed 223.55M TRX in 90 days.** On TRON, every transaction needs bandwidth, and smart-contract calls such as stablecoin transfers also need energy. Users either stake TRX to get these resources for free or pay for them in TRX, and every TRX paid this way is destroyed. Over the window the burn came to 223,553,597 TRX, about 2.48M TRX a day — enough to cancel about 63% of the new block rewards. The burn was heavier at the start: 81.2M TRX in the first 30 days, then 71.8M and 70.6M, with no change to fee rules behind the drop. Our forward figure keeps the full 90-day amount.
 
-The burn is slowly shrinking. It destroyed **84.2M TRX** in the first 30 days of the window, **72.4M** in the middle 30 and **70.3M** in the last 30, with no fee change behind it. Many users stake TRX for free energy instead of paying fees, and the energy price was cut from 210 to 100 sun in August 2025. Because no new rule changed in the window, the forward figure keeps the 90-day rate; if the decline continues, the next 90 days will come in a little above +0.13%.
+**There is no programmatic buyback (0 TRX).** The TRON protocol never buys TRX back; its only sink is the fee burn above.
 
-Programmatic buyback is **zero**: the protocol buys nothing back. Foundation buy is **zero** as well. Tron Inc., a Nasdaq-listed company, buys about 150,000 TRX every day under a 360-day plan that began Jan 22 2026 and now holds about **716.8M TRX**, but it buys coins already in the market, so the float does not shrink. New long-term lock is **zero**: about **45.39B TRX** is staked, down from 45.78B at the start of the window, and a staked TRX fund began trading in September, yet staked TRX still counts as circulating.
+**There is no foundation buy (0 TRX).** Tron Inc. buys about $50K of TRX every day under a 360-day plan that began on Jan 22 2026, and on Oct 14 2026 it set up a share sale of up to $200M to buy more. That is real buying, but the company holds the coins in a wallet that is already counted as circulating, so the float does not get smaller.
+
+**New long-term locks add 0 TRX.** About 45.37B TRX is staked for votes and free resources, down from 45.83B on Jul 21 2026. Staked TRX still counts as circulating, so staking does not take coins out of the float.
 
 ## Foundation and overhang
 
-The team-controlled overhang on TRON is small and quiet. The old TRON Foundation fund accounts are all but empty: together they hold about **283 TRX** (164 and 119 in the two main accounts, dust in the rest), and neither main account has made a transaction of its own since 2020. Tron Inc.'s treasury of about **716.8M TRX** is a listed company's holding rather than a project reserve, and it has only been buying. We read the Foundation accounts on-chain at every rebuild and walk the company's purchase reports by hand. If any of these balances falls between rebuilds, the outflow is checked against circulating supply and enters the Foundation row at the next rebuild — though because these coins are already counted as circulating, a sale would move TRX between holders rather than add new supply.
+TRX has almost no team-controlled overhang. The legacy TRON Foundation fund accounts hold about 283 TRX in total, last active in 2022; we read them on-chain at every rebuild. Total supply is only about 72K TRX above circulating supply, so there is no large reserve waiting outside the float. The largest named holder, Tron Inc., held about 718.9M TRX in mid-October 2026 and keeps adding to it; those coins are inside the float, and we check its disclosures at every rebuild. If the foundation accounts or the company treasury start sending TRX out between our checks, that outflow goes into the foundation row at the next refresh.
 
 ## How TRX compares to other high-throughput Layer 1s
 
-TRON sits between two common designs. Chains like Ethereum mint new coins for validators and burn part of each fee, but on Ethereum the burn now covers under 2% of new issuance; on TRON the burn covers about two thirds, because TRON's USDT traffic pays a large and steady fee bill. Chains like BNB Chain add a scheduled burn on top of the gas burn and shrink their supply, while TRON has no scheduled burn, so its net stays slightly positive.
+TRX sits in the same family as Ethereum: both mint new coins for the people who secure the chain and burn part of every fee, and neither has a supply cap. The difference is scale. On TRON the burn cancels about 63% of new TRX, because stablecoin transfers create steady fee demand all day. That is why TRX supply grows by only about 0.14% a quarter even though its block rewards are large.
 
-Against uncapped staking chains such as Solana or Cardano, TRX inflation is far lower: those chains pay stakers new coins as a share of supply or from a reserve, while TRON mints a fixed 136 TRX per block no matter how much is staked, so its inflation rate falls slowly as supply grows. Unlike a capped proof-of-work coin such as Bitcoin, TRX has no halving and no maximum supply; the block reward only changes when the Super Representatives vote to change it.
+Against BNB, the contrast is policy. BNB runs a scheduled burn toward a fixed target supply, so its supply is planned to shrink no matter how busy the chain is. TRX has no such target: its supply only shrinks in a quarter when fees burn more than the 136 TRX a block that the chain mints. Against Bitcoin, the contrast is the cap. Bitcoin has a hard limit and halvings that cut new supply on a fixed calendar, while TRX block rewards can only change through a holder vote — and the last one, in June 2025, cut them.
 
-The key difference is what sets the burn. On TRON the burn is paid mostly by stablecoin users, so TRX supply depends on how much USDT moves on TRON and how many users pay in TRX rather than with staked energy. In 2024 the burn was larger than the mint and TRX supply shrank; since the 2025 energy price cut, it has run below the mint.
+So TRX supply depends on use more than on any schedule. A busy month pushes it toward flat or shrinking; a quiet month, or cheaper fees, lets the mint pull ahead.
 
 ## What to watch in the next 90 days
 
-The monthly fee burn: it fell from **84.2M** to **70.3M TRX** over the window, and a further drop would push TRX's 90-day net above +0.13%.
+**Fee-cut proposals.** Two open ideas on TRON's improvement board would lower the fee for changing account permissions (last discussed Oct 7 2026) and for multi-signature transactions (opened Oct 6 2026). Neither has an on-chain vote yet; if they pass, the burn would shrink slightly.
 
-Two open fee proposals on TRON's improvement board: cutting the account-permission fee from 100 to 8 TRX (discussion updated Oct 7 2026) and the multisig fee from 1 to 0.5 TRX (opened Oct 6 2026). Neither has an on-chain vote yet; both would trim the burn slightly.
+**Block-reward votes.** No proposal is pending on-chain as of Oct 20 2026. Any vote that changes the 8 TRX or 128 TRX block rewards would move the 352.4M TRX quarterly mint at once.
 
-Any network vote on the block reward or the energy price. The last ones passed in June 2025 and August 2025; a new vote would change the mint or the burn directly.
+**The burn trend.** The last 30 days burned 70.6M TRX. If stablecoin traffic moves elsewhere or more users stake for free energy, the burn falls and net inflation rises; a busier chain does the opposite.
 
-Tron Inc.'s buying plan, set to run to about Jan 2027, and the staked TRX fund that began trading in September 2026. Both move coins already counted as circulating, so they change who holds TRX, not how much exists.
+**Tron Inc.'s buying.** The company's share sale of up to $200M, set up on Oct 14 2026, and its purchases every day add buyers, but they do not change supply. Tron Inc. said on Oct 19 2026 it had been elected one of the 27 Super Representatives, so it now also earns block rewards.
 
 ## Summary
 
-TRX supply is roughly steady: TRON minted **352.4M TRX** in block rewards over 90 days and its fee burn destroyed **226.95M TRX**, a net **+0.13%**, matching our supply monitor. TRX has no cap and no vesting, so the only supply levers are the fixed 136 TRX per block and the fee burn. The main risk is a shrinking burn as users switch to staked energy and fees are cut, which would let the net creep up. The ceiling is set by the mint itself: even with no burn at all, TRX supply would grow only about **0.37%** in 90 days.
+TRX is mildly inflationary: TRON mints **352.4M TRX** every 90 days in block rewards and burns about **223.55M TRX** in fees, so supply grows about **+0.14%** a quarter, in line with the monitor's **+0.11%**. There are no unlocks, no foundation reserve outside the float and no buyback; the only lever is how much people pay in fees. The key risk is a weaker burn — cheaper fees or fewer paid transfers would let the fixed 136 TRX a block pull further ahead. TRX has no supply cap, and its block rewards can change only by a vote of the Super Representatives.
 
 ---
 
-*MrNasDog Pressure Framework analysis of TRX, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 11 2026.*
+*MrNasDog Pressure Framework analysis of TRX, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 20 2026.*

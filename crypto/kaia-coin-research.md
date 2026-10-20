@@ -20,7 +20,7 @@ Our read on Kaia for Oct 20 2026: a **negative** long-run signal and a score of 
 
 ## Supply: how much new KAIA is coming
 
-Kaia mints a fixed 9.6 KAIA every block with no cap, and its fee burn takes back under 0.2% of it. Supply grew 1.16% in 90 days; a one-time reward burn trims the next 90 days to about 1.04%.
+Kaia mints a fixed 9.6 KAIA every block with no cap, and its fee burn takes back under 0.2% of it. Supply grew 1.16% in 90 days; monthly burns of unpaid rewards trim the next 90 days to about 1.04%.
 
 Expect +1.04% more KAIA in 90 days (+4.23% over the year). On supply alone Kaia gets 2.5/5 — moderate (place 48 of 101).
 
@@ -45,9 +45,9 @@ More dollar coins on Kaia → price up · Dollar coins leave → price down. Tod
 | Jul 31 2026 | $197M |
 | Aug 31 2026 | $207M |
 | Sep 30 2026 | $242M |
-| Oct 20 2026 | $222M |
+| Oct 21 2026 | $222M |
 
-*Checked Oct 10 2026*
+*Checked Oct 20 2026*
 
 ### • Korea won-coin law
 
@@ -65,7 +65,7 @@ Good for the price: Law passes, banks use Kaia. Bad for it: Law stalls or skips 
 | Jul 6 2026 | BNK pilot on Kaia |
 | Sep 28 2026 | BoK wants banks only |
 
-*Checked Oct 10 2026*
+*Checked Oct 20 2026*
 
 ### • LINE wallet push
 
@@ -81,7 +81,7 @@ LINE keeps building its stablecoin wallet on Kaia.
 | May 22 2026 | Unifi adds JPYC |
 | Sep 30 2026 | Quantum guard for Unifi |
 
-*Checked Oct 10 2026*
+*Checked Oct 20 2026*
 
 ## Should you buy Kaia? The questions, answered
 
@@ -89,9 +89,9 @@ LINE keeps building its stablecoin wallet on Kaia.
 
 Based on the law of supply and demand, the long-run signal for Kaia is negative. As of Oct 20 2026, score 3/10, Kaia faces +1.04% new supply over 90 days, with demand very low (0.5/5). Kaia's price drivers: 1 ▲ price up, 0 ▼ price down.
 
-### What's actually happening on the Kaia chain lately?
+### Any news on Korea's won stablecoin coming to Kaia?
 
-Stablecoins are the main Kaia story: dollar coins on the chain grew about 5x since May 2025. LINE also keeps building its stablecoin wallet on Kaia. Korean banks tested won coins there, but that law is still stuck, so it likely stays a waiting game. Our supply-and-demand read for Kaia stays negative.
+Not yet. Banks have tested won coins on Kaia, but the law is still stuck. Meanwhile dollar coins on Kaia grew about 5x since May 2025, and LINE keeps building its stablecoin wallet there. For Kaia, the supply-and-demand signal is negative right now.
 
 ### Should I sell Kaia or hold?
 

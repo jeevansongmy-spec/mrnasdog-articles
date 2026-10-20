@@ -20,7 +20,7 @@ As of Oct 20 2026, Floki scores 3/10 on our framework, and its supply-and-demand
 
 ## New FLOKI hitting the market
 
-FLOKI cannot mint more coins. Early-unstake penalties and a small locker buyback burned 4.88B FLOKI in 90 days, so supply shrinks about 0.05%.
+FLOKI cannot mint more coins. Staking exit penalties and a small fee buyback burned 4.83B FLOKI in 90 days, so supply shrinks about 0.05%.
 
 New FLOKI: −0.05% in 90 days, −0.20% in a year. Supply score 1.5/5, "meme coin".
 
@@ -42,7 +42,7 @@ Good for the price: Musk posts Floki. Bad for it: Musk goes silent.
 | Feb 15 2023 | Musk: Floki Twitter CEO |
 | Oct 20 2025 | Floki 'back as X CEO' |
 
-*Checked Oct 10 2026*
+*Checked Oct 20 2026*
 
 ### • ETP and listings
 
@@ -59,11 +59,11 @@ More ways for big buyers → price up · Delistings → price down.
 | Oct 3 2025 | First FLOKI ETP (Europe) |
 | Apr 1 2026 | Bitkub (Thailand) lists |
 
-*Checked Oct 10 2026*
+*Checked Oct 20 2026*
 
 ## How strong is Floki demand?
 
-Floki demand: 1.5/5 (**very weak**), place #80 among 110 coins — interest today plus the buying that could come later.
+Floki demand: 1.5/5 (**very weak**), place #79 among 110 coins — interest today plus the buying that could come later.
 
 Extra Floki demand detail for members stays on the live page.
 
@@ -73,17 +73,13 @@ Extra Floki demand detail for members stays on the live page.
 
 Supply and demand point to a negative long-run signal for Floki (Oct 20 2026, score 3/10). Floki adds −0.05% new supply in 90 days, and demand reads very weak (1.5/5). Floki's price drivers: 0 ▲ price up, 0 ▼ price down.
 
-### How big is Floki's market cap right now?
+### Has Elon Musk posted about Floki lately?
 
-About $263M on Oct 10 2026, with Floki near $0.0000273 a coin. Roughly 9.64 trillion FLOKI are out of a 20 trillion max, and supply barely moves in the next year (−0.22%). So any price change probably has to come from demand, which reads weak today. Supply and demand still read negative for Floki in the long run.
+No. Musk's last Floki post was Oct 20 2025, and his posts about it are rare. The newer support came from listings instead: a Europe ETP and Robinhood, with the newest listing on Apr 1 2026. That leaves Floki's long-run signal at negative, by supply and demand.
 
-### Any fresh Floki news that could move the price?
+### Could Floki ever hit $1?
 
-Not much lately. Elon Musk's Floki posts are rare, and the last one we found was Oct 20 2025. The newest exchange listing came on Apr 1 2026, after a Europe ETP and Robinhood. With 0 drivers pointing up or down, Floki looks quiet for now. For Floki, the supply-and-demand signal is negative right now.
-
-### Could Floki ever hit 1 cent?
-
-Floki trades near 0.00273 cents (Oct 20 2026). 1 cent a coin means a $96.4B market cap, 367 times today's $263M. Floki's supply barely changes in the next year (−0.20%), so the whole move would have to come from demand. For Floki, the supply-and-demand signal is negative right now.
+Floki trades near 0.00246 cents (Oct 20 2026). $1 a coin means a $9.64 trillion market cap, 40,686 times today's $237M. Floki's supply barely changes in the next year (−0.20%), so the whole move would have to come from demand. For Floki, the supply-and-demand signal is negative right now.
 
 ### Is it time to take profit on Floki?
 

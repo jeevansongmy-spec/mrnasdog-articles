@@ -1,6 +1,6 @@
 ---
-title:         "KAIA Inflation Analysis · October 2026"
-description:   "KAIA supply grows: a fixed 9.6 KAIA per block minted 74.6M in 90 days against a 128.8K fee burn, +1.16% net. Next 90 days +1.04% after a reward burn."
+title:         "KAIA Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
+description:   "KAIA supply grows: a fixed 9.6 KAIA per block minted 74.61M in 90 days against a 126.6K fee burn, +1.16% net. Reward burns trim the next 90 days to +1.04%."
 canonical_url: "https://mrnasdog.com/research/kaia/inflation"
 tags:          ["crypto", "kaia", "klaytn", "layer1"]
 published:     true
@@ -10,62 +10,64 @@ published:     true
 <!-- main-page -->
 The Kaia coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/kaia](https://mrnasdog.com/research/kaia). Below: supply, line by line.
 
-# KAIA Inflation Analysis · October 2026
+# KAIA Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
-KAIA supply is growing, and the MrNasDog Pressure Framework expects it to keep growing. Kaia mints a fixed **9.6 KAIA** in every block, about one block a second, which came to **74.60M KAIA** in the last 90 days, while the transaction-fee burn destroyed only **128.8K KAIA**. Net, supply rose **+1.16%** in 90 days. The next 90 days read **+1.04%**, a little lower only because a one-time burn of about **7.35M KAIA** in unpaid contribution rewards is set for November 2026. Kaia has no supply cap, no halving and nothing left to vest.
+KAIA is inflationary by design: the Kaia chain mints a fixed **9.6 KAIA** in every block, which came to **74.61M KAIA** in the last 90 days, while the fee burn destroyed only **126.6K KAIA**. Net supply grew **+1.16%** in 90 days. Over the next 90 days, three scheduled burns of unpaid contribution rewards worth about **7.34M KAIA** trim that to about **+1.04%**, but Kaia has no supply cap and no halving, so the mint keeps running.
 
 ## The verdict, in one paragraph
 
-The framework reads KAIA at **+1.16%** net supply growth over the last 90 days (Jul 12 2026 to Oct 10 2026) and **+1.04%** for the next 90 days. The inflation monitor reads **+9.88%** for the same window, a gap of **8.73 percentage points**, which is far above the 0.5-point line and so carries a ⚠ monitor gap warning on the coin page. We walked the gap: the supply figure the monitor reads sat near 5.86B KAIA every day until Jul 28 2026 and then jumped 519M KAIA on Jul 29 2026 to catch up with the chain. That was a recount of KAIA that already existed, not new coins; the chain's own counters show only 74.60M KAIA minted in the window. Our number stays. In one line: Kaia is an uncapped chain that pays a fixed block subsidy, and its burns are far too small to offset it.
+On-chain, KAIA supply rose from **6.37B** to **6.45B** between Jul 22 and Oct 20 2026, a net **+1.16%** of the **6.45B KAIA** in circulation, and we project about **+1.04%** for the next 90 days. Market data trackers show **+10.15%** for the same 90 days, a gap of about **9 points**. That gap is not new coins: the supply figure those trackers read sat near 5.86B KAIA every day until Jul 28 2026 and then jumped **519M KAIA** in one day on Jul 29 2026 to catch up with the chain. Without that one-day recount they read about +1.29%, close to our number, so no data-conflict warning is shown. KAIA is a fixed-mint chain whose burns are too small to offset its issuance.
 
 ## Sell pressure: where new KAIA comes from
 
-**Protocol inflation is 74.60M KAIA.** Every Kaia block mints 9.6 new KAIA. The chain produced 7,770,671 blocks in these 90 days — slightly fewer than one a second — so 74,598,442 KAIA were created, and the node's own running count of minted coins rose by exactly that amount. Of each block's 9.6 KAIA, 40% goes to stakers, 25% to the Kaia Infrastructure Fund, 25% to the Kaia Ecosystem Fund and 10% to a new contribution-reward pool. That split changed on Jul 23 2026, when the GP-21 tokenomics reform replaced the old proposer reward with the contribution reward, but the 9.6 KAIA per block did not change, so the next 90 days carry the same **74.60M KAIA**. At this pace Kaia adds roughly 300M KAIA a year, a bit under 5% of today's supply.
+Protocol inflation is the whole sell side. Every Kaia block mints **9.6 new KAIA**, and the chain produced **7.77M blocks** in the 90 days, a little slower than one a second. That is **74,613,456 KAIA** of new supply, about 829,000 a day. Kaia's own supply counter rose by exactly that amount, so the figure is the chain's own record, not an estimate. The new KAIA is split four ways: **40%** to stakers, **25%** to the Kaia Ecosystem Fund, **25%** to the Kaia Infrastructure Fund and **10%** to the new contribution reward pool. The mint is a fixed amount per block, so the next 90 days repeat the same figure.
 
-**Vesting unlocks are 0.** Unlock trackers list KAIA as fully unlocked, and the circulating count equals total supply, so there is no locked allocation with a calendar left to open.
+Vesting unlocks are **0**. KAIA has no locked investor or team bucket left: almost the whole supply already counts as circulating, with only about 140K KAIA outside it, and unlock trackers show no Kaia unlock event in the next 90 days.
 
-**Foundation and unscheduled unlocks are 0.** The two ecosystem funds spend KAIA all the time — the infrastructure fund sent 20M KAIA to its spending wallet on Sep 2 2026 — but every fund wallet is already counted as circulating, and the project says so itself. Moving those coins adds nothing new; their fresh coins are counted once, in the mint above.
+Foundation and unscheduled unlocks are **0**. The two Foundation funds and the reward pool are large, but every one of those wallets already counts as circulating. When the Kaia Infrastructure Fund sent **20M KAIA** to its spending wallet on Sep 2 2026, coins moved between holders and no new supply appeared. The coins these funds receive are counted once, when they are minted.
 
-**Long-term locked or bankruptcy is 0.** No estate, trustee or long lock is paying KAIA out, and staked KAIA can be withdrawn after a one-week wait, so it is part of the float already.
+Long-term locks and bankruptcy releases are **0**. No estate, trustee or long lock is releasing KAIA.
 
 ## Buy pressure: where new KAIA goes
 
-**Programmatic buyback is 0.** No contract or treasury buys KAIA back. The Kaia Foundation names a fee-funded buyback and burn as a later goal, but it has no date and no budget, so it books nothing.
+There is no programmatic buyback. The Kaia Foundation describes a buyback and burn paid for by network fees as a later goal, with no date set, so that row stays at **0**.
 
-**The protocol fee burn took 128.8K KAIA.** Part of each transaction fee is destroyed as it is paid. The chain's burned-fee counter rose by 128,819 KAIA, and 5 more KAIA went to a dead address, for **128,824 KAIA** in all, about 1,430 a day. Minted coins less burned coins equals the change in total supply to the cent, so the reading is complete. Since Jul 23 2026 a smaller share of each fee is burned, so the next 90 days use the newer, lower rate: about **126,164 KAIA**. Even if the new Upbit listing makes the chain busier, the fee burn would have to grow several hundred times to match the mint.
+The protocol fee burn destroys half of every transaction fee. Over the 90 days it removed **126,587 KAIA**, about 1,400 a day, which is less than **0.2%** of the KAIA minted in the same period. A sample of blocks across the window confirms the half-burned share. We keep the same rate for the next 90 days.
 
-**Foundation buy is 0.** No announcement or on-chain flow this window shows the foundation or a fund buying KAIA on the market.
+There is no Foundation buy: the funds only receive new KAIA and spend it. New long-term locks are **0** as well. KAIA can be staked, and the contribution reward asks users to stake 10 KAIA for every 1 USDT they deposit, but staked KAIA still counts as circulating, so staking takes nothing out of the float.
 
-**New long-term lock is 0.** A reward campaign asks users to stake 10 KAIA for each 1 USDT they deposit, but staked KAIA can leave after a week and still counts as circulating, so a bigger stake takes nothing out of the float.
-
-**The unpaid reward burn is 0 for the last 90 days and about 7.35M KAIA next.** Since Jul 23 2026 the contribution-reward pool receives 0.96 KAIA per block, a budget of about 2.5M KAIA a month, and whatever it does not pay out is burned. The first month paid only 36,421 KAIA, so the Kaia Foundation set **2,463,579 KAIA** to burn; the second month paid 58,434 KAIA. The burn runs as one batch every three months, and the first batch, covering months one to three, is set for November 2026. With the third month paying about the same as the second, the batch comes to about **7.35M KAIA**. Nothing has been burned yet: the pool holds 6.50M KAIA today.
+The new piece is the unpaid reward burn. Since Jul 23 2026 a tenth of each block's new KAIA goes to a contribution reward pool with a budget of about **2.5M KAIA** a month. Rewards are paid only for USDT deposits backed by staked KAIA, and few users joined: the first month paid **36,421 KAIA** and the second **58,433 KAIA**. Everything unpaid is burned. The burns are set for **Oct 21 2026** (2,463,579 KAIA), **Nov 21 2026** (2,441,567 KAIA) and **Dec 21 2026** (about 2.43M KAIA, the final figure comes in the November report). Together that is about **7.34M KAIA** in the next 90 days, roughly a tenth of the mint. None of it was burned in the last 90 days.
 
 ## Foundation and overhang
 
-Kaia has three fund wallets we track, read on-chain at each rebuild. The Kaia Infrastructure Fund holds **60.37M KAIA** in its minting wallet after sending 20M KAIA on Sep 2 2026 to its spending wallet, which now holds **10.59M KAIA**; it drew 30M KAIA the same way on Jun 16 2026, so these draws come every few months. The Kaia Ecosystem Fund holds **161.36M KAIA** and sent nothing out in these 90 days. The contribution-reward pool holds **6.50M KAIA**, most of it due to be burned in November 2026. All three are already counted as circulating, so their spending does not change the count; it only shows how much KAIA the funds can still put into the market. If any of these balances falls between refreshes in a way that takes coins out of the count, the outflow enters Sell #3 at the next refresh.
+Four Foundation-controlled balances matter for KAIA. The Kaia Ecosystem Fund holds about **163.49M KAIA**, and it received 2.4 KAIA per block in the window with no outflow at all. The Kaia Infrastructure Fund minting wallet holds about **62.50M KAIA** after its 20M transfer on Sep 2 2026, and its spending wallet holds about **10.59M KAIA**, down from 12.21M as it paid projects. The contribution reward pool holds about **7.35M KAIA**, most of which is due to be burned. Monthly spending votes on the Kaia governance forum decide how the Ecosystem Fund is used.
 
-## How KAIA compares to other uncapped proof-of-stake Layer 1s
+All four sit inside the circulating count, so spending from them moves coins in the market without adding new supply. We read these balances from the chain at every rebuild. If any of them falls between refreshes into a wallet outside the float, that outflow enters Sell #3 at the next refresh, and if the reward pool sends coins anywhere other than a burn, we count them as sold.
 
-Kaia's design is the simplest kind of proof-of-stake emission: a flat number of new KAIA in every block, set by governance and unchanged since the Klaytn and Finschia merger in 2024. Because the block reward is fixed while supply grows, the yearly rate drifts down slowly on its own — today a bit under 5% — but nothing in the protocol makes it fall faster. Chains with a disinflation curve, such as Solana, cut their issuance rate on a set path each year; Kaia would need a new governance vote to do the same, and the foundation has only said a review of block issuance will come as a separate agenda.
+## How KAIA compares to other proof-of-stake Layer 1 chains
 
-Ethereum also pays stakers in new coins, but its EIP-1559 burn destroys the base fee of every transaction, which on our Sep 30 2026 reading kept Ethereum near **+0.21%** per 90 days. Kaia's fee burn is a much smaller share of its mint: 128.8K KAIA burned against 74.60M KAIA minted, under 0.2%. Exchange-chain tokens with scheduled burns, such as BNB, shrink supply on purpose; Kaia has no such programme yet. Its one real offset is the new unpaid-reward burn, which recycles part of the 10% contribution slice back out of existence.
+KAIA belongs to the group of uncapped proof-of-stake Layer 1s with a fixed mint per block. Its issuance does not change with the amount staked and does not fall over time: 9.6 KAIA a block is about **4.7%** a year of today's supply, and the rate only changes by governance vote. Ethereum works differently: its issuance rises and falls with the total stake, and it burns the whole base fee, so busy periods can cancel out much of its new supply. Kaia burns only half of each fee, and its fees are small, so its fee burn removes well under 1% of the mint.
 
-Where Kaia differs from many newer Layer 1s is what is NOT on the sell side: there are no investor or team cliffs left, because the old Klaytn and Finschia allocations are fully unlocked. Its supply pressure is almost entirely the steady block mint, which makes the ledger easy to read and hard to escape.
+A large part of the KAIA mint also goes to funds rather than to stakers. Half of each block reward feeds the Kaia Ecosystem Fund and the Kaia Infrastructure Fund, which spend on grants, infrastructure and partners. Chains that pay nearly all new coins to stakers put that supply in the hands of holders who often keep staking; a fund mint reaches the market as fast as the fund spends it.
+
+The unpaid reward burn makes KAIA a mixed case. Like exchange tokens with scheduled burns, Kaia now has dated burn events, but its burns are capped by the reward budget, so even if no one earned a single reward the burn could take back at most a tenth of the mint. Only a cut to the 9.6 KAIA mint, or a fee-funded buyback, could make KAIA supply shrink.
 
 ## What to watch in the next 90 days
 
-**Oct 21 2026:** the third contribution-reward month ends at block 230,342,399; its payout decides the final size of the first batch burn.
+**Oct 21 2026**: the first burn of unpaid contribution rewards, 2,463,579 KAIA. It is the first time this mechanism removes supply on-chain.
 
-**November 2026:** the first batch burn of unpaid contribution rewards, about 7.35M KAIA, is due after the third month settles. If it slips past Jan 8 2027 or comes in smaller, the next-90-day reading moves back toward +1.16%.
+**Oct 21 2026**: JPYC, a yen stablecoin, also starts counting toward the contribution reward. More deposits would mean more rewards paid and smaller burns.
 
-**Around Oct 27 2026:** the Jul 29 2026 recount leaves the monitor's 90-day window, and the monitor reading should fall back close to ours.
+**Nov 21 2026**: the second burn, 2,441,567 KAIA, and the November report with the third month's final burn figure, due on **Dec 21 2026**.
 
-**Governance:** the promised review of the 9.6 KAIA block reward, and further monthly use-of-funds votes and infrastructure-fund transfers (the last were Jun 16 2026 and Sep 2 2026). A cut to the block reward is the one change that would move Kaia's supply reading by a lot.
+Any governance proposal on the block mint. The Kaia Foundation has said a review of the issuance rate comes after the reward change, with no date yet; a cut to the 9.6 KAIA mint would change this reading more than anything else.
+
+Monthly spending votes for the Ecosystem Fund and transfers from the Infrastructure Fund. They add no new supply, but they show how fast fund-held KAIA reaches the market.
 
 ## Summary
 
-KAIA is an uncapped proof-of-stake coin whose supply grows by a fixed 9.6 KAIA per block — 74.60M KAIA in the last 90 days — against a fee burn of only 128.8K KAIA, so net supply rose **+1.16%** and is projected at **+1.04%** for the next 90 days. The only sizable offset is a one-time burn of about 7.35M KAIA in unpaid contribution rewards set for November 2026. Nothing is left to vest, and the fund wallets already count as circulating. The key risk is the mint itself: until governance changes the block reward, Kaia adds roughly 300M KAIA a year with no cap.
+KAIA supply is growing: the Kaia chain mints a fixed 9.6 KAIA in every block, which added **74.61M KAIA** in the last 90 days, while burning half of each fee removed only **126.6K KAIA**, for a net **+1.16%**. Burns of unpaid contribution rewards, about **7.34M KAIA** on Oct 21, Nov 21 and Dec 21 2026, cut the next 90 days to about **+1.04%**. The key risk for holders is that half of each block's mint goes to Foundation funds that spend it into the market. Kaia has no supply cap and no halving, so only a governance cut to the mint can change the direction.
 
 ---
 
-*MrNasDog Pressure Framework analysis of KAIA, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 10 2026.*
+*MrNasDog Pressure Framework analysis of KAIA, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 20 2026.*

@@ -1,6 +1,6 @@
 ---
 title:         "FLOKI Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description: "FLOKI supply shrinks slowly: no new FLOKI can be made, and staking-penalty burns plus a locker buyback removed 4.88B FLOKI in 90 days, −0.05% net, same next."
+description: "FLOKI supply is roughly steady: no new coins, while staking exit penalties and a small buyback burned 4.83B FLOKI, −0.05% in 90 days, about the same next."
 canonical_url: "https://mrnasdog.com/research/floki/inflation"
 tags: ["crypto", "floki", "tokenomics", "ethereum"]
 published: true
@@ -12,62 +12,58 @@ Originally published at [FLOKI Inflation Analysis · October 2026 · Mixed flows
 <!-- main-page -->
 The Floki coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/floki](https://mrnasdog.com/research/floki). Below: supply, line by line.
 
-The MrNasDog Pressure Framework reads FLOKI as very slightly deflationary: supply fell **0.05%** over the last 90 days and is on course to fall about **0.05%** again over the next 90. No new FLOKI can be made, and **4.88B FLOKI** was burned — **4.84B** from early-unstake staking penalties and **38.05M** from locker-fee buy-and-burn. The monitor reads **−0.07%**, so the two readings agree.
+Floki (FLOKI) supply is shrinking very slowly: **−0.05%** over the 90 days from Jul 22 to Oct 20 2026, and about **−0.05%** again over the next 90 days. No new FLOKI was created, while **4.83B FLOKI** went to the burn address — **4.79B** from staking exit penalties and **38.05M** from a fee-funded buyback. FLOKI has a hard limit by design: 10T coins were made once on Ethereum and once on BNB Chain, and more than half of that is already burned.
 
 ## The verdict, in one paragraph
 
-Over the 90 days to Oct 10 2026 the FLOKI ledger booked **0 FLOKI** of sell pressure and **4.88B FLOKI** of buy pressure on a circulating supply of **9.64T FLOKI**, a net change of **−0.05%**, with the same **−0.05%** projected for the next 90 days. The inflation monitor reads **−0.07%** over the same stretch, a gap of **0.02 percentage points**, well inside the 0.5-point line, so no warning chip is shown. The one-line label: FLOKI is a fixed-supply meme token with a slow staking-penalty burn.
+On the FLOKI ledger, net supply moved **−0.05%** in the last 90 days: zero new coins against **4,827M FLOKI** burned, out of **9.64T** circulating. Our supply monitor read **−0.10%** over the same 90 days, a gap of **0.05 points**, so the two readings agree and no warning is shown. The next 90 days look the same, about **−0.05%**, because the burns come from holders leaving staking early and that pace is kept. FLOKI is a fixed-supply meme token with a slow burn: nothing is added, and a little is taken away each month.
 
 ## Sell pressure: where new FLOKI comes from
 
-Protocol inflation is **0 FLOKI**, and it cannot change. FLOKI lives on two chains, Ethereum and BNB Chain, and each chain's FLOKI contract created **10T FLOKI** once, at launch. We read the contract code on both chains: it has no function that creates coins, its only balance changes are ordinary transfers, and its owner key was handed to a dead address, so nobody can swap in new rules. The FLOKI not used on each chain sits in a dead wallet, which is why only **9.64T** of the 20T ever created circulates.
+Protocol inflation is **0**. The FLOKI token code created 10T coins on Ethereum and 10T on BNB Chain at launch, and it has no function that can make more: coins can only move between wallets or be sent to the burn address. The same code runs on both chains, and no upgrade path exists.
 
-Vesting unlocks are **0 FLOKI**. FLOKI never had a team or investor vesting calendar, and every FLOKI outside the dead wallets already counts as circulating, so there is no locked tranche left to open.
+Vesting unlocks are **0**. FLOKI has no vesting calendar, no investor cliff and no team unlock. Every coin has existed since 2021, and circulating supply equals total supply.
 
-Foundation and unscheduled unlocks are **0 FLOKI**, but this row needs a closer look than the zero suggests. The Floki treasury on Ethereum sent **38.19B FLOKI** to a market maker in three batches, on Jul 27, Aug 27 and Sep 28 2026. A market maker uses coins to quote buy and sell orders, so some of this FLOKI may reach buyers over time. Those coins were already counted as circulating while they sat in the treasury, so moving them adds nothing new to the FLOKI supply count.
+Foundation and unscheduled unlocks are **0**, even though the team did sell. The Ethereum treasury sent **38.19B FLOKI** to a market maker in three monthly batches, on Jul 27, Aug 27 and Sep 28 2026, and a second team Safe sent out **50B** on Aug 14 2026. Those coins were already counted as circulating, so a sale moves FLOKI from the team to traders without adding new supply. It still matters for price, because it is steady selling into the market.
 
-Long-term locked or bankruptcy supply is **0 FLOKI**. No court estate or trustee holds FLOKI. The staking pools hold about **1.69T FLOKI**, but those are holders' own coins that already count as circulating.
+Long-term locked or bankruptcy is **0**. No estate or trustee holds FLOKI. About **1.69T FLOKI** sits in staking locks of 3 to 48 months, but staked FLOKI already counts as circulating, so a stake that ends adds nothing new.
 
 ## Buy pressure: where new FLOKI goes
 
-The largest buy-side mechanism is the staking penalty burn: **4.84B FLOKI** in 90 days. FLOKI staking locks coins for 3, 12, 24 or 48 months, and a holder who leaves early pays a penalty of 5% to 20% of the stake, which the staking pool sends straight to the dead wallet. That burned **2.61B FLOKI** on Ethereum and **2.23B FLOKI** on BNB Chain. All burns together came to 3.79B FLOKI in the 90 days before this window, so the penalty burn picked up as more holders left staking.
+The programmatic buyback took **38.05M FLOKI** out of supply. A share of FlokiFi Locker fees buys FLOKI on the open market and sends it straight to the burn address: **23.48M** on Ethereum on Sep 21 2026 and **14.58M** on BNB Chain between Aug 21 and Sep 27 2026, about **$962** in all. At today's price the same money buys about **39.17M FLOKI** over the next 90 days. It is a real buyback, but a very small one.
 
-The programmatic buyback added **38.05M FLOKI**. A quarter of the fees from Floki's token locker is used to buy FLOKI on the open market and send it to the dead wallet: **23.48M FLOKI** on Ethereum and **14.58M FLOKI** on BNB Chain in this window. Next to the penalty burn it is small.
+The protocol fee burn is **0**. FLOKI charges a 0.3% tax on DEX buys and sells, and that tax goes to the treasury to pay for growth, not to a burn. Transfers between wallets and moves between the two chains pay no tax.
 
-The protocol fee burn is **0 FLOKI**. FLOKI charges a 0.3% tax on DEX buys and sells, but that tax pays the treasury; it is not destroyed. A few holders sent about 15.4K FLOKI to the dead wallet by hand, too little to count.
+Foundation buying is **0**. The BNB Chain treasury took in 250B FLOKI from an exchange wallet in August 2026 and sent 200B back out, but those were circulating coins changing hands. New long-term locks are also **0**: staking locks coins, yet staked coins still count as circulating, and more FLOKI left staking than joined it this window.
 
-The Foundation buy is **0 FLOKI**. On Aug 17 2026 the treasury pulled 250B FLOKI out of an exchange on BNB Chain and sent 200B back the next day, but those coins were already circulating, so it is not a purchase. The new long-term lock row is also **0 FLOKI**: staking locks FLOKI for months, but staked coins still count as circulating, and the pools actually shrank by 55.3B FLOKI this window.
-
-Every burned FLOKI is visible on-chain: we read the dead wallet on both chains at both ends of the window and matched every transfer into it, so the 4.88B FLOKI figure closes to the coin.
+The staking exit burn is the big one: **4.79B FLOKI** in 90 days. A staker who leaves before the lock ends pays a penalty of 5% to 20% of the stake, depending on the lock length, and the staking contract sends it to the burn address. That burned **2.57B** on Ethereum and **2.22B** on BNB Chain. The largest single exits came on Jul 23 2026 (891M burned) and Sep 20 2026 (797M). This burn depends on holders choosing to leave, so it rises when people lose patience and falls when they stay.
 
 ## Foundation and overhang
 
-Team-controlled wallets hold about **228.1B FLOKI**, roughly 2.4% of circulating supply. The treasury Safes hold **22.41B FLOKI** on Ethereum and **74.69B FLOKI** on BNB Chain; a second team Safe on Ethereum holds **114.65B FLOKI** after sending 50B to an exchange on Aug 14 2026; a wallet set aside by a DAO vote for a FLOKI exchange-traded product holds **16.31B FLOKI** across both chains and did not move; and a FlokiFi treasury holds about 78M FLOKI. The tax handlers pass small amounts to the treasury every day.
+The Floki team controls about **228B FLOKI**, roughly 2.4% of circulating supply: the Ethereum treasury with **22.41B**, the BNB Chain treasury with **74.69B**, a second team Safe with **114.65B**, an ETP wallet with **16.31B** across both chains, and a FlokiFi treasury with 78.46M. The Ethereum treasury has fallen from 60.60B to 22.41B in 90 days through its monthly market-maker batches, so at that pace it has only a few batches left before it would need a refill from the BNB Chain side or the second Safe.
 
-All of these balances already count as circulating, so they cannot add to the FLOKI supply count — but they can add to selling. We read each wallet on-chain at every rebuild. If one of these balances falls between refreshes, the outflow is checked at the next refresh and booked in Sell #3 only if it brings coins from outside the float into the market; a treasury batch to a market maker stays a watch item.
+We read all of these wallets on-chain at every check. They already count as circulating, so their sales do not change the supply number, but if any of them sends coins toward the market between our checks, we record it in the Foundation row at the next check.
 
 ## How FLOKI compares to other meme coins
 
-Among meme coins, FLOKI sits in the fixed-supply group. Dogecoin is the opposite design: a proof-of-work chain that pays miners a fixed number of new DOGE in every block with no cap, so its supply grows every day. FLOKI, like Shiba Inu and Pepe, is a token with a set supply created at launch and no way to mint more, so its supply can only stay flat or shrink.
+Among large meme coins, FLOKI sits on the fixed-supply side. Dogecoin (DOGE) has no cap and adds 5B new DOGE a year from mining forever, so its supply always grows. FLOKI, Shiba Inu (SHIB) and Pepe (PEPE) were all minted in full at launch, so none of them has new issuance to absorb, and the question becomes how much is burned and how much the team still holds.
 
-What separates FLOKI inside that group is where its burn comes from. Many fixed-supply meme tokens burn only when holders or the team choose to send coins to a dead wallet, which makes the burn lumpy and hard to forecast. FLOKI has two built-in burns: the staking penalty, paid by holders who leave staking early, and a buy-and-burn funded by fees from its token locker. That gives FLOKI a steadier burn than most meme coins, though at about 0.05% of supply per 90 days it is still small.
-
-FLOKI also differs in its treasury. It charges a 0.3% tax on DEX trades that funds a DAO treasury, and that treasury holds a large FLOKI balance it can sell or hand to market makers. Meme coins with no tax and no treasury carry less of that kind of team overhang, while FLOKI's treasury pays for products, marketing and liquidity.
+FLOKI's burn is unusual because most of it is paid by its own holders. Many tokens burn from trading fees or a scheduled buyback; FLOKI's largest burn is the penalty stakers pay to exit early, and the fee buyback is tiny next to it. That makes FLOKI's burn pace swing with holder mood rather than with trading volume. FLOKI also differs from most meme coins in charging a 0.3% DEX tax that funds a team treasury, and that treasury is an active seller.
 
 ## What to watch in the next 90 days
 
-Around Oct 27, Nov 27 and Dec 27 2026: the treasury sent FLOKI to a market maker near the end of each of the last three months (14.42B, 9.77B and 14.00B FLOKI). If that pattern continues, about 38B more FLOKI could reach market-making desks by the end of 2026.
+The next treasury batch to a market maker: the last three came on Jul 27, Aug 27 and Sep 28 2026, so another late in October 2026 would fit the pattern. It adds no new supply but is selling into the market.
 
-The staking pools: they shrank from about 1.75T to 1.69T FLOKI in 90 days. A faster exit from staking means a bigger penalty burn; a calm period means a smaller one.
+Large staking exits: single exits of 797M and 891M FLOKI drove most of the last 90 days. A quiet quarter would cut the burn well below 4.79B.
 
-The locker buyback: the keeper runs these buys every few weeks; a busier token locker would raise the 38.05M FLOKI figure.
+The FlokiFi Locker buyback: it fired on Sep 21 2026 on Ethereum and several times on BNB Chain. A bigger buyback would need much higher locker fees.
 
-Governance: the last FLOKI DAO vote closed in March 2026. Any new vote on the tax, the treasury or the exchange-traded product wallet would show up here before it moves supply.
+Governance: the last DAO vote closed on Mar 3 2026, and no vote on burns, the tax or the treasury is open. A new proposal to burn treasury coins, like the past bridge burns, would move the ledger at once.
 
 ## Summary
 
-The MrNasDog Pressure Framework reads FLOKI at **−0.05%** over the last 90 days and **−0.05%** over the next 90: no new FLOKI can be made, and **4.88B FLOKI** was burned, almost all of it from early-unstake staking penalties. FLOKI's supply on Ethereum and BNB Chain is fixed in code, so it can only shrink, and it shrinks slowly. The key risk is not new supply but the **228.1B FLOKI** held by the team, including the monthly batches the treasury sends to a market maker. The ceiling is the 9.64T FLOKI already circulating; the burn has a long way to go before it changes that number much.
+FLOKI supply is roughly steady and shrinking slightly: **−0.05%** in the last 90 days and about the same in the next 90, with no new coins and **4.83B FLOKI** burned, mostly from staking exit penalties. Floki cannot mint, has no vesting, and has burned more than half of the 20T it ever created across Ethereum and BNB Chain. The main risk to holders is not new supply but team selling: the treasury sold **38.19B FLOKI** to a market maker in 90 days, and team wallets still hold about 228B.
 
 ---
 
-*MrNasDog Pressure Framework analysis of FLOKI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 10 2026.*
+*MrNasDog Pressure Framework analysis of FLOKI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 20 2026.*

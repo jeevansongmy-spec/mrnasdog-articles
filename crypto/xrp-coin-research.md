@@ -33,9 +33,9 @@ Besides supply and demand, we track 3 price drivers for XRP: 1 ▲ and 1 ▼ rig
 | Jul 31 2026 | 32.3 B XRP |
 | Aug 31 2026 | 32 B XRP |
 | Sep 30 2026 | 31.7 B XRP |
-| Oct 20 2026 | 31.4 B XRP |
+| Oct 21 2026 | 31.4 B XRP |
 
-*Checked Oct 20 2026*
+*Checked Oct 21 2026*
 
 ### ▼ US crypto law
 
@@ -53,11 +53,11 @@ Law passes → price up · Law blocked → price down. Today: the price-down cas
 | Nov 3 2026 | US midterm election (coming) |
 | Nov 11 2026 | Senate back, can re-vote (coming) |
 
-*Checked Oct 10 2026*
+*Checked Oct 20 2026*
 
 ### ▲ XRP ETFs
 
-ETFs hold about 1.1B XRP, up 64% since Dec 31 2025.
+ETFs hold about 1.12B XRP, up 64% since Dec 31 2025.
 
 ETFs hold more → price up · ETFs hold less → price down. Today: the price-up case.
 
@@ -66,13 +66,13 @@ ETFs hold more → price up · ETFs hold less → price down. Today: the price-u
 | Dec 31 2025 | 683 M XRP |
 | Mar 31 2026 | 703 M XRP |
 | Jun 30 2026 | 907 M XRP |
-| Oct 2 2026 | 1,118 M XRP |
+| Oct 16 2026 | 1,123 M XRP |
 
-*Checked Oct 10 2026*
+*Checked Oct 20 2026*
 
 ## Supply: how much new XRP is coming
 
-No new XRP is ever minted, but Ripple hands out about 300M XRP from escrow every month, so supply grows about 1.42% a quarter while the fee burn barely registers.
+XRP has a hard 100B cap and no minting, but Ripple releases about 300M XRP a month from its 31.4B escrow, so circulating supply grows about 1.4% every 90 days.
 
 Over the next 90 days XRP supply changes +1.43%; across a full year, +5.70%. That puts supply at 2/5 (growing) (place 41 of 101).
 
@@ -88,17 +88,17 @@ People's appetite for XRP is **strong**: 4/5, ranked #9 of 110.
 
 By the law of supply and demand, XRP's long-run signal is mixed (Oct 20 2026, score 6/10). New supply: +1.43% in the next 90 days. Demand: strong (4/5). XRP's price drivers: 1 ▲ price up, 1 ▼ price down.
 
-### XRP or Solana: which one is the better pick today?
+### How does Ripple's XRP escrow affect the price?
 
-It's close to a tie. Both score 6/10 with a mixed signal on Oct 10 2026, and both show strong demand (4/5). XRP adds a bit less new supply, +1.14% in 90 days against Solana's +1.27%, but that edge is small. Our supply-and-demand read for XRP stays mixed.
+It adds steady new supply. About 9.1B XRP has left Ripple's escrow since Jan 2024, and roughly 0.3B more comes out every 30 days. That is a big part of why XRP's supply grows about +1.43% in the next 90 days. For XRP, the supply-and-demand signal is mixed right now.
 
-### Why is XRP still so low?
+### Could XRP go up if the US crypto law finally passes?
 
-Steady new supply is probably the main weight. About 0.3B XRP leaves Ripple's escrow every 30 days, adding +4.62% in a year. The US crypto law was also blocked 49-50, though the Senate can try again from Nov 11 2026. ETF buying helps on the other side. For XRP, the supply-and-demand signal is mixed right now.
+Probably, since that law is one of XRP's price drivers and right now it points down. It was blocked 49-50, and the Senate can try again from Nov 11 2026. The US midterm election on Nov 3 2026 comes first. Supply and demand still read mixed for XRP in the long run.
 
 ### Can XRP reach $100?
 
-At $100, XRP would be worth about $6.31 trillion in total — about 71 times its $88.6B market cap today (Oct 20 2026, about $1.4 a coin). XRP's supply also grows +5.70% in the next year, so every extra coin needs buyers too. By supply and demand, XRP's long-run signal is mixed today.
+At $100, XRP would be worth about $6.31 trillion in total — about 75 times its $83.8B market cap today (Oct 20 2026, about $1.33 a coin). XRP's supply also grows +5.70% in the next year, so every extra coin needs buyers too. By supply and demand, XRP's long-run signal is mixed today.
 
 ### Should I sell my XRP now?
 
@@ -114,7 +114,7 @@ By the law of supply and demand, the better time to buy XRP is when its new supp
 
 ### What could push XRP's price up or down?
 
-Right now 3 things drive XRP's price (1 ▲, 1 ▼). • Ripple's escrow: 9.1B XRP left escrow since Jan 2024; about 0.3B more every 30 days. ▼ US crypto law: Law blocked 49-50; Senate can try again from Nov 11 2026. ▲ XRP ETFs: ETFs hold about 1.1B XRP, up 64% since Dec 31 2025.
+Right now 3 things drive XRP's price (1 ▲, 1 ▼). • Ripple's escrow: 9.1B XRP left escrow since Jan 2024; about 0.3B more every 30 days. ▼ US crypto law: Law blocked 49-50; Senate can try again from Nov 11 2026. ▲ XRP ETFs: ETFs hold about 1.12B XRP, up 64% since Dec 31 2025.
 
 ### Is XRP a better investment than Bitcoin?
 

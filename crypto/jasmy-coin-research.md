@@ -24,7 +24,7 @@ JasmyCoin has 2 price drivers. Right now: 1 up, 1 down.
 
 ### ▼ Exchange delistings
 
-Korea's Upbit and Bithumb dropped JASMY; Japan's BITPoint follows
+Upbit and Bithumb fully dropped JASMY; BITPoint ends Oct 28 2026
 
 Exchanges keep JASMY → price up · More delistings → price down. Today: the price-down case.
 
@@ -35,10 +35,10 @@ Exchanges keep JASMY → price up · More delistings → price down. Today: the 
 | Sep 4 2026 | BITPoint delist notice |
 | Sep 14 2026 | Korea trading ends |
 | Oct 7 2026 | BITPoint buys end |
-| Oct 14 2026 | Korea withdrawals end (coming) |
+| Oct 14 2026 | Korea withdrawals end |
 | Oct 28 2026 | BITPoint sales end (coming) |
 
-*Checked Oct 10 2026*
+*Checked Oct 20 2026*
 
 ### ▲ Company news flow
 
@@ -55,17 +55,17 @@ Good for the price: More company news. Bad for it: Silence again. Right now it p
 | Jun 2026 | 0 posts |
 | Oct 2026 | 6 posts |
 
-*Checked Oct 10 2026*
+*Checked Oct 20 2026*
 
 ## Supply: how much new JASMY is coming
 
-JasmyCoin has a fixed 50B supply: no new coins, no burn, 0.00% in 90 days. One 555.0M issuer wallet is the only supply left to watch.
+JasmyCoin has a fixed 50B supply: nothing minted, unlocked or burned, 0.00% in 90 days. One 555.0M issuer wallet is the only supply left to watch.
 
 Expect 0.00% more JASMY in 90 days (0.00% over the year). On supply alone JasmyCoin gets 4.5/5 — flat, #83 of 101 for new supply.
 
 ## Demand: how much people want JASMY
 
-How much do people want JASMY? **very weak** — 1.5 out of 5, #80 of 110.
+How much do people want JASMY? **very weak** — 1.5 out of 5, #79 of 110.
 
 A deeper JASMY demand breakdown is on the page for members.
 
@@ -75,21 +75,21 @@ A deeper JASMY demand breakdown is on the page for members.
 
 Supply and demand point to a mixed long-run signal for JasmyCoin (Oct 20 2026, score 6/10). JasmyCoin adds 0.00% new supply in 90 days, and demand reads very weak (1.5/5). JasmyCoin's price drivers: 1 ▲ price up, 1 ▼ price down.
 
-### Is JasmyCoin dead after losing its Korean exchanges?
+### Why is JasmyCoin going down?
 
-Not dead, but hurt. Upbit and Bithumb dropped JASMY, and Korean withdrawals end Oct 14 2026. On the bright side, the company is talking again after 290 days of silence, and new supply stays at 0.00% in 90 days. Demand is the weak part, at 1.5/5. Our supply-and-demand read for JasmyCoin stays mixed.
+Losing exchanges is the likely reason. Korea's Upbit and Bithumb fully dropped JASMY, and Japan's BITPoint ends sales on Oct 28 2026. At about 0.5 cents a coin, the whole of JasmyCoin is worth around $246M (Oct 20 2026). For JasmyCoin, the supply-and-demand signal is mixed right now.
 
-### What does Japan's exchange news mean for JASMY?
+### Is the Jasmy company sharing news again?
 
-It likely adds pressure. Japan's BITPoint is following Korea's Upbit and Bithumb in dropping JASMY, so fewer places to buy it. That hits demand, which already reads very weak (1.5/5) on Oct 10 2026, while supply stays flat. By supply and demand, JasmyCoin's long-run signal is mixed today.
+Yes. After 290 days of silence, the company started putting out news again once Korea delisted JASMY. We count that as one of the few good signs for JasmyCoin right now. Supply and demand still read mixed for JasmyCoin in the long run.
 
 ### Could JasmyCoin ever hit $1?
 
-JasmyCoin trades near 0.501 cents (Oct 20 2026). $1 a coin means a $49.4B market cap, 199 times today's $248M. JasmyCoin's supply barely changes in the next year (0.00%), so the whole move would have to come from demand. Supply and demand still read mixed for JasmyCoin in the long run.
+JasmyCoin trades near 0.493 cents (Oct 20 2026). $1 a coin means a $49.4B market cap, 203 times today's $244M. JasmyCoin's supply barely changes in the next year (0.00%), so the whole move would have to come from demand. Supply and demand still read mixed for JasmyCoin in the long run.
 
 ### Should I sell JasmyCoin or hold?
 
-We would read JasmyCoin differently if new supply jumps (today 0.00% in 90 days), or demand falls from very weak, or Exchange delistings keeps pointing down. Until then JasmyCoin's signal stays mixed. Mark this date for JasmyCoin: Oct 14 2026 — Korea withdrawals end.
+We would read JasmyCoin differently if new supply jumps (today 0.00% in 90 days), or demand falls from very weak, or Exchange delistings keeps pointing down. Until then JasmyCoin's signal stays mixed. Mark this date for JasmyCoin: Oct 28 2026 — BITPoint sales end.
 
 ### Is JasmyCoin worth investing in for the long term?
 
@@ -101,7 +101,7 @@ Supply and demand favor JasmyCoin most when little new supply is coming, demand 
 
 ### Will JasmyCoin go up in 2026?
 
-JasmyCoin's price drivers today: 1 pointing up, 1 pointing down, out of 2. ▼ Exchange delistings: Korea's Upbit and Bithumb dropped JASMY; Japan's BITPoint follows ▲ Company news flow: Company went 290 days silent; news returned after Korea's delisting
+JasmyCoin's price drivers today: 1 pointing up, 1 pointing down, out of 2. ▼ Exchange delistings: Upbit and Bithumb fully dropped JASMY; BITPoint ends Oct 28 2026 ▲ Company news flow: Company went 290 days silent; news returned after Korea's delisting
 
 ### Is JasmyCoin a better investment than Bitcoin?
 
