@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy Injective (INJ)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Our read on Injective for Oct 18 2026: a mixed long-run signal and a score of 5.5/10, from new supply, demand and what moves the price."
+description:   "Our read on Injective for Oct 20 2026: a mixed long-run signal and a score of 6/10, from new supply, demand and what moves the price."
 canonical_url: "https://mrnasdog.com/research/inj"
 content_type:  "coin_hub"
 tags:          ["crypto", "inj", "injective", "should-i-buy"]
@@ -8,13 +8,13 @@ published:     true
 ---
 # Should You Buy Injective (INJ)? Supply, Demand and Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/inj (checked Oct 18 2026)*
+*Originally published at https://mrnasdog.com/research/inj (checked Oct 20 2026)*
 
-Our read on Injective for Oct 18 2026: a **mixed** long-run signal and a score of 5.5/10, from new supply, demand and what moves the price.
+Our read on Injective for Oct 20 2026: a **mixed** long-run signal and a score of 6/10, from new supply, demand and what moves the price.
 
-- **Signal today:** mixed (Oct 18 2026)
-- **MrNasdog score:** 5.5/10 — supply 2/5, demand 3.5/5
-- **New coins:** +1.05% in 90 days · +4.30% in a year
+- **Signal today:** mixed (Oct 20 2026)
+- **MrNasdog score:** 6/10 — supply 2.5/5, demand 3.5/5
+- **New coins:** +0.82% in 90 days · +3.35% in a year
 - **Demand:** strong (3.5/5)
 - **Drivers:** 2 ▲ price up · 0 ▼ price down
 
@@ -57,9 +57,9 @@ Keeps adding INJ → price up · Sells or gets liquidated → price down. Today:
 
 ## Where new Injective comes from
 
-Injective paid stakers 1.09M new INJ in 90 days while three buyback rounds burned 81,846: supply up 1.01%, and about 1.05% next as the higher price shrinks the burn.
+Injective paid stakers 1.09M new INJ in 90 days while three buyback rounds burned 81,846: supply up 0.79%, and about 0.82% next as the higher price shrinks the burn.
 
-New INJ: +1.05% in 90 days, +4.30% in a year. Supply score 2/5, "growing", #47 of 101 for new supply.
+New INJ: +0.82% in 90 days, +3.35% in a year. Supply score 2.5/5, "moderate", #50 of 101 for new supply.
 
 ## How strong is Injective demand?
 
@@ -71,7 +71,7 @@ Members get the rest of the Injective demand read on mrnasdog.com.
 
 ### Is it a good time to buy Injective today?
 
-Supply and demand point to a mixed long-run signal for Injective (Oct 18 2026, score 5.5/10). Injective adds +1.05% new supply in 90 days, and demand reads strong (3.5/5). Injective's price drivers: 2 ▲ price up, 0 ▼ price down.
+Supply and demand point to a mixed long-run signal for Injective (Oct 20 2026, score 6/10). Injective adds +0.82% new supply in 90 days, and demand reads strong (3.5/5). Injective's price drivers: 2 ▲ price up, 0 ▼ price down.
 
 ### Any news on a US Injective ETF?
 
@@ -79,19 +79,19 @@ Some, yes. Two US INJ ETFs have updated their filings, and Injective's CEO expec
 
 ### Is Injective crypto dead, or is there still life in it?
 
-It looks alive. Demand reads strong at 3.5/5 (Oct 16 2026), and both of its price drivers point up: the ETF filings, and Pineapple holding about 7.7M INJ. New supply is small too, about +1.05% in the next 90 days. That leaves Injective's long-run signal at mixed, by supply and demand.
+It looks alive. Demand reads strong at 3.5/5 (Oct 16 2026), and both of its price drivers point up: the ETF filings, and Pineapple holding about 7.7M INJ. New supply is small too, about +0.82% in the next 90 days. That leaves Injective's long-run signal at mixed, by supply and demand.
 
 ### Is it time to take profit on Injective?
 
-We would read Injective differently if new supply keeps arriving (+1.05% in 90 days), or demand falls from strong. Until then Injective's signal stays mixed. Mark this date for Injective: Before 2027 (CEO view) — First US INJ ETF?.
+We would read Injective differently if new supply keeps arriving (+0.82% in 90 days), or demand falls from strong. Until then Injective's signal stays mixed. Mark this date for Injective: Before 2027 (CEO view) — First US INJ ETF?.
 
 ### Is Injective a good investment right now?
 
-Injective scores 5.5/10 on our framework (Oct 18 2026): supply 2/5 (growing), demand 3.5/5. Over the next year Injective's supply changes +4.30%. The long-run signal is mixed.
+Injective scores 6/10 on our framework (Oct 20 2026): supply 2.5/5 (moderate), demand 3.5/5. Over the next year Injective's supply changes +3.35%. The long-run signal is mixed.
 
 ### How do I know when to buy Injective?
 
-Supply and demand favor Injective most when little new supply is coming, demand is strong and the price drivers point up. Right now Injective has +1.05% new supply in 90 days (growing), demand strong (3.5/5), drivers 2 ▲ / 0 ▼.
+Supply and demand favor Injective most when little new supply is coming, demand is strong and the price drivers point up. Right now Injective has +0.82% new supply in 90 days (moderate), demand strong (3.5/5), drivers 2 ▲ / 0 ▼.
 
 ### Will Injective go up in 2026?
 
@@ -99,7 +99,7 @@ Injective's price drivers today: 2 pointing up, 0 pointing down, out of 2. ▲ U
 
 ### Should I buy Injective or Bitcoin?
 
-Injective: mixed signal, 5.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 18 2026). By supply and demand, Injective reads weaker than Bitcoin today.
+Injective: mixed signal, 6/10 · Bitcoin: positive signal, 8.5/10 (Oct 20 2026). By supply and demand, Injective reads weaker than Bitcoin today.
 
 ## More on Injective
 

@@ -1,6 +1,6 @@
 ---
 title: "INJ Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description: "INJ is inflationary: 1.09M INJ of staking issuance against an 81.8K buyback burn gives +1.01% net over 90 days and +1.05% next. Vesting is over; no hard cap."
+description: "INJ is inflationary: 1.09M INJ of staking issuance against an 81.8K buyback burn gives +0.79% net over 90 days and +0.82% next. Vesting is over; no hard cap."
 canonical_url: "https://mrnasdog.com/research/inj/inflation"
 tags: ["crypto", "inj", "injective", "staking"]
 published: true
@@ -12,11 +12,11 @@ Originally published at [INJ Inflation Analysis · October 2026 · Supply growin
 <!-- main-page -->
 This is the long supply read. For the signal, the price drivers and the questions people ask about Injective, see [mrnasdog.com/research/inj](https://mrnasdog.com/research/inj).
 
-INJ supply is growing: about **+1.01%** over the last 90 days and **+1.05%** projected for the next 90. Injective pays its stakers in newly created INJ — **1,092,975 INJ** in 90 days — while the monthly Community BuyBack burned **81,846 INJ**, less than a tenth of the new coins. Every vesting schedule ended in January 2024, so staking issuance is the only source of new INJ, and its 4.4% yearly ceiling is the cap on how fast supply can grow.
+INJ supply is growing: about **+0.79%** over the last 90 days and **+0.82%** projected for the next 90. Injective pays its stakers in newly created INJ — **1,092,975 INJ** in 90 days — while the monthly Community BuyBack burned **81,846 INJ**, less than a tenth of the new coins. Every vesting schedule ended in January 2024, so staking issuance is the only source of new INJ, and its 4.4% yearly ceiling is the cap on how fast supply can grow.
 
 ## The verdict, in one paragraph
 
-Over the 90 days from Jul 18 to Oct 16 2026, INJ supply rose a net **+1.01%** of its 100M circulating coins, and the next 90 days project **+1.05%**. The inflation monitor reads **−0.11%** for the same window, a gap of **−1.12 percentage points**, which is larger than our 0.5-point limit, so the page carries a ⚠ monitor-gap note. We walked the gap and it does not close: the supply count the monitor reads has stayed near 100M INJ every day since Nov 11 2025 — the fixed size of the original Ethereum version of INJ — so it cannot see coins created on the Injective chain. Our number stays. In one line: INJ is inflationary by design on its staking float, with a monthly burn that offsets only a small slice of the mint.
+Over the 90 days from Jul 18 to Oct 16 2026, INJ supply rose a net **+0.79%** of its 128.43M circulating coins on Injective and Ethereum together, and the next 90 days project **+0.82%**. The inflation monitor reads **−0.11%** for the same window, a gap of **−0.90 percentage points**, which is larger than our 0.5-point limit, so the page carries a ⚠ monitor-gap note. We walked the gap and it does not close: the supply count the monitor reads has stayed near 100M INJ every day since Nov 11 2025 — the fixed size of the original Ethereum version of INJ — so it cannot see coins created on the Injective chain. Our number stays. In one line: INJ is inflationary by design on its staking float, with a monthly burn that offsets only a small slice of the mint.
 
 ## Sell pressure: where new INJ comes from
 
@@ -38,7 +38,7 @@ The protocol fee burn is **zero**: nothing is destroyed when a transaction fee i
 
 The Injective community pool holds **6,906 INJ**. It refills from its 5% share of new coins and pays out to market makers through monthly governance votes, the latest passed on Oct 11 2026; we read it from the chain at each rebuild. The Injective Foundation has published no wallet addresses, so its holdings are unknown, and we check its announcements by hand. A listed company reported about **7.56M INJ** in its May 31 2026 filing, bought on the open market. About **5.05M INJ** still sits on Ethereum outside the bridge. The buyback contract holds **14,369 INJ** committed by holders for the Oct 28 round, and those coins are headed for the burn.
 
-All of these balances are already part of the 100M circulating INJ, so none of them books new supply today. If any of these balances falls between refreshes and the coins reach the market from outside the float, that outflow enters Sell #3 at the next refresh.
+All of these balances are already part of the 128.43M circulating INJ, so none of them books new supply today. If any of these balances falls between refreshes and the coins reach the market from outside the float, that outflow enters Sell #3 at the next refresh.
 
 ## How INJ compares to other proof-of-stake chains
 
@@ -60,6 +60,6 @@ Against Ethereum, the shape is similar — new coins for stakers, part of the ac
 
 ## Summary
 
-INJ supply grew about **+1.01%** in the 90 days to Oct 16 2026 and is projected to grow about **+1.05%** in the next 90 days. Injective mints new INJ for stakers at the 4.4% ceiling — **1,092,975 INJ** in 90 days — while the monthly Community BuyBack burned **81,846 INJ**. With vesting finished and no hard cap, the key risk is that staking stays below 60% and the burn stays small next to the mint; the ceiling on new supply is the 4.4% yearly rate.
+INJ supply grew about **+0.79%** in the 90 days to Oct 16 2026 and is projected to grow about **+0.82%** in the next 90 days. Injective mints new INJ for stakers at the 4.4% ceiling — **1,092,975 INJ** in 90 days — while the monthly Community BuyBack burned **81,846 INJ**. With vesting finished and no hard cap, the key risk is that staking stays below 60% and the burn stays small next to the mint; the ceiling on new supply is the 4.4% yearly rate.
 
 *MrNasdog Pressure Framework analysis of INJ, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 16 2026.*

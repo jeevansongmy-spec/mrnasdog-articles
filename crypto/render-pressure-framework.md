@@ -1,6 +1,6 @@
 ---
 title: "RENDER Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description: "RENDER supply is roughly steady: 1.43M RENDER reached the market in 90 days while job burns took out 368K, so net supply grows +0.20%, about the same next."
+description: "RENDER supply is roughly steady: 1.43M RENDER reached the market in 90 days while job burns took out 368K, so net supply grows +0.19%, about the same next."
 canonical_url: "https://mrnasdog.com/research/render/inflation"
 tags: ["crypto", "render", "render-network", "solana"]
 published: true
@@ -12,11 +12,11 @@ published: true
 <!-- main-page -->
 This is the long supply read. For the signal, the price drivers and the questions people ask about Render Network, see [mrnasdog.com/research/render](https://mrnasdog.com/research/render).
 
-RENDER supply is roughly steady, growing slowly. In the 90 days to **Oct 11 2026**, **1.43M RENDER** reached the market — **180,000** from the monthly mint for node operators and **1.25M** released from the Render Network Foundation's reserve — while paid rendering and AI jobs burned **367,955 RENDER**. That leaves net supply up **+0.20%** over 90 days and about the same for the next 90, against a monitor reading of **−0.20%**. The burn-mint equilibrium only tips to shrinking when job burns outgrow the fixed monthly mint.
+RENDER supply is roughly steady, growing slowly. In the 90 days to **Oct 11 2026**, **1.43M RENDER** reached the market — **180,000** from the monthly mint for node operators and **1.25M** released from the Render Network Foundation's reserve — while paid rendering and AI jobs burned **367,955 RENDER**. That leaves net supply up **+0.19%** over 90 days and about the same for the next 90, against a monitor reading of **−0.20%**. The burn-mint equilibrium only tips to shrinking when job burns outgrow the fixed monthly mint.
 
 ## The verdict, in one paragraph
 
-Our ledger reads RENDER at **+0.20%** net over the last 90 days: 1.43M coins in, 367,955 coins burned, measured against **518.78M** circulating RENDER. The forward 90 days project the same **+0.20%**. The monitor reads **−0.20%**, a gap of **0.41 percentage points**, inside our 0.5-point limit, so no warning chip is shown. The monitor follows a supply figure tied to the old Ethereum token, which barely moved in the window, so its small negative number is price noise rather than a burn signal; our reading comes from the Solana chain, where RENDER now lives. In one line: Render Network is a slow-growth burn-mint token whose job burns cover about a quarter of new supply.
+Our ledger reads RENDER at **+0.19%** net over the last 90 days: 1.43M coins in, 367,955 coins burned, measured against **554.12M** circulating RENDER on Solana and Ethereum together. The forward 90 days project the same **+0.19%**. The monitor reads **−0.20%**, a gap of **0.40 percentage points**, inside our 0.5-point limit, so no warning chip is shown. The monitor follows a supply figure tied to the old Ethereum token, which barely moved in the window, so its small negative number is price noise rather than a burn signal; our reading comes from the Solana chain, where RENDER now lives. In one line: Render Network is a slow-growth burn-mint token whose job burns cover about a quarter of new supply.
 
 ## Sell pressure: where new RENDER comes from
 
@@ -58,7 +58,7 @@ The Salad network, approved to join Render as a third subnet, has published its 
 
 ## Summary
 
-Render Network's RENDER is roughly steady, growing about **+0.20%** every 90 days. New supply comes from a fixed monthly mint and quarterly releases from the Foundation's reserve, about 1.43M RENDER in 90 days, while paid rendering and AI jobs burn about 368,000. The key risk is the 81.90M partner vault and any larger reserve release; the key upside is a jump in paid usage, such as the Salad subnet's burns. A hard cap of about 644M limits how far supply can ever grow.
+Render Network's RENDER is roughly steady, growing about **+0.19%** every 90 days. New supply comes from a fixed monthly mint and quarterly releases from the Foundation's reserve, about 1.43M RENDER in 90 days, while paid rendering and AI jobs burn about 368,000. The key risk is the 81.90M partner vault and any larger reserve release; the key upside is a jump in paid usage, such as the Salad subnet's burns. A hard cap of about 644M limits how far supply can ever grow.
 
 ---
 

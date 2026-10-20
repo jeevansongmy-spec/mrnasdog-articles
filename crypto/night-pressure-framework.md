@@ -1,6 +1,6 @@
 ---
 title:         "NIGHT Inflation Analysis · October 2026 · Supply was growing · trend cooling"
-description:   "Supply was growing, trend cooling: no NIGHT minted or burned, but a Jul 20 2026 bridge hack left 514.6M copies unbacked, +3.10% in 90 days; 0.00% next."
+description:   "Supply was growing, trend cooling: no NIGHT minted or burned, but a Jul 20 2026 bridge hack left 514.6M copies unbacked, +3.01% in 90 days; 0.00% next."
 canonical_url: "https://mrnasdog.com/research/night/inflation"
 tags:          ["crypto", "night", "midnight", "cardano"]
 published:     true
@@ -12,11 +12,11 @@ Looking for the buy-or-sell answer? It is on the NIGHT coin page, with demand an
 
 # NIGHT Inflation Analysis · October 2026 · Supply was growing · trend cooling
 
-Midnight (NIGHT) created **0** new coins in the last 90 days and burned **0**, yet the number of NIGHT-priced coins that can trade rose by **514.63M**, or **+3.10%** of the **16.61B** circulating. The cause was a single event: on Jul 20 2026 an outside bridge between Cardano and BNB Chain was drained, and its NIGHT copies on BNB Chain kept trading with almost nothing behind them. For the next 90 days we expect **0.00%**, because the Reserve that will one day pay block producers has not started and the total stays at **24B** under the plan.
+Midnight (NIGHT) created **0** new coins in the last 90 days and burned **0**, yet the number of NIGHT-priced coins that can trade rose by **514.63M**, or **+3.01%** of the **17.12B** that can trade on Cardano and BNB Chain together. The cause was a single event: on Jul 20 2026 an outside bridge between Cardano and BNB Chain was drained, and its NIGHT copies on BNB Chain kept trading with almost nothing behind them. For the next 90 days we expect **0.00%**, because the Reserve that will one day pay block producers has not started and the total stays at **24B** under the plan.
 
 ## The verdict, in one paragraph
 
-Over the 90 days from Jul 18 to Oct 16 2026, NIGHT supply grew **+3.10%** on our count, all of it from the bridge hack, while the monitor we check against reads **+0.00%**. The gap is **3.10** percentage points, large enough that the coin page shows a monitor-gap warning. We walked every source class and kept our number: the monitor's circulating figure is a fixed sum of NIGHT's allocation groups, so it cannot see copies of NIGHT living on another chain. Looking forward, the reading is **0.00%**. In one line: Midnight is a quiet supply chain with one bridge scar.
+Over the 90 days from Jul 18 to Oct 16 2026, NIGHT supply grew **+3.01%** on our count, all of it from the bridge hack, while the monitor we check against reads **+0.00%**. The gap is **3.01** percentage points, large enough that the coin page shows a monitor-gap warning. We walked every source class and kept our number: the monitor's circulating figure is a fixed sum of NIGHT's allocation groups, so it cannot see copies of NIGHT living on another chain. Looking forward, the reading is **0.00%**. In one line: Midnight is a quiet supply chain with one bridge scar.
 
 ## Sell pressure: where new NIGHT comes from
 
@@ -60,7 +60,7 @@ The Foundation and Midnight TGE wallets, including any coins handed back to the 
 
 ## Summary
 
-Midnight (NIGHT) printed no new coins and burned none in the last 90 days, but the Jul 20 2026 bridge hack left **514.63M** NIGHT copies on BNB Chain with nothing behind them, so the coins that can trade grew **+3.10%** while the monitor read **+0.00%**. For the next 90 days we expect **0.00%**, since the 6.00B Reserve has not started paying block producers. The key risk is concentration: the Foundation and Midnight TGE received 12.06B NIGHT unlocked, and 7.39B more waits in protocol wallets. The plan caps the total at 24B NIGHT.
+Midnight (NIGHT) printed no new coins and burned none in the last 90 days, but the Jul 20 2026 bridge hack left **514.63M** NIGHT copies on BNB Chain with nothing behind them, so the coins that can trade grew **+3.01%** while the monitor read **+0.00%**. For the next 90 days we expect **0.00%**, since the 6.00B Reserve has not started paying block producers. The key risk is concentration: the Foundation and Midnight TGE received 12.06B NIGHT unlocked, and 7.39B more waits in protocol wallets. The plan caps the total at 24B NIGHT.
 
 ---
 
