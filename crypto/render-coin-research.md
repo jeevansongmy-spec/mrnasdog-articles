@@ -13,7 +13,7 @@ published:     true
 Supply and demand give Render Network (RENDER) a **positive** long-run signal today (Oct 20 2026); its score is 7/10.
 
 - **Signal today:** positive (by the law of supply and demand)
-- **MrNasdog score:** 7/10 — supply 3.5/5, demand 3.5/5
+- **MrNasDog score:** 7/10 — supply 3.5/5, demand 3.5/5
 - **New coins:** +0.19% in 90 days · +0.77% in a year
 - **Demand:** strong (3.5/5)
 - **Drivers:** 0 ▲ price up · 0 ▼ price down
@@ -100,6 +100,6 @@ Render Network: positive signal, 7/10 · Bitcoin: positive signal, 8.5/10 (Oct 2
 
 - Every RENDER unlock and burn, explained: https://mrnasdog.com/research/render/inflation
 - Compare RENDER with 100+ coins: https://mrnasdog.com/coins
-- The MrNasdog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
+- The MrNasDog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

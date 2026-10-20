@@ -8,12 +8,12 @@ published:     true
 ---
 # Should You Buy Jito (JTO)? Supply, Demand and Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/jto (checked Oct 19 2026)*
+*Originally published at https://mrnasdog.com/research/jto (checked Oct 20 2026)*
 
-**mixed** — that is Jito's long-run signal by supply and demand as of Oct 19 2026, with a score of 4/10.
+**mixed** — that is Jito's long-run signal by supply and demand as of Oct 20 2026, with a score of 4/10.
 
-- **Signal today:** mixed (Oct 19 2026)
-- **MrNasdog score:** 4/10 — supply 1/5, demand 3/5
+- **Signal today:** mixed (Oct 20 2026)
+- **MrNasDog score:** 4/10 — supply 1/5, demand 3/5
 - **New coins:** +3.35% in 90 days · +3.15% in a year
 - **Demand:** moderate (3/5)
 - **Drivers:** 2 ▲ price up · 0 ▼ price down
@@ -26,7 +26,7 @@ New JTO: +3.35% in 90 days, +3.15% in a year. Supply score 1/5, "very heavy" (pl
 
 ## JTO demand
 
-Jito demand: 3/5 (**moderate**), place #30 among 110 coins — interest today plus the buying that could come later.
+Jito demand: 3/5 (**moderate**), place #31 among 110 coins — interest today plus the buying that could come later.
 
 Extra Jito demand detail for members stays on the live page.
 
@@ -84,7 +84,7 @@ Good for the price: ETF approved. Bad for it: ETF rejected.
 
 ### Should I enter Jito right now?
 
-By the law of supply and demand, Jito's long-run signal is mixed (Oct 19 2026, score 4/10). New supply: +3.35% in the next 90 days. Demand: moderate (3/5). Jito's price drivers: 2 ▲ price up, 0 ▼ price down.
+By the law of supply and demand, Jito's long-run signal is mixed (Oct 20 2026, score 4/10). New supply: +3.35% in the next 90 days. Demand: moderate (3/5). Jito's price drivers: 2 ▲ price up, 0 ▼ price down.
 
 ### Jito crypto news: what's coming before year-end?
 
@@ -96,7 +96,7 @@ Jito's signal is mixed for now. Jito's signal would turn if new supply keeps arr
 
 ### Is Jito a good investment right now?
 
-Jito sits at 4/10 today (Oct 19 2026): supply 1/5, demand 3/5. One more year adds +3.15% to Jito's supply. Long-run signal: mixed.
+Jito sits at 4/10 today (Oct 20 2026): supply 1/5, demand 3/5. One more year adds +3.15% to Jito's supply. Long-run signal: mixed.
 
 ### When is a good time to buy Jito?
 
@@ -108,7 +108,7 @@ Right now 3 things drive Jito's price (2 ▲, 0 ▼). ▲ JitoSOL size: Half the
 
 ### Should I buy Jito or Bitcoin?
 
-Side by side on Oct 19 2026: Jito at 4/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Jito is the weaker of the two.
+Side by side on Oct 20 2026: Jito at 4/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Jito is the weaker of the two.
 
 ## Next steps for JTO
 

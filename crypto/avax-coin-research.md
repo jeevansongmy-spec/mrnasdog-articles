@@ -1,6 +1,6 @@
 ---
 title:         "Avalanche (AVAX): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)"
-description:   "Is Avalanche worth buying today? By the law of supply and demand, the long-run signal for AVAX is mixed (score 5.5/10, checked Oct 18 2026)."
+description:   "Is Avalanche worth buying today? By the law of supply and demand, the long-run signal for AVAX is mixed (score 5.5/10, checked Oct 20 2026)."
 canonical_url: "https://mrnasdog.com/research/avax"
 content_type:  "coin_hub"
 tags:          ["crypto", "avax", "avalanche", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Avalanche (AVAX): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)
 
-*Source: https://mrnasdog.com/research/avax — numbers checked Oct 18 2026*
+*Source: https://mrnasdog.com/research/avax — numbers checked Oct 20 2026*
 
-Is Avalanche worth buying today? By the law of supply and demand, the long-run signal for AVAX is **mixed** (score 5.5/10, checked Oct 18 2026).
+Is Avalanche worth buying today? By the law of supply and demand, the long-run signal for AVAX is **mixed** (score 5.5/10, checked Oct 20 2026).
 
 - **Long-run signal:** mixed — AVAX, read by supply and demand
 - **Score:** 5.5/10 — supply 2.5/5, demand 3/5
@@ -60,7 +60,7 @@ US funds' AVAX rose from 0.8M to 4.9M by Jun 30 2026.
 
 ## Who wants Avalanche right now
 
-How much do people want AVAX? **moderate** — 3 out of 5, #30 of 110.
+How much do people want AVAX? **moderate** — 3 out of 5, #31 of 110.
 
 A deeper AVAX demand breakdown is on the page for members.
 
@@ -68,7 +68,7 @@ A deeper AVAX demand breakdown is on the page for members.
 
 ### Should I buy Avalanche now, or wait?
 
-Supply and demand point to a mixed long-run signal for Avalanche (Oct 18 2026, score 5.5/10). Avalanche adds +0.80% new supply in 90 days, and demand reads moderate (3/5). Avalanche's price drivers: 1 ▲ price up, 1 ▼ price down.
+Supply and demand point to a mixed long-run signal for Avalanche (Oct 20 2026, score 5.5/10). Avalanche adds +0.80% new supply in 90 days, and demand reads moderate (3/5). Avalanche's price drivers: 1 ▲ price up, 1 ▼ price down.
 
 ### Is Avalanche (AVAX) a dead coin now?
 
@@ -80,7 +80,7 @@ We would read Avalanche differently if new supply keeps arriving (+0.80% in 90 d
 
 ### Is Avalanche worth investing in for the long term?
 
-Avalanche scores 5.5/10 on our framework (Oct 18 2026): supply 2.5/5 (moderate), demand 3/5. Over the next year Avalanche's supply changes +3.19%. The long-run signal is mixed.
+Avalanche scores 5.5/10 on our framework (Oct 20 2026): supply 2.5/5 (moderate), demand 3/5. Over the next year Avalanche's supply changes +3.19%. The long-run signal is mixed.
 
 ### How do I know when to buy Avalanche?
 
@@ -92,12 +92,12 @@ Avalanche's price drivers today: 1 pointing up, 1 pointing down, out of 2. ▼ T
 
 ### Is Avalanche a better investment than Bitcoin?
 
-Avalanche: mixed signal, 5.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 18 2026). By supply and demand, Avalanche reads weaker than Bitcoin today.
+Avalanche: mixed signal, 5.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 20 2026). By supply and demand, Avalanche reads weaker than Bitcoin today.
 
 ## More on Avalanche
 
 - The long read on Avalanche supply: https://mrnasdog.com/research/avax/inflation
 - Which crypto to buy now — AVAX next to every coin we rank: https://mrnasdog.com/coins
-- How the Avalanche score is built: https://mrnasdog.com/research/pressure-framework/full
+- About the Avalanche score: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

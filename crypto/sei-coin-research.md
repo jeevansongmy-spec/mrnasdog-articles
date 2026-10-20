@@ -1,6 +1,6 @@
 ---
 title:         "Is Sei Network (SEI) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)"
-description:   "By the law of supply and demand, Sei Network's long-run signal is negative (Oct 18 2026, score 2/10). New supply: +4.96% in the next 90 days. Demand: very weak (1.5/5). Sei Network's price drivers: 0 ▲ price up, 1 ▼ price down."
+description:   "By the law of supply and demand, Sei Network's long-run signal is negative (Oct 20 2026, score 2/10). New supply: +4.96% in the next 90 days. Demand: very weak (1.5/5). Sei Network's price drivers: 0 ▲ price up, 1 ▼ price down."
 canonical_url: "https://mrnasdog.com/research/sei"
 content_type:  "coin_hub"
 tags:          ["crypto", "sei", "seinetwork", "should-i-buy"]
@@ -8,11 +8,11 @@ published:     true
 ---
 # Is Sei Network (SEI) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/sei (checked Oct 18 2026)*
+*Originally published at https://mrnasdog.com/research/sei (checked Oct 20 2026)*
 
-**negative** — that is Sei Network's long-run signal by supply and demand as of Oct 18 2026, with a score of 2/10.
+**negative** — that is Sei Network's long-run signal by supply and demand as of Oct 20 2026, with a score of 2/10.
 
-- **Long-run signal:** negative (Oct 18 2026)
+- **Long-run signal:** negative (Oct 20 2026)
 - **Score:** 2/10 — supply 0.5/5, demand 1.5/5
 - **New supply:** +4.96% in 90 days · +17.50% in a year
 - **Demand:** very weak (1.5/5)
@@ -22,7 +22,7 @@ published:     true
 
 ### Is it a good time to buy Sei Network today?
 
-By the law of supply and demand, Sei Network's long-run signal is negative (Oct 18 2026, score 2/10). New supply: +4.96% in the next 90 days. Demand: very weak (1.5/5). Sei Network's price drivers: 0 ▲ price up, 1 ▼ price down.
+By the law of supply and demand, Sei Network's long-run signal is negative (Oct 20 2026, score 2/10). New supply: +4.96% in the next 90 days. Demand: very weak (1.5/5). Sei Network's price drivers: 0 ▲ price up, 1 ▼ price down.
 
 ### Is Sei Network dead, or is it still building?
 
@@ -34,7 +34,7 @@ Sei Network's signal is negative for now. Sei Network's signal would turn if new
 
 ### Is Sei Network a good investment right now?
 
-Sei Network sits at 2/10 today (Oct 18 2026): supply 0.5/5, demand 1.5/5. One more year adds +17.50% to Sei Network's supply. Long-run signal: negative.
+Sei Network sits at 2/10 today (Oct 20 2026): supply 0.5/5, demand 1.5/5. One more year adds +17.50% to Sei Network's supply. Long-run signal: negative.
 
 ### When is a good time to buy Sei Network?
 
@@ -46,7 +46,7 @@ Right now 3 things drive Sei Network's price (0 ▲, 1 ▼). • US SEI ETFs: Th
 
 ### Should I buy Sei Network or Bitcoin?
 
-Side by side on Oct 18 2026: Sei Network at 2/10 with a negative signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Sei Network is the weaker of the two.
+Side by side on Oct 20 2026: Sei Network at 2/10 with a negative signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Sei Network is the weaker of the two.
 
 ## How fast Sei Network supply grows
 
@@ -56,7 +56,7 @@ New SEI: +4.96% in 90 days, +17.50% in a year. Supply score 0.5/5, "flooding".
 
 ## Demand: how much people want SEI
 
-Sei Network demand: 1.5/5 (**very weak**), place #80 among 110 coins — interest today plus the buying that could come later.
+Sei Network demand: 1.5/5 (**very weak**), place #79 among 110 coins — interest today plus the buying that could come later.
 
 The members-only part of SEI's demand section is not included.
 
@@ -112,7 +112,7 @@ Dollars on Sei fell by about half since Dec 31 2025.
 | Jul 31 2026 | $42.9M |
 | Aug 31 2026 | $44.7M |
 | Sep 30 2026 | $48M |
-| Oct 18 2026 | $46.8M |
+| Oct 20 2026 | $46.4M |
 
 *Checked Oct 17 2026*
 

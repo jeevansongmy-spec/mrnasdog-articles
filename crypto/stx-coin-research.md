@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy Stacks (STX)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Our read on Stacks for Oct 18 2026: a mixed long-run signal and a score of 4.5/10, from new supply, demand and what moves the price."
+description:   "Our read on Stacks for Oct 20 2026: a mixed long-run signal and a score of 4.5/10, from new supply, demand and what moves the price."
 canonical_url: "https://mrnasdog.com/research/stx"
 content_type:  "coin_hub"
 tags:          ["crypto", "stx", "stacks", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy Stacks (STX)? Supply, Demand and Price Drivers (Oct 2026)
 
-*From https://mrnasdog.com/research/stx, updated Oct 18 2026*
+*From https://mrnasdog.com/research/stx, updated Oct 20 2026*
 
-Our read on Stacks for Oct 18 2026: a **mixed** long-run signal and a score of 4.5/10, from new supply, demand and what moves the price.
+Our read on Stacks for Oct 20 2026: a **mixed** long-run signal and a score of 4.5/10, from new supply, demand and what moves the price.
 
 - **Long-run signal:** mixed for Stacks
 - **Score:** 4.5/10 — supply 2/5, demand 2.5/5
@@ -26,7 +26,7 @@ Stacks adds +1.27% new supply in the next 90 days and +5.40% over a year — sup
 
 ## Demand: how much people want STX
 
-Demand reads **modest** (2.5/5), #45 of 110 coins we track — that is how much people want STX now and how much buying could still come.
+Demand reads **modest** (2.5/5), #46 of 110 coins we track — that is how much people want STX now and how much buying could still come.
 
 The members-only part of STX's demand section is not included.
 
@@ -45,7 +45,7 @@ More BTC flows in → price up · BTC leaves Stacks → price down. Right now it
 | Jul 27 2026 | 2,875 BTC |
 | Aug 31 2026 | 2,441 BTC |
 | Sep 30 2026 | 2,481 BTC |
-| Oct 18 2026 | 2,489 BTC |
+| Oct 20 2026 | 2,489 BTC |
 
 *Checked Oct 17 2026*
 
@@ -87,7 +87,7 @@ Good for the price: Roadmap delivered, institutions join. Bad for it: Plans stal
 
 ### Is it a good time to buy Stacks today?
 
-By the law of supply and demand, Stacks's long-run signal is mixed (Oct 18 2026, score 4.5/10). New supply: +1.27% in the next 90 days. Demand: modest (2.5/5). Stacks's price drivers: 2 ▲ price up, 1 ▼ price down.
+By the law of supply and demand, Stacks's long-run signal is mixed (Oct 20 2026, score 4.5/10). New supply: +1.27% in the next 90 days. Demand: modest (2.5/5). Stacks's price drivers: 2 ▲ price up, 1 ▼ price down.
 
 ### Is Stacks (STX) a dead crypto project now?
 
@@ -99,7 +99,7 @@ Stacks's signal is mixed for now. Stacks's signal would turn if new supply keeps
 
 ### Is Stacks a good investment in 2026?
 
-Stacks sits at 4.5/10 today (Oct 18 2026): supply 2/5, demand 2.5/5. One more year adds +5.40% to Stacks's supply. Long-run signal: mixed.
+Stacks sits at 4.5/10 today (Oct 20 2026): supply 2/5, demand 2.5/5. One more year adds +5.40% to Stacks's supply. Long-run signal: mixed.
 
 ### When is a good time to buy Stacks?
 
@@ -111,7 +111,7 @@ Right now 3 things drive Stacks's price (2 ▲, 1 ▼). ▼ BTC on Stacks: BTC o
 
 ### Should I buy Stacks or Bitcoin?
 
-Side by side on Oct 18 2026: Stacks at 4.5/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Stacks is the weaker of the two.
+Side by side on Oct 20 2026: Stacks at 4.5/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Stacks is the weaker of the two.
 
 ## More on Stacks
 

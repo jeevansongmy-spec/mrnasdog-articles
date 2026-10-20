@@ -13,7 +13,7 @@ published:     true
 Our read on Injective for Oct 20 2026: a **mixed** long-run signal and a score of 6/10, from new supply, demand and what moves the price.
 
 - **Signal today:** mixed (Oct 20 2026)
-- **MrNasdog score:** 6/10 — supply 2.5/5, demand 3.5/5
+- **MrNasDog score:** 6/10 — supply 2.5/5, demand 3.5/5
 - **New coins:** +0.82% in 90 days · +3.35% in a year
 - **Demand:** strong (3.5/5)
 - **Drivers:** 2 ▲ price up · 0 ▼ price down

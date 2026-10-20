@@ -1,6 +1,6 @@
 ---
 title:         "Aave — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Supply and demand give Aave a positive long-run signal today (Oct 18 2026); its score is 7/10."
+description:   "Supply and demand give Aave a positive long-run signal today (Oct 20 2026); its score is 7/10."
 canonical_url: "https://mrnasdog.com/research/aave"
 content_type:  "coin_hub"
 tags:          ["crypto", "aave", "aave", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Aave — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
 
-*From https://mrnasdog.com/research/aave, updated Oct 18 2026*
+*From https://mrnasdog.com/research/aave, updated Oct 20 2026*
 
-Supply and demand give Aave a **positive** long-run signal today (Oct 18 2026); its score is 7/10.
+Supply and demand give Aave a **positive** long-run signal today (Oct 20 2026); its score is 7/10.
 
 - **Signal:** positive for Aave
 - **Score:** 7/10 — supply 3.5/5, demand 3.5/5
@@ -33,7 +33,7 @@ Deposits recovering since June, still far below the Sep 2025 peak.
 | Jul 31 2026 | $14.6B |
 | Aug 31 2026 | $17.7B |
 | Sep 30 2026 | $19.1B |
-| Oct 18 2026 | $18B |
+| Oct 20 2026 | $17.9B |
 
 *Checked Oct 13 2026*
 
@@ -86,7 +86,7 @@ Members get the rest of the Aave demand read on mrnasdog.com.
 
 ### Should I buy Aave now, or wait?
 
-Supply and demand point to a positive long-run signal for Aave (Oct 18 2026, score 7/10). Aave adds +0.15% new supply in 90 days, and demand reads strong (3.5/5). Aave's price drivers: 2 ▲ price up, 0 ▼ price down.
+Supply and demand point to a positive long-run signal for Aave (Oct 20 2026, score 7/10). Aave adds +0.15% new supply in 90 days, and demand reads strong (3.5/5). Aave's price drivers: 2 ▲ price up, 0 ▼ price down.
 
 ### What is pushing Aave up lately?
 
@@ -94,7 +94,7 @@ Two drivers likely help. Money deposited in Aave has been recovering since June,
 
 ### Could Aave ever hit $1,000?
 
-Aave trades near $158 (Oct 18 2026). $1,000 a coin means a $15.4B market cap, 6.3 times today's $2.44B. Aave's supply also grows +0.60% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Aave stays positive.
+Aave trades near $158 (Oct 20 2026). $1,000 a coin means a $15.4B market cap, 6.3 times today's $2.44B. Aave's supply also grows +0.60% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Aave stays positive.
 
 ### When should I sell Aave?
 
@@ -102,7 +102,7 @@ We would read Aave differently if new supply jumps (today +0.15% in 90 days), or
 
 ### Is Aave a good investment in 2026?
 
-Aave scores 7/10 on our framework (Oct 18 2026): supply 3.5/5 (steady), demand 3.5/5. Over the next year Aave's supply changes +0.60%. The long-run signal is positive.
+Aave scores 7/10 on our framework (Oct 20 2026): supply 3.5/5 (steady), demand 3.5/5. Over the next year Aave's supply changes +0.60%. The long-run signal is positive.
 
 ### How do I know when to buy Aave?
 
@@ -114,7 +114,7 @@ Aave's price drivers today: 2 pointing up, 0 pointing down, out of 3. ▲ Money 
 
 ### Should I buy Aave or Bitcoin?
 
-Aave: positive signal, 7/10 · Bitcoin: positive signal, 8.5/10 (Oct 18 2026). By supply and demand, Aave reads weaker than Bitcoin today.
+Aave: positive signal, 7/10 · Bitcoin: positive signal, 8.5/10 (Oct 20 2026). By supply and demand, Aave reads weaker than Bitcoin today.
 
 ## Read more on AAVE
 

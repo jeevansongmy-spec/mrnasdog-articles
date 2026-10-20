@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy TAO? Bittensor Supply, Demand and What Moves Its Price"
-description:   "Is Bittensor worth buying today? By the law of supply and demand, the long-run signal for TAO is mixed (score 6/10, checked Oct 18 2026)."
+description:   "Is Bittensor worth buying today? By the law of supply and demand, the long-run signal for TAO is mixed (score 6/10, checked Oct 20 2026)."
 canonical_url: "https://mrnasdog.com/research/tao"
 content_type:  "coin_hub"
 tags:          ["crypto", "tao", "bittensor", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy TAO? Bittensor Supply, Demand and What Moves Its Price
 
-*Source: https://mrnasdog.com/research/tao — numbers checked Oct 18 2026*
+*Source: https://mrnasdog.com/research/tao — numbers checked Oct 20 2026*
 
-Is Bittensor worth buying today? By the law of supply and demand, the long-run signal for TAO is **mixed** (score 6/10, checked Oct 18 2026).
+Is Bittensor worth buying today? By the law of supply and demand, the long-run signal for TAO is **mixed** (score 6/10, checked Oct 20 2026).
 
 - **Long-run signal:** mixed — TAO, read by supply and demand
 - **Score:** 6/10 — supply 1/5, demand 5/5
@@ -22,7 +22,7 @@ Is Bittensor worth buying today? By the law of supply and demand, the long-run s
 
 ### Should I buy Bittensor now, or wait?
 
-By the law of supply and demand, Bittensor's long-run signal is mixed (Oct 18 2026, score 6/10). New supply: +2.79% in the next 90 days. Demand: exceptional (5/5). Bittensor's price drivers: 1 ▲ price up, 0 ▼ price down.
+By the law of supply and demand, Bittensor's long-run signal is mixed (Oct 20 2026, score 6/10). New supply: +2.79% in the next 90 days. Demand: exceptional (5/5). Bittensor's price drivers: 1 ▲ price up, 0 ▼ price down.
 
 ### Is Bittensor the next Bitcoin?
 
@@ -34,7 +34,7 @@ Bittensor looks far from dead. Demand scores 5/5 on our framework (Oct 13 2026),
 
 ### Can Bittensor reach $10,000?
 
-At $10,000, Bittensor would be worth about $113B in total — about 36 times its $3.12B market cap today (Oct 18 2026, about $275 a coin). Bittensor's supply also grows +11.30% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Bittensor stays mixed.
+At $10,000, Bittensor would be worth about $113B in total — about 36 times its $3.12B market cap today (Oct 20 2026, about $275 a coin). Bittensor's supply also grows +11.30% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Bittensor stays mixed.
 
 ### Should I sell Bittensor or hold?
 
@@ -42,7 +42,7 @@ Bittensor's signal is mixed for now. Bittensor's signal would turn if new supply
 
 ### Is Bittensor worth investing in for the long term?
 
-Bittensor sits at 6/10 today (Oct 18 2026): supply 1/5, demand 5/5. One more year adds +11.30% to Bittensor's supply. Long-run signal: mixed.
+Bittensor sits at 6/10 today (Oct 20 2026): supply 1/5, demand 5/5. One more year adds +11.30% to Bittensor's supply. Long-run signal: mixed.
 
 ### When is a good time to buy Bittensor?
 
@@ -54,7 +54,7 @@ Right now 2 things drive Bittensor's price (1 ▲, 0 ▼). ▲ Big TAO holders: 
 
 ### Is Bittensor a better investment than Bitcoin?
 
-Side by side on Oct 18 2026: Bittensor at 6/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Bittensor is the weaker of the two.
+Side by side on Oct 20 2026: Bittensor at 6/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Bittensor is the weaker of the two.
 
 ## Supply: how much new TAO is coming
 
@@ -107,6 +107,6 @@ Good for the price: ETF approved. Bad for it: ETF blocked.
 
 - The long read on Bittensor supply: https://mrnasdog.com/research/tao/inflation
 - Which crypto to buy now — TAO next to every coin we rank: https://mrnasdog.com/coins
-- How the Bittensor score is built: https://mrnasdog.com/research/pressure-framework/full
+- About the Bittensor score: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

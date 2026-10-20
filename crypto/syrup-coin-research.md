@@ -1,6 +1,6 @@
 ---
 title:         "Maple Finance (SYRUP) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Our read on Maple Finance for Oct 19 2026: a mixed long-run signal and a score of 5/10, from new supply, demand and what moves the price."
+description:   "Our read on Maple Finance for Oct 20 2026: a mixed long-run signal and a score of 5/10, from new supply, demand and what moves the price."
 canonical_url: "https://mrnasdog.com/research/syrup"
 content_type:  "coin_hub"
 tags:          ["crypto", "syrup", "maplefinance", "should-i-buy"]
@@ -8,12 +8,12 @@ published:     true
 ---
 # Maple Finance (SYRUP) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/syrup (checked Oct 19 2026)*
+*Originally published at https://mrnasdog.com/research/syrup (checked Oct 20 2026)*
 
-Our read on Maple Finance for Oct 19 2026: a **mixed** long-run signal and a score of 5/10, from new supply, demand and what moves the price.
+Our read on Maple Finance for Oct 20 2026: a **mixed** long-run signal and a score of 5/10, from new supply, demand and what moves the price.
 
-- **Signal today:** mixed (Oct 19 2026)
-- **MrNasdog score:** 5/10 — supply 2/5, demand 3/5
+- **Signal today:** mixed (Oct 20 2026)
+- **MrNasDog score:** 5/10 — supply 2/5, demand 3/5
 - **New coins:** +1.14% in 90 days · +4.62% in a year
 - **Demand:** moderate (3/5)
 - **Drivers:** 1 ▲ price up · 1 ▼ price down
@@ -26,7 +26,7 @@ New SYRUP: +1.14% in 90 days, +4.62% in a year. Supply score 2/5, "growing" (pla
 
 ## Who wants Maple Finance right now
 
-Maple Finance demand: 3/5 (**moderate**), place #30 among 110 coins — interest today plus the buying that could come later.
+Maple Finance demand: 3/5 (**moderate**), place #31 among 110 coins — interest today plus the buying that could come later.
 
 The members-only part of SYRUP's demand section is not included.
 
@@ -72,7 +72,7 @@ New big partners join → price up · Partners leave or default → price down. 
 
 ### Is it time to buy the Maple Finance dip?
 
-By the law of supply and demand, Maple Finance's long-run signal is mixed (Oct 19 2026, score 5/10). New supply: +1.14% in the next 90 days. Demand: moderate (3/5). Maple Finance's price drivers: 1 ▲ price up, 1 ▼ price down.
+By the law of supply and demand, Maple Finance's long-run signal is mixed (Oct 20 2026, score 5/10). New supply: +1.14% in the next 90 days. Demand: moderate (3/5). Maple Finance's price drivers: 1 ▲ price up, 1 ▼ price down.
 
 ### Maple Finance SYRUP news: what changed lately?
 
@@ -84,7 +84,7 @@ Maple Finance's signal is mixed for now. Maple Finance's signal would turn if ne
 
 ### Is Maple Finance a good investment right now?
 
-Maple Finance sits at 5/10 today (Oct 19 2026): supply 2/5, demand 3/5. One more year adds +4.62% to Maple Finance's supply. Long-run signal: mixed.
+Maple Finance sits at 5/10 today (Oct 20 2026): supply 2/5, demand 3/5. One more year adds +4.62% to Maple Finance's supply. Long-run signal: mixed.
 
 ### When is a good time to buy Maple Finance?
 
@@ -96,7 +96,7 @@ Right now 2 things drive Maple Finance's price (1 ▲, 1 ▼). ▼ Maple AUM: AU
 
 ### Should I buy Maple Finance or Bitcoin?
 
-Side by side on Oct 19 2026: Maple Finance at 5/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Maple Finance is the weaker of the two.
+Side by side on Oct 20 2026: Maple Finance at 5/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Maple Finance is the weaker of the two.
 
 ## Read more on SYRUP
 

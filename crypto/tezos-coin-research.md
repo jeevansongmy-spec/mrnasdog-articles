@@ -1,6 +1,6 @@
 ---
 title:         "Tezos (XTZ) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Our read on Tezos for Oct 19 2026: a negative long-run signal and a score of 5/10, from new supply, demand and what moves the price."
+description:   "Our read on Tezos for Oct 20 2026: a negative long-run signal and a score of 5/10, from new supply, demand and what moves the price."
 canonical_url: "https://mrnasdog.com/research/tezos"
 content_type:  "coin_hub"
 tags:          ["crypto", "xtz", "tezos", "should-i-buy"]
@@ -8,12 +8,12 @@ published:     true
 ---
 # Tezos (XTZ) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
 
-*From https://mrnasdog.com/research/tezos, updated Oct 19 2026*
+*From https://mrnasdog.com/research/tezos, updated Oct 20 2026*
 
-Our read on Tezos for Oct 19 2026: a **negative** long-run signal and a score of 5/10, from new supply, demand and what moves the price.
+Our read on Tezos for Oct 20 2026: a **negative** long-run signal and a score of 5/10, from new supply, demand and what moves the price.
 
 - **Signal today:** negative for Tezos
-- **MrNasdog score:** 5/10 — supply 2.5/5, demand 2.5/5
+- **MrNasDog score:** 5/10 — supply 2.5/5, demand 2.5/5
 - **New coins:** +0.73% in 90 days · +2.93% in a year
 - **Demand:** modest (2.5/5)
 - **Drivers:** 1 ▲ price up · 2 ▼ price down
@@ -78,7 +78,7 @@ Tezos adds +0.73% new supply in the next 90 days and +2.93% over a year — supp
 
 ## How strong is Tezos demand?
 
-Demand reads **modest** (2.5/5), #45 of 110 coins we track — that is how much people want XTZ now and how much buying could still come.
+Demand reads **modest** (2.5/5), #46 of 110 coins we track — that is how much people want XTZ now and how much buying could still come.
 
 Extra Tezos demand detail for members stays on the live page.
 
@@ -86,7 +86,7 @@ Extra Tezos demand detail for members stays on the live page.
 
 ### Should I buy Tezos now, or wait?
 
-Supply and demand point to a negative long-run signal for Tezos (Oct 19 2026, score 5/10). Tezos adds +0.73% new supply in 90 days, and demand reads modest (2.5/5). Tezos's price drivers: 1 ▲ price up, 2 ▼ price down.
+Supply and demand point to a negative long-run signal for Tezos (Oct 20 2026, score 5/10). Tezos adds +0.73% new supply in 90 days, and demand reads modest (2.5/5). Tezos's price drivers: 1 ▲ price up, 2 ▼ price down.
 
 ### Is Tezos dead, or is the project still alive?
 
@@ -98,7 +98,7 @@ Oct 21 2026 is the date to watch. The window for new upgrade proposals closes th
 
 ### Could Tezos ever hit $100?
 
-Tezos trades near 29.9 cents (Oct 19 2026). $100 a coin means a $110B market cap, 334 times today's $329M. Tezos's supply also grows +2.93% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Tezos stays negative.
+Tezos trades near 29.9 cents (Oct 20 2026). $100 a coin means a $110B market cap, 334 times today's $329M. Tezos's supply also grows +2.93% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Tezos stays negative.
 
 ### When should I sell Tezos?
 
@@ -106,7 +106,7 @@ We would read Tezos differently if new supply keeps arriving (+0.73% in 90 days)
 
 ### Is Tezos a good investment in 2026?
 
-Tezos scores 5/10 on our framework (Oct 19 2026): supply 2.5/5 (moderate), demand 2.5/5. Over the next year Tezos's supply changes +2.93%. The long-run signal is negative.
+Tezos scores 5/10 on our framework (Oct 20 2026): supply 2.5/5 (moderate), demand 2.5/5. Over the next year Tezos's supply changes +2.93%. The long-run signal is negative.
 
 ### How do I know when to buy Tezos?
 
@@ -118,7 +118,7 @@ Tezos's price drivers today: 1 pointing up, 2 pointing down, out of 3. ▼ Ether
 
 ### Should I buy Tezos or Bitcoin?
 
-Tezos: negative signal, 5/10 · Bitcoin: positive signal, 8.5/10 (Oct 19 2026). By supply and demand, Tezos reads weaker than Bitcoin today.
+Tezos: negative signal, 5/10 · Bitcoin: positive signal, 8.5/10 (Oct 20 2026). By supply and demand, Tezos reads weaker than Bitcoin today.
 
 ## Where to read the rest of XTZ
 

@@ -1,6 +1,6 @@
 ---
 title:         "Is Pudgy Penguins (PENGU) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)"
-description:   "Our read on Pudgy Penguins for Oct 18 2026: a mixed long-run signal and a score of 4/10, from new supply, demand and what moves the price."
+description:   "Our read on Pudgy Penguins for Oct 20 2026: a negative long-run signal and a score of 3.5/10, from new supply, demand and what moves the price."
 canonical_url: "https://mrnasdog.com/research/pengu"
 content_type:  "coin_hub"
 tags:          ["crypto", "pengu", "pudgypenguins", "should-i-buy"]
@@ -8,14 +8,14 @@ published:     true
 ---
 # Is Pudgy Penguins (PENGU) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/pengu (checked Oct 18 2026)*
+*Originally published at https://mrnasdog.com/research/pengu (checked Oct 20 2026)*
 
-Our read on Pudgy Penguins for Oct 18 2026: a **mixed** long-run signal and a score of 4/10, from new supply, demand and what moves the price.
+Our read on Pudgy Penguins for Oct 20 2026: a **negative** long-run signal and a score of 3.5/10, from new supply, demand and what moves the price.
 
-- **Signal today:** mixed (Oct 18 2026)
-- **MrNasdog score:** 4/10 — supply 1.5/5, demand 2.5/5
+- **Signal today:** negative (Oct 20 2026)
+- **MrNasDog score:** 3.5/10 — supply 1.5/5, demand 2/5
 - **New coins:** +1.86% in 90 days · +7.54% in a year
-- **Demand:** modest (2.5/5)
+- **Demand:** weak (2/5)
 - **Drivers:** 1 ▲ price up · 0 ▼ price down
 
 ## New PENGU hitting the market
@@ -26,7 +26,7 @@ New PENGU: +1.86% in 90 days, +7.54% in a year. Supply score 1.5/5, "meme coin".
 
 ## Demand: how much people want PENGU
 
-Pudgy Penguins demand: 2.5/5 (**modest**), place #45 among 110 coins — interest today plus the buying that could come later.
+Pudgy Penguins demand: 2/5 (**weak**), place #66 among 110 coins — interest today plus the buying that could come later.
 
 A deeper PENGU demand breakdown is on the page for members.
 
@@ -74,31 +74,31 @@ Good for the price: More toys sold. Bad for it: Retail sales fade. Today: the pr
 
 ### Should I enter Pudgy Penguins right now?
 
-Supply and demand point to a mixed long-run signal for Pudgy Penguins (Oct 18 2026, score 4/10). Pudgy Penguins adds +1.86% new supply in 90 days, and demand reads modest (2.5/5). Pudgy Penguins's price drivers: 1 ▲ price up, 0 ▼ price down.
+Supply and demand point to a negative long-run signal for Pudgy Penguins (Oct 20 2026, score 3.5/10). Pudgy Penguins adds +1.86% new supply in 90 days, and demand reads weak (2/5). Pudgy Penguins's price drivers: 1 ▲ price up, 0 ▼ price down.
 
 ### Why is Pudgy Penguins so popular outside crypto?
 
-The penguins themselves are the draw. Pudgy Penguins toys now sit in Walmart, Target and 330 Kung Fu Tea stores, so many people meet the brand before the coin. That reach probably helps PENGU, worth about $464M in market cap on Oct 18 2026. For Pudgy Penguins, the supply-and-demand signal is mixed right now.
+The penguins themselves are the draw. Pudgy Penguins toys now sit in Walmart, Target and 330 Kung Fu Tea stores, so many people meet the brand before the coin. That reach probably helps PENGU, worth about $464M in market cap on Oct 18 2026. For Pudgy Penguins, the supply-and-demand signal is negative right now.
 
 ### Is Pudgy Penguins dead, or is PENGU still building?
 
-It looks alive to us. Igloo is closing Abstract on Dec 15 2026 to focus on PENGU, and the toys keep spreading. The weak spot is supply: team wallets released 1.17B PENGU in 90 days, which likely weighs on the price. That leaves Pudgy Penguins's long-run signal at mixed, by supply and demand.
+It looks alive to us. Igloo is closing Abstract on Dec 15 2026 to focus on PENGU, and the toys keep spreading. The weak spot is supply: team wallets released 1.17B PENGU in 90 days, which likely weighs on the price. That leaves Pudgy Penguins's long-run signal at negative, by supply and demand.
 
 ### Could Pudgy Penguins ever hit $10?
 
-Pudgy Penguins trades near 0.716 cents (Oct 18 2026). $10 a coin means a $629B market cap, 1,397 times today's $450M. Pudgy Penguins's supply also grows +7.54% in the next year, so every extra coin needs buyers too. For Pudgy Penguins, the supply-and-demand signal is mixed right now.
+Pudgy Penguins trades near 0.716 cents (Oct 20 2026). $10 a coin means a $629B market cap, 1,397 times today's $450M. Pudgy Penguins's supply also grows +7.54% in the next year, so every extra coin needs buyers too. For Pudgy Penguins, the supply-and-demand signal is negative right now.
 
 ### Is it time to take profit on Pudgy Penguins?
 
-We would read Pudgy Penguins differently if new supply keeps arriving (+1.86% in 90 days), or demand falls from modest. Until then Pudgy Penguins's signal stays mixed. Mark this date for Pudgy Penguins: Dec 15 2026 — Abstract shuts down.
+We would read Pudgy Penguins differently if new supply keeps arriving (+1.86% in 90 days), or demand falls from weak. Until then Pudgy Penguins's signal stays negative. Mark this date for Pudgy Penguins: Dec 15 2026 — Abstract shuts down.
 
 ### Is Pudgy Penguins a good investment right now?
 
-Pudgy Penguins scores 4/10 on our framework (Oct 18 2026): supply 1.5/5 (meme coin), demand 2.5/5. Over the next year Pudgy Penguins's supply changes +7.54%. The long-run signal is mixed.
+Pudgy Penguins scores 3.5/10 on our framework (Oct 20 2026): supply 1.5/5 (meme coin), demand 2/5. Over the next year Pudgy Penguins's supply changes +7.54%. The long-run signal is negative.
 
 ### How do I know when to buy Pudgy Penguins?
 
-Supply and demand favor Pudgy Penguins most when little new supply is coming, demand is strong and the price drivers point up. Right now Pudgy Penguins has +1.86% new supply in 90 days (meme coin), demand modest (2.5/5), drivers 1 ▲ / 0 ▼.
+Supply and demand favor Pudgy Penguins most when little new supply is coming, demand is strong and the price drivers point up. Right now Pudgy Penguins has +1.86% new supply in 90 days (meme coin), demand weak (2/5), drivers 1 ▲ / 0 ▼.
 
 ### Will Pudgy Penguins go up in 2026?
 
@@ -106,7 +106,7 @@ Pudgy Penguins's price drivers today: 1 pointing up, 0 pointing down, out of 2. 
 
 ### Should I buy Pudgy Penguins or Bitcoin?
 
-Pudgy Penguins: mixed signal, 4/10 · Bitcoin: positive signal, 8.5/10 (Oct 18 2026). By supply and demand, Pudgy Penguins reads weaker than Bitcoin today.
+Pudgy Penguins: negative signal, 3.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 20 2026). By supply and demand, Pudgy Penguins reads weaker than Bitcoin today.
 
 ## Next steps for PENGU
 

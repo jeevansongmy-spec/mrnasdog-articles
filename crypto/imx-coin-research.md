@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy IMX? Immutable Supply, Demand and What Moves Its Price
 
-*Live page: https://mrnasdog.com/research/imx · checked Oct 18 2026*
+*Live page: https://mrnasdog.com/research/imx · checked Oct 20 2026*
 
-**negative** — that is Immutable's long-run signal by supply and demand as of Oct 18 2026, with a score of 3/10.
+**negative** — that is Immutable's long-run signal by supply and demand as of Oct 20 2026, with a score of 3/10.
 
 - **Long-run signal:** negative (by the law of supply and demand)
 - **Score:** 3/10 — supply 1/5, demand 2/5
@@ -26,7 +26,7 @@ Over the next 90 days IMX supply changes +3.34%; across a full year, +13.54%. Th
 
 ## Demand today
 
-People's appetite for Immutable is **weak**: 2/5, ranked #65 of 110.
+People's appetite for Immutable is **weak**: 2/5, ranked #66 of 110.
 
 A deeper IMX demand breakdown is on the page for members.
 
@@ -60,7 +60,7 @@ Good for the price: More games, more use. Bad for it: Games leave the chain.
 | Oct 10 2026 | 40.8 K txs |
 | Oct 11 2026 | 42.4 K txs |
 | Oct 12 2026 | 39.3 K txs |
-| Oct 18 2026 | 45.2 K txs |
+| Oct 20 2026 | 45.6 K txs |
 
 *Checked Oct 14 2026*
 
@@ -68,7 +68,7 @@ Good for the price: More games, more use. Bad for it: Games leave the chain.
 
 ### Is it a good time to buy Immutable today?
 
-Supply and demand point to a negative long-run signal for Immutable (Oct 18 2026, score 3/10). Immutable adds +3.34% new supply in 90 days, and demand reads weak (2/5). Immutable's price drivers: 0 ▲ price up, 1 ▼ price down.
+Supply and demand point to a negative long-run signal for Immutable (Oct 20 2026, score 3/10). Immutable adds +3.34% new supply in 90 days, and demand reads weak (2/5). Immutable's price drivers: 0 ▲ price up, 1 ▼ price down.
 
 ### What is IMX crypto now?
 
@@ -80,7 +80,7 @@ Not fully. Daily transactions on Immutable's chain held flat over the last 30 da
 
 ### Could Immutable ever hit $100?
 
-Immutable trades near 16.6 cents (Oct 18 2026). $100 a coin means a $90.4B market cap, 603 times today's $150M. Immutable's supply also grows +13.54% in the next year, so every extra coin needs buyers too. That leaves Immutable's long-run signal at negative, by supply and demand.
+Immutable trades near 16.6 cents (Oct 20 2026). $100 a coin means a $90.4B market cap, 603 times today's $150M. Immutable's supply also grows +13.54% in the next year, so every extra coin needs buyers too. That leaves Immutable's long-run signal at negative, by supply and demand.
 
 ### Should I sell my Immutable now?
 
@@ -88,7 +88,7 @@ We would read Immutable differently if new supply keeps arriving (+3.34% in 90 d
 
 ### Is Immutable a good long-term investment?
 
-Immutable scores 3/10 on our framework (Oct 18 2026): supply 1/5 (very heavy), demand 2/5. Over the next year Immutable's supply changes +13.54%. The long-run signal is negative.
+Immutable scores 3/10 on our framework (Oct 20 2026): supply 1/5 (very heavy), demand 2/5. Over the next year Immutable's supply changes +13.54%. The long-run signal is negative.
 
 ### How do I know when to buy Immutable?
 
@@ -100,12 +100,12 @@ Immutable's price drivers today: 0 pointing up, 1 pointing down, out of 2. ▼ I
 
 ### Is Immutable a better investment than Bitcoin?
 
-Immutable: negative signal, 3/10 · Bitcoin: positive signal, 8.5/10 (Oct 18 2026). By supply and demand, Immutable reads weaker than Bitcoin today.
+Immutable: negative signal, 3/10 · Bitcoin: positive signal, 8.5/10 (Oct 20 2026). By supply and demand, Immutable reads weaker than Bitcoin today.
 
 ## Go deeper on Immutable
 
 - Every IMX unlock and burn, explained: https://mrnasdog.com/research/imx/inflation
 - Compare IMX with 100+ coins: https://mrnasdog.com/coins
-- The method behind the IMX score: https://mrnasdog.com/research/pressure-framework/full
+- The MrNasDog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

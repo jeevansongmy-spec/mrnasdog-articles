@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy Uniswap (UNI)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Our read on Uniswap for Oct 18 2026: a positive long-run signal and a score of 7.5/10, from new supply, demand and what moves the price."
+description:   "Our read on Uniswap for Oct 20 2026: a positive long-run signal and a score of 7.5/10, from new supply, demand and what moves the price."
 canonical_url: "https://mrnasdog.com/research/uni"
 content_type:  "coin_hub"
 tags:          ["crypto", "uni", "uniswap", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy Uniswap (UNI)? Supply, Demand and Price Drivers (Oct 2026)
 
-*Live page: https://mrnasdog.com/research/uni · checked Oct 18 2026*
+*Live page: https://mrnasdog.com/research/uni · checked Oct 20 2026*
 
-Our read on Uniswap for Oct 18 2026: a **positive** long-run signal and a score of 7.5/10, from new supply, demand and what moves the price.
+Our read on Uniswap for Oct 20 2026: a **positive** long-run signal and a score of 7.5/10, from new supply, demand and what moves the price.
 
 - **Signal:** positive (by the law of supply and demand)
 - **Score:** 7.5/10 — supply 3.5/5, demand 4/5
@@ -45,7 +45,7 @@ Treasury keeps its UNI → price up · Treasury pays out UNI → price down. Now
 | Jul 31 2026 | 267 M UNI |
 | Aug 31 2026 | 267 M UNI |
 | Sep 30 2026 | 267 M UNI |
-| Oct 18 2026 | 262 M UNI |
+| Oct 20 2026 | 262 M UNI |
 
 *Checked Oct 12 2026*
 
@@ -83,7 +83,7 @@ Good for the price: ETF and futures open. Bad for it: ETF denied.
 
 ### Is it a good time to buy Uniswap today?
 
-By the law of supply and demand, Uniswap's long-run signal is positive (Oct 18 2026, score 7.5/10). New supply: +0.06% in the next 90 days. Demand: strong (4/5). Uniswap's price drivers: 1 ▲ price up, 1 ▼ price down.
+By the law of supply and demand, Uniswap's long-run signal is positive (Oct 20 2026, score 7.5/10). New supply: +0.06% in the next 90 days. Demand: strong (4/5). Uniswap's price drivers: 1 ▲ price up, 1 ▼ price down.
 
 ### Why is Uniswap going up?
 
@@ -95,7 +95,7 @@ Uniswap's signal is positive for now. Uniswap's signal would turn if new supply 
 
 ### Is Uniswap a good long-term investment?
 
-Uniswap sits at 7.5/10 today (Oct 18 2026): supply 3.5/5, demand 4/5. One more year adds +0.20% to Uniswap's supply. Long-run signal: positive.
+Uniswap sits at 7.5/10 today (Oct 20 2026): supply 3.5/5, demand 4/5. One more year adds +0.20% to Uniswap's supply. Long-run signal: positive.
 
 ### When is a good time to buy Uniswap?
 
@@ -107,12 +107,12 @@ Right now 3 things drive Uniswap's price (1 ▲, 1 ▼). ▼ DAO treasury: DAO t
 
 ### Is Uniswap a better investment than Bitcoin?
 
-Side by side on Oct 18 2026: Uniswap at 7.5/10 with a positive signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Uniswap is the weaker of the two.
+Side by side on Oct 20 2026: Uniswap at 7.5/10 with a positive signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Uniswap is the weaker of the two.
 
 ## Read more on UNI
 
 - Every UNI unlock and burn, explained: https://mrnasdog.com/research/uni/inflation
 - Compare UNI with 100+ coins: https://mrnasdog.com/coins
-- The method behind the UNI score: https://mrnasdog.com/research/pressure-framework/full
+- The MrNasDog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

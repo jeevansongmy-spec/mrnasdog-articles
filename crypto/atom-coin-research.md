@@ -8,11 +8,11 @@ published:     true
 ---
 # Is Cosmos Hub (ATOM) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/atom (checked Oct 18 2026)*
+*Originally published at https://mrnasdog.com/research/atom (checked Oct 20 2026)*
 
-**negative** — that is Cosmos Hub's long-run signal by supply and demand as of Oct 18 2026, with a score of 3.5/10.
+**negative** — that is Cosmos Hub's long-run signal by supply and demand as of Oct 20 2026, with a score of 3.5/10.
 
-- **Long-run signal:** negative (Oct 18 2026)
+- **Long-run signal:** negative (Oct 20 2026)
 - **Score:** 3.5/10 — supply 1/5, demand 2.5/5
 - **New supply:** +3.18% in 90 days · +13.52% in a year
 - **Demand:** modest (2.5/5)
@@ -63,7 +63,7 @@ New ATOM: +3.18% in 90 days, +13.52% in a year. Supply score 1/5, "very heavy" (
 
 ## Demand today
 
-Cosmos Hub demand: 2.5/5 (**modest**), place #45 among 110 coins — interest today plus the buying that could come later.
+Cosmos Hub demand: 2.5/5 (**modest**), place #46 among 110 coins — interest today plus the buying that could come later.
 
 Members get the rest of the Cosmos Hub demand read on mrnasdog.com.
 
@@ -71,7 +71,7 @@ Members get the rest of the Cosmos Hub demand read on mrnasdog.com.
 
 ### Is it a good time to buy Cosmos Hub today?
 
-Based on the law of supply and demand, the long-run signal for Cosmos Hub is negative. As of Oct 18 2026, score 3.5/10, Cosmos Hub faces +3.18% new supply over 90 days, with demand modest (2.5/5). Cosmos Hub's price drivers: 1 ▲ price up, 1 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Cosmos Hub is negative. As of Oct 20 2026, score 3.5/10, Cosmos Hub faces +3.18% new supply over 90 days, with demand modest (2.5/5). Cosmos Hub's price drivers: 1 ▲ price up, 1 ▼ price down.
 
 ### What is the latest Cosmos Hub news for ATOM?
 
@@ -83,7 +83,7 @@ Today the signal is negative. Supply and demand would point the other way for Co
 
 ### Is Cosmos Hub a good investment right now?
 
-On our framework Cosmos Hub scores 3.5/10 (Oct 18 2026), with supply 1/5 (very heavy) and demand 2.5/5. In the next year Cosmos Hub's supply changes +13.52%, so the long-run signal reads negative.
+On our framework Cosmos Hub scores 3.5/10 (Oct 20 2026), with supply 1/5 (very heavy) and demand 2.5/5. In the next year Cosmos Hub's supply changes +13.52%, so the long-run signal reads negative.
 
 ### What is the best time to invest in Cosmos Hub?
 
@@ -95,7 +95,7 @@ Cosmos Hub has 2 price drivers today (1 ▲ price up, 1 ▼ price down). ▼ Hac
 
 ### Should I buy Cosmos Hub or Bitcoin?
 
-Cosmos Hub reads negative at 3.5/10; Bitcoin reads positive at 8.5/10 (Oct 18 2026). On supply and demand, Cosmos Hub looks weaker than Bitcoin today.
+Cosmos Hub reads negative at 3.5/10; Bitcoin reads positive at 8.5/10 (Oct 20 2026). On supply and demand, Cosmos Hub looks weaker than Bitcoin today.
 
 ## Where to read the rest of ATOM
 

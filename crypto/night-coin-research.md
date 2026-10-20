@@ -102,6 +102,6 @@ Side by side on Oct 20 2026: Midnight at 6.5/10 with a mixed signal, Bitcoin at 
 
 - Every NIGHT unlock and burn, explained: https://mrnasdog.com/research/night/inflation
 - Compare NIGHT with 100+ coins: https://mrnasdog.com/coins
-- The MrNasdog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
+- The MrNasDog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

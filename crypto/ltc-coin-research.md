@@ -1,6 +1,6 @@
 ---
 title:         "Litecoin (LTC) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Is Litecoin worth buying today? By the law of supply and demand, the long-run signal for LTC is mixed (score 7/10, checked Oct 18 2026)."
+description:   "Is Litecoin worth buying today? By the law of supply and demand, the long-run signal for LTC is mixed (score 7/10, checked Oct 20 2026)."
 canonical_url: "https://mrnasdog.com/research/ltc"
 content_type:  "coin_hub"
 tags:          ["crypto", "ltc", "litecoin", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Litecoin (LTC) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
 
-*From https://mrnasdog.com/research/ltc, updated Oct 18 2026*
+*From https://mrnasdog.com/research/ltc, updated Oct 20 2026*
 
-Is Litecoin worth buying today? By the law of supply and demand, the long-run signal for LTC is **mixed** (score 7/10, checked Oct 18 2026).
+Is Litecoin worth buying today? By the law of supply and demand, the long-run signal for LTC is **mixed** (score 7/10, checked Oct 20 2026).
 
 - **Long-run signal:** mixed for Litecoin
 - **Score:** 7/10 — supply 3/5, demand 4/5
@@ -56,7 +56,7 @@ Good for the price: Keeps or buys LTC. Bad for it: Sells LTC. Today: the price-d
 
 Litecoin is a mined coin capped at 84M. Miners add about 0.42% to supply every 90 days, and almost nothing is taken back out.
 
-Litecoin adds +0.42% new supply in the next 90 days and +1.51% over a year — supply scores 3/5 (light), #61 of 101 for new supply.
+Litecoin adds +0.42% new supply in the next 90 days and +1.51% over a year — supply scores 3/5 (light), #62 of 101 for new supply.
 
 ## Demand: how much people want LTC
 
@@ -68,7 +68,7 @@ Demand reads **strong** (4/5), #9 of 110 coins we track — that is how much peo
 
 ### Should I enter Litecoin right now?
 
-By the law of supply and demand, Litecoin's long-run signal is mixed (Oct 18 2026, score 7/10). New supply: +0.42% in the next 90 days. Demand: strong (4/5). Litecoin's price drivers: 0 ▲ price up, 1 ▼ price down.
+By the law of supply and demand, Litecoin's long-run signal is mixed (Oct 20 2026, score 7/10). New supply: +0.42% in the next 90 days. Demand: strong (4/5). Litecoin's price drivers: 0 ▲ price up, 1 ▼ price down.
 
 ### Is Litecoin dead, or does anyone still hold it?
 
@@ -80,7 +80,7 @@ Bitcoin Cash, by a small step. About 95.7% of its 21M max is out, against 92.5% 
 
 ### Can Litecoin reach $1,000?
 
-At $1,000, Litecoin would be worth about $77.7B in total — about 16 times its $4.99B market cap today (Oct 18 2026, about $64.2 a coin). Litecoin's supply also grows +1.51% in the next year, so every extra coin needs buyers too. For Litecoin, the supply-and-demand signal is mixed right now.
+At $1,000, Litecoin would be worth about $77.7B in total — about 16 times its $4.99B market cap today (Oct 20 2026, about $64.2 a coin). Litecoin's supply also grows +1.51% in the next year, so every extra coin needs buyers too. For Litecoin, the supply-and-demand signal is mixed right now.
 
 ### When should I sell Litecoin?
 
@@ -88,7 +88,7 @@ Litecoin's signal is mixed for now. Litecoin's signal would turn if new supply j
 
 ### Is Litecoin a good investment in 2026?
 
-Litecoin sits at 7/10 today (Oct 18 2026): supply 3/5, demand 4/5. One more year adds +1.51% to Litecoin's supply. Long-run signal: mixed.
+Litecoin sits at 7/10 today (Oct 20 2026): supply 3/5, demand 4/5. One more year adds +1.51% to Litecoin's supply. Long-run signal: mixed.
 
 ### When is a good time to buy Litecoin?
 
@@ -100,7 +100,7 @@ Right now 2 things drive Litecoin's price (0 ▲, 1 ▼). • Fund LTC held: US 
 
 ### Should I buy Litecoin or Bitcoin?
 
-Side by side on Oct 18 2026: Litecoin at 7/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Litecoin is the weaker of the two.
+Side by side on Oct 20 2026: Litecoin at 7/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Litecoin is the weaker of the two.
 
 ## Read more on LTC
 

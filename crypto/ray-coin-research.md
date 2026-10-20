@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy RAY? Raydium Supply, Demand and What Moves Its Price"
-description:   "Our read on Raydium for Oct 18 2026: a positive long-run signal and a score of 8/10, from new supply, demand and what moves the price."
+description:   "Our read on Raydium for Oct 20 2026: a positive long-run signal and a score of 8/10, from new supply, demand and what moves the price."
 canonical_url: "https://mrnasdog.com/research/ray"
 content_type:  "coin_hub"
 tags:          ["crypto", "ray", "raydium", "should-i-buy"]
@@ -8,12 +8,12 @@ published:     true
 ---
 # Should You Buy RAY? Raydium Supply, Demand and What Moves Its Price
 
-*Source: https://mrnasdog.com/research/ray — numbers checked Oct 18 2026*
+*Source: https://mrnasdog.com/research/ray — numbers checked Oct 20 2026*
 
-Our read on Raydium for Oct 18 2026: a **positive** long-run signal and a score of 8/10, from new supply, demand and what moves the price.
+Our read on Raydium for Oct 20 2026: a **positive** long-run signal and a score of 8/10, from new supply, demand and what moves the price.
 
 - **Signal today:** positive — RAY, read by supply and demand
-- **MrNasdog score:** 8/10 — supply 3.5/5, demand 4.5/5
+- **MrNasDog score:** 8/10 — supply 3.5/5, demand 4.5/5
 - **New coins:** +0.19% in 90 days · +0.78% in a year
 - **Demand:** very strong (4.5/5)
 - **Drivers:** 2 ▲ price up · 0 ▼ price down
@@ -68,7 +68,7 @@ Good for the price: More stock trading here. Bad for it: Stock trading moves awa
 
 ### Is it a good time to buy Raydium today?
 
-Based on the law of supply and demand, the long-run signal for Raydium is positive. As of Oct 18 2026, score 8/10, Raydium faces +0.19% new supply over 90 days, with demand very strong (4.5/5). Raydium's price drivers: 2 ▲ price up, 0 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Raydium is positive. As of Oct 20 2026, score 8/10, Raydium faces +0.19% new supply over 90 days, with demand very strong (4.5/5). Raydium's price drivers: 2 ▲ price up, 0 ▼ price down.
 
 ### Raydium or Hyperliquid: does the smaller coin look better?
 
@@ -76,7 +76,7 @@ Based on the law of supply and demand, the long-run signal for Raydium is positi
 
 ### Is $100 possible for Raydium?
 
-It would take 43 times today's value: $100 × Raydium's coins in the market = about $27B, against $623M now (Oct 18 2026). Raydium's supply also grows +0.78% in the next year, so every extra coin needs buyers too. That leaves Raydium's long-run signal at positive, by supply and demand.
+It would take 43 times today's value: $100 × Raydium's coins in the market = about $27B, against $623M now (Oct 20 2026). Raydium's supply also grows +0.78% in the next year, so every extra coin needs buyers too. That leaves Raydium's long-run signal at positive, by supply and demand.
 
 ### Should I sell Raydium or hold?
 
@@ -84,7 +84,7 @@ Today the signal is positive. Supply and demand would point the other way for Ra
 
 ### Is Raydium worth investing in for the long term?
 
-On our framework Raydium scores 8/10 (Oct 18 2026), with supply 3.5/5 (steady) and demand 4.5/5. In the next year Raydium's supply changes +0.78%, so the long-run signal reads positive.
+On our framework Raydium scores 8/10 (Oct 20 2026), with supply 3.5/5 (steady) and demand 4.5/5. In the next year Raydium's supply changes +0.78%, so the long-run signal reads positive.
 
 ### What is the best time to invest in Raydium?
 
@@ -96,12 +96,12 @@ Raydium has 2 price drivers today (2 ▲ price up, 0 ▼ price down). ▲ Solana
 
 ### Is Raydium a better investment than Bitcoin?
 
-Raydium reads positive at 8/10; Bitcoin reads positive at 8.5/10 (Oct 18 2026). On supply and demand, Raydium looks weaker than Bitcoin today.
+Raydium reads positive at 8/10; Bitcoin reads positive at 8.5/10 (Oct 20 2026). On supply and demand, Raydium looks weaker than Bitcoin today.
 
 ## Go deeper on Raydium
 
 - The long read on Raydium supply: https://mrnasdog.com/research/ray/inflation
 - Which crypto to buy now — RAY next to every coin we rank: https://mrnasdog.com/coins
-- How the Raydium score is built: https://mrnasdog.com/research/pressure-framework/full
+- About the Raydium score: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

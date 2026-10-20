@@ -1,6 +1,6 @@
 ---
 title:         "Gnosis (GNO): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)"
-description:   "As of Oct 19 2026, Gnosis scores 5.5/10 on our framework, and its supply-and-demand signal reads mixed."
+description:   "As of Oct 20 2026, Gnosis scores 5.5/10 on our framework, and its supply-and-demand signal reads mixed."
 canonical_url: "https://mrnasdog.com/research/gno"
 content_type:  "coin_hub"
 tags:          ["crypto", "gno", "gnosis", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Gnosis (GNO): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)
 
-*Live page: https://mrnasdog.com/research/gno · checked Oct 19 2026*
+*Live page: https://mrnasdog.com/research/gno · checked Oct 20 2026*
 
-As of Oct 19 2026, Gnosis scores 5.5/10 on our framework, and its supply-and-demand signal reads **mixed**.
+As of Oct 20 2026, Gnosis scores 5.5/10 on our framework, and its supply-and-demand signal reads **mixed**.
 
 - **Long-run signal:** mixed (by the law of supply and demand)
 - **Score:** 5.5/10 — supply 4.5/5, demand 1/5
@@ -22,7 +22,7 @@ As of Oct 19 2026, Gnosis scores 5.5/10 on our framework, and its supply-and-dem
 
 ### Should I enter Gnosis right now?
 
-Supply and demand point to a mixed long-run signal for Gnosis (Oct 19 2026, score 5.5/10). Gnosis adds 0.00% new supply in 90 days, and demand reads low (1/5). Gnosis's price drivers: 1 ▲ price up, 1 ▼ price down.
+Supply and demand point to a mixed long-run signal for Gnosis (Oct 20 2026, score 5.5/10). Gnosis adds 0.00% new supply in 90 days, and demand reads low (1/5). Gnosis's price drivers: 1 ▲ price up, 1 ▼ price down.
 
 ### What's new with Gnosis coin right now?
 
@@ -34,7 +34,7 @@ We would read Gnosis differently if new supply jumps (today 0.00% in 90 days), o
 
 ### Is Gnosis a good long-term investment?
 
-Gnosis scores 5.5/10 on our framework (Oct 19 2026): supply 4.5/5 (flat), demand 1/5. Over the next year Gnosis's supply changes 0.00%. The long-run signal is mixed.
+Gnosis scores 5.5/10 on our framework (Oct 20 2026): supply 4.5/5 (flat), demand 1/5. Over the next year Gnosis's supply changes 0.00%. The long-run signal is mixed.
 
 ### How do I know when to buy Gnosis?
 
@@ -46,7 +46,7 @@ Gnosis's price drivers today: 1 pointing up, 1 pointing down, out of 3. ▲ Trea
 
 ### Is Gnosis a better investment than Bitcoin?
 
-Gnosis: mixed signal, 5.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 19 2026). By supply and demand, Gnosis reads weaker than Bitcoin today.
+Gnosis: mixed signal, 5.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 20 2026). By supply and demand, Gnosis reads weaker than Bitcoin today.
 
 ## Supply — new GNO in the next 90 days
 
@@ -113,6 +113,6 @@ Staked GNO fell about 19% since Mar 31 2026, now steady.
 
 - Every GNO unlock and burn, explained: https://mrnasdog.com/research/gno/inflation
 - Compare GNO with 100+ coins: https://mrnasdog.com/coins
-- The MrNasdog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
+- The MrNasDog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

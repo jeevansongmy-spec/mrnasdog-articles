@@ -1,6 +1,6 @@
 ---
 title:         "Floki — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "As of Oct 18 2026, Floki scores 3/10 on our framework, and its supply-and-demand signal reads negative."
+description:   "As of Oct 20 2026, Floki scores 3/10 on our framework, and its supply-and-demand signal reads negative."
 canonical_url: "https://mrnasdog.com/research/floki"
 content_type:  "coin_hub"
 tags:          ["crypto", "floki", "floki", "should-i-buy"]
@@ -8,12 +8,12 @@ published:     true
 ---
 # Floki — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/floki (checked Oct 18 2026)*
+*Originally published at https://mrnasdog.com/research/floki (checked Oct 20 2026)*
 
-As of Oct 18 2026, Floki scores 3/10 on our framework, and its supply-and-demand signal reads **negative**.
+As of Oct 20 2026, Floki scores 3/10 on our framework, and its supply-and-demand signal reads **negative**.
 
-- **Signal today:** negative (Oct 18 2026)
-- **MrNasdog score:** 3/10 — supply 1.5/5, demand 1.5/5
+- **Signal today:** negative (Oct 20 2026)
+- **MrNasDog score:** 3/10 — supply 1.5/5, demand 1.5/5
 - **New coins:** −0.05% in 90 days · −0.20% in a year
 - **Demand:** very weak (1.5/5)
 - **Drivers:** 0 ▲ price up · 0 ▼ price down
@@ -71,7 +71,7 @@ Extra Floki demand detail for members stays on the live page.
 
 ### Should I enter Floki right now?
 
-Supply and demand point to a negative long-run signal for Floki (Oct 18 2026, score 3/10). Floki adds −0.05% new supply in 90 days, and demand reads very weak (1.5/5). Floki's price drivers: 0 ▲ price up, 0 ▼ price down.
+Supply and demand point to a negative long-run signal for Floki (Oct 20 2026, score 3/10). Floki adds −0.05% new supply in 90 days, and demand reads very weak (1.5/5). Floki's price drivers: 0 ▲ price up, 0 ▼ price down.
 
 ### How big is Floki's market cap right now?
 
@@ -83,7 +83,7 @@ Not much lately. Elon Musk's Floki posts are rare, and the last one we found was
 
 ### Could Floki ever hit 1 cent?
 
-Floki trades near 0.00273 cents (Oct 18 2026). 1 cent a coin means a $96.4B market cap, 367 times today's $263M. Floki's supply barely changes in the next year (−0.20%), so the whole move would have to come from demand. For Floki, the supply-and-demand signal is negative right now.
+Floki trades near 0.00273 cents (Oct 20 2026). 1 cent a coin means a $96.4B market cap, 367 times today's $263M. Floki's supply barely changes in the next year (−0.20%), so the whole move would have to come from demand. For Floki, the supply-and-demand signal is negative right now.
 
 ### Is it time to take profit on Floki?
 
@@ -91,7 +91,7 @@ We would read Floki differently if new supply jumps (today −0.05% in 90 days),
 
 ### Is Floki a good investment right now?
 
-Floki scores 3/10 on our framework (Oct 18 2026): supply 1.5/5 (meme coin), demand 1.5/5. Over the next year Floki's supply changes −0.20%. The long-run signal is negative.
+Floki scores 3/10 on our framework (Oct 20 2026): supply 1.5/5 (meme coin), demand 1.5/5. Over the next year Floki's supply changes −0.20%. The long-run signal is negative.
 
 ### How do I know when to buy Floki?
 
@@ -103,7 +103,7 @@ Floki's price drivers today: 0 pointing up, 0 pointing down, out of 2. • Elon 
 
 ### Should I buy Floki or Bitcoin?
 
-Floki: negative signal, 3/10 · Bitcoin: positive signal, 8.5/10 (Oct 18 2026). By supply and demand, Floki reads weaker than Bitcoin today.
+Floki: negative signal, 3/10 · Bitcoin: positive signal, 8.5/10 (Oct 20 2026). By supply and demand, Floki reads weaker than Bitcoin today.
 
 ## More on Floki
 

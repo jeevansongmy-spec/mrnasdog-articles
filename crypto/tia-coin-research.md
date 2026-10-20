@@ -1,6 +1,6 @@
 ---
 title:         "Celestia (TIA): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)"
-description:   "Is Celestia worth buying today? By the law of supply and demand, the long-run signal for TIA is negative (score 3.5/10, checked Oct 18 2026)."
+description:   "Is Celestia worth buying today? By the law of supply and demand, the long-run signal for TIA is negative (score 3.5/10, checked Oct 20 2026)."
 canonical_url: "https://mrnasdog.com/research/tia"
 content_type:  "coin_hub"
 tags:          ["crypto", "tia", "celestia", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Celestia (TIA): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)
 
-*Live page: https://mrnasdog.com/research/tia · checked Oct 18 2026*
+*Live page: https://mrnasdog.com/research/tia · checked Oct 20 2026*
 
-Is Celestia worth buying today? By the law of supply and demand, the long-run signal for TIA is **negative** (score 3.5/10, checked Oct 18 2026).
+Is Celestia worth buying today? By the law of supply and demand, the long-run signal for TIA is **negative** (score 3.5/10, checked Oct 20 2026).
 
 - **Signal:** negative (by the law of supply and demand)
 - **Score:** 3.5/10 — supply 1/5, demand 2.5/5
@@ -22,7 +22,7 @@ Is Celestia worth buying today? By the law of supply and demand, the long-run si
 
 ### Is it time to buy the Celestia dip?
 
-Supply and demand point to a negative long-run signal for Celestia (Oct 18 2026, score 3.5/10). Celestia adds +2.55% new supply in 90 days, and demand reads modest (2.5/5). Celestia's price drivers: 1 ▲ price up, 0 ▼ price down.
+Supply and demand point to a negative long-run signal for Celestia (Oct 20 2026, score 3.5/10). Celestia adds +2.55% new supply in 90 days, and demand reads modest (2.5/5). Celestia's price drivers: 1 ▲ price up, 0 ▼ price down.
 
 ### What is the latest Celestia news that could move TIA?
 
@@ -30,7 +30,7 @@ Fibre is the big Celestia story: the upgrade runs on testnet, but there is no ma
 
 ### Could Celestia ever hit $100?
 
-Celestia trades near 67.2 cents (Oct 18 2026). $100 a coin means a $98.2B market cap, 149 times today's $660M. Celestia's supply also grows +9.65% in the next year, so every extra coin needs buyers too. Supply and demand still read negative for Celestia in the long run.
+Celestia trades near 67.2 cents (Oct 20 2026). $100 a coin means a $98.2B market cap, 149 times today's $660M. Celestia's supply also grows +9.65% in the next year, so every extra coin needs buyers too. Supply and demand still read negative for Celestia in the long run.
 
 ### Should I sell my Celestia now?
 
@@ -38,7 +38,7 @@ We would read Celestia differently if new supply keeps arriving (+2.55% in 90 da
 
 ### Is Celestia a good long-term investment?
 
-Celestia scores 3.5/10 on our framework (Oct 18 2026): supply 1/5 (very heavy), demand 2.5/5. Over the next year Celestia's supply changes +9.65%. The long-run signal is negative.
+Celestia scores 3.5/10 on our framework (Oct 20 2026): supply 1/5 (very heavy), demand 2.5/5. Over the next year Celestia's supply changes +9.65%. The long-run signal is negative.
 
 ### How do I know when to buy Celestia?
 
@@ -50,7 +50,7 @@ Celestia's price drivers today: 1 pointing up, 0 pointing down, out of 2. ▲ Fi
 
 ### Is Celestia a better investment than Bitcoin?
 
-Celestia: negative signal, 3.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 18 2026). By supply and demand, Celestia reads weaker than Bitcoin today.
+Celestia: negative signal, 3.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 20 2026). By supply and demand, Celestia reads weaker than Bitcoin today.
 
 ## Supply: how much new TIA is coming
 
@@ -60,7 +60,7 @@ Over the next 90 days TIA supply changes +2.55%; across a full year, +9.65%. Tha
 
 ## Who wants Celestia right now
 
-People's appetite for Celestia is **modest**: 2.5/5, ranked #45 of 110.
+People's appetite for Celestia is **modest**: 2.5/5, ranked #46 of 110.
 
 (Members see more TIA demand detail on the page; it is not repeated here.)
 
@@ -107,6 +107,6 @@ The fee plan is still a forum post; no vote yet.
 
 - Every TIA unlock and burn, explained: https://mrnasdog.com/research/tia/inflation
 - Compare TIA with 100+ coins: https://mrnasdog.com/coins
-- The method behind the TIA score: https://mrnasdog.com/research/pressure-framework/full
+- The MrNasDog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

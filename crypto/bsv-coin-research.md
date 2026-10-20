@@ -1,6 +1,6 @@
 ---
 title:         "Bitcoin SV (BSV) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Is Bitcoin SV worth buying today? By the law of supply and demand, the long-run signal for BSV is negative (score 4.5/10, checked Oct 18 2026)."
+description:   "Is Bitcoin SV worth buying today? By the law of supply and demand, the long-run signal for BSV is negative (score 4.5/10, checked Oct 20 2026)."
 canonical_url: "https://mrnasdog.com/research/bsv"
 content_type:  "coin_hub"
 tags:          ["crypto", "bsv", "bitcoinsv", "should-i-buy"]
@@ -8,11 +8,11 @@ published:     true
 ---
 # Bitcoin SV (BSV) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/bsv (checked Oct 18 2026)*
+*Originally published at https://mrnasdog.com/research/bsv (checked Oct 20 2026)*
 
-Is Bitcoin SV worth buying today? By the law of supply and demand, the long-run signal for BSV is **negative** (score 4.5/10, checked Oct 18 2026).
+Is Bitcoin SV worth buying today? By the law of supply and demand, the long-run signal for BSV is **negative** (score 4.5/10, checked Oct 20 2026).
 
-- **Signal:** negative (Oct 18 2026)
+- **Signal:** negative (Oct 20 2026)
 - **Score:** 4.5/10 — supply 3.5/5, demand 1/5
 - **Supply growth:** +0.20% in 90 days · +0.81% in a year
 - **How much people want it:** low (1/5)
@@ -50,7 +50,7 @@ Miner power is down about two thirds since early 2024.
 | Jul 31 2026 | 187 PH/s |
 | Aug 31 2026 | 180 PH/s |
 | Sep 30 2026 | 202 PH/s |
-| Oct 19 2026 | 254 PH/s |
+| Oct 20 2026 | 199 PH/s |
 
 *Checked Oct 18 2026*
 
@@ -62,7 +62,7 @@ New BSV: +0.20% in 90 days, +0.81% in a year. Supply score 3.5/5, "steady", #69 
 
 ## How strong is Bitcoin SV demand?
 
-Bitcoin SV demand: 1/5 (**low**), place #92 among 110 coins — interest today plus the buying that could come later.
+Bitcoin SV demand: 1/5 (**low**), place #93 among 110 coins — interest today plus the buying that could come later.
 
 The members-only part of BSV's demand section is not included.
 
@@ -70,7 +70,7 @@ The members-only part of BSV's demand section is not included.
 
 ### Should I buy Bitcoin SV now, or wait?
 
-Supply and demand point to a negative long-run signal for Bitcoin SV (Oct 18 2026, score 4.5/10). Bitcoin SV adds +0.20% new supply in 90 days, and demand reads low (1/5). Bitcoin SV's price drivers: 0 ▲ price up, 1 ▼ price down.
+Supply and demand point to a negative long-run signal for Bitcoin SV (Oct 20 2026, score 4.5/10). Bitcoin SV adds +0.20% new supply in 90 days, and demand reads low (1/5). Bitcoin SV's price drivers: 0 ▲ price up, 1 ▼ price down.
 
 ### Is Bitcoin SV dead in 2026?
 
@@ -82,7 +82,7 @@ Thin, from what we see. Miner power on Bitcoin SV is down about two thirds since
 
 ### Could Bitcoin SV ever hit $10,000?
 
-Bitcoin SV trades near $16.9 (Oct 18 2026). $10,000 a coin means a $201B market cap, 591 times today's $340M. Bitcoin SV's supply also grows +0.81% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Bitcoin SV stays negative.
+Bitcoin SV trades near $16.9 (Oct 20 2026). $10,000 a coin means a $201B market cap, 591 times today's $340M. Bitcoin SV's supply also grows +0.81% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Bitcoin SV stays negative.
 
 ### Is it time to take profit on Bitcoin SV?
 
@@ -90,7 +90,7 @@ We would read Bitcoin SV differently if new supply jumps (today +0.20% in 90 day
 
 ### Is Bitcoin SV a good investment right now?
 
-Bitcoin SV scores 4.5/10 on our framework (Oct 18 2026): supply 3.5/5 (steady), demand 1/5. Over the next year Bitcoin SV's supply changes +0.81%. The long-run signal is negative.
+Bitcoin SV scores 4.5/10 on our framework (Oct 20 2026): supply 3.5/5 (steady), demand 1/5. Over the next year Bitcoin SV's supply changes +0.81%. The long-run signal is negative.
 
 ### How do I know when to buy Bitcoin SV?
 
@@ -102,7 +102,7 @@ Bitcoin SV's price drivers today: 0 pointing up, 1 pointing down, out of 2. • 
 
 ### Should I buy Bitcoin SV or Bitcoin?
 
-Bitcoin SV: negative signal, 4.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 18 2026). By supply and demand, Bitcoin SV reads weaker than Bitcoin today.
+Bitcoin SV: negative signal, 4.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 20 2026). By supply and demand, Bitcoin SV reads weaker than Bitcoin today.
 
 ## Read more on BSV
 

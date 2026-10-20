@@ -8,12 +8,12 @@ published:     true
 ---
 # XDC Network (XDC) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
 
-*From https://mrnasdog.com/research/xdc, updated Oct 18 2026*
+*From https://mrnasdog.com/research/xdc, updated Oct 20 2026*
 
-**mixed** — that is XDC Network's long-run signal by supply and demand as of Oct 18 2026, with a score of 4.5/10.
+**mixed** — that is XDC Network's long-run signal by supply and demand as of Oct 20 2026, with a score of 4.5/10.
 
 - **Signal today:** mixed for XDC Network
-- **MrNasdog score:** 4.5/10 — supply 3.5/5, demand 1/5
+- **MrNasDog score:** 4.5/10 — supply 3.5/5, demand 1/5
 - **New coins:** +0.09% in 90 days · +4.59% in a year
 - **Demand:** low (1/5)
 - **Drivers:** 1 ▲ price up · 1 ▼ price down
@@ -22,11 +22,11 @@ published:     true
 
 XDC Network mints a fixed 5,000 XDC every epoch for its masternodes and burns nothing. +0.09% last 90 days; about +0.09% next. 18.12B XDC still waits in locked reserves.
 
-XDC Network adds +0.09% new supply in the next 90 days and +4.59% over a year — supply scores 3.5/5 (steady), #73 of 101 for new supply.
+XDC Network adds +0.09% new supply in the next 90 days and +4.59% over a year — supply scores 3.5/5 (steady), #74 of 101 for new supply.
 
 ## Who wants XDC Network right now
 
-Demand reads **low** (1/5), #92 of 110 coins we track — that is how much people want XDC now and how much buying could still come.
+Demand reads **low** (1/5), #93 of 110 coins we track — that is how much people want XDC now and how much buying could still come.
 
 A deeper XDC demand breakdown is on the page for members.
 
@@ -64,7 +64,7 @@ Good for the price: More dollars settle on XDC. Bad for it: Dollars leave XDC. T
 | Jul 31 2026 | $78.1M |
 | Aug 31 2026 | $72.7M |
 | Sep 30 2026 | $57.7M |
-| Oct 18 2026 | $52.3M |
+| Oct 20 2026 | $53.9M |
 
 *Checked Oct 17 2026*
 
@@ -72,7 +72,7 @@ Good for the price: More dollars settle on XDC. Bad for it: Dollars leave XDC. T
 
 ### Should I buy XDC Network now, or wait?
 
-Supply and demand point to a mixed long-run signal for XDC Network (Oct 18 2026, score 4.5/10). XDC Network adds +0.09% new supply in 90 days, and demand reads low (1/5). XDC Network's price drivers: 1 ▲ price up, 1 ▼ price down.
+Supply and demand point to a mixed long-run signal for XDC Network (Oct 20 2026, score 4.5/10). XDC Network adds +0.09% new supply in 90 days, and demand reads low (1/5). XDC Network's price drivers: 1 ▲ price up, 1 ▼ price down.
 
 ### Which big finance firms are teaming up with XDC Network?
 
@@ -88,7 +88,7 @@ We would read XDC Network differently if new supply jumps (today +0.09% in 90 da
 
 ### Is XDC Network a good investment in 2026?
 
-XDC Network scores 4.5/10 on our framework (Oct 18 2026): supply 3.5/5 (steady), demand 1/5. Over the next year XDC Network's supply changes +4.59%. The long-run signal is mixed.
+XDC Network scores 4.5/10 on our framework (Oct 20 2026): supply 3.5/5 (steady), demand 1/5. Over the next year XDC Network's supply changes +4.59%. The long-run signal is mixed.
 
 ### How do I know when to buy XDC Network?
 
@@ -100,7 +100,7 @@ XDC Network's price drivers today: 1 pointing up, 1 pointing down, out of 2. ▲
 
 ### Should I buy XDC Network or Bitcoin?
 
-XDC Network: mixed signal, 4.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 18 2026). By supply and demand, XDC Network reads weaker than Bitcoin today.
+XDC Network: mixed signal, 4.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 20 2026). By supply and demand, XDC Network reads weaker than Bitcoin today.
 
 ## More on XDC Network
 

@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy Mantle (MNT)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "As of Oct 18 2026, Mantle scores 5/10 on our framework, and its supply-and-demand signal reads mixed."
+description:   "As of Oct 20 2026, Mantle scores 5/10 on our framework, and its supply-and-demand signal reads mixed."
 canonical_url: "https://mrnasdog.com/research/mnt"
 content_type:  "coin_hub"
 tags:          ["crypto", "mnt", "mantle", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy Mantle (MNT)? Supply, Demand and Price Drivers (Oct 2026)
 
-*From https://mrnasdog.com/research/mnt, updated Oct 18 2026*
+*From https://mrnasdog.com/research/mnt, updated Oct 20 2026*
 
-As of Oct 18 2026, Mantle scores 5/10 on our framework, and its supply-and-demand signal reads **mixed**.
+As of Oct 20 2026, Mantle scores 5/10 on our framework, and its supply-and-demand signal reads **mixed**.
 
 - **Long-run signal:** mixed for Mantle
 - **Score:** 5/10 — supply 4.5/5, demand 0.5/5
@@ -45,7 +45,7 @@ Good for the price: More dollars on Mantle. Bad for it: Dollars leave Mantle.
 | Jul 31 2026 | $589M |
 | Aug 31 2026 | $591M |
 | Sep 30 2026 | $549M |
-| Oct 18 2026 | $536M |
+| Oct 20 2026 | $536M |
 
 *Checked Oct 13 2026*
 
@@ -57,7 +57,7 @@ Mantle adds 0.00% new supply in the next 90 days and 0.00% over a year — suppl
 
 ## How strong is Mantle demand?
 
-Demand reads **very low** (0.5/5), #99 of 110 coins we track — that is how much people want MNT now and how much buying could still come.
+Demand reads **very low** (0.5/5), #98 of 110 coins we track — that is how much people want MNT now and how much buying could still come.
 
 Extra Mantle demand detail for members stays on the live page.
 
@@ -65,7 +65,7 @@ Extra Mantle demand detail for members stays on the live page.
 
 ### Is Mantle worth buying now?
 
-Based on the law of supply and demand, the long-run signal for Mantle is mixed. As of Oct 18 2026, score 5/10, Mantle faces 0.00% new supply over 90 days, with demand very low (0.5/5). Mantle's price drivers: 0 ▲ price up, 0 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Mantle is mixed. As of Oct 20 2026, score 5/10, Mantle faces 0.00% new supply over 90 days, with demand very low (0.5/5). Mantle's price drivers: 0 ▲ price up, 0 ▼ price down.
 
 ### How big is Mantle's market cap next to its treasury?
 
@@ -77,7 +77,7 @@ Today the signal is mixed. Supply and demand would point the other way for Mantl
 
 ### Is Mantle a good investment in 2026?
 
-On our framework Mantle scores 5/10 (Oct 18 2026), with supply 4.5/5 (flat) and demand 0.5/5. In the next year Mantle's supply changes 0.00%, so the long-run signal reads mixed.
+On our framework Mantle scores 5/10 (Oct 20 2026), with supply 4.5/5 (flat) and demand 0.5/5. In the next year Mantle's supply changes 0.00%, so the long-run signal reads mixed.
 
 ### What is the best time to invest in Mantle?
 
@@ -89,7 +89,7 @@ Mantle has 2 price drivers today (0 ▲ price up, 0 ▼ price down). • Treasur
 
 ### Should I buy Mantle or Bitcoin?
 
-Mantle reads mixed at 5/10; Bitcoin reads positive at 8.5/10 (Oct 18 2026). On supply and demand, Mantle looks weaker than Bitcoin today.
+Mantle reads mixed at 5/10; Bitcoin reads positive at 8.5/10 (Oct 20 2026). On supply and demand, Mantle looks weaker than Bitcoin today.
 
 ## Next steps for MNT
 
