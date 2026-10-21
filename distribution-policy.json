@@ -32,5 +32,5 @@
   "suspended_channels": {
     "devto": "OFF since Sep 29 2026. Dev.to took down the MrNasDog account between 08:42 and ~09:00 MYT (profile + every article 404, even logged in; API 401 for the account's own active key; 'Generate API Key' fails). Most likely an automatic spam flag after ~120 near-identical mirrors being re-sent. A new key cannot fix a suspended account. syndicate.py skips Dev.to and check_distribution.py no longer counts it. Never open a second Dev.to account (ban evasion). To turn it back on after an appeal: remove this entry and add 'devto' back to required_channels."
   },
-  "_hubs": "Oct 11 2026 (Coin Hub Pipeline v2, his OK): every coin's MAIN page /research/<slug> is mirrored as crypto/<slug>-coin-research.md (mirror_coin_hubs.py, one commit per batch, one Telegram receipt). The §0.46 /inflation mirror stays."
+  "_hubs": "RETIRED Oct 21 2026 (George's SEO change, his approval: 0 views in 14 days, never cited). The coin MAIN pages are no longer mirrored (mirror_coin_hubs.py is not run; the old crypto/<slug>-coin-research.md files stay as they are) and check_distribution.py no longer requires them. The §0.46 /inflation mirror stays."
 }

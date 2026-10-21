@@ -131,7 +131,9 @@ def inventory(policy):
         if path.endswith("/inflation"):
             kind = "coin"
         elif re.match(r"^/research/[a-z0-9-]+$", path) and path not in METHOD_PATHS:
-            kind = "hub"  # the main coin page (Coin Hub Pipeline v2, Oct 11 2026) -> crypto/<slug>-coin-research.md
+            # the main coin page. Its GitHub mirror (crypto/<slug>-coin-research.md, Coin Hub Pipeline v2) was RETIRED
+            # Oct 21 2026 (George's SEO change, his approval: 0 views in 14 days, never cited) — no longer required.
+            continue
         elif path.startswith("/research/"):
             kind = "methodology"
         else:
