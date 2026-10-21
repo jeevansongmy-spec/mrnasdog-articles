@@ -1,6 +1,6 @@
 ---
 title:         "JasmyCoin (JASMY): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)"
-description:   "As of Oct 20 2026, JasmyCoin scores 6/10 on our framework, and its supply-and-demand signal reads mixed."
+description:   "As of Oct 21 2026, JasmyCoin scores 5.5/10 on our framework, and its supply-and-demand signal reads mixed."
 canonical_url: "https://mrnasdog.com/research/jasmy"
 content_type:  "coin_hub"
 tags:          ["crypto", "jasmy", "jasmycoin", "should-i-buy"]
@@ -8,14 +8,14 @@ published:     true
 ---
 # JasmyCoin (JASMY): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)
 
-*Source: https://mrnasdog.com/research/jasmy — numbers checked Oct 20 2026*
+*Source: https://mrnasdog.com/research/jasmy — numbers checked Oct 21 2026*
 
-As of Oct 20 2026, JasmyCoin scores 6/10 on our framework, and its supply-and-demand signal reads **mixed**.
+As of Oct 21 2026, JasmyCoin scores 5.5/10 on our framework, and its supply-and-demand signal reads **mixed**.
 
 - **Long-run signal:** mixed — JASMY, read by supply and demand
-- **Score:** 6/10 — supply 4.5/5, demand 1.5/5
+- **Score:** 5.5/10 — supply 4.5/5, demand 1/5
 - **New supply:** 0.00% in 90 days · 0.00% in a year
-- **Demand:** very weak (1.5/5)
+- **Demand:** low (1/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## JASMY price drivers the score does not count
@@ -65,7 +65,7 @@ Expect 0.00% more JASMY in 90 days (0.00% over the year). On supply alone JasmyC
 
 ## Demand: how much people want JASMY
 
-How much do people want JASMY? **very weak** — 1.5 out of 5, #79 of 110.
+How much do people want JASMY? **low** — 1 out of 5, #92 of 110.
 
 A deeper JASMY demand breakdown is on the page for members.
 
@@ -73,7 +73,7 @@ A deeper JASMY demand breakdown is on the page for members.
 
 ### Is it time to buy the JasmyCoin dip?
 
-Supply and demand point to a mixed long-run signal for JasmyCoin (Oct 20 2026, score 6/10). JasmyCoin adds 0.00% new supply in 90 days, and demand reads very weak (1.5/5). JasmyCoin's price drivers: 1 ▲ price up, 1 ▼ price down.
+Supply and demand point to a mixed long-run signal for JasmyCoin (Oct 21 2026, score 5.5/10). JasmyCoin adds 0.00% new supply in 90 days, and demand reads low (1/5). JasmyCoin's price drivers: 1 ▲ price up, 1 ▼ price down.
 
 ### Why is JasmyCoin going down?
 
@@ -85,19 +85,19 @@ Yes. After 290 days of silence, the company started putting out news again once 
 
 ### Could JasmyCoin ever hit $1?
 
-JasmyCoin trades near 0.493 cents (Oct 20 2026). $1 a coin means a $49.4B market cap, 203 times today's $244M. JasmyCoin's supply barely changes in the next year (0.00%), so the whole move would have to come from demand. Supply and demand still read mixed for JasmyCoin in the long run.
+JasmyCoin trades near 0.493 cents (Oct 21 2026). $1 a coin means a $49.4B market cap, 203 times today's $244M. JasmyCoin's supply barely changes in the next year (0.00%), so the whole move would have to come from demand. Supply and demand still read mixed for JasmyCoin in the long run.
 
 ### Should I sell JasmyCoin or hold?
 
-We would read JasmyCoin differently if new supply jumps (today 0.00% in 90 days), or demand falls from very weak, or Exchange delistings keeps pointing down. Until then JasmyCoin's signal stays mixed. Mark this date for JasmyCoin: Oct 28 2026 — BITPoint sales end.
+We would read JasmyCoin differently if new supply jumps (today 0.00% in 90 days), or demand falls from low, or Exchange delistings keeps pointing down. Until then JasmyCoin's signal stays mixed. Mark this date for JasmyCoin: Oct 28 2026 — BITPoint sales end.
 
 ### Is JasmyCoin worth investing in for the long term?
 
-JasmyCoin scores 6/10 on our framework (Oct 20 2026): supply 4.5/5 (flat), demand 1.5/5. Over the next year JasmyCoin's supply changes 0.00%. The long-run signal is mixed.
+JasmyCoin scores 5.5/10 on our framework (Oct 21 2026): supply 4.5/5 (flat), demand 1/5. Over the next year JasmyCoin's supply changes 0.00%. The long-run signal is mixed.
 
 ### How do I know when to buy JasmyCoin?
 
-Supply and demand favor JasmyCoin most when little new supply is coming, demand is strong and the price drivers point up. Right now JasmyCoin has 0.00% new supply in 90 days (flat), demand very weak (1.5/5), drivers 1 ▲ / 1 ▼.
+Supply and demand favor JasmyCoin most when little new supply is coming, demand is strong and the price drivers point up. Right now JasmyCoin has 0.00% new supply in 90 days (flat), demand low (1/5), drivers 1 ▲ / 1 ▼.
 
 ### Will JasmyCoin go up in 2026?
 
@@ -105,7 +105,7 @@ JasmyCoin's price drivers today: 1 pointing up, 1 pointing down, out of 2. ▼ E
 
 ### Is JasmyCoin a better investment than Bitcoin?
 
-JasmyCoin: mixed signal, 6/10 · Bitcoin: positive signal, 8.5/10 (Oct 20 2026). By supply and demand, JasmyCoin reads weaker than Bitcoin today.
+JasmyCoin: mixed signal, 5.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, JasmyCoin reads weaker than Bitcoin today.
 
 ## Go deeper on JasmyCoin
 

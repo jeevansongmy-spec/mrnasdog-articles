@@ -1,6 +1,6 @@
 ---
 title:         "Is Gram a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)"
-description:   "Supply and demand give Gram a negative long-run signal today (Oct 20 2026); its score is 2/10."
+description:   "Supply and demand give Gram a negative long-run signal today (Oct 21 2026); its score is 2/10."
 canonical_url: "https://mrnasdog.com/research/gram"
 content_type:  "coin_hub"
 tags:          ["crypto", "gram", "gram", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Is Gram a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)
 
-*From https://mrnasdog.com/research/gram, updated Oct 20 2026*
+*From https://mrnasdog.com/research/gram, updated Oct 21 2026*
 
-Supply and demand give Gram a **negative** long-run signal today (Oct 20 2026); its score is 2/10.
+Supply and demand give Gram a **negative** long-run signal today (Oct 21 2026); its score is 2/10.
 
 - **Signal:** negative for Gram
 - **Score:** 2/10 — supply 0.5/5, demand 1.5/5
@@ -63,7 +63,7 @@ Gram adds +3.54% new supply in the next 90 days and +14.18% over a year — supp
 
 ## Demand: how much people want GRAM
 
-Demand reads **very weak** (1.5/5), #79 of 110 coins we track — that is how much people want GRAM now and how much buying could still come.
+Demand reads **very weak** (1.5/5), #80 of 110 coins we track — that is how much people want GRAM now and how much buying could still come.
 
 (Members see more GRAM demand detail on the page; it is not repeated here.)
 
@@ -71,7 +71,7 @@ Demand reads **very weak** (1.5/5), #79 of 110 coins we track — that is how mu
 
 ### Is it time to buy the Gram dip?
 
-By the law of supply and demand, Gram's long-run signal is negative (Oct 20 2026, score 2/10). New supply: +3.54% in the next 90 days. Demand: very weak (1.5/5). Gram's price drivers: 1 ▲ price up, 0 ▼ price down.
+By the law of supply and demand, Gram's long-run signal is negative (Oct 21 2026, score 2/10). New supply: +3.54% in the next 90 days. Demand: very weak (1.5/5). Gram's price drivers: 1 ▲ price up, 0 ▼ price down.
 
 ### How much of the Gram token is actually in the market?
 
@@ -83,7 +83,7 @@ Gram's signal is negative for now. Gram's signal would turn if new supply keeps 
 
 ### Is Gram a good investment in 2026?
 
-Gram sits at 2/10 today (Oct 20 2026): supply 0.5/5, demand 1.5/5. One more year adds +14.18% to Gram's supply. Long-run signal: negative.
+Gram sits at 2/10 today (Oct 21 2026): supply 0.5/5, demand 1.5/5. One more year adds +14.18% to Gram's supply. Long-run signal: negative.
 
 ### When is a good time to buy Gram?
 
@@ -95,7 +95,7 @@ Right now 2 things drive Gram's price (1 ▲, 0 ▼). ▲ Durov's 7 steps: 4 of 
 
 ### Should I buy Gram or Bitcoin?
 
-Side by side on Oct 20 2026: Gram at 2/10 with a negative signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Gram is the weaker of the two.
+Side by side on Oct 21 2026: Gram at 2/10 with a negative signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Gram is the weaker of the two.
 
 ## More on Gram
 

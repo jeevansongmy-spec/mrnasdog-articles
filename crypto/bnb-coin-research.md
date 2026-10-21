@@ -1,6 +1,6 @@
 ---
 title:         "BNB: Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)"
-description:   "Supply and demand give BNB a positive long-run signal today (Oct 20 2026); its score is 8/10."
+description:   "Supply and demand give BNB a positive long-run signal today (Oct 21 2026); its score is 8/10."
 canonical_url: "https://mrnasdog.com/research/bnb"
 content_type:  "coin_hub"
 tags:          ["crypto", "bnb", "bnb", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # BNB: Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)
 
-*Live page: https://mrnasdog.com/research/bnb · checked Oct 20 2026*
+*Live page: https://mrnasdog.com/research/bnb · checked Oct 21 2026*
 
-Supply and demand give BNB a **positive** long-run signal today (Oct 20 2026); its score is 8/10.
+Supply and demand give BNB a **positive** long-run signal today (Oct 21 2026); its score is 8/10.
 
 - **Signal:** positive (by the law of supply and demand)
 - **Score:** 8/10 — supply 4.5/5, demand 3.5/5
@@ -64,7 +64,7 @@ They hold more → price up · They sell → price down. Right now it points up.
 
 ## Demand: how much people want BNB
 
-People's appetite for BNB is **strong**: 3.5/5, ranked #17 of 110.
+People's appetite for BNB is **strong**: 3.5/5, ranked #18 of 110.
 
 The members-only part of BNB's demand section is not included.
 
@@ -72,7 +72,7 @@ The members-only part of BNB's demand section is not included.
 
 ### Should I buy BNB now, or wait?
 
-Based on the law of supply and demand, the long-run signal for BNB is positive. As of Oct 20 2026, score 8/10, BNB faces −0.01% new supply over 90 days, with demand strong (3.5/5). BNB's price drivers: 1 ▲ price up, 1 ▼ price down.
+Based on the law of supply and demand, the long-run signal for BNB is positive. As of Oct 21 2026, score 8/10, BNB faces −0.01% new supply over 90 days, with demand strong (3.5/5). BNB's price drivers: 1 ▲ price up, 1 ▼ price down.
 
 ### BNB vs Ethereum: which has the better supply story?
 
@@ -80,7 +80,7 @@ BNB, by a clear margin. Its supply is shrinking, about −1.24% in the next 90 d
 
 ### Is $5,000 possible for BNB?
 
-It would take 6.8 times today's value: $5,000 × BNB's coins in the market = about $658B, against $97.1B now (Oct 20 2026). BNB's supply barely changes in the next year (−4.64%), so the whole move would have to come from demand. Our supply-and-demand read for BNB stays positive.
+It would take 6.8 times today's value: $5,000 × BNB's coins in the market = about $658B, against $97.1B now (Oct 21 2026). BNB's supply barely changes in the next year (−4.64%), so the whole move would have to come from demand. Our supply-and-demand read for BNB stays positive.
 
 ### Should I sell my BNB now?
 
@@ -88,7 +88,7 @@ Today the signal is positive. Supply and demand would point the other way for BN
 
 ### Is BNB a good long-term investment?
 
-On our framework BNB scores 8/10 (Oct 20 2026), with supply 4.5/5 (shrinking) and demand 3.5/5. In the next year BNB's supply changes −4.64%, so the long-run signal reads positive.
+On our framework BNB scores 8/10 (Oct 21 2026), with supply 4.5/5 (shrinking) and demand 3.5/5. In the next year BNB's supply changes −4.64%, so the long-run signal reads positive.
 
 ### What is the best time to invest in BNB?
 
@@ -100,7 +100,7 @@ BNB has 2 price drivers today (1 ▲ price up, 1 ▼ price down). ▼ CZ and Bin
 
 ### Is BNB a better investment than Bitcoin?
 
-BNB reads positive at 8/10; Bitcoin reads positive at 8.5/10 (Oct 20 2026). On supply and demand, BNB looks weaker than Bitcoin today.
+BNB reads positive at 8/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, BNB looks weaker than Bitcoin today.
 
 ## Read more on BNB
 

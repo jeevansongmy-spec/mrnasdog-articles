@@ -1,6 +1,6 @@
 ---
 title:         "Is Curve DAO (CRV) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)"
-description:   "Our read on Curve DAO for Oct 20 2026: a negative long-run signal and a score of 3/10, from new supply, demand and what moves the price."
+description:   "Our read on Curve DAO for Oct 21 2026: a negative long-run signal and a score of 3.5/10, from new supply, demand and what moves the price."
 canonical_url: "https://mrnasdog.com/research/crv"
 content_type:  "coin_hub"
 tags:          ["crypto", "crv", "curvedao", "should-i-buy"]
@@ -8,14 +8,14 @@ published:     true
 ---
 # Is Curve DAO (CRV) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)
 
-*From https://mrnasdog.com/research/crv, updated Oct 20 2026*
+*From https://mrnasdog.com/research/crv, updated Oct 21 2026*
 
-Our read on Curve DAO for Oct 20 2026: a **negative** long-run signal and a score of 3/10, from new supply, demand and what moves the price.
+Our read on Curve DAO for Oct 21 2026: a **negative** long-run signal and a score of 3.5/10, from new supply, demand and what moves the price.
 
 - **Signal today:** negative for Curve DAO
-- **MrNasDog score:** 3/10 — supply 1.5/5, demand 1.5/5
+- **MrNasDog score:** 3.5/10 — supply 1.5/5, demand 2/5
 - **New coins:** +2.00% in 90 days · +7.90% in a year
-- **Demand:** very weak (1.5/5)
+- **Demand:** weak (2/5)
 - **Drivers:** 2 ▲ price up · 0 ▼ price down
 
 ## New CRV hitting the market
@@ -26,7 +26,7 @@ Curve DAO adds +2.00% new supply in the next 90 days and +7.90% over a year — 
 
 ## How strong is Curve DAO demand?
 
-Demand reads **very weak** (1.5/5), #79 of 110 coins we track — that is how much people want CRV now and how much buying could still come.
+Demand reads **weak** (2/5), #65 of 110 coins we track — that is how much people want CRV now and how much buying could still come.
 
 (Members see more CRV demand detail on the page; it is not repeated here.)
 
@@ -60,7 +60,7 @@ Good for the price: More crvUSD borrowed. Bad for it: crvUSD shrinks. Right now 
 | Jul 31 2026 | 225 M crvUSD |
 | Aug 31 2026 | 280 M crvUSD |
 | Sep 30 2026 | 250 M crvUSD |
-| Oct 20 2026 | 240 M crvUSD |
+| Oct 21 2026 | 241 M crvUSD |
 
 *Checked Oct 17 2026*
 
@@ -68,7 +68,7 @@ Good for the price: More crvUSD borrowed. Bad for it: crvUSD shrinks. Right now 
 
 ### Should I enter Curve DAO right now?
 
-Based on the law of supply and demand, the long-run signal for Curve DAO is negative. As of Oct 20 2026, score 3/10, Curve DAO faces +2.00% new supply over 90 days, with demand very weak (1.5/5). Curve DAO's price drivers: 2 ▲ price up, 0 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Curve DAO is negative. As of Oct 21 2026, score 3.5/10, Curve DAO faces +2.00% new supply over 90 days, with demand weak (2/5). Curve DAO's price drivers: 2 ▲ price up, 0 ▼ price down.
 
 ### What could be pushing Curve DAO (CRV) up?
 
@@ -76,15 +76,15 @@ Both of Curve DAO's drivers point up right now. Convex holds over half of all CR
 
 ### When should I sell Curve DAO?
 
-Today the signal is negative. Supply and demand would point the other way for Curve DAO if new supply keeps arriving (+2.00% in 90 days), or demand falls from very weak.
+Today the signal is negative. Supply and demand would point the other way for Curve DAO if new supply keeps arriving (+2.00% in 90 days), or demand falls from weak.
 
 ### Is Curve DAO a good investment in 2026?
 
-On our framework Curve DAO scores 3/10 (Oct 20 2026), with supply 1.5/5 (heavy) and demand 1.5/5. In the next year Curve DAO's supply changes +7.90%, so the long-run signal reads negative.
+On our framework Curve DAO scores 3.5/10 (Oct 21 2026), with supply 1.5/5 (heavy) and demand 2/5. In the next year Curve DAO's supply changes +7.90%, so the long-run signal reads negative.
 
 ### What is the best time to invest in Curve DAO?
 
-The law of supply and demand points to one window for Curve DAO: low new supply, high demand, drivers pointing up. Where Curve DAO stands today: +2.00% new supply in 90 days (heavy), demand very weak (1.5/5), drivers 2 ▲ / 0 ▼.
+The law of supply and demand points to one window for Curve DAO: low new supply, high demand, drivers pointing up. Where Curve DAO stands today: +2.00% new supply in 90 days (heavy), demand weak (2/5), drivers 2 ▲ / 0 ▼.
 
 ### Will Curve DAO go up? What could move its price?
 
@@ -92,7 +92,7 @@ Curve DAO has 2 price drivers today (2 ▲ price up, 0 ▼ price down). ▲ Conv
 
 ### Should I buy Curve DAO or Bitcoin?
 
-Curve DAO reads negative at 3/10; Bitcoin reads positive at 8.5/10 (Oct 20 2026). On supply and demand, Curve DAO looks weaker than Bitcoin today.
+Curve DAO reads negative at 3.5/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, Curve DAO looks weaker than Bitcoin today.
 
 ## More on Curve DAO
 

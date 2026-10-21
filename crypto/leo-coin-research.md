@@ -1,6 +1,6 @@
 ---
 title:         "UNUS SED LEO (LEO): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)"
-description:   "Supply and demand give UNUS SED LEO (LEO) a mixed long-run signal today (Oct 20 2026); its score is 5.5/10."
+description:   "Supply and demand give UNUS SED LEO (LEO) a mixed long-run signal today (Oct 21 2026); its score is 5.5/10."
 canonical_url: "https://mrnasdog.com/research/leo"
 content_type:  "coin_hub"
 tags:          ["crypto", "leo", "unussedleo", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # UNUS SED LEO (LEO): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)
 
-*Source: https://mrnasdog.com/research/leo — numbers checked Oct 20 2026*
+*Source: https://mrnasdog.com/research/leo — numbers checked Oct 21 2026*
 
-Supply and demand give UNUS SED LEO (LEO) a **mixed** long-run signal today (Oct 20 2026); its score is 5.5/10.
+Supply and demand give UNUS SED LEO (LEO) a **mixed** long-run signal today (Oct 21 2026); its score is 5.5/10.
 
 - **Signal today:** mixed — LEO, read by supply and demand
 - **MrNasDog score:** 5.5/10 — supply 5/5, demand 0.5/5
@@ -57,11 +57,11 @@ US sends BTC back → price up · Pile stays frozen → price down. Now: ▲ up 
 
 LEO creates no new coins, and a Bitfinex buyback takes a few out: supply down about 0.04% in 90 days.
 
-Expect −0.07% more LEO in 90 days (−0.27% over the year). On supply alone UNUS SED LEO gets 5/5 — shrinking, #102 of 101 for new supply.
+Expect −0.07% more LEO in 90 days (−0.27% over the year). On supply alone UNUS SED LEO gets 5/5 — shrinking, #103 of 101 for new supply.
 
 ## How strong is UNUS SED LEO demand?
 
-How much do people want LEO? **very low** — 0.5 out of 5, #98 of 110.
+How much do people want LEO? **very low** — 0.5 out of 5, #99 of 110.
 
 Extra UNUS SED LEO demand detail for members stays on the live page.
 
@@ -69,7 +69,7 @@ Extra UNUS SED LEO demand detail for members stays on the live page.
 
 ### Is UNUS SED LEO worth buying now?
 
-By the law of supply and demand, UNUS SED LEO's long-run signal is mixed (Oct 20 2026, score 5.5/10). New supply: −0.07% in the next 90 days. Demand: very low (0.5/5). UNUS SED LEO's price drivers: 2 ▲ price up, 0 ▼ price down.
+By the law of supply and demand, UNUS SED LEO's long-run signal is mixed (Oct 21 2026, score 5.5/10). New supply: −0.07% in the next 90 days. Demand: very low (0.5/5). UNUS SED LEO's price drivers: 2 ▲ price up, 0 ▼ price down.
 
 ### Is Bitfinex getting its hacked Bitcoin back for LEO yet?
 
@@ -81,7 +81,7 @@ UNUS SED LEO's signal is mixed for now. UNUS SED LEO's signal would turn if new 
 
 ### Is UNUS SED LEO worth investing in for the long term?
 
-UNUS SED LEO sits at 5.5/10 today (Oct 20 2026): supply 5/5, demand 0.5/5. One more year adds −0.27% to UNUS SED LEO's supply. Long-run signal: mixed.
+UNUS SED LEO sits at 5.5/10 today (Oct 21 2026): supply 5/5, demand 0.5/5. One more year adds −0.27% to UNUS SED LEO's supply. Long-run signal: mixed.
 
 ### When is a good time to buy UNUS SED LEO?
 
@@ -93,7 +93,7 @@ Right now 2 things drive UNUS SED LEO's price (2 ▲, 0 ▼). ▲ Hack BTC retur
 
 ### Is UNUS SED LEO a better investment than Bitcoin?
 
-Side by side on Oct 20 2026: UNUS SED LEO at 5.5/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, UNUS SED LEO is the weaker of the two.
+Side by side on Oct 21 2026: UNUS SED LEO at 5.5/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, UNUS SED LEO is the weaker of the two.
 
 ## More on UNUS SED LEO
 

@@ -8,11 +8,11 @@ published:     true
 ---
 # Should You Buy Polkadot (DOT)? Supply, Demand and Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/dot (checked Oct 20 2026)*
+*Originally published at https://mrnasdog.com/research/dot (checked Oct 21 2026)*
 
-**mixed** — that is Polkadot's long-run signal by supply and demand as of Oct 20 2026, with a score of 5.5/10.
+**mixed** — that is Polkadot's long-run signal by supply and demand as of Oct 21 2026, with a score of 5.5/10.
 
-- **Signal today:** mixed (Oct 20 2026)
+- **Signal today:** mixed (Oct 21 2026)
 - **MrNasDog score:** 5.5/10 — supply 2.5/5, demand 3/5
 - **New coins:** +0.81% in 90 days · +3.27% in a year
 - **Demand:** moderate (3/5)
@@ -26,7 +26,7 @@ New DOT: +0.81% in 90 days, +3.27% in a year. Supply score 2.5/5, "moderate", #5
 
 ## Demand: how much people want DOT
 
-Polkadot demand: 3/5 (**moderate**), place #31 among 110 coins — interest today plus the buying that could come later.
+Polkadot demand: 3/5 (**moderate**), place #32 among 110 coins — interest today plus the buying that could come later.
 
 The members-only part of DOT's demand section is not included.
 
@@ -68,7 +68,7 @@ Treasury spends less → price up · Big DOT payouts → price down.
 
 ### Should I buy Polkadot now, or wait?
 
-Based on the law of supply and demand, the long-run signal for Polkadot is mixed. As of Oct 20 2026, score 5.5/10, Polkadot faces +0.81% new supply over 90 days, with demand moderate (3/5). Polkadot's price drivers: 1 ▲ price up, 0 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Polkadot is mixed. As of Oct 21 2026, score 5.5/10, Polkadot faces +0.81% new supply over 90 days, with demand moderate (3/5). Polkadot's price drivers: 1 ▲ price up, 0 ▼ price down.
 
 ### Is Polkadot dead in 2026?
 
@@ -80,7 +80,7 @@ Steady new supply is one likely weight: Polkadot adds about 0.81% more DOT in 90
 
 ### Is $100 possible for Polkadot?
 
-It would take 85 times today's value: $100 × Polkadot's coins in the market = about $171B, against $2.01B now (Oct 20 2026). Polkadot's supply also grows +3.27% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Polkadot stays mixed.
+It would take 85 times today's value: $100 × Polkadot's coins in the market = about $171B, against $2.01B now (Oct 21 2026). Polkadot's supply also grows +3.27% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Polkadot stays mixed.
 
 ### Is it time to take profit on Polkadot?
 
@@ -88,7 +88,7 @@ Today the signal is mixed. Supply and demand would point the other way for Polka
 
 ### Is Polkadot a good investment right now?
 
-On our framework Polkadot scores 5.5/10 (Oct 20 2026), with supply 2.5/5 (moderate) and demand 3/5. In the next year Polkadot's supply changes +3.27%, so the long-run signal reads mixed.
+On our framework Polkadot scores 5.5/10 (Oct 21 2026), with supply 2.5/5 (moderate) and demand 3/5. In the next year Polkadot's supply changes +3.27%, so the long-run signal reads mixed.
 
 ### What is the best time to invest in Polkadot?
 
@@ -100,7 +100,7 @@ Polkadot has 2 price drivers today (1 ▲ price up, 0 ▼ price down). ▲ US ET
 
 ### Should I buy Polkadot or Bitcoin?
 
-Polkadot reads mixed at 5.5/10; Bitcoin reads positive at 8.5/10 (Oct 20 2026). On supply and demand, Polkadot looks weaker than Bitcoin today.
+Polkadot reads mixed at 5.5/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, Polkadot looks weaker than Bitcoin today.
 
 ## More on Polkadot
 

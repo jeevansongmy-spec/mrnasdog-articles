@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy XRP? Supply, Demand and What Moves Its Price"
-description:   "Our read on XRP for Oct 20 2026: a mixed long-run signal and a score of 6/10, from new supply, demand and what moves the price."
+description:   "Our read on XRP for Oct 21 2026: a mixed long-run signal and a score of 6/10, from new supply, demand and what moves the price."
 canonical_url: "https://mrnasdog.com/research/xrp"
 content_type:  "coin_hub"
 tags:          ["crypto", "xrp", "xrp", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy XRP? Supply, Demand and What Moves Its Price
 
-*Live page: https://mrnasdog.com/research/xrp · checked Oct 20 2026*
+*Live page: https://mrnasdog.com/research/xrp · checked Oct 21 2026*
 
-Our read on XRP for Oct 20 2026: a **mixed** long-run signal and a score of 6/10, from new supply, demand and what moves the price.
+Our read on XRP for Oct 21 2026: a **mixed** long-run signal and a score of 6/10, from new supply, demand and what moves the price.
 
 - **Signal:** mixed (by the law of supply and demand)
 - **Score:** 6/10 — supply 2/5, demand 4/5
@@ -86,7 +86,7 @@ People's appetite for XRP is **strong**: 4/5, ranked #9 of 110.
 
 ### Is XRP worth buying now?
 
-By the law of supply and demand, XRP's long-run signal is mixed (Oct 20 2026, score 6/10). New supply: +1.43% in the next 90 days. Demand: strong (4/5). XRP's price drivers: 1 ▲ price up, 1 ▼ price down.
+By the law of supply and demand, XRP's long-run signal is mixed (Oct 21 2026, score 6/10). New supply: +1.43% in the next 90 days. Demand: strong (4/5). XRP's price drivers: 1 ▲ price up, 1 ▼ price down.
 
 ### How does Ripple's XRP escrow affect the price?
 
@@ -98,7 +98,7 @@ Probably, since that law is one of XRP's price drivers and right now it points d
 
 ### Can XRP reach $100?
 
-At $100, XRP would be worth about $6.31 trillion in total — about 75 times its $83.8B market cap today (Oct 20 2026, about $1.33 a coin). XRP's supply also grows +5.70% in the next year, so every extra coin needs buyers too. By supply and demand, XRP's long-run signal is mixed today.
+At $100, XRP would be worth about $6.31 trillion in total — about 75 times its $83.8B market cap today (Oct 21 2026, about $1.33 a coin). XRP's supply also grows +5.70% in the next year, so every extra coin needs buyers too. By supply and demand, XRP's long-run signal is mixed today.
 
 ### Should I sell my XRP now?
 
@@ -106,7 +106,7 @@ XRP's signal is mixed for now. XRP's signal would turn if new supply keeps arriv
 
 ### Is XRP a good long-term investment?
 
-XRP sits at 6/10 today (Oct 20 2026): supply 2/5, demand 4/5. One more year adds +5.70% to XRP's supply. Long-run signal: mixed.
+XRP sits at 6/10 today (Oct 21 2026): supply 2/5, demand 4/5. One more year adds +5.70% to XRP's supply. Long-run signal: mixed.
 
 ### When is a good time to buy XRP?
 
@@ -118,7 +118,7 @@ Right now 3 things drive XRP's price (1 ▲, 1 ▼). • Ripple's escrow: 9.1B X
 
 ### Is XRP a better investment than Bitcoin?
 
-Side by side on Oct 20 2026: XRP at 6/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, XRP is the weaker of the two.
+Side by side on Oct 21 2026: XRP at 6/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, XRP is the weaker of the two.
 
 ## Go deeper on XRP
 

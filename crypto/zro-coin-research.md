@@ -1,6 +1,6 @@
 ---
 title:         "Is LayerZero (ZRO) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)"
-description:   "Supply and demand give LayerZero (ZRO) a negative long-run signal today (Oct 20 2026); its score is 3.5/10."
+description:   "Supply and demand give LayerZero (ZRO) a negative long-run signal today (Oct 21 2026); its score is 3.5/10."
 canonical_url: "https://mrnasdog.com/research/zro"
 content_type:  "coin_hub"
 tags:          ["crypto", "zro", "layerzero", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Is LayerZero (ZRO) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)
 
-*From https://mrnasdog.com/research/zro, updated Oct 20 2026*
+*From https://mrnasdog.com/research/zro, updated Oct 21 2026*
 
-Supply and demand give LayerZero (ZRO) a **negative** long-run signal today (Oct 20 2026); its score is 3.5/10.
+Supply and demand give LayerZero (ZRO) a **negative** long-run signal today (Oct 21 2026); its score is 3.5/10.
 
 - **Signal today:** negative for LayerZero
 - **MrNasDog score:** 3.5/10 — supply 0/5, demand 3.5/5
@@ -61,7 +61,7 @@ LayerZero adds +18.63% new supply in the next 90 days and +47.54% over a year �
 
 ## Demand today
 
-Demand reads **strong** (3.5/5), #17 of 110 coins we track — that is how much people want ZRO now and how much buying could still come.
+Demand reads **strong** (3.5/5), #18 of 110 coins we track — that is how much people want ZRO now and how much buying could still come.
 
 The members-only part of ZRO's demand section is not included.
 
@@ -69,7 +69,7 @@ The members-only part of ZRO's demand section is not included.
 
 ### Is it time to buy the LayerZero dip?
 
-Supply and demand point to a negative long-run signal for LayerZero (Oct 20 2026, score 3.5/10). LayerZero adds +18.63% new supply in 90 days, and demand reads strong (3.5/5). LayerZero's price drivers: 1 ▲ price up, 1 ▼ price down.
+Supply and demand point to a negative long-run signal for LayerZero (Oct 21 2026, score 3.5/10). LayerZero adds +18.63% new supply in 90 days, and demand reads strong (3.5/5). LayerZero's price drivers: 1 ▲ price up, 1 ▼ price down.
 
 ### How big are LayerZero's ZRO token unlocks right now?
 
@@ -85,7 +85,7 @@ We would read LayerZero differently if new supply keeps arriving (+18.63% in 90 
 
 ### Is LayerZero a good investment in 2026?
 
-LayerZero scores 3.5/10 on our framework (Oct 20 2026): supply 0/5 (extreme), demand 3.5/5. Over the next year LayerZero's supply changes +47.54%. The long-run signal is negative.
+LayerZero scores 3.5/10 on our framework (Oct 21 2026): supply 0/5 (extreme), demand 3.5/5. Over the next year LayerZero's supply changes +47.54%. The long-run signal is negative.
 
 ### How do I know when to buy LayerZero?
 
@@ -97,7 +97,7 @@ LayerZero's price drivers today: 1 pointing up, 1 pointing down, out of 2. ▼ F
 
 ### Should I buy LayerZero or Bitcoin?
 
-LayerZero: negative signal, 3.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 20 2026). By supply and demand, LayerZero reads weaker than Bitcoin today.
+LayerZero: negative signal, 3.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, LayerZero reads weaker than Bitcoin today.
 
 ## Read more on ZRO
 

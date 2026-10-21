@@ -1,6 +1,6 @@
 ---
 title:         "Canton Coin (CC): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)"
-description:   "Our read on Canton Coin for Oct 20 2026: a mixed long-run signal and a score of 4/10, from new supply, demand and what moves the price."
+description:   "Our read on Canton Coin for Oct 21 2026: a mixed long-run signal and a score of 4/10, from new supply, demand and what moves the price."
 canonical_url: "https://mrnasdog.com/research/cc"
 content_type:  "coin_hub"
 tags:          ["crypto", "cc", "cantoncoin", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Canton Coin (CC): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)
 
-*Source: https://mrnasdog.com/research/cc — numbers checked Oct 20 2026*
+*Source: https://mrnasdog.com/research/cc — numbers checked Oct 21 2026*
 
-Our read on Canton Coin for Oct 20 2026: a **mixed** long-run signal and a score of 4/10, from new supply, demand and what moves the price.
+Our read on Canton Coin for Oct 21 2026: a **mixed** long-run signal and a score of 4/10, from new supply, demand and what moves the price.
 
 - **Signal today:** mixed — CC, read by supply and demand
 - **MrNasDog score:** 4/10 — supply 1.5/5, demand 2.5/5
@@ -69,7 +69,7 @@ How much do people want CC? **modest** — 2.5 out of 5, #46 of 110.
 
 ### Is it a good time to buy Canton Coin today?
 
-Supply and demand point to a mixed long-run signal for Canton Coin (Oct 20 2026, score 4/10). Canton Coin adds +1.91% new supply in 90 days, and demand reads modest (2.5/5). Canton Coin's price drivers: 1 ▲ price up, 0 ▼ price down.
+Supply and demand point to a mixed long-run signal for Canton Coin (Oct 21 2026, score 4/10). Canton Coin adds +1.91% new supply in 90 days, and demand reads modest (2.5/5). Canton Coin's price drivers: 1 ▲ price up, 0 ▼ price down.
 
 ### Is Canton Coin the same thing as the Canton Network?
 
@@ -81,7 +81,7 @@ We would read Canton Coin differently if new supply keeps arriving (+1.91% in 90
 
 ### Is Canton Coin worth investing in for the long term?
 
-Canton Coin scores 4/10 on our framework (Oct 20 2026): supply 1.5/5 (heavy), demand 2.5/5. Over the next year Canton Coin's supply changes +7.75%. The long-run signal is mixed.
+Canton Coin scores 4/10 on our framework (Oct 21 2026): supply 1.5/5 (heavy), demand 2.5/5. Over the next year Canton Coin's supply changes +7.75%. The long-run signal is mixed.
 
 ### How do I know when to buy Canton Coin?
 
@@ -93,7 +93,7 @@ Canton Coin's price drivers today: 1 pointing up, 0 pointing down, out of 2. •
 
 ### Is Canton Coin a better investment than Bitcoin?
 
-Canton Coin: mixed signal, 4/10 · Bitcoin: positive signal, 8.5/10 (Oct 20 2026). By supply and demand, Canton Coin reads weaker than Bitcoin today.
+Canton Coin: mixed signal, 4/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, Canton Coin reads weaker than Bitcoin today.
 
 ## Where to read the rest of CC
 

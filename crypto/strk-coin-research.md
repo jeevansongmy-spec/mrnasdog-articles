@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy STRK? Starknet Supply, Demand and What Moves Its Price"
-description:   "As of Oct 20 2026, Starknet scores 3.5/10 on our framework, and its supply-and-demand signal reads negative."
+description:   "As of Oct 21 2026, Starknet scores 3.5/10 on our framework, and its supply-and-demand signal reads negative."
 canonical_url: "https://mrnasdog.com/research/strk"
 content_type:  "coin_hub"
 tags:          ["crypto", "strk", "starknet", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy STRK? Starknet Supply, Demand and What Moves Its Price
 
-*Live page: https://mrnasdog.com/research/strk · checked Oct 20 2026*
+*Live page: https://mrnasdog.com/research/strk · checked Oct 21 2026*
 
-As of Oct 20 2026, Starknet scores 3.5/10 on our framework, and its supply-and-demand signal reads **negative**.
+As of Oct 21 2026, Starknet scores 3.5/10 on our framework, and its supply-and-demand signal reads **negative**.
 
 - **Signal today:** negative (by the law of supply and demand)
 - **MrNasDog score:** 3.5/10 — supply 0.5/5, demand 3/5
@@ -22,7 +22,7 @@ As of Oct 20 2026, Starknet scores 3.5/10 on our framework, and its supply-and-d
 
 ### Is it a good time to buy Starknet today?
 
-Based on the law of supply and demand, the long-run signal for Starknet is negative. As of Oct 20 2026, score 3.5/10, Starknet faces +8.28% new supply over 90 days, with demand moderate (3/5). Starknet's price drivers: 2 ▲ price up, 0 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Starknet is negative. As of Oct 21 2026, score 3.5/10, Starknet faces +8.28% new supply over 90 days, with demand moderate (3/5). Starknet's price drivers: 2 ▲ price up, 0 ▼ price down.
 
 ### Is staking on Starknet still growing?
 
@@ -34,7 +34,7 @@ Today the signal is negative. Supply and demand would point the other way for St
 
 ### Is Starknet a good long-term investment?
 
-On our framework Starknet scores 3.5/10 (Oct 20 2026), with supply 0.5/5 (flooding) and demand 3/5. In the next year Starknet's supply changes +21.57%, so the long-run signal reads negative.
+On our framework Starknet scores 3.5/10 (Oct 21 2026), with supply 0.5/5 (flooding) and demand 3/5. In the next year Starknet's supply changes +21.57%, so the long-run signal reads negative.
 
 ### What is the best time to invest in Starknet?
 
@@ -46,7 +46,7 @@ Starknet has 2 price drivers today (2 ▲ price up, 0 ▼ price down). ▲ STRK 
 
 ### Is Starknet a better investment than Bitcoin?
 
-Starknet reads negative at 3.5/10; Bitcoin reads positive at 8.5/10 (Oct 20 2026). On supply and demand, Starknet looks weaker than Bitcoin today.
+Starknet reads negative at 3.5/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, Starknet looks weaker than Bitcoin today.
 
 ## Supply: how much new STRK is coming
 
@@ -56,7 +56,7 @@ Over the next 90 days STRK supply changes +8.28%; across a full year, +21.57%. T
 
 ## How strong is Starknet demand?
 
-People's appetite for Starknet is **moderate**: 3/5, ranked #31 of 110.
+People's appetite for Starknet is **moderate**: 3/5, ranked #32 of 110.
 
 (Members see more STRK demand detail on the page; it is not repeated here.)
 

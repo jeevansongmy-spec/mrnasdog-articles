@@ -1,6 +1,6 @@
 ---
 title:         "Is Kite a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)"
-description:   "As of Oct 20 2026, Kite scores 2/10 on our framework, and its supply-and-demand signal reads negative."
+description:   "As of Oct 21 2026, Kite scores 2/10 on our framework, and its supply-and-demand signal reads negative."
 canonical_url: "https://mrnasdog.com/research/kite"
 content_type:  "coin_hub"
 tags:          ["crypto", "kite", "kite", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Is Kite a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)
 
-*From https://mrnasdog.com/research/kite, updated Oct 20 2026*
+*From https://mrnasdog.com/research/kite, updated Oct 21 2026*
 
-As of Oct 20 2026, Kite scores 2/10 on our framework, and its supply-and-demand signal reads **negative**.
+As of Oct 21 2026, Kite scores 2/10 on our framework, and its supply-and-demand signal reads **negative**.
 
 - **Long-run signal:** negative for Kite
 - **Score:** 2/10 — supply 0/5, demand 2/5
@@ -26,7 +26,7 @@ Kite adds +47.21% new supply in the next 90 days and +96.85% over a year — sup
 
 ## Demand today
 
-Demand reads **weak** (2/5), #66 of 110 coins we track — that is how much people want KITE now and how much buying could still come.
+Demand reads **weak** (2/5), #65 of 110 coins we track — that is how much people want KITE now and how much buying could still come.
 
 A deeper KITE demand breakdown is on the page for members.
 
@@ -45,7 +45,7 @@ Tens of thousands of transactions a day, over 2.5M since Dec 2025.
 | Oct 15 2026 | 108,866 txs |
 | Oct 16 2026 | 64,539 txs |
 | Oct 17 2026 | 70,593 txs |
-| Oct 20 2026 | 60,205 txs |
+| Oct 21 2026 | 74,142 txs |
 
 *Checked Oct 19 2026*
 
@@ -70,7 +70,7 @@ Good for the price: Payments settle on Kite. Bad for it: Payments move elsewhere
 
 ### Is it time to buy the Kite dip?
 
-Supply and demand point to a negative long-run signal for Kite (Oct 20 2026, score 2/10). Kite adds +47.21% new supply in 90 days, and demand reads weak (2/5). Kite's price drivers: 1 ▲ price up, 1 ▼ price down.
+Supply and demand point to a negative long-run signal for Kite (Oct 21 2026, score 2/10). Kite adds +47.21% new supply in 90 days, and demand reads weak (2/5). Kite's price drivers: 1 ▲ price up, 1 ▼ price down.
 
 ### Kite crypto news: what big date is coming up?
 
@@ -82,7 +82,7 @@ We would read Kite differently if new supply keeps arriving (+47.21% in 90 days)
 
 ### Is Kite a good investment in 2026?
 
-Kite scores 2/10 on our framework (Oct 20 2026): supply 0/5 (extreme), demand 2/5. Over the next year Kite's supply changes +96.85%. The long-run signal is negative.
+Kite scores 2/10 on our framework (Oct 21 2026): supply 0/5 (extreme), demand 2/5. Over the next year Kite's supply changes +96.85%. The long-run signal is negative.
 
 ### How do I know when to buy Kite?
 
@@ -94,7 +94,7 @@ Kite's price drivers today: 1 pointing up, 1 pointing down, out of 2. ▲ Kite c
 
 ### Should I buy Kite or Bitcoin?
 
-Kite: negative signal, 2/10 · Bitcoin: positive signal, 8.5/10 (Oct 20 2026). By supply and demand, Kite reads weaker than Bitcoin today.
+Kite: negative signal, 2/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, Kite reads weaker than Bitcoin today.
 
 ## More on Kite
 

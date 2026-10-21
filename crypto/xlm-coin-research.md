@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy Stellar (XLM)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "As of Oct 20 2026, Stellar scores 3.5/10 on our framework, and its supply-and-demand signal reads negative."
+description:   "As of Oct 21 2026, Stellar scores 3.5/10 on our framework, and its supply-and-demand signal reads negative."
 canonical_url: "https://mrnasdog.com/research/xlm"
 content_type:  "coin_hub"
 tags:          ["crypto", "xlm", "stellar", "should-i-buy"]
@@ -8,11 +8,11 @@ published:     true
 ---
 # Should You Buy Stellar (XLM)? Supply, Demand and Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/xlm (checked Oct 20 2026)*
+*Originally published at https://mrnasdog.com/research/xlm (checked Oct 21 2026)*
 
-As of Oct 20 2026, Stellar scores 3.5/10 on our framework, and its supply-and-demand signal reads **negative**.
+As of Oct 21 2026, Stellar scores 3.5/10 on our framework, and its supply-and-demand signal reads **negative**.
 
-- **Signal today:** negative (Oct 20 2026)
+- **Signal today:** negative (Oct 21 2026)
 - **MrNasDog score:** 3.5/10 — supply 1.5/5, demand 2/5
 - **New coins:** +2.52% in 90 days · +10.08% in a year
 - **Demand:** weak (2/5)
@@ -26,7 +26,7 @@ New XLM: +2.52% in 90 days, +10.08% in a year. Supply score 1.5/5, "heavy".
 
 ## Demand today
 
-Stellar demand: 2/5 (**weak**), place #66 among 110 coins — interest today plus the buying that could come later.
+Stellar demand: 2/5 (**weak**), place #65 among 110 coins — interest today plus the buying that could come later.
 
 The members-only part of XLM's demand section is not included.
 
@@ -70,7 +70,7 @@ Spot ETF approved → price up · ETF stays stuck → price down.
 
 ### Is Stellar worth buying now?
 
-By the law of supply and demand, Stellar's long-run signal is negative (Oct 20 2026, score 3.5/10). New supply: +2.52% in the next 90 days. Demand: weak (2/5). Stellar's price drivers: 1 ▲ price up, 0 ▼ price down.
+By the law of supply and demand, Stellar's long-run signal is negative (Oct 21 2026, score 3.5/10). New supply: +2.52% in the next 90 days. Demand: weak (2/5). Stellar's price drivers: 1 ▲ price up, 0 ▼ price down.
 
 ### How much more XLM can still come to the market?
 
@@ -78,7 +78,7 @@ About 14.9B XLM, going by our Oct 12 2026 numbers. Total supply is 50.0B and 35.
 
 ### Can Stellar reach $10?
 
-At $10, Stellar would be worth about $351B in total — about 50 times its $6.97B market cap today (Oct 20 2026, about 19.9 cents a coin). Stellar's supply also grows +10.08% in the next year, so every extra coin needs buyers too. By supply and demand, Stellar's long-run signal is negative today.
+At $10, Stellar would be worth about $351B in total — about 50 times its $6.97B market cap today (Oct 21 2026, about 19.9 cents a coin). Stellar's supply also grows +10.08% in the next year, so every extra coin needs buyers too. By supply and demand, Stellar's long-run signal is negative today.
 
 ### Is it time to take profit on Stellar?
 
@@ -86,7 +86,7 @@ Stellar's signal is negative for now. Stellar's signal would turn if new supply 
 
 ### Is Stellar a good investment right now?
 
-Stellar sits at 3.5/10 today (Oct 20 2026): supply 1.5/5, demand 2/5. One more year adds +10.08% to Stellar's supply. Long-run signal: negative.
+Stellar sits at 3.5/10 today (Oct 21 2026): supply 1.5/5, demand 2/5. One more year adds +10.08% to Stellar's supply. Long-run signal: negative.
 
 ### When is a good time to buy Stellar?
 
@@ -98,7 +98,7 @@ Right now 2 things drive Stellar's price (1 ▲, 0 ▼). ▲ Real-world money: T
 
 ### Should I buy Stellar or Bitcoin?
 
-Side by side on Oct 20 2026: Stellar at 3.5/10 with a negative signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Stellar is the weaker of the two.
+Side by side on Oct 21 2026: Stellar at 3.5/10 with a negative signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Stellar is the weaker of the two.
 
 ## Read more on XLM
 

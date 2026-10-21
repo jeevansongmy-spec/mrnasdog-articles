@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy Optimism (OP)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Supply and demand give Optimism (OP) a negative long-run signal today (Oct 20 2026); its score is 3/10."
+description:   "Supply and demand give Optimism (OP) a negative long-run signal today (Oct 21 2026); its score is 3/10."
 canonical_url: "https://mrnasdog.com/research/optimism"
 content_type:  "coin_hub"
 tags:          ["crypto", "op", "optimism", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy Optimism (OP)? Supply, Demand and Price Drivers (Oct 2026)
 
-*Source: https://mrnasdog.com/research/optimism — numbers checked Oct 20 2026*
+*Source: https://mrnasdog.com/research/optimism — numbers checked Oct 21 2026*
 
-Supply and demand give Optimism (OP) a **negative** long-run signal today (Oct 20 2026); its score is 3/10.
+Supply and demand give Optimism (OP) a **negative** long-run signal today (Oct 21 2026); its score is 3/10.
 
 - **Signal:** negative — OP, read by supply and demand
 - **Score:** 3/10 — supply 1.5/5, demand 1.5/5
@@ -70,7 +70,7 @@ A deeper OP demand breakdown is on the page for members.
 
 ### Should I buy Optimism now, or wait?
 
-By the law of supply and demand, Optimism's long-run signal is negative (Oct 20 2026, score 3/10). New supply: +1.96% in the next 90 days. Demand: very weak (1.5/5). Optimism's price drivers: 1 ▲ price up, 1 ▼ price down.
+By the law of supply and demand, Optimism's long-run signal is negative (Oct 21 2026, score 3/10). New supply: +1.96% in the next 90 days. Demand: very weak (1.5/5). Optimism's price drivers: 1 ▲ price up, 1 ▼ price down.
 
 ### Any fresh Optimism (OP) news that holders should know?
 
@@ -82,7 +82,7 @@ Optimism's signal is negative for now. Optimism's signal would turn if new suppl
 
 ### Is Optimism worth investing in for the long term?
 
-Optimism sits at 3/10 today (Oct 20 2026): supply 1.5/5, demand 1.5/5. One more year adds +6.96% to Optimism's supply. Long-run signal: negative.
+Optimism sits at 3/10 today (Oct 21 2026): supply 1.5/5, demand 1.5/5. One more year adds +6.96% to Optimism's supply. Long-run signal: negative.
 
 ### When is a good time to buy Optimism?
 
@@ -94,7 +94,7 @@ Right now 2 things drive Optimism's price (1 ▲, 1 ▼). ▼ Superchain income:
 
 ### Is Optimism a better investment than Bitcoin?
 
-Side by side on Oct 20 2026: Optimism at 3/10 with a negative signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Optimism is the weaker of the two.
+Side by side on Oct 21 2026: Optimism at 3/10 with a negative signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Optimism is the weaker of the two.
 
 ## Next steps for OP
 

@@ -1,6 +1,6 @@
 ---
 title:         "World (WLD) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Our read on World for Oct 20 2026: a negative long-run signal and a score of 2/10, from new supply, demand and what moves the price."
+description:   "Our read on World for Oct 21 2026: a negative long-run signal and a score of 2.5/10, from new supply, demand and what moves the price."
 canonical_url: "https://mrnasdog.com/research/wld"
 content_type:  "coin_hub"
 tags:          ["crypto", "wld", "world", "should-i-buy"]
@@ -8,14 +8,14 @@ published:     true
 ---
 # World (WLD) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
 
-*From https://mrnasdog.com/research/wld, updated Oct 20 2026*
+*From https://mrnasdog.com/research/wld, updated Oct 21 2026*
 
-Our read on World for Oct 20 2026: a **negative** long-run signal and a score of 2/10, from new supply, demand and what moves the price.
+Our read on World for Oct 21 2026: a **negative** long-run signal and a score of 2.5/10, from new supply, demand and what moves the price.
 
 - **Signal:** negative for World
-- **Score:** 2/10 — supply 0/5, demand 2/5
+- **Score:** 2.5/10 — supply 0/5, demand 2.5/5
 - **Supply growth:** +8.73% in 90 days · +44.50% in a year
-- **How much people want it:** weak (2/5)
+- **How much people want it:** modest (2.5/5)
 - **Price drivers:** 0 ▲ price up · 1 ▼ price down
 
 ## New WLD hitting the market
@@ -39,7 +39,7 @@ More humans verify → price up · Sign-ups stall → price down. Right now it p
 | May 4 2026 | 18 M people |
 | Jun 24 2026 | 18.1 M people |
 | Sep 29 2026 | 18.2 M people |
-| Oct 20 2026 | 18.2 M people |
+| Oct 21 2026 | 18.2 M people |
 
 *Checked Oct 14 2026*
 
@@ -60,7 +60,7 @@ Eightco holds about 302M WLD, flat since Jul 27 2026.
 
 ## Who wants World right now
 
-Demand reads **weak** (2/5), #66 of 110 coins we track — that is how much people want WLD now and how much buying could still come.
+Demand reads **modest** (2.5/5), #46 of 110 coins we track — that is how much people want WLD now and how much buying could still come.
 
 A deeper WLD demand breakdown is on the page for members.
 
@@ -68,7 +68,7 @@ A deeper WLD demand breakdown is on the page for members.
 
 ### Should I enter World right now?
 
-By the law of supply and demand, World's long-run signal is negative (Oct 20 2026, score 2/10). New supply: +8.73% in the next 90 days. Demand: weak (2/5). World's price drivers: 0 ▲ price up, 1 ▼ price down.
+By the law of supply and demand, World's long-run signal is negative (Oct 21 2026, score 2.5/10). New supply: +8.73% in the next 90 days. Demand: modest (2.5/5). World's price drivers: 0 ▲ price up, 1 ▼ price down.
 
 ### What is WLD crypto, and what does it actually do?
 
@@ -80,15 +80,15 @@ Not much that looks good, we think. Eightco still holds about 302M WLD, flat sin
 
 ### When should I sell World?
 
-World's signal is negative for now. World's signal would turn if new supply keeps arriving (+8.73% in 90 days), or demand falls from weak, or Verified humans keeps pointing down.
+World's signal is negative for now. World's signal would turn if new supply keeps arriving (+8.73% in 90 days), or demand falls from modest, or Verified humans keeps pointing down.
 
 ### Is World a good investment in 2026?
 
-World sits at 2/10 today (Oct 20 2026): supply 0/5, demand 2/5. One more year adds +44.50% to World's supply. Long-run signal: negative.
+World sits at 2.5/10 today (Oct 21 2026): supply 0/5, demand 2.5/5. One more year adds +44.50% to World's supply. Long-run signal: negative.
 
 ### When is a good time to buy World?
 
-By the law of supply and demand, the better time to enter World is when its new supply is low, demand is high and its price drivers point up. World today: +8.73% new supply in 90 days (extreme), demand weak (2/5), drivers 0 ▲ / 1 ▼.
+By the law of supply and demand, the better time to enter World is when its new supply is low, demand is high and its price drivers point up. World today: +8.73% new supply in 90 days (extreme), demand modest (2.5/5), drivers 0 ▲ / 1 ▼.
 
 ### What could push World's price up or down?
 
@@ -96,7 +96,7 @@ Right now 2 things drive World's price (0 ▲, 1 ▼). ▼ Verified humans: New 
 
 ### Should I buy World or Bitcoin?
 
-Side by side on Oct 20 2026: World at 2/10 with a negative signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, World is the weaker of the two.
+Side by side on Oct 21 2026: World at 2.5/10 with a negative signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, World is the weaker of the two.
 
 ## Read more on WLD
 

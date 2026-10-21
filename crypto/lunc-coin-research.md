@@ -8,9 +8,9 @@ published:     true
 ---
 # Terra Luna Classic (LUNC): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)
 
-*Live page: https://mrnasdog.com/research/lunc · checked Oct 20 2026*
+*Live page: https://mrnasdog.com/research/lunc · checked Oct 21 2026*
 
-**positive** — that is Terra Luna Classic's long-run signal by supply and demand as of Oct 20 2026, with a score of 7/10.
+**positive** — that is Terra Luna Classic's long-run signal by supply and demand as of Oct 21 2026, with a score of 7/10.
 
 - **Long-run signal:** positive (by the law of supply and demand)
 - **Score:** 7/10 — supply 5/5, demand 2/5
@@ -57,11 +57,11 @@ Good for the price: Upgrades pass, USTC revives. Bad for it: Votes stall or fail
 
 Terra Classic mints no LUNC; a 1.5% transfer tax burns about 85M LUNC a day, so supply only falls, but slowly against 5.52T coins.
 
-Over the next 90 days LUNC supply changes −0.17%; across a full year, −0.70%. That puts supply at 5/5 (shrinking) (place 104 of 101).
+Over the next 90 days LUNC supply changes −0.17%; across a full year, −0.70%. That puts supply at 5/5 (shrinking) (place 105 of 101).
 
 ## LUNC demand
 
-People's appetite for Terra Luna Classic is **weak**: 2/5, ranked #66 of 110.
+People's appetite for Terra Luna Classic is **weak**: 2/5, ranked #65 of 110.
 
 Members get the rest of the Terra Luna Classic demand read on mrnasdog.com.
 
@@ -69,7 +69,7 @@ Members get the rest of the Terra Luna Classic demand read on mrnasdog.com.
 
 ### Is it a good time to buy Terra Luna Classic today?
 
-Supply and demand point to a positive long-run signal for Terra Luna Classic (Oct 20 2026, score 7/10). Terra Luna Classic adds −0.17% new supply in 90 days, and demand reads weak (2/5). Terra Luna Classic's price drivers: 0 ▲ price up, 0 ▼ price down.
+Supply and demand point to a positive long-run signal for Terra Luna Classic (Oct 21 2026, score 7/10). Terra Luna Classic adds −0.17% new supply in 90 days, and demand reads weak (2/5). Terra Luna Classic's price drivers: 0 ▲ price up, 0 ▼ price down.
 
 ### Will Terra Luna Classic ever recover from its crash?
 
@@ -81,7 +81,7 @@ We would read Terra Luna Classic differently if new supply jumps (today −0.17%
 
 ### Is Terra Luna Classic a good long-term investment?
 
-Terra Luna Classic scores 7/10 on our framework (Oct 20 2026): supply 5/5 (shrinking), demand 2/5. Over the next year Terra Luna Classic's supply changes −0.70%. The long-run signal is positive.
+Terra Luna Classic scores 7/10 on our framework (Oct 21 2026): supply 5/5 (shrinking), demand 2/5. Over the next year Terra Luna Classic's supply changes −0.70%. The long-run signal is positive.
 
 ### How do I know when to buy Terra Luna Classic?
 
@@ -93,7 +93,7 @@ Terra Luna Classic's price drivers today: 0 pointing up, 0 pointing down, out of
 
 ### Is Terra Luna Classic a better investment than Bitcoin?
 
-Terra Luna Classic: positive signal, 7/10 · Bitcoin: positive signal, 8.5/10 (Oct 20 2026). By supply and demand, Terra Luna Classic reads weaker than Bitcoin today.
+Terra Luna Classic: positive signal, 7/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, Terra Luna Classic reads weaker than Bitcoin today.
 
 ## Read more on LUNC
 

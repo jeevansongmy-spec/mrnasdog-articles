@@ -8,11 +8,11 @@ published:     true
 ---
 # Is Monad (MON) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/monad (checked Oct 20 2026)*
+*Originally published at https://mrnasdog.com/research/monad (checked Oct 21 2026)*
 
-**mixed** — that is Monad's long-run signal by supply and demand as of Oct 20 2026, with a score of 4/10.
+**mixed** — that is Monad's long-run signal by supply and demand as of Oct 21 2026, with a score of 4/10.
 
-- **Signal:** mixed (Oct 20 2026)
+- **Signal:** mixed (Oct 21 2026)
 - **Score:** 4/10 — supply 0/5, demand 4/5
 - **Supply growth:** +142.72% in 90 days · +218.54% in a year
 - **How much people want it:** strong (4/5)
@@ -66,7 +66,7 @@ Members get the rest of the Monad demand read on mrnasdog.com.
 
 ### Should I buy Monad now, or wait?
 
-Based on the law of supply and demand, the long-run signal for Monad is mixed. As of Oct 20 2026, score 4/10, Monad faces +142.72% new supply over 90 days, with demand strong (4/5). Monad's price drivers: 2 ▲ price up, 0 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Monad is mixed. As of Oct 21 2026, score 4/10, Monad faces +142.72% new supply over 90 days, with demand strong (4/5). Monad's price drivers: 2 ▲ price up, 0 ▼ price down.
 
 ### Monad news: what happens on Nov 24 2026?
 
@@ -78,7 +78,7 @@ No, Monad looks alive. DeFi money on the chain nearly tripled since Aave arrived
 
 ### Is $1 possible for Monad?
 
-It would take 48 times today's value: $1 × Monad's coins in the market = about $11.8B, against $245M now (Oct 20 2026). Monad's supply also grows +218.54% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Monad stays mixed.
+It would take 48 times today's value: $1 × Monad's coins in the market = about $11.8B, against $245M now (Oct 21 2026). Monad's supply also grows +218.54% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Monad stays mixed.
 
 ### Is it time to take profit on Monad?
 
@@ -86,7 +86,7 @@ Today the signal is mixed. Supply and demand would point the other way for Monad
 
 ### Is Monad a good investment right now?
 
-On our framework Monad scores 4/10 (Oct 20 2026), with supply 0/5 (extreme) and demand 4/5. In the next year Monad's supply changes +218.54%, so the long-run signal reads mixed.
+On our framework Monad scores 4/10 (Oct 21 2026), with supply 0/5 (extreme) and demand 4/5. In the next year Monad's supply changes +218.54%, so the long-run signal reads mixed.
 
 ### What is the best time to invest in Monad?
 
@@ -98,7 +98,7 @@ Monad has 2 price drivers today (2 ▲ price up, 0 ▼ price down). ▲ Money on
 
 ### Should I buy Monad or Bitcoin?
 
-Monad reads mixed at 4/10; Bitcoin reads positive at 8.5/10 (Oct 20 2026). On supply and demand, Monad looks weaker than Bitcoin today.
+Monad reads mixed at 4/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, Monad looks weaker than Bitcoin today.
 
 ## More on Monad
 

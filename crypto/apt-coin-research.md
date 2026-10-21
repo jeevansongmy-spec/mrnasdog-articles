@@ -1,6 +1,6 @@
 ---
 title:         "Is Aptos (APT) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)"
-description:   "Supply and demand give Aptos (APT) a negative long-run signal today (Oct 20 2026); its score is 4/10."
+description:   "Supply and demand give Aptos (APT) a negative long-run signal today (Oct 21 2026); its score is 4/10."
 canonical_url: "https://mrnasdog.com/research/apt"
 content_type:  "coin_hub"
 tags:          ["crypto", "apt", "aptos", "should-i-buy"]
@@ -8,11 +8,11 @@ published:     true
 ---
 # Is Aptos (APT) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/apt (checked Oct 20 2026)*
+*Originally published at https://mrnasdog.com/research/apt (checked Oct 21 2026)*
 
-Supply and demand give Aptos (APT) a **negative** long-run signal today (Oct 20 2026); its score is 4/10.
+Supply and demand give Aptos (APT) a **negative** long-run signal today (Oct 21 2026); its score is 4/10.
 
-- **Signal today:** negative (Oct 20 2026)
+- **Signal today:** negative (Oct 21 2026)
 - **MrNasDog score:** 4/10 — supply 1.5/5, demand 2.5/5
 - **New coins:** +2.03% in 90 days · +8.16% in a year
 - **Demand:** modest (2.5/5)
@@ -45,7 +45,7 @@ Good for the price: More dollars on Aptos. Bad for it: Dollars leave Aptos. Righ
 | Jul 31 2026 | $847M | $265M |
 | Aug 31 2026 | $732M | $208M |
 | Sep 30 2026 | $522M | $358M |
-| Oct 20 2026 | $467M | $301M |
+| Oct 21 2026 | $467M | $310M |
 
 *Checked Oct 16 2026*
 
@@ -69,7 +69,7 @@ ETF approved, new buyers → price up · Stays stuck → price down.
 
 ### Should I buy Aptos now, or wait?
 
-Supply and demand point to a negative long-run signal for Aptos (Oct 20 2026, score 4/10). Aptos adds +2.03% new supply in 90 days, and demand reads modest (2.5/5). Aptos's price drivers: 0 ▲ price up, 1 ▼ price down.
+Supply and demand point to a negative long-run signal for Aptos (Oct 21 2026, score 4/10). Aptos adds +2.03% new supply in 90 days, and demand reads modest (2.5/5). Aptos's price drivers: 0 ▲ price up, 1 ▼ price down.
 
 ### How far is Aptos's market cap from its fully diluted value?
 
@@ -81,7 +81,7 @@ Not dead, but it looks tired. USDT on Aptos has about halved since June 2026, de
 
 ### Could Aptos ever hit $100?
 
-Aptos trades near 84.3 cents (Oct 20 2026). $100 a coin means a $88.3B market cap, 119 times today's $744M. Aptos's supply also grows +8.16% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Aptos stays negative.
+Aptos trades near 84.3 cents (Oct 21 2026). $100 a coin means a $88.3B market cap, 119 times today's $744M. Aptos's supply also grows +8.16% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Aptos stays negative.
 
 ### Is it time to take profit on Aptos?
 
@@ -89,7 +89,7 @@ We would read Aptos differently if new supply keeps arriving (+2.03% in 90 days)
 
 ### Is Aptos a good investment right now?
 
-Aptos scores 4/10 on our framework (Oct 20 2026): supply 1.5/5 (heavy), demand 2.5/5. Over the next year Aptos's supply changes +8.16%. The long-run signal is negative.
+Aptos scores 4/10 on our framework (Oct 21 2026): supply 1.5/5 (heavy), demand 2.5/5. Over the next year Aptos's supply changes +8.16%. The long-run signal is negative.
 
 ### How do I know when to buy Aptos?
 
@@ -101,7 +101,7 @@ Aptos's price drivers today: 0 pointing up, 1 pointing down, out of 2. ▼ Stabl
 
 ### Should I buy Aptos or Bitcoin?
 
-Aptos: negative signal, 4/10 · Bitcoin: positive signal, 8.5/10 (Oct 20 2026). By supply and demand, Aptos reads weaker than Bitcoin today.
+Aptos: negative signal, 4/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, Aptos reads weaker than Bitcoin today.
 
 ## Next steps for APT
 

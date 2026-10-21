@@ -8,14 +8,14 @@ published:     true
 ---
 # Should You Buy Pons? Supply, Demand and Price Drivers (Oct 2026)
 
-*Source: https://mrnasdog.com/research/pons — numbers checked Oct 20 2026*
+*Source: https://mrnasdog.com/research/pons — numbers checked Oct 21 2026*
 
-**positive** — that is Pons's long-run signal by supply and demand as of Oct 20 2026, with a score of 10/10.
+**positive** — that is Pons's long-run signal by supply and demand as of Oct 21 2026, with a score of 9.5/10.
 
 - **Signal:** positive — PONS, read by supply and demand
-- **Score:** 10/10 — supply 5/5, demand 5/5
+- **Score:** 9.5/10 — supply 5/5, demand 4.5/5
 - **Supply growth:** −10.05% in 90 days · −40.19% in a year
-- **How much people want it:** exceptional (5/5)
+- **How much people want it:** very strong (4.5/5)
 - **Price drivers:** 2 ▲ price up · 1 ▼ price down
 
 ## PONS supply
@@ -26,7 +26,7 @@ Expect −10.05% more PONS in 90 days (−40.19% over the year). On supply alone
 
 ## Demand today
 
-How much do people want PONS? **exceptional** — 5 out of 5, #1 of 110.
+How much do people want PONS? **very strong** — 4.5 out of 5, #5 of 110.
 
 A deeper PONS demand breakdown is on the page for members.
 
@@ -60,7 +60,7 @@ Chain meme trading cooled from its September peak; PONS moves with it
 | Jul 31 2026 | $15.3B |
 | Aug 31 2026 | $19.1B |
 | Sep 30 2026 | $56B |
-| Oct 20 2026 | $34.6B |
+| Oct 21 2026 | $34.4B |
 
 *Checked Oct 14 2026*
 
@@ -87,7 +87,7 @@ More big exchanges → price up · Exchanges delist PONS → price down. Today: 
 
 ### Should I enter Pons right now?
 
-By the law of supply and demand, Pons's long-run signal is positive (Oct 20 2026, score 10/10). New supply: −10.05% in the next 90 days. Demand: exceptional (5/5). Pons's price drivers: 2 ▲ price up, 1 ▼ price down.
+By the law of supply and demand, Pons's long-run signal is positive (Oct 21 2026, score 9.5/10). New supply: −10.05% in the next 90 days. Demand: very strong (4.5/5). Pons's price drivers: 2 ▲ price up, 1 ▼ price down.
 
 ### How does the Pons crypto launchpad feed the PONS token?
 
@@ -99,15 +99,15 @@ Not for long, it looks like. Coinbase opened PONS trading on Oct 7 2026 and Upbi
 
 ### Should I sell Pons or hold?
 
-Pons's signal is positive for now. Pons's signal would turn if new supply jumps (today −10.05% in 90 days), or demand falls from exceptional, or Robinhood Chain trading keeps pointing down.
+Pons's signal is positive for now. Pons's signal would turn if new supply jumps (today −10.05% in 90 days), or demand falls from very strong, or Robinhood Chain trading keeps pointing down.
 
 ### Is Pons worth investing in for the long term?
 
-Pons sits at 10/10 today (Oct 20 2026): supply 5/5, demand 5/5. One more year adds −40.19% to Pons's supply. Long-run signal: positive.
+Pons sits at 9.5/10 today (Oct 21 2026): supply 5/5, demand 4.5/5. One more year adds −40.19% to Pons's supply. Long-run signal: positive.
 
 ### When is a good time to buy Pons?
 
-By the law of supply and demand, the better time to add Pons is when its new supply is low, demand is high and its price drivers point up. Pons today: −10.05% new supply in 90 days (shrinking), demand exceptional (5/5), drivers 2 ▲ / 1 ▼.
+By the law of supply and demand, the better time to add Pons is when its new supply is low, demand is high and its price drivers point up. Pons today: −10.05% new supply in 90 days (shrinking), demand very strong (4.5/5), drivers 2 ▲ / 1 ▼.
 
 ### What could push Pons's price up or down?
 
@@ -115,7 +115,7 @@ Right now 3 things drive Pons's price (2 ▲, 1 ▼). ▲ Launchpad share: Pons 
 
 ### Is Pons a better investment than Bitcoin?
 
-Side by side on Oct 20 2026: Pons at 10/10 with a positive signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Pons is the stronger of the two.
+Side by side on Oct 21 2026: Pons at 9.5/10 with a positive signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Pons is the stronger of the two.
 
 ## Where to read the rest of PONS
 

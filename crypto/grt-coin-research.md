@@ -1,6 +1,6 @@
 ---
 title:         "Is The Graph (GRT) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)"
-description:   "Is The Graph worth buying today? By the law of supply and demand, the long-run signal for GRT is negative (score 3.5/10, checked Oct 20 2026)."
+description:   "Is The Graph worth buying today? By the law of supply and demand, the long-run signal for GRT is negative (score 3.5/10, checked Oct 21 2026)."
 canonical_url: "https://mrnasdog.com/research/grt"
 content_type:  "coin_hub"
 tags:          ["crypto", "grt", "thegraph", "should-i-buy"]
@@ -8,11 +8,11 @@ published:     true
 ---
 # Is The Graph (GRT) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/grt (checked Oct 20 2026)*
+*Originally published at https://mrnasdog.com/research/grt (checked Oct 21 2026)*
 
-Is The Graph worth buying today? By the law of supply and demand, the long-run signal for GRT is **negative** (score 3.5/10, checked Oct 20 2026).
+Is The Graph worth buying today? By the law of supply and demand, the long-run signal for GRT is **negative** (score 3.5/10, checked Oct 21 2026).
 
-- **Long-run signal:** negative (Oct 20 2026)
+- **Long-run signal:** negative (Oct 21 2026)
 - **Score:** 3.5/10 — supply 2/5, demand 1.5/5
 - **New supply:** +1.07% in 90 days · +4.30% in a year
 - **Demand:** very weak (1.5/5)
@@ -72,7 +72,7 @@ More GRT staked → price up · Stake leaves → price down. Today: the price-do
 
 ### Should I buy The Graph now, or wait?
 
-Based on the law of supply and demand, the long-run signal for The Graph is negative. As of Oct 20 2026, score 3.5/10, The Graph faces +1.07% new supply over 90 days, with demand very weak (1.5/5). The Graph's price drivers: 0 ▲ price up, 1 ▼ price down.
+Based on the law of supply and demand, the long-run signal for The Graph is negative. As of Oct 21 2026, score 3.5/10, The Graph faces +1.07% new supply over 90 days, with demand very weak (1.5/5). The Graph's price drivers: 0 ▲ price up, 1 ▼ price down.
 
 ### What's the latest news on The Graph (GRT)?
 
@@ -84,7 +84,7 @@ Today the signal is negative. Supply and demand would point the other way for Th
 
 ### Is The Graph a good investment right now?
 
-On our framework The Graph scores 3.5/10 (Oct 20 2026), with supply 2/5 (growing) and demand 1.5/5. In the next year The Graph's supply changes +4.30%, so the long-run signal reads negative.
+On our framework The Graph scores 3.5/10 (Oct 21 2026), with supply 2/5 (growing) and demand 1.5/5. In the next year The Graph's supply changes +4.30%, so the long-run signal reads negative.
 
 ### What is the best time to invest in The Graph?
 
@@ -96,7 +96,7 @@ The Graph has 2 price drivers today (0 ▲ price up, 1 ▼ price down). • Foun
 
 ### Should I buy The Graph or Bitcoin?
 
-The Graph reads negative at 3.5/10; Bitcoin reads positive at 8.5/10 (Oct 20 2026). On supply and demand, The Graph looks weaker than Bitcoin today.
+The Graph reads negative at 3.5/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, The Graph looks weaker than Bitcoin today.
 
 ## Read more on GRT
 

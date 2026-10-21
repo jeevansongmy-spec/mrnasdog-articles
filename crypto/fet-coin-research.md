@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy ASI Alliance (FET)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Our read on ASI Alliance for Oct 20 2026: a negative long-run signal and a score of 3/10, from new supply, demand and what moves the price."
+description:   "Our read on ASI Alliance for Oct 21 2026: a negative long-run signal and a score of 3/10, from new supply, demand and what moves the price."
 canonical_url: "https://mrnasdog.com/research/fet"
 content_type:  "coin_hub"
 tags:          ["crypto", "fet", "asialliance", "should-i-buy"]
@@ -8,11 +8,11 @@ published:     true
 ---
 # Should You Buy ASI Alliance (FET)? Supply, Demand and Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/fet (checked Oct 20 2026)*
+*Originally published at https://mrnasdog.com/research/fet (checked Oct 21 2026)*
 
-Our read on ASI Alliance for Oct 20 2026: a **negative** long-run signal and a score of 3/10, from new supply, demand and what moves the price.
+Our read on ASI Alliance for Oct 21 2026: a **negative** long-run signal and a score of 3/10, from new supply, demand and what moves the price.
 
-- **Signal today:** negative (Oct 20 2026)
+- **Signal today:** negative (Oct 21 2026)
 - **MrNasDog score:** 3/10 — supply 0.5/5, demand 2.5/5
 - **New coins:** +5.99% in 90 days · +24.30% in a year
 - **Demand:** modest (2.5/5)
@@ -71,7 +71,7 @@ Good for the price: Mainnet ships on time. Bad for it: Delays.
 
 ### Should I buy ASI Alliance now, or wait?
 
-Based on the law of supply and demand, the long-run signal for ASI Alliance is negative. As of Oct 20 2026, score 3/10, ASI Alliance faces +5.99% new supply over 90 days, with demand modest (2.5/5). ASI Alliance's price drivers: 0 ▲ price up, 0 ▼ price down.
+Based on the law of supply and demand, the long-run signal for ASI Alliance is negative. As of Oct 21 2026, score 3/10, ASI Alliance faces +5.99% new supply over 90 days, with demand modest (2.5/5). ASI Alliance's price drivers: 0 ▲ price up, 0 ▼ price down.
 
 ### Is the FET burn enough to shrink ASI Alliance supply?
 
@@ -83,7 +83,7 @@ Today the signal is negative. Supply and demand would point the other way for AS
 
 ### Is ASI Alliance a good investment right now?
 
-On our framework ASI Alliance scores 3/10 (Oct 20 2026), with supply 0.5/5 (flooding) and demand 2.5/5. In the next year ASI Alliance's supply changes +24.30%, so the long-run signal reads negative.
+On our framework ASI Alliance scores 3/10 (Oct 21 2026), with supply 0.5/5 (flooding) and demand 2.5/5. In the next year ASI Alliance's supply changes +24.30%, so the long-run signal reads negative.
 
 ### What is the best time to invest in ASI Alliance?
 
@@ -95,7 +95,7 @@ ASI Alliance has 2 price drivers today (0 ▲ price up, 0 ▼ price down). • O
 
 ### Should I buy ASI Alliance or Bitcoin?
 
-ASI Alliance reads negative at 3/10; Bitcoin reads positive at 8.5/10 (Oct 20 2026). On supply and demand, ASI Alliance looks weaker than Bitcoin today.
+ASI Alliance reads negative at 3/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, ASI Alliance looks weaker than Bitcoin today.
 
 ## Where to read the rest of FET
 

@@ -8,14 +8,14 @@ published:     true
 ---
 # Should You Buy Ethena (ENA)? Supply, Demand and Price Drivers (Oct 2026)
 
-*Live page: https://mrnasdog.com/research/ena · checked Oct 20 2026*
+*Live page: https://mrnasdog.com/research/ena · checked Oct 21 2026*
 
-**mixed** — that is Ethena's long-run signal by supply and demand as of Oct 20 2026, with a score of 4/10.
+**negative** — that is Ethena's long-run signal by supply and demand as of Oct 21 2026, with a score of 3.5/10.
 
-- **Long-run signal:** mixed (by the law of supply and demand)
-- **Score:** 4/10 — supply 1.5/5, demand 2.5/5
+- **Long-run signal:** negative (by the law of supply and demand)
+- **Score:** 3.5/10 — supply 1.5/5, demand 2/5
 - **New supply:** +2.10% in 90 days · +8.39% in a year
-- **Demand:** modest (2.5/5)
+- **Demand:** weak (2/5)
 - **Price drivers:** 1 ▲ price up · 0 ▼ price down
 
 ## Supply: how much new ENA is coming
@@ -26,7 +26,7 @@ Over the next 90 days ENA supply changes +2.10%; across a full year, +8.39%. Tha
 
 ## How strong is Ethena demand?
 
-People's appetite for Ethena is **modest**: 2.5/5, ranked #46 of 110.
+People's appetite for Ethena is **weak**: 2/5, ranked #65 of 110.
 
 The members-only part of ENA's demand section is not included.
 
@@ -45,7 +45,7 @@ Good for the price: More USDe in use. Bad for it: USDe shrinks. Now: ▲ up side
 | Jul 31 2026 | 3.87 B USDe |
 | Aug 31 2026 | 4.08 B USDe |
 | Sep 30 2026 | 4.9 B USDe |
-| Oct 20 2026 | 4.68 B USDe |
+| Oct 21 2026 | 4.68 B USDe |
 
 *Checked Oct 13 2026*
 
@@ -69,23 +69,23 @@ Holds ~20% of all ENA; its lock-up ended Oct 5 2026.
 
 ### Is it time to buy the Ethena dip?
 
-Supply and demand point to a mixed long-run signal for Ethena (Oct 20 2026, score 4/10). Ethena adds +2.10% new supply in 90 days, and demand reads modest (2.5/5). Ethena's price drivers: 1 ▲ price up, 0 ▼ price down.
+Supply and demand point to a negative long-run signal for Ethena (Oct 21 2026, score 3.5/10). Ethena adds +2.10% new supply in 90 days, and demand reads weak (2/5). Ethena's price drivers: 1 ▲ price up, 0 ▼ price down.
 
 ### Could Ethena ever hit $1?
 
-Ethena trades near 21 cents (Oct 20 2026). $1 a coin means a $13.4B market cap, 4.8 times today's $2.82B. Ethena's supply also grows +8.39% in the next year, so every extra coin needs buyers too. Supply and demand still read mixed for Ethena in the long run.
+Ethena trades near 21 cents (Oct 21 2026). $1 a coin means a $13.4B market cap, 4.8 times today's $2.82B. Ethena's supply also grows +8.39% in the next year, so every extra coin needs buyers too. Supply and demand still read negative for Ethena in the long run.
 
 ### Should I sell my Ethena now?
 
-We would read Ethena differently if new supply keeps arriving (+2.10% in 90 days), or demand falls from modest. Until then Ethena's signal stays mixed.
+We would read Ethena differently if new supply keeps arriving (+2.10% in 90 days), or demand falls from weak. Until then Ethena's signal stays negative.
 
 ### Is Ethena a good long-term investment?
 
-Ethena scores 4/10 on our framework (Oct 20 2026): supply 1.5/5 (heavy), demand 2.5/5. Over the next year Ethena's supply changes +8.39%. The long-run signal is mixed.
+Ethena scores 3.5/10 on our framework (Oct 21 2026): supply 1.5/5 (heavy), demand 2/5. Over the next year Ethena's supply changes +8.39%. The long-run signal is negative.
 
 ### How do I know when to buy Ethena?
 
-Supply and demand favor Ethena most when little new supply is coming, demand is strong and the price drivers point up. Right now Ethena has +2.10% new supply in 90 days (heavy), demand modest (2.5/5), drivers 1 ▲ / 0 ▼.
+Supply and demand favor Ethena most when little new supply is coming, demand is strong and the price drivers point up. Right now Ethena has +2.10% new supply in 90 days (heavy), demand weak (2/5), drivers 1 ▲ / 0 ▼.
 
 ### Will Ethena go up in 2026?
 
@@ -93,7 +93,7 @@ Ethena's price drivers today: 1 pointing up, 0 pointing down, out of 2. ▲ USDe
 
 ### Is Ethena a better investment than Bitcoin?
 
-Ethena: mixed signal, 4/10 · Bitcoin: positive signal, 8.5/10 (Oct 20 2026). By supply and demand, Ethena reads weaker than Bitcoin today.
+Ethena: negative signal, 3.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, Ethena reads weaker than Bitcoin today.
 
 ## Where to read the rest of ENA
 

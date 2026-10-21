@@ -1,6 +1,6 @@
 ---
 title:         "Algorand (ALGO) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Is Algorand worth buying today? By the law of supply and demand, the long-run signal for ALGO is negative (score 4/10, checked Oct 20 2026)."
+description:   "Is Algorand worth buying today? By the law of supply and demand, the long-run signal for ALGO is negative (score 4/10, checked Oct 21 2026)."
 canonical_url: "https://mrnasdog.com/research/algo"
 content_type:  "coin_hub"
 tags:          ["crypto", "algo", "algorand", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Algorand (ALGO) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
 
-*From https://mrnasdog.com/research/algo, updated Oct 20 2026*
+*From https://mrnasdog.com/research/algo, updated Oct 21 2026*
 
-Is Algorand worth buying today? By the law of supply and demand, the long-run signal for ALGO is **negative** (score 4/10, checked Oct 20 2026).
+Is Algorand worth buying today? By the law of supply and demand, the long-run signal for ALGO is **negative** (score 4/10, checked Oct 21 2026).
 
 - **Long-run signal:** negative for Algorand
 - **Score:** 4/10 — supply 2.5/5, demand 1.5/5
@@ -22,7 +22,7 @@ Is Algorand worth buying today? By the law of supply and demand, the long-run si
 
 ### Should I enter Algorand right now?
 
-By the law of supply and demand, Algorand's long-run signal is negative (Oct 20 2026, score 4/10). New supply: +0.66% in the next 90 days. Demand: very weak (1.5/5). Algorand's price drivers: 0 ▲ price up, 2 ▼ price down.
+By the law of supply and demand, Algorand's long-run signal is negative (Oct 21 2026, score 4/10). New supply: +0.66% in the next 90 days. Demand: very weak (1.5/5). Algorand's price drivers: 0 ▲ price up, 2 ▼ price down.
 
 ### Is Algorand ready for quantum computers?
 
@@ -34,7 +34,7 @@ ALGO sits near 11.5 cents (Oct 15 2026), and demand reads very weak (1.5/5). The
 
 ### Can Algorand reach $10?
 
-At $10, Algorand would be worth about $90.7B in total — about 87 times its $1.04B market cap today (Oct 20 2026, about 11.5 cents a coin). Algorand's supply also grows +2.64% in the next year, so every extra coin needs buyers too. For Algorand, the supply-and-demand signal is negative right now.
+At $10, Algorand would be worth about $90.7B in total — about 87 times its $1.04B market cap today (Oct 21 2026, about 11.5 cents a coin). Algorand's supply also grows +2.64% in the next year, so every extra coin needs buyers too. For Algorand, the supply-and-demand signal is negative right now.
 
 ### When should I sell Algorand?
 
@@ -42,7 +42,7 @@ Algorand's signal is negative for now. Algorand's signal would turn if new suppl
 
 ### Is Algorand a good investment in 2026?
 
-Algorand sits at 4/10 today (Oct 20 2026): supply 2.5/5, demand 1.5/5. One more year adds +2.64% to Algorand's supply. Long-run signal: negative.
+Algorand sits at 4/10 today (Oct 21 2026): supply 2.5/5, demand 1.5/5. One more year adds +2.64% to Algorand's supply. Long-run signal: negative.
 
 ### When is a good time to buy Algorand?
 
@@ -54,7 +54,7 @@ Right now 2 things drive Algorand's price (0 ▲, 2 ▼). ▼ Foundation ALGO pi
 
 ### Should I buy Algorand or Bitcoin?
 
-Side by side on Oct 20 2026: Algorand at 4/10 with a negative signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Algorand is the weaker of the two.
+Side by side on Oct 21 2026: Algorand at 4/10 with a negative signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Algorand is the weaker of the two.
 
 ## How fast Algorand supply grows
 
@@ -64,7 +64,7 @@ Algorand adds +0.66% new supply in the next 90 days and +2.64% over a year — s
 
 ## How strong is Algorand demand?
 
-Demand reads **very weak** (1.5/5), #79 of 110 coins we track — that is how much people want ALGO now and how much buying could still come.
+Demand reads **very weak** (1.5/5), #80 of 110 coins we track — that is how much people want ALGO now and how much buying could still come.
 
 (Members see more ALGO demand detail on the page; it is not repeated here.)
 

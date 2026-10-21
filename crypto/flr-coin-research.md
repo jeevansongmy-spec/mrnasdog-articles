@@ -1,6 +1,6 @@
 ---
 title:         "Should You Buy Flare (FLR)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Is Flare worth buying today? By the law of supply and demand, the long-run signal for FLR is negative (score 3/10, checked Oct 20 2026)."
+description:   "Is Flare worth buying today? By the law of supply and demand, the long-run signal for FLR is negative (score 3/10, checked Oct 21 2026)."
 canonical_url: "https://mrnasdog.com/research/flr"
 content_type:  "coin_hub"
 tags:          ["crypto", "flr", "flare", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Should You Buy Flare (FLR)? Supply, Demand and Price Drivers (Oct 2026)
 
-*Source: https://mrnasdog.com/research/flr — numbers checked Oct 20 2026*
+*Source: https://mrnasdog.com/research/flr — numbers checked Oct 21 2026*
 
-Is Flare worth buying today? By the law of supply and demand, the long-run signal for FLR is **negative** (score 3/10, checked Oct 20 2026).
+Is Flare worth buying today? By the law of supply and demand, the long-run signal for FLR is **negative** (score 3/10, checked Oct 21 2026).
 
 - **Signal:** negative — FLR, read by supply and demand
 - **Score:** 3/10 — supply 2/5, demand 1/5
@@ -22,7 +22,7 @@ Is Flare worth buying today? By the law of supply and demand, the long-run signa
 
 ### Should I enter Flare right now?
 
-Based on the law of supply and demand, the long-run signal for Flare is negative. As of Oct 20 2026, score 3/10, Flare faces +1.06% new supply over 90 days, with demand low (1/5). Flare's price drivers: 0 ▲ price up, 1 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Flare is negative. As of Oct 21 2026, score 3/10, Flare faces +1.06% new supply over 90 days, with demand low (1/5). Flare's price drivers: 0 ▲ price up, 1 ▼ price down.
 
 ### How many Flare (FLR) coins exist in total?
 
@@ -30,7 +30,7 @@ About 106.8B FLR exist, and about 87.4B of them are in the market (Oct 17 2026).
 
 ### Is $1 possible for Flare?
 
-It would take 153 times today's value: $1 × Flare's coins in the market = about $87.4B, against $573M now (Oct 20 2026). Flare's supply also grows +4.30% in the next year, so every extra coin needs buyers too. For Flare, the supply-and-demand signal is negative right now.
+It would take 153 times today's value: $1 × Flare's coins in the market = about $87.4B, against $573M now (Oct 21 2026). Flare's supply also grows +4.30% in the next year, so every extra coin needs buyers too. For Flare, the supply-and-demand signal is negative right now.
 
 ### Should I sell Flare or hold?
 
@@ -38,7 +38,7 @@ Today the signal is negative. Supply and demand would point the other way for Fl
 
 ### Is Flare worth investing in for the long term?
 
-On our framework Flare scores 3/10 (Oct 20 2026), with supply 2/5 (growing) and demand 1/5. In the next year Flare's supply changes +4.30%, so the long-run signal reads negative.
+On our framework Flare scores 3/10 (Oct 21 2026), with supply 2/5 (growing) and demand 1/5. In the next year Flare's supply changes +4.30%, so the long-run signal reads negative.
 
 ### What is the best time to invest in Flare?
 
@@ -50,7 +50,7 @@ Flare has 2 price drivers today (0 ▲ price up, 1 ▼ price down). ▼ FXRP min
 
 ### Is Flare a better investment than Bitcoin?
 
-Flare reads negative at 3/10; Bitcoin reads positive at 8.5/10 (Oct 20 2026). On supply and demand, Flare looks weaker than Bitcoin today.
+Flare reads negative at 3/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, Flare looks weaker than Bitcoin today.
 
 ## Supply: how much new FLR is coming
 
@@ -60,7 +60,7 @@ Expect +1.06% more FLR in 90 days (+4.30% over the year). On supply alone Flare 
 
 ## Demand today
 
-How much do people want FLR? **low** — 1 out of 5, #93 of 110.
+How much do people want FLR? **low** — 1 out of 5, #92 of 110.
 
 (Members see more FLR demand detail on the page; it is not repeated here.)
 
@@ -79,7 +79,7 @@ More XRP comes in → price up · XRP leaves Flare → price down. Now: ▼ down
 | Jul 31 2026 | 148 M FXRP |
 | Aug 31 2026 | 147 M FXRP |
 | Sep 30 2026 | 144 M FXRP |
-| Oct 20 2026 | 143 M FXRP |
+| Oct 21 2026 | 143 M FXRP |
 
 *Checked Oct 17 2026*
 

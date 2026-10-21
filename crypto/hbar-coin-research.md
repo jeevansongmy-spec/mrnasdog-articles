@@ -1,6 +1,6 @@
 ---
 title:         "Hedera (HBAR) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Our read on Hedera for Oct 20 2026: a mixed long-run signal and a score of 5/10, from new supply, demand and what moves the price."
+description:   "Our read on Hedera for Oct 21 2026: a mixed long-run signal and a score of 5/10, from new supply, demand and what moves the price."
 canonical_url: "https://mrnasdog.com/research/hbar"
 content_type:  "coin_hub"
 tags:          ["crypto", "hbar", "hedera", "should-i-buy"]
@@ -8,11 +8,11 @@ published:     true
 ---
 # Hedera (HBAR) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
 
-*Originally published at https://mrnasdog.com/research/hbar (checked Oct 20 2026)*
+*Originally published at https://mrnasdog.com/research/hbar (checked Oct 21 2026)*
 
-Our read on Hedera for Oct 20 2026: a **mixed** long-run signal and a score of 5/10, from new supply, demand and what moves the price.
+Our read on Hedera for Oct 21 2026: a **mixed** long-run signal and a score of 5/10, from new supply, demand and what moves the price.
 
-- **Long-run signal:** mixed (Oct 20 2026)
+- **Long-run signal:** mixed (Oct 21 2026)
 - **Score:** 5/10 — supply 3.5/5, demand 1.5/5
 - **New supply:** +0.09% in 90 days · +3.63% in a year
 - **Demand:** very weak (1.5/5)
@@ -62,7 +62,7 @@ Three big names joined in 2026; Hitachi just dropped off.
 
 ## HBAR demand
 
-Hedera demand: 1.5/5 (**very weak**), place #79 among 110 coins — interest today plus the buying that could come later.
+Hedera demand: 1.5/5 (**very weak**), place #80 among 110 coins — interest today plus the buying that could come later.
 
 Members get the rest of the Hedera demand read on mrnasdog.com.
 
@@ -70,7 +70,7 @@ Members get the rest of the Hedera demand read on mrnasdog.com.
 
 ### Should I buy Hedera now, or wait?
 
-Based on the law of supply and demand, the long-run signal for Hedera is mixed. As of Oct 20 2026, score 5/10, Hedera faces +0.09% new supply over 90 days, with demand very weak (1.5/5). Hedera's price drivers: 1 ▲ price up, 0 ▼ price down.
+Based on the law of supply and demand, the long-run signal for Hedera is mixed. As of Oct 21 2026, score 5/10, Hedera faces +0.09% new supply over 90 days, with demand very weak (1.5/5). Hedera's price drivers: 1 ▲ price up, 0 ▼ price down.
 
 ### Hedera vs Canton: which coin has more room to grow?
 
@@ -82,7 +82,7 @@ Still growing, we think. The only US HBAR ETF keeps adding and is up 70% since D
 
 ### Is $10 possible for Hedera?
 
-It would take 109 times today's value: $10 × Hedera's coins in the market = about $440B, against $4.05B now (Oct 20 2026). Hedera's supply also grows +3.63% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Hedera stays mixed.
+It would take 109 times today's value: $10 × Hedera's coins in the market = about $440B, against $4.05B now (Oct 21 2026). Hedera's supply also grows +3.63% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Hedera stays mixed.
 
 ### Is it time to take profit on Hedera?
 
@@ -90,7 +90,7 @@ Today the signal is mixed. Supply and demand would point the other way for Heder
 
 ### Is Hedera a good investment right now?
 
-On our framework Hedera scores 5/10 (Oct 20 2026), with supply 3.5/5 (steady) and demand 1.5/5. In the next year Hedera's supply changes +3.63%, so the long-run signal reads mixed.
+On our framework Hedera scores 5/10 (Oct 21 2026), with supply 3.5/5 (steady) and demand 1.5/5. In the next year Hedera's supply changes +3.63%, so the long-run signal reads mixed.
 
 ### What is the best time to invest in Hedera?
 
@@ -102,7 +102,7 @@ Hedera has 2 price drivers today (1 ▲ price up, 0 ▼ price down). ▲ ETF hol
 
 ### Should I buy Hedera or Bitcoin?
 
-Hedera reads mixed at 5/10; Bitcoin reads positive at 8.5/10 (Oct 20 2026). On supply and demand, Hedera looks weaker than Bitcoin today.
+Hedera reads mixed at 5/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, Hedera looks weaker than Bitcoin today.
 
 ## Go deeper on Hedera
 
