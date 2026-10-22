@@ -1,6 +1,6 @@
 ---
 title:         "GRAM Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description:   "GRAM is inflationary: 51M GRAM of block rewards plus 48.6M released by a fund and Telegram, against a 98.7K burn, give +3.52% in 90 days, +3.54% next."
+description:   "GRAM is inflationary: 50.97M GRAM of block rewards plus 48.72M released by the Believers Fund and Telegram, against a 99.2K burn, give +3.52% in 90 days."
 canonical_url: "https://mrnasdog.com/research/gram/inflation"
 tags:          ["crypto", "gram", "toncoin", "layer1"]
 published:     true
@@ -12,56 +12,52 @@ Looking for the buy-or-sell answer? It is on the GRAM coin page, with demand and
 
 # GRAM Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
-Gram (GRAM), the coin of The Open Network that was called Toncoin until June 2026, is clearly inflationary: about **99.53M GRAM** reached the market in the last 90 days against only **0.10M GRAM** taken out, a net rise of **+3.52%** of the circulating supply, with about **+3.54%** expected in the next 90 days. Half of the new supply is block rewards, which grew sharply when TON blocks became about six times faster in April 2026 while the pay per block stayed the same; the other half comes from coins leaving the Believers Fund and a Telegram wallet. The monitor reads **+3.91%**, close to our number.
+**GRAM** (Gram, formerly Toncoin) is inflationary: the circulating supply of The Open Network's coin grew by a net **+3.52%** between Jul 24 and Oct 22 2026, and we expect about **+3.54%** over the next 90 days. Three sources feed the market: block rewards (**50.97M GRAM**), claims from the Believers Fund locker (**18.72M**) and payouts from Telegram's treasury wallet (**30.00M**), while the fee burn removed only **99,212 GRAM**. GRAM has no supply cap, and 1.08B frozen GRAM wait behind a Feb 21 2027 date.
 
 ## The verdict, in one paragraph
 
-Over the 90 days to Oct 12 2026 the Gram float grew by** +3.52%**: 99.53M GRAM of new and released coins against 0.10M GRAM burned or sent to a frozen address, measured on a circulating supply of** 2.83B GRAM**. The monitor reads** +3.91% **for nearly the same 90 days, a gap of** 0.39 percentage points**, inside our 0.5-point tolerance, so no warning chip is shown. The next 90 days look the same at** +3.54%**, because the block reward is fixed per block and the two release streams are steady. In one line:** Gram is inflationary by design on a fast chain, with locked coins leaking into the market on top.**
+Over the last 90 days the market had to absorb **99.69M** new GRAM against **0.10M** taken out, a net **+3.52%** of the **2.83B** GRAM in circulation. Other supply trackers show **+3.99%** for the same 90 days, **0.48** points higher; the two readings agree closely, so no warning flag is shown. The next 90 days look almost the same at **+3.54%**, because block rewards now run slightly faster than they did in late July. In one line: GRAM is inflationary by design, with fast blocks paying validators and locked wallets slowly opening into the market.
 
 ## Sell pressure: where new GRAM comes from
 
-**Protocol inflation** is the biggest source. Every TON block pays its makers new coins: 1.7 GRAM for a main-chain block and 1.0 GRAM for a work-chain block. The Catchain 2.0 upgrade of Apr 9 2026 cut the time between blocks from about 2.4 seconds to about 0.41 seconds without cutting that pay, so new GRAM now arrives about six times faster than in early 2026. Total supply rose from 5.214B to 5.265B GRAM in the window: block rewards created **50.95M GRAM**, about 566,000 a day. A cut of the block pay was discussed in the spring, but the network settings still read 1.7 and 1.0 GRAM and no change is pending. Since block-making helpers called collators were switched on Aug 20 2026 the pace has been about 574,000 a day, so we expect** 51.69M GRAM **in the next 90 days.
+**Protocol inflation** is the biggest source. Every block on The Open Network pays its validators new GRAM: **1.7 GRAM** per masterchain block and **1 GRAM** per basechain block. The reward per block never changed, but the April 9 2026 upgrade made blocks about six times faster, so the network now produces about **210,000** masterchain blocks a day. Between Jul 24 and Oct 22 2026 validators received **50.97M GRAM**, about 566,000 a day. Since collators went live on Aug 20 2026 the pace has held near **574,000 GRAM** a day, which gives about **51.66M GRAM** for the next 90 days. Staked GRAM counts as circulating, so every new reward lands straight in the market count.
 
-**Vesting unlocks** come from the Believers Fund, where people locked about 1.03B GRAM in 2023 and a reward of about 0.28B GRAM was added, 1.32B in all. Since Oct 2025 one slice of about 36.6M GRAM opens every 30 days, for 36 months. Three slices (109.8M) opened in the window, but holders took out only **18.58M GRAM**; the rest of the open coins stay in the fund until their owners claim them. We count what actually left, and expect a similar 18.58M in the next 90 days.
+**Vesting unlocks** come from the Believers Fund, a locker that took deposits in 2023 and opens one slice of **36.59M GRAM** every 30 days until 2028. Three slices opened in this window (Aug 8, Sep 7 and Oct 7 2026), but holders actually withdrew only **18.72M GRAM**; the rest of what has opened is still sitting in the locker. We count the GRAM that really left, and we expect the next 90 days to look about the same.
 
-**Foundation and unscheduled unlocks** are Telegram's main wallet, which the market data does not count as circulating. It sent **30M GRAM** in three 10M transfers on Aug 8, Aug 29 and Sep 21 2026 to its Fragment payout wallet, which is counted, so those coins became new float. The wallet has sent 10M about every four weeks since July, which points to about 30M more by early January 2027.
+**Foundation and unscheduled unlocks** added **30.00M GRAM**. Telegram's treasury wallet sent 10M GRAM to its Fragment payout wallet on Aug 8, Aug 29 and Sep 21 2026. It has made sends of 2M to 10M every few weeks all year, and it still holds **102.42M GRAM**, so we expect about **30.00M** again over the next 90 days.
 
-**Long-term locked or bankruptcy** is zero for now. About 1.08B GRAM sits in 180 early mining wallets that never moved and were frozen by a validator vote in 2023. The freeze ends on Feb 21 2027, after the next 90 days. There is no bankruptcy estate holding GRAM.
+**Long-term locked or bankruptcy** is **0** for now. In February 2023 validators voted to freeze 180 early-miner wallets that had never moved their coins; they hold **1.08B GRAM** and stay frozen until Feb 21 2027, about a month after this 90-day window ends. No bankruptcy estate holds GRAM.
 
 ## Buy pressure: where new GRAM goes
 
-**Programmatic buyback** is zero: no program buys GRAM back. The only real sink is the **protocol fee burn**. Half of every network fee is destroyed, but TON fees are tiny, so the burn removed only** 98,738 GRAM **in 90 days, roughly one coin destroyed for every 516 created. We expect the same next quarter.
+**Programmatic buyback** is **0**: no contract, foundation or company buys GRAM back for the network. Listed treasury companies have bought large amounts, but they buy GRAM that already trades, so their buying takes nothing out of the count.
 
-A** Foundation buy **is also zero this window. Telegram's main wallet does sometimes take coins back in, which pulls them out of the counted float, but the last time was May 31 2026. Companies that hold GRAM in their treasury bought it in the market, so their buying moves coins between holders and does not change supply.
+**Protocol fee burn** destroyed **99,212 GRAM** in 90 days, about 1,100 a day. The network destroys half of every fee, but fees were cut about six times in May 2026, so the burn now cancels less than **0.2%** of new block rewards. For the next 90 days we expect about **95,741 GRAM**.
 
-A** new long-term lock **is zero as well. Staking grew: the validator contract holds about 1.37B GRAM, up from 1.32B. But staked GRAM still counts as circulating, so more staking takes nothing out of the market. One small extra row does count: people sent** 3,820 GRAM **to the zero address, which has no owner and sits on the frozen list, so those coins are gone from the market. All buy rows together come to** 102,558 GRAM**.
+**Foundation buy** is **0**. Telegram's treasury wallet sometimes receives GRAM back from its own business wallets, which would take coins off the market, but nothing came in during this window; the last inflow was on May 31 2026. **New long-term lock** is also **0**: about **1.38B GRAM** sits in validator stakes, but staked GRAM still counts as circulating, and the Believers Fund stopped taking deposits in October 2023.
+
+One small extra row: GRAM sent to the all-zero address can never move, because that address is on the frozen list. It received **3,768 GRAM** in 90 days, mostly mistaken or test transfers.
 
 ## Foundation and overhang
 
-Four large holdings sit outside the counted float and could reach the market. The biggest is the** Believers Fund, with 1.25B GRAM**: about 369M of it is already open and simply unclaimed, and 878M opens slice by slice until September 2028. A sudden rush of claims would push Sell #2 far above its recent pace. Next are the** 1.08B GRAM in frozen early mining wallets**, locked until Feb 21 2027; most of these wallets have never been used, so nobody knows how many owners still hold their keys. Third is** Telegram's main wallet with 102.4M GRAM**, which feeds the 10M transfers. Smaller items are the old TON Foundation wallet with 1.59M GRAM, which did not move, and about 9.3M GRAM held for the bridge to Ethereum. We read all of these balances on chain every day. If any of these balances falls between refreshes, the outflow enters Sell #3 at the next refresh.
+About **2.44B GRAM**, close to half of all coins, sits outside the market today, in four places we watch on-chain every day. The Believers Fund locker holds **1.25B GRAM**; about **368M** of that has already opened but nobody has claimed it yet, and the rest opens in 30-day slices until 2028. The frozen early-miner wallets hold **1.08B GRAM** until Feb 21 2027. Telegram's treasury wallet holds **102.42M GRAM** with no published schedule. A bridge lock holds **9.30M GRAM** that backs wrapped GRAM already trading on other chains.
 
-## How GRAM compares to other proof-of-stake Layer 1s
+The old TON Foundation wallet holds **1.59M GRAM**, already counted as circulating, and did not move. If the balance of any of these wallets falls between our checks, that outflow enters the Foundation and unscheduled unlock row at the next check.
 
-Most proof-of-stake chains pay validators a share of the staked or total supply each year, so a faster chain does not print more coins. Gram is different: it pays a fixed amount per block, so the issuance rate follows block speed. When TON blocks got about six times faster in April 2026, the yearly print rose from well under 1% of total supply to about 4% with no vote on inflation. Chains that pay per unit of time absorb speed upgrades; Gram does not, unless its validators vote a lower block pay.
+## How GRAM compares to other proof-of-stake Layer 1 chains
 
-Gram also lacks the fee burn that offsets issuance on busy chains. Ethereum destroys the base fee of every transaction, and on busy days that burn can rival new issuance; on TON half of the fees is burned too, but the fees are so small that the burn is a rounding error next to block rewards. Gram's float also grows from a second source that many older Layer 1s no longer have: large blocks of supply held outside the market, a locked fund, a frozen set of mining wallets and a company wallet, that release coins over time.
+Most proof-of-stake Layer 1 chains pay validators from new coins, but they set the amount in different ways. Ethereum pays according to how much ETH is staked and burns the base fee of every transaction, so busy periods cancel a real share of issuance. Solana follows a published schedule whose yearly rate steps down over time. GRAM does neither: The Open Network pays a fixed amount per block, so the speed of the chain sets the supply growth. When the April 2026 upgrade made blocks about six times faster, yearly issuance rose from well under 1% of all coins to close to 4%, with no vote on the reward itself.
 
-Compared with chains that have a hard cap and halvings, the gap is larger still: those print less every few years, while Gram has no cap and, at current settings, prints the same amount per block for as long as blocks stay this fast.
+The burn side is also unusual. BNB Chain removes coins every quarter on a fixed plan, and Ethereum's fee burn has at times outweighed its issuance. GRAM burns half of its fees, but its fees are among the lowest of any large chain after the May 2026 cut, so the burn is a rounding error. GRAM's other difference is custody: close to half of all coins sit in a community locker, frozen miner wallets and a Telegram wallet, so release decisions and claim habits move the market count as much as the protocol does.
 
 ## What to watch in the next 90 days
 
-**Block pay vote.** Any validator vote that cuts the 1.7 and 1.0 GRAM block pay would lower Sell #1 at once; none is pending on Oct 12 2026.
-
-**Believers Fund slices.** New slices of about 36.6M GRAM open on Nov 6 2026, Dec 6 2026 and Jan 5 2027; watch whether claims stay near 6M a month or jump.
-
-**Telegram's wallet.** We expect 10M transfers around Oct 18, Nov 13 and Dec 10 2026; a bigger or faster pattern, or coins flowing back in, would change Sell #3.
-
-**The freeze ending.** The frozen early mining wallets unlock on Feb 21 2027, just after this window; any vote to extend, burn or release them early would matter more than anything else on this page.
+The next Believers Fund slices open on **Nov 6 2026**, **Dec 6 2026** and **Jan 5 2027**, each 36.59M GRAM; a jump in claims would raise the reading. Telegram's treasury wallet has sent 10M GRAM about every three to four weeks since July, and the next send would land in the Foundation row. Validators began voting on Oct 21 2026 on a new network version and a faster way to share blocks; neither changes the reward, but any future vote on the block reward would change GRAM's biggest supply source. A cut to 0.35 and 0.2 GRAM per block was discussed earlier in 2026 and never came to a vote. Just past this window, the frozen early-miner wallets holding 1.08B GRAM unfreeze on **Feb 21 2027**.
 
 ## Summary
 
-Gram (GRAM) is inflationary at about **+3.52%** per 90 days, with about **+3.54%** expected next. The main driver is a fixed per-block reward on a chain that became about six times faster in April 2026, worth about 51M new GRAM a quarter, while the fee burn removes under 0.1M. On top, about 48.6M GRAM a quarter leaves the Believers Fund and a Telegram wallet. The key risk is the overhang: 1.25B GRAM in the fund, 1.08B in wallets frozen until Feb 21 2027 and 102M with Telegram. There is no supply cap; only a validator vote on block pay would slow the print.
+GRAM, the coin of The Open Network, grew its circulating supply by a net **+3.52%** in the 90 days to Oct 22 2026, and the next 90 days look about the same at **+3.54%**. Block rewards of about 574,000 GRAM a day are the main source, with steady releases from the Believers Fund locker and Telegram's treasury on top, while the fee burn removes almost nothing. The key risk is the 2.44B GRAM still outside the market, led by 1.08B frozen GRAM that unfreeze on Feb 21 2027. GRAM has no supply cap, so only a vote on the block reward could slow its main source of new coins.
 
 ---
 
-*MrNasDog Pressure Framework analysis of GRAM, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 12 2026.*
+*MrNasDog Pressure Framework analysis of GRAM, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 22 2026.*
