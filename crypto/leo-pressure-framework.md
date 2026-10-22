@@ -1,6 +1,6 @@
 ---
 title: "LEO Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description: "LEO supply is roughly steady: no new coins, and the Bitfinex buyback took 355,203 LEO out in 90 days for −0.04% net, with about −0.07% expected next quarter."
+description: "LEO supply is roughly steady: no new LEO, and the iFinex buyback took 286,897 LEO out in 90 days, −0.03% net, about −0.06% next. Moves paused Sep 1."
 canonical_url: "https://mrnasdog.com/research/leo/inflation"
 tags: ["crypto", "leo", "bitfinex", "exchange-token"]
 published: true
@@ -12,58 +12,60 @@ published: true
 
 # LEO Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
-**UNUS SED LEO (LEO)**, the exchange token of Bitfinex and its parent company iFinex, has no new coins coming in and a buyback that takes a small amount out. In the 90 days to Oct 12 2026 the LEO buyback moved **355,203 LEO** out of the supply count against **zero** new coins, a **0.04%** drop to **919.86M LEO**. Those moves have paused since Sep 1 2026 while buying goes on; if they resume, the next 90 days take out about **622,884 LEO**, a **0.07%** drop. The size is set by Bitfinex revenue, not by any cap.
+**UNUS SED LEO (LEO)** did not grow at all in the last 90 days: no new LEO was created and nothing unlocked. The only flow was the iFinex buyback, which took **286,897 LEO** out of circulation between Jul 23 and Sep 1 2026, so supply shrank about **0.03%**. The buyback moves have been paused since Sep 1 2026 with about **291.7K LEO** bought and waiting, and the next 90 days assume about **594.9K LEO** leaves, a **0.06%** shrink.
 
 ## The verdict, in one paragraph
 
-The MrNasDog Pressure Framework reads LEO at **−0.04% net** over the last 90 days and **−0.07%** projected for the next 90. The inflation monitor reads **−0.13%** for its own 90-day window, a gap of **0.09 percentage points**, well inside the 0.5-point line, so there is **no warning chip**. Both say the same thing: LEO supply edges down a little every quarter, and nothing pushes it up. Call it a quiet, slowly shrinking corporate token, where the only moving part is how much money Bitfinex makes.
+Over the 90 days from Jul 23 to Oct 21 2026, LEO supply changed by **−0.03%**: zero new LEO against **286,897 LEO** removed by the buyback, on a circulating supply of **919.86M LEO**. For the next 90 days we expect **−0.06%**, still with no new supply. The independent supply monitor reads **−0.05%** for the same 90 days, only **0.02 points** away from our reading, so no warning flag is shown. In short, LEO is a **fixed-supply exchange token with a slow company buyback**: nothing is printed, and a small slice leaves circulation each month.
 
 ## Sell pressure: where new LEO comes from
 
-**Protocol inflation is 0.** LEO has no block rewards and no staking pay. It lives as a token on two chains, **660M LEO** on Ethereum and **307.65M LEO** on Vaulta, and both totals read the same at the start and the end of the window. The keys to create more still exist: Bitfinex controls the Ethereum token, and the Vaulta version has about **692M LEO** of unused room under its 1B cap. That is a capacity we watch, not something that happened.
+**Protocol inflation: 0 LEO.** LEO has no staking rewards, no mining and no emission schedule. No new LEO appeared on either of its two networks, Ethereum and Vaulta, between Jul 23 and Oct 21 2026. The power to create more still exists, though: the Vaulta version of LEO allows up to 1B tokens, about 692M more than exist there today, and the Ethereum version keeps a mint switch in the hands of its controller. That is why we check both every time rather than calling the supply fixed forever.
 
-**Vesting unlocks are 0.** The whole LEO supply was sold in one private sale in May 2019, with no lock-up for anyone, so no team or investor schedule is left to release coins.
+**Vesting unlocks: 0 LEO.** All LEO was created in May 2019 for a private sale of up to $1 billion by iFinex, the company behind Bitfinex. There was no lock-up and there is no team or investor unlock calendar, so nothing can vest.
 
-**Foundation and unscheduled unlocks are 0.** Bitfinex-linked wallets hold most LEO, but every one of them is already counted as circulating, so moving coins out of them adds nothing new. The details are in the overhang section below.
+**Company and unscheduled unlocks: 0 LEO.** iFinex holds the great majority of LEO itself, but every one of those coins already counts as circulating, so moving or selling them would not add new supply to the count. The details are in the overhang section below.
 
-**Long-term locked or bankruptcy is 0.** No estate, trustee or long lock holds LEO. The 2016 Bitfinex hack matters for LEO only on the buy side, because recovered money is promised to the buyback.
+**Long-term locked or bankruptcy: 0 LEO.** No bankruptcy estate, court case or locked reserve is waiting to release LEO.
 
 ## Buy pressure: where new LEO goes
 
-**The programmatic buyback took 355,203 LEO.** Each month Bitfinex spends at least **27%** of its gross revenue from the month before buying LEO at market prices, and has said it will keep going until no LEO is left in circulation. The coins are sent, once a day, to the token's own issuer account on Vaulta, which now holds **47.80M LEO**. That account is not counted as supply: the circulating figure is exactly the two chain totals minus this one balance. All 50 moves in the window show on-chain, and they match the drop in supply to the coin. One honest caveat: these coins are parked, not destroyed, and the account is a company multisig.
+**Programmatic buyback: 286,897 LEO in the last 90 days.** Since 2019 iFinex has promised to spend at least **27%** of the previous month's gross revenue buying LEO at market prices, until no LEO is left in circulation. The bought coins are moved, one batch a day, into the LEO token's own issuer account on Vaulta. They are parked there, not destroyed, but that account sits outside circulation and has never sent any out. That account now holds **47.80M LEO**. In this window there were 41 moves, from Jul 23 to Sep 1 2026, with batches of roughly 6,300 to 7,800 LEO.
 
-The last move was on **Sep 1 2026**. Since then Bitfinex has kept buying, about **5,800 LEO a day**, but the coins wait off-chain: **236,909 LEO** by Oct 12 2026. Waiting coins still count as circulating, so they are not in the number yet. Bitfinex has paused like this twice before, from Jul 17 to Sep 15 2025 and from Jan 7 to Feb 4 2026, and both times it moved the whole waiting pile in one go. So for the next 90 days we use the last 90 days of buying, **about $5.55M**, at today's price of **$8.91**: about **622,884 LEO**.
+Then the moves stopped. Since Sep 1 2026 iFinex has kept buying, and by Oct 21 2026 about **291.7K LEO** had piled up, bought but not yet moved. Until that pile reaches the issuer account it still counts as circulating, so we do not count it as removed. LEO has paused like this before: a pause in the summer of 2025 ended with one move of 384,919 LEO on Sep 15 2025, and another ended with 228,754 LEO on Feb 4 2026. Because the buyback is set in dollars, the next 90 days assume iFinex keeps spending what it spent in the last 90, about **$5.38 million**, which buys about **594.9K LEO** at today's price of about $9.04.
 
-**The protocol fee burn is 0.** LEO pays no gas on either chain, so there is no fee to destroy; any LEO Bitfinex takes as fees can feed the same buyback, and we do not count it twice.
+**Protocol fee burn: 0 LEO.** There is no separate fee burn. LEO leaves circulation only through the buyback.
 
-**Foundation buy is 0 for now.** Bitfinex has promised at least **80%** of the net money it recovers from the 2016 hack to buy back LEO within 18 months. In early October 2026 US officials moved about **264.8 BTC** to an exchange under the court-ordered return, and moved a much larger batch between their own wallets, but nothing shows Bitfinex has received any coins. With no amount and no date, the row stays at zero.
+**Company buy from recovered funds: 0 LEO for now.** iFinex also promised to use at least **80%** of the net money recovered from the 2016 Bitfinex hack to buy back LEO within 18 months of getting it back. US government wallets moved 264.86 BTC on Oct 6 2026 and about 12,267 BTC on Oct 8 2026, and reports disagree on whether the court-ordered return of about 94,643 BTC will reach Bitfinex. Bitfinex has not confirmed receiving any of it, so nothing is counted.
 
-**New long-term lock is 0.** There is no LEO staking and no new lock contract.
+**New long-term lock: 0 LEO.** LEO has no staking or lock program.
 
 ## Foundation and overhang
 
-LEO is unusual because one company holds almost all of it. One Ethereum contract funded by a Bitfinex wallet holds **648M LEO**, about 70% of the supply, and has not moved since 2023. A Bitfinex cold account on Vaulta holds **257.79M LEO**, and the account that sends coins to the issuer holds **2.06M LEO**. All three count as circulating, so a sale from them would change who holds LEO, not how much LEO exists. Outside the float sits the issuer account with **47.80M LEO** of bought-back coins, which Bitfinex could in theory send back out, plus the **236,909 LEO** waiting pile. We read these balances on-chain at each rebuild; if any of them falls between rebuilds, the outflow enters Sell #3 at the next refresh.
+LEO's biggest risk is the size of the company's own holdings. iFinex keeps **648M LEO** in an Ethereum multisig wallet that did not move in the window, about **257.79M LEO** in a Vaulta account, and about **2.06M LEO** in the Vaulta account that sends the buyback. Together that is about **907.85M LEO**, nearly all of the 919.86M in circulation. The buyback pile of about 291.7K LEO is held by Bitfinex too. We read all of these balances at every rebuild.
+
+Because these coins already count as circulating, a sale from them would not show up as new supply in our numbers. It would show up as selling in the market. The issuer account holding the 47.80M parked LEO is the one pile that sits outside circulation: if its balance ever falls between rebuilds, the outflow goes into the company-unlocks row at the next rebuild.
 
 ## How LEO compares to other exchange tokens
 
-Most big exchange tokens follow the same idea, buy back with company money, but the mechanics differ. BNB runs a quarterly auto-burn tied to its price and blocks, plus a gas-fee burn on its own chain, so its supply cut is larger and set by a fixed recipe. LEO has no chain of its own and no such recipe: its buyback is a fixed share of revenue, so a slow quarter at Bitfinex means a smaller cut, and the coins go to an issuer account rather than a dead address.
+Most big exchange tokens shrink their supply by destroying coins. BNB runs a quarterly auto-burn that sends coins to an address no one controls, and OKB destroyed most of its supply in 2025 and fixed what was left. LEO works differently: its buyback parks coins in the token's own issuer account, which is controlled by a company multisig. The coins leave circulation, but on paper they still exist.
 
-Compared with tokens that still have unlock schedules, LEO is simpler: there is no vesting, no emission and no reward pool, so the sell side is zero by structure. The trade-off is concentration. Where other exchange tokens spread supply across many holders, about **99%** of LEO sits in a handful of Bitfinex-linked wallets. Supply is steady, but the float that actually trades is small.
+LEO is also unusual in who owns it. On most exchange tokens a large share sits with the public. On LEO the company itself holds about 99% of the circulating count, so the public float is small and trading is thin. That makes the buyback large relative to the coins that really change hands, even though it is only about 0.03% of the counted supply each 90 days.
 
-LEO also has a one-off buyer that no peer has: the promise tied to the 2016 hack. If Bitfinex recovers a large share of the stolen bitcoin, 80% of the net money would buy LEO over 18 months, which could dwarf the normal revenue buyback.
+Finally, LEO pays nothing out. There is no staking yield and no validator reward, unlike chain tokens such as ETH that pay brand-new coins to the people who run the network. With no new LEO ever paid out, the supply can only stay flat or shrink, as long as iFinex does not use its power to create more.
 
 ## What to watch in the next 90 days
 
-First, whether the buyback moves resume and the waiting pile of **236,909 LEO** (as of Oct 12 2026) reaches the issuer account; past pauses ended within two months, and this one began on Sep 1 2026.
+**The buyback catch-up.** Whether iFinex moves the waiting pile, about 291.7K LEO on Oct 21 2026 and growing, into the issuer account. A move of that size would match the past pauses that ended on Sep 15 2025 and Feb 4 2026.
 
-Second, the hack bitcoin: after the US moves of Oct 6 and Oct 8 2026, any sign that Bitfinex has received coins starts its 18-month window to buy back LEO with 80% of the net money.
+**The hack bitcoin.** Whether Bitfinex confirms it received any of the bitcoin the US government moved on Oct 6 2026 and Oct 8 2026. If it does, the 80% promise could buy back far more LEO than the normal buyback does in years.
 
-Third, how much Bitfinex buys each day, which follows Bitfinex revenue; it ran near **5,800 LEO a day** in September 2026, lower than earlier in the year.
+**Vaulta support.** Bitfinex closed withdrawals of the Vaulta coin itself on Aug 31 2026 while keeping LEO on Vaulta open; the last buyback move came the next morning. Any notice that moves LEO's buyback to Ethereum would change where we read it.
 
-Fourth, any move out of the issuer account or the 648M LEO contract, or any new coins created on Vaulta or Ethereum. None happened in this window.
+**The company piles.** Any move out of the 648M Ethereum wallet or the 257.79M Vaulta account, and any new LEO created on either network.
 
 ## Summary
 
-The MrNasDog Pressure Framework reads UNUS SED LEO at **−0.04% net** over the last 90 days and **−0.07%** projected for the next 90: no new LEO at all, against a revenue-funded buyback that moved **355,203 LEO** out of supply. The buyback has paused its moves since Sep 1 2026 with **236,909 LEO** bought and waiting, so the next reading depends on Bitfinex resuming them. The key risks are the parked, not destroyed, **47.80M LEO** in the issuer account and the heavy concentration in Bitfinex wallets; the upside is the promised buyback from any recovered hack bitcoin. Until one of those changes, LEO supply keeps shrinking very slowly.
+UNUS SED LEO is a fixed-supply exchange token: no new LEO was created in the last 90 days, and the iFinex buyback took **286,897 LEO** out of circulation, a **0.03%** shrink, with about **0.06%** expected next. The buyback moves have been paused since Sep 1 2026 while about 291.7K bought LEO wait. The key risk is ownership: iFinex itself holds about 907.85M of the 919.86M LEO in circulation and still has the power to create more, though it has not done so.
 
-*MrNasDog Pressure Framework analysis of LEO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 12 2026.*
+*MrNasDog Pressure Framework analysis of LEO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 21 2026.*
