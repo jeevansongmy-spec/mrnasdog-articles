@@ -1,6 +1,6 @@
 ---
 title:         "OKB Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description:   "OKB supply is flat: no new OKB minted and no burn, so 0.00% net over 90 days and the same next. 21M coins, all unlocked, since OKX's 2025 reset."
+description:   "OKB supply held flat: no mint, no vesting, no buyback and no fee burn, so 0.00% net over 90 days and the same next. 21M OKB since the Aug 2025 burn."
 canonical_url: "https://mrnasdog.com/research/okb/inflation"
 tags:          ["crypto", "okb", "okx", "layer2"]
 published:     true
@@ -12,48 +12,54 @@ published:     true
 <!-- main-page -->
 ➜ Start with the OKB coin page for the short answer (should you buy OKB?) and its price drivers: [mrnasdog.com/research/okb](https://mrnasdog.com/research/okb)
 
-The MrNasDog Pressure Framework reads OKB, the gas token of OKX's X Layer network, as **flat at 0.00%** over the last 90 days and the next 90: **0 OKB** of new supply against **0 OKB** removed, with **21M OKB** in circulation and all of it unlocked. OKX fixed the OKB supply at 21 million in August 2025, after a one-time burn of **65.26M OKB**, and removed the mint function from the token contract. Since then nothing adds OKB and nothing takes it away: there is no block reward, no vesting, no buyback and no fee burn. The inflation monitor agrees at **+0.01%**.
+OKB supply did not move in the last 90 days. Between Jul 23 and Oct 21 2026 the ledger shows **0 OKB** of new supply and **0 OKB** removed, for a net change of **0.00%**, and the next 90 days project the same **0.00%**. OKB is the gas coin of OKX's X Layer network, has no block reward and no vesting left, and has stayed at a total of **21M OKB** since OKX burned **65.26M OKB** on Aug 15 2025. Other supply trackers read **+0.01%**, the same picture.
 
 ## The verdict, in one paragraph
 
-OKB supply moved **0.00%** net over the 90 days from Jul 13 2026 to Oct 11 2026, and we project **0.00%** for the next 90 days to Jan 9 2027. The inflation monitor, which reads circulating supply day by day, shows **+0.0055%** over its own 90-day window, a gap of **0.006 percentage points** — far inside the 0.5-point line, so no warning chip is shown. OKB is a **fixed-supply exchange chain token**: every OKB that will exist already exists, and no programme is shrinking the count either.
+OKB's net supply change over the last 90 days is **0.00%** of the **21M OKB** in circulation, and the forecast for the next 90 days is also **0.00%**. Other supply trackers show **+0.01%** for the same 90 days, a gap of **0.01 points**, which is too small to need a warning flag on the page. Nothing was minted, nothing vested and nothing was burned in any amount that shows at two decimal places. OKB is a **flat-supply exchange gas token**: the number of coins stands still, and only the owners of those coins change.
 
 ## Sell pressure: where new OKB comes from
 
-Protocol inflation is **0 OKB**. X Layer pays no block reward, and the OKB token contract has had no mint function since OKX upgraded it on Aug 18 2025. We read the Ethereum version of OKB at both ends of the window and it held at exactly **429,065 OKB**, and we confirmed that this number sits in storage that can change — so the flat reading is a real measurement, not a frozen constant. New OKB can only appear on X Layer through the bridge from Ethereum, and the bridge token that backs it stayed at **559,345** at both ends: no OKB was bridged in. OKX can still upgrade the contract, so this row is re-checked at every build rather than marked as permanent.
+Protocol inflation is **0 OKB**. X Layer has no block reward. The network's sequencer is paid in gas fees, and those fees are OKB that already circulates, so running the chain creates no new OKB. On the Ethereum side, the older OKB token still has about **429K OKB** outstanding, and that number did not change by a single coin between Jul 23 and Oct 21 2026. OKX stopped OKB withdrawals to Ethereum in August 2025, and no OKB moved from Ethereum into X Layer in these 90 days.
 
-Vesting unlocks are **0 OKB**. All 21 million OKB already count as circulating, and no team, investor or reward schedule is left to release. Foundation and unscheduled unlocks are also **0 OKB**: OKX's own wallets do move OKB, but every coin in them is already counted as circulating, so a transfer out of them changes who holds OKB, not how much exists. Long-term locked or bankruptcy supply is **0 OKB**, because no estate, trustee or lock holds OKB that could come back to the market.
+Vesting unlocks are **0 OKB**. OKB's old release schedule ended in 2018, and all **21M OKB** now count as unlocked. There is no team cliff, no investor unlock and no monthly release anywhere ahead.
+
+Foundation and unscheduled unlocks are **0 OKB**. OKX itself is the only large holder that matters, and its wallets on X Layer hold about **19.42M OKB**. That pile is mostly customers' coins, and every coin in it already counts as circulating, so when OKX moves OKB out to users or to the market, no new supply appears.
+
+Long-term locked or bankruptcy supply is **0 OKB**. No court case, estate or long lock holds OKB waiting to come back to the market.
 
 ## Buy pressure: where new OKB goes
 
-The programmatic buyback is **0 OKB**. For years OKX bought back and burned OKB every quarter; that programme ended with the one-time burn of **65,256,712 OKB** on Aug 15 2025, which used up the coins OKX had bought back and held in reserve. No new buyback has been announced since.
+Programmatic buyback is **0 OKB**. For years OKX bought back OKB with exchange profits and burned it. That programme ended with the one-time burn of **65.26M OKB** on Aug 15 2025, which brought the total down to **21M OKB**. OKX said at the time that the total would stay at 21M, and no OKB buyback has run since.
 
-The protocol fee burn is **0 OKB**. Every transaction on X Layer pays gas in OKB, but the fees are kept in the network's gas vaults rather than destroyed: about **1,077 OKB** of fees piled up there in these 90 days. Checked on both Ethereum and X Layer, the burn addresses received only **0.47 OKB**, stray transfers too small to show. Gas on X Layer is so cheap — a fraction of a cent per transaction — that even a real fee burn would remove very little OKB.
+Protocol fee burn is **0 OKB**. Gas on X Layer is not destroyed. About **1.14K OKB** of fees flowed into the network's fee vaults during these 90 days, and those coins stay in circulation. A few stray transfers to burn addresses removed under half a coin in total, far too little to show in the ledger.
 
-A foundation buy is **0 OKB**: OKX raised fresh money from outside investors in October 2026, but nothing shows it buying OKB in the market. A new long-term lock is also **0 OKB**. Builders who want to run a market on OKX's Exchange OS must stake OKB, and OKX Earn lets holders lock theirs, but locked OKB still counts as circulating, so a bigger lock takes nothing out of the float.
+Foundation buy is **0 OKB**. OKX does not buy OKB for its own treasury. The company raised new money in October 2026 at a $25B valuation, and none of that went into buying the coin.
+
+New long-term lock is **0 OKB**. Builders must stake OKB to run a market on X Layer's Exchange OS, and some OKB sits in lending pools on the network. Those coins still count as circulating, so they do not take anything out of the count.
 
 ## Foundation and overhang
 
-OKX is the only team holder that matters for OKB, and almost everything it holds belongs to its customers. Sixteen OKX-labelled wallets on X Layer held about **19.45M OKB** at the end of the window, down from **19.56M** at the start, as customers moved coins in and out of the exchange. OKX's latest reserve report shows **19.75M OKB** in its wallets against **19.72M OKB** owed to customers, which leaves OKX's own share at only about **38K OKB**. Two smaller wallets belong to X Layer itself: the fee wallet that collects gas income holds **12,853 OKB** and did not move in the window, and the gas vaults hold about **2,161 OKB** waiting to be paid out to it.
+The biggest OKB holder by far is OKX. Its known wallets on X Layer held about **19.42M OKB** on Oct 21 2026, down **110,765 OKB** over the 90 days. OKX's October 2026 reserves report shows **19.73M OKB** in its wallets against **19.69M OKB** owed to customers, so OKX's own share is only about **39K OKB**. In other words, about nine out of every ten OKB sit on the exchange, almost all of them for its users.
 
-None of these balances is new supply, because every OKB in them already counts as circulating. We read the OKX wallets and the fee wallet on-chain at every build and the reserve report each month. If any of these balances falls between refreshes, the outflow is recorded under foundation and unscheduled unlocks at the next refresh — and if it ever came from coins outside the circulating count, it would add to OKB supply.
+The second, much smaller pile is X Layer's gas fee vaults, which held about **2.27K OKB** at the end of the window and grow by roughly 1.14K OKB every 90 days. We read these wallets on-chain at every rebuild and check the exchange's reserves report once a month. If any of these balances falls between checks, the outflow enters Sell #3 at the next check. Today none of them can add supply, because every coin in them already counts as circulating.
 
 ## How OKB compares to other exchange tokens
 
-Most exchange tokens still change their supply on purpose. BNB runs a quarterly auto-burn tied to its price and on-chain activity, and also destroys part of the gas paid on BNB Chain, so its supply keeps shrinking toward a target. UNUS SED LEO is bought back and burned with revenue from its parent exchange, and other exchange tokens run monthly or quarterly buybacks. In each case the token holder gets a steady buyer that takes coins off the market.
+Most exchange tokens shrink on purpose. BNB runs a scheduled auto-burn every quarter plus a burn of part of its gas fees, and LEO is bought back with exchange revenue. Those designs make supply fall a little every quarter. OKB used to work the same way, with regular buyback-and-burn rounds, but OKX swapped that model for one large burn in August 2025 and a fixed total of **21M OKB**. Since then OKB neither grows nor shrinks.
 
-OKB took the opposite path in 2025. OKX burned its whole buyback reserve in one go, cut the supply to a Bitcoin-like 21 million, and then stopped both minting and burning. That makes OKB's supply the most predictable of the large exchange tokens — nothing comes in and nothing goes out — but it also means OKB no longer has a built-in buyer. Any lift in demand has to come from people using X Layer, staking for Exchange OS, or simply choosing to hold OKB.
+Against layer-2 gas tokens the picture flips. Many layer-2 networks still pay out new tokens to their teams, investors and ecosystem funds every month, so holders have to absorb steady unlocks. OKB has none of that left: no unlocks, no rewards, no emission. The trade-off is that nothing removes coins either, because X Layer gas is kept by the network rather than burned, and fees are tiny.
 
-Compared with chain tokens such as ETH, which pay validators in new coins, OKB has no issuance at all, because X Layer is a layer-2 network run by OKX and its block producers are paid from gas fees. The trade-off is control: the supply rules hold because OKX keeps them, not because the code makes a change impossible.
+The real difference is custody. With about nine in ten OKB sitting in exchange wallets, OKB's float is shaped by how OKX users trade, not by a mint or a burn schedule.
 
 ## What to watch in the next 90 days
 
-First, OKX's roadmap lists open market deployment on Exchange OS and protocol upgrades for the rest of 2026; when outside builders start staking OKB to open markets, the stake size will show how much OKB gets locked, though it still stays inside the float. Second, any OKX announcement that restarts a buyback, adds a burn, or upgrades the OKB contract would change this reading at once. Third, OKX's monthly reserve report shows whether OKX's own share of OKB grows or shrinks. Fourth, the X Layer fee wallet: its **12,853 OKB** has not moved, and a payout would show up here first.
+First, OKX's monthly reserves report, with the next one expected in November 2026: a sharp drop in the OKB held for customers would show coins leaving the exchange. Second, the X Layer protocol upgrades OKX has planned for Q4 2026; any change to how gas is handled, such as a fee burn, would add a buy row. Third, the joint venture of OKX and the owner of the New York Stock Exchange is waiting on US approval to trade 63 tokenized US stocks on X Layer, which would bring more gas use but no new OKB. Fourth, the OKB contract can still be upgraded by its owner key, so any upgrade or new buyback announcement would reopen the supply count at once.
 
 ## Summary
 
-OKB supply is flat: **0.00%** net over the last 90 days and the next 90, with **21M OKB** in circulation, all of it unlocked. Since the August 2025 reset, no new OKB is minted, nothing vests, and neither a buyback nor a fee burn removes coins, because X Layer keeps its gas fees instead of destroying them. The key risk is that this rests on OKX's choices — the token contract can still be upgraded — while the upside case is that Exchange OS and X Layer growth create demand for a supply that cannot grow. Until OKX changes the rules, OKB's supply stays at 21 million.
+OKB's supply was flat over the last 90 days, at **0.00%**, and is projected to stay flat for the next 90 days, with other trackers reading **+0.01%**. OKB is the gas coin of OKX's X Layer, with **21M OKB** in total since OKX's **65.26M OKB** burn on Aug 15 2025, no block reward, no vesting, no buyback and no fee burn. The main risk is concentration: about **19.42M OKB** sit in OKX's wallets, almost all of it customers' coins, so the exchange shapes the float. The ceiling is the 21M total, which only an upgrade of the token contract could change.
 
 ---
 
-*MrNasDog Pressure Framework analysis of OKB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 11 2026.*
+*MrNasDog Pressure Framework analysis of OKB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 21 2026.*
