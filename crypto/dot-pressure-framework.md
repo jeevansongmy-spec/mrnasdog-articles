@@ -1,6 +1,6 @@
 ---
 title:         "DOT Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description:   "DOT supply keeps growing: Polkadot minted 13.78M new DOT in 90 days on its 2.1B-cap curve and burned almost none, so supply rose +0.81%, the same next."
+description:   "DOT is mildly inflationary: Polkadot minted 13.78M DOT in 90 days on a fixed curve capped at 2.1B, burned almost none, and supply rose +0.81%. Checked Oct 23 2026."
 canonical_url: "https://mrnasdog.com/research/dot/inflation"
 tags:          ["crypto", "dot", "polkadot", "layer0"]
 published:     true
@@ -12,46 +12,56 @@ published:     true
 
 # DOT Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
-Polkadot's DOT supply is growing and will keep growing at the same pace for the next 90 days. The network minted **13.78M DOT** between Jul 15 and Oct 13 2026, about **153K DOT a day**, and destroyed almost none of it, so net supply rose **+0.81%** against **1.71B DOT** in circulation. The mint follows a stepped curve that aims at a **2.1B DOT** hard cap and does not change again until **Mar 14 2028**.
+**Polkadot (DOT)** is mildly inflationary. Its issuance curve minted **13.78M DOT** between Jul 25 and Oct 23 2026, and almost nothing was burned, so the DOT supply grew **+0.81%** in 90 days, with the same **+0.81%** expected over the next 90. Other trackers read **+0.78%**. New DOT comes only from a fixed yearly amount of **55.93M DOT**, set by the vote that capped Polkadot at **2.1B DOT**, and that amount does not change until about Mar 14 2028.
 
 ## The verdict, in one paragraph
 
-Over the last 90 days Polkadot added **13.78M DOT** and removed **0** that we count, a net change of **+0.81%**; the next 90 days project the same **+0.81%**. Our supply monitor reads **+1.09%** for its own 90-day window, a gap of **0.28 percentage points** — small enough that no warning chip ships, and our number stands. The monitor reads market snapshots, which wobble a little; the on-chain total-supply counter rose in three almost identical 30-day steps of about 4.59M DOT each. DOT is a capped-curve chain with steady, predictable dilution: no unlock cliffs, no burn engine, and one big dial — the issuance curve — that only governance can turn.
+DOT supply rose **+0.81%** over the last 90 days, and the next 90 days project the same **+0.81%**. Other trackers read **+0.78%** for the same window, a gap of **0.03 percentage points**, so the two readings agree and no warning flag is shown. Polkadot sells no tokens on a calendar, has no team unlock left and runs no buyback; its whole supply story is one steady issuance stream against a burn that is close to zero. The cite-able label: **a capped, slowly inflating network where every new DOT is printed on a fixed curve**.
 
 ## Sell pressure: where new DOT comes from
 
-Protocol inflation is the only source of new DOT: **13.78M DOT** in 90 days. Since Referendum 1710 took effect on Mar 14 2026, Polkadot pays out each year about 13.14% of the gap between its supply on that day and the 2.1B cap — roughly **55.9M DOT a year**, down from about 120M before the cut. The amount is set by time, not by block count, so faster or slower blocks do not change it. Supply read on-chain at both ends of the window rose by 13,782,179 DOT, within 304 DOT of what the curve says, which also tells us nothing meaningful was destroyed along the way. About a third of each mint lands in a governance pool, and the rest pays the people who stake DOT and the validators who run the network.
+**Protocol inflation is the only source of new DOT: 13.78M DOT in 90 days.** Since the March 2026 cut, the Polkadot runtime mints a fixed **55.93M DOT a year**, about **153,100 DOT a day**, in small amounts every minute. The yearly amount is 13.14% of the gap between the supply in March 2026 and the 2.1B DOT cap. On-chain, the DOT total supply rose by 13.78M between Jul 25 and Oct 23 2026, matching the curve to within a few hundred DOT. About **45%** of each day's new DOT goes to stakers, about **23%** pays validators, and about **32%** goes into a protocol pool that governance controls. The pool's share is new supply all the same: those DOT exist and can be spent.
 
-Vesting unlocks add **0**. DOT has no team or investor unlock calendar left. About **15.94M DOT** sits in on-chain vesting locks spread over 1,071 accounts, each releasing a little every block, but locked balances are already counted as circulating, so a release only frees coins that were already in the supply figure.
+**Vesting unlocks are 0.** Polkadot has no team or investor unlock calendar. The small vesting schedules still on-chain belong to coins that are already counted as circulating, so their release adds nothing to the DOT supply.
 
-Foundation and unscheduled unlocks add **0**. The Polkadot Treasury spent about 2.85M DOT through approved votes in this window, but its coins are counted as circulating, so spending them moves DOT between holders without creating supply. Long-term locks and bankruptcy releases also add **0**: no estate or trustee is paying out DOT, and the copy of DOT minted on another chain during the April 2026 bridge exploit was not native DOT.
+**Foundation and unscheduled unlocks are 0.** The Polkadot Treasury paid out about **2.85M DOT** in the window, and the protocol pool will pay out what it collects, but every one of those DOT is already counted in the 1.71B circulating supply. Spending them moves existing coins from one wallet to another; it does not create new ones.
+
+**Long-term locked or bankruptcy is 0.** There is no bankruptcy estate, court-held pile or exchange recovery fund of DOT waiting to be released.
 
 ## Buy pressure: where new DOT goes
 
-There is no programmatic buyback: **0**. In August 2026 a governance vote promised that all DOT earned from a future product sale would be taken out of supply, but those sales have not started, and a follow-up vote to name a permanent burn account was rejected.
+**Programmatic buyback is 0.** No contract and no treasury buys DOT on the market. On Aug 21 2026 a Wish for Change referendum passed asking that all future revenue from JAM storage sales be burned, and a follow-up vote to name a keyless burn account was rejected on Sep 27 2026. That product has not launched, so the wish has burned nothing yet.
 
-The protocol fee burn is **0** in our ledger. Transaction fees on Polkadot no longer get destroyed: they flow into the Dynamic Allocation Pool, a governance-controlled pool that also receives part of every mint, and the old Treasury burn was switched off in December 2025. The one burn still running destroys money paid for blockspace, which came to a few thousand DOT in 90 days — far below 0.01% of supply and too small to show in the figure.
+**Protocol fee burn is 0.** Polkadot used to destroy part of its fees and part of the unspent Treasury. Since the March 2026 upgrade, transaction fees, slashes and smart-contract burns all go into the protocol pool instead, and the Treasury burn has ended. The one burn left is blockspace revenue: cores sell for about **10 DOT** each per 28-day period, so the burn is a few thousand DOT a quarter at most, too small to show against 13.78M of new DOT. A pending runtime change would send even that into the pool.
 
-Foundation buying is **0**: the Treasury spends DOT and stablecoins and did not buy DOT. New long-term locks are **0** as well. Staking grew from **862.42M** to **912.75M DOT** this window, about 53% of all DOT, but staked DOT is still counted in circulating supply, so a bigger stake does not shrink the float.
+**Foundation buy is 0.** No foundation buys DOT for the network. The US spot DOT fund that opened in March 2026 and the new dotUSD liquidity pool hold coins that already circulate, so they take nothing out of the count.
+
+**New long-term lock is 0.** About **919.5M DOT** is staked, up **38.1M** in 90 days, more than half of all DOT. Staked DOT still counts as circulating, so staking takes nothing out of the supply.
 
 ## Foundation and overhang
 
-Two governance pools are the overhang we watch. The on-chain Polkadot Treasury holds about **21.46M DOT**, down from 24.31M on Jul 15 2026 after approved spending, including the start of the dotUSD stablecoin. The Dynamic Allocation Pool holds **5.63M DOT**, up from 1.16M on Jul 15 2026 because it collects about a third of each mint plus fees. Vesting locks hold another **15.94M DOT**. All three are already inside circulating supply, and none has a published release schedule; governance decides each payout by vote. We read every balance on-chain at each rebuild. If any of these balances falls between rebuilds, we look at where the DOT went, and any outflow that turns out to add new supply enters the foundation row at the next rebuild.
+The largest pile of DOT that governance can spend is the **on-chain Treasury, about 21.46M DOT** on Oct 23 2026, down from 24.31M on Jul 25 2026. The second is the **protocol pool, about 6.13M DOT**, which started the window near 1.66M and now fills by about a third of each day's new DOT plus fees. Spending from either goes through public OpenGov votes. The Web3 Foundation and Parity also hold DOT, but they publish no wallet list, so we cannot read their balances. Every one of these sits inside the circulating supply, so a payout or a sale books 0 new DOT. We re-read the Treasury and the pool at every rebuild; if either balance falls in a way that moves coins outside the counted supply, the outflow enters Sell #3 at the next refresh.
 
-## How DOT compares to other proof-of-stake Layer 0s
+## How DOT compares to other proof-of-stake Layer 0 and Layer 1 chains
 
-Most proof-of-stake networks pay stakers with new coins, and the difference is in the brake. Ethereum has no supply cap but burns part of every fee, so busy blocks slow its growth. The Cosmos Hub moves its inflation up or down with the share of ATOM staked and has no hard cap. DOT now sits between them and Bitcoin: like Bitcoin it has a fixed end point, **2.1B DOT**, reached through scheduled cuts, but unlike Bitcoin the cuts come every two years and each one takes 13.14% of the remaining gap rather than halving the reward.
+**DOT vs ETH:** Ethereum pays validators a reward that rises with the stake and burns part of every fee, so its net supply moves with network use. Polkadot fixes the yearly amount in advance and, since March 2026, burns almost nothing, so its net supply hardly moves with use at all. Ethereum has no cap; Polkadot has a hard cap of 2.1B DOT.
 
-The other difference is the missing burn. After the 2026 changes, Polkadot sends fees and part of each mint into a governance pool instead of destroying them. That makes DOT's dilution simple to forecast — **+0.81%** per 90 days, close to **3.3% a year** on today's supply — but it also means usage does not reduce supply the way an Ethereum-style burn does. Usage can only help DOT through the pool's spending choices and through demand for DOT itself.
+**DOT vs ATOM and other uncapped staking coins:** Cosmos-style chains set inflation as a percent that floats with the staking ratio and have no ceiling. Polkadot's issuance is a fixed amount of DOT per year that steps down every two years by design, so the percent falls on its own as the supply grows. At today's supply the **55.93M DOT** a year is about 3.3% before any burn, and the next step, around Mar 14 2028, cuts it to about 41.2M a year.
 
-Before Mar 14 2026, DOT minted about 120M coins a year with no end point. The first cut roughly halved the flow of new coins, and each later step makes it smaller again, so the pressure from new DOT can only fall over time. Today, though, it is still a steady flow that buyers have to absorb every day.
+**DOT vs BTC:** Bitcoin halves its block reward every four years and will stop near 21M coins. Polkadot works on the same idea of a shrinking, capped schedule, but with smaller and more frequent steps: each two-year step takes away 26.28% of what is left to mint, so the 2.1B cap is approached slowly over more than a century. About **391M DOT** is still left to mint.
 
 ## What to watch in the next 90 days
 
-No dated supply event falls inside the next 90 days: the mint continues at about 153K DOT a day until the next step on **Mar 14 2028**. What could change the reading is governance. First, the DOT DAO Strategy Mandate vote, opened on Oct 12 2026, puts user growth and DOT-backed stablecoins at the center of the plan; a later dotUSD phase that lets people lock DOT as backing would lock DOT inside the float, not remove it. Second, any vote to restore a burn of Treasury or pool funds would turn on a buy-side row for the first time since December 2025. Third, the promised burn of revenue from the new product sales starts only when those sales go live. Fourth, a runtime upgrade already written by the developers would stop sending blockspace revenue to be burned and route it into the governance pool instead, removing the last small burn.
+**The next runtime upgrade.** A change already merged would stop the last blockspace burn and send that revenue and the dust from closed accounts into the protocol pool. It has no enactment date yet; it would remove the last small burn, not add supply.
+
+**How the protocol pool is spent.** The pool held about 6.13M DOT on Oct 23 2026 and grows by about 49,000 DOT a day. The DOT DAO Strategy Mandate vote that was in progress on Oct 23 2026 will shape what governance does with it.
+
+**Treasury payouts.** The Treasury fell by about 2.85M DOT in 90 days, including DOT placed into the new DOT and dotUSD pool after the dotUSD vote was enacted on Oct 8 2026. Large new spends move existing DOT, but they decide how much of it reaches the market.
+
+**JAM storage sales.** If JAM launches and its storage is sold for DOT, the Aug 21 2026 wish says that revenue should be burned. That would be the first new buy-side flow since March 2026. No launch date is set.
 
 ## Summary
 
-Polkadot's DOT supply grew **+0.81%** in the 90 days to Oct 13 2026, from **13.78M DOT** of new issuance and almost no burn, and the same **+0.81%** is projected for the next 90 days. The mint is fixed by a stepped curve that pays about 55.9M DOT a year until Mar 14 2028 and aims at a hard cap of 2.1B DOT. The main risk is that nothing offsets it: fees and part of each mint now go to a governance pool rather than being burned, and the Treasury and pool together hold about 27M DOT that votes can spend. The cap and the two-yearly cuts mean the flow only gets smaller from here.
+Polkadot is mildly inflationary: **13.78M new DOT** in 90 days on a fixed curve, almost nothing burned, and supply up **+0.81%**, the same projected for the next 90 days. The mint is a fixed **55.93M DOT a year** until a step down around Mar 14 2028, inside a hard cap of **2.1B DOT**. There are no vesting unlocks, no buyback and, since March 2026, almost no burn, because fees are kept in a protocol pool instead. The key risk is how governance spends the **21.46M DOT Treasury** and the fast-growing **6.13M DOT pool**; the key limit is the cap.
 
-*MrNasDog Pressure Framework analysis of DOT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 13 2026.*
+*MrNasDog Pressure Framework analysis of DOT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 23 2026.*
