@@ -1,6 +1,6 @@
 ---
 title:         "XDC Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description:   "XDC supply is roughly steady: 18.59M XDC of masternode rewards in 90 days, no fee burn, no buyback, +0.09% net and the same next. 18.12B XDC still locked."
+description:   "XDC supply is roughly steady: 18.35M new XDC paid to masternodes in 90 days, no burn, no buyback, +0.09% net. 18.28B XDC still sits in three reserves."
 canonical_url: "https://mrnasdog.com/research/xdc/inflation"
 tags:          ["crypto", "xdc", "xdcnetwork", "layer1"]
 published:     true
@@ -12,56 +12,66 @@ published:     true
 
 # XDC Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
-XDC is close to flat: the MrNasDog Pressure Framework finds **18.59M XDC** of new supply in the last 90 days and **0** taken out, a net change of **+0.09%** on a circulating supply of **19.95B XDC**. All of the new XDC is the fixed masternode reward of **5,000 XDC** per epoch; XDC Network burns no fees and runs no buyback. The monitor reads **0.00%** for the same window, so the two readings agree.
+XDC supply is roughly steady. XDC Network creates a fixed **5,000 XDC** every epoch to pay its masternodes, with no cap, no halving and no burn. Between Jul 29 and Oct 27 2026 that added **18.35M XDC** while nothing was removed, a net rise of **+0.09%**; market data shows about **+0.01%** for the same 90 days.
 
 ## The verdict, in one paragraph
 
-Over the 90 days from Jul 19 2026 to Oct 17 2026, XDC supply grew by **+0.09%**, and the next 90 days project the same **+0.09%**. The monitor, which reads the classified circulating supply day by day, shows **0.00%** (a tiny fall of 0.0003%). The gap is **0.09 percentage points**, well inside the 0.5-point line, so no warning chip is needed. The small difference has a simple cause: the classified circulating figure only moves on unlock dates, so it does not pick up the epoch rewards between them. XDC is a quiet chain: a slow, steady mint with no burn to offset it.
+Over the 90 days to Oct 27 2026, XDC supply grew by **+0.09%**, and the next 90 days, to Jan 25 2027, look the same at **+0.09%**. Market data for the same window reads **+0.01%**, a difference of **0.08 of a point**, small enough that the coin page carries no warning note. The label is **Mixed flows · supply roughly steady**: a slow, even mint on one side and nothing at all on the other. The bigger story for XDC holders is not this mint but the **18.28B XDC** still sitting in three reserve wallets, which did not move in this window.
 
 ## Sell pressure: where new XDC comes from
 
-Protocol inflation is the only new XDC. XDC Network runs XDPoS, a delegated proof-of-stake design with 108 masternodes, and at the end of every epoch of 900 consensus rounds the protocol mints exactly **5,000 XDC**. Of that, 4,500 XDC goes to the masternode owners and the people who vote their stake behind them, split by how many blocks each node signed, and 500 XDC goes to the foundation reward wallet. We counted every epoch in the window two ways, by listing each epoch-switch block and by dividing the consensus rounds by 900, and both gave **3,718 epochs**. Every reward record we read paid out exactly 5,000 XDC, so the mint came to **18.59M XDC**, about 206,600 XDC a day.
+**Protocol inflation** is the only source of new XDC right now. Each epoch lasts about 35 minutes, and at its end the chain creates **5,000 XDC**: **4,500** go to the owners of the **108** masternodes that signed blocks, split by how much each one signed, and **500** go to a network reward wallet. The window held **3,669** epochs, so **18,345,000 XDC** were created, about **204K** a day. The amount per epoch is fixed in the chain's code, with no halving and no end date.
 
-The reward is paid per epoch, not per day, so a slower chain mints less. Rounds ran a little slower in October (about 37 epochs a day in the last week against about 41 on average), but nothing in the code or the release notes changed, so the next 90 days keep the trailing figure of **18.59M XDC**. The reward does not halve on mainnet, and the new reward system with protector and observer nodes, called Reward 2.0 in XDC 3.0, is still only on the Apothem test network with no mainnet block set.
+**Vesting unlocks** added nothing. The locked reserves are released once a year, and no release fell between Jul 29 and Oct 27 2026. The next yearly release is listed for **Feb 5 2027**, eleven days after the next 90-day window ends, so it is not counted here.
 
-Vesting unlocks add **0**. XDC team and ecosystem coins unlock in one step a year; the last step, about 841M XDC, came on Feb 5 2026. Unlock trackers place the next step in 2027 (one says Feb 5 2027, another May 14 2027), outside both windows, and the largest team reserve held the same 13.45B XDC at both ends. Foundation and unscheduled unlocks also add **0**: three locked reserves did not move, and the project wallet that did pay out is already counted as circulating (more on that below). There is no bankruptcy estate or court-run distribution holding XDC, so the long-term locked row is **0** too.
+**Foundation and unscheduled unlocks** also book zero. The three reserve wallets from the 2020 launch held exactly the same balance at both ends of the window. The money that did move came from wallets whose coins already count as circulating: a project payout wallet sent out **360M XDC** in nine transfers, and node operators were paid **53.80M XDC** by hand on Aug 1, Sep 2 and Oct 2 2026. That is real selling that buyers have to absorb, but it is not new supply.
+
+**Long-term locked or bankruptcy** is zero: no court case, estate or escrow holds XDC waiting to be paid out.
 
 ## Buy pressure: where new XDC goes
 
-Nothing takes XDC out of the market. There is no programmatic buyback: XDC Network does not route fees to a buyer, so that row is **0**. There is also no protocol fee burn. XDC Network added an EIP-1559 style base fee in January 2026, but unlike Ethereum it does not destroy it: the whole fee, base fee included, is paid to the owner of the masternode that made the block. A fee-burn share was proposed for a later upgrade, but it has no date. Only about 22 XDC landed in the zero address this window, which rounds to nothing.
+**Programmatic buyback** is zero. XDC Network has no contract or treasury that buys coins back from the market, and no buyback plan has been announced.
 
-No foundation buy showed up: the project wallets only paid coins out, so the foundation buy row is **0**. New long-term locks book **0** as well, even though staking grew. Each XDC masternode locks 10M XDC, and the staking contract rose from **3.03B** to **3.69B XDC** as new institutional validators joined. Staked XDC still counts as circulating, so a bigger stake moves coins between holders without taking any out of the float.
+**Protocol fee burn** is zero too. The January 2026 upgrade added a base fee to every transaction, the same idea Ethereum uses, but on XDC the whole fee, base part included, still goes to the masternode that made the block. Fees are tiny anyway, well under one XDC per block, and the burn addresses held the same balance on Jul 29 and Oct 27 2026.
+
+**Foundation buy** is zero. The project pays validators and partners out of its reserves; it does not buy XDC on the market.
+
+**New long-term lock** books zero, even though a lot of XDC was locked. Every validator node locks **10M XDC**, and the staking contract grew by **470.15M** to **3.69B XDC** in these 90 days as new institutions joined. Staked XDC still counts as circulating, so the lock takes nothing out of the count.
 
 ## Foundation and overhang
 
-XDC has a large team-controlled overhang: about half of all XDC is not counted as circulating. Of the 38.07B XDC that exist, **18.12B XDC** sit outside the circulating count, and three reserves that have not moved in a year cover all of it: **13.45B XDC** in the largest team reserve, 3.61B XDC in a second reserve, and 1.23B XDC in a third. Their balances were the same on Jul 19 2026 and on Oct 17 2026, and we read them on-chain at every rebuild.
+About half of all XDC is still held back. The largest pile is the founders' reserve, **13.45B XDC** in one wallet; it last paid out on Dec 15 2025 and has not moved since. Two more reserve wallets from the 2020 launch hold **3.61B** and **1.23B XDC**, untouched in this window. Together these three hold **18.28B XDC**, close to the whole part of the supply that is not yet circulating. If any of them starts paying out, those coins become new supply on this page.
 
-The wallet that does move is a project payout wallet. It sent **340M XDC** in 17 transfers to a spending wallet during the window, and its balance fell from 975.65M to **635.65M XDC**; a year earlier it held about 2.04B XDC. The spending wallet passes the coins on to partners, node operators and other wallets. Because the three still reserves already fill the whole non-circulating bucket, this payout wallet must be inside the circulating count, so its payouts move coins between holders rather than adding new supply. The foundation reward wallet that receives 500 XDC each epoch is swept out regularly and holds only about 0.3M XDC.
+The project payout wallet now holds **615.65M XDC**, down from **975.65M** on Jul 29 2026. It sends 20M to 50M XDC at a time to a distribution wallet, which funds a treasury wallet, which pays node operators every month and pays partners. The network reward wallet that receives the **500 XDC** per epoch held **490.5K XDC** at the end of the window and is emptied every few weeks. The staking contract holds **3.69B XDC** of validator deposits, which can be withdrawn after a waiting period. All of these coins already count as circulating.
 
-We read each of these balances on-chain every rebuild. If a reserve's balance falls between refreshes, the outflow enters the Foundation and unscheduled unlocks row at the next refresh. If the payout wallet is ever moved outside the circulating count, its payouts would start to count as new supply.
+## How XDC compares to other delegated proof-of-stake Layer 1 chains
 
-## How XDC compares to other delegated proof-of-stake Layer 1s
+Among chains where a small set of elected validators make the blocks, XDC sits at the quiet end for new supply. Its mint is a flat amount per epoch rather than a percentage of supply, so as supply grows the rate slowly falls, and at under one tenth of one percent per 90 days it is far below chains that pay stakers a yearly percentage of all coins.
 
-Most delegated proof-of-stake chains pay validators with a percentage inflation rate, so the mint grows as the supply grows. XDC pays a fixed 5,000 XDC per epoch instead, which makes the mint a flat number of coins and a slowly shrinking share of supply. That puts XDC on the gentle end of the uncapped Layer 1 group: about 0.09% in 90 days, or about 0.38% a year at the current pace.
-
-The bigger difference is on the buy side. Ethereum and Tron destroy part of every fee, and BNB adds a scheduled burn on top, so heavy use pulls supply down. XDC destroys nothing, so busier blocks pay the masternodes more but never shrink supply. For XDC, demand has to come from buyers, not from the protocol.
-
-XDC also sits with the pre-mined chains whose real supply question is the treasury, like XRP with its escrow and Hedera with its treasury releases. On those chains the yearly or monthly releases from team-held reserves matter more than the protocol mint, and XDC is the same: the yearly unlock step and the payout wallet are the lines to watch, while the epoch mint is small and fixed.
+Where XDC is weaker is the other side. Chains such as BNB Chain and Tron destroy part of their fees or run a scheduled burn, so heavy use pulls supply down. XDC removes nothing, so even record activity does not offset the mint. And the real weight on XDC is the reserve: few chains of its size still have close to half of their supply sitting in a handful of project wallets, with yearly releases still to come.
 
 ## What to watch in the next 90 days
 
-**The mainnet date for XDC 3.0 rewards.** Reward 2.0, with paid protector and observer nodes, went live on the Apothem test network, and v3.0.0-testnet-1 shipped on Oct 16 2026. If a mainnet block is set, the per-epoch mint could change; until then it stays at 5,000 XDC.
+**The tiered-reward upgrade.** The next big upgrade splits standby nodes into two new paid tiers and pays them in newly created XDC instead of by hand from reserves. It runs on the test network, but as of Oct 27 2026 no mainnet block has been set. If it goes live, the XDC created each epoch would rise to several times today's 5,000, based on the test-network settings, and this page would change with it.
 
-**Any fee-burn decision.** A burn share of fees has been proposed but never dated. A live burn would open the first buy-side row XDC has ever had.
+**Node payments on Nov 1 and Dec 1 2026.** The monthly hand payments to node operators have grown from **16.54M** on Aug 1 to **19.41M XDC** on Oct 2 2026. They do not add new supply, but they show how much XDC reaches people who may sell it.
 
-**The three locked reserves.** They hold 18.28B XDC between them and did not move this window. Any outflow from them would be new supply, ahead of the next yearly unlock step in 2027.
+**The payout wallet running down.** At its recent pace of about 120M XDC a month, the **615.65M** left would last until about March 2027. When it runs dry, the next top-up has to come from one of the three reserve wallets, and that move would count as new supply.
 
-**The payout wallet and the staking contract.** The payout wallet still holds 635.65M XDC and has sent coins out every few weeks; staking is growing as banks and payment firms join as validators. Both sit inside the circulating count today, so neither changes the number unless that count is redrawn.
+**The yearly reserve release on Feb 5 2027.** It falls just after the next 90-day window, but it is the next scheduled jump in circulating XDC and will show up in the following check.
+
+**More validators.** MoneyGram joined as a validator on Oct 20 2026, after a run of large companies. Each new node locks 10M XDC; that changes who holds the coins, not how many exist.
 
 ## Summary
 
-XDC supply grew **+0.09%** in the last 90 days and is projected to grow about the same in the next 90, so the MrNasDog Pressure Framework reads it as mixed flows with supply roughly steady. The only new supply is the fixed masternode reward of **5,000 XDC** per epoch, **18.59M XDC** in this window, and nothing is burned or bought back. The key risk is the overhang: **18.12B XDC** is not yet circulating and reaches the market through yearly unlock steps and project wallets. XDC has no supply cap, but at the current pace the mint adds well under 1% a year.
+XDC Network created **18.35M** new XDC for its masternodes between Jul 29 and Oct 27 2026 and removed none, so supply grew about **+0.09%**, and the next 90 days look the same.
+
+XDC has no burn and no buyback: every transaction fee goes to the validator that made the block.
+
+Three reserve wallets still hold **18.28B XDC**, about half of all supply, and none of them moved in this window; the next yearly release is listed for Feb 5 2027.
+
+The tiered-reward upgrade is the one change that could raise the mint quickly, and it has no mainnet date yet.
 
 ---
 
-*MrNasDog Pressure Framework analysis of XDC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 17 2026.*
+*MrNasDog Pressure Framework analysis of XDC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 27 2026.*
