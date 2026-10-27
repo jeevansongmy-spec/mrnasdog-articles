@@ -1,69 +1,69 @@
 ---
 title:         "NEXO Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description:   "NEXO supply is flat: 0.00% net in 90 days and the same next. 1B fixed coins, no new coins, no burn, no unlocks left, and Nexo holds about 768M of them."
+description:   "NEXO supply is flat: 0% net over 90 days and the same next. A fixed 1B tokens, no minting, no vesting left, no burn, and Nexo holds about 768M of them."
 canonical_url: "https://mrnasdog.com/research/nexo/inflation"
-tags:          ["crypto", "nexo", "cefi", "exchange-token"]
+tags:          ["crypto", "nexo", "cefi", "lending"]
 published:     true
 ---
-> Originally published at **[mrnasdog.com/research/nexo/inflation](https://mrnasdog.com/research/nexo/inflation)** by MrNasDog.
+*Originally published at [https://mrnasdog.com/research/nexo/inflation](https://mrnasdog.com/research/nexo/inflation)*
 
 <!-- main-page -->
-Looking for the buy-or-sell answer? It is on the NEXO coin page, with demand and price drivers: [mrnasdog.com/research/nexo](https://mrnasdog.com/research/nexo)
+➜ Start with the Nexo coin page for the short answer (should you buy NEXO?) and its price drivers: [mrnasdog.com/research/nexo](https://mrnasdog.com/research/nexo)
 
 # NEXO Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
-NEXO has a flat supply: **0 NEXO** came to market and **0 NEXO** left it in the 90 days to Oct 17 2026, so the net change is **0.00%**, and we expect **0.00%** again in the next 90 days. The NEXO token was created once, with **1B NEXO**, and its code on Ethereum has no way to create more or destroy any. The monitor reads **+0.00%**, so the two readings agree. The one real question is the roughly **768M NEXO** that Nexo the company still holds.
+Nexo (NEXO) supply did not change at all: **0%** over the 90 days from Jul 29 to Oct 27 2026, and **0%** expected over the next 90 days. Not one new NEXO was created, nothing vested and nothing was burned, so sell pressure from new supply was **0 NEXO** and buy pressure from removed supply was **0 NEXO**. The supply is fixed at **1B NEXO**, all created in April 2018, and every token already counts as circulating; other trackers show **-0.22%**, a small wobble in their own figure, not a real change.
 
 ## The verdict, in one paragraph
 
-Over the last 90 days the NEXO ledger nets to **0.00%**, and the forecast for the next 90 days is also **0.00%**. Our inflation monitor, which follows the circulating supply the wider market uses, reads **+0.00%** for the same stretch, a gap of **0.00 percentage points**, well inside our 0.5-point tolerance, so no warning chip is needed. Every row in the NEXO ledger is zero: no issuance, no unlocks, no buyback and no burn. In one label, NEXO is a **fixed-supply company token with a large company-held float**: the number of coins never changes, but who holds them can.
+Over the last 90 days NEXO's net supply change was **0.00%**, and the next 90 days project the same **0.00%**. Other trackers read **-0.22%** for the same stretch, a gap of **0.22 points**, which is small enough that the coin page carries no warning note. The token contract holds exactly **1B NEXO** at both ends of the window, and nothing in it can mint or burn. The label that fits is simple: NEXO is a fixed-supply company token with no emission, no unlocks left and no burn, so its count of coins does not move.
 
 ## Sell pressure: where new NEXO comes from
 
-Protocol inflation is **0 NEXO**. NEXO is an ERC-20 token on Ethereum, not a chain of its own, so there are no validators or miners to pay. All **1B NEXO** were set once when the token was created in April 2018. We read the NEXO contract on-chain this month: none of its 52 functions can create new coins, the supply sits in ordinary storage that only the constructor ever wrote, and total supply read exactly **1B** at both ends of the window.
+Protocol inflation is **0** because NEXO is a plain token on Ethereum, not a chain of its own. There are no validators or miners to pay, and the token contract sets the supply once, at creation in April 2018, with no function that can raise it. The supply read exactly **1B NEXO** on Jul 29 2026 and again on Oct 27 2026.
 
-Vesting unlocks are **0 NEXO**. The NEXO contract itself once held the team share (**112.5M**), the advisers share (**52.5M**), the community share (**60M**) and a **250M** reserve, each on timed release. The last of those release periods ended in 2022, so nothing in the NEXO schedule is still waiting to unlock.
+Vesting unlocks are **0** because the vesting built into the token is over. The contract released the team share in sixteen steps, one every three months, and the last step unlocked in March 2022. The overdraft, community and adviser shares finished even earlier. Every one of those shares is now fully unlocked.
 
-Foundation and unscheduled unlocks are **0 NEXO**. Nexo the company holds most NEXO coins, but its wallets barely moved: in these 90 days only **2,000 NEXO** left its treasury. And because the market already counts all **1B NEXO** as circulating, a move out of a Nexo wallet changes who holds the coins, not how many are on the market.
+Foundation and unscheduled unlocks are **0**. Nexo still controls very large piles of NEXO, covered in the overhang section below, but none of them sit outside the circulating count. When every token already counts as circulating, a sale or a payout from a company wallet moves coins from one holder to another; it does not add new supply.
 
-Long-term locked or bankruptcy supply is **0 NEXO**. Nexo is an operating company, not an estate, and no court or trustee is paying out NEXO.
+Long-term locked or bankruptcy supply is **0**. No court case, bankruptcy estate or long-term lock holds NEXO waiting to be released.
 
 ## Buy pressure: where new NEXO goes
 
-Programmatic buyback is **0 NEXO**. Nexo bought NEXO back in three rounds, **$12M** in 2020, **$100M** in 2021 and **$50M** in 2022, and placed the coins in its investor protection reserve rather than burning them. We found no new NEXO buyback round since 2022, and the reserve has held the same **114.80M NEXO** for more than a year. Since the reserve already counts as circulating, even a new purchase into it would take nothing out of the float.
+Programmatic buyback is **0**. Nexo has bought NEXO back several times by board decision, with programmes of **$12M** in December 2020, **$100M** in November 2021 and another **$50M** in August 2022, and it still describes these as periodic open-market buys. We found no programme announced for 2025 or 2026, and no schedule for the next 90 days. The bought tokens went into the Investor Protection Reserve and were kept, not burned, so even a new buyback would move coins into a wallet that already counts as circulating.
 
-Protocol fee burn is **0 NEXO**. The NEXO token has no burn function and Nexo runs no burn. We checked both places a burn could show: total supply did not fall, and the dead address held the same **10.7 NEXO** at both ends of the window.
+Protocol fee burn is **0**. NEXO has no burn: fees on the Nexo platform go to the company and are not destroyed. The dead address held the same **10.71 NEXO** at both ends of the window.
 
-Foundation buy is **0 NEXO**: no Nexo wallet we follow received NEXO in the window. New long-term lock is also **0 NEXO**. Clients keep NEXO on the Nexo platform to reach higher loyalty tiers and to earn interest, but they can take it out at any time, so no NEXO is locked away.
+Foundation buy is **0**, since the only buying the company has done is the buyback above. New long-term lock is also **0**. Clients who hold NEXO on Nexo to reach a higher loyalty tier or to earn interest keep liquid tokens, so their holdings take nothing out of the count.
 
 ## Foundation and overhang
 
-Nexo has no foundation; the company is the holder, and it holds a lot. About **353.85M NEXO** sit in four release slots inside the NEXO token that only the token owner can empty: **208.33M** from the old reserve share, **98.44M** from the team share, **33.33M** from the community share and **13.75M** from the advisers share. These balances have not changed in three years.
+Nexo is a company, not a foundation, and it holds most of the supply in wallets it controls. The biggest block is **353.85M NEXO** still sitting in the four original allocation slots of the token contract: **208.33M** in the overdraft slot, **98.44M** in the team slot, **33.33M** in the community slot and **13.75M** in the adviser slot. These are fully unlocked, and only the company can withdraw them. None of the four moved in the 90 days.
 
-On top of that, the Nexo treasury holds **213.23M NEXO**, the investor protection reserve **114.80M NEXO** and the token owner's wallet **86.15M NEXO**, which brings the company-held total to about **768.03M NEXO**, or **76.8%** of all coins. A separate wallet with no public name has held exactly **100M NEXO** for at least a year; we watch it but do not count it as Nexo's. We read every one of these balances on-chain at each rebuild. If any of them falls between rebuilds, the outflow goes into the Foundation and unscheduled unlocks row at the next rebuild.
+Next come the corporate treasury with **213.23M NEXO**, which sent out just **2,000 NEXO** in the window, the Investor Protection Reserve with **114.80M NEXO**, untouched since May 2025, and the wallet that owns the token contract with **86.15M NEXO**, also flat. Together that is about **768M NEXO**, more than three quarters of all tokens. Because all of it already counts as circulating, a large sale from any of these wallets would add no new supply to the count, but it would put a lot of tokens in front of buyers. If any of these balances falls between checks, the outflow and its size will show on the coin page at the next check.
 
-## How NEXO compares to other exchange and platform tokens
+## How NEXO compares to other exchange and lending-platform tokens
 
-Most exchange and platform tokens also start with a fixed supply, so the difference is in what the company does with it. Some exchange tokens destroy coins every quarter or with every trade, which makes their supply shrink over time. NEXO has none of that: its buybacks were held in a reserve, never burned, and they stopped after 2022. So NEXO sits between the two groups, with no new coins coming in and no coins going out.
+Most tokens run by a single crypto company fall into two groups. Exchange tokens such as BNB and OKB reduce their supply on purpose, with scheduled burns paid for out of profits, so their count of coins shrinks every quarter. NEXO sits in the other group: a fixed supply with no burn. When Nexo buys tokens back, it keeps them in its own reserve instead of destroying them, so the count does not fall.
 
-The other big difference is how much of NEXO the issuer still holds. A platform token whose issuer holds a small share lives mostly on the open market. With about **76.8%** of NEXO in Nexo's own wallets, NEXO's float is mostly the company's choice. That supply is already counted as circulating, so it does not show up as inflation, but it is the biggest thing that could ever hit the market.
+Compared with chain coins such as Ethereum or Solana, NEXO has no issuance at all. Those chains pay validators in newly created coins every day, so their supply grows by itself. NEXO has no validators, no staking reward minted by a protocol and no tail emission. Any interest Nexo pays in NEXO comes out of tokens it already holds.
 
-Compared with a chain coin such as Ethereum, which pays new coins to validators every day, NEXO has no issuance at all. Its supply cannot grow on its own; it can only change hands.
+What sets NEXO apart is how much of it the issuer still holds. A fixed supply with every token unlocked looks tidy, but here about three quarters of it sits in company wallets. For NEXO, the real supply question is what Nexo does with its own wallets, not new coins being made.
 
 ## What to watch in the next 90 days
 
-The first thing to watch is the four release slots inside the NEXO token. They hold **353.85M NEXO** and have not moved in three years, so any withdrawal would be the clearest sign that Nexo plans to use those coins.
+First, the four allocation slots in the token contract: they have held the same **353.85M NEXO** through the window, and any withdrawal before Jan 25 2027 would be the first sign the company is moving that pile.
 
-The second is the Nexo treasury (**213.23M NEXO**) and the owner wallet (**86.15M NEXO**). Large transfers from either toward exchanges would put more NEXO into trading hands.
+Second, the corporate treasury and the Investor Protection Reserve: the reserve has not moved since May 23 2025, so a transfer out of it would be news.
 
-The third is any new buyback. Nexo has not announced one since 2022; a new round would show up as an inflow to the investor protection reserve, still within the float unless Nexo chose to burn the coins.
+Third, any new buyback announcement from Nexo's board. A buyback would not change the count, since the tokens stay in a company wallet, but it would be the first in years.
 
-The fourth is Nexo's next quarterly update. The Q2 2026 update came out on Sep 28 2026, and it said nothing about the NEXO token's supply; a change to the loyalty programme or token use would most likely be announced there.
+Fourth, trading on Kraken, which opened on Oct 22 2026 with NEXO/USD, NEXO/USDT and NEXO/USDC pairs. More exchanges listing NEXO changes who can buy it, not how many tokens exist.
 
 ## Summary
 
-NEXO is a fixed-supply token: **1B NEXO** exist, the code cannot make more or burn any, and the old release periods ended in 2022. Over the last 90 days nothing was added and nothing was taken away, so the net change is **0.00%**, with **0.00%** expected next, and the monitor agrees at **+0.00%**. The key risk is not inflation but concentration: Nexo the company holds about **768.03M NEXO**, and while those coins already count as circulating, a large sale would add selling pressure without changing the supply number. The ceiling is hard: NEXO supply can never pass **1B**.
+NEXO's supply was flat at **0%** from Jul 29 to Oct 27 2026 and is expected to stay flat over the next 90 days. The token has a fixed supply of **1B NEXO**, no minting, no vesting left since March 2022 and no burn, and every token already counts as circulating. The key risk is not new coins but the roughly **768M NEXO** held in Nexo's own wallets, which could reach the market if the company chose to sell. Nexo's past buybacks kept the tokens instead of burning them, so the supply cannot shrink either; the cap is the 1B set at launch in 2018.
 
 ---
 
-*MrNasDog Pressure Framework analysis of NEXO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 17 2026.*
+*MrNasDog Pressure Framework analysis of NEXO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 27 2026.*
