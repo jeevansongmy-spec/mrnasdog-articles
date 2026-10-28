@@ -1,6 +1,6 @@
 ---
 title:         "ETH Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description:   "ETH is mildly inflationary: 264K ETH of validator issuance against a 4.67K fee burn gives +0.21% net over 90 days, the same next. No vesting, no unlock, no cap."
+description:   "ETH burn rate today, live from the chain on our page, plus the 90-day view: 264K ETH of new issuance vs a 4.67K ETH fee burn, +0.21% net. No unlocks, no cap."
 canonical_url: "https://mrnasdog.com/research/eth/inflation"
 tags:          ["crypto", "eth", "ethereum", "staking"]
 published:     true
@@ -13,6 +13,10 @@ published:     true
 # ETH Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
 Ethereum (ETH) supply is growing slowly: **+0.21%** over the 90 days from Jul 22 to Oct 20 2026, and about **+0.21%** again over the next 90 days. Validators were paid **264,339 ETH** of new issuance, while the EIP-1559 fee burn destroyed **4,670 ETH**, so the burn cancelled less than 2% of new supply. ETH has no supply cap, no vesting and no unlocks, so validator pay and the fee burn are the only two forces that move it.
+
+## ETH burn rate today
+
+The page now opens with a live "ETH burn rate today" box, read from the chain once a day: ETH burned in the last 24 hours, new ETH paid to validators a day (about **2,937 ETH**, the 90-day pace), and the net change. On a normal day the burn cancels only a few percent of new issuance, so ETH supply keeps growing a little. For today's numbers, see [mrnasdog.com/research/eth/inflation](https://mrnasdog.com/research/eth/inflation).
 
 ## The verdict, in one paragraph
 
