@@ -1,67 +1,62 @@
 ---
-title: "XPL Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description: "XPL is inflationary by schedule: a 1.67B team and investor cliff plus ecosystem unlocks added 1.93B XPL, +42.65% in 90 days. 227.8M more unlock monthly."
+title:         "XPL Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
+description:   "XPL supply grew +43.5% in 90 days as 2.07B XPL unlocked, led by the Sep 25 2026 team and investor cliff. Another 683M XPL is due by late January 2027."
 canonical_url: "https://mrnasdog.com/research/xpl/inflation"
-tags: ["crypto", "xpl", "plasma", "stablecoin"]
-published: true
+tags:          ["crypto", "xpl", "plasma", "stablecoin"]
+published:     true
 ---
-Originally published at [XPL Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/xpl/inflation).
+*Originally published at [https://mrnasdog.com/research/xpl/inflation](https://mrnasdog.com/research/xpl/inflation)*
 
 # XPL Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
-<!-- main-page -->
-**Main page:** the full XPL coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/xpl](https://mrnasdog.com/research/xpl)
-
-The MrNasDog Pressure Framework reads Plasma (XPL) as strongly inflationary: circulating XPL grew **+42.65%** over the last 90 days and is set to grow another **+15.07%** over the next 90. Almost all of it is vesting. The one-year team and investor cliff on Sep 25 2026 released **1.67B XPL**, the ecosystem pool added **266.7M XPL** in three monthly tranches, and from Oct 25 2026 a tranche of **227.8M XPL** unlocks on the 25th of every month until Sep 25 2028. Nothing on the buy side offsets it: there is no buyback, and the base-fee burn removed only about **15 XPL**.
+The circulating supply of **XPL**, the coin of the Plasma stablecoin chain, grew about **+43.5%** in the 90 days to Oct 29 2026, because **2.07B XPL** left the locked allocations and nothing of size took coins back out. The growth comes from a fixed unlock schedule, not from staking rewards, which are not switched on yet. Another **683.33M XPL** is due in the next 90 days, about **+14.4%**, and the monthly unlocks run until September 2028, when all 10B XPL will be free.
 
 ## The verdict, in one paragraph
 
-Between Jul 21 and Oct 19 2026, **1.93B XPL** entered the float against **4.53B XPL** circulating today, a net of **+42.65%**. A second market reading of the same 90 days shows **+74.32%**, **31.67 points** higher, but it counts the same 1.93B XPL of unlocks, so no warning flag is shown. For the next 90 days the Plasma schedule adds **683.3M XPL**, or **+15.07%**. XPL is a young token in the middle of its unlock calendar: inflationary by schedule, with no burn or buyback large enough to matter.
+Over the 90 days from Jul 31 to Oct 29 2026, Plasma added **2.07B XPL** to a circulating supply that now stands at **4.76B XPL**, a net rise of **+43.5%**. The buy side removed close to nothing: there is no XPL buyback, and the base-fee burn came to about 15 XPL. Other trackers show **+76.97%** for the same 90 days because they start from the smaller supply of late July; they count the same unlocks, so the coin page carries no warning note. For the next 90 days the schedule adds **683.33M XPL**, about **+14.4%**. The plain label: XPL is inflationary by schedule, a young token still releasing its team, investor and ecosystem allocations every month.
 
 ## Sell pressure: where new XPL comes from
 
-**Protocol inflation is 0.** Plasma's tokenomics promise validators new XPL at 5% a year, falling by half a point a year to a 3% floor, but that issuance only switches on once outside validators and staking delegation go live. Neither has launched. On the Plasma chain the block producer's balance rose by exactly the tips users paid, so no XPL is being minted for validators today.
+Protocol inflation added **0 XPL**. Plasma's tokenomics set validator rewards at 5% a year, stepping down by half a point a year to 3%, but those rewards only start once outside validators and staking delegation go live. Neither has happened. On-chain, the Plasma block producer earned only the tips users paid, so no new XPL was minted in the window.
 
-**Vesting unlocks are 1.93B XPL** for the last 90 days. The Plasma mainnet beta went live on Sep 25 2025 with 10B XPL. One third of the 2.5B team allocation and one third of the 2.5B investor allocation sat behind a one-year cliff, and that cliff released **1.67B XPL** on Sep 25 2026. The 3.2B ecosystem and growth reserve vests in 36 monthly tranches of **88.9M XPL**, and three of them fell in the window, on Jul 25, Aug 25 and Sep 25 2026. The rest of the team and investor coins now vest monthly over two years: **69.4M XPL** each, on the same day as the ecosystem tranche. That makes **227.8M XPL** a month and **683.3M XPL** over the next 90 days.
+Vesting unlocks are the whole story: **2.07B XPL** in 90 days. On Sep 25 2026, one year after the Plasma mainnet beta, the team and investor cliff released one third of each allocation, **1.67B XPL** in a single day. The Ecosystem and Growth fund released **88.89M XPL** on each of Aug 25, Sep 25 and Oct 25 2026. On Oct 25 2026 the team and investors also began their monthly releases of **138.89M XPL** between them. From now on every 25th of the month brings **227.78M XPL**, which is **683.33M XPL** across the next 90 days.
 
-**Foundation and unscheduled unlocks are 0.** Every locked XPL is on the published calendar, so nothing can leave early without breaking it. The ecosystem coins that are already unlocked fund incentives, exchange campaigns and card cashback, but they already count as circulating, so spending them is a transfer, not new supply.
-
-**Long-term locks and bankruptcy are 0.** No estate or trustee holds XPL. The 12-month lock on US buyers in the 2025 public sale ended on Jul 28 2026, but those coins were counted as circulating from launch, so the release did not change the float.
+Foundation and unscheduled unlocks add **0 XPL**. Every locked XPL sits on the published monthly schedule above, so nothing waits outside it. Coins the team, investors or the Foundation move after their release date are already counted as circulating, so those moves add no new supply. Long-term locked or bankruptcy supply is **0 XPL**: no court-held or estate-held XPL exists.
 
 ## Buy pressure: where new XPL goes
 
-**Programmatic buyback is 0.** Plasma does not buy XPL back with fees, revenue or treasury funds, and nothing in its docs, blog or news says it plans to.
+Programmatic buyback removed **0 XPL**. Plasma has not announced an XPL buyback, and no contract or treasury buys XPL back from the market.
 
-**The protocol fee burn is effectively 0.** Plasma copies Ethereum's EIP-1559 design, so the base fee of every transaction is destroyed. But Plasma's blocks are only about 7% full, the base fee stays close to zero, and simple USDT transfers are free for users. Over the 90 days the burn came to about **15 XPL**, and 12.5 XPL of that came from one busy hour on Oct 1 2026. Separately, about 22,470 XPL was sent by hand to dead addresses, a rounding error against 4.53B XPL in circulation.
+The protocol fee burn removed about **15 XPL**, which rounds to zero. Plasma follows the EIP-1559 design, so the base fee of every transaction is destroyed, but that base fee usually sits at 8 wei, a tiny fraction of one XPL, and plain USDT transfers on Plasma cost users nothing at all. Across all 7.76M blocks in the window, most of the burn came from a few busy minutes on Oct 1 2026. About 22K XPL that users sent to dead addresses is a separate, voluntary loss and is not part of this burn.
 
-**Foundation buying is 0**, and **new long-term locks are 0.** Since Sep 26 2026 the Plasma One card lets users lock XPL for 12 months to reach a higher card tier. That is a real lock for the user, but the coins still count as circulating, so it takes nothing out of the float. Staking, which could become a lock later, is not live.
+Foundation buying is **0 XPL**: the Foundation pays XPL out as Plasma One card cashback and growth rewards and does not buy it back. New long-term locks are **0 XPL** too. Since Sep 26 2026, Plasma One card users can lock XPL for 12 months to reach a higher card tier, but those coins still count as circulating, so the lock does not shrink the count.
 
 ## Foundation and overhang
 
-**5.47B XPL** is still locked, and all of it is scheduled: **1.67B** for the team, **1.67B** for investors and **2.13B** for the ecosystem reserve. These coins sit in custody wallets, not in a lock contract, so the calendar is the promise. On-chain, the large allocation wallets paid out far more than the cliff on Sep 25 2026 as coins were moved into new custody wallets, and on the same day the team moved 300M XPL to a fresh wallet. The ecosystem coins already released since launch, about **1.87B XPL**, are the foundation's working budget and are already in the float.
+**5.24B XPL** is still locked, more than the 4.76B XPL now circulating. The Ecosystem and Growth fund holds **2.04B XPL** of it, and the team and the investors hold about **1.6B XPL** each. None of it is unscheduled: it all leaves on the monthly path to September 2028.
 
-These balances are refreshed at every rebuild. If any of them falls faster than the calendar allows between refreshes, the extra outflow enters the foundation and unscheduled unlocks row at the next refresh.
+The allocations sit in plain wallets with a custodian, not in a lock contract. The five largest known allocation wallets held **2.18B**, **1.04B**, **556M**, **191M** and **122M XPL** on Oct 29 2026, and the team moved 300M XPL to a new wallet on the cliff day. We check these wallets at every rebuild. If coins leave them faster than the schedule allows, that extra outflow enters Sell #3 at the next refresh.
 
-## How XPL compares to other stablecoin and payment chains
+## How XPL compares to other stablecoin-focused Layer 1 chains
 
-Plasma competes with Tron and with newer chains built for stablecoins, but its supply works differently. Tron pays block producers new TRX every block and burns fees from heavy USDT traffic, so its supply story is issuance against burn. Plasma has no issuance yet and almost no burn, because it gives USDT transfers away for free. XPL's supply story is vesting: who holds the locked coins and when they arrive.
+Plasma is built to move stablecoins, and its users mostly pay no fee in XPL at all. That design is the main reason XPL has almost no burn. Tron, the largest chain for USDT, works the other way: every transfer consumes resources that are paid for by burning TRX or by staking it, so heavy stablecoin traffic on Tron removes TRX. Ethereum also burns the base fee of every transaction. On Plasma, the stablecoin traffic grows, but the XPL burn does not grow with it.
 
-That puts XPL closer to venture-backed Layer 1s in their first three years, such as Aptos, Sui or Monad, where a one-year cliff followed by monthly team and investor tranches drives the float. Against Ethereum, the contrast is the burn: Ethereum destroys part of every fee and removes thousands of ETH a quarter, while Plasma burned about 15 XPL in 90 days. Against hard-capped coins like Bitcoin, XPL has no cap at all once validator rewards start.
+On the sell side, XPL looks like other chains launched with large team and investor allocations: a one-year cliff, then two years of monthly releases. That shape makes the second and third years after launch the heaviest for new supply. Many older proof-of-stake chains get most of their new supply from staking rewards instead. XPL has not started those rewards yet, so when delegation goes live, a 5% yearly reward would come on top of the monthly unlocks.
 
-The practical difference is timing. Most of XPL's dilution is fixed in a calendar that runs to Sep 25 2028. After that, supply growth falls to whatever the validator reward rate is, 5% a year at the start and 3% in the long run, less the fee burn.
+XPL has no buyback and no lock that removes coins from circulation. Its total stays at the 10B XPL minted at launch only until staking rewards start; after that there is no hard cap. Its supply path is set almost entirely by the published unlock calendar.
 
 ## What to watch in the next 90 days
 
-**Oct 25 2026:** the first combined monthly unlock, 227.8M XPL from the team, investor and ecosystem allocations.
+On Nov 25 2026, **227.78M XPL** unlocks: 88.89M for the ecosystem fund and 138.89M for the team and investors.
 
-**Nov 25 2026 and Dec 25 2026:** the same 227.8M XPL each, taking the 90-day total to 683.3M XPL.
+On Dec 25 2026 and Jan 25 2027, the same **227.78M XPL** unlocks again each time, bringing the 90-day total to **683.33M XPL**.
 
-**Staking delegation:** no date is set, but the day outside validators and delegation go live, new XPL starts at about 5% a year and the protocol inflation row stops being zero.
+The start of staking delegation, which has no date yet. Plasma published its Torch design for handing over between validator sets on Oct 1 2026; when outside validators and delegation go live, the 5% yearly reward begins and Sell #1 stops being zero.
 
-**Plasma One card locks:** the 12-month card locks that began on Sep 26 2026 first unlock in late September 2027, and growth in locked balances shows how much XPL holders choose to keep off the market.
+The five large allocation wallets. If they send out more than the schedule releases, the extra moves into the sell ledger at the next refresh.
 
 ## Summary
 
-Plasma (XPL) is inflationary by schedule: circulating supply grew **+42.65%** in the 90 days to Oct 19 2026, driven by the **1.67B XPL** team and investor cliff on Sep 25 2026, and is set to grow **+15.07%** in the next 90 days as **227.8M XPL** unlocks every month. There is no buyback, the EIP-1559 fee burn is close to zero, and validator issuance has not started. The key risk is that monthly tranches keep landing until Sep 25 2028 while the fee burn stays too small to absorb any of them; staking delegation would add new issuance on top. The only ceiling is the calendar itself: **5.47B XPL** is still locked, and none of it is scheduled to stop.
+XPL, the coin of the Plasma stablecoin chain, grew its circulating supply by **+43.5%** in the 90 days to Oct 29 2026, almost all of it from the Sep 25 2026 team and investor cliff and the monthly ecosystem releases. Plasma has no buyback, and its fee burn removed only about 15 XPL, because most stablecoin transfers on Plasma cost nothing. The next 90 days add another **683.33M XPL**, about **+14.4%**, and the monthly unlocks of 227.78M XPL continue until September 2028. The main risk beyond the calendar is the start of staking rewards, which would add new XPL on top of the unlocks.
 
-*MrNasDog Pressure Framework analysis of XPL, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*
+*MrNasdog Pressure Framework analysis of XPL, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 28 2026.*
