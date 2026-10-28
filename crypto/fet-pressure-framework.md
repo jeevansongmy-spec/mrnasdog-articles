@@ -1,6 +1,6 @@
 ---
 title:         "FET Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description:   "FET is strongly inflationary: the team released 421.7M FET in 90 days, 283.2M newly made on Fetch.ai's chain, plus 10.8M staking. +18.71% net, no burn."
+description:   "FET is inflationary: team wallets released 138.8M FET on Ethereum in 90 days, +6.01% net with no burn, while Fetch.ai's own chain created 232M new FET."
 canonical_url: "https://mrnasdog.com/research/fet/inflation"
 tags:                    ["crypto", "fet", "fetchai", "ai"]
 published:     true
@@ -10,50 +10,66 @@ Originally published at [FET Inflation Analysis · October 2026 · Supply growin
 # FET Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
 <!-- main-page -->
-➜ Start with the ASI Alliance coin page for the short answer (should you buy FET?) and its price drivers: [mrnasdog.com/research/fet](https://mrnasdog.com/research/fet)
+➜ Start with the ASI Alliance coin page for the short answer and the full supply ledger: [mrnasdog.com/research/fet](https://mrnasdog.com/research/fet)
 
-FET, the token of the Artificial Superintelligence Alliance (Fetch.ai), is **strongly inflationary**: in the 90 days to Oct 19 2026 about **432.5M FET** reached the market against **0** burned or bought back, a net **+18.71%** of the **2.31B** circulating FET, with **+18.74%** projected for the next 90 days. Almost all of it is the team's own release: **283.2M** FET newly created on Fetch.ai's own chain and **138.5M** FET from team wallets on Ethereum, plus **10.82M** FET of staking rewards. The Ethereum token's supply stays at 2.71B, but that number is no longer a ceiling on how much FET exists.
+FET is inflationary right now, and not because of any built-in reward. Between Jul 30 and Oct 28 2026 the team's Ethereum wallets released **138.83M FET** into the market, nothing was bought back or burned, and the circulating supply on Ethereum grows by about **6.01%** in 90 days, with the same pace expected next. Other trackers show **+2.98%** because the figure they use stopped moving in early September, so the coin page carries a warning note.
 
 ## The verdict, in one paragraph
 
-FET's net supply change over the last 90 days is **+18.71%**, and the next 90 days are projected at **+18.74%**. The monitor reads **+3.18%**, a gap of **15.54 percentage points**, so the page carries a warning chip. The supply figure the monitor reads counts FET on Ethereum only and has not moved since Sep 4 2026, so it catches neither the October releases nor anything that happens on Fetch.ai's own chain. In one line: FET is **inflationary by team release**, not by its staking rewards.
+We count FET on Ethereum only, on both sides: the coins that count as circulating there, and the coins that entered that pool in the last 90 days. On that count the ASI Alliance token added **138.83M FET** against **2.31B** circulating, a net rise of **6.01%**. Other trackers read **+2.98%**, about **3.03** points lower, because their circulating figure has not changed since Sep 4 2026 and so misses the October releases. That is why the coin page shows a warning note next to our number. Our label for FET this quarter is plain: supply growing, and projected to keep growing, driven by team releases rather than by any schedule written into the token.
 
 ## Sell pressure: where new FET comes from
 
-Staking rewards added **10.82M FET**. Fetch.ai's own chain creates new FET every block to pay stakers, set at 3% a year of the FET on that chain. Blocks arrive slower than planned (about 5.7 seconds instead of 5), so the real pace is closer to 2.6% a year. Because the FET on that chain jumped this window, the next 90 days should add about **11.44M FET**.
+**Protocol inflation** books zero on Ethereum. The FET token there held at exactly **2,714,384,546.67** coins at both ends of the window. Fetch.ai's own chain is different: it pays stakers in new FET at about 2.6% a year, which came to **10.98M FET** in these 90 days. Those coins stay on that chain, outside the Ethereum count, until someone moves them across the bridge.
 
-No vesting unlocks hit the market. One unlock tracker shows small monthly AGIX migration lines of about 2.5M FET on the 28th, but those coins are already counted as circulating and no locked wallet released anything on Jul 28, Aug 28 or Sep 28 2026.
+**Vesting unlocks** book zero. No FET left a vesting wallet in the window. Trackers list small monthly AGIX-migration steps on the 28th of each month, but the coins behind them already count as circulating, and conversions from AGIX to FET have been paused since Sep 20 2026.
 
-Team wallets on Ethereum released **138.5M FET**. Four team wallets on Ethereum sit outside the circulating count: the token bridge, the admin multisig, an old staking contract and the Foundation wallet. Together they fell from **473.96M** to **335.45M** FET. The bridge paid 125M FET to one exchange deposit address in bursts on Aug 19–20, Sep 2–3, Oct 1–2 and Oct 9 2026, and the admin multisig sent 23.4M FET to another wallet on Oct 18 2026. These releases have come every two to four weeks since August, so we expect about the same in the next 90 days.
+**Foundation and unscheduled unlocks** carry the whole result: **138.83M FET**. The Ethereum side of the Fetch.ai bridge paid **125M FET** to one exchange deposit address in batches on Aug 19–20, Sep 2–3, Oct 1–2 and Oct 9 2026. The team multisig sent another **23.4M FET** out on Oct 14 2026, and that wallet passed it on the same day in small lots. A further 20M left the multisig for the bridge and then the same exchange deposit on Oct 28 2026, just after our window closed. No schedule for these releases has been published, so we carry the last 90 days forward.
 
-The largest line is new FET created on Fetch.ai's own chain: **283.2M FET** reached the market. In May 2026 the bridge on that chain gained the power to create FET. Its admin then created **292M** new FET in five batches (60M on Jul 25, 62M on Aug 5, 70M on Aug 14, 40M on Aug 28 and 60M on Sep 18 2026) with no Ethereum FET burned to match, and sent **398.6M** FET to exchange deposit accounts between Jul 26 and Oct 15 2026. Two more batches (50M on Jun 19 and 60M on Jul 3) came before this window. Nothing comes from a bankruptcy estate or a long lock: there is none, and the 8.72M FET stolen from a SingularityNET conversion contract on Sep 19 2026 were coins already counted as circulating.
+**Long-term locked or bankruptcy** coins book zero. There is no court-held FET. One large multisig holding **277.55M FET** has not moved since February 2025 and already counts as circulating.
+
+**New FET created on Fetch.ai's chain** also books zero on this Ethereum count, but it is the biggest thing to know about FET supply. The bridge contract on Fetch.ai's chain can create FET, and its admin created **232M FET** there in four batches on Aug 5, Aug 14, Aug 28 and Sep 18 2026, with nothing burned to match. The admin then sent **343.4M FET** to exchange accounts on that chain by Oct 15 2026. Exchanges that list FET can move those coins to Ethereum through the bridge, and when they do, the coins show up in the row above.
 
 ## Buy pressure: where new FET goes
 
-Nothing takes FET out. There is **no buyback**, and nothing in the window shows the team buying FET. Nothing is burned either: the Ethereum supply read exactly 2,714,384,546.672 FET at both ends of the window, the dead address did not move, and the supply on Fetch.ai's own chain only rose, so **0** FET was burned. A 2025 governance vote to burn 110M FET left over from the Ocean migration was rejected. Staking locks about **606M FET** on Fetch.ai's chain, but those coins sit outside the circulating count, so staking takes **0** out of it; staking only feeds the rewards above.
+**Programmatic buyback** books zero. No buyback runs for FET, and we found none announced or carried out in these 90 days.
+
+**Protocol fee burn** books zero. Nothing was burned on either chain: the Ethereum supply did not move and the supply on Fetch.ai's chain only went up. The last burn was **109,350 FET** on Nov 5 2025, and a community vote to burn **110M FET** left over from the Ocean Protocol merger was rejected on Nov 2 2025.
+
+**Foundation buy** books zero. The team released coins in this window; it did not buy any back.
+
+**New long-term lock** books zero. About **625.6M FET** is staked on Fetch.ai's chain, but those coins sit outside the Ethereum count, so staking removes nothing from it. The old staking contract on Ethereum did not move.
 
 ## Foundation and overhang
 
-The team still controls a large pool that can reach the market without notice. On Ethereum the admin multisig holds **225.8M FET**, the old staking contract **80.6M**, the Foundation wallet **26.7M** and the bridge **2.33M**. On Fetch.ai's own chain the bridge admin holds **16.8M FET** liquid and **57.5M** staked, and it can create more: the bridge contract may hold up to 350M at a time. None of these has a published release schedule. If any of these balances falls, those coins reach the market as new supply.
+The team still controls a lot of FET that could follow the same path. The team multisig on Ethereum holds about **205.8M FET** after its Oct 28 transfer; it received 200M from the bridge on Sep 23 2026 and has been feeding the bridge since. An old staking contract holds **80.62M FET**, a second team wallet holds **26.69M FET**, and the Ethereum bridge itself is down to **2.14M FET** from 285.55M at the start of the window.
 
-## How FET compares to other AI network tokens
+On Fetch.ai's chain the bridge admin holds **16.83M FET** plus **57.49M FET** staked, and the bridge contract can create more FET at any time. One more event belongs here: on Sep 19 2026 an attacker with a stolen signing key drained **8.72M FET** from the converter that links Ethereum FET to Cardano. Those coins already counted as circulating, so the theft moved FET between holders rather than adding new supply, but it is the reason AGIX conversions are still paused.
 
-Most AI network tokens have one clear supply number. A token with a fixed, fully minted supply and an expired vesting schedule can only grow through team wallets, and a token with a published emission curve grows at a known rate. FET has both a capped Ethereum token and an uncapped native chain, and the native side now carries a mint button held by the bridge admin. That makes FET's real supply depend on team decisions rather than on code, which is the opposite of a hard-capped design.
+## How FET compares to other AI-agent chains
 
-Compared with proof-of-stake chains that pay validators from inflation, FET's staking reward is mild: about 2.6% a year on the native chain, at the low end for proof-of-stake chains. The difference this window is the team release, which is about **40 times** the staking reward. Tokens with fee burns or buybacks can offset new supply; FET has neither, so every released coin stays in the market.
+Most AI-focused coins grow their supply through rules written into the protocol. Bittensor pays miners and validators in new TAO on a halving schedule toward a fixed cap, so anyone can work out next year's issuance in advance. Render uses a burn-and-mint design, where users burn RENDER to pay for work and node operators earn new coins, so supply rises or falls with real usage.
+
+FET works differently. On Ethereum its supply is fixed, and the small staking reward lives on Fetch.ai's own chain. What moves FET's circulating supply is the team deciding to release coins from its wallets and from the bridge, and lately creating new FET on its own chain to do so. That makes FET harder to forecast than a coin with a written schedule: the release can speed up, slow down or stop with no notice.
 
 ## What to watch in the next 90 days
 
-First, any new mint by the native bridge admin. The last one was on Sep 18 2026; a new batch would add directly to new supply.
+**New mints on Fetch.ai's chain.** The last one was on Sep 18 2026, the longest pause since minting began in June. A new batch would likely mean more FET heading to exchanges.
 
-Second, the admin multisig on Ethereum (225.8M FET). It refilled the bridge with 20M on Oct 2 and Oct 9 2026 and sent 23.4M out on Oct 18 2026; more transfers out would keep the release running.
+**The team multisig.** It sent 20M FET toward an exchange deposit on Oct 28 2026 and still holds about 205.8M. If it keeps that pace, Ethereum supply keeps growing near 6% a quarter.
 
-Third, the AGIX conversion pause. AGIX-to-FET conversions were halted after the Sep 19 2026 exploit; a restart moves coins inside the circulating count and adds no new supply, but watch for any refill of conversion contracts from team wallets.
+**AGIX conversions.** They have been paused since Sep 20 2026. A restart would let AGIX holders swap into FET again, though those coins already count as circulating.
 
-Fourth, any public statement from the team explaining the native mints or retiring an equal amount of Ethereum FET, which would change the picture.
+**The Nov 28 2026 tracker step.** Trackers list the next AGIX-migration step for that day. We expect it to add nothing new, and we will check that it does not.
 
 ## Summary
 
-FET supply grew about **18.71%** in the 90 days to Oct 19 2026 and is projected to grow about **18.74%** in the next 90. Staking rewards are small at **10.82M FET**; the real driver is the team, which released **421.7M FET** in the window, most of it newly created on Fetch.ai's own chain and sent to exchange accounts. Nothing is burned or bought back, and the team still holds more than 400M FET across both chains. The 2.71B Ethereum supply is no longer a ceiling, so the key risk is more new FET from the same bridge.
+FET's circulating supply on Ethereum grew about **6.01%** in the 90 days to Oct 28 2026, all of it from **138.83M FET** released by team wallets and the bridge.
 
-*MrNasDog Pressure Framework analysis of FET, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*
+Nothing was burned or bought back, so there is no buy pressure to offset those releases.
+
+Fetch.ai's own chain created **232M FET** in the same window, outside the Ethereum count, and the team sent large amounts of it to exchanges.
+
+Until the team publishes a release schedule, FET holders should expect the supply to keep growing at about this pace.
+
+*MrNasDog Pressure Framework analysis of FET, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 28 2026.*
