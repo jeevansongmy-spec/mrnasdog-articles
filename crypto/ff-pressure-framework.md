@@ -1,6 +1,6 @@
 ---
 title:         "FF Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description:   "FF supply is growing: five project locks released 373M FF in 90 days (+11.16%), nothing buys or burns it, and 609M FF more unlocks next (+18.22%)."
+description:   "FF supply is growing: locked Falcon Finance wallets released 373M FF in 90 days (+11.16%), with no buyback or burn, and 609M more unlocks next (+18.22%)."
 canonical_url: "https://mrnasdog.com/research/ff/inflation"
 tags:          ["crypto", "ff", "falconfinance", "defi"]
 published:     true
@@ -11,58 +11,56 @@ Originally published at [FF Inflation Analysis · October 2026 · Supply growing
 
 <!-- main-page -->
 ➜ Start with the Falcon Finance coin page for the short answer (should you buy FF?) and its price drivers: [mrnasdog.com/research/ff](https://mrnasdog.com/research/ff)
-FF, the governance token of Falcon Finance, is strongly inflationary on its tradable float even though its total supply is fixed at **10B FF**. In the 90 days to Oct 18 2026, **373.06M FF** left five project locks and nothing bought or burned FF, so the float grew **+11.16%**. Three more monthly unlocks of about **203.06M FF** each fall in the next 90 days, which puts the forward reading at **+18.22%**. The cap is real, but **6.66B FF** are still locked and paying out every month until 2029.
+Falcon Finance's **FF** supply grew about **+11.16%** in the 90 days to Oct 28 2026, and the FF unlock calendar points to about **+18.22%** over the next 90 days. Locked project wallets released **373.06M FF** into the circulating float, nothing bought back or burned any FF, and about **609.17M FF** more is due to unlock by late January 2027. FF can never exceed its fixed **10B** supply, but only **3.34B** of it circulates today, so the Falcon Finance unlock schedule, not new minting, drives every point of FF inflation.
 
 ## The verdict, in one paragraph
 
-Our net reading for FF is **+11.16%** over the last 90 days and **+18.22%** for the next 90. The monitor reads **+12.55%** for the same window, a gap of **1.39 percentage points**. We walked that gap and it closes: the monitor divides the same released coins by the smaller float of 90 days ago (**2.97B FF**), while we divide by today's float (**3.34B FF**). On the monitor's base our own flow comes to 12.56%, within rounding of its number, so no warning chip is shown. The label that fits: a fixed-supply DeFi token whose float is inflationary by schedule, with no buyer on the other side.
+Over the last 90 days FF's circulating supply rose a net **+11.16%**, and the next 90 days project **+18.22%**, because the Dec 29 2026 tranche adds a full month on top of the two monthly unlocks the ledger already counts. Other trackers show **+12.52%** for the same 90 days, a difference of **1.36 points**; they measure the growth against the smaller FF supply of Jul 30 2026, while both readings describe the same 373M released coins, so the coin page carries no warning note. Nothing on the buy side offsets the FF unlocks: there is no FF buyback, no FF burn and no lock that removes coins from the count. The cite-able label for FF is **a fixed-supply token inflating through monthly unlocks**.
 
 ## Sell pressure: where new FF comes from
 
-Protocol inflation is **0**. All 10B FF were created in one transaction on Sep 19 2025, and the FF contract on Ethereum has no mint function, no owner and no upgrade path, so no new FF can ever be printed. The **443.67M FF** on BNB Chain are a bridge mirror of exactly the same amount locked on Ethereum.
+Protocol inflation adds **0 FF**. All 10,000,000,000 FF were created once on Sep 19 2025, and the FF token contract has no function that can create more; Falcon Finance pays FF staking rewards out of coins that already exist, so FF has no emission schedule at all.
 
-Vesting unlocks added **68.06M FF**. The Falcon Finance team and early contributors hold 20% of supply and investors hold 4.5%, both on a 1-year cliff followed by 36 months of monthly vesting. The cliff ended on Sep 29 2026, and on Oct 1 2026 the first payments left the two locks: **55.56M FF** on the team side and **12.5M FF** to investors. A governance vote that closed on Sep 28 2026 sends every team, investor and airdrop payment from Sep 29 to Dec 29 2026 straight into staked FF for three months before it is handed over. That slows selling, but staked FF still counts as circulating, so it does not change the count. The next 90 days hold three more payments, **204.17M FF**.
+Vesting unlocks added **68.06M FF**. The Falcon Finance team and investor allocations sat behind a one-year cliff that ended on Sep 29 2026 and now vest monthly for three years. The first FF vesting tranche left the locked team and investor wallets on Oct 1 2026: **55.56M FF** for the team and **12.5M FF** for investors. Tranches due on Oct 29, Nov 29 and Dec 29 2026 bring about **204.17M FF** of team and investor vesting into the next 90 days.
 
-Foundation and project unlocks are the larger part: **305.0M FF**. The ecosystem lock paid **75M FF** on Aug 5, Sep 2 and Oct 1 2026, the same amount every month since July. The Foundation lock began monthly payments of **60M FF** on Oct 1 2026, which is its remaining 2.16B spread over 36 months. A launch wallet that held the last airdrop coins paid out its final **20M FF** on Aug 5 2026 and is now empty. Three ecosystem and three Foundation payments fall in the next 90 days, **405.0M FF** in total.
+Foundation and unscheduled unlocks added **305M FF**, the largest FF sell row. The Falcon Finance ecosystem wallet released **75M FF** on each of Aug 5, Sep 2 and Oct 1 2026; the foundation wallet released its first monthly **60M FF** on Oct 1 2026; and the launch wallet paid out its last **20M FF** on Aug 5 2026 and is now empty. These ecosystem and foundation releases follow no official calendar, but they have landed every month, so at the same pace **405M FF** more leaves those two wallets in the next 90 days.
 
-Long-term locked or bankruptcy supply is **0**. No court or estate holds FF. A lawsuit filed in London in October 2026 claims that a custodian sold FF bought in a private deal before its agreed lock-up ended; those coins were already in the market, so the case adds no new supply.
+Long-term locked or bankruptcy supply adds **0 FF**. No bankruptcy estate or court-held pile of FF waits to be released. The October 2026 court claim between a market maker's affiliates and a custodian is about FF that had already been sold into the market, so it adds no new FF supply.
 
 ## Buy pressure: where new FF goes
 
-The programmatic buyback is **0**. Falcon Finance earns from the strategies behind its USDf synthetic dollar, and that income goes to USDf yield and backing, not to buying FF. No buyback wallet or plan has been published, and neither of the two governance votes so far created one.
+The programmatic buyback row is **0 FF**: Falcon Finance has announced no FF buyback, and no project wallet bought FF in the market during the 90 days.
 
-The protocol fee burn is **0**. FF has no burn: total supply read exactly 10B FF at both ends of the window, and the common burn address held the same 0.13 FF from start to end.
+The protocol fee burn row is **0 FF**. No Falcon Finance fee burns FF, the FF contract has no burn function, the FF total stayed at exactly 10B and the dead address did not grow over the window.
 
-The Foundation buy is **0**. We found no Foundation or treasury purchase of FF in the 90 days.
+The foundation buy row is **0 FF**. The Falcon Finance foundation releases FF each month; it does not buy FF back.
 
-The new long-term lock is **0**, although staking is busy. Staked FF grew from **139.28M** to **206.03M FF** over the window, and a 180-day staking option pays a higher yield. Staked FF still counts as circulating, so none of it leaves the float.
+The new long-term lock row is **0 FF**. About **206M FF** sits in FF staking, including the **68.06M FF** of team and investor coins that the FIP-2 governance vote of Sep 28 2026 parks there for three months. Staked FF still counts as circulating, so FF staking takes nothing out of the count; FIP-2 only delays when team and investor holders can sell their unlocked FF.
 
 ## Foundation and overhang
 
-Four project locks still hold **6.66B FF**, exactly the gap between total and circulating supply. The ecosystem lock holds **2.18B FF** and pays 75M a month. The Foundation lock holds **2.1B FF** and pays 60M a month. The team lock holds **1.94B FF** and pays 55.56M a month, and the investor lock holds **437.5M FF** and pays 12.5M a month. At that pace about 203M FF leave the locks every month into 2029. We read all four balances on-chain at every rebuild.
+Four locked Falcon Finance wallets still hold **6.66B FF**, two thirds of all FF: the ecosystem wallet with **2.175B FF**, the foundation wallet with **2.1B FF**, the team wallet with **1.94B FF** and the investor wallet with **437.5M FF**. Each pays out on the monthly pattern above, and together they release about **203.06M FF** a month.
 
-Inside the float, the wallets that receive these payments are large too: the ecosystem payout wallet holds **823M FF**, and a launch payout wallet holds 276.19M. They are already counted as circulating, so a sale from them moves coins between holders without adding supply. If any lock's balance falls faster than its monthly payment between our checks, the extra outflow enters the Foundation and unscheduled unlocks row at the next rebuild.
+Already-released FF also waits in project hands. The ecosystem payout wallet holds **823M FF** from every ecosystem release since June 2026 and has never sent a single FF out; it already counts as circulating, so its first sale would add selling but no new supply. The launch payout wallet holds about **276.19M FF**, and the foundation payout wallet holds about **11.66M FF** after passing most of its FF on. If a locked FF wallet's balance falls between checks, the outflow enters the foundation and unscheduled unlock row at the next check.
 
 ## How FF compares to other DeFi governance tokens
 
-FF belongs to the large group of fixed-supply DeFi governance tokens whose supply growth comes entirely from unlocks, not from minting. In that group the question is never the cap; it is how fast the locked share reaches the market and whether anything takes coins back out. FF scores badly on both: two-thirds of supply is still locked, the release is monthly and steady, and there is no buyback or burn at all.
+FF belongs to the large group of DeFi governance tokens with a fixed supply minted in full at launch and released through vesting, the same design used by synthetic-dollar peers such as Ethena's ENA. In that group FF inflation has nothing to do with block rewards: it is the pace at which locked allocations reach the circulating float. A coin like FF with only about a third of its supply circulating carries far more FF unlock pressure than a fully vested coin, even though both have a hard cap.
 
-Tokens that route protocol income into buybacks, such as Hyperliquid's HYPE, put a constant buyer against their unlocks, which can offset part or all of the new float. FF has no such link between USDf revenue and the token. Its closest analogues are other young DeFi tokens on 36-month linear schedules after a 1-year cliff, where the first year after the cliff is usually the heaviest stretch of float growth.
-
-Compared with proof-of-stake chains that print new coins to pay validators, FF's inflation is temporary by design: once the last lock empties in 2029, supply can no longer grow. Until then, a single month of FF unlocks, about 6% of the float, is as large as a typical chain's whole year of staking issuance.
+The sharper contrast is on the buy side. Many DeFi tokens now route protocol revenue into buybacks or burns that cancel part of their unlocks, and proof-of-stake chains like Ethereum at least burn a share of fees. Falcon Finance does neither for FF: every FF that leaves a locked wallet stays in circulation. FF's own twist is governance-forced staking, where FIP-2 parks the first team and investor tranches for three months, a delay rather than a removal.
 
 ## What to watch in the next 90 days
 
-Oct 29 2026: the next monthly unlock, about 203.06M FF from the ecosystem, Foundation, team and investor locks, with payment usually 1 to 7 days later.
+**Oct 29 2026:** the next monthly FF unlock of about **203.06M FF**, split into ecosystem, foundation, team and investor tranches, normally paid within a week of the date.
 
-Nov 29 2026 and Dec 29 2026: the next two tranches of the same size, which bring the next-90-day total to 609.17M FF.
+**Nov 29 2026:** the following FF tranche of the same size; a smaller ecosystem or foundation release would lower the 90-day FF projection.
 
-Dec 29 2026: the first hand-over of the insider coins that the September vote staked for three months. From then the holders can unstake and sell, so watch exchange inflows.
+**Dec 29 2026:** the third FF tranche, and the day FIP-2 starts handing the first staked team and investor FF, about **68.06M FF** plus yield, to its owners, who can then sell it.
 
-Any new Falcon Finance governance vote on a buyback, a burn or a change to the unlock pace. None exists today; one would be the first buy-side force for FF.
+**Ongoing:** the ecosystem payout wallet's **823M FF**, untouched so far, and any new Falcon Finance governance vote that extends FF staking for unlocks after Dec 29 2026 or introduces an FF buyback.
 
 ## Summary
 
-FF has a hard cap of 10B and no way to mint more, yet its circulating float grew **+11.16%** in 90 days and is projected to grow **+18.22%** in the next 90, because about 203M FF leave Falcon Finance's project locks every month. Nothing buys back or burns FF, so every unlock is new float with no offset. The main risk is the steady overhang of **6.66B FF** still locked, paid out monthly into 2029; the ceiling is that total supply can never pass 10B.
+Falcon Finance's FF has a fixed **10B** supply and no minting, yet its circulating supply grew **+11.16%** in the 90 days to Oct 28 2026 as locked project wallets released **373.06M FF**. With team and investor vesting now running alongside the monthly ecosystem and foundation releases, the next 90 days project **+18.22%**, about **609.17M FF**. No FF buyback or burn offsets the FF unlocks, and the FIP-2 staking only delays team and investor selling until Dec 29 2026. The ceiling is the **6.66B FF** still locked, which keeps FF inflationary for years on the current monthly pattern.
 
-*MrNasDog Pressure Framework analysis of FF, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 18 2026.*
+*MrNasDog Pressure Framework analysis of FF, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 28 2026.*
