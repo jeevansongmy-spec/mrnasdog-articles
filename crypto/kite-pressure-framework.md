@@ -1,6 +1,6 @@
 ---
 title:         "KITE Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description:   "KITE supply is growing: 195.6M KITE unlocked in 90 days (+8.18%), no burn or buyback, and an 800M team and investor unlock on Nov 3 2026 brings +47.21% next."
+description:   "KITE supply is growing: 14.32M KITE reached the market in 90 days (+0.60%), and about 948M more (+39.6%) is due next, led by the Nov 3 2026 team unlock."
 canonical_url: "https://mrnasdog.com/research/kite/inflation"
 tags:          ["crypto", "kite", "ai-payments"]
 published:     true
@@ -12,48 +12,50 @@ Originally published at [KITE Inflation Analysis · October 2026 · Supply growi
 <!-- main-page -->
 Looking for the buy-or-sell answer? It is on the KITE coin page, with demand and price drivers: [mrnasdog.com/research/kite](https://mrnasdog.com/research/kite)
 
-**KITE supply is growing, and the next 90 days bring the biggest step yet.** Kite mints no new KITE — the cap is **10B** — but locked coins come free on a fixed calendar. Ecosystem unlocks added **195.6M KITE** in the last 90 days, **+8.18%** of the **2.39B** circulating, with nothing bought back or burned. The 1-year lock on team and investor coins ends on **Nov 3 2026**: about **800M KITE** at once, then about 66.67M a month, so the next 90 days add about **1.13B KITE**, or **+47.21%**.
+Kite (KITE) supply is growing, and the big step is still ahead. Over the 90 days from Jul 31 to Oct 29 2026 about **14.32M KITE** reached the market, a net **+0.60%**, and the next 90 days could add about **947.66M KITE**, or **+39.6%**, because the team and investor lock ends on **Nov 3 2026**. KITE is capped at **10B** coins that already exist, so nothing new is minted; supply grows only as locked coins come out, and nothing burns or buys KITE back.
 
 ## The verdict, in one paragraph
 
-Over the 90 days to Oct 19 2026 the KITE supply on the market grew **+8.18%**, and for the next 90 days we project **+47.21%**. Market data still reads **+0.00%**, because the circulating figure it shows has stood at 2.39B KITE since Jul 1 2026 and does not yet include the Aug 1, Sep 1 and Oct 1 2026 ecosystem unlocks. That leaves a gap of **8.18 points**, so the coin page shows a data-conflict warning next to the number. In one line: **KITE is a fixed-cap token whose float is still being unlocked — no minting, but heavy scheduled supply, peaking with the Nov 3 2026 team and investor cliff.**
+Over the last 90 days the coins that left Kite's locked wallets came to **14.32M KITE** against **2.39B KITE** in circulation, a net **+0.60%**. For the next 90 days we project about **+39.6%**, almost all of it from the team and investor unlock of about **800M KITE** on Nov 3 2026 and the first two monthly steps after it. Other trackers show just **+0.01%** for the same 90 days, a gap of **0.59 points**, so the coin page carries a warning note. The circulating figure those trackers use has not moved since Jul 2 2026, while on-chain the project's ecosystem wallets sent **14.32M KITE** to an exchange between Jul 31 and Aug 5 2026. Our reading stands: KITE is a young coin with a fixed cap, and its supply is about to grow fast as the first big lock ends.
 
 ## Sell pressure: where new KITE comes from
 
-**Protocol inflation is zero.** The KITE token lives on Ethereum, BNB Chain, Avalanche and HyperEVM, and the four add up to exactly 10B KITE today, the same as on Jul 21 2026. The token can only be created when it moves between those chains, where the other side is destroyed. Staking on the Kite chain pays rewards from a 50,000 KITE pot that has not paid out yet, so staking prints no new KITE either.
+Protocol inflation is zero. All **10B KITE** were created at launch and now sit across Ethereum, BNB Chain and two small chains, and the total across them still adds up to exactly **10B**. Staking rewards on the Kite chain are paid from coins set aside at launch, and the staking pot there held the same **12.0M KITE** all window.
 
-**Vesting unlocks are the whole story: 195.6M KITE in 90 days.** The ecosystem and community pool unlocks about **65.22M KITE** on the 1st of every month, and three of those dates — Aug 1, Sep 1 and Oct 1 2026 — fell inside the window. The next 90 days hold three more ecosystem unlocks (Nov 1 and Dec 1 2026, Jan 1 2027) plus the end of the 1-year team and investor lock on **Nov 3 2026**: about **800M KITE** (500M team, 300M investors), followed by about 66.67M KITE on Dec 3 2026 and again on Jan 3 2027. Together that is about **1.13B KITE**. Some trackers put the Nov 3 cliff at 640M rather than 800M; we use the larger figure, which matches the plain reading of Kite's own unlock terms.
+Vesting unlocks are the whole story. Kite's own white paper says the team and investors wait one year and then unlock over four years, while the ecosystem and module shares unlock bit by bit over four years. In the last 90 days the only locked coins that moved were **14.32M KITE** from the ecosystem wallets, paid out in six transfers between Jul 31 and Aug 5 2026 and sent on to an exchange within minutes. The team wallets, the investor wallet and the modules wallet did not move at all.
 
-**Foundation and unscheduled unlocks add zero.** Kite's payout wallets sent out **91.6M KITE** between Jul 21 and Aug 5 2026, but those were ecosystem coins that had already unlocked, so moving them adds no new supply. Nothing has left them since the August pause. **Long-term locked or bankruptcy coins add zero**: KITE has no bankruptcy estate, and the August 2026 attack ended with a one-for-one move to a new token contract, total unchanged.
+The next 90 days look very different. KITE first traded on Nov 3 2025, so the one-year lock on team and investor coins ends on **Nov 3 2026**. A quarter of each share unlocks that day: about **500M KITE** for the team and **300M KITE** for investors. After that, about **66.67M KITE** unlock every month for three years, with the first two steps on Dec 3 2026 and Jan 3 2027. One public unlock calendar shows a smaller first step of **640M KITE**, so 800M is the cautious reading. Add the ecosystem wallets' recent pace and the next 90 days come to about **947.66M KITE**.
+
+Foundation and unscheduled unlocks book zero, because the reserve wallets paid nothing out beyond the vesting flow above. Long-term locked or bankruptcy holdings are zero too: no court or estate holds KITE, and the August 2026 attack on the old token lost no coins.
 
 ## Buy pressure: where new KITE goes
 
-**Nothing takes KITE off the market today.** There is no buyback: Kite plans to turn a small fee on AI-agent payments into KITE bought on the open market, but no buyback wallet or first purchase has been shown. There is no fee burn, because fees on the Kite chain are paid in stablecoins and the burn addresses hold no KITE. No project wallet bought KITE in the window. About 12M KITE is staked by Kite chain validators, a level that did not grow, and staked coins still count as circulating. So the buy side is **0 KITE** in both the last and the next 90 days.
+Nothing takes KITE out of the market today. There is no buyback yet: Kite plans to turn a small cut of AI service payments into KITE bought on the market, but no such buying has been seen. There is no fee burn, because fees on the Kite chain are paid in stablecoins and the burn addresses hold no KITE. The foundation spends from its reserves rather than buying. And staking takes almost nothing out of the count: only about **12M KITE** is staked on the Kite chain, and staked coins still count as circulating.
 
 ## Foundation and overhang
 
-Most of the 10B KITE still sits in project wallets on Ethereum. The investor wallet holds exactly **1.2B KITE**, the full investor share, untouched. Three tagged team wallets hold **500M**, **500M** and **263.2M**, with the rest of the team share spread over many smaller wallets of 10M to 30M each. The modules wallet holds exactly **800M**. The ecosystem wallets hold **815.8M** and **227.3M**, and three payout wallets hold **754M**, **739.7M** and **725.6M**. Every one of them still holds its Aug 24 2026 balance from the token move. We read these balances on-chain at every rebuild. If any of them falls between checks, the coins that leave enter the Foundation row of the sell ledger at the next check.
+Most KITE is still in the project's own wallets. The ecosystem reserve holds about **3.30B KITE** across four wallets, plus **227.34M KITE** in a fifth. Its schedule allowed about **196M** ecosystem coins out in these 90 days, yet all but the 14.32M above stayed put, so that backlog can reach the market at any time. The modules reserve holds exactly **800M KITE**, which has not moved since launch.
 
-## How KITE compares to other AI and payment chains
+The investor wallet holds exactly **1.20B KITE**, the full investor share. Two team wallets hold **500M KITE** each. On Oct 27 2026 a third team wallet moved its whole **263.22M KITE** into the main ecosystem wallet. That is a move between the project's own wallets, so it adds nothing to the market, but it is worth watching a week before the lock ends.
 
-KITE belongs to the fixed-cap, recently launched group: all 10B coins exist already, and the supply on the market grows only as locks end. That is the opposite of Ethereum, Solana or Avalanche, which pay validators in newly created coins every day and count the new coins as inflation forever. KITE's inflation instead comes in steps and stops once the calendar runs out, which is late 2029 for the main pools.
+## How KITE compares to other young proof-of-stake Layer 1 chains
 
-Against other young tokens, KITE's float is small: **23.91%** of the cap circulates after almost a year. Many tokens that launched in 2024 and 2025 also used a 1-year cliff for team and investors, and the cliff month is usually their biggest supply event; KITE's falls on **Nov 3 2026**. KITE also has no burn and no buyback yet, while chains like Ethereum (fee burn) or exchange tokens (regular buybacks) have a built-in buyer that offsets some new supply.
-
-The long-term plan gives KITE a buyer tied to use: a small fee on each AI-agent payment swapped into KITE, and module builders locking KITE in permanent liquidity pools. Until those run at scale, the KITE supply story is set by the unlock calendar, not by usage.
+Many proof-of-stake chains pay validators with brand-new coins, so their supply grows a little every block. KITE works the other way: the cap is fixed and rewards come out of a launch budget, so supply only grows when locked coins are released. That makes the growth lumpy. Chains that launched a year or two earlier with the same one-year team and investor lock went through the same kind of cliff, and for a while the unlock outweighed everything else in their supply. With under a quarter of its coins circulating, KITE sits at the start of that path, and no burn or buyback yet exists to offset it.
 
 ## What to watch in the next 90 days
 
-**Nov 3 2026 — the team and investor cliff.** About 800M KITE (some trackers say 640M) stops being locked; watch the investor wallet (1.2B) and the team wallets for the first outflows to exchanges.
+**Nov 3 2026:** the team and investor lock ends and about 800M KITE unlock. Watch whether the two 500M team wallets and the 1.20B investor wallet start sending coins out, and where they go.
 
-**Nov 1 and Dec 1 2026, Jan 1 2027 — ecosystem unlocks** of about 65.22M KITE each, and **Dec 3 2026 and Jan 3 2027** — about 66.67M KITE each from the team and investor shares.
+**Dec 3 2026** and **Jan 3 2027:** the first two monthly team and investor steps, about 66.67M KITE each.
 
-**The payout wallets.** They paid out 91.6M KITE in late July and early August 2026 and have been still since the August attack; a restart would show how fast unlocked ecosystem coins reach buyers.
+**The ecosystem reserve:** about 3.30B KITE now sits there, including the 263.22M moved in on Oct 27 2026. Any large payout from it would add to the count right away.
 
-**A first buyback.** Any sign that the fee-to-KITE swap on agent payments has started would add the first real buyer to the KITE ledger.
+**The fee buying plan:** the first purchases of KITE with AI service payments would be the coin's first real buy pressure.
 
 ## Summary
 
-KITE is a fixed-cap 10B token that mints nothing, yet its circulating supply grew **+8.18%** in the last 90 days from monthly ecosystem unlocks, and is set to grow about **+47.21%** in the next 90 as the team and investor lock ends on **Nov 3 2026** with about 800M KITE. Nothing on the buy side offsets it: no buyback, no burn, no new long-term lock. The key risk is that newly unlocked team and investor coins reach exchanges; the ceiling is the 10B cap, of which **23.91%** circulates today.
+Kite's supply grew **+0.60%** over the 90 days to Oct 29 2026, from **14.32M KITE** paid out of the ecosystem wallets to an exchange. The next 90 days could add about **947.66M KITE**, or **+39.6%**, led by the team and investor unlock of about 800M KITE on Nov 3 2026. KITE is capped at 10B coins, mints nothing new, burns nothing and has no buyback running, so every unlock goes straight to the circulating count. The risk to watch is how much of the newly unlocked team and investor KITE actually reaches exchanges after Nov 3 2026.
 
-*MrNasDog Pressure Framework analysis of KITE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*
+---
+
+*MrNasDog Pressure Framework analysis of KITE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 29 2026.*
