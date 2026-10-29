@@ -1,63 +1,77 @@
 ---
-title:         "OP Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description:   "OP supply is growing: no OP is minted, but 33.83M OP of Foundation grants beat a 4.94M OP buyback: +1.26% net in 90 days, about +1.96% next."
+title:         "OP Inflation Analysis · October 2026 · Mixed last 90D · projected to grow"
+description:   "OP mints nothing, but Foundation grants added 4.30M OP in 90 days, +0.19% net. About 17.32M early-contributor OP may follow, so +0.94% is expected next."
 canonical_url: "https://mrnasdog.com/research/optimism/inflation"
 tags:          ["crypto", "op", "optimism", "layer2"]
 published:     true
 ---
-Originally published at [OP Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/optimism/inflation).
+Originally published at [OP Inflation Analysis · October 2026 · Mixed last 90D · projected to grow](https://mrnasdog.com/research/optimism/inflation).
 
-# OP Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+# OP Inflation Analysis · October 2026 · Mixed last 90D · projected to grow
 
 <!-- main-page -->
 ➜ Start with the Optimism coin page for the short answer (should you buy OP?) and its price drivers: [mrnasdog.com/research/optimism](https://mrnasdog.com/research/optimism)
 
-OP is inflationary on its circulating float even though no new OP is minted. In the 90 days to Oct 19 2026 the Optimism Foundation paid **33.83M OP** out of its treasury in grants, while the Superchain revenue buyback took back **4.94M OP**, so the float grew a net **+1.26%**. The next 90 days look heavier at **+1.96%**, because about **16.42M OP** of early-contributor coins is expected to join the grant flow. The total is fixed at 4.29B OP unless governance votes a new mint, and only **2.30B OP** is circulating today.
+**TL;DR** OP did not mint a single new coin between Jul 31 and Oct 29 2026, yet the circulating count still rose by **4.30M OP**, all of it Optimism Foundation grants reaching the market. That is **+0.19%** in 90 days. The next 90 days look heavier, about **+0.94%**, because the Foundation still plans to release roughly **35.22M** early-contributor OP by the end of April 2027.
+
+The total is capped by policy rather than by code: **4.29B OP** exist, the inflation rate set by governance is 0%, and a minting contract could add up to 2% a year if that rate ever changed. The buyback that started in February 2026 bought **4.94M OP** on Oct 1 2026, but those coins sit in a treasury wallet and still count as circulating, so they shrink nothing. Other trackers show **+0.18%** for the same 90 days.
 
 ## The verdict, in one paragraph
 
-Our ledger reads **+1.26%** net new OP over the last 90 days and **+1.96%** for the next 90 days. The market supply monitor reads **+0.78%** for the same 90 days, a gap of **0.48 percentage points**, which is inside our tolerance, so no warning chip is shown. The monitor reads lower mainly because the Optimism Foundation's own circulating count has not been updated since Sep 8 2026, while most of the window's grant payouts left the treasury in September and October. In one line: OP is a governance token that is inflationary by treasury distribution, with a small buyback pulling the other way.
+Over the last 90 days OP supply grew **+0.19%**, from new Foundation grants alone, and other trackers show **+0.18%**. The two figures differ by less than a hundredth of a point, so the coin page carries no warning note. For the next 90 days we expect **+0.94%**: the same slow drip of grants plus a share of the contributor coins the Foundation has said it will release this fiscal year. Our label is mixed for the last 90 days and growing for the next 90. Nothing on the buy side removes OP from the count today.
 
 ## Sell pressure: where new OP comes from
 
-Protocol inflation is **0**. OP was created in one go in 2022 as 4,294,967,296 tokens, and the token contract can only add more through a yearly mint of up to 2% that governance must approve. The last approved rate is 0%, and the on-chain total supply did not rise in the window (it fell by a quarter of one OP). The next mint window opens on **Oct 28 2026**, but no proposal to use it has been posted.
+**Protocol inflation: 0.** Total OP supply was flat over the window; it even slipped by about a quarter of one coin through small burns. OP is not created by block rewards or staking. A minting contract controlled by a Foundation wallet can create up to 2% of supply once a year, and its year-long waiting period ended on Oct 28 2026. Governance last set the rate at 0%, and no proposal to mint is open, so this row stays at 0.
 
-Vesting unlocks booked **0** for the last 90 days and **16.42M OP** for the next 90. Investors are fully unlocked at 735.86M OP, so that schedule is finished. Early core contributors have 686.92M OP out, a number that did not change between Aug 6 and Oct 14 2026. The Foundation's Year 5 outlook expects 47.6M OP of contributor coins between May 2026 and April 2027, of which about 12.38M had already arrived by August, leaving about 35.22M by Apr 30 2027. Spread evenly over the remaining months, that is the 16.42M OP in the next window. Base, which earns a quarterly 4.47M OP grant from the Seed Fund, did not add coins to the float on its Oct 10 2026 date.
+**Vesting unlocks: 0 last, about 17.32M next.** Investor coins reached their full allocation of **735.86M OP** in May 2026. Early contributors hold **686.92M OP** in circulation, a figure that did not move between Aug 6 and Oct 14 2026. The Foundation's Year 5 plan, published on Aug 6 2026, expects 47.6M contributor OP between May 2026 and April 2027. About 12.38M of that has arrived, which leaves roughly 35.22M. No dated cliff was published, so we spread it evenly across the months left, which puts about 17.32M OP into the next 90 days.
 
-Foundation and unscheduled unlocks are the main source: **33.83M OP**. The Optimism Foundation moved 142M OP from its approved-budget treasury into a new Safe on Aug 7 2026, then sent 28.5M OP from that Safe to a payout wallet in three steps (Sep 1, Sep 11 and Sep 28 2026), which paid it on to about twenty grant recipients. Counting every coin that left the Foundation's treasury wallets for outside wallets gives 33.83M OP in 90 days, roughly 23M of it in September. Grants are paid in rolling batches, so we carry the same 33.83M OP into the next 90 days. The Foundation's own Year 5 plan points to more, not less: about 210M OP a year from the governance and ecosystem funds.
+**Foundation and unscheduled releases: 4.30M.** Grants that the Foundation marks as unlocked added **4.30M OP** to the circulating count between Jul 31 and Oct 29 2026. About 2.61M came from the governance grants fund and a further 0.17M from the partner and ecosystem funds. The Foundation's wallets moved far more than this. One wallet sent 142M OP to a new Foundation wallet on Aug 7 2026, and roughly 28.5M of that moved on to a payout wallet for partners in September. The Foundation's own accounts list those partner grants as promised and locked, not circulating, so they do not count yet. We expect the next 90 days to look like the last 90.
 
-Long-term locked or bankruptcy supply is **0**: no estate, trustee or long lock is releasing OP.
+**Long-term locked or bankruptcy: 0.** No estate, court or seized pile of OP waits to be sold.
 
 ## Buy pressure: where new OP goes
 
-The programmatic buyback took back **4.94M OP**. In January 2026 Optimism governance approved a 12-month programme that spends half of the revenue OP chains pay the Collective on monthly OP purchases. The first three buys (Mar 2, Apr 1 and May 1 2026) brought 9.45M OP; then nothing landed until **Oct 1 2026**, when 4,937,457 OP arrived in the buyback wallet, which now holds 14.39M OP. The Foundation takes bought coins out of its circulating count, so this is real buy pressure. For the next 90 days we assume the same dollar amount at today's lower price, about **5.20M OP**. The revenue behind it shrank after Base, the largest payer, moved to its own stack in February 2026.
+**Programmatic buyback: 0.** In January 2026 governance approved a 12-month pilot that sends half of Superchain revenue to monthly OP purchases. Purchases arrived on Mar 2, Apr 1 and May 1 2026, then nothing until Oct 1 2026, when **4,937,457 OP** landed in the buyback wallet. That wallet now holds **14.39M OP**. The coins are held, not burned, and governance has not decided what to do with them. The official circulating figure does not take them out, so the buyback books 0 here. If the program ever burns those coins or moves them into a locked pool, it would start counting.
 
-The protocol fee burn is **0**. Gas on OP Mainnet and the other OP chains is paid in ETH, so using the network burns no OP. Foundation buying outside the buyback is **0**, and new long-term locks are **0** because OP has no staking lock.
+**Protocol fee burn: 0.** Every OP chain charges its fees in ETH, so heavy network use burns no OP. The quarter of a coin that disappeared in the window is too small to show.
+
+**Foundation buy: 0.** The Foundation hands OP out; it does not buy it on the market.
+
+**New long-term lock: 0.** OP has no staking system that pulls coins out of circulation.
 
 ## Foundation and overhang
 
-The Optimism Foundation still controls most of the OP that is not yet circulating. Its main reserve Safe holds **1.29B OP** and needs governance approval of a yearly budget before any of it moves. Its approved-budget treasury holds 318.48M OP, the new Safe funded on Aug 7 2026 holds 113.36M OP, the private grants wallet holds 21.39M OP and the payout wallet holds 3.29M OP. The buyback wallet holds another 14.39M OP that governance may later burn, hand out or keep.
+About **2.00B OP**, close to half of all OP, sits outside the circulating count. Most of it is in Foundation wallets. The largest holds **1.29B OP** and did not move in the window; it is also the wallet that controls minting. A second Foundation wallet fell from 460.48M to **318.48M OP** when it funded a new wallet that now holds **113.36M OP**.
 
-Two pools have no wallet of their own and no schedule. In August 2026 governance approved turning the unused user airdrop allocation, **546.9M OP**, into a Strategic Ecosystem Fund for deals that bring chains, institutions and liquidity to OP Mainnet and OP Enterprise; it reports once a year. About 123.41M OP of the contributor allocation is also not yet out, and 777.6M OP of public-goods rewards sits unused while that programme is paused. We read the Foundation wallets on chain at every rebuild and walk its reports by hand. If any of these balances falls between refreshes, the outflow enters the Foundation and unscheduled unlocks row at the next refresh.
+Inside those balances, three pools matter most. In August 2026 governance turned the unused airdrop pool, about **546.9M OP**, into a Strategic Ecosystem Fund for deals that bring companies and apps to OP Mainnet. The retro funding pool still has about 777.6M OP unspent while that program is paused. And about 374M OP is already promised to partners, grant winners and staff but not yet unlocked, including 32.64M for early contributors. None of these pools has a public release calendar, so only the planned contributor coins are booked ahead. The buyback wallet's 14.39M OP is listed here too: if it ever sells, that would show up as new supply.
 
-## How OP compares to other Ethereum Layer-2 tokens
+## How OP compares to other Layer 2 chains
 
-Most Ethereum rollup tokens share OP's basic shape: gas is paid in ETH, so the token has no fee burn and no block reward, and new supply comes from a foundation or DAO treasury and from team and investor vesting. That makes their inflation a question of treasury behaviour rather than protocol maths. OP is further along than most: its investor schedule is finished and only about 35M OP of planned contributor coins remain for this fiscal year, so the Foundation's grant spending now sets the pace almost alone.
+Most Layer 2 tokens work like OP: fees are paid in ETH, so the token gets no burn from network use, and supply grows through team, investor and treasury releases rather than block rewards. Arbitrum's ARB is the closest match, and it still releases about 92.6M ARB a month to its team and investors until early 2027. OP finished its investor unlocks in May 2026, which is why its last 90 days were quieter than many peers.
 
-Where OP differs is the buyback. Many Layer-2 tokens have no link at all between network revenue and the token; OP spends half of the Superchain revenue it receives on buying OP back, and the Foundation removes those coins from its circulating count. The catch is size: at 4.94M OP against 33.83M OP of grants, the buyback offset about a seventh of new supply in this window. Compared with a fixed-cap coin like Bitcoin, OP's cap is soft, because a governance vote can still mint up to 2% a year.
+Where OP differs is the buyback. Few Layer 2 tokens tie revenue to their own token, and OP does it on paper. In practice the bought coins stay in a treasury and do not leave the count. The bigger driver of OP supply is how fast the Foundation spends its 2.00B OP reserve, which depends on its grants and deals, not on network fees.
 
 ## What to watch in the next 90 days
 
-**Oct 28 2026**: the yearly mint window reopens; a vote for any rate above 0% would add new OP on top of this ledger.
+**Contributor releases before Apr 30 2027.** The Foundation plans about 35.22M more early-contributor OP this fiscal year. If those coins arrive in one block instead of spread out, a single month could add more than the whole last quarter did.
 
-**The next buyback settlement**: the programme pays out monthly in principle, but only four buys have landed in 2026. A new update on the buyback thread, or a gap that keeps growing, changes the buy side.
+**The mint window, open since Oct 28 2026.** A Foundation wallet can now mint up to 2% of supply, about 85.9M OP, but only if governance moves the rate above 0%. A year ago the same wallet ran a mint of zero coins on Oct 28 2025, which reset the clock. Watch for a repeat of that, or for an inflation proposal.
 
-**Strategic Ecosystem Fund deals**: the first deployment from the 546.9M OP pool would show up as Foundation outflows.
+**The next buyback and its use.** The Oct 1 2026 purchase has not yet been posted in the buyback thread. The pilot runs to early 2027, and governance still has to decide whether the 14.39M OP is burned, locked or spent. A burn would turn the buyback into real buy pressure.
 
-**Jan 10 2027**: Base's next quarterly 4.47M OP grant date; we book it only if the coins reach the float.
+**The Strategic Ecosystem Fund.** The 546.9M OP fund was approved on Aug 24 2026 for deals with chains, apps and companies. Its first deals will show whether it releases coins faster than the old airdrop pool did.
+
+**Jan 10 2027 partner-grant date.** Unlock trackers list a release to the seed fund on Jan 10 2027. The last such date, Oct 10 2026, left no mark on the circulating count, so we book nothing for it.
 
 ## Summary
 
-OP supply is growing: the float rose a net **+1.26%** in the 90 days to Oct 19 2026 and is projected at **+1.96%** for the next 90 days. No OP is minted; new coins come from the Optimism Foundation's grant payouts (**33.83M OP**) and, next, early-contributor coins (**16.42M OP**), while the Superchain revenue buyback took back **4.94M OP**. The key risk is the size of what the Foundation still controls, including a 1.29B OP reserve and a 546.9M OP strategic fund with no schedule. The ceiling is the fixed 4.29B OP total, which only a governance-approved mint of up to 2% a year can raise.
+OP minted nothing between Jul 31 and Oct 29 2026, but Foundation grants added **4.30M OP**, so supply grew **+0.19%**.
 
-*MrNasDog Pressure Framework analysis of OP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 19 2026.*
+The OP buyback bought **4.94M OP** on Oct 1 2026, yet the coins sit in a treasury wallet holding 14.39M OP and still count as circulating, so they offset nothing.
+
+We expect OP supply to grow about **+0.94%** in the next 90 days, as the Foundation plans about 35.22M more early-contributor OP by April 2027.
+
+About 2.00B OP stays outside the count in Foundation wallets and pools, and a mint of up to 2% a year is possible again since Oct 28 2026 if governance raises the 0% rate.
+
+*MrNasDog Pressure Framework analysis of OP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 29 2026.*
