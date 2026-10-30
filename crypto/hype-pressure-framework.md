@@ -1,60 +1,62 @@
 ---
-title:         "HYPE Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description:   "HYPE supply is growing: 4.62M HYPE of team payouts and 754K of staking pay beat a 2.18M fee buyback, +1.46% in 90 days, about +1.36% next. Checked Oct 21 2026."
+title:         "HYPE Inflation Analysis · October 2026 · Supply was growing · trend cooling"
+description:   "HYPE supply grew +1.36% in 90 days: 4.62M HYPE of team payouts and 784K of staking pay against 2.21M of fee buybacks. About flat next. Checked Oct 30 2026."
 canonical_url: "https://mrnasdog.com/research/hype/inflation"
 tags:          ["crypto", "hype", "hyperliquid", "defi"]
 published:     true
 ---
 *Originally published at [https://mrnasdog.com/research/hype/inflation](https://mrnasdog.com/research/hype/inflation)*
 
-# HYPE Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+# HYPE Inflation Analysis · October 2026 · Supply was growing · trend cooling
 
-HYPE is inflationary on its traded float: supply grew **+1.46%** in the 90 days from Jul 23 to Oct 21 2026, and we expect about **+1.36%** in the next 90 days. Hyperliquid added **5.47M HYPE** to the market, mostly monthly team payouts and staking pay, while its fee buyback fund and gas burn took **2.22M HYPE** back out. HYPE has a hard cap of 1B coins, and only about 23% of them circulate today, so the team and reserve wallets set the pace.
+HYPE supply grew by **+1.36%** in the 90 days from Aug 1 to Oct 30 2026, mostly because the Hyperliquid team paid out **4.62M HYPE**, 3.75M of it in a single October sale. Fee buybacks took **2.21M HYPE** off the market in the same 90 days, and HYPE can never pass its cap of 1B coins. With smaller team payouts already lined up, the next 90 days look close to flat at about **−0.18%**. Other trackers show **+7.60%** because of a one-day recount in their supply figure, so the coin page carries a warning note.
 
 ## The verdict, in one paragraph
 
-Over the last 90 days the circulating supply of HYPE grew by **+1.46%**, from new coins of **5.47M HYPE** against removals of **2.22M HYPE**, on a float of **222.45M HYPE**. Other trackers show only **+0.02%** for the same days, a gap of **1.45 points**, so the page carries a warning chip. The reason is simple: the supply figure they use has stayed at 222.45M HYPE since May 26 2026 and does not move when the team pays out or the buyback fund buys. On-chain, both of those happened every month. For the next 90 days we expect **5.52M HYPE** in and **2.50M HYPE** out, or **+1.36%**. HYPE is a fee-buyback token that is still inflationary while its team stake unlocks.
+Between Aug 1 and Oct 30 2026, **5.50M HYPE** entered the market and **2.25M HYPE** left it, so the circulating supply of about 239.41M HYPE grew by a net **+1.36%**. The label for this period is "Supply was growing · trend cooling": the growth came from one large team payout in October, and the payouts booked for the next 90 days are much smaller, so the steady buybacks should roughly cancel them. Other trackers report **+7.60%** for the same 90 days, a gap of **6.24 percentage points**. Their supply figure sat near 222.45M HYPE from May 26 to Oct 27 2026 and then jumped by 17.0M HYPE on Oct 28 2026 in one recount, on a day when no such amount moved on-chain. That jump is a catch-up in how coins are counted, not new HYPE, so our +1.36% stands and the coin page shows a warning note next to it.
 
 ## Sell pressure: where new HYPE comes from
 
-Protocol inflation added about **754K HYPE**. Hyperliquid pays stakers from a reserve set aside at launch, at roughly 2.2% a year on the **442M HYPE** staked, which is about 27,000 HYPE a day in total. Most of that pay lands on the team, Foundation and grants stakes, which do not count as circulating, so only the share earned by outside stakers reaches the market. The rate falls slowly as more HYPE is staked, because Hyperliquid scales staking pay to the square root of the total stake.
+The first source is staking pay. When HYPE launched on Nov 29 2024, a large reserve was set aside for future rewards, and it still holds **410.33M HYPE**. Stakers are paid from it every day, about 27,000 HYPE across the **442M HYPE** now staked, and the rate falls slowly as more HYPE is staked. Most of that pay goes to wallets whose coins are not counted as circulating: the team, the Hyper Foundation and the grants wallet. The rest, **784,236 HYPE** in these 90 days, went to everyone else and is new supply. We expect about the same amount in the next 90 days.
 
-Vesting unlocks were the biggest source: **4.62M HYPE**. The core-contributor wallet holds **238.06M HYPE**, all of it staked, and pays out once a month after a seven-day unstaking wait. It paid **433,025 HYPE** on Aug 5, **433,416 HYPE** on Sep 6 and **3.75M HYPE** on Oct 7 2026. The October payout was sold in one private deal to a single institution, so it never touched the public order book, but those coins still joined the float. Unlock calendars show about 9.92M HYPE a month for the team; what actually left the wallet was far less, and only what leaves the wallet reaches the market.
+The second and largest source is the team. Hyperliquid's builders hold their allocation in one wallet, all of it staked, and take a payout once a month around the 6th after a 7-day unstaking wait. The payouts were **433,024 HYPE** on Aug 6, **433,419 HYPE** on Sep 6 and **3.75M HYPE** on Oct 7 2026. The October payout was sold in one deal and landed in five wallets of 750,000 HYPE each, rather than being sold on the open market. In total, the team payouts came to **4.62M HYPE**. The published plan would allow about 9.92M HYPE a month, but the team has never taken close to that; the payouts are its own choice, and the size of each one is only known a few days ahead.
 
-Foundation and unscheduled unlocks added **103K HYPE**. The Hyper Foundation sent **100,000 HYPE** out of its wallet in two equal transfers on Aug 4 and Aug 31 2026, and the community grants wallet paid **3,000 HYPE** in small grants. Long-term locked or bankruptcy supply is **0**: HYPE launched on Nov 29 2024 and has no court-held estate or legal lockup waiting to be released.
+The third source is the Hyper Foundation and the grants wallet. The Foundation sent out **50,000 HYPE** on Aug 4 and another **50,000 HYPE** on Aug 31 2026, and the grants wallet paid out 3,000 HYPE, so **103,000 HYPE** came from them in all. These sends have no fixed dates, so none is booked for the next 90 days. No court case or bankruptcy estate holds HYPE, so that row is zero.
 
 ## Buy pressure: where new HYPE goes
 
-The programmatic buyback removed **2.18M HYPE**. Almost every trading fee on Hyperliquid flows to the Assistance Fund, a system wallet with no private key that buys HYPE on the spot market around the clock. Its balance rose from **45.98M** to **48.16M HYPE** between Jul 23 and Oct 21 2026, about 24,000 HYPE a day. The fund can never send coins out, and Hyperliquid validators voted in December 2025 to treat its HYPE as burned. Since Oct 4 2026 the fund also receives most of the interest earned on the dollar reserves behind the exchange: the first payment was **$14.58M**, and more are due every 30 days.
+Hyperliquid sends almost all of its trading fees to the Assistance Fund, a wallet with no private key that buys HYPE on the open market around the clock. Since Oct 4 2026 it also receives the yield earned on the exchange's USDC reserve: the first payment was **14.58M USDC**, and more are due every 30 days. In these 90 days the fund bought **2.21M HYPE** for roughly $172M, and it now holds **48.39M HYPE**. In December 2025, HYPE validators voted to treat everything in this wallet as burned, so its HYPE is out of the market for good. For the next 90 days, with three reserve payments due instead of one, we expect about **2.22M HYPE** at today's price.
 
-The protocol fee burn removed **35.4K HYPE**. Every gas fee on the HyperEVM, Hyperliquid's smart-contract side, is destroyed, tips included. Listing fees paid on the trading chain also burn a little HYPE, but we have only measured that over minutes, so we do not count it yet. A Foundation buy is **0**: the Foundation does not buy HYPE. Treasury companies such as Hyperliquid Strategies, now at about 38.7M HYPE, and the US funds buy coins that already circulate. A new long-term lock is also **0**, because staked HYPE still counts as circulating, including the 500,000-HYPE stakes that builders must post to launch their own markets.
+The second buyer is the gas burn. Gas paid on the HyperEVM, the chain's smart-contract side, is destroyed, and that came to **38,876 HYPE** in 90 days. It is small most days, but on Oct 29 2026, a very busy trading day, it burned about 3,560 HYPE. The Foundation does not buy HYPE. Companies and funds that hold HYPE buy coins that are already circulating, so their buying does not change the count. About 442M HYPE is staked, yet staked HYPE still counts as circulating, so staking removes nothing either.
 
 ## Foundation and overhang
 
-Five wallets hold the HYPE that could still reach the market. The launch reserve holds **410.56M HYPE** and today only pays stakers. The core-contributor wallet holds **238.06M HYPE** and pays out monthly. The Hyper Foundation holds **60.59M HYPE**, almost all of it staked with its own validators. The community grants wallet holds **2.98M HYPE**. The Assistance Fund holds **48.18M HYPE** and has never sent a coin out. Together that is about 760M HYPE outside the float, more than three times the HYPE that circulates.
+Most HYPE is not circulating yet, and four holders control it. The team wallet holds **238.17M HYPE**, all staked; its next payout of 179,706 HYPE was unstaked on Oct 28 2026 for Nov 6 2026. The staking reserve holds **410.33M HYPE** and only pays out as staking rewards. The Hyper Foundation holds **60.62M HYPE**, almost all of it staked, and the grants wallet holds **2.98M HYPE**. The Assistance Fund's 48.39M HYPE is not an overhang: it has never sent HYPE out, and it counts as burned.
 
-If any of these balances starts to fall, those coins join the market and the sell side grows. A large move from the reserve or the team wallet would show up as a dated event on this page before it lands.
+The team wallet is the one to watch. Its staking pay, about 14,000 HYPE a day, roughly matches what it has paid out in a normal month, which is why its balance has barely moved. A month like October, when it sold 3.75M HYPE in one deal, adds far more supply than the buybacks remove in the same month.
 
-## How HYPE compares to other exchange tokens with buybacks
+## How HYPE compares to other trading-focused Layer 1 chains
 
-HYPE belongs to the group of exchange tokens that turn trading fees into buying. Most of that group, like the big centralized-exchange coins, buys or burns on a quarterly schedule set by the company. Hyperliquid's buyback is written into the chain itself: the Assistance Fund buys every few seconds, and nobody can pause it or spend the coins. That makes the buy side of HYPE unusually steady, and it grows or shrinks with trading volume rather than a board decision.
+Most chains built around trading pay their stakers in new coins and leave buying to the market. Hyperliquid is different in two ways. First, nearly all of its trading fees are turned into HYPE buybacks every day, and the bought HYPE never comes back, so busy trading directly takes coins off the market. Second, its staking pay comes from a fixed reserve inside the 1B cap rather than from open-ended new coins, so total HYPE can only go down over time.
 
-The sell side is where HYPE differs. Exchange coins that launched years ago are mostly fully unlocked, so their supply only moves with the burn. HYPE is less than two years old: the team stake started paying out in late 2025 and the reserve still pays stakers, so new coins keep arriving every month. Compared with proof-of-stake chains that print 5% or more a year for stakers, HYPE's staking pay is small. Compared with fixed-supply tokens that have already vested, HYPE still carries a large team stake that can come out faster or slower.
-
-In short, HYPE has one of the strongest built-in buybacks in crypto, but for now the monthly team payouts are larger. The balance can flip if trading volume climbs or if the team keeps its payouts as small as it did in August and September.
+The weak spot is the team allocation. Chains with a fixed monthly unlock let holders plan around it, while Hyperliquid's team decides each month how much to take. That has meant small payouts most months, and then a 3.75M HYPE sale in October that by itself was larger than all the buybacks of those 90 days.
 
 ## What to watch in the next 90 days
 
-**Nov 6 2026, Dec 6 2026 and Jan 6 2027:** the next monthly team payouts. The last three ranged from 433,025 to 3.75M HYPE, so their size moves the next 90-day number more than anything else.
+**Around Nov 3 2026:** the second USDC reserve payment to the Assistance Fund is due, and more follow about every 30 days, around Dec 3 2026 and Jan 2 2027. Each one adds buying on top of trading fees.
 
-**Around Nov 3, Dec 3 2026 and Jan 2 2027:** the next reserve-interest payments to the Assistance Fund. If each matches the first $14.58M, they buy about 181,000 HYPE apiece.
+**Nov 6 2026:** the team payout of 179,706 HYPE, already unstaked. The Dec 6 2026 and Jan 6 2027 payouts have no announced size yet; we booked them at about 433,000 HYPE each, the size of a normal month. Another sale the size of October's would turn the next 90 days from flat to growing.
 
-**Trading volume:** the buyback runs at about 21,000 to 24,000 HYPE a day. A busy month on Hyperliquid lifts it, and a quiet one cuts it.
+**No date yet:** on Oct 29 2026, the owner of the New York Stock Exchange said it is investing in Trade[XYZ], a trading app built on Hyperliquid, to bring round-the-clock futures to US traders once the US regulator approves. More trading on Hyperliquid would mean more fees, and so more buybacks.
 
-**Permissionless prediction markets:** Hyperliquid plans to let anyone launch outcome markets against a 500,000-HYPE stake. That adds fee income for the buyback, but no date has been set.
+**Around Jan 26 2027:** the Oct 28 2026 recount drops out of other trackers' 90-day figure, and their number should come back in line with ours.
 
 ## Summary
 
-Hyperliquid's HYPE grew **+1.46%** in the 90 days to Oct 21 2026 and should grow about **+1.36%** in the next 90 days. Monthly team payouts of **4.62M HYPE** and staking pay of **754K HYPE** outran a fee buyback of **2.18M HYPE** that can never be sold. The key risk is the size of each team payout, which the team decides month by month. The cap is fixed at 1B HYPE, and about 760M HYPE still sits outside the float.
+HYPE supply grew by +1.36% between Aug 1 and Oct 30 2026, driven by 4.62M HYPE of team payouts, including a 3.75M HYPE sale in October.
 
-*MrNasDog Pressure Framework analysis of HYPE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 21 2026.*
+Hyperliquid's Assistance Fund bought back 2.21M HYPE with trading fees in the same 90 days, and that HYPE counts as burned for good.
+
+With smaller team payouts lined up and more USDC reserve income going to buybacks, HYPE supply is on course for about −0.18% in the next 90 days.
+
+The biggest risk to that outlook is another large team payout from the 238.17M HYPE team wallet, whose size the team decides each month.
