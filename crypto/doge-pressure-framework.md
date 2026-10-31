@@ -1,66 +1,67 @@
 ---
 title:         "DOGE Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description: "DOGE supply grows by design: 10,000 new DOGE every block made 1.23B DOGE in 90 days, with no burn, buyback or lock. +0.78% net, about the same next. No cap."
+description:   "Dogecoin pays miners 10,000 new DOGE a block: 1.23B DOGE in 90 days, nothing burned or bought back, supply up +0.78%. No cap, no vesting and no halving."
 canonical_url: "https://mrnasdog.com/research/doge/inflation"
-tags: ["crypto", "doge", "dogecoin", "proof-of-work"]
-published: true
+tags:          ["crypto", "doge", "dogecoin", "proof-of-work"]
+published:     true
 ---
-Originally published at [https://mrnasdog.com/research/doge/inflation](https://mrnasdog.com/research/doge/inflation) by MrNasDog.
+
+Originally published at [https://mrnasdog.com/research/doge/inflation](https://mrnasdog.com/research/doge/inflation)
 
 # DOGE Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
-**Dogecoin (DOGE)** is inflationary by design. Every Dogecoin block pays its miner a flat **10,000 DOGE**, and between Jul 23 and Oct 21 2026 that block reward created **1.23B new DOGE**, while nothing was burned, bought back or locked. Net supply grew **+0.78%** in 90 days and is set to grow about the same in the next 90 days. Dogecoin has no supply cap and no halving, so the new DOGE never stops; it only shrinks as a share of a supply that keeps getting bigger.
+DOGE is inflationary by design: every Dogecoin block pays its miner **10,000** new DOGE, with no halving and no supply cap. In the 90 days from Aug 2 to Oct 31 2026 miners received **1.23B DOGE** while nothing was burned or bought back, so supply grew **+0.78%**, and other trackers read **+0.79%**, the same picture. The next 90 days should look almost exactly the same.
 
 ## The verdict, in one paragraph
 
-Over the 90 days to Oct 21 2026, DOGE supply grew a net **+0.78%** (1.23B new DOGE against **156.41B DOGE** in circulation), and the next 90 days are projected at the same **+0.78%**. Other supply trackers show **+0.79%** for the same 90 days, a difference of just **0.01 points**, so the two readings agree and no warning flag is shown. In a year the Dogecoin block reward adds about **4.98B DOGE**, roughly 3.2% of today's supply. Label: **a fixed-reward proof-of-work coin with steady, uncapped inflation and nothing on the buy side**.
+Dogecoin's net supply change over the last 90 days is **+0.78%**, and the projection for the next 90 days is also **+0.78%**. Other supply trackers show **+0.79%** for the same stretch, a difference of less than a hundredth of a percentage point, so the coin page carries no warning note. Every one of the **1,228,560,000** new DOGE in the window came from the block reward, and not a single coin left supply. The label that fits Dogecoin is simple: a fixed mint with nothing to burn it back, inflationary by design at roughly **3.2%** a year on today's supply.
 
 ## Sell pressure: where new DOGE comes from
 
-**Protocol inflation is the only source of new DOGE: 1.23B DOGE in 90 days.** Dogecoin is a scrypt proof-of-work chain, merge-mined with Litecoin, and every block it has made since block 600,000 in 2015 pays exactly 10,000 DOGE to the miner who finds it. Between Jul 23 and Oct 21 2026 the network produced **122,741 blocks**, one every 63.35 seconds on average instead of the 60-second target, so the window paid out **1,227,410,000 DOGE**, about **13.6M DOGE a day**. Because the reward is paid per block, a slower chain means fewer new coins than the round 1.30B a perfect one-minute pace would give. The software has not changed since Dogecoin Core 1.14.9 shipped in December 2024, so the same reward runs into the next 90 days: another **1.23B DOGE**.
+Protocol inflation is the whole story. Dogecoin pays a flat **10,000 DOGE** to the miner of every block, a rule fixed since 2015. From Aug 2 to Oct 31 2026 miners found **122,856** blocks, which made **1,228,560,000 DOGE**, about **13.65M** a day. The chain aims for one block a minute, but blocks arrived every **63 seconds** on average, so Dogecoin made about 5% fewer coins than the one-a-minute target would suggest. Because the reward is set per block, a faster chain would make more DOGE and a slower one less; the pace has held near 1,365 blocks a day.
 
-**Vesting unlocks are zero.** Dogecoin launched in December 2013 as a fair launch, with no presale, no team allocation and no investor share, so there is no vesting calendar and no unlock cliff. Every DOGE that exists came out of a mined block.
+Vesting unlocks add nothing. Dogecoin launched in December 2013 with no presale, no team share and no investor share, so every DOGE in existence was mined and no locked tranche is waiting.
 
-**Foundation and unscheduled unlocks are zero.** The only Dogecoin wallet with a written payout rule is the developer fund, which holds about **5.0M DOGE** and pays **500K DOGE** to credited contributors each time a new Dogecoin Core version is released. No version has shipped since December 2024 and none has a release date, so no payout is booked for the next 90 days.
+Foundation and unscheduled unlocks add nothing in this window. The Dogecoin Foundation's developer fund, about **5.0M DOGE**, sent nothing out between Aug 2 and Oct 31 2026, and in fact nothing has left it since December 2022. It only pays after a qualifying Dogecoin Core release, and no release is dated.
 
-**Long-term locked or bankruptcy supply is zero.** No bankruptcy estate, court order or long lock holds DOGE waiting to be released. Coins held by companies, funds and exchanges already circulate.
+Long-term locked or bankruptcy coins add nothing either. There is no court estate or locked pile of DOGE waiting to be paid out. When the treasury company CleanCore sold its DOGE stash, reported on Aug 24 2026, it sold coins that were already circulating, which moves them between owners but creates no new DOGE.
 
 ## Buy pressure: where new DOGE goes
 
-**Programmatic buyback: zero.** Dogecoin has no protocol revenue and no contract or treasury that buys DOGE off the market for the network.
+There is no programmatic buyback. Dogecoin has no treasury income and no program that buys DOGE back on the network's behalf.
 
-**Protocol fee burn: zero.** Unlike chains with a base-fee burn, Dogecoin gives every transaction fee to the miner. Users paid about **795.5K DOGE** in fees over the 90 days, and all of it stayed in circulation. The old unspendable burn address took in only **about 10 DOGE** in the window, too small to count.
+There is no protocol fee burn. Transaction fees, about **784,700 DOGE** in the window, go to miners and get spent again, so they never leave supply. Some people do send coins to a well-known dead address that no one can spend from, but between Aug 2 and Oct 31 2026 it received just **0.18 DOGE**, far too little to count.
 
-**Foundation buy: zero.** The Dogecoin Foundation does not run a buying programme. Listed treasury companies and spot DOGE funds buy and sell coins that already circulate, so their trades move DOGE between holders without changing supply. One treasury company sold its whole DOGE pile in August 2026, and one small spot fund stopped trading on Oct 14 2026 and pays its holders in cash around Oct 22 2026; neither changes the count.
+There is no Foundation buy. The Dogecoin Foundation is not buying DOGE back, and spot DOGE funds and companies buy coins that already circulate, so their buying changes who holds DOGE, not how much exists.
 
-**New long-term lock: zero.** Dogecoin has no staking and no lock contract, so no DOGE is taken off the market for a set time.
+There is no new long-term lock. Dogecoin has no staking and no lock-up, so nothing takes DOGE out of circulation that way. A 2025 idea to cut the block reward from 10,000 to 1,000 DOGE was closed a day after it was posted and never turned into code.
 
 ## Foundation and overhang
 
-Dogecoin's team-controlled overhang is small. The developer fund, a shared-signature wallet run by Core developers and the Foundation, holds **about 5.0M DOGE**, unchanged through the window; it pays out only with a qualifying Dogecoin Core release, and we re-read its balance at every rebuild. The Foundation's business arm, now a Nasdaq-listed company, and its new product company Dogecoin Labs, launched on Oct 21 2026, have no locked DOGE: any coins they hold already count as circulating, so a sale from them would not add new supply. If the developer fund's balance falls between checks, that outflow enters the Foundation and unscheduled unlocks row at the next check.
+Dogecoin has one team-controlled pile worth naming. The Dogecoin Foundation's developer fund holds about **5.0M DOGE** in a wallet that needs three of five named keyholders to sign. Its rules allow one kind of payment: **500,000 DOGE** shared among the coders credited in a new Dogecoin Core release that has at least 25 real code changes. The last release, version 1.14.9, came out on Dec 1 2024, and the fund has not paid out since it was set up. If its balance falls between our checks, the outflow enters the Foundation row at the next check.
+
+House of Doge, the Nasdaq-listed company that was the Foundation's business arm, said in its quarterly report that it held no DOGE of its own on Jun 30 2026. Its exclusive deal with the Foundation ended on Oct 19 2026, and a new company, Dogecoin Labs, now runs the MyDoge wallet, the DogeOS app network and the Such App payment tool. Neither holds a published pile of DOGE that could add to supply.
 
 ## How DOGE compares to other proof-of-work chains
 
-**DOGE vs Bitcoin (BTC):** both are proof-of-work coins whose new supply goes to miners, but Bitcoin halves its block reward about every four years and stops at 21M coins. Dogecoin removed its halvings in 2015 and fixed the reward at 10,000 DOGE forever, so it has **no cap**. Bitcoin's inflation keeps stepping down at each halving; Dogecoin's only falls slowly, as the same yearly 4.98B DOGE becomes a smaller share of a growing supply.
+Most proof-of-work coins follow Bitcoin's model: a block reward that halves on a schedule until a hard cap is reached. Bitcoin stops at 21M coins and Litecoin, which shares its mining with Dogecoin, stops at 84M. Their new supply shrinks in steps, and Bitcoin's 90-day growth is now about a quarter of Dogecoin's. Dogecoin chose the opposite path in 2014: it dropped its halvings, fixed the reward at 10,000 DOGE a block, and removed any cap.
 
-**DOGE vs Litecoin (LTC):** Dogecoin is merge-mined with Litecoin, so the same miners secure both chains. Litecoin keeps a halving schedule and an 84M cap; Dogecoin keeps a flat reward and no cap. Neither burns fees, so in both the full block reward reaches the market.
+That fixed reward means Dogecoin's yearly issuance stays near **5B DOGE**, but as a share of supply it slowly falls, because the same number of coins lands on a bigger base each year. Today it is about **3.2%** a year; in ten years it will be closer to 2.4%. Monero takes a similar path with a small permanent tail reward, while Bitcoin and Litecoin will eventually issue nothing and lean on fees alone.
 
-**DOGE vs tail-emission and burn chains:** Monero also pays a fixed reward forever, but its tail is tiny next to its supply. Ethereum pays new coins too, yet burns part of every fee. Dogecoin has neither a small tail nor a burn: it is one of the few large coins whose whole supply story is a single fixed mint with **nothing on the buy side**.
+Unlike fee-burning chains, Dogecoin has nothing that pulls coins back out. Every DOGE ever mined still counts, and the only thing that lowers the inflation rate is time. For a holder, the steady 13.65M new coins a day are the one supply force to weigh: someone has to buy them for the price to hold.
 
 ## What to watch in the next 90 days
 
-**The next Dogecoin Core release.** Developers asked the community to help test the next Core version in September 2026; when it ships, the developer fund pays out 500K DOGE, a small one-off sell-side item.
+The block pace is the first thing to watch. Dogecoin made about 1,365 blocks a day from Aug 2 to Oct 31 2026; if mining power rises and blocks come closer to one a minute, new supply would edge toward 14.4M DOGE a day.
 
-**Talk of a smaller block reward.** Some holders keep pushing to cut the reward from 10,000 to 1,000 DOGE a block. As of Oct 21 2026 there is no code, no release and no activation date; only a shipped change adopted by miners would move this reading.
+The next Dogecoin Core release has no date. Version 1.14.9 shipped on Dec 1 2024; a new release with enough code changes would let the developer fund pay out **500,000 DOGE**, which would enter the Foundation row.
 
-**Block speed.** The chain ran at about 63 seconds a block in this window. A faster pace means more new DOGE, a slower pace less; we re-measure it at every check.
+House of Doge's next quarterly report is due in mid-November 2026 and will show whether it holds DOGE again. By Dec 31 2026 it must drop "Doge" from its company names, and it owes the Foundation $400,000. None of this changes supply, but it changes who builds around the coin.
 
-**Dogecoin Labs and DogeOS.** The new company launched on Oct 21 2026 to build payments and apps, and the DogeOS app platform opened a public test network on Sep 30 2026. Neither mints or burns DOGE on the main chain, so neither changes the supply count unless a burn or lock is added.
+Spot DOGE funds are the last watch line. Bitwise's fund stopped trading on Oct 14 2026, and the remaining US funds are small; their buying would move coins already in circulation, not the supply count.
 
 ## Summary
 
-Dogecoin (DOGE) grows its supply by about **+0.78% every 90 days**, entirely from a flat 10,000 DOGE block reward that paid miners **1.23B DOGE** between Jul 23 and Oct 21 2026. Nothing works against it: no fee burn, no buyback, no staking lock and no vesting. The main risk for holders is that this steady mint, about **4.98B DOGE a year**, must be bought by new demand just to keep the price still. There is no cap; only a software change adopted by miners could slow it, and none is scheduled.
+Dogecoin's supply grew **+0.78%** in the 90 days to Oct 31 2026 and is projected to grow about the same in the next 90 days. All of it, **1.23B DOGE**, came from the fixed reward of 10,000 DOGE per block, and nothing was burned, bought back or locked away. The key risk is steady: Dogecoin has no cap, so about 13.65M new DOGE reach miners every day and must be absorbed by buyers. The only limit on that flow is the block pace, and over time the yearly rate slowly drifts lower as supply grows.
 
----
-
-*MrNasDog Pressure Framework analysis of DOGE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 21 2026.*
+*MrNasDog Pressure Framework analysis of DOGE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 31 2026.*
