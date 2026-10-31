@@ -1,6 +1,6 @@
 ---
 title:         "ADA Inflation Analysis · October 2026 · Supply was growing · trend cooling"
-description:   "ADA supply grew +0.71% in 90 days: 111.04M ADA of staking rewards plus 154.66M in voted treasury payouts, no fee burn. About +0.29% next as the spending cap nears."
+description:   "ADA supply grew +0.62% in 90 days: 110.94M ADA of staking pay plus 121.79M ADA from two treasury votes, and no fee burn. About +0.30% next, under a 45B cap."
 canonical_url: "https://mrnasdog.com/research/ada/inflation"
 tags:          ["crypto", "ada", "cardano", "layer1"]
 published:     true
@@ -12,64 +12,57 @@ Looking for the buy-or-sell answer? It is on the ADA coin page, with demand and 
 
 # ADA Inflation Analysis · October 2026 · Supply was growing · trend cooling
 
-Cardano (ADA) supply grew **+0.71%** in the 90 days from Jul 23 to Oct 21 2026, and we expect only about **+0.29%** over the next 90 days. Stakers received **111.04M ADA** of rewards from the protocol reserve, and DRep votes released **154.66M ADA** from the on-chain treasury, while gifts sent **532,984 ADA** back to it. ADA has a hard cap of 45B and burns nothing; the treasury spending cap now has only about **42.6M ADA** left until July 2027, which is why the next 90 days look much quieter.
+Cardano's supply grew **+0.62%** in the 90 days to Oct 31 2026, and the next 90 days look closer to **+0.30%**. Stakers earned **110.94M ADA** from the protocol reserve and two voted treasury payouts released **121.79M ADA**, while nothing was burned and only **532,971 ADA** was gifted back to the treasury. ADA has a fixed cap of **45B**, no vesting and no buyback, and other trackers show **+0.59%** for the same 90 days.
 
 ## The verdict, in one paragraph
 
-Over the last 90 days the circulating ADA supply rose by **265.17M ADA**, a net **+0.71%** of the **37.57B ADA** now in circulation. Market-data trackers read **+0.75%** for the same 90 days, a gap of just **0.04** percentage points, so the two readings agree and no warning flag is shown. More than half of the growth came from one source: treasury spending voted by Cardano's DReps, led by the **120M ADA** Cardano PRIME DeFi program paid on Aug 17 2026. With the spending cap almost used up and nothing new likely to pass, the next 90 days fall back to staking rewards alone, about **107.88M ADA** or **+0.29%**. Cardano is a capped chain whose supply grows from a shrinking reserve plus voted treasury payouts.
+Over the 90 days to Oct 31 2026, ADA in circulation rose by a net **+0.62%**, from about 37.34B to 37.57B ADA. Other trackers report **+0.59%** for the same stretch, a gap of only **0.03 percentage points**, so the coin page carries no warning note. More than half of the growth came from one vote: the 120M ADA Cardano PRIME payout of Aug 17 2026. With the treasury's spending cap nearly used up and no payout close to passing, the next 90 days should add only the staking pay, about **+0.30%**. In one line, ADA is a capped proof-of-stake coin whose supply growth is slowing, with treasury votes as the swing factor.
 
 ## Sell pressure: where new ADA comes from
 
-**Protocol inflation (111.04M ADA).** Cardano's 45B ADA cap was set at launch, and about 6.05B ADA still sits in the protocol reserve. Every five-day epoch the reserve releases 0.3% of what it holds, adds the fees users paid, and sends 20% of that pot to the treasury. The rest pays stake pools and delegators. Between Jul 23 and Oct 21 2026 this put **111.04M ADA** of new rewards into circulation, about 6.2M ADA per epoch. Because each release is a fixed share of a smaller reserve, the reward stream shrinks a little every epoch: we expect about **107.88M ADA** over the next 90 days.
+Protocol inflation is the steady source of new ADA. Every five-day epoch, Cardano moves a small slice of its reserve into a reward pot, sends a fifth of that pot to the on-chain treasury and pays the rest to people who stake. Over the 18 epochs in the window, stakers received **110.94M ADA** after the fees users paid into the pot, about **1.23M ADA** a day. The reserve still holds **6.04B ADA**, and because the slice is a share of what is left, the pay drifts down a little every epoch.
 
-**Vesting unlocks (0).** ADA has no vesting schedule. The coins from the 2015–2017 sale and the founding allocations were handed out when Cardano launched in 2017, so there is no team or investor unlock calendar to track.
+Vesting unlocks are **zero**. ADA was sold in 2015–2017 and the founding groups' coins were handed out at the 2017 launch, so no locked tranche is waiting to open.
 
-**Foundation and unscheduled unlocks (154.66M ADA).** The Cardano treasury is an on-chain pot that sits outside the circulating supply. ADA only leaves it when holders' representatives, the DReps, and the Constitutional Committee approve a treasury withdrawal. In this window three batches were enacted: five withdrawals worth **32.88M ADA** on Jul 28 2026, led by 25.4M ADA for Intersect's governance and technical budget; **1.79M ADA** for Daedalus wallet maintenance on Aug 2 2026; and **120M ADA** for Cardano PRIME on Aug 17 2026. Together that is **154.66M ADA**. For the next 90 days we count none: the three open requests (22M, 9.6M and 0.94M ADA) have almost no DRep support, and the spending cap leaves only about 42.6M ADA anyway.
+Foundation and unscheduled releases came from the Cardano treasury, which pays out only when holders vote yes. Two payouts went through in the window, **121.79M ADA** in total: **1.79M ADA** for the Daedalus wallet on Aug 2 2026 and **120M ADA** for the Cardano PRIME DeFi program on Aug 17 2026. No payout has gone through since, so the next 90 days book zero here.
 
-**Long-term locked or bankruptcy (0).** No bankruptcy estate, court case or government holder is waiting to release a large pile of ADA.
+Long-term locked or bankruptcy supply is **zero**. No court estate, hack recovery or frozen pile of ADA is waiting to be paid out.
 
 ## Buy pressure: where new ADA goes
 
-**Programmatic buyback (0).** No contract and no treasury buys ADA back on the market. Cardano's treasury moves the other way: when it spends, ADA enters circulation.
+Cardano has no programmatic buyback, so that row is **zero**. It also has no fee burn: the roughly **998K ADA** of fees paid in the last 90 days went into the reward pot and back out to stakers, so the burn row is **zero** too. The Cardano Foundation does not buy ADA back; it cut its holding during 2025, so the Foundation-buy row is **zero**.
 
-**Protocol fee burn (0).** Cardano burns nothing. Transaction fees go into the epoch's reward pot, where most come back to stakers and 20% goes to the treasury. Users paid about **986K ADA** in fees over the 90 days, including a record of about 338K ADA in the epoch that began Oct 6 2026, so even busy days remove very little from circulation.
+Staking is not a lock. About **21.5B ADA** is staked, but staked ADA never leaves the owner's wallet and can be spent at any moment, so the new-lock row is **zero**.
 
-**Foundation buy (0).** The Cardano Foundation reported **561.4M ADA** at the end of 2025, down from 599.1M ADA a year earlier, so it has been a seller, not a buyer. Funds and companies that buy ADA buy coins that already circulate.
-
-**New long-term lock (0).** Staking on Cardano is liquid: delegated ADA never leaves the owner's wallet and can be spent at any time. About 21.5B ADA is staked, and all of it still counts as circulating.
-
-**Gifts to the treasury (532,984 ADA).** Since the Conway era anyone can donate ADA to the treasury inside a normal transaction. In these 90 days holders sent **532,984 ADA** this way, mostly in two gifts in August 2026 (about 70K and 347K ADA) and two in October 2026 (55K and 60K ADA). Gifts are rare and unplanned, so we count none for the next 90 days.
+The one real outflow is gifts to the treasury, since anyone can send ADA back into it. In the window **532,971 ADA** came back, including **115,172 ADA** of unspent 2025 budget that Intersect returned on Oct 20 and Oct 21 2026, the first time it has swept funds back. No further gifts are scheduled, so the next 90 days book zero.
 
 ## Foundation and overhang
 
-Only two piles of ADA sit outside the circulating supply. The protocol reserve, about **6.05B ADA**, pays out mechanically through staking rewards and is already counted in the protocol inflation line. The on-chain treasury holds about **1.39B ADA** and can release coins only through enacted governance votes. Its Net Change Limit, agreed by DReps in July 2026, caps withdrawals at **500M ADA** from Feb 13 2026 to about Jul 3 2027; about **457.4M ADA** of that is used, leaving roughly **42.6M ADA**. We read both piles on-chain at every rebuild.
+The biggest overhang is the Cardano treasury itself, with **1.39B ADA** on Oct 31 2026. It sits outside circulation, and it grows by about 3.6M ADA every epoch from its share of the reward pot. Holders capped treasury spending at **500M ADA** for the stretch that ends around Jul 3 2027, and **457.4M ADA** of that is already spent, leaving **42.6M ADA**. If the treasury's balance falls by more than its own income between checks, the payout enters the Foundation and unscheduled row at the next check.
 
-Other large holders already count as circulating, so their moves add nothing new. Intersect's vendor contracts, which hold the funded 2026 budget and pay projects by milestone, held about **201.67M ADA** plus stablecoins in early October 2026; the PRIME program's 120M ADA is administered the same way; and the Cardano Foundation held 561.4M ADA at the end of 2025. Unused money from these programs can be sent back to the treasury, which would take it out of circulation again.
-
-If the treasury's balance falls between our checks because a new withdrawal is enacted, that outflow enters the Foundation and unscheduled unlocks line at the next refresh.
+Two other groups hold large amounts that already circulate. The Cardano Foundation reported **561.4M ADA** at the end of 2025, down from 599.1M a year earlier. Intersect, which administers the treasury budget, had moved about **201.67M ADA** through its 2026 budget contract by Oct 9 2026, part of it swapped into dollar stablecoins. Sales or payouts from either group move coins that are already counted, so they add no new supply; only money sent back to the treasury changes the count.
 
 ## How ADA compares to other proof-of-stake Layer 1 chains
 
-Cardano sits between Bitcoin and most proof-of-stake chains. Like Bitcoin, ADA has a hard cap, 45B ADA, and new coins come from a pool that was fixed at the start. But Bitcoin cuts its new supply in steps at each halving, while Cardano releases a fixed 0.3% of the remaining reserve every five days, so the ADA reward stream fades smoothly instead of in jumps. Today the reserve adds about 0.29% of circulating supply per 90 days, and that share keeps falling.
+ADA borrows its hard cap from Bitcoin but not its halvings. Bitcoin cuts miner pay in half every four years toward 21M coins; Cardano instead pays out a fixed share of whatever is left in its reserve each epoch, so new supply shrinks smoothly toward the 45B cap rather than in steps. Ethereum takes the opposite path: ETH has no cap, pays validators in new coins and burns part of every fee, so its supply can shrink when the chain is busy. Cardano burns nothing, which means busy weeks never slow ADA's growth.
 
-Compared with Ethereum, the difference is the burn. Ethereum has no cap and pays validators new ETH, but it destroys part of every fee, so heavy use can offset new supply. Cardano has a cap but no burn at all: fees are recycled into rewards and the treasury, so network activity never takes ADA out of circulation. Solana also pays stakers new coins on a schedule that steps down each year, and it burns part of its fees; ADA's schedule is lower in percentage terms but has no such offset.
-
-What makes Cardano unusual is its on-chain treasury. Few Layer 1 chains let holders vote coins out of a protocol treasury directly, and on Cardano those votes can move supply more than staking does, as they did in this window. The spending cap is the main brake, so ADA's supply growth depends on governance as much as on code.
+Solana and Cardano both run a falling inflation curve, but Solana's rate steps down by a set share each year toward a long-run floor and never stops, while Cardano's new supply runs out with the reserve. The feature that sets Cardano apart is its on-chain treasury: holders vote coins out of it directly, so a single ballot, like the 120M ADA PRIME payout, can move the 90-day figure more than months of staking pay.
 
 ## What to watch in the next 90 days
 
-**Nov 16 2026:** the 22M ADA request for a Cardano copper reserve expires unless DReps back it; it had about 0.24% DRep support at our check.
+The 22M ADA request for a copper reserve expires on Nov 15 2026; it had well under 1% of the needed yes vote on Oct 31 2026, and passing would add 22M ADA to the release row.
 
-**Nov 21 2026:** two smaller treasury requests, 9.6M ADA and 0.94M ADA, reach the end of their voting time.
+A 9.6M ADA request for a police evidence system and a 0.94M ADA request called AURORA both expire on Nov 20 2026, at about 21% and 3% yes against a 67% bar.
 
-**A new spending cap:** any new Net Change Limit vote before July 2027 would reopen treasury spending beyond the 42.6M ADA left today, and would be the biggest change to the next-90-day reading.
+Any new treasury request filed before Jan 24 2027 can draw at most the 42.6M ADA left under the spending cap, unless holders vote to raise the cap again.
 
-**The Dijkstra hard fork:** testing continues with no mainnet date. None of the published changes alters the reserve release or the 20% treasury share, but any proposal to change those two settings would move the protocol inflation line.
+The next planned upgrade, called Dijkstra, still had no mainnet date on Oct 24 2026; nothing announced for it changes staking pay.
 
 ## Summary
 
-Cardano's ADA supply grew **+0.71%** in the 90 days to Oct 21 2026, from **111.04M ADA** of staking rewards and **154.66M ADA** of governance-approved treasury spending, with no burn and no buyback to offset them. The next 90 days should be calmer, about **+0.29%**, because the reserve release keeps shrinking and only about 42.6M ADA of treasury spending is still allowed before July 2027. The key risk is governance: a new spending cap or a large approved request would add supply quickly. The ceiling is fixed at 45B ADA, of which about 37.57B circulates today.
+Cardano's ADA supply grew **+0.62%** over the 90 days to Oct 31 2026, and the next 90 days should add about **+0.30%**. Stakers earned **110.94M ADA** from the shrinking reserve, two treasury votes released **121.79M ADA**, and only **532,971 ADA** went back to the treasury, because Cardano has no burn and no buyback. The key risk is a large treasury vote, though only 42.6M ADA of room is left under the spending cap until about Jul 3 2027. Above it all sits a fixed **45B ADA** cap, with about 37.57B already circulating.
+
 
 ---
 
-*MrNasDog Pressure Framework analysis of ADA, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 21 2026.*
+*MrNasDog Pressure Framework analysis of ADA, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 31 2026.*
