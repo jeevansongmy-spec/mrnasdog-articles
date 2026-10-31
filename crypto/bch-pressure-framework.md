@@ -1,6 +1,6 @@
 ---
 title:         "BCH Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description:   "BCH supply is roughly steady: 40.65K new BCH to miners in 90 days, no burn, no buyback, +0.20% net and the same next. 3.125 BCH a block, 21M cap."
+description:   "Bitcoin Cash supply is roughly steady: 40,725 new BCH paid to miners in 90 days, nothing burned, +0.20% net. No vesting, no foundation, a 21M hard cap."
 canonical_url: "https://mrnasdog.com/research/bch/inflation"
 tags:          ["crypto", "bch", "bitcoincash", "proofofwork"]
 published:     true
@@ -12,50 +12,58 @@ published:     true
 
 # BCH Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
-Bitcoin Cash supply rises a little every ten minutes and nothing pulls it back down. From Jul 24 to Oct 22 2026, BCH miners collected **40,653 BCH** of newly created coins, while burns, buybacks and locks took out **0 BCH**, so net BCH supply grew **+0.20%**, and the MrNasDog Pressure Framework expects the same **+0.20%** over the next 90 days. About **20.11M** of the **21M** BCH cap is already mined, so the Bitcoin Cash halving schedule, not a team, a fund or a vote, sets how much new BCH arrives.
+Bitcoin Cash supply is roughly steady: BCH grew by **+0.20%** in the 90 days to Oct 31 2026, and the same pace is expected for the next 90 days. The only source of new BCH is the proof-of-work block reward of **3.125 BCH**, which paid miners **40,725 BCH** in the window, while **0 BCH** was burned or bought back. The hard cap is 21 million BCH, and other trackers show **+0.21%**, the same reading.
 
 ## The verdict, in one paragraph
 
-We put BCH at **+0.20%** net over the last 90 days and **+0.20%** for the next 90. The independent inflation monitor shows **+0.23%** over the same 90 days, a difference of only **0.02 percentage points**, so the readings agree and the BCH coin page shows no ⚠ monitor gap note. All new Bitcoin Cash came from mined blocks, and not one coin left the market for good: Bitcoin Cash has no fee burn, no buyback and no staking. The label that fits BCH is **steady mined issuance on a capped chain, with nothing on the buy side**.
+Bitcoin Cash added a net **+0.20%** to its supply over the 90 days from Aug 2 to Oct 31 2026, and other trackers put the same window at **+0.21%**. The gap is only **0.01 points**, so the coin page carries no warning note. Every new BCH came from mining, nothing left supply, and no team, fund or estate added coins that were not already counted. BCH sits at **20.11M** coins today, about **95.8%** of its 21 million cap. The label that fits: **a quiet, fixed-schedule proof-of-work chain**, with inflation that only falls from here.
 
 ## Sell pressure: where new BCH comes from
 
-Protocol inflation is the only source of new Bitcoin Cash. Each block pays the miner who finds it a subsidy of **3.125 BCH**, the level set when Bitcoin Cash halved at block 840,000 in April 2024. Between Jul 24 2026 and Oct 22 2026 the network produced **13,009 blocks**, from block 960,934 to block 973,942, which works out to about **145 blocks a day** against a design pace of 144. That pace created **40,653 BCH**, about **452 BCH a day**. The three 30-day stretches held 4,351, 4,270 and 4,388 blocks, so the pace was even, though single days ranged from 116 to 220 blocks as mining power moved on and off the chain. Bitcoin Cash retargets its difficulty after every block toward a fixed ten-minute clock, so a fast or slow day is corrected over the following days instead of building up. The supply count read on-chain at both ends of the window grew by the same 40,653 BCH, to within a hundredth of a coin.
+The block reward is the whole story on the sell side. Every block on Bitcoin Cash pays its miner a **3.125 BCH** reward in brand-new coins, a level set by the April 2024 halving. From Aug 2 to Oct 31 2026 miners found **13,032 blocks**, slightly more than the 12,960 a strict ten-minute pace would give, so the network created **40,725 BCH**, about 452 BCH a day. Miners are the natural sellers of this BCH, because they pay power bills in cash. The next 90 days should look the same: the next halving, which cuts the reward to 1.5625 BCH, is due around April 2028.
 
-Vesting unlocks are **0**. Bitcoin Cash began on Aug 1 2017 as a split from Bitcoin that copied every existing balance, so there was no presale, no founder share and no investor tranche, and no unlock calendar exists. Foundation and unscheduled unlocks are **0** too: no foundation, DAO or development fund holds a BCH reserve, and no part of the block reward is sent to one. Long-term locked or bankruptcy supply books **0**. The Mt. Gox estate set aside about **143K BCH** for its creditors and has already paid most of them, and on Oct 16 2026 its trustee pushed the final repayment deadline from Oct 31 2026 to **Oct 31 2027**. Every one of those coins was mined years ago and already counts as circulating, so a Mt. Gox payout hands existing BCH to new owners without adding any new Bitcoin Cash.
+Vesting unlocks are **0**. Bitcoin Cash was born on Aug 1 2017 as a split from Bitcoin that copied every holder's balance, so there was no token sale, no investor allocation and no team share that could unlock later.
+
+Foundation and unscheduled unlocks are **0**. Bitcoin Cash has no foundation, no treasury and no development fund that takes a cut of each block. Developers are paid by voluntary donations in BCH that already circulates.
+
+Long-term locked or bankruptcy coins add **0**. The Mt. Gox estate still owes BCH to some creditors, and on Oct 19 2026 news reports said its repayment deadline had moved again, from Oct 31 2026 to Oct 31 2027. The estate has not published how much BCH it still holds. Those coins are already counted as circulating, so a payout would move BCH between holders without adding new supply.
 
 ## Buy pressure: where new BCH goes
 
-Nothing on the Bitcoin Cash buy side moved. Programmatic buyback is **0**: Bitcoin Cash has no protocol treasury and no company that earns revenue and buys BCH back. Protocol fee burn is **0**: every transaction fee is paid to the miner, and none is destroyed. The best-known burn address on Bitcoin Cash has collected about **65.4 BCH** over its whole life, and it received nothing in these 90 days, so voluntary burns do not register either.
+The buy side of Bitcoin Cash is empty by design. A programmatic buyback is **0**: nothing buys BCH on the network's behalf, because there is no company or treasury behind the chain.
 
-Foundation buy is **0**, because there is no foundation to buy. The biggest single holder that reports its balance is a listed BCH fund that held **382.6K BCH** on Jun 30 2026 and filed on Sep 11 2026 to turn itself into an exchange-traded fund. Its coins were bought from the market and still count as circulating, so when it buys or sells, BCH changes hands without leaving the float. New long-term lock is **0**: Bitcoin Cash is secured by mining, not staking, so no BCH is locked to earn rewards.
+The protocol fee burn is also **0**. Bitcoin Cash keeps the original Bitcoin rule that every fee goes to the miner, and users paid only about 23.9 BCH in fees across the whole window. The best-known burn address received nothing between Aug 2 and Oct 31 2026, and total supply rose by exactly the block rewards, which confirms that no BCH was destroyed.
+
+A foundation buy is **0**, because there is no foundation. Large holders do exist, but they buy BCH that already circulates. mF International, a listed company that made BCH its treasury asset, said it held **678,922 BCH** on Oct 15 2026, about 3.4% of supply, and it also mines some of the new coins. The Grayscale Bitcoin Cash Trust held close to 385,000 BCH in its March 2026 report. Neither removes coins from the count.
+
+A new long-term lock is **0**. Bitcoin Cash is secured by mining, not staking, so no BCH has to be locked to run the network.
 
 ## Foundation and overhang
 
-Bitcoin Cash has no team-controlled overhang. There is no foundation treasury, no DAO wallet, no buyback wallet and no reserve waiting for a release date, and circulating supply sits only one block reward below total supply. The one pile we keep an eye on is the Mt. Gox estate's remaining BCH. The trustee does not publish a BCH address, so we follow it through the trustee's own notices; the next fixed date is the Oct 31 2027 deadline. If that estate's BCH ever showed a balance that sat outside circulating supply and then fell between our checks, the outflow would enter Sell #3 at the next check. Today it books zero, because those coins already count as circulating.
+Bitcoin Cash has no team-controlled overhang: no foundation wallet, no investor tranche, no development fund and no DAO treasury. The one large pile with a known future payout is the Mt. Gox rehabilitation estate, whose BCH balance is not published and whose deadline is now Oct 31 2027. Other big balances, such as mF International's treasury, the Grayscale trust and exchange wallets, belong to third parties and are part of the market already. We re-check these holders at every rebuild. If the Mt. Gox estate starts paying out BCH between rebuilds, the payout shows up in the Foundation and unscheduled unlocks row at the next one, though those coins still add nothing to the circulating count.
 
-Large funds, exchanges and the dormant coins inherited from Bitcoin's early years are not team-controlled. They belong to depositors, shareholders or long-lost keys, they sit inside circulating supply, and none of them can mint new BCH. Only mining can, at **3.125 BCH** a block.
+## How BCH compares to other proof-of-work chains
 
-## How BCH compares to other proof-of-work coins
+Bitcoin Cash shares its supply rules with Bitcoin: the same 21 million cap, the same 210,000-block halving cycle and the same 3.125 coin reward since April 2024. That means BCH and BTC run at almost the same yearly inflation, a little under 1%, and both have a halving due in spring 2028. Neither has a burn, so their supply only grows, and more slowly after each halving. The difference is in how much fee money miners get: Bitcoin Cash blocks carry tiny fees, so BCH miners rely almost fully on the new coins.
 
-Bitcoin Cash carries Bitcoin's supply rules unchanged: the same **21M** cap, the same 3.125-coin subsidy and the same halving every 210,000 blocks. Because the two chains share their history up to 2017, Bitcoin Cash halves at nearly the same time as Bitcoin, and its net issuance of about **0.20%** per 90 days sits right next to Bitcoin's. The real difference is the clock. Bitcoin adjusts difficulty once every 2,016 blocks, so a rise in mining power can run it fast for weeks, while Bitcoin Cash adjusts after every block and holds closer to ten minutes. Over a 90-day window that keeps BCH issuance very close to its schedule.
+Against other proof-of-work coins the gap is in the long run. Litecoin also halves its reward, but its cap is 84 million coins and its blocks come every 2.5 minutes. Monero ended its halvings and now pays a small fixed reward forever, so its supply never stops growing. Dogecoin pays a fixed 10,000 coins a block with no cap. Bitcoin Cash, like Bitcoin, has a hard end point where new supply reaches zero.
 
-Other mined coins choose different paths. Litecoin uses the same halving model on a 2.5-minute clock and an 84M cap, so its rate falls in steps like BCH's. Dogecoin pays a flat reward forever with no cap, so it never runs out of new coins. Monero finished its main emission and now pays a small permanent tail reward to keep miners paid. Bitcoin Cash has neither a tail reward nor a burn: once the last halving passes, new BCH stops completely.
-
-Against proof-of-stake chains, Bitcoin Cash is simpler to read. There is no staking yield to model, no validator queue, no fee burn that rises and falls with traffic and no treasury that can vote to spend. BCH supply is a function of block height alone.
+Against proof-of-stake chains such as Ethereum, Bitcoin Cash has nothing to offset new coins: there is no fee burn and no stake that locks supply away. What it has instead is a published schedule that nobody can change without the whole network agreeing to a new rule.
 
 ## What to watch in the next 90 days
 
-Block pace. A sudden swing in mining power can bunch or stretch blocks for a few days; we check whether the 90-day count stays near the expected 12,960 blocks.
+First, the Grayscale Bitcoin Cash Trust: Grayscale amended its filing on Sep 11 2026 to turn the trust into a spot ETF, and the approval date is still open. An ETF changes who buys BCH, not how much BCH exists.
 
-Nov 15 2026, the usual date when node teams fix what goes into the next May upgrade. A proposal for faster blocks is still being argued and has no lock-in; if it moves forward, we will check whether it keeps today's pace of about 450 new BCH a day.
+Second, the 2027 upgrade debate on the Bitcoin Cash research forum, where the Faster Blocks proposal was still gathering statements of support on Oct 30 2026. Shorter blocks would shrink the reward per block, but the plan keeps the number of new BCH per day the same.
 
-The listed BCH fund's request to become an exchange-traded fund, filed Sep 11 2026, has no decision date yet. Approval would change who buys BCH, not how many BCH exist.
+Third, mF International's treasury updates. The company reports its BCH balance and how much it mined; a sale from its 678,922 BCH would be a move between holders, not new supply.
 
-The Mt. Gox estate's remaining BCH payouts now run to Oct 31 2027. Any payout moves coins that already count as circulating and adds no new supply. The next Bitcoin Cash halving, to 1.5625 BCH a block, is expected around April 2028, outside this window.
+Fourth, the Mt. Gox estate. Its deadline is Oct 31 2027, so any BCH payout before then is possible but not scheduled for the next 90 days.
+
+Fifth, CME Group's Bitcoin Cash futures, which started trading on Oct 19 2026 in 250 BCH and 25 BCH sizes. Futures move no coins and do not change supply.
 
 ## Summary
 
-Bitcoin Cash is mildly inflationary at **+0.20%** per 90 days, with **40,653 BCH** of new coins paid to miners and **0 BCH** burned, bought back or locked. BCH supply comes only from the block subsidy of 3.125 BCH, and with no foundation, no vesting and no team reserve, there is no unlock risk to price in. The main thing to watch is the block pace and any upgrade that touches the reward, and the hard ceiling is the **21M** BCH cap, of which about **20.11M** is already mined.
+Bitcoin Cash supply grew **+0.20%** in the 90 days to Oct 31 2026, and the same pace is expected for the next 90 days. All **40,725 BCH** of new supply came from the 3.125 BCH block reward paid to miners, while nothing was burned and nothing was bought back. Bitcoin Cash has no vesting, no foundation and no team stash; the main risk to watch is miners selling the new coins they earn. With about 95.8% of the 21 million cap already mined and the next halving due around April 2028, BCH inflation can only fall from here.
 
-*MrNasDog Pressure Framework analysis of BCH, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 22 2026.*
+*MrNasDog Pressure Framework analysis of BCH, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 31 2026.*
