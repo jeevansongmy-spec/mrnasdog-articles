@@ -1,70 +1,66 @@
 ---
-title: "UNI Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description: "UNI supply is roughly steady: the fee switch burned 5.47M UNI against a 5M UNI treasury payout, −0.09% over 90 days and about +0.04% next. Never minted."
+title: "UNI Inflation Analysis · November 2026 · Mixed flows · supply roughly steady"
+description: "UNI supply is roughly steady: trading fees destroyed 5.71M UNI against a 5M UNI treasury payout, −0.11% over 90 days and about +0.01% next. None minted."
 canonical_url: "https://mrnasdog.com/research/uni/inflation"
 tags: ["crypto", "uni", "uniswap", "defi"]
 published: true
 ---
 Originally published at [https://mrnasdog.com/research/uni/inflation](https://mrnasdog.com/research/uni/inflation) by MrNasDog.
 
-# UNI Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+# UNI Inflation Analysis · November 2026 · Mixed flows · supply roughly steady
 
-**UNI** supply was roughly steady over the 90 days from Jul 24 to Oct 22 2026, with a slight shrink of **−0.09%**. The Uniswap treasury paid out **5.00M UNI** in its quarterly growth budget, while the Uniswap fee switch destroyed **5.47M UNI** and a governance-linked wallet returned **113,138 UNI** to the treasury. For the next 90 days we expect about **+0.04%**: one more 5M UNI payment on Jan 1 2027 against a burn of about **4.74M UNI** at today's price. UNI can never pass its 1B cap, and no new UNI has ever been minted.
+**UNI supply is roughly steady, and slightly shrinking.** Between Aug 3 and Nov 1 2026 the Uniswap treasury paid out **5M UNI** to Uniswap Labs, while trading fees bought and destroyed **5.71M UNI**. Net, the circulating supply fell about **0.11%**, and other trackers show **−0.09%**. No UNI was minted, though governance keeps a right to mint up to 2% a year.
 
 ## The verdict, in one paragraph
 
-Over the last 90 days the circulating UNI supply moved by **−0.09%**, from about 625.23M to **624.59M UNI**. Outside trackers read **−0.15%** for the same period, a gap of only **0.05 points**, so no data-conflict warning is shown on the UNI page. The next 90 days project to **+0.04%**, which is flat for practical purposes. The cite-able label for Uniswap today is simple: **a fee-burn token whose burn now cancels almost all of its treasury spending**.
+Over the 90 days to Nov 1 2026, UNI's circulating supply changed by **−0.11%**: about 714,000 more UNI were destroyed than were paid out. Other trackers show **−0.09%** for the same stretch, a difference of only **0.02 points**, so the two readings agree and the coin page carries no warning note. For the next 90 days the picture is close to flat, at about **+0.01%**, because the burn is slowing while the next 5M UNI payment is already set for Jan 1 2027. The label that fits is **a fee-funded burn roughly cancelling a fixed treasury payout**.
 
 ## Sell pressure: where new UNI comes from
 
-**Protocol inflation is zero.** The UNI token contract still holds exactly **1,000,000,000 UNI**, the same number it launched with in September 2020. Uniswap governance does keep a right to mint up to **2% a year**, about 20M UNI, and that right has been open since Jan 1 2024. It has never been used, and no Uniswap governance vote proposes to use it. We read it on-chain at every rebuild because it is the one way the UNI supply could grow past today's numbers.
+**Protocol inflation was zero.** The UNI token's total supply sat at exactly **1B** at both ends of the window. The token does have a mint function, and the governance treasury holds the right to use it for up to 2% of supply a year, but no proposal has ever asked to mint, and none of the proposals made in the window touched it.
 
-**Vesting unlocks: 5.00M UNI.** Under the UNIfication plan that passed in December 2025, Uniswap Labs receives a growth budget of **20M UNI a year**, paid as **5M UNI each calendar quarter** by an on-chain vesting contract that draws from the Uniswap treasury. Payments so far landed on Jan 5, Apr 10, Jul 14 and Oct 1 2026. Only the Oct 1 2026 payment falls inside this window. The treasury is the one pile of UNI not counted as circulating, so every growth payment is real new supply on the market. The original team and investor vesting from 2020 finished long ago.
+**Vesting added 5M UNI.** Since Jan 1 2026 the treasury has paid Uniswap Labs a growth budget of 5M UNI each calendar quarter, through a vesting contract that releases one slice per quarter. The Oct 1 2026 slice was the only one inside the window. The treasury has approved 20M UNI more for the contract, enough for four further quarters, and the next slice unlocks on **Jan 1 2027**.
 
-**Foundation and unscheduled unlocks: zero.** The Uniswap Foundation, Uniswap Labs and the original airdrop contract all hold UNI that already counts as circulating, so when they spend, sell or pay it out, no new UNI reaches the count. Labs passed its growth payments on within days, and its receiving wallet held almost nothing at the end of the window.
+**Foundation and unscheduled unlocks were zero.** Nothing else left the treasury in the window. Uniswap Labs moved the coins it had received into four new wallets on Oct 6 2026, but those coins already counted as circulating once they reached Labs, so moving them again adds nothing.
 
-**Long-term locked or bankruptcy: zero.** No bankruptcy estate, court case or long lockup holds UNI that could be released.
+**Long-term locked or bankruptcy supply was zero.** UNI has no court estate or locked pile waiting to be paid out. The one large movement of old coins was the 2020 airdrop: about **12.1M UNI** were claimed in the second half of October 2026, mostly in small claims of 400 UNI each. Those coins were always counted as circulating, so the claims do not change the count, but they are now sitting in wallets that can sell.
 
 ## Buy pressure: where new UNI goes
 
-**Programmatic buyback: 5.47M UNI burned.** Since the UNIfication vote, the Uniswap fee switch sends a share of trading fees from Uniswap pools on more than a dozen chains into on-chain fee jars. Anyone can take what is in a jar, but only by destroying a fixed lot of **2,000 or 4,000 UNI**. Lots burned on other chains are bridged home and destroyed on Ethereum. Between Jul 24 and Oct 22 2026 that removed **5,474,001 UNI**, worth about **$32.4M** when burned. The pace jumped after Uniswap v4 fees and Robinhood Chain fees were switched on on Jul 27 2026, peaked in early September, and has slowed since.
+**The programmatic buyback destroyed 5.71M UNI.** Since the fee switch went live in late 2025, a share of Uniswap trading fees collects in a jar on each chain. Anyone can empty a jar, but only by paying a fixed amount of UNI, and that UNI is sent to a dead address where it can never move again. From Aug 3 to Nov 1 2026 this destroyed **5,714,001 UNI**, worth about **$35M** when it was burned. The pace slowed through October: **1.20M UNI** that month, against 2.48M in September. At today's price of $7.11, the same dollars of fees would destroy about **4.92M UNI** over the next 90 days.
 
-Because the burn is paid for with fee dollars, a higher UNI price means fewer UNI destroyed for the same trading activity. At the fee pace seen since Jul 27 2026 and a UNI price of **$7.02**, the next 90 days would burn about **4.74M UNI**.
+**The protocol fee burn row is zero** because the fees themselves are never destroyed. They are traded for UNI, and the UNI is what gets burned, so all of it is counted once, in the buyback row above.
 
-**Protocol fee burn: zero on its own.** The fees themselves are not destroyed; they reward whoever burns UNI, so the burn is counted once, in the buyback row above.
+**Foundation buying was zero.** Neither Uniswap Labs nor the Uniswap Foundation bought UNI back into the treasury, which took in no UNI at all during the window.
 
-**Foundation buy: 113,138 UNI.** On Jul 30 2026 a governance-linked wallet sent **113,138 UNI** back into the Uniswap treasury, part of it bought on the market. That moved the coins out of circulation. It was a single event with no schedule, so we project nothing from it for the next 90 days.
-
-**New long-term lock: zero.** UNI has no staking lock. Coins used for Uniswap governance votes stay in their owners' wallets and still count as circulating.
+**New long-term locks were zero.** UNI has no staking. Holders who delegate their votes keep their coins spendable, so delegation takes nothing out of circulation.
 
 ## Foundation and overhang
 
-The largest overhang is the **Uniswap governance treasury**, which holds about **262.25M UNI**, roughly 30% of all UNI still in existence. It is the only UNI outside the circulating count, and **20M UNI** of it is already approved for the next four growth payments. We read its balance on-chain at every rebuild. The treasury also holds the dormant 2% mint right.
+The biggest overhang is the **governance treasury**, which holds **262.25M UNI**. These are the only UNI not counted as circulating. Of them, 20M are approved for the quarterly growth payments; the rest can only move through a governance vote. The wallets Uniswap Labs moved its growth payments to hold about **14.74M UNI**, and the **Uniswap Foundation** reported **15.1M UNI** on hand at the end of 2025. Only about 435K UNI of the 2020 airdrop are still unclaimed. The treasury and the Labs wallets are watched on-chain, and the Foundation's balance through its published reports. If any of these balances falls between checks, the outflow enters the foundation and unscheduled unlocks row at the next check.
 
-Inside the circulating count, we track the **Uniswap Foundation**, which reported **15.1M UNI** at the end of 2025; the original 2020 airdrop contract, which still holds about **12.01M UNI** nobody has claimed; the Uniswap Labs wallet that receives the growth budget, nearly empty after each payment; and the governance-linked wallet that returned UNI in July, which holds about **20.42K UNI**. If the treasury's balance falls between our checks by more than the scheduled growth payments, that outflow enters the Foundation and unscheduled unlocks row at the next refresh.
+## How UNI compares to other DEX and DeFi tokens
 
-## How UNI compares to other DEX governance tokens
+Many DeFi tokens use part of their fees to buy their own coin. The difference is where the bought coins end up. Some protocols buy back and hold the coins in a treasury or a fund, which keeps them off the market for now but leaves them free to be sold or paid out later. Uniswap sends every bought UNI to a dead address, so the coins are gone for good. On the buy side, that makes UNI one of the cleaner designs in its group.
 
-Most exchange tokens grow their supply to pay liquidity providers. Curve's CRV and PancakeSwap's CAKE both create new tokens as rewards, and their burns or locks have to fight that steady printing. UNI is different: **Uniswap pays no token rewards to liquidity providers**, its supply has never grown past its launch amount, and its only regular new supply is the 5M UNI quarterly growth payment from a treasury that already exists.
+The sell side is different too. Many exchange tokens still pay out large reward emissions to liquidity providers or stakers, and those new coins can swamp the buyback. UNI pays no emissions at all: its only new supply is the 5M UNI a quarter the treasury sends Uniswap Labs, a fixed amount set by a vote. That leaves UNI close to flat. The burn and the payout are about the same size, so trading volume decides which way the supply moves.
 
-On the buy side, UNI now looks closer to tokens with fee-funded buybacks, such as Hyperliquid's HYPE or Aave's AAVE, than to a pure voting token. The difference is the shape: Uniswap does not buy UNI in the market itself. It lets anyone claim the fee jars by destroying UNI, so the burn happens on-chain, in fixed lots, and the destroyed UNI can never return. A buyback that parks tokens in a treasury can be spent again later; a Uniswap burn cannot.
-
-The trade-off is size. At about **0.9%** of circulating UNI burned per 90 days, the Uniswap burn is large enough to cancel the growth budget but not yet large enough to shrink UNI quickly, and it rises and falls with trading on Uniswap.
+The open risk is the mint right. Unlike a token with a hard cap, UNI can still grow by up to 2% a year if governance ever votes for it. It has never been used, but its existence means the 1B figure is a starting point, not a ceiling.
 
 ## What to watch in the next 90 days
 
-**Jan 1 2027:** the next 5M UNI growth payment unlocks; past payments were collected between zero and thirteen days after each unlock.
+**Jan 1 2027** — the next 5M UNI growth payment unlocks for Uniswap Labs, the one dated supply event in the window.
 
-**Aggregator hooks, live since Oct 22 2026:** Uniswap now routes trades through outside liquidity on Ethereum, Base and Robinhood Chain, and those trades carry a protocol fee that feeds the UNI burn. More routed volume would lift the burn above our 4.74M UNI estimate.
+**The burn pace through December 2026** — October's burn was about half of September's. If trading stays quiet, the burn could fall below the 5M UNI payout and the supply would start to grow slowly.
 
-**Fee switch expansion:** the Arc chain was added on Oct 5 2026, and further Uniswap governance votes could switch fees on for more chains or pool types.
+**New fee sources** — since Oct 22 2026, trades that Uniswap routes through outside pools also pay a protocol fee into the burn, and the fee switch reached the Arc chain in October 2026. Both could lift the burn if volume follows.
 
-**Burn pace and price:** burns slowed from about 814,000 UNI in the busiest week of September to about 180,000 UNI in the last six days. A higher UNI price also means fewer UNI per fee dollar.
+**Newly claimed airdrop coins** — the 12.1M UNI claimed in late October 2026 add no new supply, but if they are sold soon they add to selling on the market.
 
-**The mint right:** any Uniswap governance proposal to use the 2% yearly mint would change this reading at once. None exists today.
+**Any governance vote on minting or on the treasury** — no such proposal is open as of Nov 1 2026, but one would change the sell side at once.
 
 ## Summary
 
-UNI supply was roughly steady over the last 90 days at **−0.09%**, and we project about **+0.04%** for the next 90 days. Uniswap's fee switch burned **5.47M UNI**, slightly more than the **5M UNI** growth payment the treasury sent to Uniswap Labs. The key risk is the burn fading if trading on Uniswap slows, while the growth budget keeps paying 20M UNI a year from a treasury of about 262.25M UNI. UNI can never exceed 1B, and no UNI has ever been minted.
+UNI's circulating supply fell about **0.11%** in the 90 days to Nov 1 2026, because trading fees bought and destroyed **5.71M UNI** while the Uniswap treasury paid out **5M UNI** to Uniswap Labs. No UNI was minted, nothing vests apart from the 5M UNI quarterly growth payment, and the next one is due on Jan 1 2027. The key risk is that the burn depends on trading volume and slowed in October 2026, so the next 90 days look close to flat at about **+0.01%**. UNI has no hard cap: the treasury holds **262.25M UNI**, and governance keeps a right to mint up to 2% a year that it has never used.
 
-*MrNasDog Pressure Framework analysis of UNI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 22 2026.*
+*MrNasDog Pressure Framework analysis of UNI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 1 2026.*
