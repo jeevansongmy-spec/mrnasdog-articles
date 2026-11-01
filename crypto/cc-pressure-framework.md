@@ -1,6 +1,6 @@
 ---
-title:         "CC Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description:   "Canton Coin supply is growing: 2.10B new CC in 90 days against a 1.35B fee burn gives +1.88% net, about the same next. No pre-mine, no vesting, no cap."
+title:         "CC Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
+description:   "Canton Coin supply rose +1.82% in 90 days: 1.94B CC of rewards plus 128M of grants and voted releases, against a 1.34B CC fee burn. No vesting, no cap."
 canonical_url: "https://mrnasdog.com/research/cc/inflation"
 tags:          ["crypto", "cc", "canton", "layer1"]
 published:     true
@@ -10,64 +10,58 @@ published:     true
 <!-- main-page -->
 This is the long supply read. For the signal, the price drivers and the questions people ask about Canton Coin, see [mrnasdog.com/research/cc](https://mrnasdog.com/research/cc).
 
-# CC Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+# CC Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 
-**Canton Coin (CC) supply is growing.** In the 90 days to Oct 22 2026 the Canton Network created **2.10B CC** — **1.94B** as round rewards, **64.80M** as development-fund grants and **90.12M** as voted releases of unused rewards — while fee burning destroyed **1.35B CC**. That leaves net new supply of **+1.88%** of the **39.90B CC** in circulation, with about the same projected for the next 90 days. Canton Coin has no pre-mine, no vesting and no hard cap; its issuance ceiling is **10B CC a year** until mid-2029.
+Canton Coin's supply is growing: up **+1.82%** in the 90 days from Aug 3 to Nov 1 2026, and on course for about **+1.82%** in the next 90 days. Every CC is minted as a reward for running or using the Canton Network and every fee is paid by burning CC, with no supply cap. Rewards, grants and voted releases created **2.07B CC**, the fee burn destroyed **1.34B CC**, and other trackers show **+1.84%**, close to our reading.
 
 ## The verdict, in one paragraph
 
-Canton Coin added **+1.88%** net to its supply over the last 90 days, and the same mechanisms project about **+1.88%** for the next 90. Other trackers show **+1.96%** for the same window, a gap of **0.08 percentage points**, so the two readings agree and no warning flag is shown. Every CC that exists was created as a reward for running or using the network, and every network fee is paid by burning CC, so supply is the running balance of two live flows. Right now rewards win by about **750M CC** a quarter. **Canton Coin is inflationary by design, with a fee burn that cancels about two thirds of the new coins.**
+Over the 90 days to Nov 1 2026, CC supply rose by a net **+1.82%**, from about 39.24B to 39.97B CC. Other trackers report **+1.84%** for the same 90 days, a gap of only **0.015 percentage points**, so the coin page carries no warning note. The next 90 days look about the same, because rewards, grants and the burn all ran at a steady pace through August, September and October. In one line, CC today is a reward-minted coin whose dollar-priced fee burn cancels about two thirds of new supply, leaving a steady net growth of a little under 2% a quarter.
 
 ## Sell pressure: where new CC comes from
 
-**Protocol inflation is the main source: 1.94B CC in 90 days.** Canton Coin runs in rounds of about ten minutes, and every round it pays rewards to the apps that bring activity, to the validators that host users and to the Super Validators that run the network. Across the **12,604 rounds** between Jul 24 and Oct 22 2026, apps earned **1.41B CC**, validators **266M** and Super Validators **269M** — about **21.6M CC a day**. The issuance ceiling for this stage of the Canton Coin schedule is 10B CC a year, about 2.47B per 90 days, and the network paid out roughly 79% of it. The pace barely moved from month to month, so we carry it forward unchanged.
+Round rewards are the main source of new CC. Every ten minutes the network opens a round and mints new CC for the apps that bring activity, the validators that run nodes and the Super Validators that run the core service. From Aug 3 to Nov 1 2026 that came to **1.94B CC**, about **21.5M CC a day**. Apps took **1.40B**, Super Validators **268.4M** and validators **264.3M**. The issuance curve allows up to 10B CC a year until about mid-2029, then 5B a year, then 2.5B a year from mid-2034. The rounds in this window minted about 79% of that ceiling: apps filled almost their whole share, while part of the Super Validator and validator shares went unclaimed.
 
-**Vesting unlocks are zero.** Canton Coin launched with no pre-mine and no allocation for a team, a company or investors. There is no unlock calendar, no cliff and no investor overhang waiting in a contract — a rare shape among large tokens.
+Vesting adds nothing. CC had no pre-sale, no team share and no investor share, so there is no locked tranche waiting to open.
 
-**Foundation and unscheduled unlocks add 64.80M CC.** Five percent of every round's ceiling is set aside for a development fund. Those coins are not created when they are set aside; they are created when a grant actually pays out. In the window, **85 grant payouts** created **64.80M CC**, for work such as validator scalability and other network projects. Grants pay out every week, so we treat this as a steady flow and project the same amount for the next 90 days.
+Development grants are the second source. 5% of every round is set aside for the Foundation's development fund, but those coins are not minted until a builder finishes a paid milestone. In this window 89 payouts minted **64.04M CC**, from about 15.6M in August to about 24M in each of September and October.
 
-**Long-term locked or bankruptcy supply is zero.** No bankruptcy estate, court-held pile or escrow of Canton Coin waits to be released.
-
-**Voted releases from unused rewards add 90.12M CC.** When a round's rewards are not fully earned, the rest goes into a reserve of unused rewards. Only a vote of the Super Validators can release it, usually to a project that met a milestone it agreed with the network. Eight such releases became new coins in the window: **25.42M CC** to Zenith on Sep 5 2026, **19.62M** to a LayerZero vault on Aug 13, **19.23M** to Chainlink on Jul 31, **15.09M** to Wormhole on Sep 18 and four smaller ones. Two approved releases were never claimed and expired, so they created nothing. Votes like these have passed in nearly every month of the past year, so we project the same **90.12M** for the next 90 days.
+Voted releases of unused rewards are the third source. Rewards nobody claims in a round go into an unminted pool, and the Super Validators can vote to mint part of it for a named party, often a Super Validator or app whose rewards were held back until it met agreed goals. Five releases were minted in this window, **64.43M CC** in all; the largest was **25.42M CC** on Sep 5 2026, and another 19.62M followed a vote in early August. Two more releases worth 4.01M CC together were voted through on Oct 29 2026 and had not been minted by Nov 1 2026. No court estate or bankruptcy pile of CC exists.
 
 ## Buy pressure: where new CC goes
 
-**The fee burn removed 1.35B CC in 90 days.** Canton Network fees are priced in dollars but paid by burning Canton Coin: to send transactions, a validator buys network traffic and the CC it pays is destroyed. Users burned **1.35B CC** in the window, about **15.0M CC a day**, which cancels about **69%** of the new reward coins and about 64% of all new CC. Because the fee is set in dollars, a lower CC price means more coins burned for the same activity, and a higher price means fewer.
+The fee burn is the only way CC leaves supply. Canton prices network traffic in US dollars, and users pay for it by burning the matching amount of CC at the round's price. From Aug 3 to Nov 1 2026 users burned **1.34B CC**, worth about **$146M** at the time, which cancelled about **65%** of all new CC. Because fees are set in dollars, a lower CC price burns more coins for the same use, and a higher price burns fewer.
 
-**There is no programmatic buyback.** No contract or treasury buys Canton Coin back; the burn is the network's only built-in way to remove CC. **There is no foundation buy** either. Funds and companies that buy Canton Coin take coins that already circulate, so their buying moves coins between holders without changing the supply count.
-
-**New long-term locks book zero.** Super Validators must lock CC to keep their full weight, and featured apps must lock CC to keep their rewards; the app locking wallets alone hold about **869.6M CC**. All of those coins still count as circulating, so the locks take nothing out of the count, even though they keep a large amount of CC off the market for now.
+Nothing else takes CC out. There is no buyback. The Foundation pays builders in CC and does not buy any back, and a listed treasury company and investment funds buy coins that already circulate, which removes nothing. Super Validators and featured apps must lock CC to keep their rights, and featured apps alone held **823.7M CC** in locks on Nov 1 2026, but locked CC still counts as circulating, so locks take nothing out of the count either.
 
 ## Foundation and overhang
 
-Canton Coin has no team treasury from a pre-mine, so its overhang is made of rights to create coins rather than piles of coins. The largest is the **development fund**: about **179.6M CC** has been set aside for it but not yet paid out, and it grows by about 9,500 CC every round. The second is the **reserve of unused rewards**, which only a network vote can release; its size is not published in one place, so we follow each vote as it happens. Neither counts as supply until a grant or a vote turns it into coins, which is why both show up as sell pressure only when they pay out.
+The largest overhang is the development fund's set-aside. About **178.3M CC** has been set aside for grants but not yet minted, and the pile grows by about 1.37M CC a day. It only reaches the market as builders finish milestones, which is the grant flow already counted above.
 
-The foundation's own Super Validator reward wallet holds **30.58M CC**, and Super Validators and featured apps hold large locked balances. Those coins already count as circulating, so moving them adds nothing new. We re-check the development fund and the governance votes at every rebuild: if the unpaid development balance falls or a new release vote passes, the coins it creates enter the sell side at the next refresh.
+The unminted reward pool is the second overhang. Its size is not published in one place, so we follow it vote by vote: every release needs a Super Validator vote, and each one shows up in the count when it is minted. The Foundation's own reward wallet holds **31.8M CC**, which already counts as circulating, so spending it would add nothing new. There is no team, investor or treasury allocation waiting to unlock.
 
 ## How CC compares to other burn-and-mint Layer 1 chains
 
-Canton Coin is closest to the **burn-and-mint equilibrium** model: rewards create coins on a schedule, usage destroys coins at a dollar price, and the supply settles wherever the two meet. Helium uses the same idea for its network credits. The difference with Canton Coin is that the dollar fee is paid directly by burning CC on every transaction, so the burn tracks real network traffic each round rather than a separate conversion step.
+Most Layer 1 coins pay validators in new coins and burn some fees. Canton Coin goes further: it pays apps as well as node operators, and it prices every fee in dollars, so the burn tracks real use rather than how busy a congested block market gets. On most staking chains the burn cancels only a small slice of issuance. On Canton it cancelled about two thirds in this window, because a large share of the network's settlement and token traffic pays real fees.
 
-Against Ethereum, the shape is similar but the sizes are not. Ethereum also pays new coins to the people who secure it and burns part of every fee, but its burn has recently covered only a small share of new issuance. Canton Coin's burn cancels about two thirds of its new reward coins, so a much larger part of its new supply is absorbed by its own users. Canton Coin, like Ethereum, has no hard cap.
-
-Against Solana and other chains whose inflation falls a little every year, Canton Coin steps down in large jumps instead: its issuance ceiling halves from 10B to 5B CC a year in mid-2029 and to 2.5B from mid-2034. Until then the ceiling stays flat, so whether CC supply grows or shrinks depends mostly on how much the network is used and on the CC price.
+The design also differs from a fixed-supply or halving coin. CC has no cap and no halving date; its ceiling steps down on a time schedule, and actual minting depends on how many rewards are claimed. That puts more weight on governance than on code: the 5% grant fund and voted pool releases are decided by the Foundation and the Super Validators, not fixed in advance, so those two flows can rise or fall with their decisions.
 
 ## What to watch in the next 90 days
 
-**DTCC's tokenization launch.** DTCC said it plans to start its tokenization service by the end of October 2026, with 25 securities on two networks, Canton among them. More activity on Canton means more fees, and every fee burns CC.
+**Nov 5 2026: a lower cap on app rewards.** The Super Validators voted 12 of 13 to lower the featured app reward cap from $1.50 to $0.79. Apps take about two thirds of all new CC, so if the new cap binds, new supply would fall. App rewards did not move when the cap was last cut on Jan 15 2026, so we keep the current pace until the chain shows a change.
 
-**New release votes from the unused-reward reserve.** No release vote is open as of Oct 22 2026; the last one paid 15.09M CC on Sep 18. A large new release would add directly to the sell side.
+**By Nov 6 2026: two queued releases.** 4.01M CC of unused rewards, voted through on Oct 29 2026, is due to be minted before its record expires. That sits inside the release pace we already project.
 
-**Traffic-based app rewards.** A change that ties app rewards to the traffic apps actually create has run in test mode since July 2026. If it goes live it could change how much of the ceiling is paid out, which is the biggest single number on the sell side.
+**Q1 2027: universal burn.** The Super Validators approved CIP-0129 on Oct 23 2026, so traffic on every production synchronizer, not only the shared one, will burn CC. The plan's estimated start is the first quarter of 2027 with no fixed date, so it adds nothing to the next 90 days yet; once live, it would raise the burn.
 
-**Super Validator weight votes.** A vote closing Oct 29 2026 trims the foundation's reward weight, and new Super Validators such as LSEG, Marex and a16z are being added. These votes move who receives rewards, not how many are created.
+**Feb 2027 at the earliest: traffic-based app rewards.** The approved CIP-0104 would pay apps by the traffic they create, capped at 79 cents of new CC for every dollar burned. A trial mode is planned for December 2026, and the switch needs one more committee decision.
 
-**The CC price.** Fees are fixed in dollars, so the burn in CC rises when the price falls and shrinks when it rises. A large price move changes the net supply number even if activity stays the same.
+**Weekly: grant payouts.** Development fund payouts land most weeks. A much faster pace than the 64.04M of the last 90 days would show up first in the grant flow.
 
 ## Summary
 
-Canton Coin supply grew **+1.88%** in the 90 days to Oct 22 2026 and is projected to grow about the same in the next 90 days: **2.10B CC** was created as rewards, grants and voted releases, and the fee burn destroyed **1.35B CC**. CC has no pre-mine, no vesting and no hard cap; every coin is earned by running or using the Canton Network, and every fee burns CC. The key risks are a larger share of the 10B-a-year ceiling being paid out and new votes releasing unused rewards; the key support is network usage, which grows the burn. The ceiling stays at 10B CC a year until mid-2029.
+Canton Coin's supply grew **+1.82%** over the 90 days to Nov 1 2026 and should grow about the same over the next 90 days. Round rewards minted **1.94B CC**, development grants **64.04M** and voted releases of unused rewards **64.43M**, while the fee burn destroyed **1.34B CC**. CC has no vesting, no buyback and no supply cap, so the dollar-priced burn is its only brake. The burn would grow if universal burn goes live in 2027, and new supply would shrink if the lower app reward cap from Nov 5 2026 starts to bind.
 
 ---
 
-*MrNasDog Pressure Framework analysis of CC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 22 2026.*
+*MrNasDog Pressure Framework analysis of CC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 1 2026.*
