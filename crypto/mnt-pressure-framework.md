@@ -1,6 +1,6 @@
 ---
-title:         "MNT Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description:   "MNT supply held flat: -0.01% net over 90 days and 0.00% next. No mint, no unlock, no burn; 291,000 MNT went back to the 2.92B MNT Mantle Treasury."
+title:         "MNT Inflation Analysis · November 2026 · Mixed flows · supply roughly steady"
+description:   "MNT supply held steady: −0.01% net over 90 days and 0.00% next. No mint, no unlock, no burn; 291,000 MNT went back to the 2.92B MNT Mantle Treasury."
 canonical_url: "https://mrnasdog.com/research/mnt/inflation"
 tags:          ["crypto", "mnt", "mantle", "layer-2"]
 published:     true
@@ -10,46 +10,62 @@ published:     true
 <!-- main-page -->
 **Main page:** the full MNT coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/mnt](https://mrnasdog.com/research/mnt)
 
-# MNT Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+# MNT Inflation Analysis · November 2026 · Mixed flows · supply roughly steady
 
-**MNT supply was flat** between Jul 25 and Oct 23 2026. Mantle minted **0 MNT**, unlocked **0 MNT** and burned none, while a team wallet sent **291,000 MNT** back into the Mantle Treasury on Oct 1 2026. That makes the net change **−0.01%** of the 3.30B MNT in circulation, and **0.00%** is projected for the next 90 days. Other trackers show **−0.02%**, so the two readings agree. The one real risk is not new coins but the **2.92B MNT** the treasury holds outside the market, almost half of the 6.22B MNT total supply.
+MNT supply was roughly steady over the last 90 days and should stay flat over the next 90. Between Aug 4 and Nov 2 2026 no MNT was minted and none was unlocked, while **291,000 MNT** went back into the Mantle Treasury, so circulating supply fell **0.01%**, in line with the **−0.01%** other trackers show. The whole supply is **6.22B MNT**, and the treasury still holds **2.92B** of it outside the circulating count.
 
 ## The verdict, in one paragraph
 
-Over the 90 days to Oct 23 2026, MNT sell pressure was **0 MNT** and buy pressure was **291,000 MNT**, so net supply moved **−0.01%**. The forecast for the next 90 days is **0.00%**, because nothing is scheduled to mint, unlock or return. Other trackers measure the same 90 days at **−0.02%**, a gap of **0.01 percentage points**, so no warning is needed. In one line: Mantle is a **zero-emission token with a treasury-sized overhang**. The supply does not grow on its own; it only grows if the Mantle Treasury decides to release coins.
+Over the 90 days to Nov 2 2026, MNT's circulating supply moved by **−0.01%**, from about 3.3023B to **3.3020B MNT**. Other trackers read the same **−0.01%**, a gap of **0.00 points**, so the coin page carries no warning note. For the next 90 days, the expected change is **0.00%**: nothing is scheduled to be minted, unlocked or burned. MNT is a quiet token with a very large treasury: the supply only moves when that treasury moves.
 
 ## Sell pressure: where new MNT comes from
 
-Protocol inflation was **0 MNT**. The MNT token on Ethereum read a total supply of **6,219,316,795 MNT** on Jul 25 2026 and the exact same number on Oct 23 2026. The token does have a mint function, but it can fire only once a year and only up to a limit the owner sets. That limit is set to **zero** today, so any mint would first need a governance change, and even then the contract caps it at **2% a year**, about 124M MNT. Mantle network gas does not create new MNT either: MNT on the Mantle network is a mirror of MNT locked on Ethereum.
+**Protocol inflation was zero.** Total supply sat at **6,219,316,795 MNT** on Aug 4 and again on Nov 2 2026. The MNT token can mint new coins, but only up to a yearly limit that a holder vote sets, and that limit can never go above 2% a year. Today the limit is set to zero, so no new MNT can be created without a vote first.
 
-Vesting unlocks were **0 MNT**. The old team and investor unlocks ended in 2023, and no MNT sits on a release calendar. Foundation and unscheduled unlocks were also **0 MNT**: none of the Mantle Treasury wallets that sit outside the circulating count sent coins out in the window. The last time they did was **Mar 3 2026**, when **15M MNT** went to a budget wallet on the Mantle network. That is one release in a year with no fixed timing, so nothing is projected for the next 90 days. Long-term locks and bankruptcy were **0 MNT**; no court case or estate holds MNT.
+**Vesting unlocks were zero.** MNT has no team or investor vesting calendar left. Every coin that is not in the treasury is already free to trade, so there is no cliff date waiting in the next 90 days.
+
+**Treasury releases were zero.** The Mantle Treasury's listed wallets sent no MNT out between Aug 4 and Nov 2 2026. They do release coins now and then to pay for the team's budget: the last time was Apr 28 2026, when **24.35M MNT** left one treasury wallet. There is no public calendar for the next release, so the next 90 days book none.
+
+**Long-term locked or bankruptcy supply was zero.** No court estate or frozen pile of MNT is waiting to be paid out to creditors.
 
 ## Buy pressure: where new MNT goes
 
-There is no programmatic buyback, so that row is **0 MNT**. A forum post on Sep 18 2026 asked the Mantle DAO to set up a revenue-based MNT buyback, with the bought coins burned or locked, but it is only a discussion and no vote has been called. The protocol fee burn is also **0 MNT**. Users pay gas in MNT on the Mantle network, but those fees are collected, not destroyed: about **50K MNT** built up in the network's fee wallets over the 90 days. Less than 1 MNT reached a burn address on either chain, and the Ethereum total supply did not fall.
+**There is no buyback.** A Mantle holder proposed a buyback paid from Mantle's income on Sep 18 2026, but it is still an open discussion with no vote and no start date.
 
-The Mantle Treasury did not buy MNT on the market, so the foundation buy row is **0 MNT**, and no new lockup or staking plan took MNT out of circulation, so the new long-term lock row is **0 MNT** too. The only buy-side flow was extra row five: on **Oct 1 2026** a team admin wallet sent **291,000 MNT** back into one of the treasury wallets on the Mantle network. Those coins were counted as circulating before and are not counted now, so they left the market. It was a one-off, and none is planned for the next 90 days.
+**There is no fee burn.** MNT pays for gas on the Mantle network, yet the fees are kept in the network's fee wallets rather than destroyed. Those wallets gained about **54K MNT** over the 90 days, and those coins still count as circulating.
+
+**The treasury bought nothing** on the market, and **no new long-term lock** took MNT out of circulation. MNT that is staked or moved across bridges still counts as circulating.
+
+**One return to the treasury: 291,000 MNT.** On Oct 1 2026 a Mantle team wallet sent **291,000 MNT** back into a treasury wallet on the Mantle chain. Coins in the treasury do not count as circulating, so this small return is the only reason supply fell. It was a one-off, and nothing like it is planned for the next 90 days.
 
 ## Foundation and overhang
 
-The Mantle Treasury is the whole story of MNT supply. It holds **2.92B MNT** outside the circulating count: **2.90B MNT** in its main wallet on Ethereum, which has not sent a coin out since Oct 2024, plus **17.29M MNT** in three more wallets on Ethereum and the Mantle network. That is about **47%** of all MNT. On top of that, around **54M MNT** sits in treasury budget wallets that already count as circulating, so spending them adds no new supply. The last budget vote allowed up to 200M MNT of spending for Jul 2025 to Jun 2026, and a new budget has not been proposed yet.
+The Mantle Treasury is the one big holder to watch. Its listed wallets held **2,917.31M MNT** on Nov 2 2026, close to half of all MNT. Almost all of it, **2,900.02M MNT**, sits in a single main wallet run by several signers, and that wallet did not move at all in the 90 days. A second Ethereum wallet holds **10M MNT**, and two wallets on the Mantle chain hold **5.29M** and **2M MNT**.
 
-We re-read these wallets on-chain at every rebuild. If any treasury wallet outside the circulating count shows a lower balance between refreshes, that outflow enters Sell #3, foundation and unscheduled unlocks, at the next refresh. The same applies to the 291,000 MNT just returned: if they move out again, they count as new supply.
+The team spends from separate budget wallets that already count as circulating, so spending from them adds nothing. Only a transfer out of the listed treasury wallets adds new supply. On Oct 28 2026 the core team asked holders to approve a budget of up to **150M MNT** for July 2026 to June 2027, down from a 200M MNT limit the year before, when it actually spent about **39.63M MNT**. If the treasury balance falls, the coins that left count as new supply.
 
-## How MNT compares to other Layer-2 tokens
+## How MNT compares to other Ethereum Layer-2 chains
 
-Most Layer-2 tokens are still in their vesting years. Their supply grows every month as team and investor coins unlock on a fixed calendar, and the market can see each cliff coming. MNT is different: its unlocks are finished, it has no emission and no staking rewards paid in new coins, and the mint limit is zero. On a 90-day view that puts MNT among the flattest tokens in its group.
+Most Layer-2 tokens grow their float through calendars. Arbitrum's ARB is still releasing team and investor coins on a monthly timetable, and Optimism's OP has paid out much of its supply the same way, with a vote able to add new tokens each year. MNT works differently: there is no calendar at all, and almost every coin that is not circulating sits in one treasury that moves only when the team or a holder vote decides.
 
-The trade-off is concentration. Where a vesting token spreads its future supply over a public schedule, Mantle keeps almost half of its supply in one treasury that releases coins only when governance or the team decides. MNT also has no fee burn, unlike chains that destroy part of every fee, so heavier use of the Mantle network does not shrink the supply. Supply stays flat until the treasury either sells or, if the buyback idea becomes a real vote, starts buying.
+That makes MNT's supply very calm in a normal quarter but less predictable over years. A token with a monthly unlock tells you roughly what is coming; the Mantle Treasury could stay still for months and then release tens of millions of MNT in one day, as it did on Apr 28 2026.
+
+On fees, MNT has one thing many Layer-2 tokens lack: it is the gas coin of its own chain, so users must hold it to transact. Like most of its peers, though, Mantle does not burn those fees, so heavier use of the chain does not shrink the supply.
 
 ## What to watch in the next 90 days
 
-First, a fourth Mantle budget vote: the last budget covered Jul 2025 to Jun 2026 with a three-month extension, so a new proposal could come at any time, and a large draw from the main treasury wallet would show up as new supply. Second, the revenue-based buyback discussion posted on Sep 18 2026: if it becomes a vote with burns or locks, MNT would gain its first buy-side mechanism. Third, the tokenized stock launch Bybit and Mantle plan for November 2026, which could raise gas use on the Mantle network but adds no burn. Fourth, any change to the token's mint limit, which is zero today and can only be raised by the owner.
+**The new team budget.** The budget posted on Oct 28 2026 allows up to 150M MNT through Jun 30 2027. A vote on it, and any treasury transfer that follows, is the most likely way new MNT reaches the market.
+
+**The buyback discussion.** The income-funded buyback idea from Sep 18 2026 has no vote yet. If it turns into a passed proposal with a start date, Mantle would have its first buy row.
+
+**Tokenized stocks on Mantle.** Bybit said on Oct 13 2026 that it plans to launch mStocks with Mantle in November 2026, and a Nov 2 2026 proposal asks holders to recognize the issuer as a partner, with no treasury money involved. This affects how much MNT people need for gas, not how many MNT exist.
+
+**The mint limit.** The token's yearly mint limit is zero today. Any vote to raise it would turn protocol inflation on for the first time.
 
 ## Summary
 
-MNT supply was flat over the 90 days to Oct 23 2026: no mint, no unlocks and no burn, with **291,000 MNT** returned to the Mantle Treasury for a net **−0.01%**, and **0.00%** projected next. The token's mint limit is zero and its vesting ended in 2023, so supply cannot grow on its own. The key risk is the **2.92B MNT** Mantle Treasury, almost half of all MNT, which sits outside the market with no release schedule. Until the treasury moves, MNT has one of the quietest supplies among Layer-2 tokens.
+MNT supply was roughly steady over the 90 days to Nov 2 2026, falling **0.01%** because a team wallet returned 291,000 MNT to the Mantle Treasury on Oct 1 2026. No MNT was minted, unlocked or burned, and the next 90 days are expected to stay flat at **0.00%**. The real risk is the Mantle Treasury, which holds **2.92B MNT** and releases coins on no fixed timetable, last on Apr 28 2026. The ceiling is the total of **6.22B MNT**, which can only grow if holders vote to raise a mint limit that is zero today.
 
 ---
 
-*MrNasDog Pressure Framework analysis of MNT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 23 2026.*
+*MrNasDog Pressure Framework analysis of MNT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 2 2026.*
