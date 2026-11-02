@@ -1,6 +1,6 @@
 ---
-title:         "ONDO Inflation Analysis · October 2026 · Mixed last 90D · projected to grow"
-description:   "ONDO supply was flat for 90 days, but the Jan 18 2027 cliff releases 1.71B ONDO, about +35% in the next 90 days. No emissions, no buyback, no burn."
+title:         "ONDO Inflation Analysis · November 2026 · Mixed last 90D · projected to grow"
+description:   "ONDO supply was flat from Aug 4 to Nov 2 2026, then the Jan 18 2027 unlock frees 1.71B ONDO, about +35% in 90 days. No emissions, no buyback, no burn."
 canonical_url: "https://mrnasdog.com/research/ondo/inflation"
 tags:          ["crypto", "ondo", "rwa", "tokenunlocks"]
 published:     true
@@ -10,58 +10,60 @@ published:     true
 <!-- main-page -->
 This is the long supply read. For the signal, the price drivers and the questions people ask about Ondo Finance, see [mrnasdog.com/research/ondo](https://mrnasdog.com/research/ondo).
 
-# ONDO Inflation Analysis · October 2026 · Mixed last 90D · projected to grow
+# ONDO Inflation Analysis · November 2026 · Mixed last 90D · projected to grow
 
-ONDO supply was flat over the last 90 days and is set to jump in the next 90. Between Jul 25 and Oct 23 2026 no new ONDO was minted and no locked ONDO was released, so the net change was **0.00%**. On **Jan 18 2027** the yearly vesting cliff releases **1.71B ONDO**, which lifts circulating supply by about **+35.12%** in the next 90 days. ONDO has a stated maximum of **10B**, no buyback and no burn, so nothing on the other side of the ledger offsets the unlock.
+ONDO supply did not grow at all from Aug 4 to Nov 2 2026, a net change of **0.00%**, but the next 90 days hold the yearly unlock: on **Jan 18 2027**, **1.71B ONDO** leaves lock-up, which lifts the circulating supply by about **+35.12%**. ONDO, the vote token of Ondo Finance, has no mining, no staking rewards, no buyback and no burn, so the unlock calendar is the only thing that moves its supply. Total supply sits at **10B ONDO**, and market data showed a flat **0.00%** for the same 90 days.
 
 ## The verdict, in one paragraph
 
-Ondo Finance's ONDO token added **0.00%** to its circulating supply over the last 90 days, and is projected to add **+35.12%** over the next 90 days because of the Jan 18 2027 cliff. Other supply trackers read **−0.05%** for the same past 90 days, a gap of only **0.05 points**, so the two readings agree and no warning flag is shown. ONDO is best described as a capped governance token with a once-a-year unlock: calm for eleven months, then a single large step every Jan 18 until Jan 18 2029.
+Over the last 90 days ONDO's net new supply was **0.00%**: nothing was minted, no unlock fell due and nothing was burned or bought back. Market data for the same window reads **0.00%** as well, so the gap is **0.00 points** and the coin page carries no warning note. The next 90 days are a different story. The Jan 18 2027 unlock adds **1,710,223,118 ONDO** to a float of **4.87B ONDO**, a projected **+35.12%**. In one line: ONDO is a quiet coin between unlocks, and inflationary by schedule once a year.
 
 ## Sell pressure: where new ONDO comes from
 
-Protocol inflation is zero. ONDO pays no staking or block rewards, the token docs state there is no planned inflation, and total supply read exactly **10B ONDO** at both ends of the window. The ONDO contract still has a mint function, but only an approved role can call it, and it was not used.
+Protocol inflation is **0**. ONDO pays no staking or mining rewards, and the ONDO contract read exactly 10B ONDO in total supply on Aug 4 2026 and again on Nov 2 2026. The contract does keep a mint function, but only an approved role can call it, and it has not been used. Because that function exists, we do not call ONDO's supply permanently fixed; we read it again at every check.
 
-Vesting unlocks are the one real source of new ONDO. When the Ondo DAO lifted the token lock-up on Jan 18 2024, it set a yearly schedule: locked ONDO for ecosystem growth, the core team and early private-sale investors unlocks on each Jan 18 through Jan 18 2029. No cliff fell between Jul 25 and Oct 23 2026, so the last 90 days count **0**. The next cliff, on **Jan 18 2027**, releases about **1,710,223,118 ONDO**: roughly 792M for ecosystem growth, 660M for protocol development and the team, and 258M for early investors. The Jan 18 2026 cliff released the same amount, and the market's circulating count rose by about 1.71B ONDO the next day. After Jan 2027, two more cliffs of the same size remain, on Jan 18 2028 and Jan 18 2029.
+Vesting unlocks are **0** for the last 90 days and **1.71B ONDO** for the next 90. ONDO became freely tradable on Jan 18 2024, and its locked coins open once a year on the same date. The Jan 18 2026 unlock added about 1.71B ONDO to the float in a single day. The Jan 18 2027 unlock is the same size, split roughly 46% to the ecosystem fund, 39% to the Ondo Foundation's protocol share and 15% to early investors. About **5.13B ONDO** is still locked, which is exactly three tranches of that size: Jan 2027, Jan 2028 and Jan 2029. A few trackers still quote about 1.94B for the next unlock, but the remaining locked amount and the size of the last unlock both point to 1.71B.
 
-Foundation and unscheduled unlocks count **0**. The Ondo Foundation's main wallet sent **150M ONDO** on Aug 21 2026 and another **150M ONDO** on Sep 23 2026 to a payout wallet, which then paid out about **361M ONDO** in 19 transfers of 15M to 26M each. All of these coins came from the part of the Foundation wallet that was already unlocked and already counted as circulating, so they move existing supply rather than add new supply.
+Foundation and unscheduled unlocks are **0**, even though coins did move. The Ondo Foundation's main wallet sent **150M ONDO** to its payout wallet on Aug 21 2026 and another **150M ONDO** on Sep 23 2026. The payout wallet then sent out 320M ONDO in 16 transfers between Aug 8 and Oct 13 2026, mostly in pieces of 15M to 26M, and now holds **36.0M ONDO**. All of these coins came from the part of the Foundation's holdings that was already unlocked, so they were already counted as circulating. Moving them changes who holds ONDO, not how much ONDO is out there.
 
-Long-term locked or bankruptcy supply is zero. No bankruptcy estate holds ONDO. The estate of Ondo's late founder, which is now in court, holds ONDO that unlocks on the same yearly cliffs, so it is already part of the Jan 18 numbers above and is not counted twice.
+Long-term locked or bankruptcy supply is **0**. No court estate or bankruptcy pile of ONDO is waiting to be paid out. A dispute over control of Ondo Finance, filed in a Delaware court on Jul 24 2026 after the death of founder Nathan Allman, concerns the company, and no ONDO release is tied to it.
 
 ## Buy pressure: where new ONDO goes
 
-Nothing takes ONDO out of the market today. There is no programmatic buyback: Ondo Finance's tokenized Treasury, stock and fund products earn fees, but none of that money buys ONDO, and a fee switch for holders has been talked about without ever reaching a vote. There is no fee burn either: total supply stayed at 10B and the dead address held the same **7.59 ONDO** at the start and end of the window.
+Programmatic buyback is **0**. Ondo Finance earns fees on its tokenized Treasuries, such as USDY, and on its tokenized stocks, but those fees stay with the company. Talk of a "fee switch" that would send some of that money to ONDO holders has gone around for months, yet no proposal has been put to an Ondo DAO vote.
 
-The Ondo Foundation did not buy ONDO back in these 90 days; it only paid coins out. There is no ONDO staking programme and no new long-term lock, and the Ondo DAO's on-chain votes have been paused since January 2024, so no new lock could be approved soon. All four buy rows read **0** for the last 90 days and the next 90 days.
+Protocol fee burn is **0**. ONDO has no burn. Total supply stayed at 10B ONDO across the window, and the dead address held the same **7.59 ONDO** on Aug 4 and Nov 2 2026.
+
+Foundation buy is **0**. The Ondo Foundation pays ONDO out to fund growth and has not bought any back. New long-term lock is also **0**: ONDO has no staking, and voting in the Ondo DAO does not lock coins away. With all four buy rows at zero, nothing offsets the Jan 18 2027 unlock.
 
 ## Foundation and overhang
 
-The Ondo Foundation's main multisig wallet holds about **5.18B ONDO**. The Foundation itself says **4.42B** of that is still locked; the other roughly **757M** is unlocked and already counted as circulating. That unlocked share is what funds the regular payouts: about 150M ONDO every month or two in 2026. The payout wallet still holds about **36M ONDO**.
+The largest ONDO holder is the Ondo Foundation's main wallet, with **5.18B ONDO** on Nov 2 2026. The Foundation says **4.42B ONDO** of it is still locked, which leaves about **757M ONDO** free inside that wallet. The locked part opens on the Jan 18 dates; the free part has been paid out in steps of 150M, on May 11, Jun 22, Aug 21 and Sep 23 2026, with no step yet in October. The Foundation's payout wallet holds a further **36.0M ONDO** and pays out every week or two.
 
-In total, about **5.13B ONDO** is still locked across the whole supply. The Foundation holds 4.42B of it, and about **708M** more sits outside the Foundation, held for early investors and team members. We read the Foundation wallet and the payout wallet at every rebuild. If either wallet's locked balance falls between our checks, or if the circulating count moves before a cliff date, the outflow will enter the Foundation row of the ledger at the next refresh.
+About **708M ONDO** of the locked amount sits outside the Foundation, with early investors and team members, and it opens on the same yearly dates. We read both Foundation wallets on-chain at every check. If either balance falls between checks and the coins reach the market ahead of an unlock date, that outflow enters the Foundation row of the ledger at the next check.
 
 ## How ONDO compares to other real-world-asset and governance tokens
 
-ONDO belongs to the group of capped governance tokens whose supply grows only through vesting, not through emissions. Proof-of-stake Layer 1 coins such as Ethereum or Solana print new coins every day to pay validators, so their supply grows smoothly all year. ONDO prints nothing. Its supply stays still for most of the year and then rises in one step every Jan 18, which makes the timing of its sell pressure very easy to see in advance.
+ONDO belongs to the group of governance tokens whose supply moves only on an unlock calendar. Most tokens in that group unlock monthly, so the new supply arrives in small, steady slices. ONDO does the opposite: it saves a whole year of unlocks for one day. That makes ONDO look very calm for eleven months and very heavy in the 90 days around Jan 18. Compared with a monthly-unlock token of the same size, the yearly total is similar, but the market has to absorb it at once.
 
-Against other governance tokens that share fees, ONDO sits at the weaker end. Some DeFi tokens use protocol revenue to buy back or burn coins, which offsets part of their unlocks. Ondo Finance's products have grown fast, with about $4B in assets across its funds and tokenized stocks, but none of that revenue flows to ONDO today. Until a fee switch is approved, the only force on ONDO's supply is the unlock calendar.
+On the buy side, ONDO differs from the DeFi tokens that turn fees into buybacks. Sky (formerly Maker) and Hyperliquid use protocol income to buy their own tokens on the market, which takes supply off the market every day. Ondo Finance has a large and growing business in tokenized Treasuries and stocks, but none of that income reaches the ONDO token today. Until a fee switch is voted in, ONDO's only link to Ondo's business is the governance vote.
 
-Compared with tokens that unlock monthly, such as many newer Layer 1 and DeFi tokens, ONDO's yearly cliff is larger but rarer. A monthly unlock spreads the same coins over twelve small steps; ONDO releases about a third of its current float in a single day. That concentrates the risk on one date rather than spreading it.
+Against layer-1 chains such as Ethereum, ONDO has no ongoing issuance at all, so it never prints coins to pay validators. The trade-off is that its new supply is lumpy and scheduled years ahead, and with three equal unlocks left, about **51%** of all ONDO is still to come.
 
 ## What to watch in the next 90 days
 
-**Jan 18 2027**: the yearly cliff releases about 1.71B ONDO to ecosystem growth, the team and early investors. This is the single event that drives the +35.12% forecast.
+**Jan 18 2027**: the yearly unlock of 1,710,223,118 ONDO, the one event that moves the 90-day count, and the size of any move by the Foundation, investor and ecosystem wallets that receive it.
 
-The Foundation wallet's locked balance: it should stay at about 4.42B ONDO until the cliff. Any move below that before Jan 18 2027 would be an early release and would be added to the ledger.
+**Foundation payouts**: the main wallet released 150M ONDO roughly every one to two months in 2026; a fresh step before year end would show how fast its free 757M is being used.
 
-A fee switch or buyback vote: Ondo DAO votes have been paused since January 2024. If a vote reopens and routes product fees to buying ONDO, it would add the first buy-side pressure this token has had.
+**Ondo DAO**: any on-chain proposal for a fee switch or buyback would be the first new buy-side mechanism for ONDO since the token launched.
 
-The founder's estate: court cases over control of Ondo Finance and the late founder's holdings are still open. A ruling that moves those ONDO coins would not change total supply, but it could change who holds them.
+**Delaware court case**: a ruling in the dispute over control of Ondo Finance could change who runs the company and the Foundation's plans, though no ONDO release is tied to it today.
 
 ## Summary
 
-ONDO, the governance token of Ondo Finance, had a flat supply over the last 90 days (**0.00%**) and is projected to grow about **+35.12%** in the next 90 days when the yearly cliff releases **1.71B ONDO** on Jan 18 2027. ONDO has no emissions, no buyback and no burn, so unlocks are the whole story. The key risk is the one large step every Jan 18, with two more of the same size left in 2028 and 2029. The schedule tops out at **10B ONDO**; going past that would need the restricted mint function to be used, which has not happened.
+ONDO, the governance token of Ondo Finance, added no new supply from Aug 4 to Nov 2 2026, a net change of **0.00%**, in line with market data. The ONDO supply only grows through one yearly unlock, and the Jan 18 2027 unlock of **1.71B ONDO** lifts the circulating supply by about **+35.12%** in the next 90 days. Nothing on the buy side offsets it: ONDO has no buyback, no burn and no staking, and Ondo Finance's fees do not reach the token. Total supply stands at 10B ONDO, and the key risk is the calendar: two more unlocks of the same size are due in Jan 2028 and Jan 2029.
 
 ---
 
-*MrNasDog Pressure Framework analysis of ONDO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 23 2026.*
+*MrNasDog Pressure Framework analysis of ONDO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 2 2026.*
