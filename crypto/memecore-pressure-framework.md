@@ -1,6 +1,6 @@
 ---
-title:         "M Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description:   "M supply is growing: a 925.93M M reserve release and 33.33M of block rewards lifted supply +42.00% in 90 days. About +1.46% next; 3.14B M held back."
+title:         "M Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
+description:   "M supply rose 41.93% in 90 days: a 925.93M team release to a Nasdaq company plus 33.33M in block rewards. About 1.45% next; 3.14B M sit in team wallets."
 canonical_url: "https://mrnasdog.com/research/memecore/inflation"
 tags:          ["crypto", "m", "memecore", "layer1"]
 published:     true
@@ -10,58 +10,68 @@ published:     true
 <!-- main-page -->
 **Main page:** the full M coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/memecore](https://mrnasdog.com/research/memecore)
 
-# M Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+# M Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 
-**M**, the coin of the **MemeCore** Layer 1, grew its circulating supply by **+42.00%** in the 90 days to Oct 23 2026. Almost all of it was one event: on Aug 19 2026 a MemeCore reserve wallet released **925.93M M** to the treasury of ZeroStack, a Nasdaq-listed company. Block rewards added **33.33M M**, and the base-fee burn removed only about **607 M**. For the next 90 days the MemeCore ledger shows about **+1.46%**, from block rewards alone, while **3.14B M** still sits in reserve and custody wallets with no public release date.
+*Checked Nov 2 2026*
+
+M supply is growing, and most of the last 90 days came from one release: on Aug 19 2026 a team reserve wallet handed **925.93M** coins to ZeroStack, a Nasdaq company. Block rewards added another **33.33M**, while the fee burn took back only **612** coins, so supply rose **+41.93%** in 90 days. With no release on the calendar, the next 90 days look like about **+1.45%**, under a hard cap of 10B coins.
 
 ## The verdict, in one paragraph
 
-M supply rose **+42.00%** over the last 90 days: **961.65M M** of new sell-side supply against a **607 M** burn, on a circulating base of **2.29B M**. Other trackers show **+72.63%** for the same 90 days, a gap of **30.63 points**. They see the same coins move; their percentage is larger only because it starts from July's much smaller count of M in circulation, about 1.33B. No flow is missing, so no warning flag is shown. Next 90 days: about **+1.46%**. MemeCore is a chain whose supply moves in steps: a slow, fixed block reward, and rare, very large releases from team-held reserves.
+From Aug 4 to Nov 2 2026, **961.65M** new M reached the market and **612** M were destroyed, a net rise of **+41.93%** on today's **2.29B** circulating coins. Other trackers show **+72.9%** because they measure the rise from the smaller supply of late July; they count the same new coins, so the coin page carries no warning note. The verdict is supply growing, and projected to keep growing: block rewards alone add about **33.33M** M every 90 days, and seven team wallets still hold **3.14B** M that could be released at any time.
 
 ## Sell pressure: where new M comes from
 
-**Protocol inflation: 33.33M M.** Every MemeCore block, one every 7 seconds, mints **30 M** for the validators and delegators who secure the chain under its Proof of Meme consensus. The reward was **112.5 M** per block until block 2,300,000 in July 2025 and has been 30 M since. Over the 1,110,856 blocks between Jul 25 and Oct 23 2026 that came to **33.33M M**, about 370K a day, and the same amount is due in the next 90 days. The client code has no further reward cut scheduled, and MemeCore's cap of **10B M** is reached only through these block rewards.
+**Protocol inflation: 33.33M M.** Every MemeCore block mints 30 new M, shared by the seven active validators and the people who stake with them. Blocks arrive every 7 seconds, so the 1.11M blocks between Aug 4 and Nov 2 2026 made **33.33M** M, about 370,000 a day. MemeCore cut the reward from 112.5 M a block to 30 M a block in July 2025, and it has stayed there since. Half of the 10B cap, 5B M, is set aside for these rewards, so this drip keeps going for many years.
 
-**Vesting unlocks: 0.** Unlock calendars list about **56.11M M** a month for the team, investors, the Foundation and the community, with tranches dated around Aug 3, Sep 3 and Oct 3 2026. On-chain, the custody wallets that hold those shares did not send out a single M in the window, and the circulating count did not step up on any of those dates. Calendar tranches that never leave their wallets are not new supply yet, so this row is zero.
+**Vesting unlocks: 0.** MemeCore's plan unlocks about **56.11M** M each month for the community fund, the team, the foundation and investors, and unlock calendars list a new tranche at the start of every month. On-chain, these coins never moved. The five wallets that hold those shares had exactly the same **2.1B** M on Nov 2 2026 as on Aug 4 2026, so the roughly 168.33M M due on paper in the window stayed put. The tranche listed for Nov 1 2026 had not moved either when we checked on Nov 2 2026.
 
-**Foundation and unscheduled unlocks: 928.33M M.** This is the row that moved M. On Aug 19 2026 a MemeCore reserve wallet sent out **925.93M M** in two equal transfers. Through a bridge they reached the treasury of ZeroStack Corp., which filed the same day that it had acquired 925,925,926 M, worth about **$1B** at $1.08, in exchange for its shares and warrants. The circulating count of M jumped by about 924M the next day. A Foundation payout wallet also sent **2.40M M** to various addresses between Sep 19 and Sep 29 2026. Neither wallet has a release schedule, so the next 90 days carry zero for this row.
+**Foundation and unscheduled unlocks: 928.33M M.** This is the big one. On Aug 19 2026 a team reserve wallet sent **925.93M** M to ZeroStack, which issued 3.5M shares and pre-funded warrants in return and valued the coins at $1.08 each, about $1B in total. ZeroStack agreed not to stake them, and on Nov 2 2026 its wallet on BNB Chain still held all **925.93M**. A separate payout wallet sent **2.4M** M in small payments between Sep 19 and Sep 29 2026. Releases like these follow no schedule, so none is counted for the next 90 days.
 
-**Long-term locked or bankruptcy: 0.** No court-held or bankruptcy pile of M exists. ZeroStack's coins already count as circulating; the company says it will not stake them and holds them as a long-term asset, but nothing stops it from selling them.
+**Long-term locked or bankruptcy: 0.** No court estate or frozen pile of M is waiting to be paid out.
 
 ## Buy pressure: where new M goes
 
-**Programmatic buyback: 0.** The MemeCore Foundation approved a treasury buyback of at least **$10M** on Jul 2 2026, after M fell more than 80% in one June week. It named no wallet and no timing, and none of MemeCore's reserve wallets received a single M in the window. Coins bought on the market and held in an ordinary wallet stay in the circulating count, so the buyback books zero.
+**Programmatic buyback: 0.** The MemeCore Foundation approved a buyback of at least $10M on Jul 2 2026, after the price crashed in late June, and said the coins would go to its treasury. It named no wallet and no timing, and none of the team wallets grew between Aug 4 and Nov 2 2026, so no bought-back coin left the market in this window.
 
-**Protocol fee burn: about 607 M.** MemeCore uses an EIP-1559 fee market from its first block: the base fee of every transaction is destroyed, while tips go to the validator reward pool. The base fee sat at its **15 gwei** floor for the whole window, so the burn came to about 607 M, under 7 M a day. That cancels less than **0.002%** of new block pay.
+**Protocol fee burn: 612 M.** MemeCore destroys the base fee of every transaction. Since a March 2026 upgrade cut the minimum fee a hundredfold, fees sit at the floor and the burn is tiny: **612** M in 90 days, about 7 a day, against 33.33M M of new block rewards.
 
-**Foundation buy: 0.** No Foundation purchase beyond the buyback above was found, and ZeroStack received its coins from the reserve rather than buying them. **New long-term lock: 0.** Staked M still counts as circulating, and no new lock contract appeared in the window.
+**Foundation buy: 0.** ZeroStack's coins came straight from a team wallet and already count as circulating, so the company's holding takes nothing out of the market. No fund or company has bought M for a locked treasury.
+
+**New long-term lock: 0.** Staked M can be withdrawn and still counts as circulating. Since Oct 22 2026 about **1.15B** M sit locked in the new bridge to BNB Chain, but they back the same number of M on that chain, so nothing leaves the count.
 
 ## Foundation and overhang
 
-About **3.14B M**, more than the whole circulating supply, sits in seven wallets created by the MemeCore deployer and kept outside the market count. The reserve wallet that paid ZeroStack still holds **724.07M M**. Five custody wallets hold **700M**, **650M**, **600M**, **100M** and **50M M**; their sizes match the Foundation, team and investor shares, and none has paid out since March 2025. The Foundation payout wallet holds **314.92M M** and pays small grants a few times a year. The buyback's treasury wallet has no public address, so its size is unknown.
+Seven team wallets hold the coins that do not yet count as circulating, **3.14B** M in all, more than the **2.29B** M that trade today. The reserve wallet that paid ZeroStack still has **724.07M**. A foundation wallet holds **700M**, two more allocation wallets hold **650M** and **600M**, and the payout wallet holds **314.92M**. Two smaller wallets hold **100M** and **50M**. None of them is a time-lock: each is a team multisig that can move coins whenever its signers agree, which is exactly how the Aug 19 2026 release happened.
 
-We read these wallets on-chain at every rebuild. If any of them falls between refreshes, the outflow enters Foundation and unscheduled unlocks at the next refresh. ZeroStack's 925.93M M is now inside the market count, so a sale by ZeroStack would add selling but not new supply.
+Inside the market, ZeroStack is the largest single holder with **925.93M** M. Its sales would not add new supply, but they could weigh on the price, and its deal lets it hold rather than stake the coins.
 
-## How M compares to other young proof-of-stake Layer 1 chains
+## How M compares to other proof-of-stake Layer 1 chains
 
-Most young proof-of-stake Layer 1 chains release insider coins on a public monthly calendar, so their supply climbs in even steps that anyone can plan for. MemeCore's calendar exists on paper, but its custody wallets have not followed it; instead, supply jumped once by **925.93M M** when a reserve funded a company treasury. That makes M harder to forecast: a quiet quarter like the next one, at about **+1.46%**, can be followed by another very large step if a reserve wallet moves.
+MemeCore's steady issuance is mild. Its **1.45%** for the next 90 days sits above Ethereum, where validator pay outruns the fee burn by about 0.21% a quarter, and close to Sui, where a monthly unlock calendar adds a little over 1%. BNB Chain, which like MemeCore picks a small set of validators by stake, pays them from fees only and burns coins every quarter, so its supply shrinks.
 
-On issuance, MemeCore pays a flat **30 M** per block toward a **10B M** cap, about 6% a year on today's circulating supply and well above Ethereum's rate. Its EIP-1559 burn works like Ethereum's, but at a 15 gwei floor with light traffic it removes almost nothing, unlike chains where busy blocks burn a real share of new coins. And unlike coins that are already fully unlocked, only **42%** of the 5.43B M that exist circulate today.
+What sets M apart is the overhang. On most chains, locked coins reach the market on a published calendar that trackers can follow. On MemeCore the calendar exists only on paper; the real releases have come as single large transfers from team multisigs, decided by the team and seen only after the fact. That makes the quiet next-90-day figure less certain than the same figure on a chain with time-locked vesting.
 
 ## What to watch in the next 90 days
 
-**The reserve wallet's 724.07M M:** it already paid out 925.93M M once without notice, and any new transfer out would add more than 30% to the supply in a day.
+**Nov 17 2026:** the Aug 19 2026 release drops out of the 90-day window, and the last-90-days figure falls from about +42% to about +1.5%. No coins move; the release simply ages out.
 
-**Calendar unlock dates around Nov 2 2026, Dec 3 2026 and Jan 2 2027:** each lists about 56.11M M; if the custody wallets start paying them, the next 90 days rise from about +1.46% to near +8.8%.
+**Early December 2026 and early January 2027:** the next two paper tranches of about **56.11M** M each. If the allocation wallets actually pay them out, the next 90 days would read close to **+6.3%** instead of +1.45%.
 
-**ZeroStack's treasury:** its 925.93M M is held in a company multisig; filings that show sales, or more token contributions, would change who holds M.
+**Any move from the seven team wallets:** another treasury deal like ZeroStack's would land as one large transfer with no warning. The reserve wallet still holds **724.07M** M.
 
-**The Foundation buyback:** any published wallet or burn of bought coins would turn the Jul 2 2026 promise into a real buy row.
+**ZeroStack's 925.93M M:** the company's wallet has not sold a coin. A sale would not change supply, but it would put a large amount on a thin market.
 
 ## Summary
 
-MemeCore's M supply grew **+42.00%** in the 90 days to Oct 23 2026, almost all from a single **925.93M M** reserve release to ZeroStack's treasury on Aug 19 2026, plus **33.33M M** of block rewards. The fee burn of about 607 M is too small to matter, and the announced buyback has no visible effect. The next 90 days look much calmer at about **+1.46%**, but **3.14B M** remains in team-held wallets with no public release dates, and the cap of 10B M is still far away.
+M supply grew **+41.93%** from Aug 4 to Nov 2 2026, almost all of it from one team release of **925.93M** M to the Nasdaq company ZeroStack on Aug 19 2026.
+
+Without another release, MemeCore's supply grows about **+1.45%** per 90 days from block rewards of 30 M a block, and the fee burn offsets almost none of it.
+
+The monthly unlocks on MemeCore's calendar have not been paid out on-chain; the coins sit in seven team multisigs holding **3.14B** M, more than everything in circulation today.
+
+The single biggest supply risk for M is a team decision to move those wallets, not the steady block reward.
 
 ---
 
-*MrNasDog Pressure Framework analysis of M (MemeCore), Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 23 2026.*
+*MrNasDog Pressure Framework analysis of MemeCore (M). Data and explanation only. Not financial advice. Checked Nov 2 2026.*
