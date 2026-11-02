@@ -1,6 +1,6 @@
 ---
-title:         "QNT Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description:   "QNT supply is roughly steady: no new QNT since 2018, no unlocks, no burn. A team wallet released 12,002 QNT: net +0.08% in 90 days, 0.00% next."
+title:         "QNT Inflation Analysis · November 2026 · Mixed flows · supply roughly steady"
+description:   "QNT supply is roughly steady: nothing minted since 2018, no unlocks, no buyback. A team wallet let 12,002 QNT out in October: +0.08% in 90 days, ~0% next."
 canonical_url: "https://mrnasdog.com/research/qnt/inflation"
 tags:          ["crypto", "qnt", "quant", "interoperability"]
 published:     true
@@ -10,64 +10,62 @@ published:     true
 <!-- main-page -->
 Looking for the buy-or-sell answer? It is on the QNT coin page, with demand and price drivers: [mrnasdog.com/research/qnt](https://mrnasdog.com/research/qnt)
 
-# QNT Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+# QNT Inflation Analysis · November 2026 · Mixed flows · supply roughly steady
 
-**QNT**, the token of **Quant** and its Overledger network, has mixed flows and a supply that is roughly steady. No new QNT has been created since the 2018 token sale, so the only sell pressure in the last 90 days was a Quant team wallet that released **12,002 QNT** on Oct 6 and Oct 10 2026. Against that, just **8.6 QNT** was lost for good in the token contract. Net, circulating QNT grew **+0.08%** in 90 days, other trackers read **+0.10%**, and the next 90 days look flat at **0.00%**.
+**TL;DR** — QNT supply is **roughly steady**: no QNT has been minted since June 2018, nothing vests, and Quant runs no buyback or burn. The only real change in the 90 days to Nov 2 2026 was a Quant team wallet releasing **12,002 QNT**, against about **15 QNT** lost for good, so supply grew **+0.08%** and other trackers show the same **+0.08%**. About **14.56M** QNT circulate out of **14.61M**, and the gap between the two is only the **56.31K QNT** still in two team wallets.
 
 ## The verdict, in one paragraph
 
-Over the 90 days from Jul 25 to Oct 23 2026, QNT supply rose **+0.08%**: about **12,002 QNT** entered the market against about **8.6 QNT** removed, on a circulating supply of **14.56M QNT**. Other trackers show **+0.10%** for the same window, a gap of only **0.02 percentage points**, so there is no warning flag on this page and the two readings tell the same story. For the next 90 days we expect **0.00%**, because nothing is scheduled to unlock and the October team release has no plan behind it. QNT is a **fixed-supply token with a small team overhang**: almost every coin already trades, and the only real supply risk is the company choosing to sell what it still holds.
+Between Aug 4 and Nov 2 2026 the QNT supply grew by **+0.08%**, and other trackers read the same **+0.08%**, so the gap is **0.00 points** and the coin page carries no warning note. For the next 90 days we expect about **0.00%**, because no unlock, no mint and no team release is scheduled. QNT is a **fixed-float token**: the supply only moves when the team chooses to release coins it still holds, and that pile is small.
 
 ## Sell pressure: where new QNT comes from
 
-Protocol inflation is **0**. QNT is an ERC-20 token on Ethereum, not its own chain, so there are no block rewards and no staking pay. All 24.43M QNT that were ever created were made on Jun 25 2018, when the sale closed, and 9.55M of them were burned that September, which leaves today's supply. One honest caveat: the old 2018 sale contract still has a working switch that could create QNT if its owner key used it. That key has not sent a single transaction since 2019, and no new QNT has appeared, but because the switch exists we do not call the QNT supply locked forever.
+Protocol inflation is **zero**. QNT is a token on Ethereum, not its own chain, so there are no block rewards and no staking pay. All QNT ever made was created in one batch in June 2018, at the end of the token sale, and no new QNT has been created since. One caveat is worth stating plainly: the 2018 sale contract was never switched off, and its owner key could still start it again and create new coins. That key has been idle for years and did nothing in this window, so we book nothing, but it is the reason we never call the QNT supply locked forever.
 
-Vesting unlocks are **0**. Staff tokens from the 2018 sale had a 12-month wait that ended in 2019, and QNT has no unlock calendar at all, so no cliff can land in the window.
+Vesting unlocks are **zero**. Staff and managers had a 12-month vesting period after the 2018 sale, and it ended long ago. Quant has not published any new unlock schedule.
 
-Foundation and unscheduled unlocks are **12,002 QNT**, and this is the one live row. Quant keeps two team wallets that are not counted as circulating. The second of them, funded from the first in October 2025, made its first ever outgoing transfers on **Oct 6 2026** (2,001 QNT) and **Oct 10 2026** (10,001 QNT), all to one new wallet that has not sold anything yet. Once those coins left the team wallet they joined the circulating count. Because this wallet has never moved before and there is no schedule, we book **0** for the next 90 days rather than guess at a repeat.
+Foundation and unscheduled unlocks came to **12,002 QNT**. Quant has no foundation; the coins that sit outside the circulating count are held in two team wallets. The second of those wallets, filled from Quant Team Wallet 1 in October 2025, sent **2,001 QNT** to a brand-new wallet on Oct 6 2026 and another **10,001 QNT** on Oct 10 2026, both times starting with a 1 QNT test. The coins have not moved since, but once they left the team wallet they count as circulating. The release came about two weeks after QNT's late-September price run, when one QNT was trading near $250. It was that wallet's first outflow ever and there is no schedule for another, so we book none for the next 90 days.
 
-Long-term locked or bankruptcy supply is **0**. No court case, estate or lock holds QNT. Three large wallets, two filled in 2018 and one in 2023, moved about 541,000 QNT in late September 2026 while the price surged, but those coins already counted as circulating, so the moves change who holds QNT, not how much exists.
+Long-term locked or bankruptcy supply is **zero**. No court estate, recovered hack or locked fund holds QNT that is waiting to be paid out.
 
 ## Buy pressure: where new QNT goes
 
-The programmatic buyback is **0**. Quant is a private company and runs no buyback; banks and firms mostly pay it for Overledger in normal money, and no rule turns that income into QNT purchases.
+A programmatic buyback is **zero**. Quant Network is a private company, and the licence fees it charges for its Overledger software are company revenue, not money used to buy QNT on the market.
 
-The protocol fee burn is **0**. Gas for QNT transfers is paid in ETH, and fees on Quant's own Fusion network go to its operators, so no fee destroys QNT.
+A protocol fee burn is **zero**. Using Quant's software does not destroy QNT. The famous QNT burn was a one-time event: on Sep 14 2018 about **9.55M** unsold sale coins were sent to the token's own address, where they can never move again. That is why the total supply is about 14.61M and not the much larger number the token contract still prints.
 
-Foundation buying is **0**. Quant has no foundation and has not announced any QNT purchases. The Clearing House network that Quant was picked for on Sep 24 2026 does not, as announced, require banks to buy or hold QNT.
+A foundation buy is **zero**. There is no foundation, DAO or treasury that buys QNT, and no QNT fund or company treasury plan was announced in the window.
 
-New long-term locks are **0**. Overledger licence fees are paid in QNT and Fusion users deposit QNT for fees, but both sit in contracts that still count as circulating, and node staking has no start date yet.
+A new long-term lock is **zero**. Quant's Fusion network went live on mainnet in June 2026 and plans to ask node operators to stake QNT, but that staking is not live and has no start date. When it starts, staked QNT could leave the market for a while; until then nothing is locked.
 
-One extra row, coins lost in the token contract, takes out **8.6 QNT**. People who send QNT to the token's own address by mistake can never get it back, because that address has no way to move coins. The 9.55M QNT burned in 2018 sits in the same place. At this pace it removes about **8.6 QNT** every 90 days, too little to change the reading.
+The one small buy-side flow is coins stuck in the token contract: **about 15 QNT** in 34 small transfers between Aug 4 and Nov 2 2026. These are mistakes, people sending QNT to the token's own address, and nothing can ever move them out, so they are gone for good. We expect about the same next.
 
 ## Foundation and overhang
 
-The tracked overhang is small. Quant's first team wallet holds **25,939 QNT**; its only move since 2022 was funding the second wallet in October 2025. The second team wallet holds **30,376 QNT** after its October release. Together that is **56,315 QNT**, about **0.39%** of the supply, with no published release plan. The new wallet that received the 12,002 QNT also still holds all of it; those coins now count as circulating, so a sale from it would not add to the figure again.
+The whole QNT overhang is small. Quant Team Wallet 1 holds **25,939 QNT**; it has not sent coins outside the team since 2022, and it did not move in this window. The second team wallet holds **30,376 QNT**, down from 42,378 QNT on Aug 4 2026 after the October release. Together they hold **56.31K QNT**, about **0.39%** of the circulating supply, and they are the only coins counted outside the float.
 
-Two further items sit outside the count but are watched. The three large wallets that moved in September hold about **1.32M QNT** between them; they are already in circulation, so they matter for price, not for supply. And the 2018 sale contract's creation switch stays parked behind one owner key. We read the team wallets and that key on-chain at every rebuild: if a team wallet's balance falls between refreshes, the outflow enters the foundation and unscheduled unlock row at the next refresh.
+The new wallet that received the **12,002 QNT** still holds every coin. Those coins already count as circulating, so if that wallet sells, it adds nothing new to supply, though it would add coins to the market. The old 2018 sale contract is the other thing to keep in mind: its owner key has not acted in years. If a team wallet's balance falls, the coins that leave count as a new release, and if that key ever acts again, any coins it creates count as new supply.
 
 ## How QNT compares to other fixed-supply utility tokens
 
-QNT belongs with tokens whose supply was fixed at launch and is already almost fully unlocked. With **99.6%** of its supply circulating, it has far less waiting to unlock than most tokens of its size, where team and investor cliffs can add several percent of supply in a single quarter. Its supply story is closer to an old fully distributed token than to a newer project still paying out insiders.
+Most utility tokens of QNT's size still release coins every month to teams, investors and ecosystem funds. Ethereum-based tokens from later years usually came with four-year vesting plans, so their supply keeps growing by a few percent a quarter. QNT skipped that phase: its sale ended in 2018, its vesting ended in 2019, and the team holds less than half a percent of the supply. Over 90 days, a QNT holder faces almost no new coins.
 
-Against interoperability rivals the contrast is in the mechanism. Chainlink's team releases LINK from its locked wallets every quarter (18.75M LINK on Oct 9 2026), and Hedera's council releases HBAR from its treasury; both add real new float every quarter. QNT has no emission and no reward budget at all. The flip side is that QNT has no burn and no buyback either, so nothing shrinks the supply: a fixed cap rather than deflation.
-
-Compared with exchange tokens that burn coins every quarter, QNT is neutral rather than shrinking. Its supply edge is that it cannot be diluted by schedules; its weakness is that demand has to come from people and firms choosing to hold it, because the protocol itself never buys.
+The difference from hard-capped chains such as Bitcoin is the mechanism. Bitcoin is capped because its code sets a schedule nobody can change. QNT has stayed flat because the team has not used its old sale contract, not because the code forbids it. And unlike tokens with a buyback or a fee burn, QNT has no built-in buyer: nothing in Quant's business model takes QNT off the market, so all demand has to come from people and firms choosing to buy and hold it.
 
 ## What to watch in the next 90 days
 
-First, the two Quant team wallets. After the 12,002 QNT release on Oct 10 2026, any further outflow from the **56,315 QNT** they hold would add new supply, and a sale from the wallet that received the October coins would show up as selling on the market.
+First, the two team wallets with **56.31K QNT**. After the release of Oct 6 and Oct 10 2026, any new outflow would show up as fresh supply, and the team released coins soon after a big price rise last time.
 
-Second, The Clearing House network. Banks are working on design and testing through late 2026, with a start planned in the first half of 2027. Any rule that banks must pay or lock QNT would be the first real buyer the token has; so far there is none.
+Second, the wallet that received the **12,002 QNT** on Oct 10 2026. It adds no new supply, but a sale from it would put those coins on the market.
 
-Third, staking on the Fusion network. If node staking opens with a lock, staked QNT could leave the circulating count and become a new buy-side row. No date has been given.
+Third, Fusion node staking. A start date has not been announced as of Nov 2 2026; once it is set, staked QNT would be a new long-term lock.
 
-Fourth, the 2018 sale contract's owner key. It has been silent since 2019. Any transaction from it would be the first sign that new QNT could be created.
+Fourth, the US bank network for tokenised deposits that The Clearing House picked Quant to build on Sep 24 2026, due for banks in the first half of 2027. No rule so far says the banks must hold QNT, so any QNT need it creates is still unknown.
 
 ## Summary
 
-QNT is a fixed-supply Ethereum token with mixed flows and a roughly steady supply: no new QNT has been created since 2018, and in the last 90 days supply grew **+0.08%**, almost all from a **12,002 QNT** Quant team wallet release on Oct 6 and Oct 10 2026. There is no buyback and no fee burn; only **8.6 QNT** was lost in the token contract. The main supply risk is the **56,315 QNT** still in two team wallets, about 0.39% of supply, and the parked 2018 creation switch, unused since 2019. For the next 90 days we expect supply to stay flat at **0.00%**.
+QNT supply is roughly steady: it grew **+0.08%** in the 90 days to Nov 2 2026, all from a **12,002 QNT** release by a Quant team wallet on Oct 6 and Oct 10 2026. No QNT has been minted since June 2018, nothing vests, and there is no buyback or fee burn. The main supply risk is the **56.31K QNT** still in two team wallets, plus an old sale contract whose idle owner key could in theory create new coins. With about **14.56M** QNT circulating out of **14.61M**, almost the whole supply is already on the market.
 
 ---
 
-*MrNasDog Pressure Framework analysis of QNT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 23 2026.*
+*MrNasDog Pressure Framework analysis of QNT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 2 2026.*
