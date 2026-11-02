@@ -1,64 +1,66 @@
 ---
-title:         "ENA Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description:   "ENA supply grew +15.89% in 90 days as 2.13B ENA unlocked, led by the 1.41B investor release of Oct 5 2026. Next 90 days: team coins only, +2.10%."
+title:         "ENA Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
+description:   "ENA supply grew +15.89% in 90 days as 2.13B ENA unlocked, mostly the early investor release on Oct 5 2026. Only 281M team coins unlock next; no burn yet."
 canonical_url: "https://mrnasdog.com/research/ena/inflation"
 tags:          ["crypto", "ena", "ethena", "stablecoins"]
 published:     true
 ---
 *Originally published at [https://mrnasdog.com/research/ena/inflation](https://mrnasdog.com/research/ena/inflation)*
 
-<!-- main-page -->
-Looking for the buy-or-sell answer? It is on the ENA coin page, with demand and price drivers: [mrnasdog.com/research/ena](https://mrnasdog.com/research/ena)
+# ENA Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 
-
-# ENA Inflation Analysis · October 2026 · Supply growing · projected to keep growing
-
-Ethena (ENA) supply grew fast in the last 90 days and will grow much more slowly in the next 90. Between Jul 25 and Oct 23 2026 unlocks added **2.13B ENA** to circulation, a net **+15.89%**, most of it the **1.41B ENA** investor remainder released in one go on Oct 5 2026. For the next 90 days only team coins unlock, **281.25M ENA** or about **+2.10%**. ENA mints nothing new and burns nothing; its supply is a fixed **15B**, and the voted-in ENA buyback stays off until USDe supply reaches $7.5B.
+ENA supply grew fast over the last 90 days and will keep growing, but far more slowly. Between Aug 4 and Nov 2 2026, unlocks added **2.13B ENA** to a float that now stands at **13.41B ENA**, a rise of **+15.89%**, driven mostly by the early release of every remaining Ethena investor coin on Oct 5 2026. Nothing was burned or bought back. In the next 90 days only team coins unlock, **281.25M ENA**, or **+2.10%**; other trackers show **+40.22%** for the last 90 days because they also started counting a Foundation and ecosystem pool as unlocked.
 
 ## The verdict, in one paragraph
 
-Over the last 90 days the circulating ENA supply rose by **2.13B ENA** against **13.41B ENA** circulating today, a net **+15.89%**, with nothing taken back out. Our projection for the next 90 days is **+2.10%**, because the investor calendar is finished and only the team's monthly tranche of **93.75M ENA** is left. Other trackers show **+40.22%** for the same 90 days, a gap of **24.33 points**, so the coin page carries a warning note. Most of that gap is not new ENA: on Oct 6 2026 those trackers started counting about **1.72B ENA** still held for the Ethena Foundation and the ecosystem pool as unlocked, although no release of those coins was announced. That jump leaves their 90-day figure around Jan 4 2027. The on-chain reading stands: ENA is an unlock-driven token whose heaviest unlock is now behind it.
+Our net reading for ENA over the last 90 days is **+15.89%**: **2.13B ENA** of new sell pressure against **0** of buy pressure, on a circulating supply of **13.41B ENA**. The forward 90 days read **+2.10%**. Other trackers show **+40.22%** for the same 90 days, a gap of **24.33 points**, so the coin page carries a warning note. The gap has one clear cause: on Oct 6 2026 those trackers began counting about **1.72B ENA** held for the Ethena Foundation and the ecosystem pool as unlocked, though no release of those coins was announced. Our figure keeps to the unlocks that were scheduled or announced. The label that fits ENA today: an unlock-driven token whose largest unlock is now behind it, with a steady team release still to run until March 2028.
 
 ## Sell pressure: where new ENA comes from
 
-Protocol inflation is **0**. ENA pays no staking rewards and no block rewards, and the ENA contract on Ethereum read exactly **15,000,000,000 ENA** at both ends of the window. The contract does keep a mint switch: Ethena's governance timelock could create up to **1.5B ENA** at a time. It has never been used since launch, and no governance proposal asks for it.
+**Protocol inflation is 0.** The ENA contract on Ethereum can mint up to 10% more supply once a year with its owner's approval, but that power has never been used since the token was created on Mar 5 2024. ENA supply read exactly **15B** on Aug 4 2026 and again on Nov 2 2026, and the contract's record of its last mint still points to the launch day.
 
-Vesting unlocks are the main source of new ENA: **1.84B ENA** in the last 90 days. Core contributors hold 30% of supply and receive **93.75M ENA** early each month until March 2028, which came to **281.25M ENA** in the window. Investors hold 25% and used to receive 78.125M ENA a month. On Aug 27 2026 the Ethena Foundation agreed with lead investors to end that schedule, and on Oct 5 2026 every remaining investor coin, **1.41B ENA**, unlocked at once. Together with the August and September tranches, investors received **1.56B ENA** in the window. Part of that release went to the Foundation itself, which had bought the locked coins of seed investors who had been selling. After Oct 5 2026 the only locked ENA is the team's **1.59B ENA**, so the next 90 days bring three team unlocks worth **281.25M ENA**.
+**Vesting unlocks added 1.84B ENA.** Ethena's team and investor coins were locked for one year, then set to unlock in 36 equal monthly steps on the 5th of each month. The team released **93.75M ENA** on Aug 5, Sep 5 and Oct 5 2026. Investors released **78.125M ENA** on Aug 5 and Sep 5. Then, under the Ethena Foundation's Aug 27 2026 deal with its lead investors, every remaining investor coin, **1.41B ENA**, unlocked at once on Oct 5 2026, ending the investor schedule 17 months early. Some of those coins went to the Foundation itself, which had bought the locked coins of seed investors who had been selling. In the next 90 days only the team unlocks: **93.75M ENA** on Nov 5 2026, Dec 5 2026 and Jan 5 2027, **281.25M ENA** in all, with **1.59B** team ENA still locked.
 
-Foundation and other unlocks added **285.94M ENA**: the Foundation's monthly share of 40.63M ENA and the ecosystem pool's 54.69M ENA unlocked in August, September and October 2026. Since Oct 6 2026 the rest of both pools counts as circulating, so further Foundation spending adds nothing new to the count for the next 90 days. There is no long-term lock or bankruptcy estate to release; the four-year lock on the largest treasury company's ENA was waived from Oct 5 2026, but those coins already counted as circulating, so that row is **0**.
+**Foundation and ecosystem unlocks added 285.94M ENA.** The Ethena Foundation and the ecosystem pool released about **95.31M ENA** a month on Aug 5, Sep 5 and Oct 5 2026. From Oct 6 2026 the rest of that pool counts as circulating, so nothing more is expected from it as a monthly unlock; those coins are tracked as an overhang below.
+
+**Long-term locked or bankruptcy is 0.** No court estate holds ENA. The listed treasury company that owns about **3.03B ENA** had its lock-up waived from Oct 5 2026, but it still needs the Foundation's written consent to sell and its coins already count as circulating. The Binance hacker sold about **217.5M ENA** on Oct 30 2026, coins that were already in the market.
 
 ## Buy pressure: where new ENA goes
 
-Nothing took ENA out of circulation in the last 90 days, and nothing is expected to in the next 90. The programmatic buyback is **0**. ENA holders approved a fee switch in September 2026 that sends up to **95%** of the Foundation's net revenue into ENA buybacks, starting at 5% of protocol revenue once USDe supply averages **$7.5B** over 14 days and rising to 20% at $20B. USDe supply is about **$4.6B** today, so the switch has not turned on, and Ethena has not said whether bought ENA will be burned or held.
+**Programmatic buyback is 0.** ENA holders approved the Ethena fee switch in September 2026: once USDe supply averages **$7.5B** over 14 days, 5% of Ethena's protocol revenue goes to ENA buybacks, rising in steps to 20% at $20B. USDe sits near **$4.6B**, so the buyback has not started and is unlikely to start in the next 90 days unless USDe grows by about 60%.
 
-The fee burn is **0**: ENA has no burn, and the burn address held nothing at either end of the window. The Foundation buy row is **0** as well. The Foundation's August 2026 off-market purchase from seed investors bought coins that were still locked; they unlocked into the Foundation's hands on Oct 5 2026, so the deal moved coins between holders rather than out of circulation. New long-term locks are **0**: staked ENA still counts as circulating, and the staking contract actually shrank from 1.0B ENA on Jul 25 2026 to **972.46M ENA** on Oct 23 2026.
+**Protocol fee burn is 0.** ENA has no burn. Total supply did not move, and the dead address held the same **2.63 ENA** at both ends of the window.
+
+**Foundation buy is 0.** The Ethena Foundation's August 2026 purchase from seed investors was of locked coins, bought off the market, so it did not take circulating ENA away. Those coins joined circulation on Oct 5 2026 inside the investor release above.
+
+**New long-term lock is 0.** Staked ENA still counts as circulating, so staking removes nothing. The ENA staking pool held **959.6M ENA** on Nov 2 2026, down from **1.14B** on Aug 4 2026.
 
 ## Foundation and overhang
 
-The largest ENA overhang is the team allocation: **1.59B ENA** still locked, unlocking at 93.75M ENA a month until March 2028. These coins sit with a custodian, not in a public vesting contract, so we follow the published calendar. The second is the Ethena Foundation and the ecosystem pool, about **1.72B ENA** that now counts as circulating although it was meant to unlock month by month until April 2028; the Foundation can spend it on grants, rewards or sales at any time, and that would add no new supply to the count but would add real coins to the market. The third is the listed treasury company that bought ENA from the Foundation: about **3.03B ENA**, or roughly 20% of all ENA. Its lock ended on Oct 5 2026, but any sale needs the Foundation's written consent and five business days' notice, with the Foundation allowed to buy first. Its wallets did not move in the window.
-
-No buyback wallet exists yet, because the fee switch has not started. We re-check the team calendar, the treasury company's holdings and the Foundation's wallets at every rebuild. If any of these balances falls between refreshes, the outflow enters the Foundation and unscheduled unlocks row at the next refresh.
+The biggest overhang is the Ethena Foundation and ecosystem pool. Since Oct 6 2026 about **1.72B ENA** of it, about 731M for the Foundation and about 984M for the ecosystem, counts as circulating, though Ethena announced no release of those coins. The Foundation also holds the locked investor coins it bought in August 2026; Ethena has not disclosed the amount. An Ethena-tagged custody wallet holds about **1.11B ENA** after sending **128.6M ENA** on Oct 30 2026, the day after the Binance hack, in transfers reported as bound for Binance. The team still has **1.59B ENA** locked, released at 93.75M a month until March 2028. The listed treasury company's **3.03B ENA** can now be sold only with the Foundation's consent and five business days' notice. If any of these holdings falls between our checks, the outflow enters the Foundation row at the next refresh.
 
 ## How ENA compares to other DeFi governance tokens
 
-ENA belongs to the group of fixed-supply DeFi tokens whose supply grows only through vesting, not through emissions. In that group, the share of supply still locked decides the pressure. After Oct 5 2026 ENA has about **89%** of its 15B supply unlocked, with only the team calendar left, which puts it closer to a mature, mostly vested token than to a young one with years of investor unlocks ahead. The difference from tokens such as UNI or AAVE is that ENA's holders get no buyback yet: those protocols already return fees to their token, while ENA's fee switch waits on USDe growth.
+ENA belongs to the group of DeFi governance tokens with a fixed 15B cap, no fee burn and a large share held for the team and investors at launch. For tokens like this, supply growth is not about new minting but about locked coins reaching the market. ENA's investor unlock is now finished, 17 months early, so its forward rate drops from a double-digit 90-day pace to about **+2.10%**, all from team coins. Tokens whose investor schedules still run to 2027 or 2028 keep that second stream; ENA no longer does.
 
-Against buyback-first tokens such as HYPE, where fee revenue buys tokens every day, ENA is the opposite case today: unlocks without an offsetting buyer. The approved fee switch could change that, but at its first step it would capture about $22.5M a year, far less than the dollar value of the team's monthly unlocks. ENA also differs from staking chains such as ETH: it creates no new coins at all, so once the team calendar ends in March 2028 its circulating supply can only stop growing, unless governance ever uses the mint switch.
+On the buy side, ENA sits between two models. Some DeFi tokens already spend a share of fees on buybacks every day, which cancels part of their unlocks. ENA has voted for the same thing but tied it to USDe growth: nothing is bought until USDe supply reaches **$7.5B**. Until then ENA behaves like a token with no built-in buyer, and its supply only grows.
+
+Compared with proof-of-stake chains that pay validators in new coins, ENA's new supply is lumpier but has an end: once the last team tranche unlocks in March 2028, scheduled supply stops, unless the owner-gated 10% yearly mint is ever used.
 
 ## What to watch in the next 90 days
 
-Nov 2 2026, Dec 2 2026 and Jan 2 2027: the three team unlocks of **93.75M ENA** each, the only scheduled new supply in the next 90 days.
+**Nov 5 2026:** the next team tranche, **93.75M ENA**, with the same amount due on Dec 5 2026 and Jan 5 2027.
 
-USDe supply: the buyback starts only after a 14-day average of **$7.5B**, against about $4.6B today; a sharp rise in USDe is the one thing that would add a buyer.
+**USDe supply against $7.5B:** the fee-switch buyback starts only when the 14-day average crosses that line; USDe was near $4.6B on Nov 2 2026.
 
-The Master Framework Agreement between Ethena Labs and the Foundation, expected in October 2026, which should say how protocol value and revenue flow to the Foundation and so to ENA buybacks.
+**The Ethena-tagged custody wallet and the Foundation pool:** after the 128.6M ENA moved on Oct 30 2026, any further large transfer from these holdings would add selling the schedule does not show.
 
-Any sale notice from the treasury company holding about **3.03B ENA**, and any large movement from Foundation wallets now that their coins count as circulating.
+**The listed treasury company:** any sale notice under its new terms with the Foundation would be a dated event to watch.
 
-Around Jan 4 2027 the Oct 6 2026 recount leaves other trackers' 90-day window, and their figure should fall back toward ours.
+**The Foundation-Ethena Labs agreement:** the Master Framework Agreement announced on Aug 27 2026 was expected to be published in October 2026; it hands protocol IP and the value it earns to the Foundation, governed by ENA holders.
 
 ## Summary
 
-Ethena's ENA supply grew **+15.89%** over the 90 days to Oct 23 2026, driven by the **1.41B ENA** early investor release on Oct 5 2026, and is projected to grow only about **+2.10%** over the next 90 days as just the team's **93.75M ENA** monthly tranche remains. ENA has a fixed 15B supply, no emissions and no burn, and its voted-in buyback stays off until USDe supply reaches $7.5B. The key risk is selling by large holders whose coins are already unlocked, the Foundation pools and the treasury company with about 3.03B ENA; the ceiling is that only **1.59B ENA** of team coins is left to unlock, ending in March 2028.
+ENA supply rose **+15.89%** in the 90 days to Nov 2 2026, as **2.13B ENA** unlocked, most of it the early release of every remaining Ethena investor coin on Oct 5 2026. Nothing is burned and the voted ENA buyback starts only when USDe supply reaches $7.5B, so for now nothing takes ENA back off the market. In the next 90 days only team coins unlock, **281.25M ENA**, or about **+2.10%**, and the team schedule runs until March 2028 inside a fixed 15B cap. Other trackers show +40.22% because they began counting about 1.72B Foundation and ecosystem coins as unlocked on Oct 6 2026, not because more ENA was released.
 
-*MrNasDog Pressure Framework analysis of ENA, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 23 2026.*
+*MrNasDog Pressure Framework analysis of ENA, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 2 2026.*
