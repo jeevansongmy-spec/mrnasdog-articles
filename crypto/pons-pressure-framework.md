@@ -1,6 +1,6 @@
 ---
-title:         "PONS Inflation Analysis · October 2026 · Supply shrinking · projected to keep shrinking"
-description:   "PONS is shrinking: no new coins, and fee buybacks plus holder burns removed 111.71M PONS in 90 days. Net −16.61%, about −14.32% projected for the next 90 days."
+title:         "PONS Inflation Analysis · November 2026 · Supply shrinking · projected to keep shrinking"
+description:   "PONS is shrinking: no new coins, while the fee-funded buyback and holders burned 84.89M PONS in 90 days. Net −12.65%, with the next pace set by launchpad fees."
 canonical_url: "https://mrnasdog.com/research/pons/inflation"
 tags:          ["crypto", "pons", "launchpad", "tokenburn"]
 published:     true
@@ -10,52 +10,68 @@ published:     true
 <!-- main-page -->
 The Pons coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/pons](https://mrnasdog.com/research/pons). Below: supply, line by line.
 
-# PONS Inflation Analysis · October 2026 · Supply shrinking · projected to keep shrinking
+# PONS Inflation Analysis · November 2026 · Supply shrinking · projected to keep shrinking
 
-PONS is deflationary: no new PONS can be created, and the Pons launchpad spends its own fee income buying PONS and burning it. Between Jul 26 and Oct 24 2026 the burn address took in **111.71M PONS**, of which **95.43M** came from the fee-funded buyback, so the circulating supply shrank by **16.61%** with **0** new coins on the sell side. If the same dollars kept flowing at today's price, the buyback would burn about **96.29M PONS**, or **14.32%**, in the next 90 days; the real limit is launchpad fees, which have fallen hard since September.
+PONS is deflationary. The token has a fixed supply of **1B** that can never grow, and Pons uses most of its own cut of launchpad fees to buy PONS and burn it. In the 90 days from Aug 5 to Nov 3 2026 nothing new was added, while the buyback burned **68.61M PONS** and holders burned another **16.28M**, so supply fell about **12.65%**.
+
+Other trackers show a fall of about **11.25%** for the same burn. If fee money holds at its 90-day level, about **105.73M PONS** would burn in the next 90 days, close to **15.76%** of supply. Fees are much lower than that today.
 
 ## The verdict, in one paragraph
 
-Our net reading for PONS over the last 90 days is **−16.61%**: zero PONS added to the market and 111.71M PONS removed, out of **672.54M** PONS now circulating. The supply monitor shows **−14.46%** for the same 90 days, a gap of **2.15 percentage points**. Both see the same burn; the monitor sets it against the larger supply of late July, about 786M PONS, so its percentage is smaller. No coins are missing from either count, and no warning flag is shown. For the next 90 days the projection is **−14.32%**. In one line: PONS is a fixed-supply launchpad token that shrinks only as fast as its fees allow.
+PONS supply is shrinking fast, and nothing pushes it the other way. On Nov 3 2026 about **670.97M PONS** were left of the 1B made at launch, after **329.04M** had been sent to the burn address since Jul 13 2026. Over the last 90 days the net change was **−12.65%**, against **−11.25%** on other trackers. Both see the same burn of about 85M PONS, so the coin page carries no warning note. The label is simple: supply shrinking, projected to keep shrinking. The open question is speed, not direction. The burn is paid for by launchpad fees, and those fees are now a small fraction of what they were in early September 2026.
 
 ## Sell pressure: where new PONS comes from
 
-Protocol inflation is **0**. All 1B PONS were created in a single mint when the token launched on Robinhood Chain on Jul 13 2026, and the supply recorded in the PONS contract read exactly 1B on both Jul 26 and Oct 24 2026. The PONS contract has no mint function, so there is no emission, no staking reward and no inflation schedule to watch.
+**Protocol inflation: 0.** PONS has no mint. All 1B PONS were created in one go when the token launched on Jul 13 2026, and the token code holds no way to create more.
 
-Vesting unlocks are **0**. PONS launched through the Pons launchpad like any other token: the whole 1B went straight into its trading pool, and the team, early buyers and everyone else bought from that same pool. There was no team share, no investor round and no sale allocation, so there is no unlock calendar and no cliff waiting in the next 90 days.
+**Vesting unlocks: 0.** There is no vesting schedule because there was never a team, investor or sale share. On launch day the whole 1B went into the PONS trading pool, and everyone, the team included, has had to buy from that pool.
 
-Foundation and unscheduled unlocks are **0**. The Pons team and its buyback wallets do hold some PONS, but every PONS outside the burn address already counts as circulating, so moving or selling them would not add new supply. Long-term locked or bankruptcy supply is also **0**: no court case, estate or locked pile of PONS exists.
+**Foundation and unscheduled unlocks: 0.** The Pons team wallets hold PONS that already counts as circulating, so a sale from them would move coins, not add them. The wallets are listed under Foundation and overhang below.
+
+**Long-term locked or bankruptcy: 0.** No PONS sits in a court estate or a long lock waiting to be paid out.
 
 ## Buy pressure: where new PONS goes
 
-The programmatic buyback removed **95.43M PONS** in 90 days. Every trade on the Pons launchpad pays a fee in ETH, Pons keeps a share of it, and the docs say **80%** of that share buys PONS on the open market while the rest pays for running the business. Each bought PONS goes to a burn address that nobody can spend from. In the window the buyback spent **8,965 ETH**, about **$22.0M**. Until Sep 2 2026 one Pons wallet ran the buys; since then a contract has done it in many small steps, and on Oct 3 2026 Pons moved it to a 7-day cycle: fees are claimed once a week and spent over the following week.
+**Programmatic buyback: 68.61M PONS.** Every trade on a Pons launch pays a 1% pool fee. Token creators keep most of it, and Pons keeps a share; Pons says 80% of its share buys PONS and burns it, and the other 20% pays for running the business. From Aug 5 to Nov 3 2026 this burned **68,614,706 PONS**, about **$21.2M** of buying. Until Sep 2 2026 the PONS fee wallet bought and burned by hand; since then a buy-and-burn contract has done it in thousands of small buys. On Oct 3 2026 the Pons founder said fee money is now claimed every 7 days and spent over the next 7. Every bought coin goes straight to the burn address, which anyone can check on-chain.
 
-The size of the burn follows the fees, and the fees have dropped. In the first half of September the buyback was often burning 1M to 2M PONS a day; in the last 7 days it burned **2.17M PONS** in total. Our next-90-day figure of **96.29M PONS** takes the last 90 days of buyback dollars at today's price of about $0.23. If fees stay at this week's level, the real burn would be closer to a third of that.
+The forward number depends on fees. If the next 90 days bring the same dollars as the last 90, today's price of about $0.20 would buy and burn about **105.73M PONS**. But most of those dollars came in September. At the last 30 days' pace the burn would be closer to **44.62M**, and at the last 7 days' pace closer to **16.68M**. The burn will still beat new supply by a mile, because new supply is zero, but readers should expect the shrink to slow unless launchpad trading picks up.
 
-The protocol fee burn is **0**, because launchpad fees are paid in ETH, not PONS; the PONS that fees buy is already counted in the buyback. Foundation buy is **0**: we found no purchase by the team beyond the fee buyback. New long-term lock is **0**, because PONS has no staking and no lock. As a fifth line, holders burned **16.28M PONS** themselves, almost all in August 2026; the last large holder burn was on Sep 1 2026, so none is counted for the next 90 days.
+**Protocol fee burn: 0.** Fees are paid in ETH, so PONS is never burned straight out of fees. It only leaves supply when someone buys it and sends it to the burn address.
+
+**Foundation buy: 0.** The team does not buy PONS to hold. Uniswap Labs bought a stake on Sep 3 2026, but it bought coins that were already circulating and kept them, so nothing left the count.
+
+**New long-term lock: 0.** PONS has no staking or lock-up program.
+
+**Holder burns: 16.28M PONS.** Holders also burned their own coins: 16,278,283 PONS from 93 wallets in the 90 days, the biggest single wallet 8.35M in mid-August. These burns came in bursts and the last large one was on Sep 1 2026. With no schedule, none are counted for the next 90 days.
 
 ## Foundation and overhang
 
-No large pile of PONS sits outside the market. The Pons team multisig holds **385,359 PONS**. The wallet that ran the buyback until Sep 2 2026 still holds **297,242 PONS** it bought but did not burn. A wallet that was active in launch week holds **3.10M PONS**. The buyback contract holds **66.4 ETH** of fees waiting to be spent, which will turn into burned PONS over the coming days. Together the three wallets hold about 3.8M PONS, about 0.6% of the circulating supply, and all of it already counts as circulating.
+PONS has no locked team pile waiting to unlock. The Pons team multisig, which also runs the fee lockers, held **385.36K PONS** on Nov 3 2026, and the PONS fee wallet, which collects the creator share of PONS trading fees, held **319.83K PONS**; that fee wallet has not burned anything since Sep 2 2026. The buy-and-burn contract held no PONS at all, only ETH waiting to be spent. Together the team wallets hold about a tenth of one percent of supply, and all of it already counts as circulating.
 
-We check these balances on-chain at every rebuild. If any of these wallets' balances fall between checks, the outflow enters Sell #3 at the next refresh; and if the buyback contract stops burning while its ETH keeps piling up, the burn line comes down at the next refresh.
+## How PONS compares to other launchpad tokens
 
-## How PONS compares to other launchpad and buyback tokens
+The closest match is PUMP, the token of Pump.fun on Solana. PUMP also turns platform revenue into buybacks that are burned, and in the 90 days to Nov 2 2026 those burns took out about 4% of its supply. But PUMP still has team and investor coins unlocking, so its burn fights new supply. PONS has no unlocks at all, so every coin burned is a straight cut. HYPE on Hyperliquid also buys its own token back with fees, but HYPE still has team coins unlocking as well.
 
-PONS is the cleanest supply shape among launchpad tokens: a fixed 1B supply, no unlocks and a buyback that destroys what it buys. pump.fun's PUMP also buys back its own coin with platform fees, and in our latest check that buyback took about 20.40B PUMP in 90 days, around 4.4% of its float. But PUMP still has team and investor unlocks of 7.50B PUMP every month, so part of its buyback only absorbs new coins. PONS has nothing to absorb: every PONS bought is a net removal.
-
-Hyperliquid's HYPE is the best-known buyback token. Its buyback removed about 2.18M HYPE in 90 days, about 1% of its float, while monthly team payouts and other releases added more than that. PONS burned a far larger share of its supply, but it rests on a much narrower business: a single launchpad on one chain whose fees depend on how hot new tokens on Robinhood Chain are. HYPE's fees come from a large trading exchange; PONS's come from new-token mania, which rose and fell within weeks in 2026.
-
-Compared with exchange tokens that burn on a fixed quarterly date, PONS burns all the time, in small buys every hour, so there is no single burn day to watch. The trade-off is that the burn has no floor: it is only as large as the week's fees.
+The trade-off is that the PONS burn has nothing behind it except fees from one launchpad on one chain. Pons says the 80% split is not locked in code yet, and fees fell as the rush for new tokens on Robinhood Chain cooled and other launchpads arrived. So PONS has the cleanest supply story of the group, and the most fragile buyer.
 
 ## What to watch in the next 90 days
 
-First, the weekly fee claim. Since Oct 3 2026 the buyback contract is filled once every 7 days; a missed or smaller claim shows up within a week as a slower burn. Second, launchpad fees: in the last 7 days traders paid about **$3.0M** in Pons fees, against more than $50M in the busiest week of early September. Third, the buyback contract itself: Pons upgraded it again on Oct 16 2026 without an announcement, and the share of fees sent to the buyback is not fixed in code. Fourth, Pons's v2 launchpad, where public launching is currently closed to non-approved wallets; reopening it, or a new rival launchpad on Robinhood Chain, would move fees either way.
+**Weekly fee claims, from Nov 3 2026.** The buyback now spends one week of fees over the next week. The size of each week's burn is the clearest live read on Pons' business.
+
+**The new Pons rollout, no date yet.** On Nov 3 2026 the Pons docs said the team is upgrading its backend ahead of a new rollout. A busier launchpad would mean more fees and a bigger burn.
+
+**Making the 80% buyback permanent, no date yet.** Pons says the split will become fixed and automatic in a future release. Until then the team can change it.
+
+**Robinhood Crypto app, since Oct 28 2026.** PONS became easy to find in the Robinhood Crypto app on Oct 28 2026. If that brings new buyers, it adds demand, though it adds no fees by itself.
 
 ## Summary
 
-PONS has a fixed 1B supply with no unlocks and no new coins, and the Pons launchpad uses most of its fee cut to buy PONS and burn it. That removed 111.71M PONS in the 90 days to Oct 24 2026, a **16.61%** drop in circulating supply, and at today's price the same dollars would remove about 14.32% more. The key risk is that the burn is only as big as launchpad fees, which have fallen by more than nine tenths since September, so the real burn may come in well under the projection. Supply can only shrink from here; the open question is how fast.
+PONS has a fixed supply of 1B and no way to mint more, no vesting and no team unlocks.
 
----
+From Aug 5 to Nov 3 2026 the fee-funded buyback burned 68.61M PONS and holders burned 16.28M more, so supply fell about 12.65%.
 
-*MrNasDog Pressure Framework analysis of PONS, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 24 2026.*
+If fee dollars match the last 90 days, about 105.73M more PONS would burn by early February 2027, but at today's lower fees the burn would be well under half of that.
+
+PONS supply will keep shrinking; how fast depends entirely on how much people trade on the Pons launchpad.
+
+*MrNasDog Pressure Framework analysis of PONS. Data and explanation only, not financial advice. Checked Nov 3 2026.*
