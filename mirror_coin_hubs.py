@@ -13,13 +13,8 @@ The coin file is the live text version https://mrnasdog.com/research/<slug>.md, 
 Per run: write files → guards (members-only text, canonical, H1) → ONE git commit + push → per-file GitHub receipts in
 .pipeline-state.json → ONE Telegram receipt post (his proof a send went out). Never one post per coin.
 """
-import sys
-if "--force-retired" not in sys.argv:
-    # RETIRED Oct 21 2026 (George's SEO change, MrNasDog's approval): the coin MAIN-page mirrors got 0 views in 14 days and
-    # were never cited. The nightly coin routine no longer runs this. Pass --force-retired only if he asks for it again.
-    print("mirror_coin_hubs.py is retired (Oct 21 2026). Nothing was done.")
-    sys.exit(0)
-sys.argv = [a for a in sys.argv if a != "--force-retired"]
+# NEVER RETIRED (his rule Nov 4 2026): the nightly coin routine runs this every night — its ONE Telegram receipt post is
+# his proof in the channel that the night went out. (It was stopped Oct 21 2026; the channel then went 14 nights silent.)
 
 import hashlib, json, os, re, subprocess, sys, urllib.request
 from datetime import datetime, timezone
