@@ -1,56 +1,67 @@
 ---
-title:         "ETC Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description:   "Supply growing: ETC reads +0.59% over 90 days and the same next. Mining pays 942,692 new ETC to miners at 1.6384 a block, and nothing is burned or bought back."
+title:     "ETC Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
+description:  "Ethereum Classic supply over 90 days: 943K new ETC paid to miners, no burn, no buyback, no unlocks. Net +0.59%, the same next, under a 210.7M ETC limit."
 canonical_url: "https://mrnasdog.com/research/etc/inflation"
-tags:          ["crypto", "etc", "ethereumclassic", "mining"]
-published:     true
+tags:     ["crypto", "etc", "ethereumclassic", "mining"]
+published:   true
 ---
-Originally published at [ETC Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/etc/inflation).
+*Originally published at [https://mrnasdog.com/research/etc/inflation](https://mrnasdog.com/research/etc/inflation)*
 
-# ETC Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+<!-- main-page -->
+➜ Start with the Ethereum Classic coin page for the short answer (should you buy ETC?) and its price drivers: [mrnasdog.com/research/etc](https://mrnasdog.com/research/etc)
 
-Ethereum Classic (ETC) supply is growing at a steady, slow pace: **+0.59%** over the 90 days from Jul 26 to Oct 24 2026, and about **+0.59%** again over the next 90 days. Miners were paid **942,692 ETC** of new coins, and nothing on the chain is burned or bought back, so every new ETC stays in the market. ETC has no team allocation, no vesting and no unlocks; the block reward is cut by 20% every 5 million blocks, which caps total supply at about **210.7M ETC**.
+# ETC Inflation Analysis · November 2026 · Supply growing · projected to keep growing
+
+Ethereum Classic's supply is growing at a slow, steady pace: up **+0.59%** in the 90 days from Aug 5 to Nov 3 2026, and on course for about **+0.59%** in the next 90 days. Miners were paid **943,136 ETC** of new coins while nothing was burned, bought back or locked, and ETC has a hard limit of about **210.7M** coins. Other trackers show **+0.75%** for the same period, close to ours, so the coin page carries no warning note.
 
 ## The verdict, in one paragraph
 
-Over the last 90 days the Ethereum Classic ledger reads **+0.59%** net new supply, and the next 90 days read about the same, **+0.59%**, because the block reward will not change again until block 30,000,001, close to two years away. Other trackers that follow ETC's market supply show **+0.71%** over the same stretch, a gap of **0.12 points**. That is small enough that both readings agree, so no warning is shown on the coin page. In one line: Ethereum Classic is a quiet proof-of-work chain that adds about 0.6% of new coins every quarter and takes none back.
+Ethereum Classic is a mined coin with one source of new supply and no way out. Every block pays its miner **1.6384 ETC**, and from Aug 5 to Nov 3 2026 that added **943,136 ETC**, about **10,480 ETC** a day, to the **158.91M ETC** already in circulation. That is a net **+0.59%** in 90 days, and the next 90 days should look the same because the miner pay stays fixed until the next cut, around Sep 2028. Other trackers show **+0.75%**; the difference is small and comes from one-day recounts in their supply figure, so no warning note is needed. Label: **supply growing, slowly and on a fixed schedule.**
 
 ## Sell pressure: where new ETC comes from
 
-Mining is the only source of new ETC. Between Jul 26 and Oct 24 2026 the chain produced **573,894 blocks**, one about every 13.6 seconds, and each one paid its miner **1.6384 ETC**. That reward has applied since block 25,000,001 on Jul 22 2026, when the fifth 20% cut under the ECIP-1017 monetary policy took it down from 2.048 ETC. Ethereum Classic still pays for uncle blocks, the valid blocks that lose a race: the uncle's miner gets 0.0512 ETC and the block that includes it gets another 0.0512 ETC. The window held **23,669 uncles**, worth about **2,424 ETC**. Together, Sell #1, protocol inflation, comes to **942,692 ETC** over 90 days, about **10,474 ETC a day**. Transaction fees also go to miners, but those are coins that already exist, so they add nothing.
+**Protocol inflation, 943,136 ETC.** Ethereum Classic pays miners in freshly made coins, and the pay falls by 20% every 5 million blocks. The latest cut came on Jul 22 2026 at block 25,000,001, when the reward dropped from 2.048 ETC to **1.6384 ETC** per block, so the whole 90-day window ran at the new, lower rate. Between Aug 5 and Nov 3 2026 the chain made **574,167 blocks**, one about every 13.5 seconds. On top of that, a miner whose block arrives a moment too late can still be paid a little when a later block includes it, and the miner who includes it gets the same small extra. There were **23,644** of these near-miss blocks in the window, adding **2,421 ETC**. Miners usually sell a large share of their pay to cover power and machines, so this is real, steady sell pressure.
 
-Sell #2, vesting unlocks, is **0**. Ethereum Classic is the original Ethereum chain from July 2015; the coins from the 2014 sale and the genesis block were all liquid from day one, and there is no investor or team schedule left to run. Sell #3, foundation and unscheduled unlocks, is also **0**: no foundation or company holds a reserve that sits outside the market count, and circulating supply and total supply are the same. Sell #4, long-term locked or bankruptcy coins, is **0**; no court estate or locked pile of ETC is waiting to be paid out.
+**Vesting unlocks, zero.** Ethereum Classic has no team or investor allocation and no vesting schedule. Its oldest coins come from the 2014 Ethereum sale and have been spendable since the chain started in 2015.
+
+**Foundation and unscheduled unlocks, zero.** No foundation, company or network treasury holds a reserve outside the circulating count. Grants groups that support Ethereum Classic spend coins that already circulate, so their spending adds no new supply.
+
+**Long-term locked or bankruptcy, zero.** No court estate or bankruptcy pile of ETC is waiting to be paid out to creditors.
 
 ## Buy pressure: where new ETC goes
 
-Nothing on Ethereum Classic removes coins. Buy #1, programmatic buyback, is **0**: no contract, company or treasury buys ETC back. Buy #2, protocol fee burn, is also **0**. Ethereum adopted a base-fee burn in 2021, but Ethereum Classic never did; the latest block header on Oct 24 2026 still carries no base fee, and the miner of a recent block received exactly 1.6384 ETC plus every fee paid in it. A few people send coins to dead addresses by mistake: the zero address and the common dead address received about **11.1 ETC** in the window, too small to count and not a protocol mechanism.
+**Programmatic buyback, zero.** Nothing buys Ethereum Classic back on the network's behalf, and no protocol revenue is set aside for it.
 
-Buy #3, foundation buy, is **0**: no project body buys ETC. Buy #4, new long-term lock, is **0**: Ethereum Classic runs on proof of work, so there is no staking that could take coins off the market. Total buy pressure over 90 days is therefore **0 ETC**, and the next 90 days look the same.
+**Protocol fee burn, zero.** Unlike Ethereum, Ethereum Classic burns no fees. Every fee goes to the miner who made the block, on top of the block reward. About **11 ETC** was sent to dead addresses during the window, but those coins still count as circulating, so nothing actually left supply. A draft upgrade called Olympia would send the base part of each fee to a network treasury instead of the miner. Even if it goes live, that moves coins rather than destroying them, and it has no main-network date.
+
+**Foundation buy, zero.** No foundation or treasury buys ETC on the market. The largest fund, a US trust, issued no new shares in the first half of 2026, so it is not soaking up coins either.
+
+**New long-term lock, zero.** Ethereum Classic is secured by mining, not staking, so no coins are locked to run the chain, and no new long-term lock started in the window.
 
 ## Foundation and overhang
 
-Ethereum Classic has no team-controlled overhang. There was no team allocation when the chain split from Ethereum in 2016, and no foundation, DAO or company treasury holds coins outside the circulating count. Circulating supply and total supply are the same number, **158.80M ETC**, so every wallet on the chain already counts as part of the market. The ETC Cooperative, a small nonprofit that funds client work, last reported about 60,085 ETC at Sep 30 2025 and sells a few thousand each quarter to cover costs; those coins are already counted.
+Ethereum Classic has no team-controlled overhang. Every ETC already counts as circulating, and there is no foundation wallet, company treasury or unlock calendar sitting above the market. The biggest single holder is a US trust that held **10.85M ETC** on Jun 30 2026. It issues no new shares and takes no redemptions, and it only lets coins go slowly to pay its yearly fee, so it is a quiet holder, not a seller in waiting. The ETC Cooperative, a grants group, holds a smaller pile that it spends on development; those coins are part of the circulating count too.
 
-The largest single holder is an old US trust with **10.85M ETC** at Jun 30 2026, close to 7% of all coins. It issued no new shares in the first half of 2026 and runs no redemption program, so its pile neither grows nor shrinks for now. It is a holder of coins already in circulation, not a reserve that could add new supply. We re-check these balances at every rebuild; if any of them were ever moved out of a pool the market does not count, that outflow would enter Sell #3 at the next refresh.
+## How ETC compares to other proof-of-work Layer 1 chains
 
-## How ETC compares to other proof-of-work chains
-
-Ethereum Classic sits between Bitcoin and the newer proof-of-work chains. Like Bitcoin, ETC has a hard cap and a built-in schedule of reward cuts, but it cuts by 20% every 5 million blocks (about every 2.2 years) instead of halving every four years. Bitcoin's supply grows about 0.2% per quarter after its 2024 halving; ETC's grows about 0.6%, three times as fast, because its reward is still large compared with its supply. Neither chain burns fees, so both are pure issuance stories.
-
-Against Ethereum, its own twin, ETC took the opposite path. Ethereum moved to proof of stake, pays validators with no cap and burns part of every fee; Ethereum Classic kept mining, a cap and no burn. Ethereum's 90-day growth sits near 0.2% because its burn and its stake-based pay keep issuance low, while ETC's fixed per-block reward makes it close to three times faster. What ETC lacks is any coin sink: when demand falls, nothing on the chain offsets the steady flow of new coins that miners sell to pay for power.
+Bitcoin and Litecoin cut miner pay in half every four years, so their supply growth drops in big steps. Ethereum Classic takes smaller steps: a 20% cut about every two years, which gives a smoother curve but a higher rate today. At **+0.59%** in 90 days, Ethereum Classic still grows faster than Bitcoin, whose miner pay was already halved four times. Like Bitcoin and Litecoin, Ethereum Classic has a fixed limit and no fee burn, so the only thing that slows its supply is the schedule itself. Ethereum, the chain it split from in 2016, moved to staking and added a fee burn; Ethereum Classic kept mining and kept every fee with the miners.
 
 ## What to watch in the next 90 days
 
-First, the block time. ETC issuance is paid per block, so if blocks come faster than the window's 13.6-second average, more ETC is minted in 90 days; if hash power leaves and blocks slow, less is.
+**Steady miner pay.** The reward stays at 1.6384 ETC per block until block 30,000,001, around Sep 2028, so expect about 10,480 new ETC a day through Feb 1 2027.
 
-Second, Binance closes its mining pool on Nov 10 2026, and miners who used it must point their machines to other pools. Because ETC adjusts its difficulty every block, this should change block times only briefly.
+**Binance closes its mining pool on Nov 10 2026.** Miners who used it must point their machines at other pools. That can slow blocks for a short while, but the chain adjusts its difficulty on every block, so supply growth should barely change.
 
-Third, the Olympia upgrade. It would add an EIP-1559 style base fee but send that fee to a community treasury instead of burning it. As of Oct 24 2026 it is still a draft with no main-network date, and on the Oct 23 2026 community call a core developer said barely anyone supports it. Even if it passed, it would move existing coins, not destroy them.
+**The Olympia upgrade.** The plan to send part of every fee to a network treasury is still a draft with no main-network block as of Nov 3 2026. If a date is set, it would change who receives fees, not how many new coins are made.
 
-Fourth, the trust's next quarterly report for Sep 30 2026, expected in early November, which will show whether its 10.85M ETC holding changed.
+**The US trust's next report.** Its Sep 30 2026 quarterly filing is due in early November 2026 and will show whether its 10.85M ETC holding has changed.
 
 ## Summary
 
-Ethereum Classic (ETC) is a capped proof-of-work coin whose supply grows about **0.59%** every 90 days, entirely from mining rewards of **1.6384 ETC** per block. Nothing is burned, bought back or locked, and there are no team unlocks, so the full **942,692 ETC** of new coins each quarter reaches the market. The main risk is that miners sell that flow into thin demand; the ceiling is the 210.7M cap, and the next 20% reward cut arrives at block 30,000,001, around September 2028.
+Ethereum Classic's supply grew **+0.59%** from Aug 5 to Nov 3 2026, all of it from **943,136 ETC** of new miner pay, and the next 90 days should look the same.
 
-*MrNasdog Pressure Framework analysis of ETC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 24 2026.*
+Ethereum Classic burns nothing, buys nothing back and locks nothing, so there is no buy pressure from the protocol to offset what miners sell.
+
+Ethereum Classic has no vesting, no team wallet and no unlock calendar, and its biggest holder, a US trust with 10.85M ETC, is not adding or releasing coins in any size.
+
+The next built-in slowdown for Ethereum Classic is the 20% pay cut around Sep 2028, well beyond the next 90 days.
