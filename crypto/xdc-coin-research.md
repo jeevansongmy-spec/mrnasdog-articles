@@ -1,32 +1,32 @@
 ---
-title:         "XDC Network (XDC) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "XDC Network mints a fixed 5,000 XDC every epoch for its masternodes and burns nothing. +0.09% last 90 days; about +0.09% next. 18.12B XDC still waits in locked reserves."
+title:         "Is XDC Network (XDC) Inflationary? +0.09% New Supply in 90 Days"
+description:   "How much new XDC is coming? +0.09% in the next 90 days, +0.37% in the next year — checked Nov 4 2026."
 canonical_url: "https://mrnasdog.com/research/xdc"
 content_type:  "coin_hub"
 tags:          ["crypto", "xdc", "xdcnetwork", "should-i-buy"]
 published:     true
 ---
-# XDC Network (XDC) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
+# Is XDC Network (XDC) Inflationary? +0.09% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/xdc, updated Oct 21 2026*
+*From https://mrnasdog.com/research/xdc, updated Nov 4 2026*
 
-**mixed** — that is XDC Network's long-run signal by supply and demand as of Oct 21 2026, with a score of 4.5/10.
+How much new XDC is coming? **+0.09%** in the next 90 days, **+0.37%** in the next year — checked Nov 4 2026.
 
 - **Signal today:** mixed for XDC Network
 - **MrNasDog score:** 4.5/10 — supply 3.5/5, demand 1/5
-- **New coins:** +0.09% in 90 days · +4.59% in a year
+- **New coins:** +0.09% in 90 days · +0.37% in a year
 - **Demand:** low (1/5)
 - **Drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## How fast XDC Network supply grows
 
-XDC Network mints a fixed 5,000 XDC every epoch for its masternodes and burns nothing. +0.09% last 90 days; about +0.09% next. 18.12B XDC still waits in locked reserves.
+XDC Network mints a fixed 5,000 XDC per epoch for its nodes and burns nothing, so supply grows about 0.09% a quarter, while 18.28B XDC sits in project reserves.
 
-XDC Network adds +0.09% new supply in the next 90 days and +4.59% over a year — supply scores 3.5/5 (steady), #74 of 101 for new supply.
+XDC Network adds +0.09% new supply in the next 90 days and +0.37% over a year — supply scores 3.5/5 (steady), #73 of 100 for new supply.
 
 ## Who wants XDC Network right now
 
-Demand reads **low** (1/5), #92 of 110 coins we track — that is how much people want XDC now and how much buying could still come.
+Demand reads **low** (1/5), #92 of 109 coins we track — that is how much people want XDC now and how much buying could still come.
 
 A deeper XDC demand breakdown is on the page for members.
 
@@ -36,22 +36,22 @@ What the score misses: 2 drivers. Today 1 push XDC's price up and 1 push it down
 
 ### ▲ Big-name validators
 
-MoneyGram joined Oct 16 2026; each new firm locks 10M XDC.
+Taurus and MoneyGram joined in Oct 2026; each locks 10M XDC.
 
 ▲ Price up if: More firms lock XDC. ▼ Price down if: Firms leave or stall. Right now it points up.
 
 | Date | What happened / what is coming |
 |---|---|
-| May 5 2026 | Republic joins |
 | May 19 2026 | Animoca Brands joins |
 | Jun 16 2026 | SettleMint joins |
 | Aug 3 2026 | Hex Trust joins |
 | Aug 13 2026 | Clear Street joins |
 | Sep 18 2026 | DSRV joins |
 | Oct 5 2026 | Amber Premium joins |
+| Oct 7 2026 | Taurus joins |
 | Oct 16 2026 | MoneyGram joins |
 
-*Checked Oct 17 2026*
+*Checked Nov 4 2026*
 
 ### ▼ USDC on XDC
 
@@ -61,51 +61,47 @@ Good for the price: More dollars settle on XDC. Bad for it: Dollars leave XDC. T
 
 | Date | USDC |
 |---|---|
-| Jul 31 2026 | $78.1M |
 | Aug 31 2026 | $72.7M |
 | Sep 30 2026 | $57.7M |
-| Oct 21 2026 | $53.6M |
+| Oct 31 2026 | $60.4M |
+| Nov 5 2026 | $60M |
 
-*Checked Oct 17 2026*
+*Checked Nov 4 2026*
 
-## Should you buy XDC Network? The questions, answered
+## Questions about XDC supply
 
-### Should I buy XDC Network now, or wait?
+### Is XDC Network (XDC) inflationary or deflationary?
 
-Supply and demand point to a mixed long-run signal for XDC Network (Oct 21 2026, score 4.5/10). XDC Network adds +0.09% new supply in 90 days, and demand reads low (1/5). XDC Network's price drivers: 1 ▲ price up, 1 ▼ price down.
+XDC Network (XDC) is inflationary right now: its supply changes +0.09% over the next 90 days and +0.37% over the next year (checked Nov 4 2026). More XDC is added than removed.
 
-### Which big finance firms are teaming up with XDC Network?
+### What is the XDC inflation rate in 2026?
 
-MoneyGram is the newest one: it joined as an XDC Network validator on Oct 16 2026. Each new firm locks 10M XDC, so we see this as probably the coin's best sign of real demand. The weak spot is USDC on XDC, still well below its Dec 2025 peak. Our supply-and-demand read for XDC Network stays mixed.
+About +0.37% a year: that is how much XDC Network (XDC) supply changes over the next 12 months, with +0.09% in the next 90 days (checked Nov 4 2026). That puts XDC #73 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Does XDC have a max supply, or can more coins be made?
+### When is the next XDC token unlock?
 
-No max supply is listed for XDC. About 19.9B XDC are in the market out of 38.1B in total (Oct 17 2026), and supply grows about 4.60% over the next year. The next 90 days look calm, with only +0.09% new supply. For XDC Network, the supply-and-demand signal is mixed right now.
+No dated XDC Network (XDC) unlock is scheduled in the next 90 days (checked Nov 4 2026). New XDC still arrives: about 18.2M XDC in 90 days.
 
-### When should I sell XDC Network?
+### Does XDC Network burn or buy back XDC?
 
-We would read XDC Network differently if new supply jumps (today +0.09% in 90 days), or demand falls from low, or USDC on XDC keeps pointing down. Until then XDC Network's signal stays mixed.
+Not in a way that removes XDC today: nothing takes XDC off the market over the next 90 days (checked Nov 4 2026). No burn and no buyback: the whole fee goes to the block producer's owner.
 
-### Is XDC Network a good investment in 2026?
+### Where does new XDC supply come from?
 
-XDC Network scores 4.5/10 on our framework (Oct 21 2026): supply 3.5/5 (steady), demand 1/5. Over the next year XDC Network's supply changes +4.59%. The long-run signal is mixed.
+In our count, about 18.2M new XDC reaches the market over the next 90 days (checked Nov 4 2026). How it works: A fixed 5,000 new XDC every epoch for masternodes: 18.25M in 90 days.
 
-### How do I know when to buy XDC Network?
+### How much XDC is in circulation?
 
-Supply and demand favor XDC Network most when little new supply is coming, demand is strong and the price drivers point up. Right now XDC Network has +0.09% new supply in 90 days (steady), demand low (1/5), drivers 1 ▲ / 1 ▼.
+About 19.9B XDC is in circulation (checked Nov 4 2026). Over the next 90 days that changes +0.09%, and over a year +0.37%.
 
-### Will XDC Network go up in 2026?
+### Does XDC have more new supply than CAKE, DASH or ETHFI?
 
-XDC Network's price drivers today: 1 pointing up, 1 pointing down, out of 2. ▲ Big-name validators: MoneyGram joined Oct 16 2026; each new firm locks 10M XDC. ▼ USDC on XDC: USDC on XDC is well below its Dec 2025 peak.
-
-### Should I buy XDC Network or Bitcoin?
-
-XDC Network: mixed signal, 4.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, XDC Network reads weaker than Bitcoin today.
+Over the next 90 days (checked Nov 4 2026): XDC +0.09%, CAKE −1.64%, DASH +0.73%, ETHFI 0.00%. XDC sits in the middle of these 4 coins.
 
 ## More on XDC Network
 
 - Full XDC inflation analysis (every unlock, burn and buyback): https://mrnasdog.com/research/xdc/inflation
-- Every coin ranked by supply and demand, XDC Network included: https://mrnasdog.com/coins
+- Every coin's new supply, side by side: https://mrnasdog.com/token-supply
 - How we read XDC Network and every other coin: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

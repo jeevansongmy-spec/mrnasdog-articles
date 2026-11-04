@@ -1,38 +1,38 @@
 ---
-title:         "Should You Buy Midnight (NIGHT)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Midnight's NIGHT: no coin was created in 90 days, but a bridge hack left 514.6M copies unbacked (+3.01%). Next 90 days flat until block rewards start."
+title:         "Midnight (NIGHT) Supply & Demand: 0.00% Supply in 90 Days"
+description:   "Midnight (NIGHT) supply changes 0.00% over the next 90 days and 0.00% over a year (checked Nov 4 2026)."
 canonical_url: "https://mrnasdog.com/research/night"
 content_type:  "coin_hub"
 tags:          ["crypto", "night", "midnight", "should-i-buy"]
 published:     true
 ---
-# Should You Buy Midnight (NIGHT)? Supply, Demand and Price Drivers (Oct 2026)
+# Midnight (NIGHT) Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/night · checked Oct 21 2026*
+*Live page: https://mrnasdog.com/research/night · checked Nov 4 2026*
 
-**mixed** — that is Midnight's long-run signal by supply and demand as of Oct 21 2026, with a score of 6.5/10.
+Midnight (NIGHT) supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 4 2026).
 
 - **Signal:** mixed (by the law of supply and demand)
 - **Score:** 6.5/10 — supply 4.5/5, demand 2/5
 - **Supply growth:** 0.00% in 90 days · 0.00% in a year
 - **How much people want it:** weak (2/5)
-- **Price drivers:** 2 ▲ price up · 0 ▼ price down
+- **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## Supply — new NIGHT in the next 90 days
 
-Midnight's NIGHT: no coin was created in 90 days, but a bridge hack left 514.6M copies unbacked (+3.01%). Next 90 days flat until block rewards start.
+Midnight's NIGHT is flat: all 24B exist, no new coins came out in 90 days, and the 6B Reserve has not started paying block producers.
 
-Over the next 90 days NIGHT supply changes 0.00%; across a full year, 0.00%. That puts supply at 4.5/5 (flat) (place 87 of 101).
+Over the next 90 days NIGHT supply changes 0.00%; across a full year, 0.00%. That puts supply at 4.5/5 (flat) (place 85 of 100).
 
 ## NIGHT price drivers the score does not count
 
-Besides supply and demand, we track 2 price drivers for Midnight: 2 ▲ and 0 ▼ right now.
+Besides supply and demand, we track 2 price drivers for Midnight: 1 ▲ and 1 ▼ right now.
 
-### ▲ Mainnet rollout
+### ▼ Mainnet rollout
 
-Roadmap targets NIGHT staking by Mar 31 2027; pools still waiting.
+Roadmap now puts Cardano pools and staking by Mar 31 2027.
 
-▲ Price up if: Phases land on time. ▼ Price down if: Delays or more hacks. Now: ▲ up side.
+▲ Price up if: Phases land on time. ▼ Price down if: Delays or more hacks. Now: ▼ down side.
 
 | Date | What happened / what is coming |
 |---|---|
@@ -40,68 +40,71 @@ Roadmap targets NIGHT staking by Mar 31 2027; pools still waiting.
 | Jul 20 2026 | Wanchain bridge hacked |
 | Sep 28 2026 | Anyone can deploy apps |
 | Oct 14 2026 | New roadmap posted |
-| Overdue (was Q2-Q3 2026) | Cardano SPOs make blocks (coming) |
+| Oct 20 2026 | Nightmode cross-chain |
 | Late 2026 or later | Hua: hybrid apps (coming) |
-| Q1 2027 (target) | First NIGHT staking (coming) |
+| Q4 2026 (roadmap) | Block rewards start (coming) |
+| Q1 2027 (roadmap) | Pool blocks + staking (coming) |
 
-*Checked Oct 16 2026*
+*Checked Nov 4 2026*
 
 ### ▲ Charles Hoskinson
 
-He keeps promising big: Zcash, then AI trading in Midnight City.
+He keeps the hype going: magnum opus talk, TRON, AI computing.
 
 Big promises come true → price up · Hype fades, goals slip → price down. Today: the price-up case.
 
 | Date | What happened / what is coming |
 |---|---|
-| Jul 22 2026 | Calls for ZK revamp |
 | Sep 28 2026 | Says it'll top Zcash |
 | Oct 9 2026 | Repeats Zcash claim |
 | Oct 13 2026 | Teases AI agent trading |
+| Oct 17 2026 | Teases AI "Nightframes" |
+| Oct 19 2026 | Calls it his magnum opus |
+| Oct 21 2026 | Welcomes TRON in |
 | Within 2 years (his goal) | Goal: bigger than Zcash (coming) |
 
-*Checked Oct 16 2026*
+*Checked Nov 4 2026*
 
 ## Who wants Midnight right now
 
-People's appetite for Midnight is **weak**: 2/5, ranked #65 of 110.
+People's appetite for Midnight is **weak**: 2/5, ranked #64 of 109.
 
 Members get the rest of the Midnight demand read on mrnasdog.com.
 
-## Should you buy NIGHT? Questions about Midnight
+## Midnight (NIGHT) supply: questions people ask
 
-### Is it time to buy the Midnight dip?
+### Is Midnight (NIGHT) inflationary or deflationary?
 
-By the law of supply and demand, Midnight's long-run signal is mixed (Oct 21 2026, score 6.5/10). New supply: 0.00% in the next 90 days. Demand: weak (2/5). Midnight's price drivers: 2 ▲ price up, 0 ▼ price down.
+As of Nov 4 2026, Midnight (NIGHT) supply moves 0.00% in 90 days and 0.00% in a year, so NIGHT is about flat. What is created and what is removed roughly match.
 
-### What is the latest NIGHT crypto news on Midnight's mainnet?
+### What is the NIGHT inflation rate in 2026?
 
-Apps on Midnight opened Sep 28 2026, but Cardano pools are still not making blocks, a step that was planned for Q2-Q3 2026 and is now overdue. The roadmap targets NIGHT staking by Mar 31 2027. NIGHT traded near 4.1 cents on Oct 16 2026. Supply and demand still read mixed for Midnight in the long run.
+Midnight (NIGHT) supply grows 0.00% over the next 12 months and 0.00% over the next 90 days (checked Nov 4 2026). That puts NIGHT #85 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Should I sell my Midnight now?
+### When is the next NIGHT token unlock?
 
-Midnight's signal is mixed for now. Midnight's signal would turn if new supply jumps (today 0.00% in 90 days), or demand falls from weak. The next date on Midnight's calendar: Overdue (was Q2-Q3 2026) — Cardano SPOs make blocks.
+No dated Midnight (NIGHT) unlock is scheduled in the next 90 days (checked Nov 4 2026).
 
-### Is Midnight a good long-term investment?
+### Does Midnight burn or buy back NIGHT?
 
-Midnight sits at 6.5/10 today (Oct 21 2026): supply 4.5/5, demand 2/5. One more year adds 0.00% to Midnight's supply. Long-run signal: mixed.
+Not in a way that removes NIGHT today: nothing takes NIGHT off the market over the next 90 days (checked Nov 4 2026). Nothing takes NIGHT off the market: there is no buyback, and fees are paid in DUST, so no NIGHT is ever burned. Midnight TGE Ltd.'s plan to send unused coins back to the Reserve has no date.
 
-### When is a good time to buy Midnight?
+### Where does new NIGHT supply come from?
 
-By the law of supply and demand, the better time to buy Midnight is when its new supply is low, demand is high and its price drivers point up. Midnight today: 0.00% new supply in 90 days (flat), demand weak (2/5), drivers 2 ▲ / 0 ▼.
+Almost no new NIGHT reaches the market over the next 90 days (checked Nov 4 2026). No new NIGHT reached the market in 90 days: the 6B Reserve that will pay block producers has not moved since Mar 13 2026, and its pay rate and start date are still drafts. Airdrop thaws, ending Dec 4 2026, move coins already counted.
 
-### What could push Midnight's price up or down?
+### How much NIGHT is in circulation?
 
-Right now 2 things drive Midnight's price (2 ▲, 0 ▼). ▲ Mainnet rollout: Roadmap targets NIGHT staking by Mar 31 2027; pools still waiting. ▲ Charles Hoskinson: He keeps promising big: Zcash, then AI trading in Midnight City.
+Midnight (NIGHT) has about 16.6B coins in circulation as of Nov 4 2026; the next 90 days change that by 0.00% (0.00% over a year).
 
-### Is Midnight a better investment than Bitcoin?
+### Does NIGHT have more new supply than ZRO, CAKE or XDC?
 
-Side by side on Oct 21 2026: Midnight at 6.5/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Midnight is the weaker of the two.
+Over the next 90 days (checked Nov 4 2026): NIGHT 0.00%, ZRO +17.57%, CAKE −1.64%, XDC +0.09%. NIGHT sits in the middle of these 4 coins.
 
 ## Where to read the rest of NIGHT
 
 - Every NIGHT unlock and burn, explained: https://mrnasdog.com/research/night/inflation
-- Compare NIGHT with 100+ coins: https://mrnasdog.com/coins
+- Compare NIGHT supply with 100+ coins: https://mrnasdog.com/token-supply
 - The MrNasDog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

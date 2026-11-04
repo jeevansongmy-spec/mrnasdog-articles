@@ -1,21 +1,21 @@
 ---
-title:         "Is LayerZero (ZRO) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)"
-description:   "Supply and demand give LayerZero (ZRO) a negative long-run signal today (Oct 21 2026); its score is 3.5/10."
+title:         "Is LayerZero (ZRO) Inflationary? +17.57% New Supply in 90 Days"
+description:   "How much new ZRO is coming? +17.57% in the next 90 days, +40.61% in the next year — checked Nov 4 2026."
 canonical_url: "https://mrnasdog.com/research/zro"
 content_type:  "coin_hub"
 tags:          ["crypto", "zro", "layerzero", "should-i-buy"]
 published:     true
 ---
-# Is LayerZero (ZRO) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)
+# Is LayerZero (ZRO) Inflationary? +17.57% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/zro, updated Oct 21 2026*
+*From https://mrnasdog.com/research/zro, updated Nov 4 2026*
 
-Supply and demand give LayerZero (ZRO) a **negative** long-run signal today (Oct 21 2026); its score is 3.5/10.
+How much new ZRO is coming? **+17.57%** in the next 90 days, **+40.61%** in the next year — checked Nov 4 2026.
 
 - **Signal today:** negative for LayerZero
-- **MrNasDog score:** 3.5/10 — supply 0/5, demand 3.5/5
-- **New coins:** +18.63% in 90 days · +47.54% in a year
-- **Demand:** strong (3.5/5)
+- **MrNasDog score:** 3/10 — supply 0/5, demand 3/5
+- **New coins:** +17.57% in 90 days · +40.61% in a year
+- **Demand:** moderate (3/5)
 - **Drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## What could move LayerZero's price
@@ -24,7 +24,7 @@ What the score misses: 2 drivers. Today 1 push ZRO's price up and 1 push it down
 
 ### ▼ Fee switch votes
 
-Four votes since Dec 2024 kept the fee off; next in December.
+Four votes since Dec 2024 kept the fee off; next date unset.
 
 Good for the price: Fee switch turns on. Bad for it: Votes keep it off. Today: the price-down case.
 
@@ -36,11 +36,11 @@ Good for the price: Fee switch turns on. Bad for it: Votes keep it off. Today: t
 | Jun 27 2026 | Vote 4: fee stays off |
 | Late 2026? | Vote 5 on fee switch (coming) |
 
-*Checked Oct 16 2026*
+*Checked Nov 4 2026*
 
 ### ▲ Zero and ATLAS
 
-ATLAS gives venues rebates for staking ZRO; Zero mainnet date unknown.
+Zero mainnet still set for Nov 30 2026; 21X pilot done.
 
 Venues stake ZRO on ATLAS → price up · ATLAS finds no venues → price down. Now: ▲ up side.
 
@@ -49,60 +49,59 @@ Venues stake ZRO on ATLAS → price up · ATLAS finds no venues → price down. 
 | Feb 10 2026 | Zero chain announced |
 | Aug 25 2026 | ATLAS exchange unveiled |
 | Sep 21 2026 | Anchorage picks LZ |
-| No date yet | Zero mainnet launch (coming) |
+| Oct 20 2026 | Nov 30 launch date set |
+| Nov 3 2026 | ZRO moved to OneSig |
+| Nov 4 2026 | 21X pilot: 10K matches/s |
+| Nov 30 2026 | Zero + ATLAS mainnet (coming) |
 
-*Checked Oct 16 2026*
+*Checked Nov 4 2026*
 
 ## Where new LayerZero comes from
 
-LayerZero mints no new ZRO, but 23.33M ZRO unlocks for its team and investors every month, so circulating supply grows about 18.6% in 90 days. The Stargate buyback takes back under 1% of that.
+LayerZero's ZRO has a fixed 1B cap, but monthly releases to partners and staff grew supply about 18.6% in 90 days, far more than the Stargate buyback takes back.
 
-LayerZero adds +18.63% new supply in the next 90 days and +47.54% over a year — supply scores 0/5 (extreme).
+LayerZero adds +17.57% new supply in the next 90 days and +40.61% over a year — supply scores 0/5 (extreme).
 
 ## Demand today
 
-Demand reads **strong** (3.5/5), #18 of 110 coins we track — that is how much people want ZRO now and how much buying could still come.
+Demand reads **moderate** (3/5), #34 of 109 coins we track — that is how much people want ZRO now and how much buying could still come.
 
 The members-only part of ZRO's demand section is not included.
 
-## Questions about ZRO
+## ZRO tokenomics: questions and answers
 
-### Is it time to buy the LayerZero dip?
+### Is LayerZero (ZRO) inflationary or deflationary?
 
-Supply and demand point to a negative long-run signal for LayerZero (Oct 21 2026, score 3.5/10). LayerZero adds +18.63% new supply in 90 days, and demand reads strong (3.5/5). LayerZero's price drivers: 1 ▲ price up, 1 ▼ price down.
+LayerZero (ZRO) is inflationary right now: its supply changes +17.57% over the next 90 days and +40.61% over the next year (checked Nov 4 2026). More ZRO is added than removed.
 
-### How big are LayerZero's ZRO token unlocks right now?
+### What is the ZRO inflation rate in 2026?
 
-Big. About 400M of 1B ZRO are in the market today, and supply grows +18.63% in the next 90 days and +47.54% in the next year (Oct 16 2026). That is a lot of new coins needing buyers, which is a big part of why our read stays negative. That leaves LayerZero's long-run signal at negative, by supply and demand.
+About +40.61% a year: that is how much LayerZero (ZRO) supply changes over the next 12 months, with +17.57% in the next 90 days (checked Nov 4 2026). That puts ZRO #6 of 100 coins we track for new supply (#1 = the most new supply).
 
-### What is the latest LayerZero news on the fee switch?
+### When is the next ZRO token unlock?
 
-Four votes since Dec 2024 have kept LayerZero's fee switch off, and a fifth vote likely comes late in 2026. On the brighter side, ATLAS now gives venues rebates for staking ZRO, though the Zero mainnet still has no date. Supply and demand still read negative for LayerZero in the long run.
+The next LayerZero (ZRO) unlock we track is on Nov 20 2026: about 23.3M ZRO, 5.83% of the ZRO in circulation (Monthly vesting release — Adds supply). Checked Nov 4 2026.
 
-### When should I sell LayerZero?
+### Does LayerZero burn or buy back ZRO?
 
-We would read LayerZero differently if new supply keeps arriving (+18.63% in 90 days), or demand falls from strong, or Fee switch votes keeps pointing down. Until then LayerZero's signal stays negative. Mark this date for LayerZero: Late 2026? — Vote 5 on fee switch.
+Yes. In our count, about 382K ZRO is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 4 2026). How it works: All of Stargate's revenue buys ZRO each month, about 382K ZRO per 90 days at today's price, held by the Foundation. No burn yet.
 
-### Is LayerZero a good investment in 2026?
+### Where does new ZRO supply come from?
 
-LayerZero scores 3.5/10 on our framework (Oct 21 2026): supply 0/5 (extreme), demand 3.5/5. Over the next year LayerZero's supply changes +47.54%. The long-run signal is negative.
+In our count, about 70.7M new ZRO reaches the market over the next 90 days (checked Nov 4 2026). How it works: About 23.3M ZRO a month unlocks to early partners and staff until May 2027; STG swaps add a little until Dec 15 2026.
 
-### How do I know when to buy LayerZero?
+### How much ZRO is in circulation?
 
-Supply and demand favor LayerZero most when little new supply is coming, demand is strong and the price drivers point up. Right now LayerZero has +18.63% new supply in 90 days (extreme), demand strong (3.5/5), drivers 1 ▲ / 1 ▼.
+About 400M ZRO is in circulation (checked Nov 4 2026). Over the next 90 days that changes +17.57%, and over a year +40.61%.
 
-### Will LayerZero go up in 2026?
+### Does ZRO have more new supply than FIL, NIGHT or CAKE?
 
-LayerZero's price drivers today: 1 pointing up, 1 pointing down, out of 2. ▼ Fee switch votes: Four votes since Dec 2024 kept the fee off; next in December. ▲ Zero and ATLAS: ATLAS gives venues rebates for staking ZRO; Zero mainnet date unknown.
-
-### Should I buy LayerZero or Bitcoin?
-
-LayerZero: negative signal, 3.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, LayerZero reads weaker than Bitcoin today.
+Over the next 90 days (checked Nov 4 2026): ZRO +17.57%, FIL +1.65%, NIGHT 0.00%, CAKE −1.64%. ZRO has the most new supply of these 4 coins.
 
 ## Read more on ZRO
 
 - Full ZRO inflation analysis (every unlock, burn and buyback): https://mrnasdog.com/research/zro/inflation
-- Every coin ranked by supply and demand, LayerZero included: https://mrnasdog.com/coins
+- Every coin's new supply, side by side: https://mrnasdog.com/token-supply
 - How we read LayerZero and every other coin: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

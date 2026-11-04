@@ -1,60 +1,65 @@
 ---
-title:         "NIGHT Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description:   "NIGHT supply is flat: no new NIGHT in 90 days, 0.00% net and 0.00% next. All 24B exist; the 6B Reserve that will pay block producers has not paid out yet."
+title:         "NIGHT Inflation Analysis · November 2026 · Mixed flows · supply roughly steady"
+description:   "NIGHT supply is flat: no new NIGHT in 90 days, 0.00% net and 0.00% next. The airdrop thaw ends Dec 4 2026 and the 6B Reserve has not paid block producers."
 canonical_url: "https://mrnasdog.com/research/night/inflation"
 tags:          ["crypto", "night", "midnight", "cardano"]
 published:     true
 ---
 *Originally published at [https://mrnasdog.com/research/night/inflation](https://mrnasdog.com/research/night/inflation)*
 
-# NIGHT Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the NIGHT coin page, with demand and price drivers: [mrnasdog.com/research/night](https://mrnasdog.com/research/night)
 
-**NIGHT is flat: no new NIGHT reached the market between Jul 28 and Oct 26 2026**, so circulating supply moved **0.00%** in 90 days and is set to stay at **0.00%** for the next 90. Midnight created all **24B NIGHT** at launch; new coins can only enter circulation from a locked **6B Reserve** that will pay block producers, and that Reserve has not paid out a single coin yet. Sell pressure is **0**, buy pressure is **0**, and the market supply tracker reads **+0.08%**.
+# NIGHT Inflation Analysis · November 2026 · Mixed flows · supply roughly steady
+
+NIGHT supply was flat over the last 90 days and is set to stay flat for the next 90: **0.00%** net both ways. Midnight created all **24B** NIGHT on Nov 25 2025, and the only way new NIGHT can reach the market is as pay for block producers out of a **6B** Reserve that has not paid anything yet. Sell pressure was **0**, buy pressure was **0**, and other trackers read **+0.01%**.
 
 ## The verdict, in one paragraph
 
-Over the 90 days to Oct 26 2026, NIGHT's net supply change was **0.00%**, and the forecast for the 90 days to Jan 24 2027 is also **0.00%**. The market supply tracker shows **+0.08%** for the same window, a gap of **0.08 percentage points**, which is small price-and-market-value wobble around a circulating figure that did not change. The coin page therefore carries **no warning note**. In one line: **a fully minted coin waiting for its block rewards to switch on**. The 16.61B NIGHT that count as circulating today are every coin outside three protocol pots (the Reserve, the Treasury and a late-claim pool), and none of those pots moved in the window.
+From Aug 6 to Nov 4 2026, no new NIGHT entered circulation and none left it, so the Midnight ledger nets to **0.00%** for the last 90 days and **0.00%** for the next 90. Other trackers read **+0.01%** over the same 90 days, a gap of **0.01 points**, so the coin page carries no warning note. The circulating count held at **16.61B NIGHT** the whole time, about 69% of the 24B that exist. The label for NIGHT today is a **pre-reward chain**: the supply is all made, most of it already counts, and the next real change waits on the day Midnight starts paying block producers.
 
 ## Sell pressure: where new NIGHT comes from
 
-**Protocol inflation is 0.** Midnight's design pays block producers from the **6B NIGHT Reserve**, a fixed share of whatever is left in it, so payouts shrink slowly over time and no coin is ever newly minted. The Reserve has held the same **6,000,000,000.87 NIGHT** since Mar 13 2026. The Midnight mainnet still runs on **13 appointed nodes**, two of them run by the Midnight Foundation, and those nodes earn no NIGHT. The payout design for block producers was accepted as a proposal on Oct 4 2026, but its starting rate is still open, and the roadmap gives a quarter, not a date.
+Protocol inflation was **0**. Midnight's block producers will one day be paid from the **6B NIGHT** Reserve, a fixed share of whatever is left in it at each block, so the pay shrinks slowly over time. That Reserve has not moved since Mar 13 2026. The invited node operators who run Midnight today earn no NIGHT, and while the Midnight roadmap puts block producer pay in late 2026, the rules are still drafts with no starting rate and no start date, so the next 90 days also book **0**.
 
-**Vesting unlocks are 0 as new supply.** The Glacier Drop and Scavenger Mine airdrops handed out **4.55B NIGHT**, which unlock in four quarterly steps between Dec 10 2025 and Dec 4 2026. About **1.14B NIGHT** unlocked in these 90 days and about **505M** more unlock by Dec 4 2026. Every claimed coin already counts as circulating, unlocked or not, so these unlocks do not add to the count. **1.15B NIGHT** still sits in the claim contract waiting to be collected.
+Vesting unlocks were **0** as new supply, even though coins are unlocking. The **4.55B NIGHT** handed out in the free Glacier Drop and Scavenger Mine claims thaws in four quarter steps spread over a year, ending on **Dec 4 2026**. Those claimed coins already count inside the 16.61B circulating, so each thaw moves NIGHT from a waiting contract to its owner without adding to the count. About **1.11B NIGHT** was still waiting to be collected on Nov 4 2026.
 
-**Foundation and unscheduled unlocks are 0.** The Midnight Foundation and Midnight TGE received their coins unlocked at the start, and both already count as circulating, so their transfers move coins that are already in the count. The two pots outside the count, the **1.2B** on-chain Treasury and the **192.6M** late-claim pool, did not move. **Long-term locked or bankruptcy is 0:** no estate or court holds NIGHT.
+Foundation and unscheduled unlocks were **0**. The Midnight Foundation's **8.4B** and Midnight TGE Ltd.'s **3.66B** have been free to move since Dec 10 2025 and already count as circulating, so any sale from them would not change the supply number. Long-term locked or bankruptcy coins were **0**: no court estate holds NIGHT.
 
-**Bridge hack copies are 0 this window.** On Jul 20 2026 a third-party bridge between Cardano and BNB Chain was drained of about **515M NIGHT**, leaving **514.63M** NIGHT copies on BNB Chain with nothing behind them. That happened eight days before this window opened. Since Jul 28 2026 the copies and their remaining backing of **11.84M** NIGHT have moved by only a handful of coins, so no new supply is booked.
+A fifth row tracks **unbacked bridge copies**, also **0** for the window. On Jul 20 2026, before this window began, an attacker drained a third-party bridge between Cardano and BNB Chain. That left about **514.63M** NIGHT copies on BNB Chain with no coins behind them. The drained coins were already circulating, and the copies held near **526.46M** from Aug 6 to Nov 4 2026, so no new unbacked NIGHT appeared.
 
 ## Buy pressure: where new NIGHT goes
 
-**The programmatic buyback is 0:** no contract or treasury buys NIGHT back. **The fee burn is 0:** Midnight users pay fees in DUST, a resource that holding NIGHT produces, so NIGHT itself is never spent or destroyed, and no NIGHT has been burned since the coin was created.
+The programmatic buyback was **0**: nothing buys NIGHT back for the network. The protocol fee burn was also **0**, and that is by design. On Midnight, fees are paid in DUST, a resource that NIGHT produces just by being held, so NIGHT itself is never spent on a transaction. No NIGHT has been burned since the 24B were created.
 
-**The Foundation buy is 0.** Midnight TGE, which holds **3.66B NIGHT** for exchange and partner liquidity, says coins it does not use will go back to the Reserve. That would take them out of circulation, but it has not happened: the Reserve still holds the same 6B. **The new long-term lock is 0.** NIGHT staking is planned for early 2027, and the draft design keeps staked coins in holders' wallets, so it would not take any NIGHT out of circulation.
+The Foundation buy row was **0**. Midnight TGE Ltd. holds its 3.66B for exchange and partner liquidity and is meant to return unused coins to the Reserve at a later date, which would take them out of circulation. No date is set and the Reserve has not grown. New long-term locks were **0**: NIGHT staking does not exist yet, it is planned for early 2027, and the draft design keeps staked coins free to move.
 
 ## Foundation and overhang
 
-The largest holders are the project's own entities. The **Midnight Foundation** was given **8.4B NIGHT** and **Midnight TGE 3.66B**, together half of all NIGHT, both unlocked since Dec 10 2025 and both inside the circulating count. Of those 12.06B, **4.07B** still sits on the wallets they used at launch; the rest has moved on to other wallets.
+Five pools of NIGHT are worth watching. The Midnight Foundation's **8.4B** and Midnight TGE Ltd.'s **3.66B** together are just over half of all NIGHT; both are unlocked and already counted, so a sale would add selling but not new supply. Three pools sit outside the count. The Reserve holds **6B** for block producer pay. A locked treasury holds **1.2B** until on-chain voting starts. A Lost-and-Found pool holds **192.6M** for people who missed the first claim, and it has not opened yet. None of the three has moved since Mar 13 2026.
 
-Three protocol pots sit outside the count and are checked on-chain at every rebuild: the **6B Reserve** for block producer pay, the **1.2B Treasury** that stays locked until on-chain voting exists, and the **192.6M** Lost-and-Found pool for airdrop holders who missed the first claim windows, which opens some time after mainnet and has a four-year claim window. If any of these balances falls between rebuilds, the coins that leave enter the sell side at the next rebuild.
+If the Reserve, the treasury or the Lost-and-Found pool shrinks between rebuilds, the NIGHT that leaves it enters the sell ledger at the next rebuild. The same goes for the 514.63M unbacked bridge copies: new copies would book as sell pressure, and a buy-in or re-backing would book as buy pressure.
 
-## How NIGHT compares to other privacy Layer 1 chains
+## How NIGHT compares to other privacy chains
 
-**Zcash** pays miners new ZEC every block on a halving schedule toward a 21M cap, and **Monero** pays a small fixed tail reward forever. Both add new coins from day one. NIGHT works the other way: all 24B were created at launch, and new circulating supply can only come from the Reserve as block producer pay, on a curve that slows as the Reserve empties. Today that pay has not started, so NIGHT shows zero new supply while Zcash and Monero keep printing.
+Zcash and Monero, the two oldest privacy coins, print new coins with every block from day one. Zcash follows a Bitcoin-style halving toward a 21M cap, and Monero keeps a small tail emission forever. Their sell pressure is steady and known in advance. NIGHT is different: all 24B already exist, and new circulating supply waits in a Reserve that has not yet paid a single block producer.
 
-The closest match in design is **Cardano**, whose ADA also comes out of a shrinking reserve. The difference is timing: Cardano's reserve has paid out for years, while Midnight's has not opened. Midnight's own design papers use a **3%** first-year rate as a worked example; at that pace about **123M NIGHT** would enter circulation every 90 days, roughly **0.7%** of today's float. None of these chains burns its coin for fees the way Ethereum does, and NIGHT's fees are paid in DUST, so there is no burn to offset future rewards.
+The closest cousin by design is Cardano, the chain Midnight is built beside. Cardano also pays producers a fixed share of a shrinking reserve, so its new supply falls a little every year. Midnight copies that shape. The other big difference is the fee token: on Zcash, Monero and Cardano users spend the main coin on fees, while on Midnight they spend DUST, so NIGHT has no fee burn and no fee demand that eats into supply.
+
+The trade-off is concentration. Where Zcash and Monero coins were mined out over years, half of all NIGHT sits with two Midnight-linked entities that can move it at any time. That does not show up as inflation, because those coins already count, but it is the main source of possible selling.
 
 ## What to watch in the next 90 days
 
-**By Dec 31 2026:** the roadmap lists block producer pay for the last quarter of 2026. The day the Reserve pays its first reward, new NIGHT starts entering circulation and this page turns inflationary.
+**Dec 4 2026**: the last airdrop thaw. It adds no new supply, but it is the final day claimed coins unlock, and a 90-day grace period to collect them follows, ending around Mar 4 2027.
 
-**Dec 4 2026:** the last airdrop unlock step. About 505M NIGHT unlock by then and a 90-day grace period follows for collecting them, to about Mar 4 2027. These coins are already counted, so the supply figure will not move, but more of them become free to sell.
+**Late 2026**: block producer pay. The Midnight roadmap lists it for the fourth quarter of 2026. The day the Reserve pays its first reward, NIGHT gets its first real new supply, and the sell ledger will count it from that date.
 
-**Jan 1 to Mar 31 2027:** the roadmap opens block production to Cardano stake pools and starts NIGHT staking. Staking as drafted locks nothing, so it would not offset the new pay.
+**Early 2027**: NIGHT staking and community block producers. Midnight's roadmap puts both in the first quarter of 2027. Staking as drafted keeps coins liquid, so it would not lock supply away.
 
-**No date yet:** the opening of the 192.6M Lost-and-Found pool, any on-chain vote that unlocks the 1.2B Treasury, any return of unused Midnight TGE coins to the Reserve, and any buy-back of the 514.63M unbacked BNB Chain copies.
+**Any time**: the Lost-and-Found claim phase and on-chain voting for the 1.2B treasury. Either one opening would let locked NIGHT start to circulate.
 
 ## Summary
 
-NIGHT's supply was flat at **0.00%** over the 90 days to Oct 26 2026, and the forecast for the next 90 days is also 0.00%, against **+0.08%** on the market supply tracker. Midnight created all 24B NIGHT at launch, and new circulating NIGHT can only come from the locked 6B Reserve as block producer pay, which has not started. The main risk is that switch: the roadmap points to late 2026 or early 2027, and at the project's own 3% example about 123M NIGHT would join the market every 90 days. Airdrop unlocks, Foundation transfers and the 514.63M unbacked bridge copies do not change the count, but they decide how many already-counted coins are free to sell.
+NIGHT supply is flat: **0.00%** over the 90 days to Nov 4 2026 and **0.00%** projected for the next 90, with other trackers at **+0.01%**. Midnight created all 24B NIGHT at launch, pays fees in DUST instead of NIGHT, and has no burn and no buyback. The main risk is not inflation but selling from the Midnight Foundation and Midnight TGE Ltd., which hold just over half the supply. New supply will start only when the 6B Reserve begins paying block producers, which the roadmap targets for late 2026 with no date or rate set yet.
 
-*MrNasDog Pressure Framework analysis of NIGHT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 26 2026.*
+*MrNasDog Pressure Framework analysis of NIGHT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 4 2026.*
