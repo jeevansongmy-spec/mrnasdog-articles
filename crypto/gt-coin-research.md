@@ -1,53 +1,53 @@
 ---
-title:         "Gate (GT) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Supply and demand give Gate (GT) a mixed long-run signal today (Oct 21 2026); its score is 6/10."
+title:         "Is Gate (GT) Inflationary? −2.15% Supply in 90 Days"
+description:   "How much new GT is coming? −2.15% in the next 90 days, −8.58% in the next year — checked Nov 4 2026."
 canonical_url: "https://mrnasdog.com/research/gt"
 content_type:  "coin_hub"
 tags:          ["crypto", "gt", "gate", "should-i-buy"]
 published:     true
 ---
-# Gate (GT) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
+# Is Gate (GT) Inflationary? −2.15% Supply in 90 Days
 
-*From https://mrnasdog.com/research/gt, updated Oct 21 2026*
+*From https://mrnasdog.com/research/gt, updated Nov 4 2026*
 
-Supply and demand give Gate (GT) a **mixed** long-run signal today (Oct 21 2026); its score is 6/10.
+How much new GT is coming? **−2.15%** in the next 90 days, **−8.58%** in the next year — checked Nov 4 2026.
 
 - **Signal today:** mixed for Gate
 - **MrNasDog score:** 6/10 — supply 5/5, demand 1/5
-- **New coins:** −1.95% in 90 days · −7.81% in a year
+- **New coins:** −2.15% in 90 days · −8.58% in a year
 - **Demand:** low (1/5)
-- **Drivers:** 2 ▲ price up · 0 ▼ price down
+- **Drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## How fast Gate supply grows
 
-Gate burns about $20M of GT every quarter while GateChain adds only about 103K GT, so supply shrinks close to 2% a quarter.
+Gate's quarterly burn removed 1.99M GT on Oct 4 2026, about 19 times the new GT Gate Chain paid its nodes, so supply fell 1.80% in 90 days.
 
-Gate adds −1.95% new supply in the next 90 days and −7.81% over a year — supply scores 5/5 (shrinking) (place 108 of 101).
+Gate adds −2.15% new supply in the next 90 days and −8.58% over a year — supply scores 5/5 (shrinking) (place 106 of 100).
 
 ## Demand: how much people want GT
 
-Demand reads **low** (1/5), #92 of 110 coins we track — that is how much people want GT now and how much buying could still come.
+Demand reads **low** (1/5), #92 of 109 coins we track — that is how much people want GT now and how much buying could still come.
 
 The members-only part of GT's demand section is not included.
 
 ## What could move Gate's price
 
-What the score misses: 2 drivers. Today 2 push GT's price up and 0 push it down.
+What the score misses: 2 drivers. Today 1 push GT's price up and 1 push it down.
 
-### ▲ Gate reserves
+### ▼ Gate reserves
 
-Gate's reserves rebuilt toward $7B after a $4.6B low.
+Gate's reserves slipped back under $6B after a September rebound.
 
-▲ Price up if: Reserves grow. ▼ Price down if: Money leaves Gate. Right now it points up.
+▲ Price up if: Reserves grow. ▼ Price down if: Money leaves Gate. Right now it points down.
 
 | Date | Gate reserves |
 |---|---|
-| Jul 31 2026 | $5.3B |
 | Aug 31 2026 | $6.68B |
 | Sep 30 2026 | $7.51B |
-| Oct 21 2026 | $7.32B |
+| Oct 31 2026 | $6.02B |
+| Nov 4 2026 | $5.6B |
 
-*Checked Oct 15 2026*
+*Checked Nov 4 2026*
 
 ### ▲ Gate's expansion
 
@@ -62,42 +62,42 @@ Good for the price: New markets, licenses. Bad for it: Bans or exits. Today: the
 | Mar 24 2026 | Polymarket in Gate app |
 | Oct 7 2026 | Gate Money launched |
 
-*Checked Oct 15 2026*
+*Checked Nov 4 2026*
 
-## Questions about GT
+## GT tokenomics: questions and answers
 
-### Is it time to buy the Gate dip?
+### Is Gate (GT) inflationary or deflationary?
 
-Supply and demand point to a mixed long-run signal for Gate (Oct 21 2026, score 6/10). Gate adds −1.95% new supply in 90 days, and demand reads low (1/5). Gate's price drivers: 2 ▲ price up, 0 ▼ price down.
+Gate (GT) is deflationary right now: its supply changes −2.15% over the next 90 days and −8.58% over the next year (checked Nov 4 2026). More GT is removed than added.
 
-### What Gate news in 2026 matters for GT holders?
+### What is the GT inflation rate in 2026?
 
-Gate Money launched on Oct 7 2026, and Gate keeps adding products. Gate's reserves also rebuilt toward $7B after a $4.6B low. GT itself adds only 0.10% new supply in 90 days, but demand still reads low (1/5). For Gate, the supply-and-demand signal is mixed right now.
+About −8.58% a year: that is how much Gate (GT) supply changes over the next 12 months, with −2.15% in the next 90 days (checked Nov 4 2026).
 
-### When should I sell Gate?
+### When is the next GT token unlock?
 
-We would read Gate differently if new supply jumps (today −1.95% in 90 days), or demand falls from low. Until then Gate's signal stays mixed.
+No dated Gate (GT) unlock is scheduled in the next 90 days (checked Nov 4 2026). New GT still arrives: about 103K GT in 90 days.
 
-### Is Gate a good investment in 2026?
+### Does Gate burn or buy back GT?
 
-Gate scores 6/10 on our framework (Oct 21 2026): supply 5/5 (shrinking), demand 1/5. Over the next year Gate's supply changes −7.81%. The long-run signal is mixed.
+Yes. In our count, about 2.35M GT is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 4 2026). How it works: Gate's quarterly burn: 1.99M GT on Oct 4 2026, about 2.35M GT ($22.35M at today's price) expected in early January 2027.
 
-### How do I know when to buy Gate?
+### Where does new GT supply come from?
 
-Supply and demand favor Gate most when little new supply is coming, demand is strong and the price drivers point up. Right now Gate has −1.95% new supply in 90 days (shrinking), demand low (1/5), drivers 2 ▲ / 0 ▼.
+In our count, about 103K new GT reaches the market over the next 90 days (checked Nov 4 2026). How it works: 0.4 new GT per Gate Chain block (about 103K GT every 90 days); a 12.25M GT insurance fund can refill the burn wallet.
 
-### Will Gate go up in 2026?
+### How much GT is in circulation?
 
-Gate's price drivers today: 2 pointing up, 0 pointing down, out of 2. ▲ Gate reserves: Gate's reserves rebuilt toward $7B after a $4.6B low. ▲ Gate's expansion: Gate keeps adding products; Gate Money launched Oct 7 2026.
+About 105M GT is in circulation (checked Nov 4 2026). Over the next 90 days that changes −2.15%, and over a year −8.58%.
 
-### Should I buy Gate or Bitcoin?
+### Does GT have more new supply than KCS, POL or PI?
 
-Gate: mixed signal, 6/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, Gate reads weaker than Bitcoin today.
+Over the next 90 days (checked Nov 4 2026): GT −2.15%, KCS 0.00%, POL −0.32%, PI +4.16%. GT has the least new supply of these 4 coins.
 
 ## More on Gate
 
 - Full GT inflation analysis (every unlock, burn and buyback): https://mrnasdog.com/research/gt/inflation
-- Every coin ranked by supply and demand, Gate included: https://mrnasdog.com/coins
+- Every coin's new supply, side by side: https://mrnasdog.com/token-supply
 - How we read Gate and every other coin: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

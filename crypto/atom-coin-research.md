@@ -1,20 +1,20 @@
 ---
-title:         "Is Cosmos Hub (ATOM) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)"
-description:   "2 things outside the score can move ATOM's price — today 1 ▲ up, 1 ▼ down."
+title:         "Cosmos Hub (ATOM) Tokenomics: +3.18% New Supply in 90 Days"
+description:   "As of Nov 4 2026, new Cosmos Hub supply runs at +3.18% over 90 days and +13.53% over 12 months."
 canonical_url: "https://mrnasdog.com/research/atom"
 content_type:  "coin_hub"
 tags:          ["crypto", "atom", "cosmoshub", "should-i-buy"]
 published:     true
 ---
-# Is Cosmos Hub (ATOM) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)
+# Cosmos Hub (ATOM) Tokenomics: +3.18% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/atom (checked Oct 21 2026)*
+*Originally published at https://mrnasdog.com/research/atom (checked Nov 4 2026)*
 
-**negative** — that is Cosmos Hub's long-run signal by supply and demand as of Oct 21 2026, with a score of 3.5/10.
+As of Nov 4 2026, new Cosmos Hub supply runs at **+3.18%** over 90 days and **+13.53%** over 12 months.
 
-- **Long-run signal:** negative (Oct 21 2026)
+- **Long-run signal:** negative (Nov 4 2026)
 - **Score:** 3.5/10 — supply 1/5, demand 2.5/5
-- **New supply:** +3.18% in 90 days · +13.52% in a year
+- **New supply:** +3.18% in 90 days · +13.53% in a year
 - **Demand:** modest (2.5/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
@@ -24,7 +24,7 @@ published:     true
 
 ### ▼ Hacks and halts
 
-Two big exploits since Aug 20; frozen ATOM now sent to Neutron.
+Two exploits since Aug 20; no new Hub hack since Oct 14.
 
 No new hacks or halts → price up · More hacks, more halts → price down. Today: the price-down case.
 
@@ -38,11 +38,11 @@ No new hacks or halts → price up · More hacks, more halts → price down. Tod
 | Oct 12 2026 | Vote passes: ATOM back |
 | Oct 14 2026 | ATOM sent to Neutron |
 
-*Checked Oct 15 2026*
+*Checked Nov 4 2026*
 
 ### ▲ Hub value votes
 
-Voters rejected the Osmosis merger, then paid for a Paxos listing.
+Tokenomics plan is done; votes on it start in December.
 
 ▲ Price up if: Votes add ATOM value. ▼ Price down if: Value plans voted down. Now: ▲ up side.
 
@@ -52,55 +52,58 @@ Voters rejected the Osmosis merger, then paid for a Paxos listing.
 | Apr 9 2026 | Osmosis merger proposed |
 | Apr 16 2026 | Osmosis merger rejected |
 | Sep 17 2026 | Paxos listing passes |
+| Oct 29 2026 | Tokenomics plan finished |
+| Around Nov 20 | Vote timeline published (coming) |
+| From Dec 2026 | Tokenomics votes begin (coming) |
 
-*Checked Oct 15 2026*
+*Checked Nov 4 2026*
 
 ## How fast Cosmos Hub supply grows
 
-The Cosmos Hub pays stakers new ATOM every block at its 10% ceiling, nearer 12.7% a year on fast blocks. Only slashing burns any: supply up 3.04% in 90 days, about 3.18% next.
+The Cosmos Hub pays stakers about 16.43M new ATOM every 90 days and burns almost nothing, so supply grows about 3% a quarter.
 
-New ATOM: +3.18% in 90 days, +13.52% in a year. Supply score 1/5, "very heavy" (place 23 of 101).
+New ATOM: +3.18% in 90 days, +13.53% in a year. Supply score 1/5, "very heavy" (place 23 of 100).
 
 ## Demand today
 
-Cosmos Hub demand: 2.5/5 (**modest**), place #46 among 110 coins — interest today plus the buying that could come later.
+Cosmos Hub demand: 2.5/5 (**modest**), place #47 among 109 coins — interest today plus the buying that could come later.
 
 Members get the rest of the Cosmos Hub demand read on mrnasdog.com.
 
-## Should you buy Cosmos Hub? The questions, answered
+## Questions about ATOM supply
 
-### Is it a good time to buy Cosmos Hub today?
+### Is Cosmos Hub (ATOM) inflationary or deflationary?
 
-Based on the law of supply and demand, the long-run signal for Cosmos Hub is negative. As of Oct 21 2026, score 3.5/10, Cosmos Hub faces +3.18% new supply over 90 days, with demand modest (2.5/5). Cosmos Hub's price drivers: 1 ▲ price up, 1 ▼ price down.
+Cosmos Hub (ATOM) is inflationary right now: its supply changes +3.18% over the next 90 days and +13.53% over the next year (checked Nov 4 2026). More ATOM is added than removed.
 
-### What is the latest Cosmos Hub news for ATOM?
+### What is the ATOM inflation rate in 2026?
 
-Mostly security news. Two big exploits hit since Aug 20, and the frozen ATOM has now been sent to Neutron. Voters also rejected the Osmosis merger, then paid for a Paxos listing. Meanwhile ATOM supply grows 3.18% in 90 days. Our supply-and-demand read for Cosmos Hub stays negative.
+About +13.53% a year: that is how much Cosmos Hub (ATOM) supply changes over the next 12 months, with +3.18% in the next 90 days (checked Nov 4 2026). That puts ATOM #23 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Is it time to take profit on Cosmos Hub?
+### When is the next ATOM token unlock?
 
-Today the signal is negative. Supply and demand would point the other way for Cosmos Hub if new supply keeps arriving (+3.18% in 90 days), or demand falls from modest, or Hacks and halts keeps pointing down.
+No dated Cosmos Hub (ATOM) unlock is scheduled in the next 90 days (checked Nov 4 2026). New ATOM still arrives: about 17.1M ATOM in 90 days.
 
-### Is Cosmos Hub a good investment right now?
+### Does Cosmos Hub burn or buy back ATOM?
 
-On our framework Cosmos Hub scores 3.5/10 (Oct 21 2026), with supply 1/5 (very heavy) and demand 2.5/5. In the next year Cosmos Hub's supply changes +13.52%, so the long-run signal reads negative.
+Yes. In our count, about 1.97K ATOM is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 4 2026). How it works: Only about 1.97K ATOM burned as validator penalties; fees are set aside, not burned.
 
-### What is the best time to invest in Cosmos Hub?
+### Where does new ATOM supply come from?
 
-The law of supply and demand points to one window for Cosmos Hub: low new supply, high demand, drivers pointing up. Where Cosmos Hub stands today: +3.18% new supply in 90 days (very heavy), demand modest (2.5/5), drivers 1 ▲ / 1 ▼.
+In our count, about 17.1M new ATOM reaches the market over the next 90 days (checked Nov 4 2026). How it works: About 16.43M new ATOM paid to stakers every 90 days at the 10% ceiling.
 
-### Will Cosmos Hub go up? What could move its price?
+### How much ATOM is in circulation?
 
-Cosmos Hub has 2 price drivers today (1 ▲ price up, 1 ▼ price down). ▼ Hacks and halts: Two big exploits since Aug 20; frozen ATOM now sent to Neutron. ▲ Hub value votes: Voters rejected the Osmosis merger, then paid for a Paxos listing.
+About 540M ATOM is in circulation (checked Nov 4 2026). Over the next 90 days that changes +3.18%, and over a year +13.53%.
 
-### Should I buy Cosmos Hub or Bitcoin?
+### Does ATOM have more new supply than FIL, DASH or XDC?
 
-Cosmos Hub reads negative at 3.5/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, Cosmos Hub looks weaker than Bitcoin today.
+Over the next 90 days (checked Nov 4 2026): ATOM +3.18%, FIL +1.58%, DASH +0.71%, XDC +0.09%. ATOM has the most new supply of these 4 coins.
 
 ## Where to read the rest of ATOM
 
 - ATOM supply, line by line: https://mrnasdog.com/research/atom/inflation
-- Where Cosmos Hub sits among all coins: https://mrnasdog.com/coins
+- Where Cosmos Hub sits on new supply: https://mrnasdog.com/token-supply
 - Why supply and demand decide ATOM's signal: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

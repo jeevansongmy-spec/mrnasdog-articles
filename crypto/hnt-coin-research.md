@@ -1,28 +1,28 @@
 ---
-title:         "Should You Buy Helium (HNT)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Our read on Helium for Oct 21 2026: a negative long-run signal and a score of 0.5/10, from new supply, demand and what moves the price."
+title:         "Helium (HNT) Supply & Demand: +9.48% New Supply in 90 Days"
+description:   "Helium (HNT) supply changes +9.48% over the next 90 days and +37.34% over a year (checked Nov 4 2026)."
 canonical_url: "https://mrnasdog.com/research/hnt"
 content_type:  "coin_hub"
 tags:          ["crypto", "hnt", "helium", "should-i-buy"]
 published:     true
 ---
-# Should You Buy Helium (HNT)? Supply, Demand and Price Drivers (Oct 2026)
+# Helium (HNT) Supply & Demand: +9.48% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/hnt · checked Oct 21 2026*
+*Live page: https://mrnasdog.com/research/hnt · checked Nov 4 2026*
 
-Our read on Helium for Oct 21 2026: a **negative** long-run signal and a score of 0.5/10, from new supply, demand and what moves the price.
+Helium (HNT) supply changes **+9.48%** over the next 90 days and **+37.34%** over a year (checked Nov 4 2026).
 
 - **Long-run signal:** negative (by the law of supply and demand)
 - **Score:** 0.5/10 — supply 0/5, demand 0.5/5
-- **New supply:** +9.77% in 90 days · +38.82% in a year
+- **New supply:** +9.48% in 90 days · +37.34% in a year
 - **Demand:** very low (0.5/5)
 - **Price drivers:** 0 ▲ price up · 1 ▼ price down
 
 ## HNT supply
 
-Helium's HIP-149 growth fund prints 196,000 HNT a day while data burns have shrunk: supply +7.21% in 90 days, about +9.77% next.
+Helium's voted growth fund mints 196,000 HNT a day, so supply grew about 9.18% in 90 days while burns for data took back only 1.61M HNT.
 
-Over the next 90 days HNT supply changes +9.77%; across a full year, +38.82%. That puts supply at 0/5 (extreme).
+Over the next 90 days HNT supply changes +9.48%; across a full year, +37.34%. That puts supply at 0/5 (extreme).
 
 ## HNT price drivers
 
@@ -42,7 +42,7 @@ More carriers sign → price up · Carriers walk away → price down. Right now 
 | Jun 2 2026 | Mobile sold to Noble |
 | Aug 31 2026 | US carrier pilot ends |
 
-*Checked Oct 15 2026*
+*Checked Nov 4 2026*
 
 ### • New CEO's plan
 
@@ -58,52 +58,48 @@ Good for the price: Plan wins carriers. Bad for it: Plan stalls.
 | Aug 28 2026 | CEO warns of user drop |
 | Sep 1 2026 | HeliumOS launched |
 
-*Checked Oct 15 2026*
+*Checked Nov 4 2026*
 
 ## How strong is Helium demand?
 
-People's appetite for Helium is **very low**: 0.5/5, ranked #99 of 110.
+People's appetite for Helium is **very low**: 0.5/5, ranked #98 of 109.
 
 Extra Helium demand detail for members stays on the live page.
 
-## Questions people ask about Helium
+## Is HNT inflationary? Questions about Helium supply
 
-### Should I buy Helium now, or wait?
+### Is Helium (HNT) inflationary or deflationary?
 
-Supply and demand point to a negative long-run signal for Helium (Oct 21 2026, score 0.5/10). Helium adds +9.77% new supply in 90 days, and demand reads very low (0.5/5). Helium's price drivers: 0 ▲ price up, 1 ▼ price down.
+As of Nov 4 2026, Helium (HNT) supply moves +9.48% in 90 days and +37.34% in a year, so HNT is inflationary. New HNT outweighs what is burned or bought back.
 
-### What is the latest Helium news for HNT holders?
+### What is the HNT inflation rate in 2026?
 
-A US carrier pilot ended on Aug 31, though AT&T and Movistar remain partners. Helium's CEO, in place since Jun 4 2026, is turning it into a carrier platform. HNT supply still grows 9.77% in 90 days, which probably weighs on the price. By supply and demand, Helium's long-run signal is negative today.
+Helium (HNT) supply grows +37.34% over the next 12 months and +9.48% over the next 90 days (checked Nov 4 2026). That puts HNT #9 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Could Helium ever hit $1,000?
+### When is the next HNT token unlock?
 
-Helium trades near 43.7 cents (Oct 21 2026). $1,000 a coin means a $196B market cap, 2,289 times today's $85.6M. Helium's supply also grows +38.82% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Helium stays negative.
+No dated Helium (HNT) unlock is scheduled in the next 90 days (checked Nov 4 2026). New HNT still arrives: about 19.6M HNT in 90 days.
 
-### Should I sell my Helium now?
+### Does Helium burn or buy back HNT?
 
-We would read Helium differently if new supply keeps arriving (+9.77% in 90 days), or demand falls from very low, or Carrier partners keeps pointing down. Until then Helium's signal stays negative.
+Yes. In our count, about 683K HNT is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 4 2026). How it works: HNT burned for data removed 1.61M in 90 days; burns fell after T-Mobile traffic ended on Aug 31 2026, paused Sep 23 to Oct 17, and came back on Oct 18. No buyback.
 
-### Is Helium a good long-term investment?
+### Where does new HNT supply come from?
 
-Helium scores 0.5/10 on our framework (Oct 21 2026): supply 0/5 (extreme), demand 0.5/5. Over the next year Helium's supply changes +38.82%. The long-run signal is negative.
+In our count, about 19.6M new HNT reaches the market over the next 90 days (checked Nov 4 2026). How it works: A voted growth fund mints 196,000 HNT a day for Nova Labs and its oversight council (17.64M in 90 days, the same next), on top of 2.32M of network rewards.
 
-### How do I know when to buy Helium?
+### How much HNT is in circulation?
 
-Supply and demand favor Helium most when little new supply is coming, demand is strong and the price drivers point up. Right now Helium has +9.77% new supply in 90 days (extreme), demand very low (0.5/5), drivers 0 ▲ / 1 ▼.
+Helium (HNT) has about 200M coins in circulation as of Nov 4 2026; the next 90 days change that by +9.48% (+37.34% over a year).
 
-### Will Helium go up in 2026?
+### Does HNT have more new supply than FORM or IMX?
 
-Helium's price drivers today: 0 pointing up, 1 pointing down, out of 2. ▼ Carrier partners: A US carrier pilot ended Aug 31; AT&T and Movistar remain • New CEO's plan: New CEO since Jun 4 2026 pivots Helium to carrier platform
-
-### Is Helium a better investment than Bitcoin?
-
-Helium: negative signal, 0.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, Helium reads weaker than Bitcoin today.
+Over the next 90 days (checked Nov 4 2026): HNT +9.48%, FORM +0.01%, IMX +2.25%. HNT has the most new supply of these 3 coins.
 
 ## Next steps for HNT
 
 - Every HNT unlock and burn, explained: https://mrnasdog.com/research/hnt/inflation
-- Compare HNT with 100+ coins: https://mrnasdog.com/coins
+- Compare HNT supply with 100+ coins: https://mrnasdog.com/token-supply
 - The MrNasDog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

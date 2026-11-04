@@ -1,20 +1,20 @@
 ---
-title:         "Is Aerodrome (AERO) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)"
-description:   "Our read on Aerodrome for Oct 21 2026: a negative long-run signal and a score of 3.5/10, from new supply, demand and what moves the price."
+title:         "Aerodrome (AERO) Tokenomics: +8.50% New Supply in 90 Days"
+description:   "As of Nov 4 2026, new Aerodrome supply runs at +8.50% over 90 days and +23.09% over 12 months."
 canonical_url: "https://mrnasdog.com/research/aero"
 content_type:  "coin_hub"
 tags:          ["crypto", "aero", "aerodrome", "should-i-buy"]
 published:     true
 ---
-# Is Aerodrome (AERO) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)
+# Aerodrome (AERO) Tokenomics: +8.50% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/aero (checked Oct 21 2026)*
+*Originally published at https://mrnasdog.com/research/aero (checked Nov 4 2026)*
 
-Our read on Aerodrome for Oct 21 2026: a **negative** long-run signal and a score of 3.5/10, from new supply, demand and what moves the price.
+As of Nov 4 2026, new Aerodrome supply runs at **+8.50%** over 90 days and **+23.09%** over 12 months.
 
-- **Long-run signal:** negative (Oct 21 2026)
+- **Long-run signal:** negative (Nov 4 2026)
 - **Score:** 3.5/10 — supply 0/5, demand 3.5/5
-- **New supply:** +10.84% in 90 days · +27.56% in a year
+- **New supply:** +8.50% in 90 days · +23.09% in a year
 - **Demand:** strong (3.5/5)
 - **Price drivers:** 0 ▲ price up · 0 ▼ price down
 
@@ -24,7 +24,7 @@ Our read on Aerodrome for Oct 21 2026: a **negative** long-run signal and a scor
 
 ### • Aero launch
 
-Aero goes live Oct 21 2026; Coinbase swaps tokens Nov 2.
+Aero on 7 chains since Oct 21; exchange swaps began Nov 2.
 
 Aero wins new chains → price up · Launch slips or flops → price down.
 
@@ -34,76 +34,72 @@ Aero wins new chains → price up · Launch slips or flops → price down.
 | Sep 16 2026 | Aero Lite live on Arc |
 | Sep 25 2026 | Launch date set |
 | Oct 14 2026 | Final Aerodrome epoch |
-| Oct 21 2026 | Aero live on 7 chains (coming) |
-| Nov 2 2026 | Coinbase token swap (coming) |
+| Oct 21 2026 | Aero live on 7 chains |
+| Nov 2 2026 | Coinbase swap starts |
 
-*Checked Oct 16 2026*
+*Checked Nov 4 2026*
 
 ### • Base trading share
 
-Aerodrome still handles about half of all trading on Base.
+Aero pools still handle about half of all trading on Base.
 
 ▲ Price up if: Wins more Base trading. ▼ Price down if: Loses Base trading.
 
 | Date | Share of Base DEX volume |
 |---|---|
-| Jul 31 2026 | 56.3% |
-| Aug 31 2026 | 53.6% |
-| Sep 30 2026 | 48.4% |
-| Oct 16 2026 | 50.5% |
+| Aug 31 2026 | 53.9% |
+| Sep 30 2026 | 50.1% |
+| Oct 31 2026 | 53.4% |
+| Nov 3 2026 | 52.9% |
 
-*Checked Oct 16 2026*
+*Checked Nov 4 2026*
 
 ## How fast Aerodrome supply grows
 
-Aerodrome mints new AERO every week and holders lock only part of it; the Oct 22 2026 Aero merger adds Velodrome's share on top.
+Aerodrome, now Aero after the Velodrome merger, pays liquidity providers in new AERO. Supply grew 2.79% in 90 days as staking absorbed most new coins; about 8.50% more is due next as staking slows.
 
-New AERO: +10.84% in 90 days, +27.56% in a year. Supply score 0/5, "extreme" (place 8 of 101).
+New AERO: +8.50% in 90 days, +23.09% in a year. Supply score 0/5, "extreme" (place 10 of 100).
 
 ## How strong is Aerodrome demand?
 
-Aerodrome demand: 3.5/5 (**strong**), place #18 among 110 coins — interest today plus the buying that could come later.
+Aerodrome demand: 3.5/5 (**strong**), place #19 among 109 coins — interest today plus the buying that could come later.
 
 A deeper AERO demand breakdown is on the page for members.
 
-## Aerodrome: buy, sell or hold — questions and answers
+## Aerodrome supply questions, answered
 
-### Is it time to buy the Aerodrome dip?
+### Is Aerodrome (AERO) inflationary or deflationary?
 
-Based on the law of supply and demand, the long-run signal for Aerodrome is negative. As of Oct 21 2026, score 3.5/10, Aerodrome faces +10.84% new supply over 90 days, with demand strong (3.5/5). Aerodrome's price drivers: 0 ▲ price up, 0 ▼ price down.
+Aerodrome (AERO) is inflationary right now: its supply changes +8.50% over the next 90 days and +23.09% over the next year (checked Nov 4 2026). More AERO is added than removed.
 
-### What is the latest Aerodrome news before the Aero launch?
+### What is the AERO inflation rate in 2026?
 
-The big one is the merge: Aerodrome and Velodrome go live as Aero on Oct 21 2026, on 7 chains, and Coinbase swaps the tokens on Nov 2. Aerodrome still handles about half of all trading on Base, so the business looks intact going in. Its market cap sat near $877M on Oct 16 2026. That leaves Aerodrome's long-run signal at negative, by supply and demand.
+About +23.09% a year: that is how much Aerodrome (AERO) supply changes over the next 12 months, with +8.50% in the next 90 days (checked Nov 4 2026). That puts AERO #10 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Is $10 possible for Aerodrome?
+### When is the next AERO token unlock?
 
-It would take 11 times today's value: $10 × Aerodrome's coins in the market = about $10B, against $875M now (Oct 21 2026). Aerodrome's supply also grows +27.56% in the next year, so every extra coin needs buyers too. Supply and demand still read negative for Aerodrome in the long run.
+No dated Aerodrome (AERO) unlock is scheduled in the next 90 days (checked Nov 4 2026). New AERO still arrives: about 91.2M AERO in 90 days.
 
-### Is it time to take profit on Aerodrome?
+### Does Aerodrome burn or buy back AERO?
 
-Today the signal is negative. Supply and demand would point the other way for Aerodrome if new supply keeps arriving (+10.84% in 90 days), or demand falls from strong. Next date to watch for Aerodrome: Oct 21 2026 — Aero live on 7 chains.
+Yes. In our count, about 28.8M AERO is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 4 2026). How it works: Net new staking took 128M AERO in 90 days but is slowing; the Momentum Fund burned 408K AERO.
 
-### Is Aerodrome a good investment right now?
+### Where does new AERO supply come from?
 
-On our framework Aerodrome scores 3.5/10 (Oct 21 2026), with supply 0/5 (extreme) and demand 3.5/5. In the next year Aerodrome's supply changes +27.56%, so the long-run signal reads negative.
+In our count, about 91.2M new AERO reaches the market over the next 90 days (checked Nov 4 2026). How it works: Reward emissions mint about 59M AERO per 90 days, and the last 32M AERO of the Velodrome merger share is still being claimed.
 
-### What is the best time to invest in Aerodrome?
+### How much AERO is in circulation?
 
-The law of supply and demand points to one window for Aerodrome: low new supply, high demand, drivers pointing up. Where Aerodrome stands today: +10.84% new supply in 90 days (extreme), demand strong (3.5/5), drivers 0 ▲ / 0 ▼.
+About 734M AERO is in circulation (checked Nov 4 2026). Over the next 90 days that changes +8.50%, and over a year +23.09%.
 
-### Will Aerodrome go up? What could move its price?
+### Does AERO have more new supply than STABLE, RAY or FET?
 
-Aerodrome has 2 price drivers today (0 ▲ price up, 0 ▼ price down). • Aero launch: Aero goes live Oct 21 2026; Coinbase swaps tokens Nov 2. • Base trading share: Aerodrome still handles about half of all trading on Base.
-
-### Should I buy Aerodrome or Bitcoin?
-
-Aerodrome reads negative at 3.5/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, Aerodrome looks weaker than Bitcoin today.
+Over the next 90 days (checked Nov 4 2026): AERO +8.50%, STABLE 0.00%, RAY +0.23%, FET +6.01%. AERO has the most new supply of these 4 coins.
 
 ## More on Aerodrome
 
 - AERO supply, line by line: https://mrnasdog.com/research/aero/inflation
-- Where Aerodrome sits among all coins: https://mrnasdog.com/coins
+- Where Aerodrome sits on new supply: https://mrnasdog.com/token-supply
 - Why supply and demand decide AERO's signal: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

@@ -1,18 +1,18 @@
 ---
-title:         "KuCoin Token (KCS) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Supply and demand give KuCoin Token (KCS) a negative long-run signal today (Oct 21 2026); its score is 4.5/10."
+title:         "KuCoin Token (KCS) Tokenomics: 0.00% Supply in 90 Days"
+description:   "As of Nov 4 2026, new KuCoin Token supply runs at 0.00% over 90 days and 0.00% over 12 months."
 canonical_url: "https://mrnasdog.com/research/kcs"
 content_type:  "coin_hub"
 tags:          ["crypto", "kcs", "kucointoken", "should-i-buy"]
 published:     true
 ---
-# KuCoin Token (KCS) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
+# KuCoin Token (KCS) Tokenomics: 0.00% Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/kcs (checked Oct 21 2026)*
+*Originally published at https://mrnasdog.com/research/kcs (checked Nov 4 2026)*
 
-Supply and demand give KuCoin Token (KCS) a **negative** long-run signal today (Oct 21 2026); its score is 4.5/10.
+As of Nov 4 2026, new KuCoin Token supply runs at **0.00%** over 90 days and **0.00%** over 12 months.
 
-- **Long-run signal:** negative (Oct 21 2026)
+- **Long-run signal:** negative (Nov 4 2026)
 - **Score:** 4.5/10 — supply 4.5/5, demand 0/5
 - **New supply:** 0.00% in 90 days · 0.00% in a year
 - **Demand:** minimal (0/5)
@@ -24,7 +24,7 @@ Supply and demand give KuCoin Token (KCS) a **negative** long-run signal today (
 
 ### ▼ Regulator pressure
 
-Korea blocked KuCoin Oct 13; US ban may end Jan 2027.
+Left Russia and Belarus Oct 29; US ban may end Jan 2027.
 
 Good for the price: Licenses won, bans lifted. Bad for it: More fines and bans. Today: the price-down case.
 
@@ -33,75 +33,75 @@ Good for the price: Licenses won, bans lifted. Bad for it: More fines and bans. 
 | Jan 27 2025 | US guilty plea, $297M |
 | Nov 28 2025 | EU MiCA license |
 | Feb 19 2026 | EU: no new users |
-| Mar 5 2026 | Dubai orders halt |
 | Mar 30 2026 | CFTC $0.5M, US barred |
 | May 18 2026 | EU ban lifted |
 | Oct 13 2026 | Korea blocks website |
+| Oct 29 2026 | Exits Russia and Belarus |
 | Jan 2027 at the earliest | US ban may end (coming) |
 
-*Checked Oct 15 2026*
+*Checked Nov 4 2026*
 
 ### ▼ KuCoin users' BTC
 
-Users' BTC on KuCoin is down about 38% since Jun 2024.
+Users' BTC on KuCoin is down about 36% since Jun 2024.
 
 Users bring BTC in → price up · Users pull BTC out → price down. Now: ▼ down side.
 
 | Date | Users' BTC on KuCoin |
 |---|---|
-| Jun 30 2026 | 8,368 BTC |
 | Jul 31 2026 | 7,883 BTC |
 | Aug 31 2026 | 7,441 BTC |
 | Sep 30 2026 | 7,359 BTC |
+| Oct 31 2026 | 7,521 BTC |
 
-*Checked Oct 15 2026*
+*Checked Nov 4 2026*
 
 ## New KCS hitting the market
 
-KuCoin's exchange token mints nothing and has burned nothing since Dec 31 2025, and its 47.5M KCS lock wallet has not moved since 2022: supply flat over 90 days.
+KuCoin's exchange token: no new coins, no burns since Dec 31 2025, and 67.4M KCS in two team wallets that have not moved since 2022.
 
-New KCS: 0.00% in 90 days, 0.00% in a year. Supply score 4.5/5, "flat" (place 84 of 101).
+New KCS: 0.00% in 90 days, 0.00% in a year. Supply score 4.5/5, "flat" (place 82 of 100).
 
 ## KCS demand
 
-KuCoin Token demand: 0/5 (**minimal**), place #108 among 110 coins — interest today plus the buying that could come later.
+KuCoin Token demand: 0/5 (**minimal**), place #108 among 109 coins — interest today plus the buying that could come later.
 
 Members get the rest of the KuCoin Token demand read on mrnasdog.com.
 
-## Should you buy KCS? Questions about KuCoin Token
+## KuCoin Token (KCS) supply: questions people ask
 
-### Is it time to buy the KuCoin Token dip?
+### Is KuCoin Token (KCS) inflationary or deflationary?
 
-Supply and demand point to a negative long-run signal for KuCoin Token (Oct 21 2026, score 4.5/10). KuCoin Token adds 0.00% new supply in 90 days, and demand reads minimal (0/5). KuCoin Token's price drivers: 0 ▲ price up, 2 ▼ price down.
+KuCoin Token (KCS) is flat, neither inflationary nor deflationary right now: its supply changes 0.00% over the next 90 days and 0.00% over the next year (checked Nov 4 2026). New KCS and removed KCS about cancel out.
 
-### Is KuCoin still blocked in the US, and how does that hit KCS?
+### What is the KCS inflation rate in 2026?
 
-Yes, for now. The US ban may end in Jan 2027 at the earliest, and Korea blocked KuCoin on Oct 13. Users' BTC on KuCoin is down about 38% since Jun 2024, so KCS demand reads minimal (0/5) today. By supply and demand, KuCoin Token's long-run signal is negative today.
+About 0.00% a year: that is how much KuCoin Token (KCS) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 4 2026). That puts KCS #82 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Is it time to take profit on KuCoin Token?
+### When is the next KCS token unlock?
 
-We would read KuCoin Token differently if new supply jumps (today 0.00% in 90 days), or demand falls from minimal, or Regulator pressure and KuCoin users' BTC keep pointing down. Until then KuCoin Token's signal stays negative. Mark this date for KuCoin Token: Jan 2027 at the earliest — US ban may end.
+No dated KuCoin Token (KCS) unlock is scheduled in the next 90 days (checked Nov 4 2026).
 
-### Is KuCoin Token a good investment right now?
+### Does KuCoin Token burn or buy back KCS?
 
-KuCoin Token scores 4.5/10 on our framework (Oct 21 2026): supply 4.5/5 (flat), demand 0/5. Over the next year KuCoin Token's supply changes 0.00%. The long-run signal is negative.
+Not in a way that removes KCS today: nothing takes KCS off the market over the next 90 days (checked Nov 4 2026). No burn since the 20,240 KCS burn of Dec 31 2025 and no gas burn: KuCoin's monthly buy-and-burn has gone silent.
 
-### How do I know when to buy KuCoin Token?
+### Where does new KCS supply come from?
 
-Supply and demand favor KuCoin Token most when little new supply is coming, demand is strong and the price drivers point up. Right now KuCoin Token has 0.00% new supply in 90 days (flat), demand minimal (0/5), drivers 0 ▲ / 2 ▼.
+Almost no new KCS reaches the market over the next 90 days (checked Nov 4 2026). No new KCS is made; the 2022 lock wallet (47.5M KCS) has sent nothing since Mar 31 2022, so the Oct 2 2026 paper slice adds no coins.
 
-### Will KuCoin Token go up in 2026?
+### How much KCS is in circulation?
 
-KuCoin Token's price drivers today: 0 pointing up, 2 pointing down, out of 2. ▼ Regulator pressure: Korea blocked KuCoin Oct 13; US ban may end Jan 2027. ▼ KuCoin users' BTC: Users' BTC on KuCoin is down about 38% since Jun 2024.
+About 140M KCS is in circulation (checked Nov 4 2026). Over the next 90 days that changes 0.00%, and over a year 0.00%.
 
-### Should I buy KuCoin Token or Bitcoin?
+### Does KCS have more new supply than ARB, GT or POL?
 
-KuCoin Token: negative signal, 4.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, KuCoin Token reads weaker than Bitcoin today.
+Over the next 90 days (checked Nov 4 2026): KCS 0.00%, ARB +6.11%, GT −2.15%, POL −0.32%. KCS sits in the middle of these 4 coins.
 
 ## Go deeper on KuCoin Token
 
 - KCS supply, line by line: https://mrnasdog.com/research/kcs/inflation
-- Where KuCoin Token sits among all coins: https://mrnasdog.com/coins
+- Where KuCoin Token sits on new supply: https://mrnasdog.com/token-supply
 - Why supply and demand decide KCS's signal: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

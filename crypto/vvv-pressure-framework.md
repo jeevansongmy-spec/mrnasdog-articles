@@ -1,6 +1,6 @@
 ---
-title:         "VVV Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description:   "VVV is inflationary: 1.28M VVV of team vesting and 602K of staking pay against a 132K revenue burn give +3.00% in 90 days and +3.48% next. No supply cap."
+title:         "VVV Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
+description:   "Venice Token supply grew +3.11% in 90 days: 1.16M VVV of team vesting and 576K staking rewards vs 134K bought and burned. Team lock ends on Jan 27 2027."
 canonical_url: "https://mrnasdog.com/research/vvv/inflation"
 tags:          ["crypto", "vvv", "venice", "ai"]
 published:     true
@@ -8,56 +8,60 @@ published:     true
 *Originally published at [https://mrnasdog.com/research/vvv/inflation](https://mrnasdog.com/research/vvv/inflation)*
 
 <!-- main-page -->
-➜ Start with the Venice Token coin page for the short answer (should you buy VVV?) and its price drivers: [mrnasdog.com/research/vvv](https://mrnasdog.com/research/vvv)
+This is the long supply read. For the signal, the price drivers and the questions people ask about Venice Token, see [mrnasdog.com/research/vvv](https://mrnasdog.com/research/vvv).
 
-# VVV Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+# VVV Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 
-Venice Token (VVV) supply is growing: **+3.00%** over the 90 days from Jul 27 to Oct 25 2026, and about **+3.48%** over the next 90 days. Team vesting released **1.28M VVV** and stakers earned **602K VVV** of new coins, while Venice's revenue buy-and-burn removed **131,699 VVV** and **389K VVV** moved back into company wallets. VVV has no supply cap; other trackers show **+2.28%** because of a one-day recount on Aug 17 2026.
+Venice Token's circulating supply grew **+3.11%** in the 90 days from Aug 6 to Nov 4 2026 and is on course for about **+3.39%** in the next 90 days. Team vesting released **1,164,526 VVV**, stakers earned **576,488 VVV** of new coins and company wallets paid out 113,846 more, while Venice bought and burned **133,662 VVV** and 203,489 went back into its own wallets. VVV has no supply cap, but Venice keeps cutting new issuance, and other trackers show **+2.55%** for the same period, so the coin page carries a warning note.
 
 ## The verdict, in one paragraph
 
-Over the last 90 days circulating VVV grew by a net **1.46M VVV**, or **+3.00%** of today's **48.63M VVV** in circulation. Our projection for the next 90 days is a little higher, **+3.48%**, because team coins keep unlocking at the same pace while the coins sent back into company wallets this summer were one-off moves we do not expect to repeat. Other trackers show **+2.28%** for the same 90 days, a gap of **0.72 points**, so the coin page carries a warning note. That gap is not missing supply: on Aug 17 2026 the circulating figure those trackers use fell by **309,171 VVV** in one day, when a staff vesting lockup holding about **316,000 VVV** was added to their locked list, and no coins moved on-chain that day. The on-chain reading stands: VVV is inflationary by vesting, with team unlocks and staking pay running well ahead of a revenue-funded burn.
+Over the 90 days to Nov 4 2026, circulating VVV rose by a net **+3.11%**, from about 47.27M to 48.79M. Other trackers report **+2.55%** for the same 90 days, a gap of **0.56 percentage points**, so the coin page shows a warning note. The gap is not a flow of coins: on Aug 17 2026 the circulating figure those trackers use fell by 309,171 VVV, when a staff vesting lock holding about 316,000 VVV was moved to their locked list. Counted the same way at both ends, circulating VVV rose by 1.52M, so our reading stands. The next 90 days should look a little heavier, about **+3.39%**, because the main team lock pays out its last coins by Jan 27 2027. In one line, VVV today is an inflating token: team unlocks and staking rewards add far more coins than Venice's buy-and-burn takes away.
 
 ## Sell pressure: where new VVV comes from
 
-Protocol inflation is the staking pay. The Venice Token staking contract creates new VVV every few seconds and hands it to stakers, and between Jul 27 and Oct 25 2026 stakers received **602,367 VVV**. Venice cut the yearly emission from **3M VVV** to **2.5M VVV** on Sep 1 2026 and to **2M VVV** on Oct 1 2026, so the next 90 days pay stakers about **468K VVV**. About 5% of each new batch goes to Venice's main company wallet instead; those coins count only when they leave that wallet.
+Staking rewards are the first source. Venice mints new VVV every second and sends about 95% of it to stakers and the rest to its main treasury. From Aug 6 to Nov 4 2026 stakers received **576,488 VVV**, and the treasury took 30,747. Venice has cut the yearly amount again and again: 3M VVV a year until Sep 1 2026, 2.5M until Oct 1 2026 and 2M since. At the new pace stakers should receive about **468,500 VVV** in the next 90 days, so this source is shrinking.
 
-Vesting unlocks are the biggest source of new VVV. Team and staff coins sit in two on-chain lockups and unlock second by second, and in these 90 days **1,283,468 VVV** left them: **1,231,166 VVV** from the team lockup and **52,302 VVV** from staff lockups. The team lockup runs out on Jan 27 2027, and about **1.24M VVV** more becomes free to claim by Jan 23 2027, so vesting stays the main force for one more quarter and then almost stops.
+Vesting unlocks are the biggest source. The team's coins stream out of two on-chain locks every second, and holders took **1,164,526 VVV** out of them in the window. The main team lock still holds **1,159,579 VVV** and empties on Jan 27 2027. A smaller staff lock holds 274,602 VVV that pays out slowly into 2030. Together about **1.22M VVV** can come out in the next 90 days.
 
-Foundation and unscheduled unlocks came to **93,222 VVV**. Venice's main company wallet sent **79,138 VVV** to a spending wallet in three monthly payments of about 26K each, on Aug 2, Aug 31 and Sep 29 2026, and we expect three more before Jan 23 2027. A second company wallet paid out **9,134 VVV** once in September, and the liquidity wallet sent **4,950 VVV** in small weekly amounts. Long-term locked or bankruptcy supply is zero: no bankruptcy estate holds VVV, and the investor grant described below stays locked past this window.
+Company payouts are the third source. Venice moves about 25,000 VVV from its main treasury to a payroll wallet at the end of each month, 97,431 in this window counting an extra 21,915 on Oct 29 2026. A second company wallet paid 9,134 VVV on Sep 17 2026 and the liquidity wallet sent out 7,281, for **113,846 VVV** in all. At the monthly pace about 79,000 VVV should follow in the next 90 days.
+
+Long-term locked or bankruptcy supply is zero. No court estate holds VVV, and coins that holders stake or lock to make DIEM, the token that pays for AI credits every day, still count as circulating, so unlocking them adds nothing new.
 
 ## Buy pressure: where new VVV goes
 
-The programmatic buyback is Venice's burn. Part of every Venice subscription, and $5 of every $100 of developer credits, buys VVV on the market and burns it at once, and a larger batch is burned once a month (Aug 7, Sep 8 and Oct 7 2026). Between Jul 27 and Oct 25 2026 the VVV burn destroyed **131,699 VVV**, worth about **$2.52M**. Because the burn is set in dollars, a higher VVV price buys fewer coins: at today's price of about $25.59 the same spending burns about **98.7K VVV** in the next 90 days.
+The programmatic buyback is the steadiest removal. Every new Venice subscription, and $5 of every $100 of AI credits, buys VVV on the market and burns it within seconds. From Aug 6 to Nov 4 2026 that burned **73,812 VVV**, about $1.52M worth, and the dollar amount grew each month. At $22.60 the same dollars would burn about 67,100 VVV in the next 90 days.
 
-The protocol fee burn is zero, because Base does not burn VVV when people pay fees; every VVV burn comes from Venice's revenue. Foundation buying is zero, because the coins Venice buys go to the burn rather than to its own wallets. New long-term locks are zero too: the **33.5M VVV** staked, including the **8.38M VVV** locked to make DIEM credit tokens, still counts as circulating. One extra row carries the rest: **389,066 VVV** moved from the market back into company wallets, mostly **355,000 VVV** returned to Venice's second company wallet on Jul 28, Aug 13 and Oct 5 2026. Those returns have no schedule, so we count none of them in the next 90 days.
+The protocol fee burn is zero, because VVV is a token on Base with no network fee of its own. Every VVV burn is a purchase Venice pays for.
+
+The company buy is the second removal. Venice's buyback wallet buys VVV with part of its revenue and burns the pile once a month: **27,163 VVV** on Aug 7, 16,563 on Sep 8 and 16,124 on Oct 7 2026, **59,850 VVV** and about $1.05M in all. If Venice keeps spending the same, the next three burns should take about 46,500 VVV at today's price.
+
+New long-term locks are zero. Staking and the DIEM lock keep coins in circulation, and no new multi-year lock started in the window. A fifth row records coins that went back into Venice's own wallets: **203,489 VVV**, of which 75,000 on Aug 13 and 80,000 on Oct 5 2026 landed in the second company wallet and 48,489 came back from trading pools to the liquidity wallet. These came at random, so none are counted for the next 90 days.
 
 ## Foundation and overhang
 
-Venice keeps a large pile of VVV outside circulation. Its main company wallet holds **20.75M VVV** and pays out about **26K VVV** a month; its second company wallet holds **8.71M VVV** with no release plan; and its liquidity wallet holds **1.57M VVV**. The team lockup still holds **1.25M VVV**, which runs out on Jan 27 2027, and the staff lockups hold **274.6K VVV** that unlock slowly into 2030.
+Venice still holds a large share of VVV outside circulation. The main treasury holds **20.71M VVV**, the second company wallet **8.71M** and the liquidity wallet **1.58M**. Only the monthly payroll of about 25,000 VVV leaves on a steady rhythm; the rest has no published release plan. The two vesting locks hold another 1.43M VVV, most of it due out by Jan 27 2027.
 
-Venice also granted its July 2026 investors **1.5M VVV** that stays locked until about Jul 1 2027 and then unlocks over three years, plus the option to buy up to **5M VVV** more on the same timetable. The company has said it does not want to sell its own VVV. We read every one of these balances on-chain at each check: if any of them falls between checks, the coins that leave count as new supply at the next check.
+Investors in Venice's $65M funding round of July 2026 hold a grant of 1.5M VVV and the right to buy 5M more, locked for one year and then released over three years, so nothing from them is due before about July 2027. The buyback wallet held 16,339 VVV on Nov 4 2026, waiting for its next monthly burn.
 
-## How VVV compares to other revenue-burn app tokens
+## How VVV compares to other AI app tokens
 
-Venice Token belongs to a small group of app tokens whose company uses real revenue to buy its own token. Hyperliquid (HYPE) sends most of its trading fees into buying HYPE, and Pump.fun (PUMP) spends its fee income on buybacks. Venice does the same with a slice of subscription and developer credit sales, but it burns what it buys rather than holding it, so every VVV bought is gone for good.
-
-What sets VVV apart is the other side of the ledger. VVV has no supply cap and still pays stakers in new coins, and its launch-era team vesting has one quarter left to run. In this window the VVV burn cancelled about **7%** of the new supply. Fixed-supply tokens with a buyback, where nothing new is printed, shrink as soon as the buying starts; VVV can only shrink once its burn outgrows a staking budget that is now **2M VVV** a year. With the team lockup ending on Jan 27 2027 and the emission cut by two thirds since May 2026, that point is closer than it looks from these 90 days.
+Most AI tokens either pay rewards with no buyback at all, or burn coins with no business behind the burn. VVV sits in between: a real app with paying users funds the burn, but staking rewards and team unlocks still add more coins than the burn removes. The burn takes back about 7% of what reaches holders today. Once the team lock empties in January 2027 and new issuance stays at 2M a year, the two sides come much closer, and the mechanism can tip toward a shrinking supply only if subscription and credit sales keep growing.
 
 ## What to watch in the next 90 days
 
-**Around Nov 7 2026:** Venice's next monthly batch burn, after Aug 7, Sep 8 and Oct 7 2026; a bigger batch would lift the buy side.
+Early December 2026 and early January 2027: Venice's monthly burns, which landed on Aug 7, Sep 8 and Oct 7 2026. Their size shows whether company spending on the buyback keeps up.
 
-**Late October 2026:** the main company wallet's next monthly payment of about 26K VVV, after Aug 2, Aug 31 and Sep 29 2026; a larger payment would add to the sell side.
+Jan 27 2027: the main team lock pays out its last coins. After that date vesting falls to the small staff lock, and the next-90-day count drops sharply.
 
-**Any new emission cut:** Venice has cut staking pay five times since May 1 2026, most recently on Oct 1 2026, and has not announced another; a cut would lower the next 90 days.
+Any new cut to the 2M-a-year issuance. Venice cut it on Sep 1 and Oct 1 2026 and says it aims for a shrinking supply, but no further date is set.
 
-**Jan 27 2027:** the team lockup runs out, four days after this window, which removes the largest source of new VVV from the following quarter.
+Large moves out of the main treasury beyond the monthly payroll, and the July 2027 end of the investor lock, which sits outside this window.
 
 ## Summary
 
-Venice Token supply grew **+3.00%** over the 90 days to Oct 25 2026 and is set to grow about **+3.48%** over the next 90 days. Most of the new VVV is team vesting, **1.28M VVV**, plus **602K VVV** of staking pay, against a revenue-funded burn of **131,699 VVV**. VVV has no supply cap, and Venice's company wallets still hold about **31M VVV** outside circulation. The key change ahead is the end of team vesting on Jan 27 2027: after that, staking pay at 2M VVV a year and the monthly burn are the main forces left.
+Venice Token's circulating supply grew **+3.11%** over the 90 days to Nov 4 2026 and should grow about **+3.39%** over the next 90 days. Team vesting released **1,164,526 VVV** and stakers earned 576,488, while Venice burned 133,662 VVV it bought on the market. The main team lock empties on Jan 27 2027, after which new supply should slow a lot. Other trackers show a lower figure because they changed how they count a staff vesting lock on Aug 17 2026, not because fewer coins came out.
 
 ---
 
-*MrNasDog Pressure Framework analysis of VVV, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 25 2026.*
+*MrNasDog Pressure Framework analysis of VVV, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 4 2026.*

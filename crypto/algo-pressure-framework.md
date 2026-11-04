@@ -1,6 +1,6 @@
 ---
-title:         "ALGO Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description:   "ALGO supply is growing: the Foundation released 43.65M ALGO and paid 18.81M in staking rewards in 90 days, +0.69% net, about +0.53% next. Nothing burned."
+title:         "ALGO Inflation Analysis · November 2026 · Supply was growing · trend cooling"
+description:   "ALGO supply is growing: the Foundation sent out 38.78M ALGO and paid 18.77M in staking rewards in 90 days, +0.63% net, about +0.48% next. Nothing burned."
 canonical_url: "https://mrnasdog.com/research/algo/inflation"
 tags:          ["crypto", "algo", "algorand", "layer1"]
 published:     true
@@ -8,64 +8,64 @@ published:     true
 *Originally published at [https://mrnasdog.com/research/algo/inflation](https://mrnasdog.com/research/algo/inflation)*
 
 <!-- main-page -->
-➜ Start with the Algorand coin page for the short answer and its price drivers: [mrnasdog.com/research/algo](https://mrnasdog.com/research/algo)
+The Algorand coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/algo](https://mrnasdog.com/research/algo). Below: supply, line by line.
 
-# ALGO Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+# ALGO Inflation Analysis · November 2026 · Supply was growing · trend cooling
 
-**ALGO** is inflationary on its circulating float: between Jul 27 and Oct 25 2026 the circulating supply of **Algorand** grew by a net **+0.69%**, and we expect about **+0.53%** in the next 90 days. No ALGO is ever minted or burned. All **10B ALGO** have existed since 2019, and supply grows only when the Algorand Foundation lets coins out of its own wallets: **43.65M ALGO** in sales, grants and payments, plus **18.81M ALGO** of staking rewards from the fee sink it refills, against **121,166 ALGO** of fees that went back into that sink. The ceiling is hard: the Foundation still holds about **925.3M ALGO**, and that is all the new supply that can ever reach the market.
+Algorand's circulating supply grew **+0.63%** in the 90 days from Aug 6 to Nov 4 2026 and is on course for about **+0.48%** in the next 90 days. No ALGO is ever minted: all **10B ALGO** were made at launch, and supply grows only when coins leave Foundation wallets, through staking payouts of **18.77M ALGO** and Foundation sends of **38.78M ALGO**, against just **116,876 ALGO** of fees kept by the fee sink. Other trackers showed **+1.22%** on Nov 3 2026 because their supply figure caught up with July in one step, so the coin page carries a warning note.
 
 ## The verdict, in one paragraph
 
-ALGO sell pressure came to **62.46M ALGO** in 90 days and buy pressure to **121.17K ALGO**, for a net **+0.69%** of the **9.07B ALGO** in circulation. Other trackers show **+1.17%** for the same 90 days, a gap of **0.48 points**. That gap has a dated cause: the Foundation's published supply figure stood still at 8.97B ALGO from Jul 19 to Aug 4 2026 and caught up on Aug 5 2026, so their starting point sits a few weeks too early. The coin page carries no warning note. In one line, Algorand is a fixed-supply chain whose float grows only as fast as its Foundation sells, spends and pays stakers.
+Over the 90 days to Nov 4 2026, circulating ALGO rose by a net **+0.63%**, from about 9.02B to 9.08B ALGO, or **57.43M ALGO** more in the market. Other trackers showed **+1.22%** on Nov 3 2026, a gap of **0.59 percentage points**, so the coin page shows a warning note. The gap is not extra ALGO: the public supply figure those trackers read stood still from mid-July and then jumped **50.46M ALGO** on Aug 5 2026 to catch up, and most of that jump was Foundation sends made in July, before this 90-day window opened. Our reading is **+0.63%**, and the next 90 days should be a little slower at about **+0.48%**, because one large payment in this window is not expected to repeat. In one line, ALGO is a fixed-supply coin whose float keeps widening as the Algorand Foundation pays stakers and spends or sells its reserve.
 
 ## Sell pressure: where new ALGO comes from
 
-The first source is staking rewards. Every Algorand block pays its proposer a bonus plus half of that block's fees, and the money comes from the fee sink, a Foundation wallet outside the circulating count. In these 90 days the fee sink paid **19.43M ALGO** across 2.33M blocks, and **18.81M ALGO** of it reached stakers outside the Foundation, so that is the Algorand protocol inflation row. The bonus falls 1% every million blocks, from 8.43 ALGO per block at the start of the window to 8.18 ALGO now, which is why the next 90 days should bring a little less, about **18.28M ALGO**. The Foundation refilled the fee sink with 9M ALGO on Aug 19 2026 and 10M ALGO on Sep 30 2026; those refills move coins between Foundation wallets and add nothing by themselves.
+The first source is staking pay. Since January 2025 every Algorand block has paid its proposer a bonus out of the fee sink, a protocol account that the Algorand Foundation keeps topped up, plus half of the fees in that block. Any account that runs a node with at least 30,000 ALGO can earn it. From Aug 6 to Nov 4 2026 these payouts sent **18.77M ALGO** to stakers outside the Foundation, about **209,000 ALGO a day**. The bonus started at 10 ALGO a block and shrinks by 1% every million blocks; it stood at about **8.18 ALGO** per block in early November, so the next 90 days should pay about **18.25M ALGO**. On Jul 1 2026 the Foundation said it will keep funding the bonus until January 2028, so this flow does not stop in the next 90 days.
 
-Vesting unlocks are **0**. The original ALGO release schedule ended in 2024, and no investor, team or sale tranche is still waiting to vest.
+Vesting unlocks add nothing. ALGO's original unlock schedule for sale buyers, the team and early backers finished in 2024, and no locked tranche is waiting.
 
-The big row is the Foundation itself: **43.65M ALGO** left its wallets for the open float in 90 days. Its market operations wallet sold through a desk in capped tranches, 5M ALGO on Aug 5, 4M on Aug 10, 4.36M on Aug 20 and 3M on Aug 24 2026, and two treasury wallets added 1.76M more, for **18.12M ALGO** of structured selling. A treasury wallet also paid **13.35M ALGO** to a single outside wallet in two transfers on Sep 22 and Oct 1 2026, and that wallet has not moved the coins since. The remaining **11.5M ALGO** went out as grants, xGov awards, partner payments and running costs. For the next 90 days we count the selling and spending at the same pace, about **30.30M ALGO**, and leave the two one-off payments out.
+The larger source is the Algorand Foundation itself. Between Aug 6 and Nov 4 2026 the Foundation sent **38.78M ALGO** out of its wallets. Of that, **11.36M ALGO** went to its selling desk in three lots on Aug 10, Aug 20 and Aug 24 2026, **13.35M ALGO** went to a single outside wallet on Sep 22 and Oct 1 2026 and is still sitting there, and the rest paid for grants, community programmes and running costs. The single large payment is treated as a one-off, so the next 90 days should bring about **25.43M ALGO** from Foundation wallets.
 
-Long-term locked or bankruptcy supply is **0**: no court estate or frozen pile of ALGO is waiting to be paid out.
+Nothing sits in a court estate or bankruptcy pile, so the long-term locked row is zero.
 
 ## Buy pressure: where new ALGO goes
 
-There is no programmatic buyback, so that row is **0**; no contract or treasury buys ALGO from the market. The protocol fee burn is also **0**, because Algorand never destroys coins. The Foundation bought nothing either: only a few thousand ALGO flowed back into its wallets in 90 days.
+Very little ALGO leaves the market. Algorand has no buyback and no burn. Every transaction fee goes into the fee sink, which counts as outside the circulating supply, and from Aug 6 to Nov 4 2026 users paid **116,876 ALGO** in fees. Half of that comes straight back to block proposers inside the staking pay above, and the whole amount offsets only about **0.2%** of the new supply. Fees rose after the August 2026 software release began charging large transactions by size, but they are still tiny next to the payouts.
 
-New long-term locks are **0**. About **2.0B ALGO** is staked, but Algorand staking has no lock-up and staked coins stay in the circulating count, so staking takes nothing out of the float.
-
-The one real removal is fees. Every Algorand transaction fee goes to the fee sink, which sits outside the circulating count, and users paid **121,166 ALGO** in fees in these 90 days. Half of each block's fees goes straight back to the proposer inside its reward, which is already counted on the sell side. Even in full, fees cover well under 1% of the staking rewards paid out, so on Algorand they are a small offset, not a burn engine.
+The Foundation bought no ALGO back in the window. About **2B ALGO** is staked, but staking on Algorand never locks coins: they stay in their owners' wallets, can move at any time and still count as circulating, so the stake removes nothing from the float.
 
 ## Foundation and overhang
 
-The Algorand Foundation is the only holder of ALGO outside the float, and it publishes its wallets. Today they hold about **925.3M ALGO**: **876.2M** in 65 treasury wallets, **16.0M** in the fee sink that pays staking rewards, **3.6M** in the two market operations wallets used for structured selling, nothing in the ten governance and xGov reward pools, and **29.5M** in old wallets it no longer uses. There is no published calendar for when this reserve is released. The Foundation's own rules cap structured selling at the lower of a fixed amount or a small share of market volume, and pause it after a 10% drop in 24 hours or below a set price floor.
+The Algorand Foundation is the only large holder outside the circulating count, and its balances are the whole overhang. On Nov 4 2026 it held about **875.88M ALGO** across 65 treasury wallets, **29.53M ALGO** in 230 old genesis wallets that have not moved in this window, **3.64M ALGO** with its selling desk and **14.03M ALGO** in the fee sink that pays stakers. Together that is about 923M ALGO, roughly a tenth of all ALGO, still to enter the market at the Foundation's pace.
 
-We read these Foundation wallets on-chain at every rebuild. If any of their balances falls between refreshes, the outflow enters the Foundation row at the next refresh. The 13.35M ALGO paid on Sep 22 and Oct 1 2026 already sits outside the Foundation and counts as circulating, so a later sale from that wallet would add nothing new to Algorand supply.
+The Foundation refilled the fee sink from its treasury twice in the window, with **9M ALGO** on Aug 19 and **10M ALGO** on Sep 30 2026. Those refills only move coins between Foundation wallets, so they add nothing until the fee sink pays them out to stakers. The governance and xGov reward pools are empty.
 
 ## How ALGO compares to other proof-of-stake Layer 1 chains
 
-Most proof-of-stake Layer 1 chains pay stakers by minting new coins. Ethereum creates fresh ETH for validators every epoch and has no cap, and Solana follows an inflation schedule that slowly steps down. Algorand works differently: ALGO has a fixed supply of 10B that all exists already, and staking rewards are paid out of coins the Foundation already holds. So ALGO's total supply can never rise, but its circulating supply rises until the Foundation's reserve runs out.
+Most proof-of-stake chains create new coins to pay stakers. Ethereum and Cosmos Hub mint fresh coins every block, and Ethereum burns part of its fees to offset that. Algorand works differently: its total of 10B ALGO is fixed, so staking pay comes out of coins that already exist, and the only thing that changes is how many of them the Foundation still holds. Cardano is the closest match, paying stakers from a reserve carved out of a fixed maximum supply, though its reserve is run by the protocol rather than by a foundation that tops it up.
 
-The closer matches are chains with a fixed cap and a reserve. Cardano pays stakers from a reserve inside its 45B ADA cap, released by a protocol rule each epoch. Hedera has a fixed 50B HBAR supply released from a treasury by its governing council. ALGO sits nearer the Hedera end: the release pace is set by the Foundation's choices, its selling rules and how often it refills the fee sink, not by a coded curve.
-
-On the buy side Algorand is light. It has no fee burn like Ethereum's and no buyback like exchange tokens, and its fees are tiny, so nothing on the chain soaks up the coins the Foundation lets out. The trade-off is a hard ceiling: once the roughly 925.3M ALGO left with the Foundation is out, Algorand's supply growth stops for good.
+The result is a float that widens in steps set by one organisation. Algorand's staking pay is modest and shrinks on a schedule, but the Foundation's own sends were twice as large as staking pay in this window, so ALGO's supply story depends more on Foundation spending choices than on the protocol.
 
 ## What to watch in the next 90 days
 
-**Around Nov 1 2026:** the v43 protocol upgrade switches on at block 66,544,490. It tightens how accounts close with a minimum balance and does not change staking rewards or supply.
+**Around Nov 6 2026**, the network switches to consensus version 43, a fix to how minimum balances are handled when an account closes. It changes nothing about supply, staking pay or fees.
 
-**Nov 16 2026 and Dec 18 2026 (approximate):** the staking bonus steps down 1% at block 67,000,000 and again at block 68,000,000, to about 8.10 and then 8.02 ALGO per block.
+**Around Nov 16 2026**, Dec 18 2026 and Jan 19 2027, the staking bonus steps down by 1% each time a new million blocks begins, from about 8.18 to 8.10, 8.02 and 7.94 ALGO per block. Each step trims the flow of new ALGO a little.
 
-**The Q3 2026 Transparency Report:** the Foundation publishes one each quarter, and the next one will show how much ALGO it sold and spent from July to September 2026.
+**Around January 2027**, the fee sink's 14.03M ALGO should run low at today's payout pace, so the Foundation will likely refill it again from its treasury, as it did on Aug 19 and Sep 30 2026.
 
-**The next fee sink refill:** the sink holds about 16.0M ALGO, roughly two and a half months of rewards, so the Foundation is likely to top it up again before January 2027.
-
-**Foundation strategy under the new CEO:** William Herkelrath took over on Aug 31 2026 and is reviewing projects and partners, after the Chief Technology Officer left around Oct 9 2026 and the Chief Strategy and Marketing Officer resigned on Oct 14 2026. A change to structured selling or grants would move the biggest ALGO sell row.
+**Any time**, the Foundation's selling desk could restart. It has been quiet since Aug 24 2026 and holds 3.64M ALGO; a new round of treasury sales would push supply growth above our **+0.48%** forecast. The Foundation is also reviewing how fees and staking rewards should pay for the network after the bonus ends, and any change needs the backing of at least 90% of staked ALGO.
 
 ## Summary
 
-ALGO is mildly inflationary on its float: circulating supply grew **+0.69%** between Jul 27 and Oct 25 2026, and about **+0.53%** is expected in the next 90 days. Algorand mints nothing and burns nothing, so all of that growth is the Algorand Foundation releasing its own coins: **43.65M ALGO** of sales, grants and payments and **18.81M ALGO** of staking rewards. The key risk is the pace of Foundation selling, which the Foundation alone decides. The ceiling is the roughly **925.3M ALGO** it still holds; once that is released, the 10B ALGO supply is fully in circulation.
+ALGO's circulating supply grew **+0.63%** in the 90 days to Nov 4 2026, and the next 90 days point to about **+0.48%**.
+
+No ALGO is minted; new supply comes from Foundation-funded staking pay of **18.77M ALGO** and Foundation sends of **38.78M ALGO**, while fees kept by the fee sink took back only **116,876 ALGO**.
+
+The Algorand Foundation still holds about 923M ALGO outside the circulating count, so its spending and selling pace decides how fast ALGO's supply grows.
+
+Other trackers showed **+1.22%** on Nov 3 2026 because their supply figure caught up with July in one step, so the coin page carries a warning note.
 
 ---
 
-*MrNasDog Pressure Framework analysis of ALGO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 25 2026.*
+*MrNasDog Pressure Framework analysis of ALGO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 4 2026.*
