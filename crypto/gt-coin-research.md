@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Gate (GT) Inflationary? −2.15% Supply in 90 Days
 
-*From https://mrnasdog.com/research/gt, updated Nov 4 2026*
+*From https://mrnasdog.com/research/gt, updated Nov 5 2026*
 
 How much new GT is coming? **−2.15%** in the next 90 days, **−8.58%** in the next year — checked Nov 4 2026.
 
@@ -45,7 +45,7 @@ Gate's reserves slipped back under $6B after a September rebound.
 | Aug 31 2026 | $6.68B |
 | Sep 30 2026 | $7.51B |
 | Oct 31 2026 | $6.02B |
-| Nov 4 2026 | $5.6B |
+| Nov 5 2026 | $5.95B |
 
 *Checked Nov 4 2026*
 

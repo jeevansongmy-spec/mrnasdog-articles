@@ -8,11 +8,11 @@ published:     true
 ---
 # Injective (INJ) Tokenomics: +0.80% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/inj (checked Nov 4 2026)*
+*Originally published at https://mrnasdog.com/research/inj (checked Nov 5 2026)*
 
 As of Nov 4 2026, new Injective supply runs at **+0.80%** over 90 days and **+3.26%** over 12 months.
 
-- **Signal today:** mixed (Nov 4 2026)
+- **Signal today:** mixed (Nov 5 2026)
 - **MrNasDog score:** 6/10 — supply 2.5/5, demand 3.5/5
 - **New coins:** +0.80% in 90 days · +3.26% in a year
 - **Demand:** strong (3.5/5)

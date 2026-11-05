@@ -9,6 +9,9 @@ Originally published at [FLOKI Inflation Analysis · October 2026 · Mixed flows
 
 # FLOKI Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
+<!-- main-page -->
+The Floki coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/floki](https://mrnasdog.com/research/floki). Below: supply, line by line.
+
 FLOKI supply is **roughly steady and edging down**: in the 90 days to Oct 30 2026 no new FLOKI was created, while **3.99B FLOKI** went to the burn address, a net change of **−0.04%**, with about the same expected next. Floki cannot mint at all: **10T** were made once on Ethereum and **10T** once on BNB Chain, and more than half of those **20T** are already burned. Other trackers show **−0.06%**, close to our reading.
 
 ## The verdict, in one paragraph

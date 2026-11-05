@@ -8,7 +8,7 @@ published:     true
 ---
 # Is LayerZero (ZRO) Inflationary? +17.57% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/zro, updated Nov 4 2026*
+*From https://mrnasdog.com/research/zro, updated Nov 5 2026*
 
 How much new ZRO is coming? **+17.57%** in the next 90 days, **+40.61%** in the next year — checked Nov 4 2026.
 

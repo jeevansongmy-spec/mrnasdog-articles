@@ -1,20 +1,20 @@
 ---
-title:         "Should You Buy Lido DAO (LDO)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "As of Oct 21 2026, Lido DAO scores 2/10 on our framework, and its supply-and-demand signal reads negative."
+title:         "Is Lido DAO (LDO) Inflationary? +5.15% New Supply in 90 Days"
+description:   "How much new LDO is coming? +5.15% in the next 90 days, +1.42% in the next year — checked Oct 28 2026."
 canonical_url: "https://mrnasdog.com/research/ldo"
 content_type:  "coin_hub"
 tags:          ["crypto", "ldo", "lidodao", "should-i-buy"]
 published:     true
 ---
-# Should You Buy Lido DAO (LDO)? Supply, Demand and Price Drivers (Oct 2026)
+# Is Lido DAO (LDO) Inflationary? +5.15% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/ldo, updated Oct 21 2026*
+*From https://mrnasdog.com/research/ldo, updated Nov 5 2026*
 
-As of Oct 21 2026, Lido DAO scores 2/10 on our framework, and its supply-and-demand signal reads **negative**.
+How much new LDO is coming? **+5.15%** in the next 90 days, **+1.42%** in the next year — checked Oct 28 2026.
 
 - **Long-run signal:** negative for Lido DAO
 - **Score:** 2/10 — supply 0.5/5, demand 1.5/5
-- **New supply:** +5.13% in 90 days · +1.27% in a year
+- **New supply:** +5.15% in 90 days · +1.42% in a year
 - **Demand:** very weak (1.5/5)
 - **Price drivers:** 2 ▲ price up · 0 ▼ price down
 
@@ -30,12 +30,12 @@ Good for the price: More ETH staked. Bad for it: ETH leaves Lido. Right now it p
 
 | Date | ETH staked in Lido |
 |---|---|
-| Jul 31 2026 | 9.39 M ETH |
 | Aug 31 2026 | 9.63 M ETH |
 | Sep 30 2026 | 9.87 M ETH |
-| Oct 21 2026 | 9.67 M ETH |
+| Oct 31 2026 | 9.69 M ETH |
+| Nov 5 2026 | 9.68 M ETH |
 
-*Checked Oct 18 2026*
+*Checked Oct 28 2026*
 
 ### ▲ ETH staking yield
 
@@ -45,59 +45,59 @@ Staking yield holds up → price up · Staking yield gets cut → price down. To
 
 | Date | stETH yield |
 |---|---|
-| Jul 31 2026 | 2.23% |
 | Aug 31 2026 | 2.27% |
 | Sep 30 2026 | 2.25% |
-| Oct 21 2026 | 2.22% |
+| Oct 31 2026 | 4.16% |
+| Nov 5 2026 | 4.25% |
 
-*Checked Oct 18 2026*
+*Checked Oct 28 2026*
 
 ## New LDO hitting the market
 
-No new LDO is printed. The Lido DAO buys LDO back with staked ETH and keeps it, but 48.93M locked LDO unlock on Jan 1 2027.
+No LDO is minted. The Lido DAO treasury buys LDO back with staked ETH and keeps it, but 48.93M locked LDO unlock on Jan 1 2027.
 
-Lido DAO adds +5.13% new supply in the next 90 days and +1.27% over a year — supply scores 0.5/5 (flooding).
+Lido DAO adds +5.15% new supply in the next 90 days and +1.42% over a year — supply scores 0.5/5 (flooding).
 
 ## Demand: how much people want LDO
 
-Demand reads **very weak** (1.5/5), #80 of 110 coins we track — that is how much people want LDO now and how much buying could still come.
+Demand reads **very weak** (1.5/5), #78 of 109 coins we track — that is how much people want LDO now and how much buying could still come.
 
 (Members see more LDO demand detail on the page; it is not repeated here.)
 
-## Questions people ask about Lido DAO
+## Is LDO inflationary? Questions about Lido DAO supply
 
-### Is it time to buy the Lido DAO dip?
+### Is Lido DAO (LDO) inflationary or deflationary?
 
-By the law of supply and demand, Lido DAO's long-run signal is negative (Oct 21 2026, score 2/10). New supply: +5.13% in the next 90 days. Demand: very weak (1.5/5). Lido DAO's price drivers: 2 ▲ price up, 0 ▼ price down.
+Lido DAO (LDO) is inflationary right now: its supply changes +5.15% over the next 90 days and +1.42% over the next year (checked Oct 28 2026). More LDO is added than removed.
 
-### What is the latest Lido DAO news for LDO holders?
+### What is the LDO inflation rate in 2026?
 
-The big date is Jan 1 2027, when 48.93M LDO unlock; supply likely grows +5.13% in the next 90 days. Before that, ETH staked in Lido has climbed back from its 8.5M low, and the plan to cut staking rewards was pulled. Our supply-and-demand read for Lido DAO stays negative.
+About +1.42% a year: that is how much Lido DAO (LDO) supply changes over the next 12 months, with +5.15% in the next 90 days (checked Oct 28 2026). That puts LDO #17 of 100 coins we track for new supply (#1 = the most new supply).
 
-### When should I sell Lido DAO?
+### When is the next LDO token unlock?
 
-Lido DAO's signal is negative for now. Lido DAO's signal would turn if new supply keeps arriving (+5.13% in 90 days), or demand falls from very weak.
+The next Lido DAO (LDO) unlock we track is on Jan 1 2027: about 48.9M LDO, 5.90% of the LDO in circulation (Recovered hack coins unlock). Checked Oct 28 2026.
 
-### Is Lido DAO a good investment in 2026?
+### Does Lido DAO burn or buy back LDO?
 
-Lido DAO sits at 2/10 today (Oct 21 2026): supply 0.5/5, demand 1.5/5. One more year adds +1.27% to Lido DAO's supply. Long-run signal: negative.
+Yes. In our count, about 6.2M LDO is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Oct 28 2026). How it works: The DAO treasury bought back 6.79M LDO in 90 days with staked ETH and keeps it; about 6.20M more due by Nov 24 2026.
 
-### When is a good time to buy Lido DAO?
+### Where does new LDO supply come from?
 
-By the law of supply and demand, the better time to enter Lido DAO is when its new supply is low, demand is high and its price drivers point up. Lido DAO today: +5.13% new supply in 90 days (flooding), demand very weak (1.5/5), drivers 2 ▲ / 0 ▼.
+In our count, about 48.9M new LDO reaches the market over the next 90 days (checked Oct 28 2026). How it works: No new LDO is minted; 48.93M LDO locked after a Dec 2025 wallet hack unlock on Jan 1 2027.
 
-### What could push Lido DAO's price up or down?
+### How much LDO is in circulation?
 
-Right now 2 things drive Lido DAO's price (2 ▲, 0 ▼). ▲ ETH in Lido: ETH staked in Lido climbed back from its 8.5M low ▲ ETH staking yield: Plan to cut staking rewards was pulled, but the debate goes on
+About 830M LDO is in circulation (checked Oct 28 2026). Over the next 90 days that changes +5.15%, and over a year +1.42%.
 
-### Should I buy Lido DAO or Bitcoin?
+### Does LDO have more new supply than PENDLE, FF or SUN?
 
-Side by side on Oct 21 2026: Lido DAO at 2/10 with a negative signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Lido DAO is the weaker of the two.
+Over the next 90 days (checked Oct 28 2026): LDO +5.15%, PENDLE +1.64%, FF +18.22%, SUN −0.03%. LDO sits in the middle of these 4 coins.
 
 ## Next steps for LDO
 
 - Full LDO inflation analysis (every unlock, burn and buyback): https://mrnasdog.com/research/ldo/inflation
-- Every coin ranked by supply and demand, Lido DAO included: https://mrnasdog.com/coins
+- Every coin's new supply, side by side: https://mrnasdog.com/token-supply
 - How we read Lido DAO and every other coin: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

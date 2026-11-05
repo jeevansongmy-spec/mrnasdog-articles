@@ -1,20 +1,20 @@
 ---
-title:         "Should You Buy XRP? Supply, Demand and What Moves Its Price"
-description:   "Our read on XRP for Oct 21 2026: a mixed long-run signal and a score of 6/10, from new supply, demand and what moves the price."
+title:         "XRP Supply & Demand: +1.42% New Supply in 90 Days"
+description:   "XRP supply changes +1.42% over the next 90 days and +5.68% over a year (checked Oct 30 2026)."
 canonical_url: "https://mrnasdog.com/research/xrp"
 content_type:  "coin_hub"
 tags:          ["crypto", "xrp", "xrp", "should-i-buy"]
 published:     true
 ---
-# Should You Buy XRP? Supply, Demand and What Moves Its Price
+# XRP Supply & Demand: +1.42% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/xrp · checked Oct 21 2026*
+*Live page: https://mrnasdog.com/research/xrp · checked Nov 5 2026*
 
-Our read on XRP for Oct 21 2026: a **mixed** long-run signal and a score of 6/10, from new supply, demand and what moves the price.
+XRP supply changes **+1.42%** over the next 90 days and **+5.68%** over a year (checked Oct 30 2026).
 
 - **Signal:** mixed (by the law of supply and demand)
 - **Score:** 6/10 — supply 2/5, demand 4/5
-- **Supply growth:** +1.43% in 90 days · +5.70% in a year
+- **Supply growth:** +1.42% in 90 days · +5.68% in a year
 - **How much people want it:** strong (4/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
@@ -24,22 +24,22 @@ Besides supply and demand, we track 3 price drivers for XRP: 1 ▲ and 1 ▼ rig
 
 ### • Ripple's escrow
 
-9.1B XRP left escrow since Jan 2024; about 0.3B more every 30 days.
+9.4B XRP left escrow since Jan 2024; about 0.3B more every 30 days.
 
 ▲ Price up if: Ripple locks more. ▼ Price down if: More leaves escrow.
 
 | Date | Ripple escrow |
 |---|---|
-| Jul 31 2026 | 32.3 B XRP |
 | Aug 31 2026 | 32 B XRP |
 | Sep 30 2026 | 31.7 B XRP |
-| Oct 21 2026 | 31.4 B XRP |
+| Oct 31 2026 | 31.4 B XRP |
+| Nov 5 2026 | 31.1 B XRP |
 
-*Checked Oct 21 2026*
+*Checked Nov 5 2026*
 
 ### ▼ US crypto law
 
-Law blocked 49-50; Senate can try again from Nov 11 2026.
+Law blocked 49-50; Senate back Nov 11, no re-vote set.
 
 Law passes → price up · Law blocked → price down. Today: the price-down case.
 
@@ -53,77 +53,69 @@ Law passes → price up · Law blocked → price down. Today: the price-down cas
 | Nov 3 2026 | US midterm election (coming) |
 | Nov 11 2026 | Senate back, can re-vote (coming) |
 
-*Checked Oct 20 2026*
+*Checked Oct 30 2026*
 
 ### ▲ XRP ETFs
 
-ETFs hold about 1.12B XRP, up 64% since Dec 31 2025.
+ETFs hold about 1.14B XRP, up 67% since Dec 31 2025.
 
 ETFs hold more → price up · ETFs hold less → price down. Today: the price-up case.
 
 | Date | US spot XRP ETFs |
 |---|---|
-| Dec 31 2025 | 683 M XRP |
 | Mar 31 2026 | 703 M XRP |
 | Jun 30 2026 | 907 M XRP |
 | Oct 16 2026 | 1,123 M XRP |
+| Oct 29 2026 | 1,144 M XRP |
 
-*Checked Oct 20 2026*
+*Checked Oct 30 2026*
 
 ## Supply: how much new XRP is coming
 
-XRP has a hard 100B cap and no minting, but Ripple releases about 300M XRP a month from its 31.4B escrow, so circulating supply grows about 1.4% every 90 days.
+XRP has a hard 100B cap and no minting, but Ripple pays out about 300M XRP from each monthly escrow opening, so circulating supply grows about 1.4% every 90 days.
 
-Over the next 90 days XRP supply changes +1.43%; across a full year, +5.70%. That puts supply at 2/5 (growing) (place 41 of 101).
+Over the next 90 days XRP supply changes +1.42%; across a full year, +5.68%. That puts supply at 2/5 (growing) (place 39 of 100).
 
 ## How strong is XRP demand?
 
-People's appetite for XRP is **strong**: 4/5, ranked #9 of 110.
+People's appetite for XRP is **strong**: 4/5, ranked #9 of 109.
 
 (Members see more XRP demand detail on the page; it is not repeated here.)
 
-## XRP: buy, sell or hold — questions and answers
+## XRP supply questions, answered
 
-### Is XRP worth buying now?
+### Is XRP inflationary or deflationary?
 
-By the law of supply and demand, XRP's long-run signal is mixed (Oct 21 2026, score 6/10). New supply: +1.43% in the next 90 days. Demand: strong (4/5). XRP's price drivers: 1 ▲ price up, 1 ▼ price down.
+As of Oct 30 2026, XRP supply moves +1.42% in 90 days and +5.68% in a year, so XRP is inflationary. New XRP outweighs what is burned or bought back.
 
-### How does Ripple's XRP escrow affect the price?
+### What is the XRP inflation rate in 2026?
 
-It adds steady new supply. About 9.1B XRP has left Ripple's escrow since Jan 2024, and roughly 0.3B more comes out every 30 days. That is a big part of why XRP's supply grows about +1.43% in the next 90 days. For XRP, the supply-and-demand signal is mixed right now.
+XRP supply grows +5.68% over the next 12 months and +1.42% over the next 90 days (checked Oct 30 2026). That puts XRP #39 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Could XRP go up if the US crypto law finally passes?
+### When is the next XRP token unlock?
 
-Probably, since that law is one of XRP's price drivers and right now it points down. It was blocked 49-50, and the Senate can try again from Nov 11 2026. The US midterm election on Nov 3 2026 comes first. Supply and demand still read mixed for XRP in the long run.
+No dated XRP unlock is scheduled in the next 90 days (checked Oct 30 2026). New XRP still arrives: about 900M XRP in 90 days.
 
-### Can XRP reach $100?
+### Is any XRP burned or bought back?
 
-At $100, XRP would be worth about $6.31 trillion in total — about 75 times its $83.8B market cap today (Oct 21 2026, about $1.33 a coin). XRP's supply also grows +5.70% in the next year, so every extra coin needs buyers too. By supply and demand, XRP's long-run signal is mixed today.
+Yes. In our count, about 54.6K XRP is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Oct 30 2026). How it works: The only removal is the fee burn: 54,640 XRP in 90 days, about 607 a day. Ripple locked 2.1B XRP back into escrow, but those coins never left its hands, so they take nothing out of the count.
 
-### Should I sell my XRP now?
+### Where does new XRP supply come from?
 
-XRP's signal is mixed for now. XRP's signal would turn if new supply keeps arriving (+1.43% in 90 days), or demand falls from strong, or US crypto law keeps pointing down. The next date on XRP's calendar: Nov 3 2026 — US midterm election.
+In our count, about 900M new XRP reaches the market over the next 90 days (checked Oct 30 2026). How it works: No new XRP is ever made. Ripple paid 866.38M XRP out of its wallets in 90 days, mostly the 300M it keeps from each 1B monthly escrow opening; about 900M more is due by Jan 1 2027.
 
-### Is XRP a good long-term investment?
+### How much XRP is in circulation?
 
-XRP sits at 6/10 today (Oct 21 2026): supply 2/5, demand 4/5. One more year adds +5.70% to XRP's supply. Long-run signal: mixed.
+XRP has about 63.4B coins in circulation as of Oct 30 2026; the next 90 days change that by +1.42% (+5.68% over a year).
 
-### When is a good time to buy XRP?
+### Does XRP have more new supply than BNB, SOL or TRX?
 
-By the law of supply and demand, the better time to buy XRP is when its new supply is low, demand is high and its price drivers point up. XRP today: +1.43% new supply in 90 days (growing), demand strong (4/5), drivers 1 ▲ / 1 ▼.
-
-### What could push XRP's price up or down?
-
-Right now 3 things drive XRP's price (1 ▲, 1 ▼). • Ripple's escrow: 9.1B XRP left escrow since Jan 2024; about 0.3B more every 30 days. ▼ US crypto law: Law blocked 49-50; Senate can try again from Nov 11 2026. ▲ XRP ETFs: ETFs hold about 1.12B XRP, up 64% since Dec 31 2025.
-
-### Is XRP a better investment than Bitcoin?
-
-Side by side on Oct 21 2026: XRP at 6/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, XRP is the weaker of the two.
+Over the next 90 days (checked Oct 30 2026): XRP +1.42%, BNB −1.19%, SOL +1.26%, TRX +0.14%. XRP has the most new supply of these 4 coins.
 
 ## Go deeper on XRP
 
 - Every XRP unlock and burn, explained: https://mrnasdog.com/research/xrp/inflation
-- Compare XRP with 100+ coins: https://mrnasdog.com/coins
+- Compare XRP supply with 100+ coins: https://mrnasdog.com/token-supply
 - The MrNasDog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

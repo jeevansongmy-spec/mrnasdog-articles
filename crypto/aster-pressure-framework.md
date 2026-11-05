@@ -9,6 +9,9 @@ Originally published at [ASTER Inflation Analysis · November 2026 · Mixed last
 
 # ASTER Inflation Analysis · November 2026 · Mixed last 90D · projected to grow
 
+<!-- main-page -->
+➜ Start with the Aster coin page for the short answer (should you buy ASTER?) and its price drivers: [mrnasdog.com/research/aster](https://mrnasdog.com/research/aster)
+
 ASTER supply was close to flat over the last 90 days, but it is set to grow over the next 90. Stakers on Aster received **6.75M ASTER** of new coins between Aug 5 and Nov 3 2026, and nothing took coins off the market, so tradable supply rose **+0.27%**. The next 90 days add the vested half of the last airdrop round, about **63.38M ASTER** on Nov 4 2026, which lifts the forecast to **+2.71%**. Other trackers show **−6.67%** for the same window because of a one-day recount on Oct 23 2026, not because coins left the market.
 
 ## The verdict, in one paragraph

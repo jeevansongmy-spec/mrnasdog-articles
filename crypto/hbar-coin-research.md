@@ -1,28 +1,28 @@
 ---
-title:         "Hedera (HBAR) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Our read on Hedera for Oct 21 2026: a mixed long-run signal and a score of 5/10, from new supply, demand and what moves the price."
+title:         "Hedera (HBAR) Tokenomics: +1.26% New Supply in 90 Days"
+description:   "As of Nov 1 2026, new Hedera supply runs at +1.26% over 90 days and +5.09% over 12 months."
 canonical_url: "https://mrnasdog.com/research/hbar"
 content_type:  "coin_hub"
 tags:          ["crypto", "hbar", "hedera", "should-i-buy"]
 published:     true
 ---
-# Hedera (HBAR) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
+# Hedera (HBAR) Tokenomics: +1.26% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/hbar (checked Oct 21 2026)*
+*Originally published at https://mrnasdog.com/research/hbar (checked Nov 5 2026)*
 
-Our read on Hedera for Oct 21 2026: a **mixed** long-run signal and a score of 5/10, from new supply, demand and what moves the price.
+As of Nov 1 2026, new Hedera supply runs at **+1.26%** over 90 days and **+5.09%** over 12 months.
 
-- **Long-run signal:** mixed (Oct 21 2026)
-- **Score:** 5/10 — supply 3.5/5, demand 1.5/5
-- **New supply:** +0.09% in 90 days · +3.63% in a year
+- **Long-run signal:** negative (Nov 5 2026)
+- **Score:** 3.5/10 — supply 2/5, demand 1.5/5
+- **New supply:** +1.26% in 90 days · +5.09% in a year
 - **Demand:** very weak (1.5/5)
 - **Price drivers:** 1 ▲ price up · 0 ▼ price down
 
 ## How fast Hedera supply grows
 
-All 50B HBAR were made at launch. The Hedera Council let out 207.85M from its 6.0B reserve in 90 days, so supply grew 0.47%; its plan points to about 0.09% next.
+Hedera's supply grew 1.21% in 90 days as the Council released 536M HBAR from its reserve, with nothing burned. The reserve still holds 5.67B HBAR, and about 1.26% more is expected next.
 
-New HBAR: +0.09% in 90 days, +3.63% in a year. Supply score 3.5/5, "steady", #75 of 101 for new supply.
+New HBAR: +1.26% in 90 days, +5.09% in a year. Supply score 2/5, "growing", #42 of 100 for new supply.
 
 ## The things that move Hedera
 
@@ -30,18 +30,18 @@ New HBAR: +0.09% in 90 days, +3.63% in a year. Supply score 3.5/5, "steady", #75
 
 ### ▲ ETF holdings
 
-Only US HBAR ETF keeps adding; up 70% since Dec 31 2025.
+Only US HBAR ETF up 69% since Dec 31 2025; slight outflows.
 
 ETF holds more → price up · ETF holds less → price down. Right now it points up.
 
 | Date | Canary HBAR ETF |
 |---|---|
-| Dec 31 2025 | 473 M HBAR |
-| Mar 31 2026 | 573 M HBAR |
 | Jun 30 2026 | 663 M HBAR |
 | Oct 9 2026 | 806 M HBAR |
+| Oct 22 2026 | 801 M HBAR |
+| Oct 30 2026 | 799 M HBAR |
 
-*Checked Oct 12 2026*
+*Checked Nov 1 2026*
 
 ### • Big-name members
 
@@ -58,56 +58,48 @@ Three big names joined in 2026; Hitachi just dropped off.
 | Apr 30 2026 | Accenture joins council |
 | Oct 8 2026 | Hitachi off member list |
 
-*Checked Oct 12 2026*
+*Checked Nov 1 2026*
 
 ## HBAR demand
 
-Hedera demand: 1.5/5 (**very weak**), place #80 among 110 coins — interest today plus the buying that could come later.
+Hedera demand: 1.5/5 (**very weak**), place #78 among 109 coins — interest today plus the buying that could come later.
 
 Members get the rest of the Hedera demand read on mrnasdog.com.
 
-## Questions about HBAR
+## HBAR tokenomics: questions and answers
 
-### Should I buy Hedera now, or wait?
+### Is Hedera (HBAR) inflationary or deflationary?
 
-Based on the law of supply and demand, the long-run signal for Hedera is mixed. As of Oct 21 2026, score 5/10, Hedera faces +0.09% new supply over 90 days, with demand very weak (1.5/5). Hedera's price drivers: 1 ▲ price up, 0 ▼ price down.
+Hedera (HBAR) is inflationary right now: its supply changes +1.26% over the next 90 days and +5.09% over the next year (checked Nov 1 2026). More HBAR is added than removed.
 
-### Hedera vs Canton: which coin has more room to grow?
+### What is the HBAR inflation rate in 2026?
 
-Canton is bigger today, about $4.93B against Hedera's $4.04B on Oct 12 2026. Hedera has 88% of its 50B max already out, while Canton lists no max supply. Hedera's US ETF has grown its holdings 70% since Dec 31 2025. By supply and demand, Hedera's long-run signal is mixed today.
+About +5.09% a year: that is how much Hedera (HBAR) supply changes over the next 12 months, with +1.26% in the next 90 days (checked Nov 1 2026). That puts HBAR #42 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Is Hedera dead, or is it still growing?
+### When is the next HBAR token unlock?
 
-Still growing, we think. The only US HBAR ETF keeps adding and is up 70% since Dec 31 2025. Three big names joined as Hedera members in 2026, though Hitachi just dropped off. By supply and demand, Hedera's long-run signal is mixed today.
+No dated Hedera (HBAR) unlock is scheduled in the next 90 days (checked Nov 1 2026). New HBAR still arrives: about 556M HBAR in 90 days.
 
-### Is $10 possible for Hedera?
+### Does Hedera burn or buy back HBAR?
 
-It would take 109 times today's value: $10 × Hedera's coins in the market = about $440B, against $4.05B now (Oct 21 2026). Hedera's supply also grows +3.63% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Hedera stays mixed.
+Not in a way that removes HBAR today: nothing takes HBAR off the market over the next 90 days (checked Nov 1 2026). Nothing takes HBAR back: Hedera burns no fees and runs no buyback, and staked HBAR stays free to move.
 
-### Is it time to take profit on Hedera?
+### Where does new HBAR supply come from?
 
-Today the signal is mixed. Supply and demand would point the other way for Hedera if new supply jumps (today +0.09% in 90 days), or demand falls from very weak.
+In our count, about 556M new HBAR reaches the market over the next 90 days (checked Nov 1 2026). How it works: The Hedera Council released 536.06M HBAR from its reserve in 90 days, 450M of it on Oct 1 and Oct 23 2026, including 16.06M of staff grants. About 36M more staff grants are planned near Dec 31 2026.
 
-### Is Hedera a good investment right now?
+### How much HBAR is in circulation?
 
-On our framework Hedera scores 5/10 (Oct 21 2026), with supply 3.5/5 (steady) and demand 1.5/5. In the next year Hedera's supply changes +3.63%, so the long-run signal reads mixed.
+About 44.3B HBAR is in circulation (checked Nov 1 2026). Over the next 90 days that changes +1.26%, and over a year +5.09%.
 
-### What is the best time to invest in Hedera?
+### Does HBAR have more new supply than GRAM, QNT or SHIB?
 
-The law of supply and demand points to one window for Hedera: low new supply, high demand, drivers pointing up. Where Hedera stands today: +0.09% new supply in 90 days (steady), demand very weak (1.5/5), drivers 1 ▲ / 0 ▼.
-
-### Will Hedera go up? What could move its price?
-
-Hedera has 2 price drivers today (1 ▲ price up, 0 ▼ price down). ▲ ETF holdings: Only US HBAR ETF keeps adding; up 70% since Dec 31 2025. • Big-name members: Three big names joined in 2026; Hitachi just dropped off.
-
-### Should I buy Hedera or Bitcoin?
-
-Hedera reads mixed at 5/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, Hedera looks weaker than Bitcoin today.
+Over the next 90 days (checked Nov 1 2026): HBAR +1.26%, GRAM +3.57%, QNT 0.00%, SHIB 0.00%. HBAR sits in the middle of these 4 coins.
 
 ## Go deeper on Hedera
 
 - HBAR supply, line by line: https://mrnasdog.com/research/hbar/inflation
-- Where Hedera sits among all coins: https://mrnasdog.com/coins
+- Where Hedera sits on new supply: https://mrnasdog.com/token-supply
 - Why supply and demand decide HBAR's signal: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

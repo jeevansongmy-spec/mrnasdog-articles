@@ -8,14 +8,14 @@ published:     true
 ---
 # PancakeSwap (CAKE) Supply & Demand: −1.64% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/cake · checked Nov 4 2026*
+*Live page: https://mrnasdog.com/research/cake · checked Nov 5 2026*
 
 PancakeSwap (CAKE) supply changes **−1.64%** over the next 90 days and **−6.56%** over a year (checked Nov 4 2026).
 
 - **Signal:** positive (by the law of supply and demand)
-- **Score:** 8.5/10 — supply 5/5, demand 3.5/5
+- **Score:** 9/10 — supply 5/5, demand 4/5
 - **Supply growth:** −1.64% in 90 days · −6.56% in a year
-- **How much people want it:** strong (3.5/5)
+- **How much people want it:** strong (4/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## Supply: how much new CAKE is coming
@@ -26,7 +26,7 @@ Over the next 90 days CAKE supply changes −1.64%; across a full year, −6.56%
 
 ## Demand today
 
-People's appetite for PancakeSwap is **strong**: 3.5/5, ranked #20 of 109.
+People's appetite for PancakeSwap is **strong**: 4/5, ranked #9 of 109.
 
 A deeper CAKE demand breakdown is on the page for members.
 

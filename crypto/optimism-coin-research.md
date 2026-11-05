@@ -1,28 +1,28 @@
 ---
-title:         "Should You Buy Optimism (OP)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Supply and demand give Optimism (OP) a negative long-run signal today (Oct 21 2026); its score is 3/10."
+title:         "Optimism (OP) Inflation Rate: +0.94% New Supply in 90 Days"
+description:   "OP mints nothing, yet Foundation grants and planned contributor coins keep the float growing, while the buyback holds its coins instead of burning them."
 canonical_url: "https://mrnasdog.com/research/optimism"
 content_type:  "coin_hub"
 tags:          ["crypto", "op", "optimism", "should-i-buy"]
 published:     true
 ---
-# Should You Buy Optimism (OP)? Supply, Demand and Price Drivers (Oct 2026)
+# Optimism (OP) Inflation Rate: +0.94% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/optimism — numbers checked Oct 21 2026*
+*Source: https://mrnasdog.com/research/optimism — numbers checked Nov 5 2026*
 
-Supply and demand give Optimism (OP) a **negative** long-run signal today (Oct 21 2026); its score is 3/10.
+**+0.94%** in 90 days, **+2.29%** in a year: that is how fast Optimism (OP) supply changes as of Oct 29 2026.
 
-- **Signal:** negative — OP, read by supply and demand
-- **Score:** 3/10 — supply 1.5/5, demand 1.5/5
-- **Supply growth:** +1.96% in 90 days · +6.96% in a year
+- **Signal:** mixed — OP, read by supply and demand
+- **Score:** 4/10 — supply 2.5/5, demand 1.5/5
+- **Supply growth:** +0.94% in 90 days · +2.29% in a year
 - **How much people want it:** very weak (1.5/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## Supply — new OP in the next 90 days
 
-OP mints nothing, but Foundation grants add about 34M OP a quarter and the revenue buyback takes back only about a seventh: supply up 1.26% in 90 days, about 1.96% next.
+OP mints nothing, yet Foundation grants and planned contributor coins keep the float growing, while the buyback holds its coins instead of burning them.
 
-Expect +1.96% more OP in 90 days (+6.96% over the year). On supply alone Optimism gets 1.5/5 — heavy (place 33 of 101).
+Expect +0.94% more OP in 90 days (+2.29% over the year). On supply alone Optimism gets 2.5/5 — moderate (place 50 of 100).
 
 ## OP price drivers the score does not count
 
@@ -43,7 +43,7 @@ Income to Optimism fell about 90% after Base stopped paying.
 | Jun 2026 | 72.6 ETH |
 | Sep 2026 | 90.7 ETH |
 
-*Checked Oct 19 2026*
+*Checked Oct 29 2026*
 
 ### ▲ OP Mainnet money
 
@@ -53,53 +53,53 @@ More money on OP → price up · Money leaves → price down. Right now it point
 
 | Date | OP Mainnet TVL |
 |---|---|
-| Jul 31 2026 | $300M |
 | Aug 31 2026 | $423M |
 | Sep 30 2026 | $489M |
 | Oct 19 2026 | $442M |
+| Oct 29 2026 | $423M |
 
-*Checked Oct 19 2026*
+*Checked Oct 29 2026*
 
 ## How strong is Optimism demand?
 
-How much do people want OP? **very weak** — 1.5 out of 5, #80 of 110.
+How much do people want OP? **very weak** — 1.5 out of 5, #78 of 109.
 
 A deeper OP demand breakdown is on the page for members.
 
-## Questions people ask about Optimism
+## Is OP inflationary? Questions about Optimism supply
 
-### Should I buy Optimism now, or wait?
+### Is Optimism (OP) inflationary or deflationary?
 
-By the law of supply and demand, Optimism's long-run signal is negative (Oct 21 2026, score 3/10). New supply: +1.96% in the next 90 days. Demand: very weak (1.5/5). Optimism's price drivers: 1 ▲ price up, 1 ▼ price down.
+As of Oct 29 2026, Optimism (OP) supply moves +0.94% in 90 days and +2.29% in a year, so OP is inflationary. New OP outweighs what is burned or bought back.
 
-### Any fresh Optimism (OP) news that holders should know?
+### What is the OP inflation rate in 2026?
 
-Optimism bought back 4.94M OP on Oct 1 2026, but Foundation grants still add about 34M OP a quarter, so supply likely grows about +1.96% in 90 days. Superchain income fell about 90% after Base stopped paying, while OP Mainnet DeFi money more than doubled since Mar 31 2026. Supply and demand still read negative for Optimism in the long run.
+Optimism (OP) supply grows +2.29% over the next 12 months and +0.94% over the next 90 days (checked Oct 29 2026). That puts OP #50 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Should I sell Optimism or hold?
+### When is the next OP token unlock?
 
-Optimism's signal is negative for now. Optimism's signal would turn if new supply keeps arriving (+1.96% in 90 days), or demand falls from very weak, or Superchain income keeps pointing down.
+No dated Optimism (OP) unlock is scheduled in the next 90 days (checked Oct 29 2026). New OP still arrives: about 21.6M OP in 90 days.
 
-### Is Optimism worth investing in for the long term?
+### Does Optimism burn or buy back OP?
 
-Optimism sits at 3/10 today (Oct 21 2026): supply 1.5/5, demand 1.5/5. One more year adds +6.96% to Optimism's supply. Long-run signal: negative.
+Not in a way that removes OP today: nothing takes OP off the market over the next 90 days (checked Oct 29 2026). The revenue buyback bought 4.94M OP on Oct 1 2026, but it holds the coins in a treasury wallet that still counts as circulating, so nothing is removed.
 
-### When is a good time to buy Optimism?
+### Where does new OP supply come from?
 
-By the law of supply and demand, the better time to add Optimism is when its new supply is low, demand is high and its price drivers point up. Optimism today: +1.96% new supply in 90 days (heavy), demand very weak (1.5/5), drivers 1 ▲ / 1 ▼.
+In our count, about 21.6M new OP reaches the market over the next 90 days (checked Oct 29 2026). How it works: No OP is minted (the rate is 0%), but Foundation grants added 4.30M OP in 90 days, and about 17.32M early-contributor OP is planned for the next 90.
 
-### What could push Optimism's price up or down?
+### How much OP is in circulation?
 
-Right now 2 things drive Optimism's price (1 ▲, 1 ▼). ▼ Superchain income: Income to Optimism fell about 90% after Base stopped paying. ▲ OP Mainnet money: OP Mainnet DeFi money more than doubled since Mar 31 2026.
+Optimism (OP) has about 2.29B coins in circulation as of Oct 29 2026; the next 90 days change that by +0.94% (+2.29% over a year).
 
-### Is Optimism a better investment than Bitcoin?
+### Does OP have more new supply than KITE, LUNC or MON?
 
-Side by side on Oct 21 2026: Optimism at 3/10 with a negative signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Optimism is the weaker of the two.
+Over the next 90 days (checked Oct 29 2026): OP +0.94%, KITE +39.63%, LUNC −0.18%, MON +149.88%. OP sits in the middle of these 4 coins.
 
 ## Next steps for OP
 
 - The long read on Optimism supply: https://mrnasdog.com/research/optimism/inflation
-- Which crypto to buy now — OP next to every coin we rank: https://mrnasdog.com/coins
+- All crypto inflation rates, OP included: https://mrnasdog.com/token-supply
 - About the Optimism score: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

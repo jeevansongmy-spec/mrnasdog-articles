@@ -5,10 +5,12 @@ canonical_url: "https://mrnasdog.com/research/doge/inflation"
 tags:          ["crypto", "doge", "dogecoin", "proof-of-work"]
 published:     true
 ---
-
 Originally published at [https://mrnasdog.com/research/doge/inflation](https://mrnasdog.com/research/doge/inflation)
 
 # DOGE Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the DOGE coin page, with demand and price drivers: [mrnasdog.com/research/doge](https://mrnasdog.com/research/doge)
 
 DOGE is inflationary by design: every Dogecoin block pays its miner **10,000** new DOGE, with no halving and no supply cap. In the 90 days from Aug 2 to Oct 31 2026 miners received **1.23B DOGE** while nothing was burned or bought back, so supply grew **+0.78%**, and other trackers read **+0.79%**, the same picture. The next 90 days should look almost exactly the same.
 

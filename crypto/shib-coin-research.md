@@ -1,16 +1,16 @@
 ---
-title:         "Should You Buy Shiba Inu (SHIB)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "As of Oct 21 2026, Shiba Inu scores 4.5/10 on our framework, and its supply-and-demand signal reads negative."
+title:         "Shiba Inu (SHIB) Supply & Demand: 0.00% Supply in 90 Days"
+description:   "Shiba Inu (SHIB) supply changes 0.00% over the next 90 days and 0.00% over a year (checked Nov 1 2026)."
 canonical_url: "https://mrnasdog.com/research/shib"
 content_type:  "coin_hub"
 tags:          ["crypto", "shib", "shibainu", "should-i-buy"]
 published:     true
 ---
-# Should You Buy Shiba Inu (SHIB)? Supply, Demand and Price Drivers (Oct 2026)
+# Shiba Inu (SHIB) Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/shib · checked Oct 21 2026*
+*Live page: https://mrnasdog.com/research/shib · checked Nov 5 2026*
 
-As of Oct 21 2026, Shiba Inu scores 4.5/10 on our framework, and its supply-and-demand signal reads **negative**.
+Shiba Inu (SHIB) supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 1 2026).
 
 - **Signal:** negative (by the law of supply and demand)
 - **Score:** 4.5/10 — supply 1.5/5, demand 3/5
@@ -24,81 +24,78 @@ Besides supply and demand, we track 2 price drivers for Shiba Inu: 0 ▲ and 1 �
 
 ### ▼ Shibarium health
 
-Money locked on Shibarium is down about 97% from its peak.
+Money on Shibarium is down over 95% from its peak.
 
 ▲ Price up if: Shibarium grows. ▼ Price down if: Shibarium shrinks. Now: ▼ down side.
 
 | Date | Money on Shibarium |
 |---|---|
-| Jul 31 2026 | $0.19M |
 | Aug 31 2026 | $0.114M |
 | Sep 30 2026 | $0.142M |
-| Oct 13 2026 | $0.155M |
+| Oct 31 2026 | $0.041M |
+| Nov 1 2026 | $0.044M |
 
-*Checked Oct 13 2026*
+*Checked Nov 1 2026*
 
 ### • Top wallets
 
-10 wallets hold about 39% of SHIB not burned.
+10 wallets hold about 38% of SHIB not burned.
 
 Big wallets hold → price up · Big wallets sell → price down.
 
 | When | Who holds what |
 |---|---|
 | Oct 13 2026 | Top 10 wallets 38.6% · Everyone else 61.4% |
+| Nov 1 2026 | Top 10 wallets 37.9% · Everyone else 62.1% |
 
-*Checked Oct 13 2026*
+*Checked Nov 1 2026*
 
 ## SHIB supply
 
-Shiba Inu cannot mint new SHIB and nothing unlocks. Burns removed 4.56B SHIB in 90 days, a rounding error against 589.24T in circulation, so supply is fixed and price rests on demand.
+Shiba Inu cannot mint new SHIB and nothing unlocks. Burns and coins stuck in the token's own address removed 1.45B SHIB in 90 days, under 0.001% of the 589.24T supply.
 
 Over the next 90 days SHIB supply changes 0.00%; across a full year, 0.00%. That puts supply at 1.5/5 (meme coin).
 
 ## SHIB demand
 
-People's appetite for Shiba Inu is **moderate**: 3/5, ranked #32 of 110.
+People's appetite for Shiba Inu is **moderate**: 3/5, ranked #34 of 109.
 
 A deeper SHIB demand breakdown is on the page for members.
 
-## Questions people ask about Shiba Inu
+## Is SHIB inflationary? Questions about Shiba Inu supply
 
-### Is it time to buy the Shiba Inu dip?
+### Is Shiba Inu (SHIB) inflationary or deflationary?
 
-Based on the law of supply and demand, the long-run signal for Shiba Inu is negative. As of Oct 21 2026, score 4.5/10, Shiba Inu faces 0.00% new supply over 90 days, with demand moderate (3/5). Shiba Inu's price drivers: 0 ▲ price up, 1 ▼ price down.
+As of Nov 1 2026, Shiba Inu (SHIB) supply moves 0.00% in 90 days and 0.00% in a year, so SHIB is about flat. What is created and what is removed roughly match.
 
-### Why is Shiba Inu crashing?
+### What is the SHIB inflation rate in 2026?
 
-Shibarium, SHIB's own network, looks like the weak spot: money locked there is down about 97% from its peak. Demand is only moderate (3/5 on Oct 13 2026), and 10 wallets hold about 39% of the SHIB not burned, so a few big sellers can likely move the price a lot. Our supply-and-demand read for Shiba Inu stays negative.
+Shiba Inu (SHIB) supply shrinks 0.00% over the next 12 months and 0.00% over the next 90 days (checked Nov 1 2026).
 
-### Is 1 cent possible for Shiba Inu?
+### When is the next SHIB token unlock?
 
-It would take 1,932 times today's value: 1 cent × Shiba Inu's coins in the market = about $5.89 trillion, against $3.05B now (Oct 21 2026). Shiba Inu's supply barely changes in the next year (0.00%), so the whole move would have to come from demand. Supply and demand still read negative for Shiba Inu in the long run.
+No dated Shiba Inu (SHIB) unlock is scheduled in the next 90 days (checked Nov 1 2026).
 
-### Should I sell my Shiba Inu now?
+### Does Shiba Inu burn or buy back SHIB?
 
-Today the signal is negative. Supply and demand would point the other way for Shiba Inu if new supply jumps (today 0.00% in 90 days), or demand falls from moderate, or Shibarium health keeps pointing down.
+Yes. In our count, about 1.45B SHIB is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 1 2026). How it works: Holders burned 705.14M SHIB in 90 days and sent another 740.16M to the token's own address, where coins are stuck for good. That is 1.45B in all, under 0.001% of supply, and about the same is expected next.
 
-### Is Shiba Inu a good long-term investment?
+### Where does new SHIB supply come from?
 
-On our framework Shiba Inu scores 4.5/10 (Oct 21 2026), with supply 1.5/5 (meme coin) and demand 3/5. In the next year Shiba Inu's supply changes 0.00%, so the long-run signal reads negative.
+Almost no new SHIB reaches the market over the next 90 days (checked Nov 1 2026). No new SHIB can ever be made: the token has no mint, nothing vests and there was no team share. The 54.90B SHIB a US government wallet holds from the FTX case did not move in these 90 days, and it already counts as circulating.
 
-### What is the best time to invest in Shiba Inu?
+### How much SHIB is in circulation?
 
-The law of supply and demand points to one window for Shiba Inu: low new supply, high demand, drivers pointing up. Where Shiba Inu stands today: 0.00% new supply in 90 days (meme coin), demand moderate (3/5), drivers 0 ▲ / 1 ▼.
+Shiba Inu (SHIB) has about 589T coins in circulation as of Nov 1 2026; the next 90 days change that by 0.00% (0.00% over a year).
 
-### Will Shiba Inu go up? What could move its price?
+### Does SHIB have more new supply than QNT, TAO or CRO?
 
-Shiba Inu has 2 price drivers today (0 ▲ price up, 1 ▼ price down). ▼ Shibarium health: Money locked on Shibarium is down about 97% from its peak. • Top wallets: 10 wallets hold about 39% of SHIB not burned.
-
-### Is Shiba Inu a better investment than Bitcoin?
-
-Shiba Inu reads negative at 4.5/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, Shiba Inu looks weaker than Bitcoin today.
+Over the next 90 days (checked Nov 1 2026): SHIB 0.00%, QNT 0.00%, TAO +2.71%, CRO +7.19%. SHIB sits in the middle of these 4 coins.
 
 ## Read more on SHIB
 
 - Every SHIB unlock and burn, explained: https://mrnasdog.com/research/shib/inflation
-- Compare SHIB with 100+ coins: https://mrnasdog.com/coins
+- Compare SHIB supply with 100+ coins: https://mrnasdog.com/token-supply
 - The MrNasDog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

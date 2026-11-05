@@ -10,7 +10,7 @@ Originally published at [LUNC Inflation Analysis · October 2026 · Mixed flows 
 # LUNC Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 
 <!-- main-page -->
-This is the long supply read. For the demand side, the price drivers and the questions people ask about Terra Classic, see [mrnasdog.com/research/lunc](https://mrnasdog.com/research/lunc).
+This is the long supply read. For the signal, the price drivers and the questions people ask about Terra Luna Classic, see [mrnasdog.com/research/lunc](https://mrnasdog.com/research/lunc).
 
 Terra Classic (**LUNC**) is slightly deflationary: the LUNC supply in the market fell by a net **0.24%** in the 90 days to Oct 29 2026, and the same mechanisms point to a further **0.18%** fall in the next 90 days. Terra Classic mints no new LUNC at all, so every change comes from burning and locking: a **1.5%** on-chain transfer tax burned **7.83B LUNC**, Binance burned **966.42M LUNC** from its trading fees, against **534.92M LUNC** paid out of the community pool by vote. The ceiling on how fast LUNC can shrink is the tax itself: with **5.51T LUNC** circulating, even the higher tax removes well under one percent of supply each quarter.
 

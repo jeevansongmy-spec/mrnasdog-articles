@@ -1,70 +1,62 @@
 ---
-title:         "Should You Buy HYPE? Hyperliquid Supply, Demand and What Moves Its Price"
-description:   "Is Hyperliquid worth buying today? By the law of supply and demand, the long-run signal for HYPE is mixed (score 6.5/10, checked Oct 21 2026)."
+title:         "Hyperliquid (HYPE) Supply & Demand: −0.18% Supply in 90 Days"
+description:   "Hyperliquid (HYPE) supply changes −0.18% over the next 90 days and −0.39% over a year (checked Oct 30 2026)."
 canonical_url: "https://mrnasdog.com/research/hype"
 content_type:  "coin_hub"
 tags:          ["crypto", "hype", "hyperliquid", "should-i-buy"]
 published:     true
 ---
-# Should You Buy HYPE? Hyperliquid Supply, Demand and What Moves Its Price
+# Hyperliquid (HYPE) Supply & Demand: −0.18% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/hype · checked Oct 21 2026*
+*Live page: https://mrnasdog.com/research/hype · checked Nov 5 2026*
 
-Is Hyperliquid worth buying today? By the law of supply and demand, the long-run signal for HYPE is **mixed** (score 6.5/10, checked Oct 21 2026).
+Hyperliquid (HYPE) supply changes **−0.18%** over the next 90 days and **−0.39%** over a year (checked Oct 30 2026).
 
-- **Long-run signal:** mixed (by the law of supply and demand)
-- **Score:** 6.5/10 — supply 2/5, demand 4.5/5
-- **New supply:** +1.41% in 90 days · +6.06% in a year
+- **Long-run signal:** positive (by the law of supply and demand)
+- **Score:** 9.5/10 — supply 5/5, demand 4.5/5
+- **New supply:** −0.18% in 90 days · −0.39% in a year
 - **Demand:** very strong (4.5/5)
 - **Price drivers:** 2 ▲ price up · 0 ▼ price down
 
-## Questions people ask about Hyperliquid
+## Is HYPE inflationary? Questions about Hyperliquid supply
 
-### Is it a good time to buy Hyperliquid today?
+### Is Hyperliquid (HYPE) inflationary or deflationary?
 
-Supply and demand point to a mixed long-run signal for Hyperliquid (Oct 21 2026, score 6.5/10). Hyperliquid adds +1.41% new supply in 90 days, and demand reads very strong (4.5/5). Hyperliquid's price drivers: 2 ▲ price up, 0 ▼ price down.
+As of Oct 30 2026, Hyperliquid (HYPE) supply moves −0.18% in 90 days and −0.39% in a year, so HYPE is deflationary. Burns or buybacks take out more HYPE than is created.
 
-### What is pushing Hyperliquid up lately?
+### What is the HYPE inflation rate in 2026?
 
-Mostly steady buying from one big holder. A treasury company now owns 12.7% of the HYPE in the market and added 4.9M HYPE in the last 30 days. Demand looks very strong at 4.5/5, while new supply is only +0.13% in the next 90 days. For Hyperliquid, the supply-and-demand signal is mixed right now.
+Hyperliquid (HYPE) supply shrinks −0.39% over the next 12 months and −0.18% over the next 90 days (checked Oct 30 2026). That puts HYPE #100 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Is Hyperliquid dead, or is the interest still real?
+### When is the next HYPE token unlock?
 
-No, it looks very much alive. On Oct 11 2026 HYPE was worth about $19.0B in total, near $85 a coin, and scored 8.5/10 on our framework. The foundation's vote share also fell from 81% to 47%, below the 67% a vote needs. By supply and demand, Hyperliquid's long-run signal is mixed today.
+No dated Hyperliquid (HYPE) unlock is scheduled in the next 90 days (checked Oct 30 2026). New HYPE still arrives: about 1.83M HYPE in 90 days.
 
-### Could Hyperliquid ever hit $1,000?
+### Does Hyperliquid burn or buy back HYPE?
 
-Hyperliquid trades near $85.1 (Oct 21 2026). $1,000 a coin means a $222B market cap, 12 times today's $18.9B. Hyperliquid's supply also grows +6.06% in the next year, so every extra coin needs buyers too. That leaves Hyperliquid's long-run signal at mixed, by supply and demand.
+Yes. In our count, about 2.25M HYPE is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Oct 30 2026). How it works: The Assistance Fund turned trading fees and USDC reserve income into 2.21M HYPE that counts as burned, and HyperEVM gas burned 38.9K more. Next 90 days: about 2.25M out against 1.83M in.
 
-### Should I sell my Hyperliquid now?
+### Where does new HYPE supply come from?
 
-We would read Hyperliquid differently if new supply keeps arriving (+1.41% in 90 days), or demand falls from very strong. Until then Hyperliquid's signal stays mixed.
+In our count, about 1.83M new HYPE reaches the market over the next 90 days (checked Oct 30 2026). How it works: The team paid out 4.62M HYPE in 90 days, 3.75M of it in one October sale to five buyers. Stakers outside the team and Foundation got 784K from the staking reserve, and the Foundation sent out 103K.
 
-### Is Hyperliquid a good long-term investment?
+### How much HYPE is in circulation?
 
-Hyperliquid scores 6.5/10 on our framework (Oct 21 2026): supply 2/5 (growing), demand 4.5/5. Over the next year Hyperliquid's supply changes +6.06%. The long-run signal is mixed.
+Hyperliquid (HYPE) has about 239M coins in circulation as of Oct 30 2026; the next 90 days change that by −0.18% (−0.39% over a year).
 
-### How do I know when to buy Hyperliquid?
+### Does HYPE have more new supply than TRX, ZEC or DOGE?
 
-Supply and demand favor Hyperliquid most when little new supply is coming, demand is strong and the price drivers point up. Right now Hyperliquid has +1.41% new supply in 90 days (growing), demand very strong (4.5/5), drivers 2 ▲ / 0 ▼.
-
-### Will Hyperliquid go up in 2026?
-
-Hyperliquid's price drivers today: 2 pointing up, 0 pointing down, out of 2. ▲ Treasury company: Owns 12.8% of HYPE in the market; +3.6M HYPE in 30 days. ▲ Foundation votes: Foundation's share fell from 81% to 47%; votes need 67%.
-
-### Is Hyperliquid a better investment than Bitcoin?
-
-Hyperliquid: mixed signal, 6.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, Hyperliquid reads weaker than Bitcoin today.
+Over the next 90 days (checked Oct 30 2026): HYPE −0.18%, TRX +0.14%, ZEC +0.95%, DOGE +0.78%. HYPE has the least new supply of these 4 coins.
 
 ## Supply: how much new HYPE is coming
 
-Hyperliquid's fee buyback is big, but monthly team payouts now outrun it: supply up about 1.5% in 90 days.
+HYPE supply grew about 1.36% in 90 days: a 3.75M HYPE team sale outpaced 2.21M of fee buybacks, but the next 90 days look flat.
 
-Over the next 90 days HYPE supply changes +1.41%; across a full year, +6.06%. That puts supply at 2/5 (growing), #42 of 101 for new supply.
+Over the next 90 days HYPE supply changes −0.18%; across a full year, −0.39%. That puts supply at 5/5 (shrinking), #100 of 100 for new supply.
 
 ## Who wants Hyperliquid right now
 
-People's appetite for Hyperliquid is **very strong**: 4.5/5, ranked #5 of 110.
+People's appetite for Hyperliquid is **very strong**: 4.5/5, ranked #6 of 109.
 
 Members get the rest of the Hyperliquid demand read on mrnasdog.com.
 
@@ -74,18 +66,18 @@ Besides supply and demand, we track 2 price drivers for Hyperliquid: 2 ▲ and 0
 
 ### ▲ Treasury company
 
-Owns 12.8% of HYPE in the market; +3.6M HYPE in 30 days.
+Owns 12.9% of HYPE in the market; +1.8M HYPE in 30 days.
 
 Company buys → price up · Company sells → price down. Right now it points up.
 
 | Date | Hyperliquid Strategies |
 |---|---|
-| Sep 10 2026 | 33.6 M HYPE |
 | Sep 17 2026 | 35.1 M HYPE |
 | Sep 24 2026 | 37 M HYPE |
-| Oct 21 2026 | 38.7 M HYPE |
+| Oct 31 2026 | 38.9 M HYPE |
+| Nov 5 2026 | 38.9 M HYPE |
 
-*Checked Oct 21 2026*
+*Checked Nov 5 2026*
 
 ### ▲ Foundation votes
 
@@ -96,14 +88,14 @@ Good for the price: Power spread out. Bad for it: One group in control. Now: ▲
 | When | Who holds what |
 |---|---|
 | Jan 2025 | Hyper Foundation 81% · Others 19% |
-| Oct 2026 | Hyper Foundation 47.1% · Hyperliquid Strategies x Unit 8.6% · Others 44.3% |
+| Nov 2026 | Hyper Foundation 47.4% · Hyperliquid Strategies x Unit 8.9% · Others 43.7% |
 
-*Checked Oct 21 2026*
+*Checked Nov 5 2026*
 
 ## Where to read the rest of HYPE
 
 - Every HYPE unlock and burn, explained: https://mrnasdog.com/research/hype/inflation
-- Compare HYPE with 100+ coins: https://mrnasdog.com/coins
+- Compare HYPE supply with 100+ coins: https://mrnasdog.com/token-supply
 - The MrNasDog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

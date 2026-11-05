@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Algorand (ALGO) Inflationary? +0.48% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/algo, updated Nov 4 2026*
+*From https://mrnasdog.com/research/algo, updated Nov 5 2026*
 
 How much new ALGO is coming? **+0.48%** in the next 90 days, **+1.89%** in the next year — checked Nov 4 2026.
 

@@ -8,11 +8,11 @@ published:     true
 ---
 # Aptos (APT) Tokenomics: +2.03% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/apt (checked Nov 4 2026)*
+*Originally published at https://mrnasdog.com/research/apt (checked Nov 5 2026)*
 
 As of Nov 4 2026, new Aptos supply runs at **+2.03%** over 90 days and **+8.15%** over 12 months.
 
-- **Signal today:** negative (Nov 4 2026)
+- **Signal today:** negative (Nov 5 2026)
 - **MrNasDog score:** 4/10 — supply 1.5/5, demand 2.5/5
 - **New coins:** +2.03% in 90 days · +8.15% in a year
 - **Demand:** modest (2.5/5)
@@ -26,7 +26,7 @@ New APT: +2.03% in 90 days, +8.15% in a year. Supply score 1.5/5, "heavy" (place
 
 ## Demand today
 
-Aptos demand: 2.5/5 (**modest**), place #48 among 109 coins — interest today plus the buying that could come later.
+Aptos demand: 2.5/5 (**modest**), place #47 among 109 coins — interest today plus the buying that could come later.
 
 Members get the rest of the Aptos demand read on mrnasdog.com.
 

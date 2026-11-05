@@ -1,45 +1,45 @@
 ---
-title:         "Pump.fun (PUMP): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)"
-description:   "Supply and demand give Pump.fun (PUMP) a mixed long-run signal today (Oct 21 2026); its score is 10/10."
+title:         "Pump.fun (PUMP) Inflation Rate: −3.96% Supply in 90 Days"
+description:   "Pump.fun has 2 price drivers. Right now: 1 up, 1 down."
 canonical_url: "https://mrnasdog.com/research/pump"
 content_type:  "coin_hub"
 tags:          ["crypto", "pump", "pumpfun", "should-i-buy"]
 published:     true
 ---
-# Pump.fun (PUMP): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)
+# Pump.fun (PUMP) Inflation Rate: −3.96% Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/pump — numbers checked Oct 21 2026*
+*Source: https://mrnasdog.com/research/pump — numbers checked Nov 5 2026*
 
-Supply and demand give Pump.fun (PUMP) a **mixed** long-run signal today (Oct 21 2026); its score is 10/10.
+**−3.96%** in 90 days, **+5.67%** in a year: that is how fast Pump.fun (PUMP) supply changes as of Nov 2 2026.
 
-- **Signal:** mixed — PUMP, read by supply and demand
+- **Signal:** positive — PUMP, read by supply and demand
 - **Score:** 10/10 — supply 5/5, demand 5/5
-- **Supply growth:** −0.04% in 90 days · +12.25% in a year
+- **Supply growth:** −3.96% in 90 days · +5.67% in a year
 - **How much people want it:** exceptional (5/5)
-- **Price drivers:** 0 ▲ price up · 2 ▼ price down
+- **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## PUMP price drivers the score does not count
 
-Pump.fun has 2 price drivers. Right now: 0 up, 2 down.
+Pump.fun has 2 price drivers. Right now: 1 up, 1 down.
 
-### ▼ Launchpad share
+### ▲ Launchpad share
 
-Rivals took half of Sep fees; Oct share is recovering.
+After losing half in Sep, pump.fun took 76% of Oct fees.
 
-▲ Price up if: pump.fun keeps the lead. ▼ Price down if: Rivals take launches. Now: ▼ down side.
+▲ Price up if: pump.fun keeps the lead. ▼ Price down if: Rivals take launches. Now: ▲ up side.
 
 | Date | pump.fun share |
 |---|---|
 | Jul 31 2026 | 90.1% |
 | Aug 31 2026 | 87.2% |
 | Sep 30 2026 | 46.9% |
-| Oct 12 2026 | 71.5% |
+| Oct 31 2026 | 75.7% |
 
-*Checked Oct 13 2026*
+*Checked Nov 2 2026*
 
 ### ▼ RICO lawsuit
 
-Judge kept RICO claims Aug 31 2026; answer due Oct 15 2026.
+RICO claims survived; pump.fun answered Oct 15 2026, case goes on.
 
 Case dismissed → price up · Pump.fun loses case → price down. Today: the price-down case.
 
@@ -49,64 +49,56 @@ Case dismissed → price up · Pump.fun loses case → price down. Today: the pr
 | Jan 30 2025 | Aguilar suit filed |
 | Jan 8 2026 | 2nd amended complaint |
 | Aug 31 2026 | RICO claims survive |
-| Oct 15 2026 | Pump.fun answer due (coming) |
+| Oct 15 2026 | Pump.fun files answer |
 
-*Checked Oct 13 2026*
+*Checked Nov 2 2026*
 
 ## PUMP supply
 
-Pump.fun's PUMP grew 13.4% in 90 days as team and investor unlocks arrived after the one-year cliff, but the daily revenue buyback now burns about as much as the monthly unlocks add.
+Pump.fun's PUMP grew +14.02% in 90 days as 83.38B left insider vesting wallets, but with no new PUMP possible and the buyback burning about 20.09B next, supply should shrink about 3.96%.
 
-Expect −0.04% more PUMP in 90 days (+12.25% over the year). On supply alone Pump.fun gets 5/5 — shrinking.
+Expect −3.96% more PUMP in 90 days (+5.67% over the year). On supply alone Pump.fun gets 5/5 — shrinking.
 
 ## Demand today
 
-How much do people want PUMP? **exceptional** — 5 out of 5, #1 of 110.
+How much do people want PUMP? **exceptional** — 5 out of 5, #1 of 109.
 
 (Members see more PUMP demand detail on the page; it is not repeated here.)
 
-## Questions people ask about Pump.fun
+## Is PUMP inflationary? Questions about Pump.fun supply
 
-### Is it time to buy the Pump.fun dip?
+### Is Pump.fun (PUMP) inflationary or deflationary?
 
-By the law of supply and demand, Pump.fun's long-run signal is mixed (Oct 21 2026, score 10/10). New supply: −0.04% in the next 90 days. Demand: exceptional (5/5). Pump.fun's price drivers: 0 ▲ price up, 2 ▼ price down.
+As of Nov 2 2026, Pump.fun (PUMP) supply moves −3.96% in 90 days and +5.67% in a year, so PUMP is deflationary. Burns or buybacks take out more PUMP than is created.
 
-### Is Pump.fun a scam, as the RICO lawsuit claims?
+### What is the PUMP inflation rate in 2026?
 
-That question now sits with a court. A judge kept the RICO claims against Pump.fun on Aug 31 2026, and Pump.fun's answer is due Oct 15 2026. Until a ruling, the case likely stays one of two drivers pulling the price down. That leaves Pump.fun's long-run signal at mixed, by supply and demand.
+Pump.fun (PUMP) supply grows +5.67% over the next 12 months and −3.96% over the next 90 days (checked Nov 2 2026).
 
-### Why is Pump.fun going up again?
+### When is the next PUMP token unlock?
 
-Its launchpad share is the likely reason. Rivals took half of Pump.fun's fees in September, but its October share is recovering. Supply helps a little too: it shrinks by 0.04% in 90 days (Oct 13 2026). Supply and demand still read mixed for Pump.fun in the long run.
+The next Pump.fun (PUMP) unlock we track is on Nov 12 2026: about 625M PUMP, 0.14% of the PUMP in circulation (Allocation wallet monthly release). Checked Nov 2 2026.
 
-### Can Pump.fun reach $1?
+### Does Pump.fun burn or buy back PUMP?
 
-At $1, Pump.fun would be worth about $463B in total — about 201 times its $2.3B market cap today (Oct 21 2026, about 0.496 cents a coin). Pump.fun's supply also grows +12.25% in the next year, so every extra coin needs buyers too. Supply and demand still read mixed for Pump.fun in the long run.
+Yes. In our count, about 20.1B PUMP is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 2 2026). How it works: Half of Pump.fun's net revenue buys PUMP and burns it at once: 18.93B burned in 90 days (about $78.3M), about 20.09B next at today's price. The plan is locked to about Apr 28 2027.
 
-### Should I sell Pump.fun or hold?
+### Where does new PUMP supply come from?
 
-Pump.fun's signal is mixed for now. Pump.fun's signal would turn if new supply jumps (today −0.04% in 90 days), or demand falls from exceptional, or Launchpad share and RICO lawsuit keep pointing down. The next date on Pump.fun's calendar: Oct 15 2026 — Pump.fun answer due.
+In our count, about 1.88B new PUMP reaches the market over the next 90 days (checked Nov 2 2026). How it works: 83.38B PUMP left team and investor vesting wallets in 90 days; the next year of that vesting is already in escrows that count as circulating, so only 1.88B is due next. 229.26B still sits in the main custody wallet with no public schedule.
 
-### Is Pump.fun worth investing in for the long term?
+### How much PUMP is in circulation?
 
-Pump.fun sits at 10/10 today (Oct 21 2026): supply 5/5, demand 5/5. One more year adds +12.25% to Pump.fun's supply. Long-run signal: mixed.
+Pump.fun (PUMP) has about 460B coins in circulation as of Nov 2 2026; the next 90 days change that by −3.96% (+5.67% over a year).
 
-### When is a good time to buy Pump.fun?
+### Does PUMP have more new supply than ONDO, ASTER or WLFI?
 
-By the law of supply and demand, the better time to add Pump.fun is when its new supply is low, demand is high and its price drivers point up. Pump.fun today: −0.04% new supply in 90 days (shrinking), demand exceptional (5/5), drivers 0 ▲ / 2 ▼.
-
-### What could push Pump.fun's price up or down?
-
-Right now 2 things drive Pump.fun's price (0 ▲, 2 ▼). ▼ Launchpad share: Rivals took half of Sep fees; Oct share is recovering. ▼ RICO lawsuit: Judge kept RICO claims Aug 31 2026; answer due Oct 15 2026.
-
-### Is Pump.fun a better investment than Bitcoin?
-
-Side by side on Oct 21 2026: Pump.fun at 10/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Pump.fun is the stronger of the two.
+Over the next 90 days (checked Nov 2 2026): PUMP −3.96%, ONDO +35.12%, ASTER +2.71%, WLFI +0.01%. PUMP has the least new supply of these 4 coins.
 
 ## Go deeper on Pump.fun
 
 - The long read on Pump.fun supply: https://mrnasdog.com/research/pump/inflation
-- Which crypto to buy now — PUMP next to every coin we rank: https://mrnasdog.com/coins
+- All crypto inflation rates, PUMP included: https://mrnasdog.com/token-supply
 - About the Pump.fun score: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

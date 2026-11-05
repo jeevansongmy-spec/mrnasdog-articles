@@ -7,6 +7,9 @@ published: true
 ---
 > Originally published at **[mrnasdog.com/research/sui/inflation](https://mrnasdog.com/research/sui/inflation)** by MrNasDog.
 
+<!-- main-page -->
+➜ Start with the Sui Network coin page for the short answer (should you buy SUI?) and its price drivers: [mrnasdog.com/research/sui](https://mrnasdog.com/research/sui)
+
 # SUI Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 
 **SUI** supply is growing: **64.85M SUI** reached the market between Aug 3 and Nov 1 2026, while storage fees kept back only **138,978 SUI**, a net rise of **+1.56%** of the **4.14B SUI** in circulation. Sui made all **10B SUI** at launch and cannot make more, so the new supply is old coins leaving two places: a staking pot that pays validators and stakers every day, and locked allocations that open on the 1st of each month. Other trackers read **+1.07%** for the same 90 days, and the next 90 days should add about **+1.16%**.

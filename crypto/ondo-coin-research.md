@@ -1,20 +1,20 @@
 ---
-title:         "Should You Buy Ondo Finance (ONDO)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Supply and demand give Ondo Finance (ONDO) a positive long-run signal today (Oct 21 2026); its score is 7.5/10."
+title:         "Ondo Finance (ONDO) Supply & Demand: +35.12% New Supply in 90 Days"
+description:   "Ondo Finance (ONDO) supply changes +35.12% over the next 90 days and +35.12% over a year (checked Nov 2 2026)."
 canonical_url: "https://mrnasdog.com/research/ondo"
 content_type:  "coin_hub"
 tags:          ["crypto", "ondo", "ondofinance", "should-i-buy"]
 published:     true
 ---
-# Should You Buy Ondo Finance (ONDO)? Supply, Demand and Price Drivers (Oct 2026)
+# Ondo Finance (ONDO) Supply & Demand: +35.12% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/ondo · checked Oct 21 2026*
+*Live page: https://mrnasdog.com/research/ondo · checked Nov 5 2026*
 
-Supply and demand give Ondo Finance (ONDO) a **positive** long-run signal today (Oct 21 2026); its score is 7.5/10.
+Ondo Finance (ONDO) supply changes **+35.12%** over the next 90 days and **+35.12%** over a year (checked Nov 2 2026).
 
-- **Long-run signal:** positive (by the law of supply and demand)
-- **Score:** 7.5/10 — supply 4.5/5, demand 3/5
-- **New supply:** 0.00% in 90 days · +35.12% in a year
+- **Long-run signal:** negative (by the law of supply and demand)
+- **Score:** 3/10 — supply 0/5, demand 3/5
+- **New supply:** +35.12% in 90 days · +35.12% in a year
 - **Demand:** moderate (3/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
@@ -24,7 +24,7 @@ Besides supply and demand, we track 2 price drivers for Ondo Finance: 1 ▲ and 
 
 ### ▲ Ondo tokenized assets
 
-Tokenized stocks grew from zero to over $1.3B in 400 days.
+Tokenized stocks grew from zero to about $1.4B in 426 days.
 
 More money tokenized → price up · Money leaves → price down. Right now it points up.
 
@@ -32,10 +32,10 @@ More money tokenized → price up · Money leaves → price down. Right now it p
 |---|---|---|
 | Aug 31 2026 | $2.55B | $1.03B |
 | Sep 30 2026 | $2.51B | $1.29B |
-| Oct 12 2026 | — | $1.34B |
-| Oct 13 2026 | $2.65B | — |
+| Oct 31 2026 | $2.7B | $1.37B |
+| Nov 2 2026 | $2.72B | $1.37B |
 
-*Checked Oct 13 2026*
+*Checked Nov 2 2026*
 
 ### ▼ Who runs Ondo
 
@@ -52,54 +52,54 @@ Good for the price: Clear, stable leadership. Bad for it: Long court fight. Now:
 | Sep 24 2026 | Sale report; Ondo denies |
 | No date yet | Delaware court ruling (coming) |
 
-*Checked Oct 13 2026*
+*Checked Nov 2 2026*
 
 ## Supply: how much new ONDO is coming
 
-ONDO supply is flat at 0.00% for 90 days, then about 1.71B coins unlock on Jan 18 2027.
+ONDO made no new coins in 90 days, but its yearly unlock on Jan 18 2027 adds 1.71B ONDO, about 35% more supply, with nothing buying it back.
 
-Over the next 90 days ONDO supply changes 0.00%; across a full year, +35.12%. That puts supply at 4.5/5 (flat), #89 of 101 for new supply.
+Over the next 90 days ONDO supply changes +35.12%; across a full year, +35.12%. That puts supply at 0/5 (extreme), #3 of 100 for new supply.
 
 ## How strong is Ondo Finance demand?
 
-People's appetite for Ondo Finance is **moderate**: 3/5, ranked #32 of 110.
+People's appetite for Ondo Finance is **moderate**: 3/5, ranked #34 of 109.
 
 Extra Ondo Finance demand detail for members stays on the live page.
 
-## Ondo Finance: buy, sell or hold — questions and answers
+## Ondo Finance supply questions, answered
 
-### Is it a good time to buy Ondo Finance today?
+### Is Ondo Finance (ONDO) inflationary or deflationary?
 
-Based on the law of supply and demand, the long-run signal for Ondo Finance is positive. As of Oct 21 2026, score 7.5/10, Ondo Finance faces 0.00% new supply over 90 days, with demand moderate (3/5). Ondo Finance's price drivers: 1 ▲ price up, 1 ▼ price down.
+As of Nov 2 2026, Ondo Finance (ONDO) supply moves +35.12% in 90 days and +35.12% in a year, so ONDO is inflationary. New ONDO outweighs what is burned or bought back.
 
-### What happened to Ondo, and who is in charge now?
+### What is the ONDO inflation rate in 2026?
 
-Control of Ondo is unclear for now. After the founder's death, the question went to a Delaware court, and no ruling date is set yet. The business kept growing anyway: Ondo's tokenized stocks went from zero to over $1.3B in 400 days. That leaves Ondo Finance's long-run signal at positive, by supply and demand.
+Ondo Finance (ONDO) supply grows +35.12% over the next 12 months and +35.12% over the next 90 days (checked Nov 2 2026). That puts ONDO #3 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Should I sell my Ondo Finance now?
+### When is the next ONDO token unlock?
 
-Today the signal is positive. Supply and demand would point the other way for Ondo Finance if new supply jumps (today 0.00% in 90 days), or demand falls from moderate, or Who runs Ondo keeps pointing down. Next date to watch for Ondo Finance: No date yet — Delaware court ruling.
+The next Ondo Finance (ONDO) unlock we track is on Jan 18 2027: about 1.71B ONDO, 35.12% of the ONDO in circulation (Yearly unlock: ecosystem fund, Foundation, investors). Checked Nov 2 2026.
 
-### Is Ondo Finance a good long-term investment?
+### Does Ondo Finance burn or buy back ONDO?
 
-On our framework Ondo Finance scores 7.5/10 (Oct 21 2026), with supply 4.5/5 (flat) and demand 3/5. In the next year Ondo Finance's supply changes +35.12%, so the long-run signal reads positive.
+Not in a way that removes ONDO today: nothing takes ONDO off the market over the next 90 days (checked Nov 2 2026). No buyback, no burn and no staking. The Foundation's 300M payouts used coins that were already free.
 
-### What is the best time to invest in Ondo Finance?
+### Where does new ONDO supply come from?
 
-The law of supply and demand points to one window for Ondo Finance: low new supply, high demand, drivers pointing up. Where Ondo Finance stands today: 0.00% new supply in 90 days (flat), demand moderate (3/5), drivers 1 ▲ / 1 ▼.
+In our count, about 1.71B new ONDO reaches the market over the next 90 days (checked Nov 2 2026). How it works: No mint and no unlock from Aug 4 to Nov 2 2026. The yearly unlock on Jan 18 2027 frees 1.71B ONDO, about 35% of the float.
 
-### Will Ondo Finance go up? What could move its price?
+### How much ONDO is in circulation?
 
-Ondo Finance has 2 price drivers today (1 ▲ price up, 1 ▼ price down). ▲ Ondo tokenized assets: Tokenized stocks grew from zero to over $1.3B in 400 days. ▼ Who runs Ondo: Founder's death left control of Ondo in a Delaware court fight.
+Ondo Finance (ONDO) has about 4.87B coins in circulation as of Nov 2 2026; the next 90 days change that by +35.12% (+35.12% over a year).
 
-### Is Ondo Finance a better investment than Bitcoin?
+### Does ONDO have more new supply than M, PUMP or ASTER?
 
-Ondo Finance reads positive at 7.5/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, Ondo Finance looks weaker than Bitcoin today.
+Over the next 90 days (checked Nov 2 2026): ONDO +35.12%, M +1.45%, PUMP −3.96%, ASTER +2.71%. ONDO has the most new supply of these 4 coins.
 
 ## More on Ondo Finance
 
 - Every ONDO unlock and burn, explained: https://mrnasdog.com/research/ondo/inflation
-- Compare ONDO with 100+ coins: https://mrnasdog.com/coins
+- Compare ONDO supply with 100+ coins: https://mrnasdog.com/token-supply
 - The MrNasDog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

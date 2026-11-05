@@ -1,32 +1,32 @@
 ---
-title:         "Solana (SOL): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)"
-description:   "Is Solana worth buying today? By the law of supply and demand, the long-run signal for SOL is mixed (score 6/10, checked Oct 21 2026)."
+title:         "Solana (SOL) Supply & Demand: +1.26% New Supply in 90 Days"
+description:   "Solana (SOL) supply changes +1.26% over the next 90 days and +5.08% over a year (checked Oct 30 2026)."
 canonical_url: "https://mrnasdog.com/research/sol"
 content_type:  "coin_hub"
 tags:          ["crypto", "sol", "solana", "should-i-buy"]
 published:     true
 ---
-# Solana (SOL): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)
+# Solana (SOL) Supply & Demand: +1.26% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/sol · checked Oct 21 2026*
+*Live page: https://mrnasdog.com/research/sol · checked Nov 5 2026*
 
-Is Solana worth buying today? By the law of supply and demand, the long-run signal for SOL is **mixed** (score 6/10, checked Oct 21 2026).
+Solana (SOL) supply changes **+1.26%** over the next 90 days and **+5.08%** over a year (checked Oct 30 2026).
 
 - **Signal:** mixed (by the law of supply and demand)
 - **Score:** 6/10 — supply 2/5, demand 4/5
-- **Supply growth:** +1.26% in 90 days · +5.12% in a year
+- **Supply growth:** +1.26% in 90 days · +5.08% in a year
 - **How much people want it:** strong (4/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## Supply — new SOL in the next 90 days
 
-SOL supply grew about 1.50% in 90 days: stakers got 4.85M new SOL, locks and reserves released 4.15M, and the fee burn took back only 82.5K.
+SOL supply grew about 1.74% in 90 days: stakers got 5.34M new SOL and ending locks released 4.39M more, while the fee burn took back only 82.2K.
 
-Over the next 90 days SOL supply changes +1.26%; across a full year, +5.12%. That puts supply at 2/5 (growing).
+Over the next 90 days SOL supply changes +1.26%; across a full year, +5.08%. That puts supply at 2/5 (growing).
 
 ## Demand: how much people want SOL
 
-People's appetite for Solana is **strong**: 4/5, ranked #9 of 110.
+People's appetite for Solana is **strong**: 4/5, ranked #9 of 109.
 
 (Members see more SOL demand detail on the page; it is not repeated here.)
 
@@ -36,22 +36,22 @@ Besides supply and demand, we track 2 price drivers for Solana: 1 ▲ and 1 ▼ 
 
 ### ▼ Big buyers
 
-ETFs hold ~15.5M SOL after record outflows; Forward holds 8.5M.
+ETFs down to ~15M SOL as outflows run; Forward holds 8.5M.
 
 Good for the price: More big buyers. Bad for it: Fewer. Now: ▼ down side.
 
 | Date | US ETFs | Forward Industries |
 |---|---|---|
-| Jul 31 2026 | 11,814,000 SOL | — |
 | Aug 31 2026 | 13,940,000 SOL | — |
 | Sep 30 2026 | 16,147,000 SOL | 8,501,298 SOL |
 | Oct 16 2026 | 15,530,000 SOL | — |
+| Oct 29 2026 | 15,015,000 SOL | — |
 
-*Checked Oct 20 2026*
+*Checked Oct 30 2026*
 
 ### ▲ Network stops
 
-Solana stopped 6 times by 2024. None in 988 days.
+Solana stopped 6 times by 2024. None in 1003 days.
 
 ▲ Price up if: No stops. ▼ Price down if: A new stop. Today: the price-up case.
 
@@ -64,50 +64,42 @@ Solana stopped 6 times by 2024. None in 988 days.
 | Jul 2025 | 0 stops |
 | Jul 2026 | 0 stops |
 
-*Checked Oct 21 2026*
+*Checked Nov 5 2026*
 
-## Should you buy SOL? Questions about Solana
+## Solana (SOL) supply: questions people ask
 
-### Is it a good time to buy Solana today?
+### Is Solana (SOL) inflationary or deflationary?
 
-Supply and demand point to a mixed long-run signal for Solana (Oct 21 2026, score 6/10). Solana adds +1.26% new supply in 90 days, and demand reads strong (4/5). Solana's price drivers: 1 ▲ price up, 1 ▼ price down.
+As of Oct 30 2026, Solana (SOL) supply moves +1.26% in 90 days and +5.08% in a year, so SOL is inflationary. New SOL outweighs what is burned or bought back.
 
-### How many Solana coins exist, and how fast is supply growing?
+### What is the SOL inflation rate in 2026?
 
-About 589.5M SOL are in the market out of 636.2M in total (Oct 20 2026), and our data shows no max supply. New coins keep coming: about +1.26% in the next 90 days, or around +5.19% over a year. That leaves Solana's long-run signal at mixed, by supply and demand.
+Solana (SOL) supply grows +5.08% over the next 12 months and +1.26% over the next 90 days (checked Oct 30 2026). That puts SOL #41 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Is Solana dead after the big ETF outflows?
+### When is the next SOL token unlock?
 
-Not really. The network has run 988 days without a single stop, after 6 stops by 2024. The weak spot is buyers: ETFs had record outflows and now hold about 15.5M SOL, while Forward still holds 8.5M. For Solana, the supply-and-demand signal is mixed right now.
+The next Solana (SOL) unlock we track is on Nov 11 2026: about 204K SOL, 0.03% of the SOL in circulation (Monthly stake lock ends). Checked Oct 30 2026.
 
-### Could Solana ever hit $1,000?
+### Does Solana burn or buy back SOL?
 
-Solana trades near $106 (Oct 21 2026). $1,000 a coin means a $590B market cap, 9.4 times today's $62.5B. Solana's supply also grows +5.12% in the next year, so every extra coin needs buyers too. That leaves Solana's long-run signal at mixed, by supply and demand.
+Yes. In our count, about 158K SOL is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Oct 30 2026). How it works: No buyback. Half of each base fee is burned, plus a 0.8 SOL validator ticket each epoch since Oct 21 2026: about 82.2K SOL in 90 days. New locks took 63.8K more off the market.
 
-### Should I sell my Solana now?
+### Where does new SOL supply come from?
 
-We would read Solana differently if new supply keeps arriving (+1.26% in 90 days), or demand falls from strong, or Big buyers keeps pointing down. Until then Solana's signal stays mixed.
+In our count, about 7.58M new SOL reaches the market over the next 90 days (checked Oct 30 2026). How it works: Stakers get new SOL every epoch: 5.34M in 90 days, about 5.18M next. Stake locks keep ending each month (about 2.89M in the next 90 days), and a Foundation-linked reserve of 27.29M SOL releases coins now and then.
 
-### Is Solana a good long-term investment?
+### How much SOL is in circulation?
 
-Solana scores 6/10 on our framework (Oct 21 2026): supply 2/5 (growing), demand 4/5. Over the next year Solana's supply changes +5.12%. The long-run signal is mixed.
+Solana (SOL) has about 590M coins in circulation as of Oct 30 2026; the next 90 days change that by +1.26% (+5.08% over a year).
 
-### How do I know when to buy Solana?
+### Does SOL have more new supply than XRP, TRX or HYPE?
 
-Supply and demand favor Solana most when little new supply is coming, demand is strong and the price drivers point up. Right now Solana has +1.26% new supply in 90 days (growing), demand strong (4/5), drivers 1 ▲ / 1 ▼.
-
-### Will Solana go up in 2026?
-
-Solana's price drivers today: 1 pointing up, 1 pointing down, out of 2. ▼ Big buyers: ETFs hold ~15.5M SOL after record outflows; Forward holds 8.5M. ▲ Network stops: Solana stopped 6 times by 2024. None in 988 days.
-
-### Is Solana a better investment than Bitcoin?
-
-Solana: mixed signal, 6/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, Solana reads weaker than Bitcoin today.
+Over the next 90 days (checked Oct 30 2026): SOL +1.26%, XRP +1.42%, TRX +0.14%, HYPE −0.18%. SOL sits in the middle of these 4 coins.
 
 ## Next steps for SOL
 
 - Every SOL unlock and burn, explained: https://mrnasdog.com/research/sol/inflation
-- Compare SOL with 100+ coins: https://mrnasdog.com/coins
+- Compare SOL supply with 100+ coins: https://mrnasdog.com/token-supply
 - The MrNasDog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

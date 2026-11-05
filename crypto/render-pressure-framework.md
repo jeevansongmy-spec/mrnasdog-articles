@@ -8,7 +8,7 @@ published:     true
 *Originally published at [https://mrnasdog.com/research/render/inflation](https://mrnasdog.com/research/render/inflation)*
 
 <!-- main-page -->
-Looking for the buy-or-sell answer? It is on the RENDER coin page, with demand and price drivers: [mrnasdog.com/research/render](https://mrnasdog.com/research/render)
+This is the long supply read. For the signal, the price drivers and the questions people ask about Render Network, see [mrnasdog.com/research/render](https://mrnasdog.com/research/render).
 
 # RENDER Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 

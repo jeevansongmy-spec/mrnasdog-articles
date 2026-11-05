@@ -1,32 +1,32 @@
 ---
-title:         "Should You Buy Stacks (STX)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Our read on Stacks for Oct 21 2026: a mixed long-run signal and a score of 4.5/10, from new supply, demand and what moves the price."
+title:         "Is Stacks (STX) Inflationary? +1.28% New Supply in 90 Days"
+description:   "How much new STX is coming? +1.28% in the next 90 days, +5.50% in the next year — checked Oct 27 2026."
 canonical_url: "https://mrnasdog.com/research/stx"
 content_type:  "coin_hub"
 tags:          ["crypto", "stx", "stacks", "should-i-buy"]
 published:     true
 ---
-# Should You Buy Stacks (STX)? Supply, Demand and Price Drivers (Oct 2026)
+# Is Stacks (STX) Inflationary? +1.28% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/stx, updated Oct 21 2026*
+*From https://mrnasdog.com/research/stx, updated Nov 5 2026*
 
-Our read on Stacks for Oct 21 2026: a **mixed** long-run signal and a score of 4.5/10, from new supply, demand and what moves the price.
+How much new STX is coming? **+1.28%** in the next 90 days, **+5.50%** in the next year — checked Oct 27 2026.
 
 - **Long-run signal:** mixed for Stacks
 - **Score:** 4.5/10 — supply 2/5, demand 2.5/5
-- **New supply:** +1.27% in 90 days · +5.40% in a year
+- **New supply:** +1.28% in 90 days · +5.50% in a year
 - **Demand:** modest (2.5/5)
 - **Price drivers:** 2 ▲ price up · 1 ▼ price down
 
 ## New STX hitting the market
 
-Stacks mints new STX for miners and for its growth fund every Bitcoin block, with no burn: supply up 1.18% in 90 days and about 1.27% next.
+STX supply grows about 1.26% every 90 days from two built-in mints, one for miners and one for the ecosystem Endowment, with no burn or buyback against them.
 
-Stacks adds +1.27% new supply in the next 90 days and +5.40% over a year — supply scores 2/5 (growing), #43 of 101 for new supply.
+Stacks adds +1.28% new supply in the next 90 days and +5.50% over a year — supply scores 2/5 (growing), #40 of 100 for new supply.
 
 ## Demand: how much people want STX
 
-Demand reads **modest** (2.5/5), #46 of 110 coins we track — that is how much people want STX now and how much buying could still come.
+Demand reads **modest** (2.5/5), #47 of 109 coins we track — that is how much people want STX now and how much buying could still come.
 
 The members-only part of STX's demand section is not included.
 
@@ -42,12 +42,12 @@ More BTC flows in → price up · BTC leaves Stacks → price down. Right now it
 
 | Date | sBTC supply |
 |---|---|
-| Jul 27 2026 | 2,875 BTC |
 | Aug 31 2026 | 2,441 BTC |
 | Sep 30 2026 | 2,481 BTC |
-| Oct 21 2026 | 2,490 BTC |
+| Oct 31 2026 | 2,481 BTC |
+| Nov 5 2026 | 2,482 BTC |
 
-*Checked Oct 17 2026*
+*Checked Oct 27 2026*
 
 ### ▲ Bitcoin staking bonds
 
@@ -65,7 +65,7 @@ Two bonds drew about 735 BTC; Bond 3 opens around Nov 10.
 | Around Nov 10 (Stacks) | Bond 3 opens (coming) |
 | 6-12 months (Stacks) | PoX-6: open to all (coming) |
 
-*Checked Oct 17 2026*
+*Checked Oct 27 2026*
 
 ### ▲ Muneeb Ali returns
 
@@ -81,42 +81,42 @@ Good for the price: Roadmap delivered, institutions join. Bad for it: Plans stal
 | Oct 15 2026 | Formally takes over |
 | Within 30 days (pledge) | Token holder call (coming) |
 
-*Checked Oct 17 2026*
+*Checked Oct 27 2026*
 
-## Questions people ask about Stacks
+## Is STX inflationary? Questions about Stacks supply
 
-### Is it a good time to buy Stacks today?
+### Is Stacks (STX) inflationary or deflationary?
 
-By the law of supply and demand, Stacks's long-run signal is mixed (Oct 21 2026, score 4.5/10). New supply: +1.27% in the next 90 days. Demand: modest (2.5/5). Stacks's price drivers: 2 ▲ price up, 1 ▼ price down.
+Stacks (STX) is inflationary right now: its supply changes +1.28% over the next 90 days and +5.50% over the next year (checked Oct 27 2026). More STX is added than removed.
 
-### Is Stacks (STX) a dead crypto project now?
+### What is the STX inflation rate in 2026?
 
-Quiet, but it does not look dead. Founder Muneeb Ali took over Stacks Labs on Oct 15 2026, and two Bitcoin staking bonds drew about 735 BTC, with Bond 3 due around Nov 10. The weak spot: BTC on Stacks is about half its mid-2025 peak. By supply and demand, Stacks's long-run signal is mixed today.
+About +5.50% a year: that is how much Stacks (STX) supply changes over the next 12 months, with +1.28% in the next 90 days (checked Oct 27 2026). That puts STX #40 of 100 coins we track for new supply (#1 = the most new supply).
 
-### When should I sell Stacks?
+### When is the next STX token unlock?
 
-Stacks's signal is mixed for now. Stacks's signal would turn if new supply keeps arriving (+1.27% in 90 days), or demand falls from modest, or BTC on Stacks keeps pointing down. The next date on Stacks's calendar: Within 30 days (pledge) — Token holder call.
+No dated Stacks (STX) unlock is scheduled in the next 90 days (checked Oct 27 2026). New STX still arrives: about 24M STX in 90 days.
 
-### Is Stacks a good investment in 2026?
+### Does Stacks burn or buy back STX?
 
-Stacks sits at 4.5/10 today (Oct 21 2026): supply 2/5, demand 2.5/5. One more year adds +5.40% to Stacks's supply. Long-run signal: mixed.
+Not in a way that removes STX today: nothing takes STX off the market over the next 90 days (checked Oct 27 2026). Nothing takes STX back: Stacks burns no fees and runs no buyback. Staked STX, about 493M, still counts as circulating.
 
-### When is a good time to buy Stacks?
+### Where does new STX supply come from?
 
-By the law of supply and demand, the better time to enter Stacks is when its new supply is low, demand is high and its price drivers point up. Stacks today: +1.27% new supply in 90 days (growing), demand modest (2.5/5), drivers 2 ▲ / 1 ▼.
+In our count, about 24M new STX reaches the market over the next 90 days (checked Oct 27 2026). How it works: Miners got 13.06M new STX in 90 days, now 1,000 STX for every Bitcoin block after the Jul 30 2026 upgrade, and the Endowment mint added 10.69M more at 1,140 STX per tenure.
 
-### What could push Stacks's price up or down?
+### How much STX is in circulation?
 
-Right now 3 things drive Stacks's price (2 ▲, 1 ▼). ▼ BTC on Stacks: BTC on Stacks is about half its mid-2025 peak. ▲ Bitcoin staking bonds: Two bonds drew about 735 BTC; Bond 3 opens around Nov 10. ▲ Muneeb Ali returns: Founder runs Stacks Labs since Oct 15 2026; holder call due.
+About 1.88B STX is in circulation (checked Oct 27 2026). Over the next 90 days that changes +1.28%, and over a year +5.50%.
 
-### Should I buy Stacks or Bitcoin?
+### Does STX have more new supply than PYTH, APT or CRV?
 
-Side by side on Oct 21 2026: Stacks at 4.5/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Stacks is the weaker of the two.
+Over the next 90 days (checked Oct 27 2026): STX +1.28%, PYTH 0.00%, APT +2.03%, CRV +1.99%. STX sits in the middle of these 4 coins.
 
 ## More on Stacks
 
 - Full STX inflation analysis (every unlock, burn and buyback): https://mrnasdog.com/research/stx/inflation
-- Every coin ranked by supply and demand, Stacks included: https://mrnasdog.com/coins
+- Every coin's new supply, side by side: https://mrnasdog.com/token-supply
 - How we read Stacks and every other coin: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

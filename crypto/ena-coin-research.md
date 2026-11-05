@@ -1,53 +1,53 @@
 ---
-title:         "Should You Buy Ethena (ENA)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Ethena's ENA: 3.85B ENA unlocked in 90 days (+28.68%), most of it at once on Oct 5 2026. Only the team's 93.75M a month is left (+2.10% next). No burn, and the buyback waits for USDe at $7.5B."
+title:         "Ethena (ENA) Supply & Demand: +2.10% New Supply in 90 Days"
+description:   "Ethena (ENA) supply changes +2.10% over the next 90 days and +8.39% over a year (checked Nov 2 2026)."
 canonical_url: "https://mrnasdog.com/research/ena"
 content_type:  "coin_hub"
 tags:          ["crypto", "ena", "ethena", "should-i-buy"]
 published:     true
 ---
-# Should You Buy Ethena (ENA)? Supply, Demand and Price Drivers (Oct 2026)
+# Ethena (ENA) Supply & Demand: +2.10% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/ena · checked Oct 21 2026*
+*Live page: https://mrnasdog.com/research/ena · checked Nov 5 2026*
 
-**negative** — that is Ethena's long-run signal by supply and demand as of Oct 21 2026, with a score of 3.5/10.
+Ethena (ENA) supply changes **+2.10%** over the next 90 days and **+8.39%** over a year (checked Nov 2 2026).
 
 - **Long-run signal:** negative (by the law of supply and demand)
-- **Score:** 3.5/10 — supply 1.5/5, demand 2/5
+- **Score:** 4/10 — supply 1.5/5, demand 2.5/5
 - **New supply:** +2.10% in 90 days · +8.39% in a year
-- **Demand:** weak (2/5)
-- **Price drivers:** 1 ▲ price up · 0 ▼ price down
+- **Demand:** modest (2.5/5)
+- **Price drivers:** 0 ▲ price up · 1 ▼ price down
 
 ## Supply: how much new ENA is coming
 
-Ethena's ENA: 3.85B ENA unlocked in 90 days (+28.68%), most of it at once on Oct 5 2026. Only the team's 93.75M a month is left (+2.10% next). No burn, and the buyback waits for USDe at $7.5B.
+Ethena's governance token. The investor unlock is finished; only team coins still unlock, about 2.10% of supply in the next 90 days, with no buyback running yet.
 
 Over the next 90 days ENA supply changes +2.10%; across a full year, +8.39%. That puts supply at 1.5/5 (heavy).
 
 ## How strong is Ethena demand?
 
-People's appetite for Ethena is **weak**: 2/5, ranked #65 of 110.
+People's appetite for Ethena is **modest**: 2.5/5, ranked #47 of 109.
 
 The members-only part of ENA's demand section is not included.
 
 ## ENA price drivers
 
-Besides supply and demand, we track 2 price drivers for Ethena: 1 ▲ and 0 ▼ right now.
+Besides supply and demand, we track 2 price drivers for Ethena: 0 ▲ and 1 ▼ right now.
 
-### ▲ USDe supply
+### ▼ USDe supply
 
-About a third of its Oct 2025 peak; up since April 2026.
+Shrinking since early Oct 2026, still above the April 2026 low.
 
-Good for the price: More USDe in use. Bad for it: USDe shrinks. Now: ▲ up side.
+Good for the price: More USDe in use. Bad for it: USDe shrinks. Now: ▼ down side.
 
 | Date | USDe supply |
 |---|---|
-| Jul 31 2026 | 3.87 B USDe |
 | Aug 31 2026 | 4.08 B USDe |
 | Sep 30 2026 | 4.9 B USDe |
-| Oct 21 2026 | 4.68 B USDe |
+| Oct 31 2026 | 4.53 B USDe |
+| Nov 5 2026 | 4.61 B USDe |
 
-*Checked Oct 13 2026*
+*Checked Nov 2 2026*
 
 ### • StablecoinX's ENA
 
@@ -63,42 +63,42 @@ Holds ~20% of all ENA; its lock-up ended Oct 5 2026.
 | Sep 14 2026 | Lock-up waiver signed |
 | Oct 5 2026 | ENA lock-ups end |
 
-*Checked Oct 13 2026*
+*Checked Nov 2 2026*
 
-## Ethena: buy, sell or hold — questions and answers
+## Ethena supply questions, answered
 
-### Is it time to buy the Ethena dip?
+### Is Ethena (ENA) inflationary or deflationary?
 
-Supply and demand point to a negative long-run signal for Ethena (Oct 21 2026, score 3.5/10). Ethena adds +2.10% new supply in 90 days, and demand reads weak (2/5). Ethena's price drivers: 1 ▲ price up, 0 ▼ price down.
+As of Nov 2 2026, Ethena (ENA) supply moves +2.10% in 90 days and +8.39% in a year, so ENA is inflationary. New ENA outweighs what is burned or bought back.
 
-### Could Ethena ever hit $1?
+### What is the ENA inflation rate in 2026?
 
-Ethena trades near 21 cents (Oct 21 2026). $1 a coin means a $13.4B market cap, 4.8 times today's $2.82B. Ethena's supply also grows +8.39% in the next year, so every extra coin needs buyers too. Supply and demand still read negative for Ethena in the long run.
+Ethena (ENA) supply grows +8.39% over the next 12 months and +2.10% over the next 90 days (checked Nov 2 2026). That puts ENA #31 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Should I sell my Ethena now?
+### When is the next ENA token unlock?
 
-We would read Ethena differently if new supply keeps arriving (+2.10% in 90 days), or demand falls from weak. Until then Ethena's signal stays negative.
+The next Ethena (ENA) unlock we track is on Nov 5 2026: about 93.8M ENA, 0.70% of the ENA in circulation (Monthly team unlock). Checked Nov 2 2026.
 
-### Is Ethena a good long-term investment?
+### Does Ethena burn or buy back ENA?
 
-Ethena scores 3.5/10 on our framework (Oct 21 2026): supply 1.5/5 (heavy), demand 2/5. Over the next year Ethena's supply changes +8.39%. The long-run signal is negative.
+Not in a way that removes ENA today: nothing takes ENA off the market over the next 90 days (checked Nov 2 2026). Nothing is burned or bought back. Holders voted for revenue buybacks, but they start only once USDe supply averages $7.5B; it sits near $4.6B.
 
-### How do I know when to buy Ethena?
+### Where does new ENA supply come from?
 
-Supply and demand favor Ethena most when little new supply is coming, demand is strong and the price drivers point up. Right now Ethena has +2.10% new supply in 90 days (heavy), demand weak (2/5), drivers 1 ▲ / 0 ▼.
+In our count, about 281M new ENA reaches the market over the next 90 days (checked Nov 2 2026). How it works: Unlocks added 2.13B ENA in 90 days, most of it every remaining investor coin released early on Oct 5 2026. Next, only team coins unlock: 93.75M a month, 281.25M in 90 days, until March 2028.
 
-### Will Ethena go up in 2026?
+### How much ENA is in circulation?
 
-Ethena's price drivers today: 1 pointing up, 0 pointing down, out of 2. ▲ USDe supply: About a third of its Oct 2025 peak; up since April 2026. • StablecoinX's ENA: Holds ~20% of all ENA; its lock-up ended Oct 5 2026.
+Ethena (ENA) has about 13.4B coins in circulation as of Nov 2 2026; the next 90 days change that by +2.10% (+8.39% over a year).
 
-### Is Ethena a better investment than Bitcoin?
+### Does ENA have more new supply than OKB, PEPE or AAVE?
 
-Ethena: negative signal, 3.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, Ethena reads weaker than Bitcoin today.
+Over the next 90 days (checked Nov 2 2026): ENA +2.10%, OKB 0.00%, PEPE 0.00%, AAVE +0.12%. ENA has the most new supply of these 4 coins.
 
 ## Where to read the rest of ENA
 
 - Every ENA unlock and burn, explained: https://mrnasdog.com/research/ena/inflation
-- Compare ENA with 100+ coins: https://mrnasdog.com/coins
+- Compare ENA supply with 100+ coins: https://mrnasdog.com/token-supply
 - The MrNasDog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

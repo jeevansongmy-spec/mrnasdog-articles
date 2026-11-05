@@ -7,6 +7,9 @@ published:     true
 ---
 *Originally published at [mrnasdog.com/research/imx/inflation](https://mrnasdog.com/research/imx/inflation)*
 
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about Immutable, see [mrnasdog.com/research/imx](https://mrnasdog.com/research/imx).
+
 # IMX Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 
 IMX supply is growing, even though not one new coin can be made. All **2B IMX** already exist and the token refuses any further minting, yet the Foundation Treasury released **30M IMX** between Aug 5 and Nov 3 2026, so the circulating supply rose **+3.32%** in 90 days. Nothing is burned or bought back, and we expect about **20.34M IMX** more, or **+2.25%**, in the next 90 days; other trackers show **−54.77%** because of a one-off recount in August.

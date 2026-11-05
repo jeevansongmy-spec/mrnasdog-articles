@@ -7,6 +7,9 @@ published:     true
 ---
 *Originally published at [https://mrnasdog.com/research/hype/inflation](https://mrnasdog.com/research/hype/inflation)*
 
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about Hyperliquid, see [mrnasdog.com/research/hype](https://mrnasdog.com/research/hype).
+
 # HYPE Inflation Analysis · October 2026 · Supply was growing · trend cooling
 
 HYPE supply grew by **+1.36%** in the 90 days from Aug 1 to Oct 30 2026, mostly because the Hyperliquid team paid out **4.62M HYPE**, 3.75M of it in a single October sale. Fee buybacks took **2.21M HYPE** off the market in the same 90 days, and HYPE can never pass its cap of 1B coins. With smaller team payouts already lined up, the next 90 days look close to flat at about **−0.18%**. Other trackers show **+7.60%** because of a one-day recount in their supply figure, so the coin page carries a warning note.

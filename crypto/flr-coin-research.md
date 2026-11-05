@@ -1,66 +1,62 @@
 ---
-title:         "Should You Buy Flare (FLR)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Is Flare worth buying today? By the law of supply and demand, the long-run signal for FLR is negative (score 3/10, checked Oct 21 2026)."
+title:         "Flare (FLR) Inflation Rate: +1.05% New Supply in 90 Days"
+description:   "As of Oct 27 2026, Flare (FLR) supply moves +1.05% in 90 days and +4.24% in a year, so FLR is inflationary. New FLR outweighs what is burned or bought back."
 canonical_url: "https://mrnasdog.com/research/flr"
 content_type:  "coin_hub"
 tags:          ["crypto", "flr", "flare", "should-i-buy"]
 published:     true
 ---
-# Should You Buy Flare (FLR)? Supply, Demand and Price Drivers (Oct 2026)
+# Flare (FLR) Inflation Rate: +1.05% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/flr — numbers checked Oct 21 2026*
+*Source: https://mrnasdog.com/research/flr — numbers checked Nov 5 2026*
 
-Is Flare worth buying today? By the law of supply and demand, the long-run signal for FLR is **negative** (score 3/10, checked Oct 21 2026).
+**+1.05%** in 90 days, **+4.24%** in a year: that is how fast Flare (FLR) supply changes as of Oct 27 2026.
 
 - **Signal:** negative — FLR, read by supply and demand
-- **Score:** 3/10 — supply 2/5, demand 1/5
-- **Supply growth:** +1.06% in 90 days · +4.30% in a year
-- **How much people want it:** low (1/5)
+- **Score:** 3.5/10 — supply 2/5, demand 1.5/5
+- **Supply growth:** +1.05% in 90 days · +4.24% in a year
+- **How much people want it:** very weak (1.5/5)
 - **Price drivers:** 0 ▲ price up · 1 ▼ price down
 
-## Should you buy Flare? The questions, answered
+## Questions about FLR supply
 
-### Should I enter Flare right now?
+### Is Flare (FLR) inflationary or deflationary?
 
-Based on the law of supply and demand, the long-run signal for Flare is negative. As of Oct 21 2026, score 3/10, Flare faces +1.06% new supply over 90 days, with demand low (1/5). Flare's price drivers: 0 ▲ price up, 1 ▼ price down.
+As of Oct 27 2026, Flare (FLR) supply moves +1.05% in 90 days and +4.24% in a year, so FLR is inflationary. New FLR outweighs what is burned or bought back.
 
-### How many Flare (FLR) coins exist in total?
+### What is the FLR inflation rate in 2026?
 
-About 106.8B FLR exist, and about 87.4B of them are in the market (Oct 17 2026). We see no max supply listed, so new coins keep coming: about +1.06% in 90 days and +4.30% over the next year. That likely weighs on the price over time. By supply and demand, Flare's long-run signal is negative today.
+Flare (FLR) supply grows +4.24% over the next 12 months and +1.05% over the next 90 days (checked Oct 27 2026). That puts FLR #47 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Is $1 possible for Flare?
+### When is the next FLR token unlock?
 
-It would take 153 times today's value: $1 × Flare's coins in the market = about $87.4B, against $573M now (Oct 21 2026). Flare's supply also grows +4.30% in the next year, so every extra coin needs buyers too. For Flare, the supply-and-demand signal is negative right now.
+No dated Flare (FLR) unlock is scheduled in the next 90 days (checked Oct 27 2026). New FLR still arrives: about 926M FLR in 90 days.
 
-### Should I sell Flare or hold?
+### Does Flare burn or buy back FLR?
 
-Today the signal is negative. Supply and demand would point the other way for Flare if new supply keeps arriving (+1.06% in 90 days), or demand falls from low, or FXRP minted keeps pointing down.
+Yes. In our count, about 8.63M FLR is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Oct 27 2026). How it works: 17.0M burned by one multisig, a 4.58M gas burn, and 4.31M held in the FIRE fee wallet.
 
-### Is Flare worth investing in for the long term?
+### Where does new FLR supply come from?
 
-On our framework Flare scores 3/10 (Oct 21 2026), with supply 2/5 (growing) and demand 1/5. In the next year Flare's supply changes +4.30%, so the long-run signal reads negative.
+In our count, about 926M new FLR reaches the market over the next 90 days (checked Oct 27 2026). How it works: 623.4M FLR of staking and data rewards plus 306.5M of rFLR and escrow unlocks in 90 days.
 
-### What is the best time to invest in Flare?
+### How much FLR is in circulation?
 
-The law of supply and demand points to one window for Flare: low new supply, high demand, drivers pointing up. Where Flare stands today: +1.06% new supply in 90 days (growing), demand low (1/5), drivers 0 ▲ / 1 ▼.
+Flare (FLR) has about 87.6B coins in circulation as of Oct 27 2026; the next 90 days change that by +1.05% (+4.24% over a year).
 
-### Will Flare go up? What could move its price?
+### Does FLR have more new supply than CRV, TIA or STABLE?
 
-Flare has 2 price drivers today (0 ▲ price up, 1 ▼ price down). ▼ FXRP minted: FXRP peaked near 156M by May 31 2026, then slowly shrank. • XRPFi launches: Six XRP launches since Sep 24 2025; FLR ETF still not launched.
-
-### Is Flare a better investment than Bitcoin?
-
-Flare reads negative at 3/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, Flare looks weaker than Bitcoin today.
+Over the next 90 days (checked Oct 27 2026): FLR +1.05%, CRV +1.99%, TIA +2.36%, STABLE 0.00%. FLR sits in the middle of these 4 coins.
 
 ## Supply: how much new FLR is coming
 
-Flare pays 3% a year in new FLR and keeps unlocking rFLR from a 17.22B incentive pool; burns and the new fee wallet offset under 3% of it. +1.06% in 90 days, about the same next.
+Flare pays 3% a year in new FLR and keeps vesting rFLR from a 17.17B incentive pool; burns and the FIRE fee wallet take back under 3% of it. +1.03% in 90 days, about the same next.
 
-Expect +1.06% more FLR in 90 days (+4.30% over the year). On supply alone Flare gets 2/5 — growing, #47 of 101 for new supply.
+Expect +1.05% more FLR in 90 days (+4.24% over the year). On supply alone Flare gets 2/5 — growing, #47 of 100 for new supply.
 
 ## Demand today
 
-How much do people want FLR? **low** — 1 out of 5, #92 of 110.
+How much do people want FLR? **very weak** — 1.5 out of 5, #78 of 109.
 
 (Members see more FLR demand detail on the page; it is not repeated here.)
 
@@ -76,12 +72,12 @@ More XRP comes in → price up · XRP leaves Flare → price down. Now: ▼ down
 
 | Date | FXRP supply |
 |---|---|
-| Jul 31 2026 | 148 M FXRP |
 | Aug 31 2026 | 147 M FXRP |
 | Sep 30 2026 | 144 M FXRP |
-| Oct 21 2026 | 143 M FXRP |
+| Oct 31 2026 | 144 M FXRP |
+| Nov 5 2026 | 144 M FXRP |
 
-*Checked Oct 17 2026*
+*Checked Oct 27 2026*
 
 ### • XRPFi launches
 
@@ -99,12 +95,12 @@ Good for the price: Launches pull XRP in. Bad for it: Launches draw no XRP.
 | Jul 28 2026 | One-signature XRPFi |
 | Oct 6 2026 | Firelight cover live |
 
-*Checked Oct 17 2026*
+*Checked Oct 27 2026*
 
 ## Go deeper on Flare
 
 - The long read on Flare supply: https://mrnasdog.com/research/flr/inflation
-- Which crypto to buy now — FLR next to every coin we rank: https://mrnasdog.com/coins
+- All crypto inflation rates, FLR included: https://mrnasdog.com/token-supply
 - About the Flare score: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

@@ -1,20 +1,20 @@
 ---
-title:         "Tezos (XTZ) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Our read on Tezos for Oct 21 2026: a negative long-run signal and a score of 5/10, from new supply, demand and what moves the price."
+title:         "Is Tezos (XTZ) Inflationary? +0.73% New Supply in 90 Days"
+description:   "How much new XTZ is coming? +0.73% in the next 90 days, +2.92% in the next year — checked Oct 29 2026."
 canonical_url: "https://mrnasdog.com/research/tezos"
 content_type:  "coin_hub"
 tags:          ["crypto", "xtz", "tezos", "should-i-buy"]
 published:     true
 ---
-# Tezos (XTZ) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
+# Is Tezos (XTZ) Inflationary? +0.73% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/tezos, updated Oct 21 2026*
+*From https://mrnasdog.com/research/tezos, updated Nov 5 2026*
 
-Our read on Tezos for Oct 21 2026: a **negative** long-run signal and a score of 5/10, from new supply, demand and what moves the price.
+How much new XTZ is coming? **+0.73%** in the next 90 days, **+2.92%** in the next year — checked Oct 29 2026.
 
 - **Signal today:** negative for Tezos
 - **MrNasDog score:** 5/10 — supply 2.5/5, demand 2.5/5
-- **New coins:** +0.73% in 90 days · +2.93% in a year
+- **New coins:** +0.73% in 90 days · +2.92% in a year
 - **Demand:** modest (2.5/5)
 - **Drivers:** 1 ▲ price up · 2 ▼ price down
 
@@ -30,16 +30,16 @@ Good for the price: More money on Etherlink. Bad for it: Money leaves Etherlink.
 
 | Date | Etherlink TVL |
 |---|---|
-| Jul 31 2026 | $15.8M |
 | Aug 31 2026 | $14.9M |
 | Sep 30 2026 | $16.1M |
-| Oct 21 2026 | $16.1M |
+| Oct 31 2026 | $17.4M |
+| Nov 5 2026 | $17.4M |
 
-*Checked Oct 19 2026*
+*Checked Oct 29 2026*
 
 ### ▲ Upgrade votes
 
-Still no new proposal; this window closes Oct 21 2026.
+No new upgrade proposal since Ushuaia; next window ends Nov 4 2026.
 
 Upgrades keep shipping → price up · Upgrades stall → price down. Today: the price-up case.
 
@@ -51,9 +51,10 @@ Upgrades keep shipping → price up · Upgrades stall → price down. Today: the
 | May 4 2026 | Tezos X Previewnet |
 | Jun 30 2026 | Ushuaia upgrade live |
 | Sep 24 2026 | Quantumnet testnet |
-| Oct 21 2026 | Proposal window closes (coming) |
+| Oct 21 2026 | No proposal, window shut |
+| Nov 4 2026 | Next window closes (coming) |
 
-*Checked Oct 19 2026*
+*Checked Oct 29 2026*
 
 ### ▼ Foundation treasury
 
@@ -68,62 +69,54 @@ Treasury fell from $767M to $530M in about 640 days.
 | Jun 30 2025 | $641M | $72M |
 | Dec 31 2025 | $530M | $76M |
 
-*Checked Oct 19 2026*
+*Checked Oct 29 2026*
 
 ## New XTZ hitting the market
 
-Tezos pays stakers about 8.07M new XTZ every 90 days, and its small burns take back less than 1%. +0.73% last 90 days, about the same next. No cap, no vesting, no buyback.
+Tezos has no supply cap and pays stakers in new XTZ every block, 8.03M in 90 days; small burns take back under 1%, so supply grows about 0.73% a quarter.
 
-Tezos adds +0.73% new supply in the next 90 days and +2.93% over a year — supply scores 2.5/5 (moderate).
+Tezos adds +0.73% new supply in the next 90 days and +2.92% over a year — supply scores 2.5/5 (moderate).
 
 ## How strong is Tezos demand?
 
-Demand reads **modest** (2.5/5), #46 of 110 coins we track — that is how much people want XTZ now and how much buying could still come.
+Demand reads **modest** (2.5/5), #47 of 109 coins we track — that is how much people want XTZ now and how much buying could still come.
 
 Extra Tezos demand detail for members stays on the live page.
 
-## Questions about XTZ
+## XTZ tokenomics: questions and answers
 
-### Should I buy Tezos now, or wait?
+### Is Tezos (XTZ) inflationary or deflationary?
 
-Supply and demand point to a negative long-run signal for Tezos (Oct 21 2026, score 5/10). Tezos adds +0.73% new supply in 90 days, and demand reads modest (2.5/5). Tezos's price drivers: 1 ▲ price up, 2 ▼ price down.
+Tezos (XTZ) is inflationary right now: its supply changes +0.73% over the next 90 days and +2.92% over the next year (checked Oct 29 2026). More XTZ is added than removed.
 
-### Is Tezos dead, or is the project still alive?
+### What is the XTZ inflation rate in 2026?
 
-Tezos looks quiet, not dead. It still has a market cap near $330M (Oct 19 2026), and stakers keep earning about 8.07M XTZ every 90 days. The weak spot is money: the Foundation treasury fell from $767M to $530M in about 640 days. That leaves Tezos's long-run signal at negative, by supply and demand.
+About +2.92% a year: that is how much Tezos (XTZ) supply changes over the next 12 months, with +0.73% in the next 90 days (checked Oct 29 2026). That puts XTZ #55 of 100 coins we track for new supply (#1 = the most new supply).
 
-### What Tezos news is worth watching right now?
+### When is the next XTZ token unlock?
 
-Oct 21 2026 is the date to watch. The window for new upgrade proposals closes then, and so far nothing is in. Etherlink deposits also sit about 80% below their Oct 2025 peak, so we would like to see that turn first. For Tezos, the supply-and-demand signal is negative right now.
+No dated Tezos (XTZ) unlock is scheduled in the next 90 days (checked Oct 29 2026). New XTZ still arrives: about 8.06M XTZ in 90 days.
 
-### Could Tezos ever hit $100?
+### Does Tezos burn or buy back XTZ?
 
-Tezos trades near 29.9 cents (Oct 21 2026). $100 a coin means a $110B market cap, 334 times today's $329M. Tezos's supply also grows +2.93% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Tezos stays negative.
+Yes. In our count, about 37.5K XTZ is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Oct 29 2026). How it works: Storage fees and the built-in exchange burned 37,542 XTZ, and six lost Etherlink deposits burned 30,000 more in August, under 1% of new supply.
 
-### When should I sell Tezos?
+### Where does new XTZ supply come from?
 
-We would read Tezos differently if new supply keeps arriving (+0.73% in 90 days), or demand falls from modest, or Etherlink deposits and Foundation treasury keep pointing down. Until then Tezos's signal stays negative. Mark this date for Tezos: Oct 21 2026 — Proposal window closes.
+In our count, about 8.06M new XTZ reaches the market over the next 90 days (checked Oct 29 2026). How it works: Tezos pays bakers and stakers about 89,000 new XTZ a day, 8.03M in 90 days, and buyers from the 2017 sale claimed 36,000 more; nothing vests.
 
-### Is Tezos a good investment in 2026?
+### How much XTZ is in circulation?
 
-Tezos scores 5/10 on our framework (Oct 21 2026): supply 2.5/5 (moderate), demand 2.5/5. Over the next year Tezos's supply changes +2.93%. The long-run signal is negative.
+About 1.1B XTZ is in circulation (checked Oct 29 2026). Over the next 90 days that changes +0.73%, and over a year +2.92%.
 
-### How do I know when to buy Tezos?
+### Does XTZ have more new supply than SUN, GNO or PIEVERSE?
 
-Supply and demand favor Tezos most when little new supply is coming, demand is strong and the price drivers point up. Right now Tezos has +0.73% new supply in 90 days (moderate), demand modest (2.5/5), drivers 1 ▲ / 2 ▼.
-
-### Will Tezos go up in 2026?
-
-Tezos's price drivers today: 1 pointing up, 2 pointing down, out of 3. ▼ Etherlink deposits: Etherlink deposits sit about 80% below their Oct 2025 peak. ▲ Upgrade votes: Still no new proposal; this window closes Oct 21 2026. ▼ Foundation treasury: Treasury fell from $767M to $530M in about 640 days.
-
-### Should I buy Tezos or Bitcoin?
-
-Tezos: negative signal, 5/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, Tezos reads weaker than Bitcoin today.
+Over the next 90 days (checked Oct 29 2026): XTZ +0.73%, SUN −0.03%, GNO 0.00%, PIEVERSE +25.93%. XTZ sits in the middle of these 4 coins.
 
 ## Where to read the rest of XTZ
 
 - Full XTZ inflation analysis (every unlock, burn and buyback): https://mrnasdog.com/research/tezos/inflation
-- Every coin ranked by supply and demand, Tezos included: https://mrnasdog.com/coins
+- Every coin's new supply, side by side: https://mrnasdog.com/token-supply
 - How we read Tezos and every other coin: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

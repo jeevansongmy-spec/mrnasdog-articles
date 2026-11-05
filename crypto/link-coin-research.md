@@ -1,32 +1,32 @@
 ---
-title:         "Should You Buy LINK? Chainlink Supply, Demand and What Moves Its Price"
-description:   "Supply and demand give Chainlink (LINK) a mixed long-run signal today (Oct 21 2026); its score is 6.5/10."
+title:         "Chainlink (LINK) Supply & Demand: +1.47% New Supply in 90 Days"
+description:   "Chainlink (LINK) supply changes +1.47% over the next 90 days and +9.13% over a year (checked Oct 31 2026)."
 canonical_url: "https://mrnasdog.com/research/link"
 content_type:  "coin_hub"
 tags:          ["crypto", "link", "chainlink", "should-i-buy"]
 published:     true
 ---
-# Should You Buy LINK? Chainlink Supply, Demand and What Moves Its Price
+# Chainlink (LINK) Supply & Demand: +1.47% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/link · checked Oct 21 2026*
+*Live page: https://mrnasdog.com/research/link · checked Nov 5 2026*
 
-Supply and demand give Chainlink (LINK) a **mixed** long-run signal today (Oct 21 2026); its score is 6.5/10.
+Chainlink (LINK) supply changes **+1.47%** over the next 90 days and **+9.13%** over a year (checked Oct 31 2026).
 
 - **Long-run signal:** mixed (by the law of supply and demand)
-- **Score:** 6.5/10 — supply 2/5, demand 4.5/5
+- **Score:** 6.5/10 — supply 1.5/5, demand 5/5
 - **New supply:** +1.47% in 90 days · +9.13% in a year
-- **Demand:** very strong (4.5/5)
+- **Demand:** exceptional (5/5)
 - **Price drivers:** 2 ▲ price up · 0 ▼ price down
 
 ## LINK supply
 
-Chainlink holds 233.15M LINK back and releases about 7% of supply a year; 18.75M came out on Oct 9 2026. Nothing is burned, so supply grew 2.45% in 90 days, with about 1.47% expected next.
+Chainlink mints no new LINK, but the team releases its 233.15M reserve in steps: 18.75M on Oct 9 2026, about 11.25M expected in December.
 
-Over the next 90 days LINK supply changes +1.47%; across a full year, +9.13%. That puts supply at 2/5 (growing) (place 39 of 101).
+Over the next 90 days LINK supply changes +1.47%; across a full year, +9.13%. That puts supply at 1.5/5 (heavy) (place 37 of 100).
 
 ## Demand: how much people want LINK
 
-People's appetite for Chainlink is **very strong**: 4.5/5, ranked #5 of 110.
+People's appetite for Chainlink is **exceptional**: 5/5, ranked #1 of 109.
 
 Members get the rest of the Chainlink demand read on mrnasdog.com.
 
@@ -36,22 +36,22 @@ Besides supply and demand, we track 2 price drivers for Chainlink: 2 ▲ and 0 �
 
 ### ▲ ETF LINK pile
 
-Grayscale's fund grew its LINK pile about 8x in 365 days
+Two LINK ETFs now hold 16.7M LINK, up from 1.2M in 2025.
 
 ▲ Price up if: More ETF buying. ▼ Price down if: ETFs sell LINK. Right now it points up.
 
-| Date | Grayscale GLNK |
-|---|---|
-| Jun 30 2025 | 1.2 M LINK |
-| Dec 31 2025 | 6.03 M LINK |
-| Mar 31 2026 | 8.34 M LINK |
-| Jun 30 2026 | 10 M LINK |
+| Date | Grayscale GLNK | All US LINK ETFs |
+|---|---|---|
+| Dec 31 2025 | 6.03 M LINK | 6.03 M LINK |
+| Mar 31 2026 | 8.34 M LINK | — |
+| Jun 30 2026 | 10 M LINK | — |
+| Sep 30 2026 | — | 16.7 M LINK |
 
-*Checked Oct 11 2026*
+*Checked Oct 31 2026*
 
 ### ▲ Banks on Chainlink
 
-Swift's bank ledger is open; Chainlink now links banks to it
+Banks keep signing on; DTCC collateral chain still has no date.
 
 Banks go live → price up · Bank pilots stall → price down. Now: ▲ up side.
 
@@ -61,53 +61,47 @@ Banks go live → price up · Bank pilots stall → price down. Now: ▲ up side
 | Jul 9 2026 | Swift ledger opens |
 | Sep 28 2026 | Banks link via Chainlink |
 | Sep 30 2026 | Fulcrum repo tool |
-| Oct 29 2026 | Link:NYC event (coming) |
+| Oct 22 2026 | LG CNS: Korea banks |
+| Oct 26 2026 | Anchorage CustodySync |
+| Oct 29 2026 | Link:NYC event |
 | No date yet | DTCC collateral chain (coming) |
 
-*Checked Oct 11 2026*
+*Checked Oct 31 2026*
 
-## Questions about LINK
+## LINK tokenomics: questions and answers
 
-### Is it time to buy the Chainlink dip?
+### Is Chainlink (LINK) inflationary or deflationary?
 
-Supply and demand point to a mixed long-run signal for Chainlink (Oct 21 2026, score 6.5/10). Chainlink adds +1.47% new supply in 90 days, and demand reads very strong (4.5/5). Chainlink's price drivers: 2 ▲ price up, 0 ▼ price down.
+As of Oct 31 2026, Chainlink (LINK) supply moves +1.47% in 90 days and +9.13% in a year, so LINK is inflationary. New LINK outweighs what is burned or bought back.
 
-### Why is Chainlink going down while demand looks strong?
+### What is the LINK inflation rate in 2026?
 
-New supply is the likely weight. Chainlink adds +4.01% new supply in the next 90 days and +9.36% in a year, so buyers must soak up a lot of fresh LINK. Demand itself reads exceptional at 5/5 (Oct 11 2026), which is why we call the picture mixed. Our supply-and-demand read for Chainlink stays mixed.
+Chainlink (LINK) supply grows +9.13% over the next 12 months and +1.47% over the next 90 days (checked Oct 31 2026). That puts LINK #37 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Chainlink or Hyperliquid: which has the better setup?
+### When is the next LINK token unlock?
 
-On supply and demand, Hyperliquid has the edge: 8.5/10 against Chainlink's 6/10 (Oct 11 2026). Both see strong demand. The gap is new supply, with Hyperliquid adding just +0.13% in 90 days while Chainlink adds +4.01%. That leaves Chainlink's long-run signal at mixed, by supply and demand.
+No dated Chainlink (LINK) unlock is scheduled in the next 90 days (checked Oct 31 2026). New LINK still arrives: about 11.3M LINK in 90 days.
 
-### Could Chainlink ever hit $100?
+### Does Chainlink burn or buy back LINK?
 
-Chainlink trades near $12.9 (Oct 21 2026). $100 a coin means a $76.7B market cap, 7.8 times today's $9.89B. Chainlink's supply also grows +9.13% in the next year, so every extra coin needs buyers too. Supply and demand still read mixed for Chainlink in the long run.
+Not in a way that removes LINK today: nothing takes LINK off the market over the next 90 days (checked Oct 31 2026). No burn. The Chainlink Reserve bought 1.26M LINK with fees in 90 days, but it keeps coins already counted as circulating, so nothing leaves the supply.
 
-### Should I sell my Chainlink now?
+### Where does new LINK supply come from?
 
-We would read Chainlink differently if new supply keeps arriving (+1.47% in 90 days), or demand falls from very strong. Until then Chainlink's signal stays mixed. Mark this date for Chainlink: Oct 29 2026 — Link:NYC event.
+In our count, about 11.3M new LINK reaches the market over the next 90 days (checked Oct 31 2026). How it works: No LINK is minted. The team releases about 7% of supply a year from its reserve wallets: 18.75M LINK on Oct 9 2026, and about 11.25M more is expected around Dec 18 2026.
 
-### Is Chainlink a good long-term investment?
+### How much LINK is in circulation?
 
-Chainlink scores 6.5/10 on our framework (Oct 21 2026): supply 2/5 (growing), demand 4.5/5. Over the next year Chainlink's supply changes +9.13%. The long-run signal is mixed.
+Chainlink (LINK) has about 767M coins in circulation as of Oct 31 2026; the next 90 days change that by +1.47% (+9.13% over a year).
 
-### How do I know when to buy Chainlink?
+### Does LINK have more new supply than XMR, LEO or ADA?
 
-Supply and demand favor Chainlink most when little new supply is coming, demand is strong and the price drivers point up. Right now Chainlink has +1.47% new supply in 90 days (growing), demand very strong (4.5/5), drivers 2 ▲ / 0 ▼.
-
-### Will Chainlink go up in 2026?
-
-Chainlink's price drivers today: 2 pointing up, 0 pointing down, out of 2. ▲ ETF LINK pile: Grayscale's fund grew its LINK pile about 8x in 365 days ▲ Banks on Chainlink: Swift's bank ledger is open; Chainlink now links banks to it
-
-### Is Chainlink a better investment than Bitcoin?
-
-Chainlink: mixed signal, 6.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, Chainlink reads weaker than Bitcoin today.
+Over the next 90 days (checked Oct 31 2026): LINK +1.47%, XMR +0.21%, LEO −0.06%, ADA +0.30%. LINK has the most new supply of these 4 coins.
 
 ## Next steps for LINK
 
 - Every LINK unlock and burn, explained: https://mrnasdog.com/research/link/inflation
-- Compare LINK with 100+ coins: https://mrnasdog.com/coins
+- Compare LINK supply with 100+ coins: https://mrnasdog.com/token-supply
 - The MrNasDog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

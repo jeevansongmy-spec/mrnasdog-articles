@@ -1,32 +1,32 @@
 ---
-title:         "Should You Buy TRON (TRX)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Is TRON worth buying today? By the law of supply and demand, the long-run signal for TRX is mixed (score 6/10, checked Oct 21 2026)."
+title:         "TRON (TRX) Supply & Demand: +0.14% New Supply in 90 Days"
+description:   "TRON (TRX) supply changes +0.14% over the next 90 days and +0.56% over a year (checked Oct 30 2026)."
 canonical_url: "https://mrnasdog.com/research/trx"
 content_type:  "coin_hub"
 tags:          ["crypto", "trx", "tron", "should-i-buy"]
 published:     true
 ---
-# Should You Buy TRON (TRX)? Supply, Demand and Price Drivers (Oct 2026)
+# TRON (TRX) Supply & Demand: +0.14% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/trx · checked Oct 21 2026*
+*Live page: https://mrnasdog.com/research/trx · checked Nov 5 2026*
 
-Is TRON worth buying today? By the law of supply and demand, the long-run signal for TRX is **mixed** (score 6/10, checked Oct 21 2026).
+TRON (TRX) supply changes **+0.14%** over the next 90 days and **+0.56%** over a year (checked Oct 30 2026).
 
-- **Long-run signal:** mixed (by the law of supply and demand)
-- **Score:** 6/10 — supply 3.5/5, demand 2.5/5
-- **New supply:** +0.14% in 90 days · +0.55% in a year
-- **Demand:** modest (2.5/5)
+- **Long-run signal:** positive (by the law of supply and demand)
+- **Score:** 7/10 — supply 3.5/5, demand 3.5/5
+- **New supply:** +0.14% in 90 days · +0.56% in a year
+- **Demand:** strong (3.5/5)
 - **Price drivers:** 2 ▲ price up · 0 ▼ price down
 
 ## TRX supply
 
-TRON mints 136 TRX every block and burns every fee paid in TRX. The burn cancelled about 63% of new supply, so TRX grew 0.14% in 90 days, and about the same is expected next.
+TRON mints 136 TRX a block and burns every fee paid in TRX. The burn now cancels about 62% of the mint, so supply grows slowly: +0.14% in 90 days.
 
-Over the next 90 days TRX supply changes +0.14%; across a full year, +0.55%. That puts supply at 3.5/5 (steady), #73 of 101 for new supply.
+Over the next 90 days TRX supply changes +0.14%; across a full year, +0.56%. That puts supply at 3.5/5 (steady), #71 of 100 for new supply.
 
 ## How strong is TRON demand?
 
-People's appetite for TRON is **modest**: 2.5/5, ranked #46 of 110.
+People's appetite for TRON is **strong**: 3.5/5, ranked #20 of 109.
 
 A deeper TRX demand breakdown is on the page for members.
 
@@ -42,16 +42,16 @@ Good for the price: More USDT on Tron. Bad for it: USDT leaves Tron. Right now i
 
 | Date | Tron | Ethereum |
 |---|---|---|
-| Jul 31 2026 | 89.5 B USDT | 75.1 B USDT |
 | Aug 31 2026 | 91.9 B USDT | 73.5 B USDT |
 | Sep 30 2026 | 92.5 B USDT | 73.5 B USDT |
-| Oct 21 2026 | 92.8 B USDT | 73 B USDT |
+| Oct 31 2026 | 92.7 B USDT | 71.1 B USDT |
+| Nov 5 2026 | 92.8 B USDT | 68.8 B USDT |
 
-*Checked Oct 20 2026*
+*Checked Nov 4 2026*
 
 ### ▲ Justin Sun
 
-SEC case gone; Sun's Poloniex lost a $9M case.
+SEC case gone; Sun's HTX settled with UK regulator and left.
 
 ▲ Price up if: No legal trouble. ▼ Price down if: New case. Now: ▲ up side.
 
@@ -60,52 +60,48 @@ SEC case gone; Sun's Poloniex lost a $9M case.
 | Mar 22 2023 | SEC sues Justin Sun |
 | Feb 26 2025 | SEC pauses the case |
 | Jun 16 2025 | Tron Inc deal announced |
-| Aug 27 2025 | Tron Inc at 677M TRX |
 | Mar 5 2026 | SEC drops claims vs Sun |
 | Apr 21 2026 | Sun sues World Liberty |
 | Sep 9 2026 | First staked TRX ETF |
 | Oct 16 2026 | Poloniex loses $9M case |
+| Oct 29 2026 | HTX settles, leaves UK |
 
-*Checked Oct 20 2026*
+*Checked Oct 30 2026*
 
-## Should you buy TRX? Questions about TRON
+## TRON (TRX) supply: questions people ask
 
-### Is TRON worth buying now?
+### Is TRON (TRX) inflationary or deflationary?
 
-By the law of supply and demand, TRON's long-run signal is mixed (Oct 21 2026, score 6/10). New supply: +0.14% in the next 90 days. Demand: modest (2.5/5). TRON's price drivers: 2 ▲ price up, 0 ▼ price down.
+As of Oct 30 2026, TRON (TRX) supply moves +0.14% in 90 days and +0.56% in a year, so TRX is inflationary. New TRX outweighs what is burned or bought back.
 
-### Is TRON a better pick than Ethereum right now?
+### What is the TRX inflation rate in 2026?
 
-TRON looks a little stronger today. Its new supply is +0.13% in 90 days against Ethereum's +0.21%, and USDT on Tron grew 20% in 365 days, to 92.8B. Ethereum ETFs, meanwhile, cut about 300K ETH since Sep 30. That leaves TRON's long-run signal at mixed, by supply and demand.
+TRON (TRX) supply grows +0.56% over the next 12 months and +0.14% over the next 90 days (checked Oct 30 2026). That puts TRX #71 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Can TRON reach $10?
+### When is the next TRX token unlock?
 
-At $10, TRON would be worth about $950B in total — about 30 times its $31.4B market cap today (Oct 21 2026, about 33.1 cents a coin). TRON's supply also grows +0.55% in the next year, so every extra coin needs buyers too. By supply and demand, TRON's long-run signal is mixed today.
+No dated TRON (TRX) unlock is scheduled in the next 90 days (checked Oct 30 2026). New TRX still arrives: about 352M TRX in 90 days.
 
-### Should I sell my TRON now?
+### Does TRON burn or buy back TRX?
 
-TRON's signal is mixed for now. TRON's signal would turn if new supply jumps (today +0.14% in 90 days), or demand falls from modest.
+Yes. In our count, about 220M TRX is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Oct 30 2026). How it works: The fee burn is the only removal: 220.2M TRX over 90 days, about 2.45M a day, cancelling about 62% of new TRX. It has eased as more users stake for free energy.
 
-### Is TRON a good long-term investment?
+### Where does new TRX supply come from?
 
-TRON sits at 6/10 today (Oct 21 2026): supply 3.5/5, demand 2.5/5. One more year adds +0.55% to TRON's supply. Long-run signal: mixed.
+In our count, about 352M new TRX reaches the market over the next 90 days (checked Oct 30 2026). How it works: Block rewards are the only new TRX: 136 a block, 352.39M over 90 days, about 3.92M a day. Nothing vests, and the big holders, Tron Inc. included, already count as circulating, so their sales would add nothing.
 
-### When is a good time to buy TRON?
+### How much TRX is in circulation?
 
-By the law of supply and demand, the better time to buy TRON is when its new supply is low, demand is high and its price drivers point up. TRON today: +0.14% new supply in 90 days (steady), demand modest (2.5/5), drivers 2 ▲ / 0 ▼.
+TRON (TRX) has about 95B coins in circulation as of Oct 30 2026; the next 90 days change that by +0.14% (+0.56% over a year).
 
-### What could push TRON's price up or down?
+### Does TRX have more new supply than SOL, HYPE or ZEC?
 
-Right now 2 things drive TRON's price (2 ▲, 0 ▼). ▲ USDT on Tron: USDT on Tron grew 20% in 365 days, to 92.8B. ▲ Justin Sun: SEC case gone; Sun's Poloniex lost a $9M case.
-
-### Is TRON a better investment than Bitcoin?
-
-Side by side on Oct 21 2026: TRON at 6/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, TRON is the weaker of the two.
+Over the next 90 days (checked Oct 30 2026): TRX +0.14%, SOL +1.26%, HYPE −0.18%, ZEC +0.95%. TRX sits in the middle of these 4 coins.
 
 ## Go deeper on TRON
 
 - Every TRX unlock and burn, explained: https://mrnasdog.com/research/trx/inflation
-- Compare TRX with 100+ coins: https://mrnasdog.com/coins
+- Compare TRX supply with 100+ coins: https://mrnasdog.com/token-supply
 - The MrNasDog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

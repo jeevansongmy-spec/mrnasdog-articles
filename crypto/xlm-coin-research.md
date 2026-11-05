@@ -1,32 +1,32 @@
 ---
-title:         "Should You Buy Stellar (XLM)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "As of Oct 21 2026, Stellar scores 3.5/10 on our framework, and its supply-and-demand signal reads negative."
+title:         "Stellar (XLM) Tokenomics: +2.78% New Supply in 90 Days"
+description:   "As of Oct 31 2026, new Stellar supply runs at +2.78% over 90 days and +11.28% over 12 months."
 canonical_url: "https://mrnasdog.com/research/xlm"
 content_type:  "coin_hub"
 tags:          ["crypto", "xlm", "stellar", "should-i-buy"]
 published:     true
 ---
-# Should You Buy Stellar (XLM)? Supply, Demand and Price Drivers (Oct 2026)
+# Stellar (XLM) Tokenomics: +2.78% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/xlm (checked Oct 21 2026)*
+*Originally published at https://mrnasdog.com/research/xlm (checked Nov 5 2026)*
 
-As of Oct 21 2026, Stellar scores 3.5/10 on our framework, and its supply-and-demand signal reads **negative**.
+As of Oct 31 2026, new Stellar supply runs at **+2.78%** over 90 days and **+11.28%** over 12 months.
 
-- **Signal today:** negative (Oct 21 2026)
-- **MrNasDog score:** 3.5/10 — supply 1.5/5, demand 2/5
-- **New coins:** +2.52% in 90 days · +10.08% in a year
+- **Signal today:** negative (Nov 5 2026)
+- **MrNasDog score:** 3/10 — supply 1/5, demand 2/5
+- **New coins:** +2.78% in 90 days · +11.28% in a year
 - **Demand:** weak (2/5)
 - **Drivers:** 1 ▲ price up · 0 ▼ price down
 
 ## Where new Stellar comes from
 
-Stellar mints no new XLM, but the Foundation keeps releasing its own pile: 884.2M XLM in 90 days, supply up 2.52%, with 14.67B still to come.
+Stellar mints no new XLM, yet supply grows about 2.78% every 90 days as the Stellar Development Foundation pays out its 14.48B XLM store.
 
-New XLM: +2.52% in 90 days, +10.08% in a year. Supply score 1.5/5, "heavy".
+New XLM: +2.78% in 90 days, +11.28% in a year. Supply score 1/5, "very heavy".
 
 ## Demand today
 
-Stellar demand: 2/5 (**weak**), place #65 among 110 coins — interest today plus the buying that could come later.
+Stellar demand: 2/5 (**weak**), place #64 among 109 coins — interest today plus the buying that could come later.
 
 The members-only part of XLM's demand section is not included.
 
@@ -43,15 +43,15 @@ Good for the price: More assets on Stellar. Bad for it: Assets move away. Today:
 | Date | Stablecoins | Tokenized assets |
 |---|---|---|
 | Aug 29 2026 | — | $3,996M |
-| Aug 31 2026 | $868M | — |
-| Sep 30 2026 | $941M | — |
-| Oct 12 2026 | $937M | — |
+| Aug 31 2026 | $333M | — |
+| Sep 30 2026 | $405M | — |
+| Oct 31 2026 | $331M | — |
 
-*Checked Oct 12 2026*
+*Checked Oct 31 2026*
 
 ### • ETF and upgrades
 
-No spot XLM ETF yet; Grayscale's trust holds only 117M XLM
+No spot XLM ETF yet; Bell upgrade vote on Nov 23 2026
 
 Spot ETF approved → price up · ETF stays stuck → price down.
 
@@ -62,48 +62,45 @@ Spot ETF approved → price up · ETF stays stuck → price down.
 | Apr 1 2026 | XLM futures ETF opens |
 | May 6 2026 | Protocol 26 live |
 | Sep 16 2026 | Protocol 28 vote |
+| Nov 23 2026 | Bell upgrade vote (coming) |
 | No date yet | Spot XLM ETF decision (coming) |
 
-*Checked Oct 12 2026*
+*Checked Oct 31 2026*
 
-## Stellar: buy, sell or hold — questions and answers
+## Stellar supply questions, answered
 
-### Is Stellar worth buying now?
+### Is Stellar (XLM) inflationary or deflationary?
 
-By the law of supply and demand, Stellar's long-run signal is negative (Oct 21 2026, score 3.5/10). New supply: +2.52% in the next 90 days. Demand: weak (2/5). Stellar's price drivers: 1 ▲ price up, 0 ▼ price down.
+Stellar (XLM) is inflationary right now: its supply changes +2.78% over the next 90 days and +11.28% over the next year (checked Oct 31 2026). More XLM is added than removed.
 
-### How much more XLM can still come to the market?
+### What is the XLM inflation rate in 2026?
 
-About 14.9B XLM, going by our Oct 12 2026 numbers. Total supply is 50.0B and 35.06B is circulating, so roughly 30% is not out yet. No max supply is listed, so we keep an eye on that gap. Supply and demand still read negative for Stellar in the long run.
+About +11.28% a year: that is how much Stellar (XLM) supply changes over the next 12 months, with +2.78% in the next 90 days (checked Oct 31 2026). That puts XLM #24 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Can Stellar reach $10?
+### When is the next XLM token unlock?
 
-At $10, Stellar would be worth about $351B in total — about 50 times its $6.97B market cap today (Oct 21 2026, about 19.9 cents a coin). Stellar's supply also grows +10.08% in the next year, so every extra coin needs buyers too. By supply and demand, Stellar's long-run signal is negative today.
+No dated Stellar (XLM) unlock is scheduled in the next 90 days (checked Oct 31 2026). New XLM still arrives: about 981M XLM in 90 days.
 
-### Is it time to take profit on Stellar?
+### Does Stellar burn or buy back XLM?
 
-Stellar's signal is negative for now. Stellar's signal would turn if new supply keeps arriving (+2.52% in 90 days), or demand falls from weak. The next date on Stellar's calendar: No date yet — Spot XLM ETF decision.
+Yes. In our count, about 677K XLM is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Oct 31 2026). How it works: Fees go into a pool nobody can spend: 677K XLM in 90 days. No burn, no buyback, no staking.
 
-### Is Stellar a good investment right now?
+### Where does new XLM supply come from?
 
-Stellar sits at 3.5/10 today (Oct 21 2026): supply 1.5/5, demand 2/5. One more year adds +10.08% to Stellar's supply. Long-run signal: negative.
+In our count, about 981M new XLM reaches the market over the next 90 days (checked Oct 31 2026). How it works: No new XLM is minted, but the Stellar Development Foundation paid out a net 981.18M XLM from its funds in 90 days and still holds 14.48B.
 
-### When is a good time to buy Stellar?
+### How much XLM is in circulation?
 
-By the law of supply and demand, the better time to start a position in Stellar is when its new supply is low, demand is high and its price drivers point up. Stellar today: +2.52% new supply in 90 days (heavy), demand weak (2/5), drivers 1 ▲ / 0 ▼.
+About 35.3B XLM is in circulation (checked Oct 31 2026). Over the next 90 days that changes +2.78%, and over a year +11.28%.
 
-### What could push Stellar's price up or down?
+### Does XLM have more new supply than ADA, BCH or NEAR?
 
-Right now 2 things drive Stellar's price (1 ▲, 0 ▼). ▲ Real-world money: Tokenized assets on Stellar grew about 4.6x in 2026 • ETF and upgrades: No spot XLM ETF yet; Grayscale's trust holds only 117M XLM
-
-### Should I buy Stellar or Bitcoin?
-
-Side by side on Oct 21 2026: Stellar at 3.5/10 with a negative signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Stellar is the weaker of the two.
+Over the next 90 days (checked Oct 31 2026): XLM +2.78%, ADA +0.30%, BCH +0.20%, NEAR +0.60%. XLM has the most new supply of these 4 coins.
 
 ## Read more on XLM
 
 - XLM supply, line by line: https://mrnasdog.com/research/xlm/inflation
-- Where Stellar sits among all coins: https://mrnasdog.com/coins
+- Where Stellar sits on new supply: https://mrnasdog.com/token-supply
 - Why supply and demand decide XLM's signal: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

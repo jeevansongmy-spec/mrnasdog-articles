@@ -1,20 +1,20 @@
 ---
-title:         "Is Gram a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)"
-description:   "Supply and demand give Gram a negative long-run signal today (Oct 21 2026); its score is 2/10."
+title:         "Is GRAM Inflationary? +3.57% New Supply in 90 Days"
+description:   "How much new GRAM is coming? +3.57% in the next 90 days, +13.79% in the next year — checked Nov 1 2026."
 canonical_url: "https://mrnasdog.com/research/gram"
 content_type:  "coin_hub"
 tags:          ["crypto", "gram", "gram", "should-i-buy"]
 published:     true
 ---
-# Is Gram a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)
+# Is GRAM Inflationary? +3.57% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/gram, updated Oct 21 2026*
+*From https://mrnasdog.com/research/gram, updated Nov 5 2026*
 
-Supply and demand give Gram a **negative** long-run signal today (Oct 21 2026); its score is 2/10.
+How much new GRAM is coming? **+3.57%** in the next 90 days, **+13.79%** in the next year — checked Nov 1 2026.
 
 - **Signal:** negative for Gram
-- **Score:** 2/10 — supply 0.5/5, demand 1.5/5
-- **Supply growth:** +3.54% in 90 days · +14.18% in a year
+- **Score:** 2.5/10 — supply 1/5, demand 1.5/5
+- **Supply growth:** +3.57% in 90 days · +13.79% in a year
 - **How much people want it:** very weak (1.5/5)
 - **Price drivers:** 1 ▲ price up · 0 ▼ price down
 
@@ -38,11 +38,11 @@ Good for the price: Telegram pushes Gram. Bad for it: Telegram steps back. Today
 | Oct 9 2026 | Wallet opens to all |
 | No date yet | Steps 5 to 7 (coming) |
 
-*Checked Oct 12 2026*
+*Checked Nov 1 2026*
 
 ### • TON Strategy
 
-TON Strategy holds 230M GRAM; growth comes from staking, not buying.
+TON Strategy holds 230M GRAM; top holder wants faster share buybacks.
 
 Treasury keeps adding → price up · Treasury sells → price down.
 
@@ -53,54 +53,54 @@ Treasury keeps adding → price up · Treasury sells → price down.
 | Mar 31 2026 | 222 M GRAM |
 | Jun 30 2026 | 231 M GRAM |
 
-*Checked Oct 12 2026*
+*Checked Nov 1 2026*
 
 ## Where new Gram comes from
 
-Gram, formerly Toncoin, pays a fixed reward per block on a chain that got six times faster. About 51M new GRAM a quarter, plus 48.6M released by a fund and Telegram, push supply up about 3.5% in 90 days.
+Gram (formerly Toncoin) pays validators about 572K new GRAM a day, and the Believers Fund plus Telegram's treasury release more: supply up 3.57% in 90 days.
 
-Gram adds +3.54% new supply in the next 90 days and +14.18% over a year — supply scores 0.5/5 (flooding).
+Gram adds +3.57% new supply in the next 90 days and +13.79% over a year — supply scores 1/5 (very heavy).
 
 ## Demand: how much people want GRAM
 
-Demand reads **very weak** (1.5/5), #80 of 110 coins we track — that is how much people want GRAM now and how much buying could still come.
+Demand reads **very weak** (1.5/5), #78 of 109 coins we track — that is how much people want GRAM now and how much buying could still come.
 
 (Members see more GRAM demand detail on the page; it is not repeated here.)
 
-## Gram: buy, sell or hold — questions and answers
+## Gram supply questions, answered
 
-### Is it time to buy the Gram dip?
+### Is GRAM inflationary or deflationary?
 
-By the law of supply and demand, Gram's long-run signal is negative (Oct 21 2026, score 2/10). New supply: +3.54% in the next 90 days. Demand: very weak (1.5/5). Gram's price drivers: 1 ▲ price up, 0 ▼ price down.
+GRAM is inflationary right now: its supply changes +3.57% over the next 90 days and +13.79% over the next year (checked Nov 1 2026). More GRAM is added than removed.
 
-### How much of the Gram token is actually in the market?
+### What is the GRAM inflation rate in 2026?
 
-A bit over half. About 2.83B of 5.26B GRAM was circulating on Oct 12 2026, around 54%. TON Strategy holds 230M of it and grows that pile by staking, not by buying. That leaves Gram's long-run signal at negative, by supply and demand.
+About +13.79% a year: that is how much GRAM supply changes over the next 12 months, with +3.57% in the next 90 days (checked Nov 1 2026). That puts GRAM #20 of 100 coins we track for new supply (#1 = the most new supply).
 
-### When should I sell Gram?
+### When is the next GRAM token unlock?
 
-Gram's signal is negative for now. Gram's signal would turn if new supply keeps arriving (+3.54% in 90 days), or demand falls from very weak. The next date on Gram's calendar: No date yet — Steps 5 to 7.
+No dated GRAM unlock is scheduled in the next 90 days (checked Nov 1 2026). New GRAM still arrives: about 101M GRAM in 90 days.
 
-### Is Gram a good investment in 2026?
+### Is any GRAM burned or bought back?
 
-Gram sits at 2/10 today (Oct 21 2026): supply 0.5/5, demand 1.5/5. One more year adds +14.18% to Gram's supply. Long-run signal: negative.
+Yes. In our count, about 86.8K GRAM is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 1 2026). How it works: Half of every fee is burned, but fees are tiny: about 83,000 GRAM was destroyed in 90 days, plus 3,719 GRAM sent to the zero address. Nothing buys GRAM back.
 
-### When is a good time to buy Gram?
+### Where does new GRAM supply come from?
 
-By the law of supply and demand, the better time to enter Gram is when its new supply is low, demand is high and its price drivers point up. Gram today: +3.54% new supply in 90 days (flooding), demand very weak (1.5/5), drivers 1 ▲ / 0 ▼.
+In our count, about 101M new GRAM reaches the market over the next 90 days (checked Nov 1 2026). How it works: Block rewards paid every 0.4 seconds created 51.52M new GRAM in 90 days. Believers Fund holders took out 19.57M, and Telegram's treasury sent 30M to its payout wallet.
 
-### What could push Gram's price up or down?
+### How much GRAM is in circulation?
 
-Right now 2 things drive Gram's price (1 ▲, 0 ▼). ▲ Durov's 7 steps: 4 of 7 steps done; Telegram's wallet now open to all users. • TON Strategy: TON Strategy holds 230M GRAM; growth comes from staking, not buying.
+About 2.84B GRAM is in circulation (checked Nov 1 2026). Over the next 90 days that changes +3.57%, and over a year +13.79%.
 
-### Should I buy Gram or Bitcoin?
+### Does GRAM have more new supply than SUI, HBAR or QNT?
 
-Side by side on Oct 21 2026: Gram at 2/10 with a negative signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Gram is the weaker of the two.
+Over the next 90 days (checked Nov 1 2026): GRAM +3.57%, SUI +1.16%, HBAR +1.26%, QNT 0.00%. GRAM has the most new supply of these 4 coins.
 
 ## More on Gram
 
 - Full GRAM inflation analysis (every unlock, burn and buyback): https://mrnasdog.com/research/gram/inflation
-- Every coin ranked by supply and demand, Gram included: https://mrnasdog.com/coins
+- Every coin's new supply, side by side: https://mrnasdog.com/token-supply
 - How we read Gram and every other coin: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

@@ -7,6 +7,9 @@ published:     true
 ---
 *Originally published at [mrnasdog.com/research/near/inflation](https://mrnasdog.com/research/near/inflation)*
 
+<!-- main-page -->
+The NEAR Protocol coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/near](https://mrnasdog.com/research/near). Below: supply, line by line.
+
 NEAR's supply is growing at a steady, built-in pace: up **+0.60%** in the 90 days from Aug 3 to Nov 1 2026, and on course for about **+0.60%** in the next 90 days. The network minted **8,000,441 NEAR** for stakers and its treasury while gas fees burned **76,907 NEAR**, and NEAR has no supply cap, only a yearly ceiling of 2.5%. Other trackers show **+0.41%** for the same stretch, close to our reading, so the coin page carries no warning note.
 
 ## The verdict, in one paragraph

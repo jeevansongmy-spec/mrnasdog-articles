@@ -8,7 +8,7 @@ published:     true
 ---
 # Is STABLE Inflationary? 0.00% Supply in 90 Days
 
-*From https://mrnasdog.com/research/stable, updated Nov 4 2026*
+*From https://mrnasdog.com/research/stable, updated Nov 5 2026*
 
 How much new STABLE is coming? **0.00%** in the next 90 days, **0.00%** in the next year — checked Nov 4 2026.
 
@@ -56,7 +56,7 @@ Stable adds 0.00% new supply in the next 90 days and 0.00% over a year — suppl
 
 ## Who wants Stable right now
 
-Demand reads **very low** (0.5/5), #98 of 109 coins we track — that is how much people want STABLE now and how much buying could still come.
+Demand reads **very low** (0.5/5), #99 of 109 coins we track — that is how much people want STABLE now and how much buying could still come.
 
 A deeper STABLE demand breakdown is on the page for members.
 

@@ -1,57 +1,57 @@
 ---
-title:         "Should You Buy RAY? Raydium Supply, Demand and What Moves Its Price"
-description:   "Our read on Raydium for Oct 21 2026: a positive long-run signal and a score of 8/10, from new supply, demand and what moves the price."
+title:         "Raydium (RAY) Inflation Rate: +0.23% New Supply in 90 Days"
+description:   "RAY supply grew about 0.23% in 90 days: stakers got 625K RAY from the reserve, while fees bought 4.69M RAY and kept it."
 canonical_url: "https://mrnasdog.com/research/ray"
 content_type:  "coin_hub"
 tags:          ["crypto", "ray", "raydium", "should-i-buy"]
 published:     true
 ---
-# Should You Buy RAY? Raydium Supply, Demand and What Moves Its Price
+# Raydium (RAY) Inflation Rate: +0.23% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/ray — numbers checked Oct 21 2026*
+*Source: https://mrnasdog.com/research/ray — numbers checked Nov 5 2026*
 
-Our read on Raydium for Oct 21 2026: a **positive** long-run signal and a score of 8/10, from new supply, demand and what moves the price.
+**+0.23%** in 90 days, **+0.94%** in a year: that is how fast Raydium (RAY) supply changes as of Oct 31 2026.
 
 - **Signal today:** positive — RAY, read by supply and demand
-- **MrNasDog score:** 8/10 — supply 3.5/5, demand 4.5/5
-- **New coins:** +0.19% in 90 days · +0.78% in a year
+- **MrNasDog score:** 7.5/10 — supply 3/5, demand 4.5/5
+- **New coins:** +0.23% in 90 days · +0.94% in a year
 - **Demand:** very strong (4.5/5)
-- **Drivers:** 2 ▲ price up · 0 ▼ price down
+- **Drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## Supply: how much new RAY is coming
 
-RAY can't be minted; staking rewards added 525K RAY while the fee buyback kept the 4.51M it bought: net +0.19%.
+RAY supply grew about 0.23% in 90 days: stakers got 625K RAY from the reserve, while fees bought 4.69M RAY and kept it.
 
-Expect +0.19% more RAY in 90 days (+0.78% over the year). On supply alone Raydium gets 3.5/5 — steady.
+Expect +0.23% more RAY in 90 days (+0.94% over the year). On supply alone Raydium gets 3/5 — light.
 
 ## Who wants Raydium right now
 
-How much do people want RAY? **very strong** — 4.5 out of 5, #5 of 110.
+How much do people want RAY? **very strong** — 4.5 out of 5, #6 of 109.
 
 (Members see more RAY demand detail on the page; it is not repeated here.)
 
 ## Price drivers: what can move RAY
 
-Raydium has 2 price drivers. Right now: 2 up, 0 down.
+Raydium has 2 price drivers. Right now: 1 up, 1 down.
 
-### ▲ Solana DEX share
+### ▼ Solana DEX share
 
-Share fell from about 50% to 6%, doubled by Sep 30 2026.
+Share fell from about 50% in 2024 to near 9% in October.
 
-More trades on Raydium → price up · Rivals take the trades → price down. Now: ▲ up side.
+More trades on Raydium → price up · Rivals take the trades → price down. Now: ▼ down side.
 
 | Date | Raydium | PumpSwap |
 |---|---|---|
 | Jul 31 2026 | 4.3% | 32.2% |
 | Aug 31 2026 | 5.8% | 30.6% |
 | Sep 30 2026 | 12.2% | 18.6% |
-| Oct 10 2026 | 9.7% | 16.3% |
+| Oct 31 2026 | 8.8% | 14.9% |
 
-*Checked Oct 11 2026*
+*Checked Oct 31 2026*
 
 ### ▲ Stock token trades
 
-Stock-token trades on Raydium grew from zero to $5B total.
+Raydium handled about half of Solana's stock-token trades in Q3.
 
 Good for the price: More stock trading here. Bad for it: Stock trading moves away. Today: the price-up case.
 
@@ -62,46 +62,42 @@ Good for the price: More stock trading here. Bad for it: Stock trading moves awa
 | Aug 19 2026 | $4B |
 | Sep 18 2026 | $5B |
 
-*Checked Oct 11 2026*
+*Checked Oct 31 2026*
 
-## Raydium: buy, sell or hold — questions and answers
+## Raydium supply questions, answered
 
-### Is it a good time to buy Raydium today?
+### Is Raydium (RAY) inflationary or deflationary?
 
-Based on the law of supply and demand, the long-run signal for Raydium is positive. As of Oct 21 2026, score 8/10, Raydium faces +0.19% new supply over 90 days, with demand very strong (4.5/5). Raydium's price drivers: 2 ▲ price up, 0 ▼ price down.
+As of Oct 31 2026, Raydium (RAY) supply moves +0.23% in 90 days and +0.94% in a year, so RAY is inflationary. New RAY outweighs what is burned or bought back.
 
-### Raydium or Hyperliquid: does the smaller coin look better?
+### What is the RAY inflation rate in 2026?
 
-8 against 8.5: Hyperliquid edges ahead on our framework (Oct 11 2026). Both show demand at 4.5/5 and little new supply. The big difference is size, with Raydium worth about $623M in total and Hyperliquid about $19.0B. That leaves Raydium's long-run signal at positive, by supply and demand.
+Raydium (RAY) supply grows +0.94% over the next 12 months and +0.23% over the next 90 days (checked Oct 31 2026). That puts RAY #65 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Is $100 possible for Raydium?
+### When is the next RAY token unlock?
 
-It would take 43 times today's value: $100 × Raydium's coins in the market = about $27B, against $623M now (Oct 21 2026). Raydium's supply also grows +0.78% in the next year, so every extra coin needs buyers too. That leaves Raydium's long-run signal at positive, by supply and demand.
+No dated Raydium (RAY) unlock is scheduled in the next 90 days (checked Oct 31 2026). New RAY still arrives: about 625K RAY in 90 days.
 
-### Should I sell Raydium or hold?
+### Does Raydium burn or buy back RAY?
 
-Today the signal is positive. Supply and demand would point the other way for Raydium if new supply jumps (today +0.19% in 90 days), or demand falls from very strong.
+Not in a way that removes RAY today: nothing takes RAY off the market over the next 90 days (checked Oct 31 2026). Fees bought about 4.69M RAY in 90 days, 7.5 times the new rewards, but the coins are kept in a wallet that already counts as circulating, so supply does not shrink.
 
-### Is Raydium worth investing in for the long term?
+### Where does new RAY supply come from?
 
-On our framework Raydium scores 8/10 (Oct 21 2026), with supply 3.5/5 (steady) and demand 4.5/5. In the next year Raydium's supply changes +0.78%, so the long-run signal reads positive.
+In our count, about 625K new RAY reaches the market over the next 90 days (checked Oct 31 2026). How it works: Staking rewards are the only new RAY: 625K in 90 days, paid from a reserve made at launch. Nothing vests, and the five launch wallets did not move a coin.
 
-### What is the best time to invest in Raydium?
+### How much RAY is in circulation?
 
-The law of supply and demand points to one window for Raydium: low new supply, high demand, drivers pointing up. Where Raydium stands today: +0.19% new supply in 90 days (steady), demand very strong (4.5/5), drivers 2 ▲ / 0 ▼.
+Raydium (RAY) has about 270M coins in circulation as of Oct 31 2026; the next 90 days change that by +0.23% (+0.94% over a year).
 
-### Will Raydium go up? What could move its price?
+### Does RAY have more new supply than AERO, FET or VIRTUAL?
 
-Raydium has 2 price drivers today (2 ▲ price up, 0 ▼ price down). ▲ Solana DEX share: Share fell from about 50% to 6%, doubled by Sep 30 2026. ▲ Stock token trades: Stock-token trades on Raydium grew from zero to $5B total.
-
-### Is Raydium a better investment than Bitcoin?
-
-Raydium reads positive at 8/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, Raydium looks weaker than Bitcoin today.
+Over the next 90 days (checked Oct 31 2026): RAY +0.23%, AERO +8.50%, FET +6.01%, VIRTUAL +0.04%. RAY sits in the middle of these 4 coins.
 
 ## Go deeper on Raydium
 
 - The long read on Raydium supply: https://mrnasdog.com/research/ray/inflation
-- Which crypto to buy now — RAY next to every coin we rank: https://mrnasdog.com/coins
+- All crypto inflation rates, RAY included: https://mrnasdog.com/token-supply
 - About the Raydium score: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

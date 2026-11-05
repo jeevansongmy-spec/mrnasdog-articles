@@ -1,16 +1,16 @@
 ---
-title:         "OKB: Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)"
-description:   "Is OKB worth buying today? By the law of supply and demand, the long-run signal for OKB is positive (score 7.5/10, checked Oct 21 2026)."
+title:         "OKB Inflation Rate: 0.00% Supply in 90 Days"
+description:   "As of Oct 31 2026, OKB supply moves 0.00% in 90 days and 0.00% in a year, so OKB is about flat. What is created and what is removed roughly match."
 canonical_url: "https://mrnasdog.com/research/okb"
 content_type:  "coin_hub"
 tags:          ["crypto", "okb", "okb", "should-i-buy"]
 published:     true
 ---
-# OKB: Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)
+# OKB Inflation Rate: 0.00% Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/okb — numbers checked Oct 21 2026*
+*Source: https://mrnasdog.com/research/okb — numbers checked Nov 5 2026*
 
-Is OKB worth buying today? By the law of supply and demand, the long-run signal for OKB is **positive** (score 7.5/10, checked Oct 21 2026).
+**0.00%** in 90 days, **0.00%** in a year: that is how fast OKB supply changes as of Oct 31 2026.
 
 - **Signal today:** positive — OKB, read by supply and demand
 - **MrNasDog score:** 7.5/10 — supply 4.5/5, demand 3/5
@@ -18,45 +18,45 @@ Is OKB worth buying today? By the law of supply and demand, the long-run signal 
 - **Demand:** moderate (3/5)
 - **Drivers:** 2 ▲ price up · 0 ▼ price down
 
-## Questions people ask about OKB
+## Is OKB inflationary? Questions about OKB supply
 
-### Should I buy OKB now, or wait?
+### Is OKB inflationary or deflationary?
 
-Based on the law of supply and demand, the long-run signal for OKB is positive. As of Oct 21 2026, score 7.5/10, OKB faces 0.00% new supply over 90 days, with demand moderate (3/5). OKB's price drivers: 2 ▲ price up, 0 ▼ price down.
+As of Oct 31 2026, OKB supply moves 0.00% in 90 days and 0.00% in a year, so OKB is about flat. What is created and what is removed roughly match.
 
-### Is owning OKB the same as owning a piece of OKX?
+### What is the OKB inflation rate in 2026?
 
-Not quite. OKB is the coin of the OKX exchange, not a share in the company, and OKX alone sets OKB's rules. What OKB does have is a fixed 21M supply, 0.00% new coins in 90 days, and X Layer value that rose from $5.7M to $160M since Jul 2025. Our supply-and-demand read for OKB stays positive.
+OKB supply grows 0.00% over the next 12 months and 0.00% over the next 90 days (checked Oct 31 2026). That puts OKB #86 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Should I sell OKB or hold?
+### When is the next OKB token unlock?
 
-Today the signal is positive. Supply and demand would point the other way for OKB if new supply jumps (today 0.00% in 90 days), or demand falls from moderate.
+No dated OKB unlock is scheduled in the next 90 days (checked Oct 31 2026).
 
-### Is OKB worth investing in for the long term?
+### Is any OKB burned or bought back?
 
-On our framework OKB scores 7.5/10 (Oct 21 2026), with supply 4.5/5 (flat) and demand 3/5. In the next year OKB's supply changes 0.00%, so the long-run signal reads positive.
+Not in a way that removes OKB today: nothing takes OKB off the market over the next 90 days (checked Oct 31 2026). No buyback since the 65.26M burn of Aug 2025 and no gas burn: X Layer keeps its fees (~1,207 OKB in 90 days).
 
-### What is the best time to invest in OKB?
+### Where does new OKB supply come from?
 
-The law of supply and demand points to one window for OKB: low new supply, high demand, drivers pointing up. Where OKB stands today: 0.00% new supply in 90 days (flat), demand moderate (3/5), drivers 2 ▲ / 0 ▼.
+Almost no new OKB reaches the market over the next 90 days (checked Oct 31 2026). No new OKB: no block reward, no vesting, nothing moved over from Ethereum; OKX wallets (~19.41M, almost all customers') already circulate.
 
-### Will OKB go up? What could move its price?
+### How much OKB is in circulation?
 
-OKB has 2 price drivers today (2 ▲ price up, 0 ▼ price down). ▲ X Layer use: X Layer locked value rose from $5.7M to $160M since Jul 2025. ▲ OKX decisions: Big finance firms keep buying into OKX; OKX alone sets OKB rules.
+OKB has about 21M coins in circulation as of Oct 31 2026; the next 90 days change that by 0.00% (0.00% over a year).
 
-### Is OKB a better investment than Bitcoin?
+### Does OKB have more new supply than CRO, ENA or PEPE?
 
-OKB reads positive at 7.5/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, OKB looks weaker than Bitcoin today.
+Over the next 90 days (checked Oct 31 2026): OKB 0.00%, CRO +7.19%, ENA +2.10%, PEPE 0.00%. OKB sits in the middle of these 4 coins.
 
 ## OKB supply
 
-OKB is the gas coin of OKX's X Layer. Supply sits at 21M since the Aug 2025 reset; nothing minted or burned in 90 days.
+OKB pays the gas on OKX's X Layer. The total has stayed at 21M since the Aug 2025 burn: nothing was made, unlocked or burned in 90 days.
 
-Expect 0.00% more OKB in 90 days (0.00% over the year). On supply alone OKB gets 4.5/5 — flat, #88 of 101 for new supply.
+Expect 0.00% more OKB in 90 days (0.00% over the year). On supply alone OKB gets 4.5/5 — flat, #86 of 100 for new supply.
 
 ## Demand today
 
-How much do people want OKB? **moderate** — 3 out of 5, #32 of 110.
+How much do people want OKB? **moderate** — 3 out of 5, #34 of 109.
 
 A deeper OKB demand breakdown is on the page for members.
 
@@ -66,7 +66,7 @@ OKB has 2 price drivers. Right now: 2 up, 0 down.
 
 ### ▲ X Layer use
 
-X Layer locked value rose from $5.7M to $160M since Jul 2025.
+X Layer locked value is up about 28x since Jul 2025.
 
 More use of X Layer → price up · X Layer use fades → price down. Today: the price-up case.
 
@@ -75,13 +75,13 @@ More use of X Layer → price up · X Layer use fades → price down. Today: the
 | Jul 31 2026 | $111M |
 | Aug 31 2026 | $132M |
 | Sep 30 2026 | $173M |
-| Oct 11 2026 | $159M |
+| Oct 31 2026 | $159M |
 
-*Checked Oct 11 2026*
+*Checked Oct 31 2026*
 
 ### ▲ OKX decisions
 
-Big finance firms keep buying into OKX; OKX alone sets OKB rules.
+About half of OKXICE's stock targets now object; venue not live yet.
 
 Good for the price: OKX ties more to OKB. Bad for it: OKX cuts OKB's role. Right now it points up.
 
@@ -91,13 +91,15 @@ Good for the price: OKX ties more to OKB. Bad for it: OKX cuts OKB's role. Right
 | Mar 3 2026 | ICE invests $200M |
 | Oct 4 2026 | OKX-ICE stock venture |
 | Oct 7 2026 | Circle, Ripple invest |
+| Oct 19 2026 | 16 firms object: OKXICE |
+| Oct 28 2026 | ~30 of 62 firms object |
 
-*Checked Oct 11 2026*
+*Checked Oct 31 2026*
 
 ## More on OKB
 
 - The long read on OKB supply: https://mrnasdog.com/research/okb/inflation
-- Which crypto to buy now — OKB next to every coin we rank: https://mrnasdog.com/coins
+- All crypto inflation rates, OKB included: https://mrnasdog.com/token-supply
 - About the OKB score: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

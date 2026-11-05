@@ -1,32 +1,32 @@
 ---
-title:         "Arbitrum (ARB) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Supply and demand give Arbitrum (ARB) a mixed long-run signal today (Oct 21 2026); its score is 4.5/10."
+title:         "Arbitrum (ARB) Tokenomics: +6.11% New Supply in 90 Days"
+description:   "As of Nov 3 2026, new Arbitrum supply runs at +6.11% over 90 days and +9.35% over 12 months."
 canonical_url: "https://mrnasdog.com/research/arb"
 content_type:  "coin_hub"
 tags:          ["crypto", "arb", "arbitrum", "should-i-buy"]
 published:     true
 ---
-# Arbitrum (ARB) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
+# Arbitrum (ARB) Tokenomics: +6.11% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/arb (checked Oct 21 2026)*
+*Originally published at https://mrnasdog.com/research/arb (checked Nov 5 2026)*
 
-Supply and demand give Arbitrum (ARB) a **mixed** long-run signal today (Oct 21 2026); its score is 4.5/10.
+As of Nov 3 2026, new Arbitrum supply runs at **+6.11%** over 90 days and **+9.35%** over 12 months.
 
-- **Signal:** mixed (Oct 21 2026)
+- **Signal:** mixed (Nov 5 2026)
 - **Score:** 4.5/10 — supply 0.5/5, demand 4/5
-- **Supply growth:** +4.73% in 90 days · +9.60% in a year
+- **Supply growth:** +6.11% in 90 days · +9.35% in a year
 - **How much people want it:** strong (4/5)
 - **Price drivers:** 1 ▲ price up · 0 ▼ price down
 
 ## New ARB hitting the market
 
-ARB has no emission and no burn: supply grows only as team, investor and Foundation coins unlock, about +4.73% in the next 90 days.
+ARB has no emission and no burn: monthly team and investor unlocks, Foundation vesting and a 100M ARB DAO grant on a vote push supply up about +6.11% in the next 90 days.
 
-New ARB: +4.73% in 90 days, +9.60% in a year. Supply score 0.5/5, "flooding".
+New ARB: +6.11% in 90 days, +9.35% in a year. Supply score 0.5/5, "flooding".
 
 ## ARB demand
 
-Arbitrum demand: 4/5 (**strong**), place #9 among 110 coins — interest today plus the buying that could come later.
+Arbitrum demand: 4/5 (**strong**), place #9 among 109 coins — interest today plus the buying that could come later.
 
 Members get the rest of the Arbitrum demand read on mrnasdog.com.
 
@@ -42,16 +42,16 @@ Robinhood Chain grows → price up · Robinhood Chain fades → price down. Toda
 
 | Date | Robinhood Chain TVL |
 |---|---|
-| Jul 31 2026 | $0.358B |
 | Aug 31 2026 | $0.714B |
 | Sep 30 2026 | $1.01B |
-| Oct 21 2026 | $1.14B |
+| Oct 31 2026 | $1.09B |
+| Nov 5 2026 | $1.09B |
 
-*Checked Oct 14 2026*
+*Checked Nov 3 2026*
 
 ### • DAO's USDG bet
 
-DAO votes by Nov 12 2026 on 100M ARB for USDG.
+Onchain vote on 100M ARB for USDG ends Nov 13.
 
 ▲ Price up if: USDG grows Arbitrum. ▼ Price down if: 100M ARB gets sold.
 
@@ -61,54 +61,47 @@ DAO votes by Nov 12 2026 on 100M ARB for USDG.
 | Oct 2 2026 | Stylus paused (safety) |
 | Oct 6 2026 | USDG plan: +100M ARB |
 | Oct 7 2026 | USDG live on Arbitrum |
-| Oct 15 2026 | Snapshot vote opens (coming) |
-| Oct 29 2026 | Onchain vote opens (coming) |
-| Nov 12 2026 | Onchain vote ends (coming) |
+| Oct 22 2026 | Snapshot vote passes |
+| Oct 29 2026 | Onchain vote opens |
+| Oct 30 2026 | Hack ARB frozen (74.6M) |
+| Nov 13 2026 | Onchain vote ends (coming) |
 
-*Checked Oct 14 2026*
+*Checked Nov 3 2026*
 
-## Should you buy Arbitrum? The questions, answered
+## Questions about ARB supply
 
-### Should I buy Arbitrum now, or wait?
+### Is Arbitrum (ARB) inflationary or deflationary?
 
-Based on the law of supply and demand, the long-run signal for Arbitrum is mixed. As of Oct 21 2026, score 4.5/10, Arbitrum faces +4.73% new supply over 90 days, with demand strong (4/5). Arbitrum's price drivers: 1 ▲ price up, 0 ▼ price down.
+Arbitrum (ARB) is inflationary right now: its supply changes +6.11% over the next 90 days and +9.35% over the next year (checked Nov 3 2026). More ARB is added than removed.
 
-### What's in the Arbitrum news right now?
+### What is the ARB inflation rate in 2026?
 
-A vote. The Snapshot vote opens Oct 15 2026, and the DAO decides by Nov 12 2026 on putting 100M ARB toward USDG. Robinhood Chain, built on Arbitrum, also went from zero to about $1B since Jul 1 2026. Our supply-and-demand read for Arbitrum stays mixed.
+About +9.35% a year: that is how much Arbitrum (ARB) supply changes over the next 12 months, with +6.11% in the next 90 days (checked Nov 3 2026). That puts ARB #13 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Is Arbitrum dead?
+### When is the next ARB token unlock?
 
-Far from it. Demand reads strong (4/5) and Robinhood Chain grew to about $1B since Jul 1 2026. The real drag is supply: about 4.73% new ARB arrives in the next 90 days, and that likely holds the price back. Supply and demand still read mixed for Arbitrum in the long run.
+The next Arbitrum (ARB) unlock we track is on Nov 16 2026: about 92.7M ARB, 1.34% of the ARB in circulation (Monthly team + investor unlock). Checked Nov 3 2026.
 
-### Is $10 possible for Arbitrum?
+### Does Arbitrum burn or buy back ARB?
 
-It would take 54 times today's value: $10 × Arbitrum's coins in the market = about $67.9B, against $1.25B now (Oct 21 2026). Arbitrum's supply also grows +9.60% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Arbitrum stays mixed.
+Not in a way that removes ARB today: nothing takes ARB off the market over the next 90 days (checked Nov 3 2026). Nothing takes ARB off the market: Arbitrum's fees are paid in ETH, so there is no burn, no buyback and no staking lock.
 
-### Is it time to take profit on Arbitrum?
+### Where does new ARB supply come from?
 
-Today the signal is mixed. Supply and demand would point the other way for Arbitrum if new supply keeps arriving (+4.73% in 90 days), or demand falls from strong. Next date to watch for Arbitrum: Oct 15 2026 — Snapshot vote opens.
+In our count, about 421M new ARB reaches the market over the next 90 days (checked Nov 3 2026). How it works: No ARB is minted. Team and investor unlocks add about 92.65M ARB a month until Mar 16 2027, the Foundation's vesting adds about 43.09M per 90 days, and a DAO vote ending Nov 12 2026 would send 100M ARB to USDG rewards.
 
-### Is Arbitrum a good investment right now?
+### How much ARB is in circulation?
 
-On our framework Arbitrum scores 4.5/10 (Oct 21 2026), with supply 0.5/5 (flooding) and demand 4/5. In the next year Arbitrum's supply changes +9.60%, so the long-run signal reads mixed.
+About 6.89B ARB is in circulation (checked Nov 3 2026). Over the next 90 days that changes +6.11%, and over a year +9.35%.
 
-### What is the best time to invest in Arbitrum?
+### Does ARB have more new supply than VVV, KCS or GT?
 
-The law of supply and demand points to one window for Arbitrum: low new supply, high demand, drivers pointing up. Where Arbitrum stands today: +4.73% new supply in 90 days (flooding), demand strong (4/5), drivers 1 ▲ / 0 ▼.
-
-### Will Arbitrum go up? What could move its price?
-
-Arbitrum has 2 price drivers today (1 ▲ price up, 0 ▼ price down). ▲ Robinhood Chain: Robinhood Chain went from zero to about $1B since Jul 1 2026. • DAO's USDG bet: DAO votes by Nov 12 2026 on 100M ARB for USDG.
-
-### Should I buy Arbitrum or Bitcoin?
-
-Arbitrum reads mixed at 4.5/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, Arbitrum looks weaker than Bitcoin today.
+Over the next 90 days (checked Nov 3 2026): ARB +6.11%, VVV +3.39%, KCS 0.00%, GT −2.15%. ARB has the most new supply of these 4 coins.
 
 ## Next steps for ARB
 
 - ARB supply, line by line: https://mrnasdog.com/research/arb/inflation
-- Where Arbitrum sits among all coins: https://mrnasdog.com/coins
+- Where Arbitrum sits on new supply: https://mrnasdog.com/token-supply
 - Why supply and demand decide ARB's signal: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

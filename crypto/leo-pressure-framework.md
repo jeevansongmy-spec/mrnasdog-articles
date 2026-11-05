@@ -8,7 +8,7 @@ published:     true
 *Originally published at [https://mrnasdog.com/research/leo/inflation](https://mrnasdog.com/research/leo/inflation)*
 
 <!-- main-page -->
-➜ Start with the UNUS SED LEO coin page for the short answer and its price drivers: [mrnasdog.com/research/leo](https://mrnasdog.com/research/leo)
+**Main page:** the full LEO coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/leo](https://mrnasdog.com/research/leo)
 
 # LEO Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 

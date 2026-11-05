@@ -1,70 +1,62 @@
 ---
-title:         "Should You Buy TAO? Bittensor Supply, Demand and What Moves Its Price"
-description:   "Is Bittensor worth buying today? By the law of supply and demand, the long-run signal for TAO is mixed (score 6/10, checked Oct 21 2026)."
+title:         "Bittensor (TAO) Inflation Rate: +2.71% New Supply in 90 Days"
+description:   "As of Nov 1 2026, Bittensor (TAO) supply moves +2.71% in 90 days and +10.98% in a year, so TAO is inflationary. New TAO outweighs what is burned or bought back."
 canonical_url: "https://mrnasdog.com/research/tao"
 content_type:  "coin_hub"
 tags:          ["crypto", "tao", "bittensor", "should-i-buy"]
 published:     true
 ---
-# Should You Buy TAO? Bittensor Supply, Demand and What Moves Its Price
+# Bittensor (TAO) Inflation Rate: +2.71% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/tao — numbers checked Oct 21 2026*
+*Source: https://mrnasdog.com/research/tao — numbers checked Nov 5 2026*
 
-Is Bittensor worth buying today? By the law of supply and demand, the long-run signal for TAO is **mixed** (score 6/10, checked Oct 21 2026).
+**+2.71%** in 90 days, **+10.98%** in a year: that is how fast Bittensor (TAO) supply changes as of Nov 1 2026.
 
 - **Long-run signal:** mixed — TAO, read by supply and demand
 - **Score:** 6/10 — supply 1/5, demand 5/5
-- **New supply:** +2.79% in 90 days · +11.30% in a year
+- **New supply:** +2.71% in 90 days · +10.98% in a year
 - **Demand:** exceptional (5/5)
 - **Price drivers:** 1 ▲ price up · 0 ▼ price down
 
-## Should you buy TAO? Questions about Bittensor
+## Bittensor (TAO) supply: questions people ask
 
-### Should I buy Bittensor now, or wait?
+### Is Bittensor (TAO) inflationary or deflationary?
 
-By the law of supply and demand, Bittensor's long-run signal is mixed (Oct 21 2026, score 6/10). New supply: +2.79% in the next 90 days. Demand: exceptional (5/5). Bittensor's price drivers: 1 ▲ price up, 0 ▼ price down.
+As of Nov 1 2026, Bittensor (TAO) supply moves +2.71% in 90 days and +10.98% in a year, so TAO is inflationary. New TAO outweighs what is burned or bought back.
 
-### Is Bittensor the next Bitcoin?
+### What is the TAO inflation rate in 2026?
 
-Probably not yet, though the design looks alike. Like Bitcoin, Bittensor stops at 21 million coins, but only about 11.3 million were out on Oct 13 2026, and supply grows about 11.3% in the next year. At a $3.14B market cap, it is still small next to Bitcoin. Our supply-and-demand read for Bittensor stays mixed.
+Bittensor (TAO) supply grows +10.98% over the next 12 months and +2.71% over the next 90 days (checked Nov 1 2026). That puts TAO #25 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Is Bittensor dead, or are big holders still buying?
+### When is the next TAO token unlock?
 
-Bittensor looks far from dead. Demand scores 5/5 on our framework (Oct 13 2026), and Grayscale's TAO pile is the one growing fastest, while treasury firms barely add now. Grayscale's TAO ETF still waits, with no SEC date yet. Our supply-and-demand read for Bittensor stays mixed.
+No dated Bittensor (TAO) unlock is scheduled in the next 90 days (checked Nov 1 2026). New TAO still arrives: about 324K TAO in 90 days.
 
-### Can Bittensor reach $10,000?
+### Does Bittensor burn or buy back TAO?
 
-At $10,000, Bittensor would be worth about $113B in total — about 36 times its $3.12B market cap today (Oct 21 2026, about $275 a coin). Bittensor's supply also grows +11.30% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Bittensor stays mixed.
+Yes. In our count, about 7.53K TAO is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 1 2026). How it works: No buyback. Fees and subnet registration costs removed 8,136 TAO from supply, about 2% of block pay; fees were halved on Sep 18 2026, so about 7,528 TAO is expected next.
 
-### Should I sell Bittensor or hold?
+### Where does new TAO supply come from?
 
-Bittensor's signal is mixed for now. Bittensor's signal would turn if new supply keeps arriving (+2.79% in 90 days), or demand falls from exceptional. The next date on Bittensor's calendar: No date yet — SEC lets ETF list.
+In our count, about 324K new TAO reaches the market over the next 90 days (checked Nov 1 2026). How it works: Block pay made 323,705 new TAO in 90 days, 0.5 TAO every block, and a one-time upgrade minted 172,001 TAO for root stakers on Sep 15 2026. Nothing vests: TAO had no team or investor share.
 
-### Is Bittensor worth investing in for the long term?
+### How much TAO is in circulation?
 
-Bittensor sits at 6/10 today (Oct 21 2026): supply 1/5, demand 5/5. One more year adds +11.30% to Bittensor's supply. Long-run signal: mixed.
+Bittensor (TAO) has about 11.7M coins in circulation as of Nov 1 2026; the next 90 days change that by +2.71% (+10.98% over a year).
 
-### When is a good time to buy Bittensor?
+### Does TAO have more new supply than SHIB, CRO or OKB?
 
-By the law of supply and demand, the better time to add Bittensor is when its new supply is low, demand is high and its price drivers point up. Bittensor today: +2.79% new supply in 90 days (very heavy), demand exceptional (5/5), drivers 1 ▲ / 0 ▼.
-
-### What could push Bittensor's price up or down?
-
-Right now 2 things drive Bittensor's price (1 ▲, 0 ▼). ▲ Big TAO holders: Grayscale's TAO pile grows fastest; treasury firms barely add now. • ETF approval: Grayscale's TAO ETF still waits; no SEC date yet.
-
-### Is Bittensor a better investment than Bitcoin?
-
-Side by side on Oct 21 2026: Bittensor at 6/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Bittensor is the weaker of the two.
+Over the next 90 days (checked Nov 1 2026): TAO +2.71%, SHIB 0.00%, CRO +7.19%, OKB 0.00%. TAO sits in the middle of these 4 coins.
 
 ## Supply: how much new TAO is coming
 
-Bittensor pays 0.5 new TAO every block toward a 21M cap. With a one-time 172K mint, supply grew 4.31% in 90 days; about 2.79% is projected next.
+Bittensor's supply grew 4.17% in 90 days: 0.5 new TAO every block plus a one-time 172,001 TAO top-up for root stakers. With that fix done, about 2.71% is expected next, under a 21M cap.
 
-Expect +2.79% more TAO in 90 days (+11.30% over the year). On supply alone Bittensor gets 1/5 — very heavy, #25 of 101 for new supply.
+Expect +2.71% more TAO in 90 days (+10.98% over the year). On supply alone Bittensor gets 1/5 — very heavy, #25 of 100 for new supply.
 
 ## Demand: how much people want TAO
 
-How much do people want TAO? **exceptional** — 5 out of 5, #1 of 110.
+How much do people want TAO? **exceptional** — 5 out of 5, #1 of 109.
 
 (Members see more TAO demand detail on the page; it is not repeated here.)
 
@@ -85,11 +77,11 @@ More big holders → price up · Holders sell → price down. Now: ▲ up side.
 | Sep 25 2026 | — | — | 63.2 K TAO |
 | Oct 9 2026 | 61.3 K TAO | — | — |
 
-*Checked Oct 13 2026*
+*Checked Nov 1 2026*
 
 ### • ETF approval
 
-Grayscale's TAO ETF still waits; no SEC date yet.
+Grayscale updated its ETF filing Oct 23; SEC date still open.
 
 Good for the price: ETF approved. Bad for it: ETF blocked.
 
@@ -99,14 +91,15 @@ Good for the price: ETF approved. Bad for it: ETF blocked.
 | Dec 30 2025 | Grayscale ETF filing |
 | Apr 2 2026 | ETF filing updated |
 | Sep 30 2026 | Coinbase custody added |
+| Oct 23 2026 | ETF filing updated again |
 | No date yet | SEC lets ETF list (coming) |
 
-*Checked Oct 13 2026*
+*Checked Nov 1 2026*
 
 ## Where to read the rest of TAO
 
 - The long read on Bittensor supply: https://mrnasdog.com/research/tao/inflation
-- Which crypto to buy now — TAO next to every coin we rank: https://mrnasdog.com/coins
+- All crypto inflation rates, TAO included: https://mrnasdog.com/token-supply
 - About the Bittensor score: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

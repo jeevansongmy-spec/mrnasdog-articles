@@ -1,32 +1,32 @@
 ---
-title:         "NEAR Protocol (NEAR): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)"
-description:   "Supply and demand give NEAR Protocol (NEAR) a mixed long-run signal today (Oct 21 2026); its score is 6.5/10."
+title:         "NEAR Protocol (NEAR) Inflation Rate: +0.60% New Supply in 90 Days"
+description:   "NEAR mints new coins every epoch for stakers and its treasury, about 8.00M in 90 days, while the gas burn takes back only 76.9K. Supply grows about 0.60% per 90 days."
 canonical_url: "https://mrnasdog.com/research/near"
 content_type:  "coin_hub"
 tags:          ["crypto", "near", "nearprotocol", "should-i-buy"]
 published:     true
 ---
-# NEAR Protocol (NEAR): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)
+# NEAR Protocol (NEAR) Inflation Rate: +0.60% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/near — numbers checked Oct 21 2026*
+*Source: https://mrnasdog.com/research/near — numbers checked Nov 5 2026*
 
-Supply and demand give NEAR Protocol (NEAR) a **mixed** long-run signal today (Oct 21 2026); its score is 6.5/10.
+**+0.60%** in 90 days, **+2.45%** in a year: that is how fast NEAR Protocol (NEAR) supply changes as of Nov 1 2026.
 
 - **Long-run signal:** mixed — NEAR, read by supply and demand
-- **Score:** 6.5/10 — supply 2.5/5, demand 4/5
-- **New supply:** +0.61% in 90 days · +2.47% in a year
-- **Demand:** strong (4/5)
+- **Score:** 6/10 — supply 2.5/5, demand 3.5/5
+- **New supply:** +0.60% in 90 days · +2.45% in a year
+- **Demand:** strong (3.5/5)
 - **Price drivers:** 2 ▲ price up · 0 ▼ price down
 
 ## Supply — new NEAR in the next 90 days
 
-NEAR pays stakers 2.5% a year in new coins, 8.01M in 90 days, and the gas burn takes back only 72,580. The Intents buyback keeps what it buys. Supply grew 0.61% in 90 days; about the same next.
+NEAR mints new coins every epoch for stakers and its treasury, about 8.00M in 90 days, while the gas burn takes back only 76.9K. Supply grows about 0.60% per 90 days.
 
-Expect +0.61% more NEAR in 90 days (+2.47% over the year). On supply alone NEAR Protocol gets 2.5/5 — moderate, #57 of 101 for new supply.
+Expect +0.60% more NEAR in 90 days (+2.45% over the year). On supply alone NEAR Protocol gets 2.5/5 — moderate, #56 of 100 for new supply.
 
 ## Who wants NEAR Protocol right now
 
-How much do people want NEAR? **strong** — 4 out of 5, #9 of 110.
+How much do people want NEAR? **strong** — 3.5 out of 5, #20 of 109.
 
 (Members see more NEAR demand detail on the page; it is not repeated here.)
 
@@ -36,20 +36,20 @@ NEAR Protocol has 2 price drivers. Right now: 2 up, 0 down.
 
 ### ▲ NEAR Intents
 
-Intents swaps hit a record $4.8B in Sep 2026
+Intents swaps hit $4.0B, just below the $4.8B record.
 
 ▲ Price up if: More swaps via NEAR. ▼ Price down if: Swap volume fades. Right now it points up.
 
 | Period | Value |
 |---|---|
-| Apr 2026 | $1.9B |
 | May 2026 | $2B |
 | Jun 2026 | $2.35B |
 | Jul 2026 | $2.21B |
 | Aug 2026 | $2.78B |
 | Sep 2026 | $4.8B |
+| Oct 2026 | $3.99B |
 
-*Checked Oct 12 2026*
+*Checked Nov 1 2026*
 
 ### ▲ NEAR ETFs
 
@@ -65,50 +65,42 @@ ETFs draw buyers → price up · ETF demand flops → price down. Now: ▲ up si
 | Sep 29 2026 | NRR ETF starts trading |
 | No date yet | Grayscale ETF decision (coming) |
 
-*Checked Oct 12 2026*
+*Checked Nov 1 2026*
 
-## Should you buy NEAR Protocol? The questions, answered
+## Questions about NEAR supply
 
-### Should I enter NEAR Protocol right now?
+### Is NEAR Protocol (NEAR) inflationary or deflationary?
 
-By the law of supply and demand, NEAR Protocol's long-run signal is mixed (Oct 21 2026, score 6.5/10). New supply: +0.61% in the next 90 days. Demand: strong (4/5). NEAR Protocol's price drivers: 2 ▲ price up, 0 ▼ price down.
+As of Nov 1 2026, NEAR Protocol (NEAR) supply moves +0.60% in 90 days and +2.45% in a year, so NEAR is inflationary. New NEAR outweighs what is burned or bought back.
 
-### Why has NEAR Protocol been going up?
+### What is the NEAR inflation rate in 2026?
 
-Two things likely helped. Swaps through NEAR Intents hit a record $4.8B in Sep 2026, and the first US spot NEAR ETF began trading on Sep 29 2026. Both bring real use and new buyers to a coin worth about $7.36B on Oct 12 2026. That leaves NEAR Protocol's long-run signal at mixed, by supply and demand.
+NEAR Protocol (NEAR) supply grows +2.45% over the next 12 months and +0.60% over the next 90 days (checked Nov 1 2026). That puts NEAR #56 of 100 coins we track for new supply (#1 = the most new supply).
 
-### NEAR vs Sui: which one has less new supply to come?
+### When is the next NEAR token unlock?
 
-Sui has more waiting. Only about 41% of its 10B max supply, 4.12B SUI, was circulating on Oct 12 2026. NEAR has no max supply listed, but almost all of its 1.31B coins are already out, so its new supply looks smaller from here. Supply and demand still read mixed for NEAR Protocol in the long run.
+No dated NEAR Protocol (NEAR) unlock is scheduled in the next 90 days (checked Nov 1 2026). New NEAR still arrives: about 8M NEAR in 90 days.
 
-### Can NEAR Protocol reach $1,000?
+### Does NEAR Protocol burn or buy back NEAR?
 
-At $1,000, NEAR Protocol would be worth about $1.31 trillion in total — about 177 times its $7.38B market cap today (Oct 21 2026, about $5.64 a coin). NEAR Protocol's supply also grows +2.47% in the next year, so every extra coin needs buyers too. For NEAR Protocol, the supply-and-demand signal is mixed right now.
+Yes. In our count, about 76.9K NEAR is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 1 2026). How it works: The gas burn is the only removal: 76,907 NEAR in 90 days, under 1% of new NEAR. Intents fees bought 1.41M NEAR more, but those coins are kept, not burned.
 
-### Should I sell NEAR Protocol or hold?
+### Where does new NEAR supply come from?
 
-NEAR Protocol's signal is mixed for now. NEAR Protocol's signal would turn if new supply keeps arriving (+0.61% in 90 days), or demand falls from strong. The next date on NEAR Protocol's calendar: No date yet — Grayscale ETF decision.
+In our count, about 8M new NEAR reaches the market over the next 90 days (checked Nov 1 2026). How it works: The epoch mint is the only new NEAR: 8.00M in 90 days for stakers and the treasury, close to the 2.5% yearly ceiling. Nothing vests, and treasury or Foundation spending moves coins already counted.
 
-### Is NEAR Protocol worth investing in for the long term?
+### How much NEAR is in circulation?
 
-NEAR Protocol sits at 6.5/10 today (Oct 21 2026): supply 2.5/5, demand 4/5. One more year adds +2.47% to NEAR Protocol's supply. Long-run signal: mixed.
+NEAR Protocol (NEAR) has about 1.31B coins in circulation as of Nov 1 2026; the next 90 days change that by +0.60% (+2.45% over a year).
 
-### When is a good time to buy NEAR Protocol?
+### Does NEAR have more new supply than BCH, UNI or LTC?
 
-By the law of supply and demand, the better time to add NEAR Protocol is when its new supply is low, demand is high and its price drivers point up. NEAR Protocol today: +0.61% new supply in 90 days (moderate), demand strong (4/5), drivers 2 ▲ / 0 ▼.
-
-### What could push NEAR Protocol's price up or down?
-
-Right now 2 things drive NEAR Protocol's price (2 ▲, 0 ▼). ▲ NEAR Intents: Intents swaps hit a record $4.8B in Sep 2026 ▲ NEAR ETFs: First US spot NEAR ETF began trading on Sep 29 2026
-
-### Is NEAR Protocol a better investment than Bitcoin?
-
-Side by side on Oct 21 2026: NEAR Protocol at 6.5/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, NEAR Protocol is the weaker of the two.
+Over the next 90 days (checked Nov 1 2026): NEAR +0.60%, BCH +0.20%, UNI +0.01%, LTC +0.42%. NEAR has the most new supply of these 4 coins.
 
 ## Go deeper on NEAR Protocol
 
 - The long read on NEAR Protocol supply: https://mrnasdog.com/research/near/inflation
-- Which crypto to buy now — NEAR next to every coin we rank: https://mrnasdog.com/coins
+- All crypto inflation rates, NEAR included: https://mrnasdog.com/token-supply
 - About the NEAR Protocol score: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

@@ -1,32 +1,32 @@
 ---
-title:         "Should You Buy Jito (JTO)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "JTO can never be minted again, but team and investor vesting added 33.46M JTO in 90 days and runs until Dec 7 2026, while JTX trading fees took 638K JTO into the DAO treasury for buybacks."
+title:         "Jito (JTO) Tokenomics: +2.63% New Supply in 90 Days"
+description:   "As of Oct 29 2026, new Jito supply runs at +2.63% over 90 days and +2.43% over 12 months."
 canonical_url: "https://mrnasdog.com/research/jto"
 content_type:  "coin_hub"
 tags:          ["crypto", "jto", "jito", "should-i-buy"]
 published:     true
 ---
-# Should You Buy Jito (JTO)? Supply, Demand and Price Drivers (Oct 2026)
+# Jito (JTO) Tokenomics: +2.63% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/jto (checked Oct 21 2026)*
+*Originally published at https://mrnasdog.com/research/jto (checked Nov 5 2026)*
 
-**mixed** — that is Jito's long-run signal by supply and demand as of Oct 21 2026, with a score of 4/10.
+As of Oct 29 2026, new Jito supply runs at **+2.63%** over 90 days and **+2.43%** over 12 months.
 
-- **Signal today:** mixed (Oct 21 2026)
+- **Signal today:** mixed (Nov 5 2026)
 - **MrNasDog score:** 4/10 — supply 1/5, demand 3/5
-- **New coins:** +3.35% in 90 days · +3.15% in a year
+- **New coins:** +2.63% in 90 days · +2.43% in a year
 - **Demand:** moderate (3/5)
 - **Drivers:** 2 ▲ price up · 0 ▼ price down
 
 ## Where new Jito comes from
 
-JTO can never be minted again, but team and investor vesting added 33.46M JTO in 90 days and runs until Dec 7 2026, while JTX trading fees took 638K JTO into the DAO treasury for buybacks.
+Jito's JTO can never be minted, yet team and investor vesting grew the float 6.16% in 90 days; the last 14.50M unlocks by Dec 7 2026, while JTX fees hold 656K JTO to burn.
 
-New JTO: +3.35% in 90 days, +3.15% in a year. Supply score 1/5, "very heavy" (place 21 of 101).
+New JTO: +2.63% in 90 days, +2.43% in a year. Supply score 1/5, "very heavy" (place 27 of 100).
 
 ## JTO demand
 
-Jito demand: 3/5 (**moderate**), place #32 among 110 coins — interest today plus the buying that could come later.
+Jito demand: 3/5 (**moderate**), place #34 among 109 coins — interest today plus the buying that could come later.
 
 Extra Jito demand detail for members stays on the live page.
 
@@ -42,12 +42,12 @@ Half the 2025 peak left; slowly rising since May 31 2026.
 
 | Date | SOL in JitoSOL |
 |---|---|
-| Jul 31 2026 | 9.94 M SOL |
 | Aug 31 2026 | 10.1 M SOL |
 | Sep 30 2026 | 10.4 M SOL |
-| Oct 21 2026 | 10.4 M SOL |
+| Oct 31 2026 | 10.4 M SOL |
+| Nov 5 2026 | 10.4 M SOL |
 
-*Checked Oct 19 2026*
+*Checked Oct 29 2026*
 
 ### ▲ BAM adoption
 
@@ -62,7 +62,7 @@ Good for the price: More validators run BAM. Bad for it: Validators drop BAM. To
 | Jun 30 2026 | 33% |
 | Sep 9 2026 | 34.1% |
 
-*Checked Oct 19 2026*
+*Checked Oct 29 2026*
 
 ### • JitoSOL ETF
 
@@ -78,42 +78,42 @@ Good for the price: ETF approved. Bad for it: ETF rejected.
 | Sep 9 2026 | SEC extends 60 days |
 | Nov 15 2026 | SEC final deadline (coming) |
 
-*Checked Oct 19 2026*
+*Checked Oct 29 2026*
 
-## Should you buy Jito? The questions, answered
+## Questions about JTO supply
 
-### Should I enter Jito right now?
+### Is Jito (JTO) inflationary or deflationary?
 
-By the law of supply and demand, Jito's long-run signal is mixed (Oct 21 2026, score 4/10). New supply: +3.35% in the next 90 days. Demand: moderate (3/5). Jito's price drivers: 2 ▲ price up, 0 ▼ price down.
+Jito (JTO) is inflationary right now: its supply changes +2.63% over the next 90 days and +2.43% over the next year (checked Oct 29 2026). More JTO is added than removed.
 
-### Jito crypto news: what's coming before year-end?
+### What is the JTO inflation rate in 2026?
 
-Two dates matter for Jito. The SEC must approve or reject the JitoSOL ETF by Nov 15 2026, and vesting of about 372K JTO a day runs until Dec 7 2026. That vesting is why supply likely grows about +3.35% in the next 90 days. Our supply-and-demand read for Jito stays mixed.
+About +2.43% a year: that is how much Jito (JTO) supply changes over the next 12 months, with +2.63% in the next 90 days (checked Oct 29 2026). That puts JTO #27 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Is it time to take profit on Jito?
+### When is the next JTO token unlock?
 
-Jito's signal is mixed for now. Jito's signal would turn if new supply keeps arriving (+3.35% in 90 days), or demand falls from moderate. The next date on Jito's calendar: Nov 15 2026 — SEC final deadline.
+The next Jito (JTO) unlock we track is on Dec 7 2026: about 14.5M JTO, 2.70% of the JTO in circulation (Last team and investor coins unlock — added to market by then, then vesting is over). Checked Oct 29 2026.
 
-### Is Jito a good investment right now?
+### Does Jito burn or buy back JTO?
 
-Jito sits at 4/10 today (Oct 21 2026): supply 1/5, demand 3/5. One more year adds +3.15% to Jito's supply. Long-run signal: mixed.
+Yes. In our count, about 656K JTO is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Oct 29 2026). How it works: JTX trading fees sent 655,838 JTO to the DAO treasury in 90 days, committed by vote to be burned through 2027; none has been burned yet.
 
-### When is a good time to buy Jito?
+### Where does new JTO supply come from?
 
-By the law of supply and demand, the better time to start a position in Jito is when its new supply is low, demand is high and its price drivers point up. Jito today: +3.35% new supply in 90 days (very heavy), demand moderate (3/5), drivers 2 ▲ / 0 ▼.
+In our count, about 14.8M new JTO reaches the market over the next 90 days (checked Oct 29 2026). How it works: No new JTO can be minted, but team and investor vesting added 33.46M JTO in 90 days and a DAO budget wallet paid out 305K; about 14.50M is left before vesting ends on Dec 7 2026.
 
-### What could push Jito's price up or down?
+### How much JTO is in circulation?
 
-Right now 3 things drive Jito's price (2 ▲, 0 ▼). ▲ JitoSOL size: Half the 2025 peak left; slowly rising since May 31 2026. ▲ BAM adoption: BAM runs about a third of Solana stake; growth slowed lately. • JitoSOL ETF: SEC must approve or reject the JitoSOL ETF by Nov 15 2026.
+About 538M JTO is in circulation (checked Oct 29 2026). Over the next 90 days that changes +2.63%, and over a year +2.43%.
 
-### Should I buy Jito or Bitcoin?
+### Does JTO have more new supply than FLOKI, KAIA or SYRUP?
 
-Side by side on Oct 21 2026: Jito at 4/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Jito is the weaker of the two.
+Over the next 90 days (checked Oct 29 2026): JTO +2.63%, FLOKI −0.04%, KAIA +1.04%, SYRUP +1.06%. JTO has the most new supply of these 4 coins.
 
 ## Next steps for JTO
 
 - JTO supply, line by line: https://mrnasdog.com/research/jto/inflation
-- Where Jito sits among all coins: https://mrnasdog.com/coins
+- Where Jito sits on new supply: https://mrnasdog.com/token-supply
 - Why supply and demand decide JTO's signal: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

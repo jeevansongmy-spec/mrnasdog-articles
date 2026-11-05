@@ -1,42 +1,42 @@
 ---
-title:         "Is Jupiter (JUP) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)"
-description:   "Our read on Jupiter for Oct 21 2026: a positive long-run signal and a score of 8/10, from new supply, demand and what moves the price."
+title:         "Jupiter (JUP) Tokenomics: 0.00% Supply in 90 Days"
+description:   "As of Oct 31 2026, new Jupiter supply runs at 0.00% over 90 days and −0.07% over 12 months."
 canonical_url: "https://mrnasdog.com/research/jup"
 content_type:  "coin_hub"
 tags:          ["crypto", "jup", "jupiter", "should-i-buy"]
 published:     true
 ---
-# Is Jupiter (JUP) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)
+# Jupiter (JUP) Tokenomics: 0.00% Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/jup (checked Oct 21 2026)*
+*Originally published at https://mrnasdog.com/research/jup (checked Nov 5 2026)*
 
-Our read on Jupiter for Oct 21 2026: a **positive** long-run signal and a score of 8/10, from new supply, demand and what moves the price.
+As of Oct 31 2026, new Jupiter supply runs at **0.00%** over 90 days and **−0.07%** over 12 months.
 
-- **Long-run signal:** positive (Oct 21 2026)
+- **Long-run signal:** mixed (Nov 5 2026)
 - **Score:** 8/10 — supply 4.5/5, demand 3.5/5
 - **New supply:** 0.00% in 90 days · −0.07% in a year
 - **Demand:** strong (3.5/5)
-- **Price drivers:** 1 ▲ price up · 1 ▼ price down
+- **Price drivers:** 0 ▲ price up · 2 ▼ price down
 
 ## Where new Jupiter comes from
 
-Jupiter cannot mint JUP and has paused team vesting, so nothing new reached the market in 90 days. A verification-fee burn cut supply 0.03%; the Litterbox buys with half of revenue but keeps its 175.3M JUP.
+JUP cannot be minted, team payouts are paused and one fee burn trimmed supply 0.03% in 90 days, while the buyback keeps the coins it buys.
 
 New JUP: 0.00% in 90 days, −0.07% in a year. Supply score 4.5/5, "flat".
 
 ## Who wants Jupiter right now
 
-Jupiter demand: 3.5/5 (**strong**), place #18 among 110 coins — interest today plus the buying that could come later.
+Jupiter demand: 3.5/5 (**strong**), place #20 among 109 coins — interest today plus the buying that could come later.
 
 A deeper JUP demand breakdown is on the page for members.
 
 ## Big wallets, votes and dates behind JUP
 
-2 things outside the score can move JUP's price — today 1 ▲ up, 1 ▼ down.
+2 things outside the score can move JUP's price — today 0 ▲ up, 2 ▼ down.
 
 ### ▼ Swap market share
 
-Jupiter's share of Solana swap routing fell below half; DFlow gains.
+Jupiter routes about half of Solana swaps; DFlow near 30%.
 
 Good for the price: Wins share back. Bad for it: Rivals take share. Today: the price-down case.
 
@@ -45,63 +45,59 @@ Good for the price: Wins share back. Bad for it: Rivals take share. Today: the p
 | Jul 31 2026 | 63.9% | 14.3% |
 | Aug 31 2026 | 55% | 25.6% |
 | Sep 30 2026 | 49.8% | 30.8% |
-| Oct 10 2026 | 45.9% | 31.6% |
+| Oct 31 2026 | 51.1% | 29.5% |
 
-*Checked Oct 11 2026*
+*Checked Oct 31 2026*
 
-### ▲ Jupiter Lend
+### ▼ Jupiter Lend
 
-Jupiter Lend has nearly caught Kamino, Solana's biggest lender.
+Jupiter Lend deposits fell in October after a withdrawal jam.
 
-Lending keeps growing → price up · Deposits leave → price down. Now: ▲ up side.
+Lending keeps growing → price up · Deposits leave → price down. Now: ▼ down side.
 
 | Date | Jupiter Lend | Kamino |
 |---|---|---|
-| Jul 31 2026 | $0.93B | $1.04B |
 | Aug 31 2026 | $1.08B | $1.24B |
 | Sep 30 2026 | $1.17B | $1.42B |
-| Oct 21 2026 | $1.04B | $1.33B |
+| Oct 31 2026 | $0.93B | $1.23B |
+| Nov 5 2026 | $1.03B | $1.24B |
 
-*Checked Oct 11 2026*
+*Checked Oct 31 2026*
 
-## Jupiter: buy, sell or hold — questions and answers
+## Jupiter supply questions, answered
 
-### Is it a good time to buy Jupiter today?
+### Is Jupiter (JUP) inflationary or deflationary?
 
-Based on the law of supply and demand, the long-run signal for Jupiter is positive. As of Oct 21 2026, score 8/10, Jupiter faces 0.00% new supply over 90 days, with demand strong (3.5/5). Jupiter's price drivers: 1 ▲ price up, 1 ▼ price down.
+Jupiter (JUP) is flat, neither inflationary nor deflationary right now: its supply changes 0.00% over the next 90 days and −0.07% over the next year (checked Oct 31 2026). New JUP and removed JUP about cancel out.
 
-### Is Jupiter crypto dead now that it routes fewer swaps?
+### What is the JUP inflation rate in 2026?
 
-No, though its main business is shrinking. Jupiter's share of Solana swap routing fell below half as DFlow gains. On the other side, Jupiter Lend has nearly caught Kamino, Solana's biggest lender, and JUP still scores 8/10 on our framework (Oct 11 2026). For Jupiter, the supply-and-demand signal is positive right now.
+About −0.07% a year: that is how much Jupiter (JUP) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Oct 31 2026). That puts JUP #92 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Is $10 possible for Jupiter?
+### When is the next JUP token unlock?
 
-It would take 27 times today's value: $10 × Jupiter's coins in the market = about $33.2B, against $1.21B now (Oct 21 2026). Jupiter's supply barely changes in the next year (−0.07%), so the whole move would have to come from demand. That leaves Jupiter's long-run signal at positive, by supply and demand.
+No dated Jupiter (JUP) unlock is scheduled in the next 90 days (checked Oct 31 2026).
 
-### Is it time to take profit on Jupiter?
+### Does Jupiter burn or buy back JUP?
 
-Today the signal is positive. Supply and demand would point the other way for Jupiter if new supply jumps (today 0.00% in 90 days), or demand falls from strong, or Swap market share keeps pointing down.
+Yes. In our count, about 1.65K JUP is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Oct 31 2026). How it works: Fees for token checks are burned in batches: 945K JUP in 90 days. The buyback bought 25.59M JUP but keeps it.
 
-### Is Jupiter a good investment right now?
+### Where does new JUP supply come from?
 
-On our framework Jupiter scores 8/10 (Oct 21 2026), with supply 4.5/5 (flat) and demand 3.5/5. In the next year Jupiter's supply changes −0.07%, so the long-run signal reads positive.
+Almost no new JUP reaches the market over the next 90 days (checked Oct 31 2026). No one can mint new JUP, and team payouts are paused by a February 2026 vote. 3.38B JUP sits in two reserves that only a new vote could release.
 
-### What is the best time to invest in Jupiter?
+### How much JUP is in circulation?
 
-The law of supply and demand points to one window for Jupiter: low new supply, high demand, drivers pointing up. Where Jupiter stands today: 0.00% new supply in 90 days (flat), demand strong (3.5/5), drivers 1 ▲ / 1 ▼.
+About 3.32B JUP is in circulation (checked Oct 31 2026). Over the next 90 days that changes 0.00%, and over a year −0.07%.
 
-### Will Jupiter go up? What could move its price?
+### Does JUP have more new supply than KAS, ALGO or RENDER?
 
-Jupiter has 2 price drivers today (1 ▲ price up, 1 ▼ price down). ▼ Swap market share: Jupiter's share of Solana swap routing fell below half; DFlow gains. ▲ Jupiter Lend: Jupiter Lend has nearly caught Kamino, Solana's biggest lender.
-
-### Should I buy Jupiter or Bitcoin?
-
-Jupiter reads positive at 8/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, Jupiter looks weaker than Bitcoin today.
+Over the next 90 days (checked Oct 31 2026): JUP 0.00%, KAS +0.52%, ALGO +0.48%, RENDER +0.27%. JUP has the least new supply of these 4 coins.
 
 ## Read more on JUP
 
 - JUP supply, line by line: https://mrnasdog.com/research/jup/inflation
-- Where Jupiter sits among all coins: https://mrnasdog.com/coins
+- Where Jupiter sits on new supply: https://mrnasdog.com/token-supply
 - Why supply and demand decide JUP's signal: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

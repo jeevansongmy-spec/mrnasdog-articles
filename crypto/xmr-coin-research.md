@@ -1,44 +1,44 @@
 ---
-title:         "Should You Buy Monero (XMR)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "As of Oct 21 2026, Monero scores 6.5/10 on our framework, and its supply-and-demand signal reads mixed."
+title:         "Monero (XMR) Tokenomics: +0.21% New Supply in 90 Days"
+description:   "As of Oct 31 2026, new Monero supply runs at +0.21% over 90 days and +0.84% over 12 months."
 canonical_url: "https://mrnasdog.com/research/xmr"
 content_type:  "coin_hub"
 tags:          ["crypto", "xmr", "monero", "should-i-buy"]
 published:     true
 ---
-# Should You Buy Monero (XMR)? Supply, Demand and Price Drivers (Oct 2026)
+# Monero (XMR) Tokenomics: +0.21% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/xmr (checked Oct 21 2026)*
+*Originally published at https://mrnasdog.com/research/xmr (checked Nov 5 2026)*
 
-As of Oct 21 2026, Monero scores 6.5/10 on our framework, and its supply-and-demand signal reads **mixed**.
+As of Oct 31 2026, new Monero supply runs at **+0.21%** over 90 days and **+0.84%** over 12 months.
 
-- **Long-run signal:** mixed (Oct 21 2026)
-- **Score:** 6.5/10 — supply 3/5, demand 3.5/5
+- **Long-run signal:** positive (Nov 5 2026)
+- **Score:** 7/10 — supply 3.5/5, demand 3.5/5
 - **New supply:** +0.21% in 90 days · +0.84% in a year
 - **Demand:** strong (3.5/5)
-- **Price drivers:** 1 ▲ price up · 0 ▼ price down
+- **Price drivers:** 2 ▲ price up · 0 ▼ price down
 
 ## Where new Monero comes from
 
-Monero pays miners a fixed 0.6 XMR per block forever, about 38.8K new coins every 90 days, and nothing burns or locks any. Supply grows about 0.21% a quarter.
+Monero pays miners 0.6 new XMR per block forever, about 0.21% more supply every 90 days, with no burn, no premine and no unlocks.
 
-New XMR: +0.21% in 90 days, +0.84% in a year. Supply score 3/5, "light" (place 66 of 101).
+New XMR: +0.21% in 90 days, +0.84% in a year. Supply score 3.5/5, "steady" (place 67 of 100).
 
 ## Demand today
 
-Monero demand: 3.5/5 (**strong**), place #18 among 110 coins — interest today plus the buying that could come later.
+Monero demand: 3.5/5 (**strong**), place #20 among 109 coins — interest today plus the buying that could come later.
 
 Extra Monero demand detail for members stays on the live page.
 
 ## What could move Monero's price
 
-3 things outside the score can move XMR's price — today 1 ▲ up, 0 ▼ down.
+3 things outside the score can move XMR's price — today 2 ▲ up, 0 ▼ down.
 
-### • Exchange bans
+### ▲ Exchange bans
 
-Big exchanges left in 2024; EU ban starts Jul 10 2027.
+Kraken keeps XMR listed; EU exchange ban starts Jul 10 2027.
 
-Good for the price: Exchanges list XMR. Bad for it: More delistings.
+Good for the price: Exchanges list XMR. Bad for it: More delistings. Today: the price-up case.
 
 | Date | What happened / what is coming |
 |---|---|
@@ -46,29 +46,31 @@ Good for the price: Exchanges list XMR. Bad for it: More delistings.
 | Feb 20 2024 | Binance delists XMR |
 | Oct 31 2024 | Kraken stops EU trading |
 | Jan 12 2026 | Dubai (DIFC) bans XMR |
-| Jan 14 2026 | Price record $798 |
+| Jun 15 2026 | Philippines bans XMR |
+| Oct 5 2026 | US drops mixer rule |
+| Oct 24 2026 | Kraken keeps XMR listed |
 | Jul 10 2027 | EU privacy-coin ban (coming) |
 
-*Checked Oct 11 2026*
+*Checked Oct 31 2026*
 
 ### ▲ Mining attacks
 
-Hashrate at a record 6.52 GH/s; worst attack was Sep 14 2025.
+Hashrate at a record 7.16 GH/s; worst attack was Sep 14 2025.
 
 Strong, no attacks → price up · An attack → price down. Now: ▲ up side.
 
 | Date | Network hashrate (7-day avg) |
 |---|---|
-| Jul 31 2026 | 5.51 GH/s |
 | Aug 31 2026 | 5.87 GH/s |
 | Sep 30 2026 | 6.17 GH/s |
-| Oct 21 2026 | 6.52 GH/s |
+| Oct 31 2026 | 6.5 GH/s |
+| Nov 5 2026 | 7.16 GH/s |
 
-*Checked Oct 21 2026*
+*Checked Nov 5 2026*
 
 ### • FCMP++ upgrade
 
-Beta tests running since Oct 5 2026; mainnet date not set.
+Beta test fix shipped Oct 26 2026; mainnet date still unset.
 
 Upgrade ships → price up · Delay or bug → price down.
 
@@ -78,52 +80,45 @@ Upgrade ships → price up · Delay or bug → price down.
 | Oct 3 2025 | First test network |
 | Apr 28 2026 | Beta test network |
 | Oct 5 2026 | Beta v3 test fork |
-| Oct 8 2026 | Mainnet: no date yet |
+| Oct 26 2026 | Beta v3.1 bug fix |
+| Oct 31 2026 | Mainnet: no date yet |
 
-*Checked Oct 11 2026*
+*Checked Oct 31 2026*
 
-## Should you buy Monero? The questions, answered
+## Questions about XMR supply
 
-### Is it time to buy the Monero dip?
+### Is Monero (XMR) inflationary or deflationary?
 
-Supply and demand point to a mixed long-run signal for Monero (Oct 21 2026, score 6.5/10). Monero adds +0.21% new supply in 90 days, and demand reads strong (3.5/5). Monero's price drivers: 1 ▲ price up, 0 ▼ price down.
+Monero (XMR) is inflationary right now: its supply changes +0.21% over the next 90 days and +0.84% over the next year (checked Oct 31 2026). More XMR is added than removed.
 
-### Monero or Zcash for someone who wants a privacy coin?
+### What is the XMR inflation rate in 2026?
 
-Zcash looks a bit stronger by our numbers: 7.5/10 against Monero's 6.5/10 (Oct 11 2026), mainly on demand (5/5 against 3/5). But Monero adds less new supply, +0.84% a year against +3.86% for Zcash. Both face the EU exchange ban on Jul 10 2027. Supply and demand still read mixed for Monero in the long run.
+About +0.84% a year: that is how much Monero (XMR) supply changes over the next 12 months, with +0.21% in the next 90 days (checked Oct 31 2026). That puts XMR #67 of 100 coins we track for new supply (#1 = the most new supply).
 
-### What has been lifting Monero's price?
+### When is the next XMR token unlock?
 
-Probably a stronger, safer network. Monero's hashrate hit a record 6.63 GH/s, and the worst mining attack was back on Sep 14 2025. The FCMP++ upgrade has also been in beta tests since Oct 5 2026, though no mainnet date is set yet. Our supply-and-demand read for Monero stays mixed.
+No dated Monero (XMR) unlock is scheduled in the next 90 days (checked Oct 31 2026). New XMR still arrives: about 38.8K XMR in 90 days.
 
-### Could Monero ever hit $10,000?
+### Does Monero burn or buy back XMR?
 
-Monero trades near $531 (Oct 21 2026). $10,000 a coin means a $188B market cap, 19 times today's $10B. Monero's supply also grows +0.84% in the next year, so every extra coin needs buyers too. Supply and demand still read mixed for Monero in the long run.
+Not in a way that removes XMR today: nothing takes XMR off the market over the next 90 days (checked Oct 31 2026). Nothing removes XMR: no fee burn, no buyback, no staking lock. Fees go to miners.
 
-### Is it time to take profit on Monero?
+### Where does new XMR supply come from?
 
-We would read Monero differently if new supply jumps (today +0.21% in 90 days), or demand falls from strong. Until then Monero's signal stays mixed. Mark this date for Monero: Jul 10 2027 — EU privacy-coin ban.
+In our count, about 38.8K new XMR reaches the market over the next 90 days (checked Oct 31 2026). How it works: Tail emission: miners get a fixed 0.6 new XMR every block, about 38.8K XMR every 90 days, forever.
 
-### Is Monero a good investment right now?
+### How much XMR is in circulation?
 
-Monero scores 6.5/10 on our framework (Oct 21 2026): supply 3/5 (light), demand 3.5/5. Over the next year Monero's supply changes +0.84%. The long-run signal is mixed.
+About 18.8M XMR is in circulation (checked Oct 31 2026). Over the next 90 days that changes +0.21%, and over a year +0.84%.
 
-### How do I know when to buy Monero?
+### Does XMR have more new supply than DOGE, LINK or LEO?
 
-Supply and demand favor Monero most when little new supply is coming, demand is strong and the price drivers point up. Right now Monero has +0.21% new supply in 90 days (light), demand strong (3.5/5), drivers 1 ▲ / 0 ▼.
-
-### Will Monero go up in 2026?
-
-Monero's price drivers today: 1 pointing up, 0 pointing down, out of 3. • Exchange bans: Big exchanges left in 2024; EU ban starts Jul 10 2027. ▲ Mining attacks: Hashrate at a record 6.52 GH/s; worst attack was Sep 14 2025. • FCMP++ upgrade: Beta tests running since Oct 5 2026; mainnet date not set.
-
-### Should I buy Monero or Bitcoin?
-
-Monero: mixed signal, 6.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, Monero reads weaker than Bitcoin today.
+Over the next 90 days (checked Oct 31 2026): XMR +0.21%, DOGE +0.78%, LINK +1.47%, LEO −0.06%. XMR sits in the middle of these 4 coins.
 
 ## Where to read the rest of XMR
 
 - XMR supply, line by line: https://mrnasdog.com/research/xmr/inflation
-- Where Monero sits among all coins: https://mrnasdog.com/coins
+- Where Monero sits on new supply: https://mrnasdog.com/token-supply
 - Why supply and demand decide XMR's signal: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

@@ -7,6 +7,9 @@ published:     true
 ---
 *Originally published at [https://mrnasdog.com/research/xpl/inflation](https://mrnasdog.com/research/xpl/inflation)*
 
+<!-- main-page -->
+**Main page:** the full XPL coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/xpl](https://mrnasdog.com/research/xpl)
+
 # XPL Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
 The circulating supply of **XPL**, the coin of the Plasma stablecoin chain, grew about **+43.5%** in the 90 days to Oct 29 2026, because **2.07B XPL** left the locked allocations and nothing of size took coins back out. The growth comes from a fixed unlock schedule, not from staking rewards, which are not switched on yet. Another **683.33M XPL** is due in the next 90 days, about **+14.4%**, and the monthly unlocks run until September 2028, when all 10B XPL will be free.

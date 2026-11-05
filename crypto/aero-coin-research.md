@@ -8,14 +8,14 @@ published:     true
 ---
 # Aerodrome (AERO) Tokenomics: +8.50% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/aero (checked Nov 4 2026)*
+*Originally published at https://mrnasdog.com/research/aero (checked Nov 5 2026)*
 
 As of Nov 4 2026, new Aerodrome supply runs at **+8.50%** over 90 days and **+23.09%** over 12 months.
 
-- **Long-run signal:** negative (Nov 4 2026)
-- **Score:** 3.5/10 — supply 0/5, demand 3.5/5
+- **Long-run signal:** mixed (Nov 5 2026)
+- **Score:** 4/10 — supply 0/5, demand 4/5
 - **New supply:** +8.50% in 90 days · +23.09% in a year
-- **Demand:** strong (3.5/5)
+- **Demand:** strong (4/5)
 - **Price drivers:** 0 ▲ price up · 0 ▼ price down
 
 ## The things that move Aerodrome
@@ -62,7 +62,7 @@ New AERO: +8.50% in 90 days, +23.09% in a year. Supply score 0/5, "extreme" (pla
 
 ## How strong is Aerodrome demand?
 
-Aerodrome demand: 3.5/5 (**strong**), place #19 among 109 coins — interest today plus the buying that could come later.
+Aerodrome demand: 4/5 (**strong**), place #9 among 109 coins — interest today plus the buying that could come later.
 
 A deeper AERO demand breakdown is on the page for members.
 
@@ -92,9 +92,9 @@ In our count, about 91.2M new AERO reaches the market over the next 90 days (che
 
 About 734M AERO is in circulation (checked Nov 4 2026). Over the next 90 days that changes +8.50%, and over a year +23.09%.
 
-### Does AERO have more new supply than STABLE, RAY or FET?
+### Does AERO have more new supply than TRUMP, RAY or FET?
 
-Over the next 90 days (checked Nov 4 2026): AERO +8.50%, STABLE 0.00%, RAY +0.23%, FET +6.01%. AERO has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 4 2026): AERO +8.50%, TRUMP +11.93%, RAY +0.23%, FET +6.01%. AERO sits in the middle of these 4 coins.
 
 ## More on Aerodrome
 

@@ -1,28 +1,28 @@
 ---
-title:         "World (WLD) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Our read on World for Oct 21 2026: a negative long-run signal and a score of 2.5/10, from new supply, demand and what moves the price."
+title:         "Is World (WLD) Inflationary? +3.21% New Supply in 90 Days"
+description:   "How much new WLD is coming? +3.21% in the next 90 days, +23.56% in the next year — checked Nov 2 2026."
 canonical_url: "https://mrnasdog.com/research/wld"
 content_type:  "coin_hub"
 tags:          ["crypto", "wld", "world", "should-i-buy"]
 published:     true
 ---
-# World (WLD) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
+# Is World (WLD) Inflationary? +3.21% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/wld, updated Oct 21 2026*
+*From https://mrnasdog.com/research/wld, updated Nov 5 2026*
 
-Our read on World for Oct 21 2026: a **negative** long-run signal and a score of 2.5/10, from new supply, demand and what moves the price.
+How much new WLD is coming? **+3.21%** in the next 90 days, **+23.56%** in the next year — checked Nov 2 2026.
 
 - **Signal:** negative for World
-- **Score:** 2.5/10 — supply 0/5, demand 2.5/5
-- **Supply growth:** +8.73% in 90 days · +44.50% in a year
-- **How much people want it:** modest (2.5/5)
+- **Score:** 3/10 — supply 1/5, demand 2/5
+- **Supply growth:** +3.21% in 90 days · +23.56% in a year
+- **How much people want it:** weak (2/5)
 - **Price drivers:** 0 ▲ price up · 1 ▼ price down
 
 ## New WLD hitting the market
 
-World's WLD cannot be minted until 2038, but team unlocks and Foundation releases grew its float 8.87% in 90 days, with no burn to offset them.
+World cannot mint WLD before 2038, yet supply grew 5.62% in 90 days as team and investor coins unlocked every day and a March 2026 sale lock ended.
 
-World adds +8.73% new supply in the next 90 days and +44.50% over a year — supply scores 0/5 (extreme) (place 10 of 101).
+World adds +3.21% new supply in the next 90 days and +23.56% over a year — supply scores 1/5 (very heavy) (place 22 of 100).
 
 ## The things that move World
 
@@ -36,12 +36,12 @@ More humans verify → price up · Sign-ups stall → price down. Right now it p
 
 | Date | Orb-verified humans |
 |---|---|
-| May 4 2026 | 18 M people |
 | Jun 24 2026 | 18.1 M people |
 | Sep 29 2026 | 18.2 M people |
-| Oct 21 2026 | 18.2 M people |
+| Oct 31 2026 | 18.2 M people |
+| Nov 5 2026 | 18.2 M people |
 
-*Checked Oct 14 2026*
+*Checked Nov 2 2026*
 
 ### • Eightco WLD treasury
 
@@ -54,54 +54,50 @@ Eightco holds about 302M WLD, flat since Jul 27 2026.
 | Jul 31 2026 | 302 M WLD |
 | Aug 31 2026 | 302 M WLD |
 | Sep 30 2026 | 302 M WLD |
-| Oct 10 2026 | 302 M WLD |
+| Oct 31 2026 | 302 M WLD |
 
-*Checked Oct 14 2026*
+*Checked Nov 2 2026*
 
 ## Who wants World right now
 
-Demand reads **modest** (2.5/5), #46 of 110 coins we track — that is how much people want WLD now and how much buying could still come.
+Demand reads **weak** (2/5), #64 of 109 coins we track — that is how much people want WLD now and how much buying could still come.
 
 A deeper WLD demand breakdown is on the page for members.
 
-## Should you buy WLD? Questions about World
+## World (WLD) supply: questions people ask
 
-### Should I enter World right now?
+### Is World (WLD) inflationary or deflationary?
 
-By the law of supply and demand, World's long-run signal is negative (Oct 21 2026, score 2.5/10). New supply: +8.73% in the next 90 days. Demand: modest (2.5/5). World's price drivers: 0 ▲ price up, 1 ▼ price down.
+World (WLD) is inflationary right now: its supply changes +3.21% over the next 90 days and +23.56% over the next year (checked Nov 2 2026). More WLD is added than removed.
 
-### What is WLD crypto, and what does it actually do?
+### What is the WLD inflation rate in 2026?
 
-WLD is the token of World, a project that checks people are real humans with its Orb scanner. About 3.81B of a 10B max WLD are in the market today (Oct 14 2026), worth about $1.91B. The worry: new Orb sign-ups have nearly stopped since late 2025. Our supply-and-demand read for World stays negative.
+About +23.56% a year: that is how much World (WLD) supply changes over the next 12 months, with +3.21% in the next 90 days (checked Nov 2 2026). That puts WLD #22 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Any fresh WLD crypto news worth knowing?
+### When is the next WLD token unlock?
 
-Not much that looks good, we think. Eightco still holds about 302M WLD, flat since Jul 27 2026, so that buyer has paused. Meanwhile about 8.73% new supply arrives in the next 90 days, and Orb sign-ups have nearly stopped. For World, the supply-and-demand signal is negative right now.
+No dated World (WLD) unlock is scheduled in the next 90 days (checked Nov 2 2026). New WLD still arrives: about 120M WLD in 90 days.
 
-### When should I sell World?
+### Does World burn or buy back WLD?
 
-World's signal is negative for now. World's signal would turn if new supply keeps arriving (+8.73% in 90 days), or demand falls from modest, or Verified humans keeps pointing down.
+Not in a way that removes WLD today: nothing takes WLD off the market over the next 90 days (checked Nov 2 2026). No buyback and no burn: fees on World Chain are paid in ETH, so nothing takes WLD out of circulation.
 
-### Is World a good investment in 2026?
+### Where does new WLD supply come from?
 
-World sits at 2.5/10 today (Oct 21 2026): supply 0/5, demand 2.5/5. One more year adds +44.50% to World's supply. Long-run signal: negative.
+In our count, about 120M new WLD reaches the market over the next 90 days (checked Nov 2 2026). How it works: No new WLD can be minted before 2038, but about 1.3M WLD of team and investor coins unlock every day, and a six-month lock on March 2026 sale coins ended in September, freeing 80.1M WLD.
 
-### When is a good time to buy World?
+### How much WLD is in circulation?
 
-By the law of supply and demand, the better time to enter World is when its new supply is low, demand is high and its price drivers point up. World today: +8.73% new supply in 90 days (extreme), demand modest (2.5/5), drivers 0 ▲ / 1 ▼.
+About 3.74B WLD is in circulation (checked Nov 2 2026). Over the next 90 days that changes +3.21%, and over a year +23.56%.
 
-### What could push World's price up or down?
+### Does WLD have more new supply than ICP, BGB or JST?
 
-Right now 2 things drive World's price (0 ▲, 1 ▼). ▼ Verified humans: New Orb sign-ups have nearly stopped since late 2025. • Eightco WLD treasury: Eightco holds about 302M WLD, flat since Jul 27 2026.
-
-### Should I buy World or Bitcoin?
-
-Side by side on Oct 21 2026: World at 2.5/10 with a negative signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, World is the weaker of the two.
+Over the next 90 days (checked Nov 2 2026): WLD +3.21%, ICP +0.59%, BGB 0.00%, JST −1.25%. WLD has the most new supply of these 4 coins.
 
 ## Read more on WLD
 
 - Full WLD inflation analysis (every unlock, burn and buyback): https://mrnasdog.com/research/wld/inflation
-- Every coin ranked by supply and demand, World included: https://mrnasdog.com/coins
+- Every coin's new supply, side by side: https://mrnasdog.com/token-supply
 - How we read World and every other coin: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

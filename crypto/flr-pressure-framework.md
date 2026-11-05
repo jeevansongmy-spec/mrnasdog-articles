@@ -10,7 +10,7 @@ Originally published at [FLR Inflation Analysis · October 2026 · Supply growin
 # FLR Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
 <!-- main-page -->
-
+The Flare coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/flr](https://mrnasdog.com/research/flr). Below: supply, line by line.
 **FLR** supply is growing: it rose **+1.03%** in the 90 days to Oct 27 2026 and should rise about **+1.05%** in the next 90, against **+0.76%** on other trackers. Flare mints new FLR at **3%** a year for stakers and data providers and keeps vesting reward FLR (rFLR) out of a **17.17B** FLR incentive pool, with no supply cap. Holders received **929.94M FLR** while burns and the new fee wallet took back only **25.89M**.
 
 ## The verdict, in one paragraph

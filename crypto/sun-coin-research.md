@@ -1,58 +1,62 @@
 ---
-title:         "Should You Buy SUN? Supply, Demand and What Moves Its Price"
-description:   "Supply and demand give SUN a mixed long-run signal today (Oct 21 2026); its score is 7/10."
+title:         "SUN Supply & Demand: −0.03% Supply in 90 Days"
+description:   "SUN supply changes −0.03% over the next 90 days and −0.13% over a year (checked Oct 29 2026)."
 canonical_url: "https://mrnasdog.com/research/sun"
 content_type:  "coin_hub"
 tags:          ["crypto", "sun", "sun", "should-i-buy"]
 published:     true
 ---
-# Should You Buy SUN? Supply, Demand and What Moves Its Price
+# SUN Supply & Demand: −0.03% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/sun · checked Oct 21 2026*
+*Live page: https://mrnasdog.com/research/sun · checked Nov 5 2026*
 
-Supply and demand give SUN a **mixed** long-run signal today (Oct 21 2026); its score is 7/10.
+SUN supply changes **−0.03%** over the next 90 days and **−0.13%** over a year (checked Oct 29 2026).
 
 - **Signal:** mixed (by the law of supply and demand)
-- **Score:** 7/10 — supply 5/5, demand 2/5
-- **Supply growth:** −0.04% in 90 days · −0.17% in a year
+- **Score:** 6.5/10 — supply 4.5/5, demand 2/5
+- **Supply growth:** −0.03% in 90 days · −0.13% in a year
 - **How much people want it:** weak (2/5)
 - **Price drivers:** 0 ▲ price up · 2 ▼ price down
 
-## Questions people ask about SUN
+## Is SUN inflationary? Questions about SUN supply
 
-### Is it a good time to buy SUN today?
+### Is SUN inflationary or deflationary?
 
-By the law of supply and demand, SUN's long-run signal is mixed (Oct 21 2026, score 7/10). New supply: −0.04% in the next 90 days. Demand: weak (2/5). SUN's price drivers: 0 ▲ price up, 2 ▼ price down.
+As of Oct 29 2026, SUN supply moves −0.03% in 90 days and −0.13% in a year, so SUN is deflationary. Burns or buybacks take out more SUN than is created.
 
-### Should I sell my SUN now?
+### What is the SUN inflation rate in 2026?
 
-SUN's signal is mixed for now. SUN's signal would turn if new supply jumps (today −0.04% in 90 days), or demand falls from weak, or SunSwap trading and Justin Sun keep pointing down.
+SUN supply shrinks −0.13% over the next 12 months and −0.03% over the next 90 days (checked Oct 29 2026). That puts SUN #96 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Is SUN a good long-term investment?
+### When is the next SUN token unlock?
 
-SUN sits at 7/10 today (Oct 21 2026): supply 5/5, demand 2/5. One more year adds −0.17% to SUN's supply. Long-run signal: mixed.
+No dated SUN unlock is scheduled in the next 90 days (checked Oct 29 2026).
 
-### When is a good time to buy SUN?
+### Is any SUN burned or bought back?
 
-By the law of supply and demand, the better time to buy SUN is when its new supply is low, demand is high and its price drivers point up. SUN today: −0.04% new supply in 90 days (shrinking), demand weak (2/5), drivers 0 ▲ / 2 ▼.
+Yes. In our count, about 6.41M SUN is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Oct 29 2026). How it works: A quarterly buyback burn: 7.23M SUN on Oct 27 2026, about 6.41M more due around Jan 25 2027.
 
-### What could push SUN's price up or down?
+### Where does new SUN supply come from?
 
-Right now 2 things drive SUN's price (0 ▲, 2 ▼). ▼ SunSwap trading: Trading is under a third of its Dec 2024 peak. ▼ Justin Sun: SEC case closed, but lawsuits keep coming; Poloniex lost $9M case.
+Almost no new SUN reaches the market over the next 90 days (checked Oct 29 2026). No new SUN can be minted, and the DAO release ended in June 2026.
 
-### Is SUN a better investment than Bitcoin?
+### How much SUN is in circulation?
 
-Side by side on Oct 21 2026: SUN at 7/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, SUN is the weaker of the two.
+SUN has about 19.2B coins in circulation as of Oct 29 2026; the next 90 days change that by −0.03% (−0.13% over a year).
+
+### Does SUN have more new supply than FF, XTZ or GNO?
+
+Over the next 90 days (checked Oct 29 2026): SUN −0.03%, FF +18.22%, XTZ +0.73%, GNO 0.00%. SUN has the least new supply of these 4 coins.
 
 ## SUN supply
 
-SUN.io's token: a fixed 19.90B supply with no mint, and a quarterly fee buyback that burned 9.03M SUN in 90 days. Supply down 0.05%.
+A fixed 19.90B supply that only shrinks: SUN.io's trading income buys SUN back and burns it every quarter.
 
-Over the next 90 days SUN supply changes −0.04%; across a full year, −0.17%. That puts supply at 5/5 (shrinking), #101 of 101 for new supply.
+Over the next 90 days SUN supply changes −0.03%; across a full year, −0.13%. That puts supply at 4.5/5 (shrinking), #96 of 100 for new supply.
 
 ## Demand today
 
-People's appetite for SUN is **weak**: 2/5, ranked #65 of 110.
+People's appetite for SUN is **weak**: 2/5, ranked #64 of 109.
 
 Members get the rest of the SUN demand read on mrnasdog.com.
 
@@ -75,11 +79,11 @@ Trading is under a third of its Dec 2024 peak.
 | Aug 2026 | $1,669M |
 | Sep 2026 | $1,814M |
 
-*Checked Oct 19 2026*
+*Checked Oct 29 2026*
 
 ### ▼ Justin Sun
 
-SEC case closed, but lawsuits keep coming; Poloniex lost $9M case.
+SEC case closed, but HTX now forced out of the UK.
 
 Fewer legal fights → price up · More lawsuits, sanctions → price down. Today: the price-down case.
 
@@ -91,13 +95,14 @@ Fewer legal fights → price up · More lawsuits, sanctions → price down. Toda
 | May 26 2026 | UK sanctions HTX |
 | Aug 31 2026 | HTX down after DDoS |
 | Oct 16 2026 | Poloniex $9M judgment |
+| Oct 29 2026 | HTX leaves UK, FCA deal |
 
-*Checked Oct 19 2026*
+*Checked Oct 29 2026*
 
 ## More on SUN
 
 - Every SUN unlock and burn, explained: https://mrnasdog.com/research/sun/inflation
-- Compare SUN with 100+ coins: https://mrnasdog.com/coins
+- Compare SUN supply with 100+ coins: https://mrnasdog.com/token-supply
 - The MrNasDog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

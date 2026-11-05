@@ -1,41 +1,41 @@
 ---
-title:         "Litecoin (LTC) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Is Litecoin worth buying today? By the law of supply and demand, the long-run signal for LTC is mixed (score 7/10, checked Oct 21 2026)."
+title:         "Is Litecoin (LTC) Inflationary? +0.42% New Supply in 90 Days"
+description:   "How much new LTC is coming? +0.42% in the next 90 days, +1.47% in the next year — checked Nov 1 2026."
 canonical_url: "https://mrnasdog.com/research/ltc"
 content_type:  "coin_hub"
 tags:          ["crypto", "ltc", "litecoin", "should-i-buy"]
 published:     true
 ---
-# Litecoin (LTC) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
+# Is Litecoin (LTC) Inflationary? +0.42% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/ltc, updated Oct 21 2026*
+*From https://mrnasdog.com/research/ltc, updated Nov 5 2026*
 
-Is Litecoin worth buying today? By the law of supply and demand, the long-run signal for LTC is **mixed** (score 7/10, checked Oct 21 2026).
+How much new LTC is coming? **+0.42%** in the next 90 days, **+1.47%** in the next year — checked Nov 1 2026.
 
-- **Long-run signal:** mixed for Litecoin
+- **Long-run signal:** positive for Litecoin
 - **Score:** 7/10 — supply 3/5, demand 4/5
-- **New supply:** +0.42% in 90 days · +1.51% in a year
+- **New supply:** +0.42% in 90 days · +1.47% in a year
 - **Demand:** strong (4/5)
-- **Price drivers:** 0 ▲ price up · 1 ▼ price down
+- **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## The things that move Litecoin
 
-What the score misses: 2 drivers. Today 0 push LTC's price up and 1 push it down.
+What the score misses: 2 drivers. Today 1 push LTC's price up and 1 push it down.
 
-### • Fund LTC held
+### ▲ Fund LTC held
 
-US funds hold about 2.1M LTC; Grayscale still awaits ETF listing.
+US funds hold about 2.2M LTC; Canary nearly doubled its pile
 
-▲ Price up if: Funds buy more LTC. ▼ Price down if: Funds shrink.
+▲ Price up if: Funds buy more LTC. ▼ Price down if: Funds shrink. Right now it points up.
 
 | Date | Grayscale LTCN | Canary LTCC |
 |---|---|---|
-| Sep 30 2025 | 2.01 M LTC | — |
-| Dec 31 2025 | 1.99 M LTC | 0.091 M LTC |
 | Mar 31 2026 | 1.98 M LTC | 0.115 M LTC |
 | Jun 30 2026 | 1.97 M LTC | 0.127 M LTC |
+| Oct 21 2026 | — | 0.232 M LTC |
+| Oct 30 2026 | — | 0.225 M LTC |
 
-*Checked Oct 12 2026*
+*Checked Nov 1 2026*
 
 ### ▼ Lite Strategy
 
@@ -50,62 +50,54 @@ Good for the price: Keeps or buys LTC. Bad for it: Sells LTC. Today: the price-d
 | Jun 30 2026 | 833 K LTC |
 | Jul 2 2026 | 830 K LTC |
 
-*Checked Oct 12 2026*
+*Checked Nov 1 2026*
 
 ## New LTC hitting the market
 
-Litecoin is a mined coin capped at 84M. Miners add about 0.42% to supply every 90 days, and almost nothing is taken back out.
+Litecoin's supply grew 0.42% in 90 days, all from the 6.25 LTC paid to miners for each block, with almost nothing destroyed. About the same is expected next, until the halving around late July 2027.
 
-Litecoin adds +0.42% new supply in the next 90 days and +1.51% over a year — supply scores 3/5 (light), #62 of 101 for new supply.
+Litecoin adds +0.42% new supply in the next 90 days and +1.47% over a year — supply scores 3/5 (light), #62 of 100 for new supply.
 
 ## Demand: how much people want LTC
 
-Demand reads **strong** (4/5), #9 of 110 coins we track — that is how much people want LTC now and how much buying could still come.
+Demand reads **strong** (4/5), #9 of 109 coins we track — that is how much people want LTC now and how much buying could still come.
 
 (Members see more LTC demand detail on the page; it is not repeated here.)
 
-## Questions about LTC
+## LTC tokenomics: questions and answers
 
-### Should I enter Litecoin right now?
+### Is Litecoin (LTC) inflationary or deflationary?
 
-By the law of supply and demand, Litecoin's long-run signal is mixed (Oct 21 2026, score 7/10). New supply: +0.42% in the next 90 days. Demand: strong (4/5). Litecoin's price drivers: 0 ▲ price up, 1 ▼ price down.
+Litecoin (LTC) is inflationary right now: its supply changes +0.42% over the next 90 days and +1.47% over the next year (checked Nov 1 2026). More LTC is added than removed.
 
-### Is Litecoin dead, or does anyone still hold it?
+### What is the LTC inflation rate in 2026?
 
-Probably not dead. US funds hold about 2.1M LTC, and Litecoin was worth about $4.97B on Oct 12 2026. The weak spot is Lite Strategy, a treasury firm that has sold about 11% of its LTC to pay for buybacks. By supply and demand, Litecoin's long-run signal is mixed today.
+About +1.47% a year: that is how much Litecoin (LTC) supply changes over the next 12 months, with +0.42% in the next 90 days (checked Nov 1 2026). That puts LTC #62 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Litecoin vs Bitcoin Cash: whose coins are closer to all mined?
+### When is the next LTC token unlock?
 
-Bitcoin Cash, by a small step. About 95.7% of its 21M max is out, against 92.5% of Litecoin's 84M on Oct 12 2026. So both have little new supply left, and demand will likely decide which one does better. Supply and demand still read mixed for Litecoin in the long run.
+No dated Litecoin (LTC) unlock is scheduled in the next 90 days (checked Nov 1 2026). New LTC still arrives: about 325K LTC in 90 days.
 
-### Can Litecoin reach $1,000?
+### Does Litecoin burn or buy back LTC?
 
-At $1,000, Litecoin would be worth about $77.7B in total — about 16 times its $4.99B market cap today (Oct 21 2026, about $64.2 a coin). Litecoin's supply also grows +1.51% in the next year, so every extra coin needs buyers too. For Litecoin, the supply-and-demand signal is mixed right now.
+Yes. In our count, about 6 LTC is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 1 2026). How it works: No buyback, no fee burn, no staking lock. Only 5.97 LTC was destroyed, sent by users to outputs no one can spend. Funds and a listed treasury company trade coins already counted.
 
-### When should I sell Litecoin?
+### Where does new LTC supply come from?
 
-Litecoin's signal is mixed for now. Litecoin's signal would turn if new supply jumps (today +0.42% in 90 days), or demand falls from strong, or Lite Strategy keeps pointing down.
+In our count, about 325K new LTC reaches the market over the next 90 days (checked Nov 1 2026). How it works: Mining is the only new supply: 6.25 LTC a block, about 324.73K LTC over 90 days at the measured 577 blocks a day. The next halving, around late July 2027, cuts it to 3.125 LTC a block.
 
-### Is Litecoin a good investment in 2026?
+### How much LTC is in circulation?
 
-Litecoin sits at 7/10 today (Oct 21 2026): supply 3/5, demand 4/5. One more year adds +1.51% to Litecoin's supply. Long-run signal: mixed.
+About 77.8M LTC is in circulation (checked Nov 1 2026). Over the next 90 days that changes +0.42%, and over a year +1.47%.
 
-### When is a good time to buy Litecoin?
+### Does LTC have more new supply than UNI, CC or AVAX?
 
-By the law of supply and demand, the better time to enter Litecoin is when its new supply is low, demand is high and its price drivers point up. Litecoin today: +0.42% new supply in 90 days (light), demand strong (4/5), drivers 0 ▲ / 1 ▼.
-
-### What could push Litecoin's price up or down?
-
-Right now 2 things drive Litecoin's price (0 ▲, 1 ▼). • Fund LTC held: US funds hold about 2.1M LTC; Grayscale still awaits ETF listing. ▼ Lite Strategy: Treasury firm has sold about 11% of its LTC for buybacks.
-
-### Should I buy Litecoin or Bitcoin?
-
-Side by side on Oct 21 2026: Litecoin at 7/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Litecoin is the weaker of the two.
+Over the next 90 days (checked Nov 1 2026): LTC +0.42%, UNI +0.01%, CC +1.82%, AVAX +1.06%. LTC sits in the middle of these 4 coins.
 
 ## Read more on LTC
 
 - Full LTC inflation analysis (every unlock, burn and buyback): https://mrnasdog.com/research/ltc/inflation
-- Every coin ranked by supply and demand, Litecoin included: https://mrnasdog.com/coins
+- Every coin's new supply, side by side: https://mrnasdog.com/token-supply
 - How we read Litecoin and every other coin: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

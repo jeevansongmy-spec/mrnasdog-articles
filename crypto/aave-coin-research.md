@@ -1,41 +1,41 @@
 ---
-title:         "Aave — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Supply and demand give Aave a positive long-run signal today (Oct 21 2026); its score is 7/10."
+title:         "Is AAVE Inflationary? +0.12% New Supply in 90 Days"
+description:   "How much new AAVE is coming? +0.12% in the next 90 days, +0.49% in the next year — checked Nov 2 2026."
 canonical_url: "https://mrnasdog.com/research/aave"
 content_type:  "coin_hub"
 tags:          ["crypto", "aave", "aave", "should-i-buy"]
 published:     true
 ---
-# Aave — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
+# Is AAVE Inflationary? +0.12% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/aave, updated Oct 21 2026*
+*From https://mrnasdog.com/research/aave, updated Nov 5 2026*
 
-Supply and demand give Aave a **positive** long-run signal today (Oct 21 2026); its score is 7/10.
+How much new AAVE is coming? **+0.12%** in the next 90 days, **+0.49%** in the next year — checked Nov 2 2026.
 
-- **Signal:** positive for Aave
-- **Score:** 7/10 — supply 3.5/5, demand 3.5/5
-- **Supply growth:** +0.15% in 90 days · +0.60% in a year
-- **How much people want it:** strong (3.5/5)
-- **Price drivers:** 2 ▲ price up · 0 ▼ price down
+- **Signal:** mixed for Aave
+- **Score:** 7.5/10 — supply 3.5/5, demand 4/5
+- **Supply growth:** +0.12% in 90 days · +0.49% in a year
+- **How much people want it:** strong (4/5)
+- **Price drivers:** 1 ▲ price up · 2 ▼ price down
 
 ## Big wallets, votes and dates behind AAVE
 
-What the score misses: 3 drivers. Today 2 push AAVE's price up and 0 push it down.
+What the score misses: 3 drivers. Today 1 push AAVE's price up and 2 push it down.
 
-### ▲ Money in Aave
+### ▼ Money in Aave
 
-Deposits recovering since June, still far below the Sep 2025 peak.
+Deposits shrank in the last 30 days; far below the 2025 peak.
 
-▲ Price up if: Deposits grow. ▼ Price down if: Deposits leave. Today: the price-up case.
+▲ Price up if: Deposits grow. ▼ Price down if: Deposits leave. Today: the price-down case.
 
 | Date | Money in Aave |
 |---|---|
-| Jul 31 2026 | $14.6B |
 | Aug 31 2026 | $17.7B |
 | Sep 30 2026 | $19.1B |
-| Oct 21 2026 | $18.1B |
+| Oct 31 2026 | $15.6B |
+| Nov 5 2026 | $17.2B |
 
-*Checked Oct 13 2026*
+*Checked Nov 2 2026*
 
 ### ▲ DAO vs Labs
 
@@ -52,13 +52,13 @@ Good for the price: Holders get revenue. Bad for it: Labs keeps control. Now: �
 | Oct 10 2026 | Foundation vote 100% yes |
 | No date yet | Brand to Foundation (coming) |
 
-*Checked Oct 13 2026*
+*Checked Nov 2 2026*
 
-### • US AAVE ETF
+### ▼ US AAVE ETF
 
-No US AAVE ETF yet; Bitwise's next date is Oct 25 2026.
+No US AAVE ETF yet; Bitwise date moved to Nov 22 2026.
 
-ETF opens → price up · More delays → price down.
+ETF opens → price up · More delays → price down. Now: ▼ down side.
 
 | Date | What happened / what is coming |
 |---|---|
@@ -66,60 +66,57 @@ ETF opens → price up · More delays → price down.
 | Feb 13 2026 | Grayscale files S-1 |
 | May 12 2026 | Grayscale S-1 update |
 | Sep 25 2026 | Bitwise delays again |
-| Oct 25 2026? | Bitwise new date (coming) |
+| Oct 23 2026 | Delayed to Nov 22 |
+| Nov 22 2026? | Bitwise new date (coming) |
 
-*Checked Oct 13 2026*
+*Checked Nov 2 2026*
 
 ## Where new Aave comes from
 
-Aave mints no new AAVE, but its DAO reserve pays about 240 a day to stakers and staff, and the buyback is paused, so supply grows about 0.14% every 90 days.
+AAVE has a fixed 16M supply, but the DAO's reserve still pays stakers and three payment streams, adding about 0.12% every 90 days while the buyback stays paused.
 
-Aave adds +0.15% new supply in the next 90 days and +0.60% over a year — supply scores 3.5/5 (steady).
+Aave adds +0.12% new supply in the next 90 days and +0.49% over a year — supply scores 3.5/5 (steady).
 
 ## Demand today
 
-Demand reads **strong** (3.5/5), #18 of 110 coins we track — that is how much people want AAVE now and how much buying could still come.
+Demand reads **strong** (4/5), #9 of 109 coins we track — that is how much people want AAVE now and how much buying could still come.
 
 Members get the rest of the Aave demand read on mrnasdog.com.
 
-## Aave: buy, sell or hold — questions and answers
+## Aave supply questions, answered
 
-### Should I buy Aave now, or wait?
+### Is AAVE inflationary or deflationary?
 
-Supply and demand point to a positive long-run signal for Aave (Oct 21 2026, score 7/10). Aave adds +0.15% new supply in 90 days, and demand reads strong (3.5/5). Aave's price drivers: 2 ▲ price up, 0 ▼ price down.
+AAVE is inflationary right now: its supply changes +0.12% over the next 90 days and +0.49% over the next year (checked Nov 2 2026). More AAVE is added than removed.
 
-### What is pushing Aave up lately?
+### What is the AAVE inflation rate in 2026?
 
-Two drivers likely help. Money deposited in Aave has been recovering since June, and the DAO now gets all of Aave's revenue. Supply barely grows too, only +0.15% in 90 days (Oct 13 2026), so new coins add little selling. For Aave, the supply-and-demand signal is positive right now.
+About +0.49% a year: that is how much AAVE supply changes over the next 12 months, with +0.12% in the next 90 days (checked Nov 2 2026). That puts AAVE #72 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Could Aave ever hit $1,000?
+### When is the next AAVE token unlock?
 
-Aave trades near $158 (Oct 21 2026). $1,000 a coin means a $15.4B market cap, 6.3 times today's $2.44B. Aave's supply also grows +0.60% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Aave stays positive.
+No dated AAVE unlock is scheduled in the next 90 days (checked Nov 2 2026). New AAVE still arrives: about 19.1K AAVE in 90 days.
 
-### When should I sell Aave?
+### Is any AAVE burned or bought back?
 
-We would read Aave differently if new supply jumps (today +0.15% in 90 days), or demand falls from strong. Until then Aave's signal stays positive. Mark this date for Aave: Oct 25 2026? — Bitwise new date.
+Not in a way that removes AAVE today: nothing takes AAVE off the market over the next 90 days (checked Nov 2 2026). Nothing takes AAVE off the market: the DAO buyback has been paused since Apr 19 2026 and there is no burn. Aavenomics 3.0 promises automatic buybacks, but no vote, size or date exists yet.
 
-### Is Aave a good investment in 2026?
+### Where does new AAVE supply come from?
 
-Aave scores 7/10 on our framework (Oct 21 2026): supply 3.5/5 (steady), demand 3.5/5. Over the next year Aave's supply changes +0.60%. The long-run signal is positive.
+In our count, about 19.1K new AAVE reaches the market over the next 90 days (checked Nov 2 2026). How it works: No AAVE is minted. New supply only leaves the DAO's Ecosystem Reserve: 11,984 AAVE of staking pay (150 a day) and 5,882 AAVE from three payment streams in 90 days, about 7,089 from the streams next.
 
-### How do I know when to buy Aave?
+### How much AAVE is in circulation?
 
-Supply and demand favor Aave most when little new supply is coming, demand is strong and the price drivers point up. Right now Aave has +0.15% new supply in 90 days (steady), demand strong (3.5/5), drivers 2 ▲ / 0 ▼.
+About 15.4M AAVE is in circulation (checked Nov 2 2026). Over the next 90 days that changes +0.12%, and over a year +0.49%.
 
-### Will Aave go up in 2026?
+### Does AAVE have more new supply than PEPE, M or ONDO?
 
-Aave's price drivers today: 2 pointing up, 0 pointing down, out of 3. ▲ Money in Aave: Deposits recovering since June, still far below the Sep 2025 peak. ▲ DAO vs Labs: DAO now gets all Aave revenue; brand handover still pending. • US AAVE ETF: No US AAVE ETF yet; Bitwise's next date is Oct 25 2026.
-
-### Should I buy Aave or Bitcoin?
-
-Aave: positive signal, 7/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, Aave reads weaker than Bitcoin today.
+Over the next 90 days (checked Nov 2 2026): AAVE +0.12%, PEPE 0.00%, M +1.45%, ONDO +35.12%. AAVE sits in the middle of these 4 coins.
 
 ## Read more on AAVE
 
 - Full AAVE inflation analysis (every unlock, burn and buyback): https://mrnasdog.com/research/aave/inflation
-- Every coin ranked by supply and demand, Aave included: https://mrnasdog.com/coins
+- Every coin's new supply, side by side: https://mrnasdog.com/token-supply
 - How we read Aave and every other coin: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

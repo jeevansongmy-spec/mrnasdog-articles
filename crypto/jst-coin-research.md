@@ -1,45 +1,45 @@
 ---
-title:         "JUST (JST) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Is JUST worth buying today? By the law of supply and demand, the long-run signal for JST is positive (score 7.5/10, checked Oct 21 2026)."
+title:         "Is JUST (JST) Inflationary? −1.25% Supply in 90 Days"
+description:   "How much new JST is coming? −1.25% in the next 90 days, −5.02% in the next year — checked Nov 3 2026."
 canonical_url: "https://mrnasdog.com/research/jst"
 content_type:  "coin_hub"
 tags:          ["crypto", "jst", "just", "should-i-buy"]
 published:     true
 ---
-# JUST (JST) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
+# Is JUST (JST) Inflationary? −1.25% Supply in 90 Days
 
-*From https://mrnasdog.com/research/jst, updated Oct 21 2026*
+*From https://mrnasdog.com/research/jst, updated Nov 5 2026*
 
-Is JUST worth buying today? By the law of supply and demand, the long-run signal for JST is **positive** (score 7.5/10, checked Oct 21 2026).
+How much new JST is coming? **−1.25%** in the next 90 days, **−5.02%** in the next year — checked Nov 3 2026.
 
 - **Long-run signal:** positive for JUST
-- **Score:** 7.5/10 — supply 5/5, demand 2.5/5
-- **New supply:** −1.89% in 90 days · −4.72% in a year
-- **Demand:** modest (2.5/5)
-- **Price drivers:** 2 ▲ price up · 0 ▼ price down
+- **Score:** 7/10 — supply 5/5, demand 2/5
+- **New supply:** −1.25% in 90 days · −5.02% in a year
+- **Demand:** weak (2/5)
+- **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## What could move JUST's price
 
-What the score misses: 2 drivers. Today 2 push JST's price up and 0 push it down.
+What the score misses: 2 drivers. Today 1 push JST's price up and 1 push it down.
 
-### ▲ JustLend deposits
+### ▼ JustLend deposits
 
-JustLend deposits climbed back from a $2.9B low in June 2026.
+Deposits slipped in the last 30 days, still above June's low.
 
-More money deposited → price up · Deposits leave → price down. Now: ▲ up side.
+More money deposited → price up · Deposits leave → price down. Now: ▼ down side.
 
 | Date | JustLend |
 |---|---|
-| Jul 31 2026 | $3.31B |
 | Aug 31 2026 | $3.69B |
 | Sep 30 2026 | $3.87B |
-| Oct 21 2026 | $3.71B |
+| Oct 31 2026 | $3.59B |
+| Nov 5 2026 | $3.52B |
 
-*Checked Oct 15 2026*
+*Checked Nov 3 2026*
 
 ### ▲ Justin Sun
 
-SEC case closed Mar 9 2026; WLFI lawsuits both ways still open.
+HTX left the UK; Sun now seeks court sanctions on WLFI.
 
 ▲ Price up if: Legal fights end. ▼ Price down if: New legal trouble. Right now it points up.
 
@@ -51,55 +51,57 @@ SEC case closed Mar 9 2026; WLFI lawsuits both ways still open.
 | Mar 9 2026 | SEC case closed |
 | Apr 21 2026 | Sun sues World Liberty |
 | May 4 2026 | WLFI countersues Sun |
+| Oct 29 2026 | HTX told to leave UK |
+| Nov 2 2026 | Sun seeks WLFI sanctions |
 
-*Checked Oct 15 2026*
+*Checked Nov 3 2026*
 
 ## Where new JUST comes from
 
-JUST's governance token mints nothing new, and JustLend DAO burns JST with its lending income every quarter.
+JUST mints no new JST, and its income-funded buyback and burn took 2.13% of supply out in 90 days, with about 1.25% more expected by February.
 
-JUST adds −1.89% new supply in the next 90 days and −4.72% over a year — supply scores 5/5 (shrinking) (place 107 of 101).
+JUST adds −1.25% new supply in the next 90 days and −5.02% over a year — supply scores 5/5 (shrinking) (place 104 of 100).
 
 ## Demand: how much people want JST
 
-Demand reads **modest** (2.5/5), #46 of 110 coins we track — that is how much people want JST now and how much buying could still come.
+Demand reads **weak** (2/5), #64 of 109 coins we track — that is how much people want JST now and how much buying could still come.
 
 A deeper JST demand breakdown is on the page for members.
 
-## Should you buy JUST? The questions, answered
+## Questions about JST supply
 
-### Is it a good time to buy JUST today?
+### Is JUST (JST) inflationary or deflationary?
 
-Supply and demand point to a positive long-run signal for JUST (Oct 21 2026, score 7.5/10). JUST adds −1.89% new supply in 90 days, and demand reads modest (2.5/5). JUST's price drivers: 2 ▲ price up, 0 ▼ price down.
+JUST (JST) is deflationary right now: its supply changes −1.25% over the next 90 days and −5.02% over the next year (checked Nov 3 2026). More JST is removed than added.
 
-### What JST news matters most right now?
+### What is the JST inflation rate in 2026?
 
-Two things, mostly. JustLend deposits climbed back from a $2.9B low in June 2026, and Justin Sun's SEC case closed on Mar 9 2026, though the WLFI lawsuits both ways are still open. JST supply also shrinks by 1.89% in 90 days, which probably helps. Supply and demand still read positive for JUST in the long run.
+About −5.02% a year: that is how much JUST (JST) supply changes over the next 12 months, with −1.25% in the next 90 days (checked Nov 3 2026).
 
-### When should I sell JUST?
+### When is the next JST token unlock?
 
-We would read JUST differently if new supply jumps (today −1.89% in 90 days), or demand falls from modest. Until then JUST's signal stays positive.
+No dated JUST (JST) unlock is scheduled in the next 90 days (checked Nov 3 2026).
 
-### Is JUST a good investment in 2026?
+### Does JUST burn or buy back JST?
 
-JUST scores 7.5/10 on our framework (Oct 21 2026): supply 5/5 (shrinking), demand 2.5/5. Over the next year JUST's supply changes −4.72%. The long-run signal is positive.
+Yes. In our count, about 101M JST is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 3 2026). How it works: Buyback and burn: 170.72M JST on Oct 16 2026; about 100.61M expected mid-January 2027.
 
-### How do I know when to buy JUST?
+### Where does new JST supply come from?
 
-Supply and demand favor JUST most when little new supply is coming, demand is strong and the price drivers point up. Right now JUST has −1.89% new supply in 90 days (shrinking), demand modest (2.5/5), drivers 2 ▲ / 0 ▼.
+Almost no new JST reaches the market over the next 90 days (checked Nov 3 2026). No new JST: nothing minted since 2020, and vesting ended in 2023.
 
-### Will JUST go up in 2026?
+### How much JST is in circulation?
 
-JUST's price drivers today: 2 pointing up, 0 pointing down, out of 2. ▲ JustLend deposits: JustLend deposits climbed back from a $2.9B low in June 2026. ▲ Justin Sun: SEC case closed Mar 9 2026; WLFI lawsuits both ways still open.
+About 8.02B JST is in circulation (checked Nov 3 2026). Over the next 90 days that changes −1.25%, and over a year −5.02%.
 
-### Should I buy JUST or Bitcoin?
+### Does JST have more new supply than BGB, ETC or VVV?
 
-JUST: positive signal, 7.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, JUST reads weaker than Bitcoin today.
+Over the next 90 days (checked Nov 3 2026): JST −1.25%, BGB 0.00%, ETC +0.59%, VVV +3.39%. JST has the least new supply of these 4 coins.
 
 ## More on JUST
 
 - Full JST inflation analysis (every unlock, burn and buyback): https://mrnasdog.com/research/jst/inflation
-- Every coin ranked by supply and demand, JUST included: https://mrnasdog.com/coins
+- Every coin's new supply, side by side: https://mrnasdog.com/token-supply
 - How we read JUST and every other coin: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

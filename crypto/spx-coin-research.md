@@ -1,16 +1,16 @@
 ---
-title:         "Should You Buy SPX6900 (SPX)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Supply and demand give SPX6900 (SPX) a mixed long-run signal today (Oct 21 2026); its score is 4/10."
+title:         "Is SPX6900 (SPX) Inflationary? 0.00% Supply in 90 Days"
+description:   "How much new SPX is coming? 0.00% in the next 90 days, 0.00% in the next year — checked Oct 28 2026."
 canonical_url: "https://mrnasdog.com/research/spx"
 content_type:  "coin_hub"
 tags:          ["crypto", "spx", "spx6900", "should-i-buy"]
 published:     true
 ---
-# Should You Buy SPX6900 (SPX)? Supply, Demand and Price Drivers (Oct 2026)
+# Is SPX6900 (SPX) Inflationary? 0.00% Supply in 90 Days
 
-*From https://mrnasdog.com/research/spx, updated Oct 21 2026*
+*From https://mrnasdog.com/research/spx, updated Nov 5 2026*
 
-Supply and demand give SPX6900 (SPX) a **mixed** long-run signal today (Oct 21 2026); its score is 4/10.
+How much new SPX is coming? **0.00%** in the next 90 days, **0.00%** in the next year — checked Oct 28 2026.
 
 - **Long-run signal:** mixed for SPX6900
 - **Score:** 4/10 — supply 1.5/5, demand 2.5/5
@@ -32,7 +32,7 @@ Good for the price: Murad keeps holding. Bad for it: Murad sells. Now: ▲ up si
 |---|---|
 | Sep 2026 | Murad's known wallets 3% · Everyone else 97% |
 
-*Checked Oct 18 2026*
+*Checked Oct 28 2026*
 
 ### • Exchange listings
 
@@ -47,54 +47,54 @@ New big listings → price up · Delistings → price down.
 | Sep 9 2025 | Coinbase spot listing |
 | Jun 16 2026 | Upbit + Bithumb list SPX |
 
-*Checked Oct 18 2026*
+*Checked Oct 28 2026*
 
 ## How fast SPX6900 supply grows
 
-SPX6900 is an Ethereum meme coin with a fixed 1B supply and 930.99M circulating. No mint, no vesting, no team: supply roughly flat in 90 days.
+SPX6900 is a meme coin with a supply fixed at 1B. Nothing new can be minted and nothing unlocks, so its price runs on demand alone.
 
 SPX6900 adds 0.00% new supply in the next 90 days and 0.00% over a year — supply scores 1.5/5 (meme coin).
 
 ## Demand: how much people want SPX
 
-Demand reads **modest** (2.5/5), #46 of 110 coins we track — that is how much people want SPX now and how much buying could still come.
+Demand reads **modest** (2.5/5), #47 of 109 coins we track — that is how much people want SPX now and how much buying could still come.
 
 (Members see more SPX demand detail on the page; it is not repeated here.)
 
-## Questions people ask about SPX6900
+## Is SPX inflationary? Questions about SPX6900 supply
 
-### Should I buy SPX6900 now, or wait?
+### Is SPX6900 (SPX) inflationary or deflationary?
 
-Supply and demand point to a mixed long-run signal for SPX6900 (Oct 21 2026, score 4/10). SPX6900 adds 0.00% new supply in 90 days, and demand reads modest (2.5/5). SPX6900's price drivers: 1 ▲ price up, 0 ▼ price down.
+SPX6900 (SPX) is flat, neither inflationary nor deflationary right now: its supply changes 0.00% over the next 90 days and 0.00% over the next year (checked Oct 28 2026). New SPX and removed SPX about cancel out.
 
-### Is SPX6900 dead, or do holders still believe?
+### What is the SPX inflation rate in 2026?
 
-SPX6900 does not look dead. Murad's wallets hold about 3% of SPX and have not sold, and Upbit and Bithumb listed it on Jun 16 2026. Supply is fixed with no mint, so the price of about $0.36 (Oct 18 2026) rests on demand alone. For SPX6900, the supply-and-demand signal is mixed right now.
+About 0.00% a year: that is how much SPX6900 (SPX) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Oct 28 2026).
 
-### When should I sell SPX6900?
+### When is the next SPX token unlock?
 
-We would read SPX6900 differently if new supply jumps (today 0.00% in 90 days), or demand falls from modest. Until then SPX6900's signal stays mixed.
+No dated SPX6900 (SPX) unlock is scheduled in the next 90 days (checked Oct 28 2026).
 
-### Is SPX6900 a good investment in 2026?
+### Does SPX6900 burn or buy back SPX?
 
-SPX6900 scores 4/10 on our framework (Oct 21 2026): supply 1.5/5 (meme coin), demand 2.5/5. Over the next year SPX6900's supply changes 0.00%. The long-run signal is mixed.
+Not in a way that removes SPX today: nothing takes SPX off the market over the next 90 days (checked Oct 28 2026). Fan-built apps burn small amounts now and then: 156.81 SPX in the last 90 days.
 
-### How do I know when to buy SPX6900?
+### Where does new SPX supply come from?
 
-Supply and demand favor SPX6900 most when little new supply is coming, demand is strong and the price drivers point up. Right now SPX6900 has 0.00% new supply in 90 days (meme coin), demand modest (2.5/5), drivers 1 ▲ / 0 ▼.
+Almost no new SPX reaches the market over the next 90 days (checked Oct 28 2026). No new SPX can be made: the 1B supply is fixed in the contract, with no team share and no unlocks.
 
-### Will SPX6900 go up in 2026?
+### How much SPX is in circulation?
 
-SPX6900's price drivers today: 1 pointing up, 0 pointing down, out of 2. ▲ Murad's stack: Murad's wallets hold about 3% of SPX and have not sold. • Exchange listings: Last big listing: Upbit and Bithumb on Jun 16 2026.
+About 931M SPX is in circulation (checked Oct 28 2026). Over the next 90 days that changes 0.00%, and over a year 0.00%.
 
-### Should I buy SPX6900 or Bitcoin?
+### Does SPX have more new supply than XPL, BSV or STRK?
 
-SPX6900: mixed signal, 4/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, SPX6900 reads weaker than Bitcoin today.
+Over the next 90 days (checked Oct 28 2026): SPX 0.00%, XPL +14.35%, BSV +0.20%, STRK +5.53%. SPX has the least new supply of these 4 coins.
 
 ## Where to read the rest of SPX
 
 - Full SPX inflation analysis (every unlock, burn and buyback): https://mrnasdog.com/research/spx/inflation
-- Every coin ranked by supply and demand, SPX6900 included: https://mrnasdog.com/coins
+- Every coin's new supply, side by side: https://mrnasdog.com/token-supply
 - How we read SPX6900 and every other coin: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

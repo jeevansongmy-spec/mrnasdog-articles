@@ -1,16 +1,16 @@
 ---
-title:         "Should You Buy Pepe? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Supply and demand give Pepe a mixed long-run signal today (Oct 21 2026); its score is 5/10."
+title:         "PEPE Supply & Demand: 0.00% Supply in 90 Days"
+description:   "PEPE supply changes 0.00% over the next 90 days and 0.00% over a year (checked Nov 2 2026)."
 canonical_url: "https://mrnasdog.com/research/pepe"
 content_type:  "coin_hub"
 tags:          ["crypto", "pepe", "pepe", "should-i-buy"]
 published:     true
 ---
-# Should You Buy Pepe? Supply, Demand and Price Drivers (Oct 2026)
+# PEPE Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/pepe · checked Oct 21 2026*
+*Live page: https://mrnasdog.com/research/pepe · checked Nov 5 2026*
 
-Supply and demand give Pepe a **mixed** long-run signal today (Oct 21 2026); its score is 5/10.
+PEPE supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 2 2026).
 
 - **Signal today:** mixed (by the law of supply and demand)
 - **MrNasDog score:** 5/10 — supply 1.5/5, demand 3.5/5
@@ -18,53 +18,45 @@ Supply and demand give Pepe a **mixed** long-run signal today (Oct 21 2026); its
 - **Demand:** strong (3.5/5)
 - **Drivers:** 0 ▲ price up · 0 ▼ price down
 
-## Pepe: buy, sell or hold — questions and answers
+## Pepe supply questions, answered
 
-### Is it a good time to buy Pepe today?
+### Is PEPE inflationary or deflationary?
 
-Based on the law of supply and demand, the long-run signal for Pepe is mixed. As of Oct 21 2026, score 5/10, Pepe faces 0.00% new supply over 90 days, with demand strong (3.5/5). Pepe's price drivers: 0 ▲ price up, 0 ▼ price down.
+As of Nov 2 2026, PEPE supply moves 0.00% in 90 days and 0.00% in a year, so PEPE is about flat. What is created and what is removed roughly match.
 
-### Why is Pepe going down?
+### What is the PEPE inflation rate in 2026?
 
-No new coins are to blame: Pepe adds 0.00% supply in the next 90 days, so selling comes from holders. Ten wallets hold about 38% of PEPE, mostly exchanges, so moves can be sharp. None of our drivers points down today (Oct 14 2026). Supply and demand still read mixed for Pepe in the long run.
+PEPE supply shrinks 0.00% over the next 12 months and 0.00% over the next 90 days (checked Nov 2 2026).
 
-### Is the Pepe coin dead?
+### When is the next PEPE token unlock?
 
-Not dead. Pepe is still worth about $1.74B (Oct 14 2026), and the first PEPE ETF filing was updated on Oct 2 2026. There is no launch date yet, so that hope is still only on paper. For Pepe, the supply-and-demand signal is mixed right now.
+No dated PEPE unlock is scheduled in the next 90 days (checked Nov 2 2026).
 
-### Is 1 cent possible for Pepe?
+### Is any PEPE burned or bought back?
 
-It would take 2,446 times today's value: 1 cent × Pepe's coins in the market = about $4.21 trillion, against $1.72B now (Oct 21 2026). Pepe's supply barely changes in the next year (0.00%), so the whole move would have to come from demand. That leaves Pepe's long-run signal at mixed, by supply and demand.
+Not in a way that removes PEPE today: nothing takes PEPE off the market over the next 90 days (checked Nov 2 2026). Holders burned about 2.58B PEPE in 90 days, mostly sent to the token's own address where it can never move.
 
-### Should I sell my Pepe now?
+### Where does new PEPE supply come from?
 
-Today the signal is mixed. Supply and demand would point the other way for Pepe if new supply jumps (today 0.00% in 90 days), or demand falls from strong. Next date to watch for Pepe: No date yet — ETF starts trading.
+Almost no new PEPE reaches the market over the next 90 days (checked Nov 2 2026). No new PEPE can be made: all 420.69T were minted on launch day, with no vesting and no team unlocks.
 
-### Is Pepe a good long-term investment?
+### How much PEPE is in circulation?
 
-On our framework Pepe scores 5/10 (Oct 21 2026), with supply 1.5/5 (meme coin) and demand 3.5/5. In the next year Pepe's supply changes 0.00%, so the long-run signal reads mixed.
+PEPE has about 421T coins in circulation as of Nov 2 2026; the next 90 days change that by 0.00% (0.00% over a year).
 
-### What is the best time to invest in Pepe?
+### Does PEPE have more new supply than ENA, AAVE or M?
 
-The law of supply and demand points to one window for Pepe: low new supply, high demand, drivers pointing up. Where Pepe stands today: 0.00% new supply in 90 days (meme coin), demand strong (3.5/5), drivers 0 ▲ / 0 ▼.
-
-### Will Pepe go up? What could move its price?
-
-Pepe has 2 price drivers today (0 ▲ price up, 0 ▼ price down). • PEPE ETF: First PEPE ETF filing updated Oct 2 2026; no launch date yet. • Top 10 wallets: Ten wallets hold about 38% of PEPE, mostly exchanges.
-
-### Is Pepe a better investment than Bitcoin?
-
-Pepe reads mixed at 5/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, Pepe looks weaker than Bitcoin today.
+Over the next 90 days (checked Nov 2 2026): PEPE 0.00%, ENA +2.10%, AAVE +0.12%, M +1.45%. PEPE has the least new supply of these 4 coins.
 
 ## Supply: how much new PEPE is coming
 
-A fixed 420.69T supply with no mint, no owner and no vesting. Supply is flat, so PEPE's price rests on demand alone.
+Every PEPE already exists and the contract cannot make more; holders burn a sliver, so supply is flat.
 
 Over the next 90 days PEPE supply changes 0.00%; across a full year, 0.00%. That puts supply at 1.5/5 (meme coin).
 
 ## Who wants Pepe right now
 
-People's appetite for Pepe is **strong**: 3.5/5, ranked #18 of 110.
+People's appetite for Pepe is **strong**: 3.5/5, ranked #20 of 109.
 
 A deeper PEPE demand breakdown is on the page for members.
 
@@ -85,25 +77,25 @@ Good for the price: ETF opens to buyers. Bad for it: ETF delayed or denied.
 | Oct 2 2026 | Filing updated for Cboe |
 | No date yet | ETF starts trading (coming) |
 
-*Checked Oct 14 2026*
+*Checked Nov 2 2026*
 
 ### • Top 10 wallets
 
-Ten wallets hold about 38% of PEPE, mostly exchanges.
+Ten wallets hold about 35% of PEPE; a Sun-linked one is #8.
 
 ▲ Price up if: Big wallets keep holding. ▼ Price down if: Big wallets sell.
 
 | When | Who holds what |
 |---|---|
 | Apr 2026 | Top 10 wallets 41% · Everyone else 59% |
-| Oct 9 2026 | Top 10 wallets 37.7% · Everyone else 62.3% |
+| Nov 2 2026 | Top 10 wallets 35.4% · Everyone else 64.6% |
 
-*Checked Oct 14 2026*
+*Checked Nov 2 2026*
 
 ## Next steps for PEPE
 
 - Every PEPE unlock and burn, explained: https://mrnasdog.com/research/pepe/inflation
-- Compare PEPE with 100+ coins: https://mrnasdog.com/coins
+- Compare PEPE supply with 100+ coins: https://mrnasdog.com/token-supply
 - The MrNasDog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

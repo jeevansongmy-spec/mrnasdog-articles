@@ -1,32 +1,32 @@
 ---
-title:         "Should You Buy Quant (QNT)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Is Quant worth buying today? By the law of supply and demand, the long-run signal for QNT is positive (score 7.5/10, checked Oct 21 2026)."
+title:         "Is Quant (QNT) Inflationary? 0.00% Supply in 90 Days"
+description:   "How much new QNT is coming? 0.00% in the next 90 days, 0.00% in the next year — checked Nov 2 2026."
 canonical_url: "https://mrnasdog.com/research/qnt"
 content_type:  "coin_hub"
 tags:          ["crypto", "qnt", "quant", "should-i-buy"]
 published:     true
 ---
-# Should You Buy Quant (QNT)? Supply, Demand and Price Drivers (Oct 2026)
+# Is Quant (QNT) Inflationary? 0.00% Supply in 90 Days
 
-*From https://mrnasdog.com/research/qnt, updated Oct 21 2026*
+*From https://mrnasdog.com/research/qnt, updated Nov 5 2026*
 
-Is Quant worth buying today? By the law of supply and demand, the long-run signal for QNT is **positive** (score 7.5/10, checked Oct 21 2026).
+How much new QNT is coming? **0.00%** in the next 90 days, **0.00%** in the next year — checked Nov 2 2026.
 
 - **Long-run signal:** positive for Quant
-- **Score:** 7.5/10 — supply 4.5/5, demand 3/5
+- **Score:** 7/10 — supply 4.5/5, demand 2.5/5
 - **New supply:** 0.00% in 90 days · 0.00% in a year
-- **Demand:** moderate (3/5)
+- **Demand:** modest (2.5/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## Where new Quant comes from
 
-Quant's QNT has had no new coins since 2018 and nothing vests or burns; a reserve wallet released 12,002 QNT in October, so supply rose +0.08% in 90 days.
+Quant has not minted a QNT since 2018 and nothing vests, so supply grew just 0.08% in 90 days, all from one 12,002 QNT team wallet release in October.
 
 Quant adds 0.00% new supply in the next 90 days and 0.00% over a year — supply scores 4.5/5 (flat).
 
 ## How strong is Quant demand?
 
-Demand reads **moderate** (3/5), #32 of 110 coins we track — that is how much people want QNT now and how much buying could still come.
+Demand reads **modest** (2.5/5), #47 of 109 coins we track — that is how much people want QNT now and how much buying could still come.
 
 The members-only part of QNT's demand section is not included.
 
@@ -36,18 +36,18 @@ What the score misses: 2 drivers. Today 1 push QNT's price up and 1 push it down
 
 ### ▼ Founder-linked wallets
 
-Two wallets idle since 2018 moved 48.6K QNT on Sep 29 2026.
+Two old wallets moved 48.6K QNT Sep 29 2026; none since.
 
 Good for the price: Coins stay put. Bad for it: Coins leave wallets. Today: the price-down case.
 
 | Date | Wallet 0x48E9 | Wallet 0x8266 |
 |---|---|---|
-| Jul 31 2026 | 626 K QNT | 623 K QNT |
 | Aug 31 2026 | 626 K QNT | 623 K QNT |
 | Sep 30 2026 | 600 K QNT | 600 K QNT |
-| Oct 21 2026 | 600 K QNT | 600 K QNT |
+| Oct 31 2026 | 600 K QNT | 600 K QNT |
+| Nov 5 2026 | 600 K QNT | 600 K QNT |
 
-*Checked Oct 13 2026*
+*Checked Nov 2 2026*
 
 ### ▲ Bank adoption
 
@@ -64,46 +64,42 @@ More banks use Quant → price up · Banks skip QNT token → price down. Now: �
 | Sep 24 2026 | US TCH picks Quant |
 | First half 2027 | US network opens (coming) |
 
-*Checked Oct 13 2026*
+*Checked Nov 2 2026*
 
-## Should you buy Quant? The questions, answered
+## Questions about QNT supply
 
-### Is it time to buy the Quant dip?
+### Is Quant (QNT) inflationary or deflationary?
 
-Supply and demand point to a positive long-run signal for Quant (Oct 21 2026, score 7.5/10). Quant adds 0.00% new supply in 90 days, and demand reads moderate (3/5). Quant's price drivers: 1 ▲ price up, 1 ▼ price down.
+Quant (QNT) is flat, neither inflationary nor deflationary right now: its supply changes 0.00% over the next 90 days and 0.00% over the next year (checked Nov 2 2026). New QNT and removed QNT about cancel out.
 
-### Is Quant crypto dead after all these years?
+### What is the QNT inflation rate in 2026?
 
-Unlikely, with a US bank group picking Quant on Sep 24 2026 and its network due to open in the first half of 2027. QNT's role there is still unclear. One worry: two wallets idle since 2018 moved 48.6K QNT on Sep 29 2026. That leaves Quant's long-run signal at positive, by supply and demand.
+About 0.00% a year: that is how much Quant (QNT) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 2 2026). That puts QNT #93 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Could Quant ever hit $100,000?
+### When is the next QNT token unlock?
 
-Quant trades near $206 (Oct 21 2026). $100,000 a coin means a $1.46 trillion market cap, 485 times today's $3B. Quant's supply barely changes in the next year (0.00%), so the whole move would have to come from demand. Supply and demand still read positive for Quant in the long run.
+No dated Quant (QNT) unlock is scheduled in the next 90 days (checked Nov 2 2026).
 
-### When should I sell Quant?
+### Does Quant burn or buy back QNT?
 
-We would read Quant differently if new supply jumps (today 0.00% in 90 days), or demand falls from moderate, or Founder-linked wallets keeps pointing down. Until then Quant's signal stays positive. Mark this date for Quant: First half 2027 — US network opens.
+Yes. In our count, about 15 QNT is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 2 2026). How it works: No buyback and no fee burn. About 15 QNT every 90 days is sent by mistake to the token contract, where it is lost for good.
 
-### Is Quant a good investment in 2026?
+### Where does new QNT supply come from?
 
-Quant scores 7.5/10 on our framework (Oct 21 2026): supply 4.5/5 (flat), demand 3/5. Over the next year Quant's supply changes 0.00%. The long-run signal is positive.
+Almost no new QNT reaches the market over the next 90 days (checked Nov 2 2026). No QNT has been minted since 2018 and nothing vests. A Quant team wallet released 12,002 QNT on Oct 6 and Oct 10 2026; two team wallets still hold 56,315 QNT with no release plan.
 
-### How do I know when to buy Quant?
+### How much QNT is in circulation?
 
-Supply and demand favor Quant most when little new supply is coming, demand is strong and the price drivers point up. Right now Quant has 0.00% new supply in 90 days (flat), demand moderate (3/5), drivers 1 ▲ / 1 ▼.
+About 14.6M QNT is in circulation (checked Nov 2 2026). Over the next 90 days that changes 0.00%, and over a year 0.00%.
 
-### Will Quant go up in 2026?
+### Does QNT have more new supply than HBAR, SHIB or TAO?
 
-Quant's price drivers today: 1 pointing up, 1 pointing down, out of 2. ▼ Founder-linked wallets: Two wallets idle since 2018 moved 48.6K QNT on Sep 29 2026. ▲ Bank adoption: US bank group picked Quant Sep 24 2026; QNT's role unclear.
-
-### Should I buy Quant or Bitcoin?
-
-Quant: positive signal, 7.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, Quant reads weaker than Bitcoin today.
+Over the next 90 days (checked Nov 2 2026): QNT 0.00%, HBAR +1.26%, SHIB 0.00%, TAO +2.71%. QNT sits in the middle of these 4 coins.
 
 ## Read more on QNT
 
 - Full QNT inflation analysis (every unlock, burn and buyback): https://mrnasdog.com/research/qnt/inflation
-- Every coin ranked by supply and demand, Quant included: https://mrnasdog.com/coins
+- Every coin's new supply, side by side: https://mrnasdog.com/token-supply
 - How we read Quant and every other coin: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

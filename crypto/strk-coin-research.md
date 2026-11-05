@@ -1,62 +1,62 @@
 ---
-title:         "Should You Buy STRK? Starknet Supply, Demand and What Moves Its Price"
-description:   "As of Oct 21 2026, Starknet scores 3.5/10 on our framework, and its supply-and-demand signal reads negative."
+title:         "Starknet (STRK) Supply & Demand: +5.53% New Supply in 90 Days"
+description:   "Starknet (STRK) supply changes +5.53% over the next 90 days and +10.45% over a year (checked Oct 27 2026)."
 canonical_url: "https://mrnasdog.com/research/strk"
 content_type:  "coin_hub"
 tags:          ["crypto", "strk", "starknet", "should-i-buy"]
 published:     true
 ---
-# Should You Buy STRK? Starknet Supply, Demand and What Moves Its Price
+# Starknet (STRK) Supply & Demand: +5.53% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/strk · checked Oct 21 2026*
+*Live page: https://mrnasdog.com/research/strk · checked Nov 5 2026*
 
-As of Oct 21 2026, Starknet scores 3.5/10 on our framework, and its supply-and-demand signal reads **negative**.
+Starknet (STRK) supply changes **+5.53%** over the next 90 days and **+10.45%** over a year (checked Oct 27 2026).
 
 - **Signal today:** negative (by the law of supply and demand)
 - **MrNasDog score:** 3.5/10 — supply 0.5/5, demand 3/5
-- **New coins:** +8.28% in 90 days · +21.57% in a year
+- **New coins:** +5.53% in 90 days · +10.45% in a year
 - **Demand:** moderate (3/5)
 - **Drivers:** 2 ▲ price up · 0 ▼ price down
 
-## Should you buy Starknet? The questions, answered
+## Questions about STRK supply
 
-### Is it a good time to buy Starknet today?
+### Is Starknet (STRK) inflationary or deflationary?
 
-Based on the law of supply and demand, the long-run signal for Starknet is negative. As of Oct 21 2026, score 3.5/10, Starknet faces +8.28% new supply over 90 days, with demand moderate (3/5). Starknet's price drivers: 2 ▲ price up, 0 ▼ price down.
+As of Oct 27 2026, Starknet (STRK) supply moves +5.53% in 90 days and +10.45% in a year, so STRK is inflationary. New STRK outweighs what is burned or bought back.
 
-### Is staking on Starknet still growing?
+### What is the STRK inflation rate in 2026?
 
-Yes, staked STRK is about 11 times its Dec 2024 level and sits just off its record (Oct 17 2026). BTC staked on Starknet also jumped 15% since Oct 10, though it is still far below its peak. The catch is supply: +8.28% new STRK likely arrives in 90 days. Our supply-and-demand read for Starknet stays negative.
+Starknet (STRK) supply grows +10.45% over the next 12 months and +5.53% over the next 90 days (checked Oct 27 2026). That puts STRK #16 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Should I sell my Starknet now?
+### When is the next STRK token unlock?
 
-Today the signal is negative. Supply and demand would point the other way for Starknet if new supply keeps arriving (+8.28% in 90 days), or demand falls from moderate.
+The next Starknet (STRK) unlock we track is on Nov 15 2026: about 127M STRK, 1.67% of the STRK in circulation (Investor and team unlock). Checked Oct 27 2026.
 
-### Is Starknet a good long-term investment?
+### Does Starknet burn or buy back STRK?
 
-On our framework Starknet scores 3.5/10 (Oct 21 2026), with supply 0.5/5 (flooding) and demand 3/5. In the next year Starknet's supply changes +21.57%, so the long-run signal reads negative.
+Not in a way that removes STRK today: nothing takes STRK off the market over the next 90 days (checked Oct 27 2026). Nothing takes STRK off the market: fees go to the network's operator and are not burned, and there is no buyback.
 
-### What is the best time to invest in Starknet?
+### Where does new STRK supply come from?
 
-The law of supply and demand points to one window for Starknet: low new supply, high demand, drivers pointing up. Where Starknet stands today: +8.28% new supply in 90 days (flooding), demand moderate (3/5), drivers 2 ▲ / 0 ▼.
+In our count, about 420M new STRK reaches the market over the next 90 days (checked Oct 27 2026). How it works: Up to 127M STRK unlocks on the 15th of every month until Mar 15 2027, and staking mints about 39.0M new STRK a quarter. Foundation hand-outs come on top.
 
-### Will Starknet go up? What could move its price?
+### How much STRK is in circulation?
 
-Starknet has 2 price drivers today (2 ▲ price up, 0 ▼ price down). ▲ STRK staked: Staked STRK is 11x its Dec 2024 level, just off record. ▲ BTC staked: BTC staked jumped 15% since Oct 10, still far below peak.
+Starknet (STRK) has about 7.59B coins in circulation as of Oct 27 2026; the next 90 days change that by +5.53% (+10.45% over a year).
 
-### Is Starknet a better investment than Bitcoin?
+### Does STRK have more new supply than BSV, SEI or BTT?
 
-Starknet reads negative at 3.5/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, Starknet looks weaker than Bitcoin today.
+Over the next 90 days (checked Oct 27 2026): STRK +5.53%, BSV +0.20%, SEI +4.96%, BTT −2.17%. STRK has the most new supply of these 4 coins.
 
 ## Supply: how much new STRK is coming
 
-Starknet's STRK supply grows about 9.47% in 90 days: 381M of monthly unlocks, 300M from a team reserve and 37.7M minted for stakers, with no burn.
+Starknet's STRK supply grows about 5.53% in 90 days: 381M of monthly investor and team unlocks and 39.0M minted for stakers, with no burn.
 
-Over the next 90 days STRK supply changes +8.28%; across a full year, +21.57%. That puts supply at 0.5/5 (flooding) (place 11 of 101).
+Over the next 90 days STRK supply changes +5.53%; across a full year, +10.45%. That puts supply at 0.5/5 (flooding) (place 16 of 100).
 
 ## How strong is Starknet demand?
 
-People's appetite for Starknet is **moderate**: 3/5, ranked #32 of 110.
+People's appetite for Starknet is **moderate**: 3/5, ranked #34 of 109.
 
 (Members see more STRK demand detail on the page; it is not repeated here.)
 
@@ -66,38 +66,38 @@ Besides supply and demand, we track 2 price drivers for Starknet: 2 ▲ and 0 �
 
 ### ▲ STRK staked
 
-Staked STRK is 11x its Dec 2024 level, just off record.
+Staked STRK hit a record after a huge Oct 27 inflow.
 
 ▲ Price up if: More STRK locked. ▼ Price down if: Stakers pull out. Today: the price-up case.
 
 | Date | STRK staked |
 |---|---|
-| Jul 31 2026 | 1,431 M STRK |
 | Aug 31 2026 | 1,520 M STRK |
 | Sep 30 2026 | 1,589 M STRK |
 | Oct 17 2026 | 1,541 M STRK |
+| Oct 27 2026 | 1,740 M STRK |
 
-*Checked Oct 17 2026*
+*Checked Oct 27 2026*
 
 ### ▲ BTC staked
 
-BTC staked jumped 15% since Oct 10, still far below peak.
+BTC staked holds near 620, far below the Dec 31 2025 peak.
 
 More Bitcoin staked → price up · Bitcoin leaves Starknet → price down. Right now it points up.
 
 | Date | BTC staked |
 |---|---|
-| Jul 31 2026 | 693 BTC |
 | Aug 31 2026 | 613 BTC |
 | Sep 30 2026 | 589 BTC |
 | Oct 17 2026 | 616 BTC |
+| Oct 27 2026 | 622 BTC |
 
-*Checked Oct 17 2026*
+*Checked Oct 27 2026*
 
 ## Go deeper on Starknet
 
 - Every STRK unlock and burn, explained: https://mrnasdog.com/research/strk/inflation
-- Compare STRK with 100+ coins: https://mrnasdog.com/coins
+- Compare STRK supply with 100+ coins: https://mrnasdog.com/token-supply
 - The MrNasDog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

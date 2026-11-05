@@ -1,28 +1,28 @@
 ---
-title:         "Avalanche (AVAX): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)"
-description:   "Is Avalanche worth buying today? By the law of supply and demand, the long-run signal for AVAX is mixed (score 5.5/10, checked Oct 21 2026)."
+title:         "Avalanche (AVAX) Inflation Rate: +1.06% New Supply in 90 Days"
+description:   "Avalanche pays stakers in new AVAX and opens a 1.67M Foundation tranche every quarter, while the fee burn takes back under 2%. Supply +1.11% in 90 days."
 canonical_url: "https://mrnasdog.com/research/avax"
 content_type:  "coin_hub"
 tags:          ["crypto", "avax", "avalanche", "should-i-buy"]
 published:     true
 ---
-# Avalanche (AVAX): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)
+# Avalanche (AVAX) Inflation Rate: +1.06% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/avax — numbers checked Oct 21 2026*
+*Source: https://mrnasdog.com/research/avax — numbers checked Nov 5 2026*
 
-Is Avalanche worth buying today? By the law of supply and demand, the long-run signal for AVAX is **mixed** (score 5.5/10, checked Oct 21 2026).
+**+1.06%** in 90 days, **+4.25%** in a year: that is how fast Avalanche (AVAX) supply changes as of Nov 1 2026.
 
 - **Long-run signal:** mixed — AVAX, read by supply and demand
-- **Score:** 5.5/10 — supply 2.5/5, demand 3/5
-- **New supply:** +0.80% in 90 days · +3.19% in a year
+- **Score:** 5/10 — supply 2/5, demand 3/5
+- **New supply:** +1.06% in 90 days · +4.25% in a year
 - **Demand:** moderate (3/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## Supply — new AVAX in the next 90 days
 
-Avalanche pays stakers in new AVAX and unlocks the Foundation's share every quarter; fee burns remove under 2% of it. Supply +0.85% in 90 days, +0.80% next.
+Avalanche pays stakers in new AVAX and opens a 1.67M Foundation tranche every quarter, while the fee burn takes back under 2%. Supply +1.11% in 90 days.
 
-Expect +0.80% more AVAX in 90 days (+3.19% over the year). On supply alone Avalanche gets 2.5/5 — moderate.
+Expect +1.06% more AVAX in 90 days (+4.25% over the year). On supply alone Avalanche gets 2/5 — growing.
 
 ## Price drivers: what can move AVAX
 
@@ -41,7 +41,7 @@ Good for the price: Firms keep buying. Bad for it: Firms sell AVAX. Now: ▼ dow
 | Aug 13 2026 | 14.1 M AVAX | — |
 | Sep 23 2026 | — | 13.2 M AVAX |
 
-*Checked Oct 12 2026*
+*Checked Nov 1 2026*
 
 ### ▲ ETF AVAX held
 
@@ -56,48 +56,48 @@ US funds' AVAX rose from 0.8M to 4.9M by Jun 30 2026.
 | Mar 31 2026 | 1.84 M AVAX |
 | Jun 30 2026 | 4.92 M AVAX |
 
-*Checked Oct 12 2026*
+*Checked Nov 1 2026*
 
 ## Who wants Avalanche right now
 
-How much do people want AVAX? **moderate** — 3 out of 5, #32 of 110.
+How much do people want AVAX? **moderate** — 3 out of 5, #34 of 109.
 
 A deeper AVAX demand breakdown is on the page for members.
 
-## Should you buy AVAX? Questions about Avalanche
+## Avalanche (AVAX) supply: questions people ask
 
-### Should I buy Avalanche now, or wait?
+### Is Avalanche (AVAX) inflationary or deflationary?
 
-Supply and demand point to a mixed long-run signal for Avalanche (Oct 21 2026, score 5.5/10). Avalanche adds +0.80% new supply in 90 days, and demand reads moderate (3/5). Avalanche's price drivers: 1 ▲ price up, 1 ▼ price down.
+As of Nov 1 2026, Avalanche (AVAX) supply moves +1.06% in 90 days and +4.25% in a year, so AVAX is inflationary. New AVAX outweighs what is burned or bought back.
 
-### Is Avalanche (AVAX) a dead coin now?
+### What is the AVAX inflation rate in 2026?
 
-No, it looks alive. US funds grew their AVAX from 0.8M to 4.9M by Jun 30 2026. The worry is treasury firms: two hold about 27M AVAX, and one sold 2.1M on Sep 23 2026, so selling from them could still hurt. By supply and demand, Avalanche's long-run signal is mixed today.
+Avalanche (AVAX) supply grows +4.25% over the next 12 months and +1.06% over the next 90 days (checked Nov 1 2026). That puts AVAX #45 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Should I sell Avalanche or hold?
+### When is the next AVAX token unlock?
 
-We would read Avalanche differently if new supply keeps arriving (+0.80% in 90 days), or demand falls from moderate, or Treasury firms keeps pointing down. Until then Avalanche's signal stays mixed.
+The next Avalanche (AVAX) unlock we track is on Nov 8 2026: about 1.67M AVAX, 0.38% of the AVAX in circulation (Avalanche Foundation genesis unlock). Checked Nov 1 2026.
 
-### Is Avalanche worth investing in for the long term?
+### Does Avalanche burn or buy back AVAX?
 
-Avalanche scores 5.5/10 on our framework (Oct 21 2026): supply 2.5/5 (moderate), demand 3/5. Over the next year Avalanche's supply changes +3.19%. The long-run signal is mixed.
+Yes. In our count, about 111K AVAX is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 1 2026). How it works: Every C-Chain fee is burned: about 111K AVAX per 90 days at the 2.5 nAVAX gas floor, under 3% of new supply.
 
-### How do I know when to buy Avalanche?
+### Where does new AVAX supply come from?
 
-Supply and demand favor Avalanche most when little new supply is coming, demand is strong and the price drivers point up. Right now Avalanche has +0.80% new supply in 90 days (moderate), demand moderate (3/5), drivers 1 ▲ / 1 ▼.
+In our count, about 4.83M new AVAX reaches the market over the next 90 days (checked Nov 1 2026). How it works: Staking rewards (~3.17M AVAX next 90 days, easing as the Helicon reward cut phases in) plus the Foundation's quarterly 1.67M AVAX tranche on Nov 8 2026.
 
-### Will Avalanche go up in 2026?
+### How much AVAX is in circulation?
 
-Avalanche's price drivers today: 1 pointing up, 1 pointing down, out of 2. ▼ Treasury firms: Two firms hold ~27M AVAX; one sold 2.1M on Sep 23 2026. ▲ ETF AVAX held: US funds' AVAX rose from 0.8M to 4.9M by Jun 30 2026.
+Avalanche (AVAX) has about 444M coins in circulation as of Nov 1 2026; the next 90 days change that by +1.06% (+4.25% over a year).
 
-### Is Avalanche a better investment than Bitcoin?
+### Does AVAX have more new supply than CC, SUI or GRAM?
 
-Avalanche: mixed signal, 5.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, Avalanche reads weaker than Bitcoin today.
+Over the next 90 days (checked Nov 1 2026): AVAX +1.06%, CC +1.82%, SUI +1.16%, GRAM +3.57%. AVAX has the least new supply of these 4 coins.
 
 ## More on Avalanche
 
 - The long read on Avalanche supply: https://mrnasdog.com/research/avax/inflation
-- Which crypto to buy now — AVAX next to every coin we rank: https://mrnasdog.com/coins
+- All crypto inflation rates, AVAX included: https://mrnasdog.com/token-supply
 - About the Avalanche score: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

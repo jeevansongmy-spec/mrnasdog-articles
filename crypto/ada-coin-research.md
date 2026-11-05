@@ -1,45 +1,45 @@
 ---
-title:         "Should You Buy ADA? Cardano Supply, Demand and What Moves Its Price"
-description:   "Cardano has 2 price drivers. Right now: 0 up, 1 down."
+title:         "Cardano (ADA) Inflation Rate: +0.30% New Supply in 90 Days"
+description:   "Cardano has 2 price drivers. Right now: 1 up, 0 down."
 canonical_url: "https://mrnasdog.com/research/ada"
 content_type:  "coin_hub"
 tags:          ["crypto", "ada", "cardano", "should-i-buy"]
 published:     true
 ---
-# Should You Buy ADA? Cardano Supply, Demand and What Moves Its Price
+# Cardano (ADA) Inflation Rate: +0.30% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/ada — numbers checked Oct 21 2026*
+*Source: https://mrnasdog.com/research/ada — numbers checked Nov 5 2026*
 
-**mixed** — that is Cardano's long-run signal by supply and demand as of Oct 21 2026, with a score of 6/10.
+**+0.30%** in 90 days, **+1.24%** in a year: that is how fast Cardano (ADA) supply changes as of Oct 31 2026.
 
 - **Long-run signal:** mixed — ADA, read by supply and demand
 - **Score:** 6/10 — supply 3/5, demand 3/5
 - **New supply:** +0.30% in 90 days · +1.24% in a year
 - **Demand:** moderate (3/5)
-- **Price drivers:** 0 ▲ price up · 1 ▼ price down
+- **Price drivers:** 1 ▲ price up · 0 ▼ price down
 
 ## ADA price drivers the score does not count
 
-Cardano has 2 price drivers. Right now: 0 up, 1 down.
+Cardano has 2 price drivers. Right now: 1 up, 0 down.
 
-### ▼ DAO treasury
+### ▲ DAO treasury
 
-DAO payouts cut the treasury about 18% since Dec 31 2025
+Three live votes ask 32.5M ADA; about 42.6M of cap is left.
 
-Small, careful payouts → price up · Big payouts get sold → price down. Today: the price-down case.
+Small, careful payouts → price up · Big payouts get sold → price down. Today: the price-up case.
 
 | Date | Cardano treasury |
 |---|---|
-| Jul 31 2026 | 1.45 B ADA |
 | Aug 31 2026 | 1.34 B ADA |
 | Sep 30 2026 | 1.37 B ADA |
-| Oct 21 2026 | 1.38 B ADA |
+| Oct 31 2026 | 1.39 B ADA |
+| Nov 5 2026 | 1.39 B ADA |
 
-*Checked Oct 11 2026*
+*Checked Oct 31 2026*
 
 ### • ETF and upgrades
 
-First spot ADA ETF decision could come around Oct 23 2026
+No spot ADA ETF ruling seen; Leios still has no mainnet date.
 
 Good for the price: Spot ETF approved. Bad for it: ETF delayed or denied.
 
@@ -50,65 +50,58 @@ Good for the price: Spot ETF approved. Bad for it: ETF delayed or denied.
 | Jun 23 2026 | Leios testnet live |
 | Jul 18 2026 | Van Rossem hard fork |
 | Oct 1 2026 | Hashdex ETF adds ADA |
-| Oct 23 2026? | Spot ETF decision (coming) |
+| Oct 22 2026 | Dijkstra testnet opens |
+| Oct 23 2026 | Spot ETF: no ruling yet |
 | No date yet | Leios on mainnet (coming) |
 
-*Checked Oct 11 2026*
+*Checked Oct 31 2026*
 
 ## ADA supply
 
-Cardano stakers earn new ADA from a reserve that shrinks every epoch, and holder votes released 166M more from the treasury. Supply grew 0.74% in 90 days; about 0.30% is expected next.
+Cardano's supply grew 0.62% in 90 days from staking pay and two treasury votes, with nothing burned. With only 42.6M ADA left under the treasury spending cap, about 0.30% is expected next.
 
 Expect +0.30% more ADA in 90 days (+1.24% over the year). On supply alone Cardano gets 3/5 — light.
 
 ## How strong is Cardano demand?
 
-How much do people want ADA? **moderate** — 3 out of 5, #32 of 110.
+How much do people want ADA? **moderate** — 3 out of 5, #34 of 109.
 
 The members-only part of ADA's demand section is not included.
 
-## Should you buy Cardano? The questions, answered
+## Questions about ADA supply
 
-### Is it time to buy the Cardano dip?
+### Is Cardano (ADA) inflationary or deflationary?
 
-Supply and demand point to a mixed long-run signal for Cardano (Oct 21 2026, score 6/10). Cardano adds +0.30% new supply in 90 days, and demand reads moderate (3/5). Cardano's price drivers: 0 ▲ price up, 1 ▼ price down.
+As of Oct 31 2026, Cardano (ADA) supply moves +0.30% in 90 days and +1.24% in a year, so ADA is inflationary. New ADA outweighs what is burned or bought back.
 
-### What is Cardano's inflation rate right now?
+### What is the ADA inflation rate in 2026?
 
-Low: about +1.24% a year, or +0.30% in the next 90 days (Oct 11 2026). About 37.5B ADA are out of a 45B maximum, so roughly 7.5B ADA are still to come before the cap. Our supply-and-demand read for Cardano stays mixed.
+Cardano (ADA) supply grows +1.24% over the next 12 months and +0.30% over the next 90 days (checked Oct 31 2026). That puts ADA #63 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Does TRON look healthier than Cardano right now?
+### When is the next ADA token unlock?
 
-Yes, TRON looks healthier today. It scores 7/10 with a positive signal, while Cardano sits at 6/10 and mixed (Oct 11 2026). USDT on Tron grew 20% in 365 days, while Cardano's DAO payouts cut its treasury about 18% since Dec 31 2025. Supply and demand still read mixed for Cardano in the long run.
+No dated Cardano (ADA) unlock is scheduled in the next 90 days (checked Oct 31 2026). New ADA still arrives: about 111M ADA in 90 days.
 
-### Could Cardano ever hit $1?
+### Does Cardano burn or buy back ADA?
 
-Cardano trades near 24.7 cents (Oct 21 2026). $1 a coin means a $37.5B market cap, 4.1 times today's $9.27B. Cardano's supply also grows +1.24% in the next year, so every extra coin needs buyers too. Supply and demand still read mixed for Cardano in the long run.
+Not in a way that removes ADA today: nothing takes ADA off the market over the next 90 days (checked Oct 31 2026). No burn and no buyback. Only 532,971 ADA left circulation, gifted back to the treasury, including 115,172 ADA of unspent budget Intersect returned in October 2026.
 
-### Should I sell Cardano or hold?
+### Where does new ADA supply come from?
 
-We would read Cardano differently if new supply jumps (today +0.30% in 90 days), or demand falls from moderate, or DAO treasury keeps pointing down. Until then Cardano's signal stays mixed. Mark this date for Cardano: Oct 23 2026? — Spot ETF decision.
+In our count, about 111M new ADA reaches the market over the next 90 days (checked Oct 31 2026). How it works: Stakers got 110.94M new ADA from the protocol reserve in 90 days, about 1.23M a day, and two treasury votes released 121.79M ADA, 120M of it for one DeFi program on Aug 17 2026. Nothing vests.
 
-### Is Cardano worth investing in for the long term?
+### How much ADA is in circulation?
 
-Cardano scores 6/10 on our framework (Oct 21 2026): supply 3/5 (light), demand 3/5. Over the next year Cardano's supply changes +1.24%. The long-run signal is mixed.
+Cardano (ADA) has about 37.6B coins in circulation as of Oct 31 2026; the next 90 days change that by +0.30% (+1.24% over a year).
 
-### How do I know when to buy Cardano?
+### Does ADA have more new supply than LEO, XLM or BCH?
 
-Supply and demand favor Cardano most when little new supply is coming, demand is strong and the price drivers point up. Right now Cardano has +0.30% new supply in 90 days (light), demand moderate (3/5), drivers 0 ▲ / 1 ▼.
-
-### Will Cardano go up in 2026?
-
-Cardano's price drivers today: 0 pointing up, 1 pointing down, out of 2. ▼ DAO treasury: DAO payouts cut the treasury about 18% since Dec 31 2025 • ETF and upgrades: First spot ADA ETF decision could come around Oct 23 2026
-
-### Is Cardano a better investment than Bitcoin?
-
-Cardano: mixed signal, 6/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, Cardano reads weaker than Bitcoin today.
+Over the next 90 days (checked Oct 31 2026): ADA +0.30%, LEO −0.06%, XLM +2.78%, BCH +0.20%. ADA sits in the middle of these 4 coins.
 
 ## Next steps for ADA
 
 - The long read on Cardano supply: https://mrnasdog.com/research/ada/inflation
-- Which crypto to buy now — ADA next to every coin we rank: https://mrnasdog.com/coins
+- All crypto inflation rates, ADA included: https://mrnasdog.com/token-supply
 - About the Cardano score: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

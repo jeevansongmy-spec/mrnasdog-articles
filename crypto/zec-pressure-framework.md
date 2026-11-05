@@ -7,6 +7,9 @@ published:     true
 ---
 *Originally published at [https://mrnasdog.com/research/zec/inflation](https://mrnasdog.com/research/zec/inflation)*
 
+<!-- main-page -->
+**Main page:** the full ZEC coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/zec](https://mrnasdog.com/research/zec)
+
 # ZEC Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
 Zcash (ZEC) supply is growing at a steady mining pace: **+0.95%** over the 90 days from Aug 1 to Oct 30 2026, and about **+0.95%** again over the next 90 days. Blocks paid out **161,230 ZEC** of new coins, and nothing was bought back or burned, so every new coin added to supply. ZEC has a hard cap of **21M**, no vesting and no unlocks; mining is the only way new ZEC is made.

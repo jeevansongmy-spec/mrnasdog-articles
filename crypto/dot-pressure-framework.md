@@ -7,6 +7,9 @@ published:     true
 ---
 > Originally published at **[mrnasdog.com/research/dot/inflation](https://mrnasdog.com/research/dot/inflation)** by MrNasDog.
 
+<!-- main-page -->
+➜ Start with the Polkadot coin page for the short answer (should you buy DOT?) and its price drivers: [mrnasdog.com/research/dot](https://mrnasdog.com/research/dot)
+
 # DOT Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 
 Polkadot's DOT supply is growing at a steady, pre-set pace: the network minted **13.78M DOT** between Aug 4 and Nov 2 2026 and burned nothing, so supply rose a net **+0.81%** in 90 days, and the same **+0.81%** is projected for the next 90. Since the March 2026 upgrade, Polkadot mints new DOT every minute on a fixed curve that cuts itself every two years and ends at a hard cap of **2.1B DOT**, while fees and unspent Treasury coins are kept in a protocol pool instead of being burned. Market data shows the same **+0.81%**.

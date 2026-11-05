@@ -8,7 +8,7 @@ published:     true
 *Originally published at [https://mrnasdog.com/research/nexo/inflation](https://mrnasdog.com/research/nexo/inflation)*
 
 <!-- main-page -->
-➜ Start with the Nexo coin page for the short answer (should you buy NEXO?) and its price drivers: [mrnasdog.com/research/nexo](https://mrnasdog.com/research/nexo)
+Looking for the buy-or-sell answer? It is on the NEXO coin page, with demand and price drivers: [mrnasdog.com/research/nexo](https://mrnasdog.com/research/nexo)
 
 # NEXO Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 

@@ -9,6 +9,9 @@ Originally published at [https://mrnasdog.com/research/uni/inflation](https://mr
 
 # UNI Inflation Analysis · November 2026 · Mixed flows · supply roughly steady
 
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about Uniswap, see [mrnasdog.com/research/uni](https://mrnasdog.com/research/uni).
+
 **UNI supply is roughly steady, and slightly shrinking.** Between Aug 3 and Nov 1 2026 the Uniswap treasury paid out **5M UNI** to Uniswap Labs, while trading fees bought and destroyed **5.71M UNI**. Net, the circulating supply fell about **0.11%**, and other trackers show **−0.09%**. No UNI was minted, though governance keeps a right to mint up to 2% a year.
 
 ## The verdict, in one paragraph

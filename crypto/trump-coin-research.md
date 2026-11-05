@@ -1,66 +1,62 @@
 ---
-title:         "Official Trump (TRUMP): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)"
-description:   "Is Official Trump worth buying today? By the law of supply and demand, the long-run signal for TRUMP is negative (score 2.5/10, checked Oct 21 2026)."
+title:         "Official Trump (TRUMP) Inflation Rate: +11.93% New Supply in 90 Days"
+description:   "As of Oct 27 2026, Official Trump (TRUMP) supply moves +11.93% in 90 days and +47.71% in a year, so TRUMP is inflationary. New TRUMP outweighs what is burned or bought back."
 canonical_url: "https://mrnasdog.com/research/trump"
 content_type:  "coin_hub"
 tags:          ["crypto", "trump", "officialtrump", "should-i-buy"]
 published:     true
 ---
-# Official Trump (TRUMP): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)
+# Official Trump (TRUMP) Inflation Rate: +11.93% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/trump — numbers checked Oct 21 2026*
+*Source: https://mrnasdog.com/research/trump — numbers checked Nov 5 2026*
 
-Is Official Trump worth buying today? By the law of supply and demand, the long-run signal for TRUMP is **negative** (score 2.5/10, checked Oct 21 2026).
+**+11.93%** in 90 days, **+47.71%** in a year: that is how fast Official Trump (TRUMP) supply changes as of Oct 27 2026.
 
 - **Signal today:** negative — TRUMP, read by supply and demand
 - **MrNasDog score:** 2.5/10 — supply 0/5, demand 2.5/5
-- **New coins:** +15.77% in 90 days · +63.08% in a year
+- **New coins:** +11.93% in 90 days · +47.71% in a year
 - **Demand:** modest (2.5/5)
 - **Drivers:** 1 ▲ price up · 1 ▼ price down
 
-## Should you buy TRUMP? Questions about Official Trump
+## Official Trump (TRUMP) supply: questions people ask
 
-### Is it a good time to buy Official Trump today?
+### Is Official Trump (TRUMP) inflationary or deflationary?
 
-Based on the law of supply and demand, the long-run signal for Official Trump is negative. As of Oct 21 2026, score 2.5/10, Official Trump faces +15.77% new supply over 90 days, with demand modest (2.5/5). Official Trump's price drivers: 1 ▲ price up, 1 ▼ price down.
+As of Oct 27 2026, Official Trump (TRUMP) supply moves +11.93% in 90 days and +47.71% in a year, so TRUMP is inflationary. New TRUMP outweighs what is burned or bought back.
 
-### What's the latest news on the Official Trump coin?
+### What is the TRUMP inflation rate in 2026?
 
-The Nov 12 gala is the main event: a holder leaderboard runs until then, and the top 185 holders get seats. On the other side, the issuer's planned sales of unlocked coins nearly doubled, to under 9.6%. With +15.77% new supply in 90 days, selling pressure probably stays high. Our supply-and-demand read for Official Trump stays negative.
+Official Trump (TRUMP) supply grows +47.71% over the next 12 months and +11.93% over the next 90 days (checked Oct 27 2026).
 
-### Is $1,000 possible for Official Trump?
+### When is the next TRUMP token unlock?
 
-It would take 560 times today's value: $1,000 × Official Trump's coins in the market = about $282B, against $503M now (Oct 21 2026). Official Trump's supply also grows +63.08% in the next year, so every extra coin needs buyers too. That leaves Official Trump's long-run signal at negative, by supply and demand.
+No dated Official Trump (TRUMP) unlock is scheduled in the next 90 days (checked Oct 27 2026). New TRUMP still arrives: about 33.6M TRUMP in 90 days.
 
-### Should I sell Official Trump or hold?
+### Does Official Trump burn or buy back TRUMP?
 
-Today the signal is negative. Supply and demand would point the other way for Official Trump if new supply keeps arriving (+15.77% in 90 days), or demand falls from modest, or Insider sale plan keeps pointing down. Next date to watch for Official Trump: Nov 3 2026 — US midterm election.
+Not in a way that removes TRUMP today: nothing takes TRUMP off the market over the next 90 days (checked Oct 27 2026). Nothing takes TRUMP back: no buyback, no burn, no staking lock.
 
-### Is Official Trump worth investing in for the long term?
+### Where does new TRUMP supply come from?
 
-On our framework Official Trump scores 2.5/10 (Oct 21 2026), with supply 0/5 (meme coin) and demand 2.5/5. In the next year Official Trump's supply changes +63.08%, so the long-run signal reads negative.
+In our count, about 33.6M new TRUMP reaches the market over the next 90 days (checked Oct 27 2026). How it works: The creators' vesting vault let out 33.62M TRUMP in 90 days, the last on Sep 20 2026; 718.13M is still inside.
 
-### What is the best time to invest in Official Trump?
+### How much TRUMP is in circulation?
 
-The law of supply and demand points to one window for Official Trump: low new supply, high demand, drivers pointing up. Where Official Trump stands today: +15.77% new supply in 90 days (meme coin), demand modest (2.5/5), drivers 1 ▲ / 1 ▼.
+Official Trump (TRUMP) has about 282M coins in circulation as of Oct 27 2026; the next 90 days change that by +11.93% (+47.71% over a year).
 
-### Will Official Trump go up? What could move its price?
+### Does TRUMP have more new supply than PENGU, AERO or RAY?
 
-Official Trump has 3 price drivers today (1 ▲ price up, 1 ▼ price down). ▲ Trump's holder events: Gala leaderboard runs to Nov 12; top 185 holders get seats. ▼ Insider sale plan: Issuer's planned sales of unlocked coins nearly doubled, to under 9.6%. • Washington probes: Democrats promise memecoin probes if they win Congress on Nov 3.
-
-### Is Official Trump a better investment than Bitcoin?
-
-Official Trump reads negative at 2.5/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, Official Trump looks weaker than Bitcoin today.
+Over the next 90 days (checked Oct 27 2026): TRUMP +11.93%, PENGU +2.60%, AERO +8.50%, RAY +0.23%. TRUMP has the most new supply of these 4 coins.
 
 ## Supply — new TRUMP in the next 90 days
 
-Official Trump is a fixed 1B meme coin on Solana, but only 28% trades: team vault releases grew the float about 15.8% in 90 days.
+Official Trump can never mint a new coin, yet its float grew about 11.93% in 90 days as the creators pulled 33.62M TRUMP out of their vesting vault. No buyback or burn takes any back, and 718.13M more still waits in that vault.
 
-Expect +15.77% more TRUMP in 90 days (+63.08% over the year). On supply alone Official Trump gets 0/5 — meme coin.
+Expect +11.93% more TRUMP in 90 days (+47.71% over the year). On supply alone Official Trump gets 0/5 — meme coin.
 
 ## Who wants Official Trump right now
 
-How much do people want TRUMP? **modest** — 2.5 out of 5, #46 of 110.
+How much do people want TRUMP? **modest** — 2.5 out of 5, #47 of 109.
 
 (Members see more TRUMP demand detail on the page; it is not repeated here.)
 
@@ -84,7 +80,7 @@ Good for the price: Holders buy for seats. Bad for it: Sell after events. Now: �
 | Feb 7 2027 | Super Bowl snapshot (coming) |
 | Feb 12 2027 | Super Bowl trip, top 18 (coming) |
 
-*Checked Oct 17 2026*
+*Checked Oct 27 2026*
 
 ### ▼ Insider sale plan
 
@@ -97,11 +93,11 @@ Issuer's planned sales of unlocked coins nearly doubled, to under 9.6%.
 | Feb 2026 | 5% |
 | Jul 2026 | 9.6% |
 
-*Checked Oct 17 2026*
+*Checked Oct 27 2026*
 
 ### • Washington probes
 
-Democrats promise memecoin probes if they win Congress on Nov 3.
+Senators question the gala; Democrats vow probes after Nov 3 vote.
 
 No new probes → price up · Probes or bans → price down.
 
@@ -109,14 +105,15 @@ No new probes → price up · Probes or bans → price down.
 |---|---|
 | Aug 4 2026 | Senators seek SEC probe |
 | Sep 27 2026 | California memecoin law |
+| Oct 23 2026 | Senators press on gala |
 | Nov 3 2026 | US midterm election (coming) |
 
-*Checked Oct 17 2026*
+*Checked Oct 27 2026*
 
 ## More on Official Trump
 
 - The long read on Official Trump supply: https://mrnasdog.com/research/trump/inflation
-- Which crypto to buy now — TRUMP next to every coin we rank: https://mrnasdog.com/coins
+- All crypto inflation rates, TRUMP included: https://mrnasdog.com/token-supply
 - About the Official Trump score: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

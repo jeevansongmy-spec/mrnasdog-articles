@@ -1,32 +1,32 @@
 ---
-title:         "Canton Coin (CC): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)"
-description:   "Our read on Canton Coin for Oct 21 2026: a mixed long-run signal and a score of 4/10, from new supply, demand and what moves the price."
+title:         "Canton Coin (CC) Inflation Rate: +1.82% New Supply in 90 Days"
+description:   "Canton Coin has 2 price drivers. Right now: 2 up, 0 down."
 canonical_url: "https://mrnasdog.com/research/cc"
 content_type:  "coin_hub"
 tags:          ["crypto", "cc", "cantoncoin", "should-i-buy"]
 published:     true
 ---
-# Canton Coin (CC): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)
+# Canton Coin (CC) Inflation Rate: +1.82% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/cc — numbers checked Oct 21 2026*
+*Source: https://mrnasdog.com/research/cc — numbers checked Nov 5 2026*
 
-Our read on Canton Coin for Oct 21 2026: a **mixed** long-run signal and a score of 4/10, from new supply, demand and what moves the price.
+**+1.82%** in 90 days, **+7.38%** in a year: that is how fast Canton Coin (CC) supply changes as of Nov 1 2026.
 
 - **Signal today:** mixed — CC, read by supply and demand
-- **MrNasDog score:** 4/10 — supply 1.5/5, demand 2.5/5
-- **New coins:** +1.91% in 90 days · +7.75% in a year
-- **Demand:** modest (2.5/5)
-- **Drivers:** 1 ▲ price up · 0 ▼ price down
+- **MrNasDog score:** 5/10 — supply 1.5/5, demand 3.5/5
+- **New coins:** +1.82% in 90 days · +7.38% in a year
+- **Demand:** strong (3.5/5)
+- **Drivers:** 2 ▲ price up · 0 ▼ price down
 
 ## Price drivers: what can move CC
 
-Canton Coin has 2 price drivers. Right now: 1 up, 0 down.
+Canton Coin has 2 price drivers. Right now: 2 up, 0 down.
 
-### • Wall Street rollout
+### ▲ Wall Street rollout
 
-DTCC's full launch on Canton is aimed for Oct 2026.
+DTCC went live on Canton Oct 28 2026 with 34 securities.
 
-Good for the price: DTCC launches on time. Bad for it: Launch slips.
+Good for the price: DTCC launches on time. Bad for it: Launch slips. Right now it points up.
 
 | Date | What happened / what is coming |
 |---|---|
@@ -34,10 +34,12 @@ Good for the price: DTCC launches on time. Bad for it: Launch slips.
 | May 7 2026 | First US CC ETF (TCAN) |
 | Jun 5 2026 | Grayscale CC ETF filed |
 | Jul 15 2026 | First live DTCC trades |
-| Oct 2026? | DTCC full launch (aim) (coming) |
+| Oct 17 2026 | DTCC names 25 securities |
+| Oct 28 2026 | DTCC live: 34 assets |
+| Planned Nov 2026 | 1st tokenized US stock (coming) |
 | No date yet | Grayscale ETF decision (coming) |
 
-*Checked Oct 12 2026*
+*Checked Nov 1 2026*
 
 ### ▲ Canton Strategic
 
@@ -51,54 +53,54 @@ Listed firm holds 3.7B CC and kept adding through Jun 30 2026.
 | Mar 31 2026 | 3.68 B CC |
 | Jun 30 2026 | 3.71 B CC |
 
-*Checked Oct 12 2026*
+*Checked Nov 1 2026*
 
 ## Supply — new CC in the next 90 days
 
-Canton Coin has no pre-mine and no cap. Rewards, grants and voted releases add about 2.11B CC every 90 days and fees burn about 1.35B, so supply grows about 1.91%.
+Canton Coin is minted as rewards every ten minutes and burned for every fee. In 90 days 2.07B new CC met a 1.34B burn, so supply rose 1.82%.
 
-Expect +1.91% more CC in 90 days (+7.75% over the year). On supply alone Canton Coin gets 1.5/5 — heavy (place 34 of 101).
+Expect +1.82% more CC in 90 days (+7.38% over the year). On supply alone Canton Coin gets 1.5/5 — heavy (place 34 of 100).
 
 ## How strong is Canton Coin demand?
 
-How much do people want CC? **modest** — 2.5 out of 5, #46 of 110.
+How much do people want CC? **strong** — 3.5 out of 5, #20 of 109.
 
 (Members see more CC demand detail on the page; it is not repeated here.)
 
-## Should you buy Canton Coin? The questions, answered
+## Questions about CC supply
 
-### Is it a good time to buy Canton Coin today?
+### Is Canton Coin (CC) inflationary or deflationary?
 
-Supply and demand point to a mixed long-run signal for Canton Coin (Oct 21 2026, score 4/10). Canton Coin adds +1.91% new supply in 90 days, and demand reads modest (2.5/5). Canton Coin's price drivers: 1 ▲ price up, 0 ▼ price down.
+As of Nov 1 2026, Canton Coin (CC) supply moves +1.82% in 90 days and +7.38% in a year, so CC is inflationary. New CC outweighs what is burned or bought back.
 
-### Is Canton Coin the same thing as the Canton Network?
+### What is the CC inflation rate in 2026?
 
-Not quite. The Canton Network is the chain Wall Street firms build on, and Canton Coin (CC) is the token, with 39.8B CC out at $0.1237 on Oct 12 2026. DTCC aims for a full launch on the network in Oct 2026, which is the news CC holders watch. For Canton Coin, the supply-and-demand signal is mixed right now.
+Canton Coin (CC) supply grows +7.38% over the next 12 months and +1.82% over the next 90 days (checked Nov 1 2026). That puts CC #34 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Should I sell Canton Coin or hold?
+### When is the next CC token unlock?
 
-We would read Canton Coin differently if new supply keeps arriving (+1.91% in 90 days), or demand falls from modest. Until then Canton Coin's signal stays mixed. Mark this date for Canton Coin: Oct 2026? — DTCC full launch (aim).
+No dated Canton Coin (CC) unlock is scheduled in the next 90 days (checked Nov 1 2026). New CC still arrives: about 2.07B CC in 90 days.
 
-### Is Canton Coin worth investing in for the long term?
+### Does Canton Coin burn or buy back CC?
 
-Canton Coin scores 4/10 on our framework (Oct 21 2026): supply 1.5/5 (heavy), demand 2.5/5. Over the next year Canton Coin's supply changes +7.75%. The long-run signal is mixed.
+Yes. In our count, about 1.34B CC is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 1 2026). How it works: Network fees burned about 1.34B CC in 90 days, about 65% of all new coins. Locked coins still count as circulating, so locks remove nothing.
 
-### How do I know when to buy Canton Coin?
+### Where does new CC supply come from?
 
-Supply and demand favor Canton Coin most when little new supply is coming, demand is strong and the price drivers point up. Right now Canton Coin has +1.91% new supply in 90 days (heavy), demand modest (2.5/5), drivers 1 ▲ / 0 ▼.
+In our count, about 2.07B new CC reaches the market over the next 90 days (checked Nov 1 2026). How it works: Rewards minted about 1.94B CC in 90 days; development grants added 64.0M and voted releases of unused rewards added 64.4M.
 
-### Will Canton Coin go up in 2026?
+### How much CC is in circulation?
 
-Canton Coin's price drivers today: 1 pointing up, 0 pointing down, out of 2. • Wall Street rollout: DTCC's full launch on Canton is aimed for Oct 2026. ▲ Canton Strategic: Listed firm holds 3.7B CC and kept adding through Jun 30 2026.
+Canton Coin (CC) has about 40B coins in circulation as of Nov 1 2026; the next 90 days change that by +1.82% (+7.38% over a year).
 
-### Is Canton Coin a better investment than Bitcoin?
+### Does CC have more new supply than LTC, AVAX or SUI?
 
-Canton Coin: mixed signal, 4/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, Canton Coin reads weaker than Bitcoin today.
+Over the next 90 days (checked Nov 1 2026): CC +1.82%, LTC +0.42%, AVAX +1.06%, SUI +1.16%. CC has the most new supply of these 4 coins.
 
 ## Where to read the rest of CC
 
 - The long read on Canton Coin supply: https://mrnasdog.com/research/cc/inflation
-- Which crypto to buy now — CC next to every coin we rank: https://mrnasdog.com/coins
+- All crypto inflation rates, CC included: https://mrnasdog.com/token-supply
 - About the Canton Coin score: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

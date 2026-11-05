@@ -8,7 +8,7 @@ published:     true
 ---
 # Midnight (NIGHT) Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/night · checked Nov 4 2026*
+*Live page: https://mrnasdog.com/research/night · checked Nov 5 2026*
 
 Midnight (NIGHT) supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 4 2026).
 

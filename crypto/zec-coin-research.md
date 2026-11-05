@@ -1,32 +1,32 @@
 ---
-title:         "Should You Buy Zcash (ZEC)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "As of Oct 21 2026, Zcash scores 7.5/10 on our framework, and its supply-and-demand signal reads positive."
+title:         "Zcash (ZEC) Supply & Demand: +0.95% New Supply in 90 Days"
+description:   "Zcash (ZEC) supply changes +0.95% over the next 90 days and +3.84% over a year (checked Oct 30 2026)."
 canonical_url: "https://mrnasdog.com/research/zec"
 content_type:  "coin_hub"
 tags:          ["crypto", "zec", "zcash", "should-i-buy"]
 published:     true
 ---
-# Should You Buy Zcash (ZEC)? Supply, Demand and Price Drivers (Oct 2026)
+# Zcash (ZEC) Supply & Demand: +0.95% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/zec · checked Oct 21 2026*
+*Live page: https://mrnasdog.com/research/zec · checked Nov 5 2026*
 
-As of Oct 21 2026, Zcash scores 7.5/10 on our framework, and its supply-and-demand signal reads **positive**.
+Zcash (ZEC) supply changes **+0.95%** over the next 90 days and **+3.84%** over a year (checked Oct 30 2026).
 
 - **Long-run signal:** positive (by the law of supply and demand)
 - **Score:** 7.5/10 — supply 2.5/5, demand 5/5
-- **New supply:** +0.95% in 90 days · +3.85% in a year
+- **New supply:** +0.95% in 90 days · +3.84% in a year
 - **Demand:** exceptional (5/5)
-- **Price drivers:** 1 ▲ price up · 0 ▼ price down
+- **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## Price drivers: what can move ZEC
 
-Besides supply and demand, we track 3 price drivers for Zcash: 1 ▲ and 0 ▼ right now.
+Besides supply and demand, we track 3 price drivers for Zcash: 1 ▲ and 1 ▼ right now.
 
-### • Big holders
+### ▼ Big holders
 
-ETF and Cypherpunk hold about 5% of ZEC; ETF outflows started.
+ETF and Cypherpunk hold ~5% of ZEC; ETF flows mixed in October.
 
-They hold more → price up · They sell → price down.
+They hold more → price up · They sell → price down. Now: ▼ down side.
 
 | Date | Grayscale ZCSH (ETF) | Cypherpunk (CYPH) |
 |---|---|---|
@@ -35,26 +35,26 @@ They hold more → price up · They sell → price down.
 | Sep 3 2026 | 429 K ZEC | — |
 | Sep 18 2026 | 596 K ZEC | — |
 
-*Checked Oct 11 2026*
+*Checked Oct 30 2026*
 
 ### ▲ Private pool bug
 
-349K ZEC still in the old pool; 4.1M moved safely.
+325K ZEC still in the old pool; 4.2M moved safely.
 
 Good for the price: Old pool empties. Bad for it: Old pool grows. Today: the price-up case.
 
 | Date | Old pool (Orchard) | New pool (Ironwood) |
 |---|---|---|
-| Jul 31 2026 | 3.1 M ZEC | 0.653 M ZEC |
 | Aug 31 2026 | 0.471 M ZEC | 3.84 M ZEC |
 | Sep 30 2026 | 0.379 M ZEC | 4.06 M ZEC |
-| Oct 21 2026 | 0.349 M ZEC | 4.11 M ZEC |
+| Oct 31 2026 | 0.344 M ZEC | 4.18 M ZEC |
+| Nov 4 2026 | 0.325 M ZEC | 4.22 M ZEC |
 
-*Checked Oct 20 2026*
+*Checked Nov 4 2026*
 
 ### • Privacy-coin rules
 
-US opened ZEC ETFs; EU exchanges must drop ZEC Jul 10 2027.
+US eased rules and opened ETFs; EU ban starts Jul 10 2027.
 
 Good for the price: New ETFs, open doors. Bad for it: New bans.
 
@@ -62,66 +62,60 @@ Good for the price: New ETFs, open doors. Bad for it: New bans.
 |---|---|
 | Jan 5 2024 | OKX delists ZEC |
 | Jan 12 2026 | Dubai (DIFC) bans ZEC |
+| Jun 15 2026 | Philippines bans ZEC |
 | Aug 25 2026 | First US ZEC ETF trades |
+| Oct 5 2026 | US drops mixer rule |
 | Oct 6 2026 | 2nd ZEC ETF filed (WINK) |
 | Jul 10 2027 | EU privacy-coin ban (coming) |
 
-*Checked Oct 11 2026*
+*Checked Oct 30 2026*
 
 ## Supply — new ZEC in the next 90 days
 
-Zcash is a mined privacy coin capped at 21M. Supply grows about 0.95% every 90 days from the block reward, with nothing burned or bought back.
+Zcash mines about 1,790 new ZEC a day toward a 21M cap, with nothing burned or bought back, so supply grows about 0.95% every 90 days.
 
-Over the next 90 days ZEC supply changes +0.95%; across a full year, +3.85%. That puts supply at 2.5/5 (moderate), #49 of 101 for new supply.
+Over the next 90 days ZEC supply changes +0.95%; across a full year, +3.84%. That puts supply at 2.5/5 (moderate), #49 of 100 for new supply.
 
 ## Demand: how much people want ZEC
 
-People's appetite for Zcash is **exceptional**: 5/5, ranked #1 of 110.
+People's appetite for Zcash is **exceptional**: 5/5, ranked #1 of 109.
 
 (Members see more ZEC demand detail on the page; it is not repeated here.)
 
-## Zcash: buy, sell or hold — questions and answers
+## Zcash supply questions, answered
 
-### Is Zcash worth buying now?
+### Is Zcash (ZEC) inflationary or deflationary?
 
-Based on the law of supply and demand, the long-run signal for Zcash is positive. As of Oct 21 2026, score 7.5/10, Zcash faces +0.95% new supply over 90 days, with demand exceptional (5/5). Zcash's price drivers: 1 ▲ price up, 0 ▼ price down.
+As of Oct 30 2026, Zcash (ZEC) supply moves +0.95% in 90 days and +3.84% in a year, so ZEC is inflationary. New ZEC outweighs what is burned or bought back.
 
-### Why is Zcash dropping lately?
+### What is the ZEC inflation rate in 2026?
 
-ETF outflows are probably part of it. The ETFs and Cypherpunk hold about 5% of ZEC, and money has started to leave the ETFs. New supply adds weight too: +0.95% in the next 90 days. Still, demand reads exceptional at 5/5 (Oct 11 2026). By supply and demand, Zcash's long-run signal is positive today.
+Zcash (ZEC) supply grows +3.84% over the next 12 months and +0.95% over the next 90 days (checked Oct 30 2026). That puts ZEC #49 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Is Zcash dead now that Europe is set to drop it?
+### When is the next ZEC token unlock?
 
-Not dead, but Jul 10 2027 is a real test. That day EU exchanges must drop ZEC, while the US has opened ZEC ETFs. Today Zcash scores 7.5/10 on our framework and is worth about $20.9B in total (Oct 11 2026). Our supply-and-demand read for Zcash stays positive.
+No dated Zcash (ZEC) unlock is scheduled in the next 90 days (checked Oct 30 2026). New ZEC still arrives: about 161K ZEC in 90 days.
 
-### Is $10,000 possible for Zcash?
+### Does Zcash burn or buy back ZEC?
 
-It would take 8.1 times today's value: $10,000 × Zcash's coins in the market = about $170B, against $20.9B now (Oct 21 2026). Zcash's supply also grows +3.85% in the next year, so every extra coin needs buyers too. By supply and demand, Zcash's long-run signal is positive today.
+Not in a way that removes ZEC today: nothing takes ZEC off the market over the next 90 days (checked Oct 30 2026). No buyback and no burn yet. From the Nov 5 2026 upgrade 60% of fees is held out of supply, but fees are only a few ZEC a day.
 
-### Should I sell my Zcash now?
+### Where does new ZEC supply come from?
 
-Today the signal is positive. Supply and demand would point the other way for Zcash if new supply keeps arriving (+0.95% in 90 days), or demand falls from exceptional. Next date to watch for Zcash: Jul 10 2027 — EU privacy-coin ban.
+In our count, about 161K new ZEC reaches the market over the next 90 days (checked Oct 30 2026). How it works: Miners and two development funds get about 1,790 new ZEC a day: 161,230 ZEC in 90 days. Nothing vests.
 
-### Is Zcash a good long-term investment?
+### How much ZEC is in circulation?
 
-On our framework Zcash scores 7.5/10 (Oct 21 2026), with supply 2.5/5 (moderate) and demand 5/5. In the next year Zcash's supply changes +3.85%, so the long-run signal reads positive.
+Zcash (ZEC) has about 17M coins in circulation as of Oct 30 2026; the next 90 days change that by +0.95% (+3.84% over a year).
 
-### What is the best time to invest in Zcash?
+### Does ZEC have more new supply than HYPE, DOGE or XMR?
 
-The law of supply and demand points to one window for Zcash: low new supply, high demand, drivers pointing up. Where Zcash stands today: +0.95% new supply in 90 days (moderate), demand exceptional (5/5), drivers 1 ▲ / 0 ▼.
-
-### Will Zcash go up? What could move its price?
-
-Zcash has 3 price drivers today (1 ▲ price up, 0 ▼ price down). • Big holders: ETF and Cypherpunk hold about 5% of ZEC; ETF outflows started. ▲ Private pool bug: 349K ZEC still in the old pool; 4.1M moved safely. • Privacy-coin rules: US opened ZEC ETFs; EU exchanges must drop ZEC Jul 10 2027.
-
-### Is Zcash a better investment than Bitcoin?
-
-Zcash reads positive at 7.5/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, Zcash looks weaker than Bitcoin today.
+Over the next 90 days (checked Oct 30 2026): ZEC +0.95%, HYPE −0.18%, DOGE +0.78%, XMR +0.21%. ZEC has the most new supply of these 4 coins.
 
 ## Where to read the rest of ZEC
 
 - Every ZEC unlock and burn, explained: https://mrnasdog.com/research/zec/inflation
-- Compare ZEC with 100+ coins: https://mrnasdog.com/coins
+- Compare ZEC supply with 100+ coins: https://mrnasdog.com/token-supply
 - The MrNasDog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

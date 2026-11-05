@@ -1,28 +1,28 @@
 ---
-title:         "Should You Buy Aster? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Is Aster worth buying today? By the law of supply and demand, the long-run signal for ASTER is mixed (score 4/10, checked Oct 21 2026)."
+title:         "ASTER Tokenomics: +2.71% New Supply in 90 Days"
+description:   "As of Nov 3 2026, new Aster supply runs at +2.71% over 90 days and +4.26% over 12 months."
 canonical_url: "https://mrnasdog.com/research/aster"
 content_type:  "coin_hub"
 tags:          ["crypto", "aster", "aster", "should-i-buy"]
 published:     true
 ---
-# Should You Buy Aster? Supply, Demand and Price Drivers (Oct 2026)
+# ASTER Tokenomics: +2.71% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/aster (checked Oct 21 2026)*
+*Originally published at https://mrnasdog.com/research/aster (checked Nov 5 2026)*
 
-Is Aster worth buying today? By the law of supply and demand, the long-run signal for ASTER is **mixed** (score 4/10, checked Oct 21 2026).
+As of Nov 3 2026, new Aster supply runs at **+2.71%** over 90 days and **+4.26%** over 12 months.
 
-- **Signal:** mixed (Oct 21 2026)
+- **Signal:** mixed (Nov 5 2026)
 - **Score:** 4/10 — supply 1/5, demand 3/5
-- **Supply growth:** +2.58% in 90 days · +3.57% in a year
+- **Supply growth:** +2.71% in 90 days · +4.26% in a year
 - **How much people want it:** moderate (3/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## How fast Aster supply grows
 
-Aster's perpetuals exchange token: a 99% fee buyback paid to stakers and a burn of locked team coins, while a 63.38M airdrop payout on Nov 4 2026 lifts supply about 2.6% in the next 90 days.
+Aster's perpetual-futures exchange token: a big fee buyback and burn, but the burn hits locked team coins and the buyback goes to stakers, while a 63.38M airdrop claim lands on Nov 4 2026.
 
-New ASTER: +2.58% in 90 days, +3.57% in a year. Supply score 1/5, "very heavy", #27 of 101 for new supply.
+New ASTER: +2.71% in 90 days, +4.26% in a year. Supply score 1/5, "very heavy", #26 of 100 for new supply.
 
 ## What could move Aster's price
 
@@ -36,79 +36,72 @@ Open bets on Aster recovered after a weak first half of 2026.
 
 | Date | Aster open interest |
 |---|---|
-| Jul 31 2026 | $0.944B |
 | Aug 31 2026 | $1.23B |
 | Sep 30 2026 | $1.41B |
-| Oct 21 2026 | $1.33B |
+| Oct 31 2026 | $1.37B |
+| Nov 5 2026 | $1.43B |
 
-*Checked Oct 14 2026*
+*Checked Nov 3 2026*
 
 ### ▼ US perp rules
 
-US door is opening, but a CME lawsuit could still slow it.
+US now allows stock perps too; Aster still lacks a US door.
 
 Good for the price: US opens to Aster. Bad for it: Only rivals get US. Today: the price-down case.
 
 | Date | What happened / what is coming |
 |---|---|
-| Mar 17 2026 | Aster Chain goes live |
 | May 29 2026 | CFTC allows US perps |
 | Jun 18 2026 | CME sues CFTC over perps |
 | Aug 19 2026 | Trump: Hyperliquid to US |
 | Sep 15 2026 | Senate blocks CLARITY |
 | Sep 17 2026 | CFTC rules to WH review |
+| Oct 16 2026 | CFTC: CME can't sue |
+| Nov 3 2026 | CFTC OKs stock perps |
 | No date yet | CFTC vote on new rules (coming) |
 
-*Checked Oct 14 2026*
+*Checked Nov 3 2026*
 
 ## Demand: how much people want ASTER
 
-Aster demand: 3/5 (**moderate**), place #32 among 110 coins — interest today plus the buying that could come later.
+Aster demand: 3/5 (**moderate**), place #34 among 109 coins — interest today plus the buying that could come later.
 
 Extra Aster demand detail for members stays on the live page.
 
-## Aster: buy, sell or hold — questions and answers
+## Aster supply questions, answered
 
-### Should I buy Aster now, or wait?
+### Is ASTER inflationary or deflationary?
 
-Based on the law of supply and demand, the long-run signal for Aster is mixed. As of Oct 21 2026, score 4/10, Aster faces +2.58% new supply over 90 days, with demand moderate (3/5). Aster's price drivers: 1 ▲ price up, 1 ▼ price down.
+ASTER is inflationary right now: its supply changes +2.71% over the next 90 days and +4.26% over the next year (checked Nov 3 2026). More ASTER is added than removed.
 
-### Aster vs Hyperliquid: who looks stronger right now?
+### What is the ASTER inflation rate in 2026?
 
-Hyperliquid probably has the edge for now. The US door for perp exchanges is opening, and Hyperliquid was named, not Aster. Aster still has a fight in it: open bets recovered after a weak first half of 2026, and it is worth about $1.89B (Oct 14 2026). Supply and demand still read mixed for Aster in the long run.
+About +4.26% a year: that is how much ASTER supply changes over the next 12 months, with +2.71% in the next 90 days (checked Nov 3 2026). That puts ASTER #26 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Is Aster crypto dead?
+### When is the next ASTER token unlock?
 
-No, it looks alive. Aster is still worth about $1.89B (Oct 14 2026), and open bets on it came back after a weak first half of 2026. The weak spot is supply: about 2.58% new coins arrive in the next 90 days, and those need buyers too. That leaves Aster's long-run signal at mixed, by supply and demand.
+No dated ASTER unlock is scheduled in the next 90 days (checked Nov 3 2026). New ASTER still arrives: about 67.9M ASTER in 90 days.
 
-### Is $10 possible for Aster?
+### Is any ASTER burned or bought back?
 
-It would take 14 times today's value: $10 × Aster's coins in the market = about $27.1B, against $1.88B now (Oct 21 2026). Aster's supply also grows +3.57% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Aster stays mixed.
+Not in a way that removes ASTER today: nothing takes ASTER off the market over the next 90 days (checked Nov 3 2026). 99% of fees buy ASTER, but every coin goes to stakers, and the matching burn (26.68M in 90 days) takes locked team coins. So nothing leaves the traded supply.
 
-### Is it time to take profit on Aster?
+### Where does new ASTER supply come from?
 
-Today the signal is mixed. Supply and demand would point the other way for Aster if new supply keeps arriving (+2.58% in 90 days), or demand falls from moderate, or US perp rules keeps pointing down. Next date to watch for Aster: No date yet — CFTC vote on new rules.
+In our count, about 67.9M new ASTER reaches the market over the next 90 days (checked Nov 3 2026). How it works: Stakers get 450,000 new ASTER a week, paid in 2.25M blocks: 6.75M in 90 days. The Stage 6 airdrop claim adds about 63.38M on Nov 4 2026. The team stays locked until Sep 17 2027.
 
-### Is Aster a good investment right now?
+### How much ASTER is in circulation?
 
-On our framework Aster scores 4/10 (Oct 21 2026), with supply 1/5 (very heavy) and demand 3/5. In the next year Aster's supply changes +3.57%, so the long-run signal reads mixed.
+About 2.51B ASTER is in circulation (checked Nov 3 2026). Over the next 90 days that changes +2.71%, and over a year +4.26%.
 
-### What is the best time to invest in Aster?
+### Does ASTER have more new supply than PUMP, WLFI or DOT?
 
-The law of supply and demand points to one window for Aster: low new supply, high demand, drivers pointing up. Where Aster stands today: +2.58% new supply in 90 days (very heavy), demand moderate (3/5), drivers 1 ▲ / 1 ▼.
-
-### Will Aster go up? What could move its price?
-
-Aster has 2 price drivers today (1 ▲ price up, 1 ▼ price down). ▲ Aster open bets: Open bets on Aster recovered after a weak first half of 2026. ▼ US perp rules: US door is opening, but a CME lawsuit could still slow it.
-
-### Should I buy Aster or Bitcoin?
-
-Aster reads mixed at 4/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, Aster looks weaker than Bitcoin today.
+Over the next 90 days (checked Nov 3 2026): ASTER +2.71%, PUMP −3.96%, WLFI +0.01%, DOT +0.81%. ASTER has the most new supply of these 4 coins.
 
 ## Where to read the rest of ASTER
 
 - ASTER supply, line by line: https://mrnasdog.com/research/aster/inflation
-- Where Aster sits among all coins: https://mrnasdog.com/coins
+- Where Aster sits on new supply: https://mrnasdog.com/token-supply
 - Why supply and demand decide ASTER's signal: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

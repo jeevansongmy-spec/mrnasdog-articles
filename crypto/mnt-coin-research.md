@@ -1,16 +1,16 @@
 ---
-title:         "Should You Buy Mantle (MNT)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "As of Oct 21 2026, Mantle scores 5/10 on our framework, and its supply-and-demand signal reads mixed."
+title:         "Is Mantle (MNT) Inflationary? 0.00% Supply in 90 Days"
+description:   "How much new MNT is coming? 0.00% in the next 90 days, 0.00% in the next year — checked Nov 2 2026."
 canonical_url: "https://mrnasdog.com/research/mnt"
 content_type:  "coin_hub"
 tags:          ["crypto", "mnt", "mantle", "should-i-buy"]
 published:     true
 ---
-# Should You Buy Mantle (MNT)? Supply, Demand and Price Drivers (Oct 2026)
+# Is Mantle (MNT) Inflationary? 0.00% Supply in 90 Days
 
-*From https://mrnasdog.com/research/mnt, updated Oct 21 2026*
+*From https://mrnasdog.com/research/mnt, updated Nov 5 2026*
 
-As of Oct 21 2026, Mantle scores 5/10 on our framework, and its supply-and-demand signal reads **mixed**.
+How much new MNT is coming? **0.00%** in the next 90 days, **0.00%** in the next year — checked Nov 2 2026.
 
 - **Long-run signal:** mixed for Mantle
 - **Score:** 5/10 — supply 4.5/5, demand 0.5/5
@@ -24,7 +24,7 @@ What the score misses: 2 drivers. Today 0 push MNT's price up and 0 push it down
 
 ### • Treasury backing
 
-Treasury is $2.33B, but 72% of it is MNT itself.
+72% of the treasury is MNT; new budget plan cuts spending caps.
 
 ▲ Price up if: Bigger ETH/BTC reserves. ▼ Price down if: Reserves sold or spent.
 
@@ -32,7 +32,7 @@ Treasury is $2.33B, but 72% of it is MNT itself.
 |---|---|
 | Oct 2026 | MNT 72.1% · ETH 12.5% · BTC 10.4% · Stablecoins 4.8% · Other 0.2% |
 
-*Checked Oct 13 2026*
+*Checked Nov 2 2026*
 
 ### • Dollars on Mantle
 
@@ -42,59 +42,59 @@ Good for the price: More dollars on Mantle. Bad for it: Dollars leave Mantle.
 
 | Date | Stablecoins on Mantle |
 |---|---|
-| Jul 31 2026 | $589M |
 | Aug 31 2026 | $591M |
 | Sep 30 2026 | $549M |
-| Oct 21 2026 | $543M |
+| Oct 31 2026 | $546M |
+| Nov 5 2026 | $528M |
 
-*Checked Oct 13 2026*
+*Checked Nov 2 2026*
 
 ## Where new Mantle comes from
 
-Mantle printed no new MNT and burned none this quarter; 291,000 MNT went back to a 2.92B MNT treasury, so supply eased 0.01% in 90 days.
+Mantle's MNT made no new coins in 90 days: no mint, no unlocks, no burn. Supply dipped 0.01% after 291,000 MNT went back to a treasury that holds 2.92B MNT.
 
-Mantle adds 0.00% new supply in the next 90 days and 0.00% over a year — supply scores 4.5/5 (flat) (place 85 of 101).
+Mantle adds 0.00% new supply in the next 90 days and 0.00% over a year — supply scores 4.5/5 (flat) (place 83 of 100).
 
 ## How strong is Mantle demand?
 
-Demand reads **very low** (0.5/5), #99 of 110 coins we track — that is how much people want MNT now and how much buying could still come.
+Demand reads **very low** (0.5/5), #99 of 109 coins we track — that is how much people want MNT now and how much buying could still come.
 
 Extra Mantle demand detail for members stays on the live page.
 
-## Questions people ask about Mantle
+## Is MNT inflationary? Questions about Mantle supply
 
-### Is Mantle worth buying now?
+### Is Mantle (MNT) inflationary or deflationary?
 
-Based on the law of supply and demand, the long-run signal for Mantle is mixed. As of Oct 21 2026, score 5/10, Mantle faces 0.00% new supply over 90 days, with demand very low (0.5/5). Mantle's price drivers: 0 ▲ price up, 0 ▼ price down.
+Mantle (MNT) is flat, neither inflationary nor deflationary right now: its supply changes 0.00% over the next 90 days and 0.00% over the next year (checked Nov 2 2026). New MNT and removed MNT about cancel out.
 
-### How big is Mantle's market cap next to its treasury?
+### What is the MNT inflation rate in 2026?
 
-About $1.78B on Oct 13 2026, a bit below Mantle's $2.33B treasury. But 72% of that treasury is MNT itself, so only about $0.65B sits in other assets. If MNT falls, the treasury probably shrinks with it. For Mantle, the supply-and-demand signal is mixed right now.
+About 0.00% a year: that is how much Mantle (MNT) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 2 2026). That puts MNT #83 of 100 coins we track for new supply (#1 = the most new supply).
 
-### When should I sell Mantle?
+### When is the next MNT token unlock?
 
-Today the signal is mixed. Supply and demand would point the other way for Mantle if new supply jumps (today 0.00% in 90 days), or demand falls from very low.
+No dated Mantle (MNT) unlock is scheduled in the next 90 days (checked Nov 2 2026).
 
-### Is Mantle a good investment in 2026?
+### Does Mantle burn or buy back MNT?
 
-On our framework Mantle scores 5/10 (Oct 21 2026), with supply 4.5/5 (flat) and demand 0.5/5. In the next year Mantle's supply changes 0.00%, so the long-run signal reads mixed.
+Not in a way that removes MNT today: nothing takes MNT off the market over the next 90 days (checked Nov 2 2026). Nothing buys back or burns MNT; gas fees are kept. The only removal was 291,000 MNT a team wallet returned to the treasury on Oct 1 2026.
 
-### What is the best time to invest in Mantle?
+### Where does new MNT supply come from?
 
-The law of supply and demand points to one window for Mantle: low new supply, high demand, drivers pointing up. Where Mantle stands today: 0.00% new supply in 90 days (flat), demand very low (0.5/5), drivers 0 ▲ / 0 ▼.
+Almost no new MNT reaches the market over the next 90 days (checked Nov 2 2026). No MNT was minted or unlocked in 90 days, and the 2.92B MNT treasury sent nothing out. Its last release was 24.35M MNT on Apr 28 2026, and a new budget of up to 150M MNT a year awaits a vote.
 
-### Will Mantle go up? What could move its price?
+### How much MNT is in circulation?
 
-Mantle has 2 price drivers today (0 ▲ price up, 0 ▼ price down). • Treasury backing: Treasury is $2.33B, but 72% of it is MNT itself. • Dollars on Mantle: Dollars on Mantle are well below the Feb 2026 peak.
+About 3.3B MNT is in circulation (checked Nov 2 2026). Over the next 90 days that changes 0.00%, and over a year 0.00%.
 
-### Should I buy Mantle or Bitcoin?
+### Does MNT have more new supply than DOT, SKY or MORPHO?
 
-Mantle reads mixed at 5/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, Mantle looks weaker than Bitcoin today.
+Over the next 90 days (checked Nov 2 2026): MNT 0.00%, DOT +0.81%, SKY −0.16%, MORPHO +6.03%. MNT sits in the middle of these 4 coins.
 
 ## Next steps for MNT
 
 - Full MNT inflation analysis (every unlock, burn and buyback): https://mrnasdog.com/research/mnt/inflation
-- Every coin ranked by supply and demand, Mantle included: https://mrnasdog.com/coins
+- Every coin's new supply, side by side: https://mrnasdog.com/token-supply
 - How we read Mantle and every other coin: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

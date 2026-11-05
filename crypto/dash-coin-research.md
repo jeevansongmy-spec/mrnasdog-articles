@@ -8,7 +8,7 @@ published:     true
 ---
 # DASH Supply & Demand: +0.73% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/dash · checked Nov 4 2026*
+*Live page: https://mrnasdog.com/research/dash · checked Nov 5 2026*
 
 DASH supply changes **+0.73%** over the next 90 days and **+2.95%** over a year (checked Nov 4 2026).
 
@@ -26,7 +26,7 @@ Over the next 90 days DASH supply changes +0.73%; across a full year, +2.95%. Th
 
 ## DASH demand
 
-People's appetite for Dash is **modest**: 2.5/5, ranked #48 of 109.
+People's appetite for Dash is **modest**: 2.5/5, ranked #47 of 109.
 
 The members-only part of DASH's demand section is not included.
 

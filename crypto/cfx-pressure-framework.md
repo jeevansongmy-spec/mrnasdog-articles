@@ -8,7 +8,7 @@ published:     true
 *Originally published at [https://mrnasdog.com/research/cfx/inflation](https://mrnasdog.com/research/cfx/inflation)*
 
 <!-- main-page -->
-➜ Start with the Conflux coin page for the short answer and its price drivers: [mrnasdog.com/research/cfx](https://mrnasdog.com/research/cfx)
+This is the long supply read. For the signal, the price drivers and the questions people ask about Conflux, see [mrnasdog.com/research/cfx](https://mrnasdog.com/research/cfx).
 
 # CFX Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
 

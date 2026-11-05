@@ -7,6 +7,9 @@ published:     true
 ---
 *Originally published at [https://mrnasdog.com/research/ena/inflation](https://mrnasdog.com/research/ena/inflation)*
 
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the ENA coin page, with demand and price drivers: [mrnasdog.com/research/ena](https://mrnasdog.com/research/ena)
+
 # ENA Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 
 ENA supply grew fast over the last 90 days and will keep growing, but far more slowly. Between Aug 4 and Nov 2 2026, unlocks added **2.13B ENA** to a float that now stands at **13.41B ENA**, a rise of **+15.89%**, driven mostly by the early release of every remaining Ethena investor coin on Oct 5 2026. Nothing was burned or bought back. In the next 90 days only team coins unlock, **281.25M ENA**, or **+2.10%**; other trackers show **+40.22%** for the last 90 days because they also started counting a Foundation and ecosystem pool as unlocked.

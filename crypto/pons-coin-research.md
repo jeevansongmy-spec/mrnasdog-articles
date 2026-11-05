@@ -1,32 +1,32 @@
 ---
-title:         "Should You Buy Pons? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Pons is a coin launchpad on Robinhood Chain. PONS has a fixed 1B supply, and fee-funded buybacks and holder burns removed 144.45M in 90 days: supply −21.38%."
+title:         "PONS Inflation Rate: −15.76% Supply in 90 Days"
+description:   "Pons is a token launchpad on Robinhood Chain. PONS gets no new supply, and the fee-funded buyback plus holder burns removed 84.89M in 90 days: supply −12.65%."
 canonical_url: "https://mrnasdog.com/research/pons"
 content_type:  "coin_hub"
 tags:          ["crypto", "pons", "pons", "should-i-buy"]
 published:     true
 ---
-# Should You Buy Pons? Supply, Demand and Price Drivers (Oct 2026)
+# PONS Inflation Rate: −15.76% Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/pons — numbers checked Oct 21 2026*
+*Source: https://mrnasdog.com/research/pons — numbers checked Nov 5 2026*
 
-**positive** — that is Pons's long-run signal by supply and demand as of Oct 21 2026, with a score of 9.5/10.
+**−15.76%** in 90 days, **−63.03%** in a year: that is how fast PONS supply changes as of Nov 3 2026.
 
 - **Signal:** positive — PONS, read by supply and demand
 - **Score:** 9.5/10 — supply 5/5, demand 4.5/5
-- **Supply growth:** −10.05% in 90 days · −40.19% in a year
+- **Supply growth:** −15.76% in 90 days · −63.03% in a year
 - **How much people want it:** very strong (4.5/5)
 - **Price drivers:** 2 ▲ price up · 1 ▼ price down
 
 ## PONS supply
 
-Pons is a coin launchpad on Robinhood Chain. PONS has a fixed 1B supply, and fee-funded buybacks and holder burns removed 144.45M in 90 days: supply −21.38%.
+Pons is a token launchpad on Robinhood Chain. PONS gets no new supply, and the fee-funded buyback plus holder burns removed 84.89M in 90 days: supply −12.65%.
 
-Expect −10.05% more PONS in 90 days (−40.19% over the year). On supply alone Pons gets 5/5 — shrinking.
+Expect −15.76% more PONS in 90 days (−63.03% over the year). On supply alone Pons gets 5/5 — shrinking.
 
 ## Demand today
 
-How much do people want PONS? **very strong** — 4.5 out of 5, #5 of 110.
+How much do people want PONS? **very strong** — 4.5 out of 5, #6 of 109.
 
 A deeper PONS demand breakdown is on the page for members.
 
@@ -36,18 +36,18 @@ Pons has 3 price drivers. Right now: 2 up, 1 down.
 
 ### ▲ Launchpad share
 
-Pons earns about 95% of Robinhood Chain launchpad fees
+Pons still earns over 90% of Robinhood Chain launchpad fees
 
 Good for the price: Rivals stay small. Bad for it: Rivals win share. Right now it points up.
 
 | Date | Pons share of launchpad fees |
 |---|---|
-| Jul 31 2026 | 44.8% |
-| Aug 31 2026 | 75.3% |
 | Sep 30 2026 | 93.1% |
 | Oct 13 2026 | 95.4% |
+| Oct 24 2026 | 95.2% |
+| Nov 3 2026 | 92.8% |
 
-*Checked Oct 14 2026*
+*Checked Nov 3 2026*
 
 ### ▼ Robinhood Chain trading
 
@@ -57,16 +57,16 @@ Chain meme trading cooled from its September peak; PONS moves with it
 
 | Date | 30-day DEX volume |
 |---|---|
-| Jul 31 2026 | $15.3B |
 | Aug 31 2026 | $19.1B |
 | Sep 30 2026 | $56B |
-| Oct 21 2026 | $34.4B |
+| Oct 31 2026 | $27.8B |
+| Nov 5 2026 | $23B |
 
-*Checked Oct 14 2026*
+*Checked Nov 3 2026*
 
 ### ▲ Big exchange listings
 
-Eight big listings in 38 days; Korea's Upbit and Bithumb came last
+Nine big listings in 43 days; Deribit perps came last
 
 More big exchanges → price up · Exchanges delist PONS → price down. Today: the price-up case.
 
@@ -78,49 +78,45 @@ More big exchanges → price up · Exchanges delist PONS → price down. Today: 
 | Sep 22 2026 | Bybit spot |
 | Sep 28 2026 | Kraken spot |
 | Oct 7 2026 | Coinbase spot |
-| Oct 8 2026 | Upbit spot (KRW) |
-| Oct 8 2026 | Bithumb spot (KRW) |
+| Oct 8 2026 | Upbit + Bithumb (KRW) |
+| Oct 13 2026 | Deribit perps |
 
-*Checked Oct 14 2026*
+*Checked Nov 3 2026*
 
-## Questions people ask about Pons
+## Is PONS inflationary? Questions about Pons supply
 
-### Should I enter Pons right now?
+### Is PONS inflationary or deflationary?
 
-By the law of supply and demand, Pons's long-run signal is positive (Oct 21 2026, score 9.5/10). New supply: −10.05% in the next 90 days. Demand: very strong (4.5/5). Pons's price drivers: 2 ▲ price up, 1 ▼ price down.
+As of Nov 3 2026, PONS supply moves −15.76% in 90 days and −63.03% in a year, so PONS is deflationary. Burns or buybacks take out more PONS than is created.
 
-### How does the Pons crypto launchpad feed the PONS token?
+### What is the PONS inflation rate in 2026?
 
-Pons is a coin launchpad on Robinhood Chain and earns about 95% of the chain's launchpad fees. 80% of its fee share buys PONS and burns it, so supply fell 21.38% in the 90 days to Oct 14 2026. Fewer new launches lately likely means a smaller buyback next. That leaves Pons's long-run signal at positive, by supply and demand.
+PONS supply shrinks −63.03% over the next 12 months and −15.76% over the next 90 days (checked Nov 3 2026).
 
-### Did the Coinbase and Upbit listings help the Pons coin price?
+### When is the next PONS token unlock?
 
-Not for long, it looks like. Coinbase opened PONS trading on Oct 7 2026 and Upbit on Oct 8 2026, yet the price kept sliding and sits about two thirds below its September top. Slower launchpad fees probably matter more than new exchanges right now. Supply and demand still read positive for Pons in the long run.
+No dated PONS unlock is scheduled in the next 90 days (checked Nov 3 2026).
 
-### Should I sell Pons or hold?
+### Is any PONS burned or bought back?
 
-Pons's signal is positive for now. Pons's signal would turn if new supply jumps (today −10.05% in 90 days), or demand falls from very strong, or Robinhood Chain trading keeps pointing down.
+Yes. In our count, about 106M PONS is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 3 2026). How it works: Launchpad fees buy PONS and burn it: 68.61M burned in 90 days for about $21.2M, plus 16.28M burned by holders. At today's price the same dollars would burn about 105.73M next, far less at today's lower fees.
 
-### Is Pons worth investing in for the long term?
+### Where does new PONS supply come from?
 
-Pons sits at 9.5/10 today (Oct 21 2026): supply 5/5, demand 4.5/5. One more year adds −40.19% to Pons's supply. Long-run signal: positive.
+Almost no new PONS reaches the market over the next 90 days (checked Nov 3 2026). No new PONS: all 1B were made in one mint at launch on Jul 13 2026, there was no team or investor share, and nothing vests.
 
-### When is a good time to buy Pons?
+### How much PONS is in circulation?
 
-By the law of supply and demand, the better time to add Pons is when its new supply is low, demand is high and its price drivers point up. Pons today: −10.05% new supply in 90 days (shrinking), demand very strong (4.5/5), drivers 2 ▲ / 1 ▼.
+PONS has about 671M coins in circulation as of Nov 3 2026; the next 90 days change that by −15.76% (−63.03% over a year).
 
-### What could push Pons's price up or down?
+### Does PONS have more new supply than SYRUP, IMX or FORM?
 
-Right now 3 things drive Pons's price (2 ▲, 1 ▼). ▲ Launchpad share: Pons earns about 95% of Robinhood Chain launchpad fees ▼ Robinhood Chain trading: Chain meme trading cooled from its September peak; PONS moves with it ▲ Big exchange listings: Eight big listings in 38 days; Korea's Upbit and Bithumb came last
-
-### Is Pons a better investment than Bitcoin?
-
-Side by side on Oct 21 2026: Pons at 9.5/10 with a positive signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Pons is the stronger of the two.
+Over the next 90 days (checked Nov 3 2026): PONS −15.76%, SYRUP +1.06%, IMX +2.25%, FORM +0.01%. PONS has the least new supply of these 4 coins.
 
 ## Where to read the rest of PONS
 
 - The long read on Pons supply: https://mrnasdog.com/research/pons/inflation
-- Which crypto to buy now — PONS next to every coin we rank: https://mrnasdog.com/coins
+- All crypto inflation rates, PONS included: https://mrnasdog.com/token-supply
 - About the Pons score: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

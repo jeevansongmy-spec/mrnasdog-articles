@@ -10,7 +10,7 @@ Originally published at [CRV Inflation Analysis · October 2026 · Supply growin
 # CRV Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
 <!-- main-page -->
-
+The Curve DAO coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/crv](https://mrnasdog.com/research/crv). Below: supply, line by line.
 **CRV** supply grew **+2.51%** in the 90 days to Oct 27 2026 and is on course for about **+1.99%** in the next 90, so the verdict is supply growing. Curve pays liquidity providers in brand-new CRV every second (**24.92M** CRV in the window), and more CRV left voting locks (**11.53M**) than went in (**2.25M**). Nothing buys or burns CRV in size, and the hard cap of about **3.03B** CRV is still years away.
 
 ## The verdict, in one paragraph

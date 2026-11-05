@@ -10,7 +10,7 @@ Originally published at [FET Inflation Analysis · October 2026 · Supply growin
 # FET Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
 <!-- main-page -->
-➜ Start with the ASI Alliance coin page for the short answer and the full supply ledger: [mrnasdog.com/research/fet](https://mrnasdog.com/research/fet)
+➜ Start with the ASI Alliance coin page for the short answer (should you buy FET?) and its price drivers: [mrnasdog.com/research/fet](https://mrnasdog.com/research/fet)
 
 FET is inflationary right now, and not because of any built-in reward. Between Jul 30 and Oct 28 2026 the team's Ethereum wallets released **138.83M FET** into the market, nothing was bought back or burned, and the circulating supply on Ethereum grows by about **6.01%** in 90 days, with the same pace expected next. Other trackers show **+2.98%** because the figure they use stopped moving in early September, so the coin page carries a warning note.
 

@@ -8,7 +8,7 @@ published:   true
 *Originally published at [https://mrnasdog.com/research/etc/inflation](https://mrnasdog.com/research/etc/inflation)*
 
 <!-- main-page -->
-➜ Start with the Ethereum Classic coin page for the short answer (should you buy ETC?) and its price drivers: [mrnasdog.com/research/etc](https://mrnasdog.com/research/etc)
+**Main page:** the full ETC coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/etc](https://mrnasdog.com/research/etc)
 
 # ETC Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 

@@ -1,28 +1,28 @@
 ---
-title:         "Pieverse — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Is Pieverse worth buying today? By the law of supply and demand, the long-run signal for PIEVERSE is negative (score 0/10, checked Oct 21 2026)."
+title:         "Is PIEVERSE Inflationary? +25.93% New Supply in 90 Days"
+description:   "How much new PIEVERSE is coming? +25.93% in the next 90 days, +104.16% in the next year — checked Oct 28 2026."
 canonical_url: "https://mrnasdog.com/research/pieverse"
 content_type:  "coin_hub"
 tags:          ["crypto", "pieverse", "pieverse", "should-i-buy"]
 published:     true
 ---
-# Pieverse — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
+# Is PIEVERSE Inflationary? +25.93% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/pieverse, updated Oct 21 2026*
+*From https://mrnasdog.com/research/pieverse, updated Nov 5 2026*
 
-Is Pieverse worth buying today? By the law of supply and demand, the long-run signal for PIEVERSE is **negative** (score 0/10, checked Oct 21 2026).
+How much new PIEVERSE is coming? **+25.93%** in the next 90 days, **+104.16%** in the next year — checked Oct 28 2026.
 
 - **Signal:** negative for Pieverse
-- **Score:** 0/10 — supply 0/5, demand 0/5
-- **Supply growth:** +24.11% in 90 days · +96.78% in a year
-- **How much people want it:** minimal (0/5)
+- **Score:** 0.5/10 — supply 0/5, demand 0.5/5
+- **Supply growth:** +25.93% in 90 days · +104.16% in a year
+- **How much people want it:** very low (0.5/5)
 - **Price drivers:** 0 ▲ price up · 0 ▼ price down
 
 ## New PIEVERSE hitting the market
 
-Pieverse is an AI-agent payments app on Ethereum and BNB Chain. Only 27.5% of its 1B coins circulate, team Safes keep paying out, and team and investor unlocks start Nov 14 2026.
+Pieverse prints no new coins and burns none, but team-run wallets paid out 29.75M PIEVERSE in 90 days (+10.83%). The team and investor lock ends Nov 14 2026, so about 71.25M is due next (+25.93%).
 
-Pieverse adds +24.11% new supply in the next 90 days and +96.78% over a year — supply scores 0/5 (extreme).
+Pieverse adds +25.93% new supply in the next 90 days and +104.16% over a year — supply scores 0/5 (extreme).
 
 ## The things that move Pieverse
 
@@ -42,7 +42,7 @@ Good for the price: Bigger exchanges list it. Bad for it: Delistings.
 | Apr 20 2026 | Upbit KRW market opens |
 | May 20 2026 | Kraken spot listed |
 
-*Checked Oct 18 2026*
+*Checked Oct 28 2026*
 
 ### • Product rollout
 
@@ -59,48 +59,48 @@ Real users and payments → price up · Products stay unused → price down.
 | Sep 16 2026 | Added to Arc mainnet |
 | Q4 2026 | Global compliance push (coming) |
 
-*Checked Oct 18 2026*
+*Checked Oct 28 2026*
 
 ## Demand: how much people want PIEVERSE
 
-Demand reads **minimal** (0/5), #108 of 110 coins we track — that is how much people want PIEVERSE now and how much buying could still come.
+Demand reads **very low** (0.5/5), #99 of 109 coins we track — that is how much people want PIEVERSE now and how much buying could still come.
 
 The members-only part of PIEVERSE's demand section is not included.
 
-## Questions about PIEVERSE
+## PIEVERSE tokenomics: questions and answers
 
-### Is it time to buy the Pieverse dip?
+### Is PIEVERSE inflationary or deflationary?
 
-Based on the law of supply and demand, the long-run signal for Pieverse is negative. As of Oct 21 2026, score 0/10, Pieverse faces +24.11% new supply over 90 days, with demand minimal (0/5). Pieverse's price drivers: 0 ▲ price up, 0 ▼ price down.
+PIEVERSE is inflationary right now: its supply changes +25.93% over the next 90 days and +104.16% over the next year (checked Oct 28 2026). More PIEVERSE is added than removed.
 
-### What is coming next for the Pieverse token?
+### What is the PIEVERSE inflation rate in 2026?
 
-Unlocks. Team and investor unlocks start Nov 14 2026, and supply likely grows +24.11% in the next 90 days. Upbit and Kraken listed PIEVERSE in 2026, but there is no Binance spot yet. Our supply-and-demand read for Pieverse stays negative.
+About +104.16% a year: that is how much PIEVERSE supply changes over the next 12 months, with +25.93% in the next 90 days (checked Oct 28 2026). That puts PIEVERSE #4 of 100 coins we track for new supply (#1 = the most new supply).
 
-### When should I sell Pieverse?
+### When is the next PIEVERSE token unlock?
 
-Today the signal is negative. Supply and demand would point the other way for Pieverse if new supply keeps arriving (+24.11% in 90 days), or demand falls from minimal. Next date to watch for Pieverse: Q4 2026 — Global compliance push.
+The next PIEVERSE unlock we track is on Nov 14 2026: about 16.7M PIEVERSE, 6.07% of the PIEVERSE in circulation (Team + investor unlock (first after the 12-month lock) — new supply). Checked Oct 28 2026.
 
-### Is Pieverse a good investment in 2026?
+### Is any PIEVERSE burned or bought back?
 
-On our framework Pieverse scores 0/10 (Oct 21 2026), with supply 0/5 (extreme) and demand 0/5. In the next year Pieverse's supply changes +96.78%, so the long-run signal reads negative.
+Not in a way that removes PIEVERSE today: nothing takes PIEVERSE off the market over the next 90 days (checked Oct 28 2026). No buyback and no burn; staking holds about 10.72M that still counts as circulating.
 
-### What is the best time to invest in Pieverse?
+### Where does new PIEVERSE supply come from?
 
-The law of supply and demand points to one window for Pieverse: low new supply, high demand, drivers pointing up. Where Pieverse stands today: +24.11% new supply in 90 days (extreme), demand minimal (0/5), drivers 0 ▲ / 0 ▼.
+In our count, about 71.3M new PIEVERSE reaches the market over the next 90 days (checked Oct 28 2026). How it works: Team-run wallets paid out 29.75M PIEVERSE in 90 days, and the team and investor lock ends Nov 14 2026, adding about 16.67M a month.
 
-### Will Pieverse go up? What could move its price?
+### How much PIEVERSE is in circulation?
 
-Pieverse has 2 price drivers today (0 ▲ price up, 0 ▼ price down). • Exchange access: Upbit and Kraken added in 2026; no Binance spot yet. • Product rollout: Agent-payment products keep shipping; user numbers are not public.
+About 275M PIEVERSE is in circulation (checked Oct 28 2026). Over the next 90 days that changes +25.93%, and over a year +104.16%.
 
-### Should I buy Pieverse or Bitcoin?
+### Does PIEVERSE have more new supply than GNO, BONK or KITE?
 
-Pieverse reads negative at 0/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, Pieverse looks weaker than Bitcoin today.
+Over the next 90 days (checked Oct 28 2026): PIEVERSE +25.93%, GNO 0.00%, BONK 0.00%, KITE +39.63%. PIEVERSE sits in the middle of these 4 coins.
 
 ## Next steps for PIEVERSE
 
 - Full PIEVERSE inflation analysis (every unlock, burn and buyback): https://mrnasdog.com/research/pieverse/inflation
-- Every coin ranked by supply and demand, Pieverse included: https://mrnasdog.com/coins
+- Every coin's new supply, side by side: https://mrnasdog.com/token-supply
 - How we read Pieverse and every other coin: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

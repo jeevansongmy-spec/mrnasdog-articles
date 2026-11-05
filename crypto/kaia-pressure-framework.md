@@ -7,6 +7,9 @@ published:     true
 ---
 *Originally published at [https://mrnasdog.com/research/kaia/inflation](https://mrnasdog.com/research/kaia/inflation)*
 
+<!-- main-page -->
+The Kaia coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/kaia](https://mrnasdog.com/research/kaia). Below: supply, line by line.
+
 # KAIA Inflation Analysis · October 2026 · Supply growing · projected to keep growing
 
 KAIA supply is growing, and the Pressure Framework expects it to keep growing. Kaia mints a fixed **9.6 KAIA** in every block with no supply cap, which came to **74.62M KAIA** between Aug 1 and Oct 30 2026, while burns removed **2.60M KAIA**: **2.46M** of unearned Contribution Reward on Oct 21 2026 and **135K** of gas fees. Net, KAIA supply rose **+1.12%** in 90 days, other trackers read **+1.24%**, and the next 90 days project **+1.04%** as three more monthly reward burns land.

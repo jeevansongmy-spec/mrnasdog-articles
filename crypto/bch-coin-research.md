@@ -1,16 +1,16 @@
 ---
-title:         "Should You Buy Bitcoin Cash (BCH)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Supply and demand give Bitcoin Cash (BCH) a mixed long-run signal today (Oct 21 2026); its score is 5.5/10."
+title:         "Is Bitcoin Cash (BCH) Inflationary? +0.20% New Supply in 90 Days"
+description:   "How much new BCH is coming? +0.20% in the next 90 days, +0.82% in the next year — checked Oct 31 2026."
 canonical_url: "https://mrnasdog.com/research/bch"
 content_type:  "coin_hub"
 tags:          ["crypto", "bch", "bitcoincash", "should-i-buy"]
 published:     true
 ---
-# Should You Buy Bitcoin Cash (BCH)? Supply, Demand and Price Drivers (Oct 2026)
+# Is Bitcoin Cash (BCH) Inflationary? +0.20% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/bch, updated Oct 21 2026*
+*From https://mrnasdog.com/research/bch, updated Nov 5 2026*
 
-Supply and demand give Bitcoin Cash (BCH) a **mixed** long-run signal today (Oct 21 2026); its score is 5.5/10.
+How much new BCH is coming? **+0.20%** in the next 90 days, **+0.82%** in the next year — checked Oct 31 2026.
 
 - **Long-run signal:** mixed for Bitcoin Cash
 - **Score:** 5.5/10 — supply 3.5/5, demand 2/5
@@ -18,49 +18,45 @@ Supply and demand give Bitcoin Cash (BCH) a **mixed** long-run signal today (Oct
 - **Demand:** weak (2/5)
 - **Price drivers:** 0 ▲ price up · 1 ▼ price down
 
-## Questions people ask about Bitcoin Cash
+## Is BCH inflationary? Questions about Bitcoin Cash supply
 
-### Is Bitcoin Cash worth buying now?
+### Is Bitcoin Cash (BCH) inflationary or deflationary?
 
-Supply and demand point to a mixed long-run signal for Bitcoin Cash (Oct 21 2026, score 5.5/10). Bitcoin Cash adds +0.20% new supply in 90 days, and demand reads weak (2/5). Bitcoin Cash's price drivers: 0 ▲ price up, 1 ▼ price down.
+Bitcoin Cash (BCH) is inflationary right now: its supply changes +0.20% over the next 90 days and +0.82% over the next year (checked Oct 31 2026). More BCH is added than removed.
 
-### What's coming up for Bitcoin Cash in the next few days?
+### What is the BCH inflation rate in 2026?
 
-CME starts Bitcoin Cash futures on Oct 19 2026, just 7 days away. A BCH ETF filing is still waiting for a decision. Meanwhile Grayscale's trust holds about 383K BCH and is slowly shrinking, which probably weighs on price until an ETF listing turns it around. That leaves Bitcoin Cash's long-run signal at mixed, by supply and demand.
+About +0.82% a year: that is how much Bitcoin Cash (BCH) supply changes over the next 12 months, with +0.20% in the next 90 days (checked Oct 31 2026). That puts BCH #69 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Could Bitcoin Cash ever hit $1,000?
+### When is the next BCH token unlock?
 
-Bitcoin Cash trades near $279 (Oct 21 2026). $1,000 a coin means a $20.1B market cap, 3.6 times today's $5.61B. Bitcoin Cash's supply also grows +0.82% in the next year, so every extra coin needs buyers too. By supply and demand, Bitcoin Cash's long-run signal is mixed today.
+No dated Bitcoin Cash (BCH) unlock is scheduled in the next 90 days (checked Oct 31 2026). New BCH still arrives: about 40.7K BCH in 90 days.
 
-### When should I sell Bitcoin Cash?
+### Does Bitcoin Cash burn or buy back BCH?
 
-We would read Bitcoin Cash differently if new supply jumps (today +0.20% in 90 days), or demand falls from weak, or Grayscale BCH trust keeps pointing down. Until then Bitcoin Cash's signal stays mixed. Mark this date for Bitcoin Cash: Oct 19 2026 — CME BCH futures start.
+Not in a way that removes BCH today: nothing takes BCH off the market over the next 90 days (checked Oct 31 2026). No burn and no buyback. Every fee goes to miners, and big holders buy coins already counted.
 
-### Is Bitcoin Cash a good investment in 2026?
+### Where does new BCH supply come from?
 
-Bitcoin Cash scores 5.5/10 on our framework (Oct 21 2026): supply 3.5/5 (steady), demand 2/5. Over the next year Bitcoin Cash's supply changes +0.82%. The long-run signal is mixed.
+In our count, about 40.7K new BCH reaches the market over the next 90 days (checked Oct 31 2026). How it works: Miners get 3.125 new BCH per block, about 452 a day: 40,725 BCH in 90 days. No vesting and no team stash.
 
-### How do I know when to buy Bitcoin Cash?
+### How much BCH is in circulation?
 
-Supply and demand favor Bitcoin Cash most when little new supply is coming, demand is strong and the price drivers point up. Right now Bitcoin Cash has +0.20% new supply in 90 days (steady), demand weak (2/5), drivers 0 ▲ / 1 ▼.
+About 20.1M BCH is in circulation (checked Oct 31 2026). Over the next 90 days that changes +0.20%, and over a year +0.82%.
 
-### Will Bitcoin Cash go up in 2026?
+### Does BCH have more new supply than XLM, NEAR or UNI?
 
-Bitcoin Cash's price drivers today: 0 pointing up, 1 pointing down, out of 2. ▼ Grayscale BCH trust: Grayscale holds ~383K BCH, slowly falling; ETF listing could reverse it. • ETF and futures: ETF filing still pending; CME BCH futures start Oct 19 2026.
-
-### Should I buy Bitcoin Cash or Bitcoin?
-
-Bitcoin Cash: mixed signal, 5.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, Bitcoin Cash reads weaker than Bitcoin today.
+Over the next 90 days (checked Oct 31 2026): BCH +0.20%, XLM +2.78%, NEAR +0.60%, UNI +0.01%. BCH sits in the middle of these 4 coins.
 
 ## New BCH hitting the market
 
-Bitcoin Cash is a mined coin capped at 21M. Miners get about 40.5K new BCH every 90 days and nothing is burned, so supply grows about 0.20%.
+Bitcoin Cash pays miners 3.125 new BCH a block, about 40.7K BCH every 90 days, and burns nothing. Supply grows 0.20% a quarter toward a 21M cap, with the next halving around April 2028.
 
-Bitcoin Cash adds +0.20% new supply in the next 90 days and +0.82% over a year — supply scores 3.5/5 (steady) (place 68 of 101).
+Bitcoin Cash adds +0.20% new supply in the next 90 days and +0.82% over a year — supply scores 3.5/5 (steady) (place 69 of 100).
 
 ## Demand: how much people want BCH
 
-Demand reads **weak** (2/5), #65 of 110 coins we track — that is how much people want BCH now and how much buying could still come.
+Demand reads **weak** (2/5), #64 of 109 coins we track — that is how much people want BCH now and how much buying could still come.
 
 The members-only part of BCH's demand section is not included.
 
@@ -81,11 +77,11 @@ Good for the price: More BCH held. Bad for it: Less BCH held. Today: the price-d
 | Mar 31 2026 | 385 K BCH |
 | Jun 30 2026 | 383 K BCH |
 
-*Checked Oct 12 2026*
+*Checked Oct 31 2026*
 
 ### • ETF and futures
 
-ETF filing still pending; CME BCH futures start Oct 19 2026.
+CME BCH futures went live Oct 19 2026; ETF still pending.
 
 ETF and futures open → price up · Delayed or denied → price down.
 
@@ -95,15 +91,15 @@ ETF and futures open → price up · Delayed or denied → price down.
 | Sep 11 2026 | ETF filing amended |
 | Sep 18 2026 | BCH +17% in one day |
 | Sep 22 2026 | CME futures announced |
-| Oct 19 2026 | CME BCH futures start (coming) |
+| Oct 19 2026 | CME BCH futures live |
 | No date yet | SEC lets ETF list (coming) |
 
-*Checked Oct 12 2026*
+*Checked Oct 31 2026*
 
 ## Read more on BCH
 
 - Full BCH inflation analysis (every unlock, burn and buyback): https://mrnasdog.com/research/bch/inflation
-- Every coin ranked by supply and demand, Bitcoin Cash included: https://mrnasdog.com/coins
+- Every coin's new supply, side by side: https://mrnasdog.com/token-supply
 - How we read Bitcoin Cash and every other coin: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

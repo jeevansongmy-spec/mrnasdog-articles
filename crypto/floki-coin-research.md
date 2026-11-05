@@ -1,28 +1,28 @@
 ---
-title:         "Floki — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "As of Oct 21 2026, Floki scores 3/10 on our framework, and its supply-and-demand signal reads negative."
+title:         "FLOKI Tokenomics: −0.04% Supply in 90 Days"
+description:   "As of Oct 30 2026, new Floki supply runs at −0.04% over 90 days and −0.17% over 12 months."
 canonical_url: "https://mrnasdog.com/research/floki"
 content_type:  "coin_hub"
 tags:          ["crypto", "floki", "floki", "should-i-buy"]
 published:     true
 ---
-# Floki — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
+# FLOKI Tokenomics: −0.04% Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/floki (checked Oct 21 2026)*
+*Originally published at https://mrnasdog.com/research/floki (checked Nov 5 2026)*
 
-As of Oct 21 2026, Floki scores 3/10 on our framework, and its supply-and-demand signal reads **negative**.
+As of Oct 30 2026, new Floki supply runs at **−0.04%** over 90 days and **−0.17%** over 12 months.
 
-- **Signal today:** negative (Oct 21 2026)
+- **Signal today:** negative (Nov 5 2026)
 - **MrNasDog score:** 3/10 — supply 1.5/5, demand 1.5/5
-- **New coins:** −0.05% in 90 days · −0.20% in a year
+- **New coins:** −0.04% in 90 days · −0.17% in a year
 - **Demand:** very weak (1.5/5)
 - **Drivers:** 0 ▲ price up · 0 ▼ price down
 
 ## New FLOKI hitting the market
 
-FLOKI cannot mint more coins. Staking exit penalties and a small fee buyback burned 4.83B FLOKI in 90 days, so supply shrinks about 0.05%.
+FLOKI cannot mint; early staking exits and a small fee buyback burned 3.99B FLOKI in 90 days, supply down 0.04%.
 
-New FLOKI: −0.05% in 90 days, −0.20% in a year. Supply score 1.5/5, "meme coin".
+New FLOKI: −0.04% in 90 days, −0.17% in a year. Supply score 1.5/5, "meme coin".
 
 ## Big wallets, votes and dates behind FLOKI
 
@@ -42,7 +42,7 @@ Good for the price: Musk posts Floki. Bad for it: Musk goes silent.
 | Feb 15 2023 | Musk: Floki Twitter CEO |
 | Oct 20 2025 | Floki 'back as X CEO' |
 
-*Checked Oct 20 2026*
+*Checked Oct 30 2026*
 
 ### • ETP and listings
 
@@ -59,52 +59,48 @@ More ways for big buyers → price up · Delistings → price down.
 | Oct 3 2025 | First FLOKI ETP (Europe) |
 | Apr 1 2026 | Bitkub (Thailand) lists |
 
-*Checked Oct 20 2026*
+*Checked Oct 30 2026*
 
 ## How strong is Floki demand?
 
-Floki demand: 1.5/5 (**very weak**), place #80 among 110 coins — interest today plus the buying that could come later.
+Floki demand: 1.5/5 (**very weak**), place #78 among 109 coins — interest today plus the buying that could come later.
 
 Extra Floki demand detail for members stays on the live page.
 
-## Questions people ask about Floki
+## Is FLOKI inflationary? Questions about Floki supply
 
-### Should I enter Floki right now?
+### Is FLOKI inflationary or deflationary?
 
-Supply and demand point to a negative long-run signal for Floki (Oct 21 2026, score 3/10). Floki adds −0.05% new supply in 90 days, and demand reads very weak (1.5/5). Floki's price drivers: 0 ▲ price up, 0 ▼ price down.
+FLOKI is deflationary right now: its supply changes −0.04% over the next 90 days and −0.17% over the next year (checked Oct 30 2026). More FLOKI is removed than added.
 
-### Has Elon Musk posted about Floki lately?
+### What is the FLOKI inflation rate in 2026?
 
-No. Musk's last Floki post was Oct 20 2025, and his posts about it are rare. The newer support came from listings instead: a Europe ETP and Robinhood, with the newest listing on Apr 1 2026. That leaves Floki's long-run signal at negative, by supply and demand.
+About −0.17% a year: that is how much FLOKI supply changes over the next 12 months, with −0.04% in the next 90 days (checked Oct 30 2026).
 
-### Could Floki ever hit $1?
+### When is the next FLOKI token unlock?
 
-Floki trades near 0.00246 cents (Oct 21 2026). $1 a coin means a $9.64 trillion market cap, 40,686 times today's $237M. Floki's supply barely changes in the next year (−0.20%), so the whole move would have to come from demand. For Floki, the supply-and-demand signal is negative right now.
+No dated FLOKI unlock is scheduled in the next 90 days (checked Oct 30 2026).
 
-### Is it time to take profit on Floki?
+### Is any FLOKI burned or bought back?
 
-We would read Floki differently if new supply jumps (today −0.05% in 90 days), or demand falls from very weak. Until then Floki's signal stays negative.
+Yes. In our count, about 3.99B FLOKI is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Oct 30 2026). How it works: Burns: 3.95B from early staking exits + 38.05M fee buy-and-burn in 90 days.
 
-### Is Floki a good investment right now?
+### Where does new FLOKI supply come from?
 
-Floki scores 3/10 on our framework (Oct 21 2026): supply 1.5/5 (meme coin), demand 1.5/5. Over the next year Floki's supply changes −0.20%. The long-run signal is negative.
+Almost no new FLOKI reaches the market over the next 90 days (checked Oct 30 2026). No new FLOKI can be made: no mint, no vesting; team-wallet sales to a market maker stay inside the float.
 
-### How do I know when to buy Floki?
+### How much FLOKI is in circulation?
 
-Supply and demand favor Floki most when little new supply is coming, demand is strong and the price drivers point up. Right now Floki has −0.05% new supply in 90 days (meme coin), demand very weak (1.5/5), drivers 0 ▲ / 0 ▼.
+About 9.64T FLOKI is in circulation (checked Oct 30 2026). Over the next 90 days that changes −0.04%, and over a year −0.17%.
 
-### Will Floki go up in 2026?
+### Does FLOKI have more new supply than GRT, JTO or KAIA?
 
-Floki's price drivers today: 0 pointing up, 0 pointing down, out of 2. • Elon Musk: Musk's Floki posts are rare; the last one was Oct 20 2025. • ETP and listings: Europe ETP and Robinhood opened doors; newest listing was Apr 1 2026.
-
-### Should I buy Floki or Bitcoin?
-
-Floki: negative signal, 3/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, Floki reads weaker than Bitcoin today.
+Over the next 90 days (checked Oct 30 2026): FLOKI −0.04%, GRT +1.07%, JTO +2.63%, KAIA +1.04%. FLOKI has the least new supply of these 4 coins.
 
 ## More on Floki
 
 - FLOKI supply, line by line: https://mrnasdog.com/research/floki/inflation
-- Where Floki sits among all coins: https://mrnasdog.com/coins
+- Where Floki sits on new supply: https://mrnasdog.com/token-supply
 - Why supply and demand decide FLOKI's signal: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

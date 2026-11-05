@@ -7,6 +7,9 @@ published: true
 ---
 > Originally published at **[mrnasdog.com/research/pump/inflation](https://mrnasdog.com/research/pump/inflation)** by MrNasDog.
 
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the PUMP coin page, with demand and price drivers: [mrnasdog.com/research/pump](https://mrnasdog.com/research/pump)
+
 # PUMP Inflation Analysis · November 2026 · Supply was growing · trend cooling
 
 PUMP supply grew fast over the last 90 days and should now shrink. Between Aug 4 and Nov 2 2026, **83.38B PUMP** left team and investor vesting wallets while the Pump.fun buyback burned **18.93B**, so the circulating supply rose a net **+14.02%**. No new PUMP can ever be made, the next year of insider vesting already counts as circulating, and the buyback should burn about **20.09B** against only **1.88B** of new releases, for a projected **−3.96%** over the next 90 days. Other trackers read the last 90 days at **+16.30%**.

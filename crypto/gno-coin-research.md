@@ -1,16 +1,16 @@
 ---
-title:         "Gnosis (GNO): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)"
-description:   "As of Oct 21 2026, Gnosis scores 5.5/10 on our framework, and its supply-and-demand signal reads mixed."
+title:         "Gnosis (GNO) Supply & Demand: 0.00% Supply in 90 Days"
+description:   "Gnosis (GNO) supply changes 0.00% over the next 90 days and 0.00% over a year (checked Oct 29 2026)."
 canonical_url: "https://mrnasdog.com/research/gno"
 content_type:  "coin_hub"
 tags:          ["crypto", "gno", "gnosis", "should-i-buy"]
 published:     true
 ---
-# Gnosis (GNO): Buy, Sell or Hold? Supply and Demand Signal (Oct 2026)
+# Gnosis (GNO) Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/gno · checked Oct 21 2026*
+*Live page: https://mrnasdog.com/research/gno · checked Nov 5 2026*
 
-As of Oct 21 2026, Gnosis scores 5.5/10 on our framework, and its supply-and-demand signal reads **mixed**.
+Gnosis (GNO) supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Oct 29 2026).
 
 - **Long-run signal:** mixed (by the law of supply and demand)
 - **Score:** 5.5/10 — supply 4.5/5, demand 1/5
@@ -18,45 +18,45 @@ As of Oct 21 2026, Gnosis scores 5.5/10 on our framework, and its supply-and-dem
 - **Demand:** low (1/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
-## Gnosis: buy, sell or hold — questions and answers
+## Gnosis supply questions, answered
 
-### Should I enter Gnosis right now?
+### Is Gnosis (GNO) inflationary or deflationary?
 
-Supply and demand point to a mixed long-run signal for Gnosis (Oct 21 2026, score 5.5/10). Gnosis adds 0.00% new supply in 90 days, and demand reads low (1/5). Gnosis's price drivers: 1 ▲ price up, 1 ▼ price down.
+As of Oct 29 2026, Gnosis (GNO) supply moves 0.00% in 90 days and 0.00% in a year, so GNO is about flat. What is created and what is removed roughly match.
 
-### What's new with Gnosis coin right now?
+### What is the GNO inflation rate in 2026?
 
-The big Gnosis story is the rollup switch: Gnosis Chain plans to become an Ethereum rollup around Jan 2027, and the staking subsidy ends at launch. Staked GNO fell about 19% since Mar 31 2026 and now looks steady. Supply stays flat, 0.00% in 90 days. That leaves Gnosis's long-run signal at mixed, by supply and demand.
+Gnosis (GNO) supply grows 0.00% over the next 12 months and 0.00% over the next 90 days (checked Oct 29 2026). That puts GNO #81 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Should I sell my Gnosis now?
+### When is the next GNO token unlock?
 
-We would read Gnosis differently if new supply jumps (today 0.00% in 90 days), or demand falls from low, or Staked GNO keeps pointing down. Until then Gnosis's signal stays mixed. Mark this date for Gnosis: Around Jan 2027 — Rollup launch target.
+No dated Gnosis (GNO) unlock is scheduled in the next 90 days (checked Oct 29 2026).
 
-### Is Gnosis a good long-term investment?
+### Does Gnosis burn or buy back GNO?
 
-Gnosis scores 5.5/10 on our framework (Oct 21 2026): supply 4.5/5 (flat), demand 1/5. Over the next year Gnosis's supply changes 0.00%. The long-run signal is mixed.
+Not in a way that removes GNO today: nothing takes GNO off the market over the next 90 days (checked Oct 29 2026). The DAO bought about 7,800 GNO for $915K from July to September 2026, and its buyer wallet holds 10,987 GNO more. The coins stay in the treasury, which already counts as circulating, so nothing leaves the count. No GNO is burned.
 
-### How do I know when to buy Gnosis?
+### Where does new GNO supply come from?
 
-Supply and demand favor Gnosis most when little new supply is coming, demand is strong and the price drivers point up. Right now Gnosis has 0.00% new supply in 90 days (flat), demand low (1/5), drivers 1 ▲ / 1 ▼.
+Almost no new GNO reaches the market over the next 90 days (checked Oct 29 2026). No new GNO can be made, and no GNO was released in 90 days. Stakers are paid from GNO the DAO already holds. 360,411 GNO in an old vesting contract are unlocked but unclaimed, and the DAO's 3.85M vesting pot is pledged to be burned.
 
-### Will Gnosis go up in 2026?
+### How much GNO is in circulation?
 
-Gnosis's price drivers today: 1 pointing up, 1 pointing down, out of 3. ▲ Treasury backing: GNO still trades below the treasury value behind each token. • Rollup switch: Gnosis Chain becomes an Ethereum rollup; staking subsidy ends at launch. ▼ Staked GNO: Staked GNO fell about 19% since Mar 31 2026, now steady.
+Gnosis (GNO) has about 2.64M coins in circulation as of Oct 29 2026; the next 90 days change that by 0.00% (0.00% over a year).
 
-### Is Gnosis a better investment than Bitcoin?
+### Does GNO have more new supply than XTZ, PIEVERSE or BONK?
 
-Gnosis: mixed signal, 5.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, Gnosis reads weaker than Bitcoin today.
+Over the next 90 days (checked Oct 29 2026): GNO 0.00%, XTZ +0.73%, PIEVERSE +25.93%, BONK 0.00%. GNO sits in the middle of these 4 coins.
 
 ## Supply — new GNO in the next 90 days
 
-Gnosis has a fixed 3M GNO supply with no mint function. Nothing new reached the market in 90 days, and the GNO the DAO buys back or took in through its redemption stays in its treasury, so supply is flat at 0.00%.
+No new GNO can be made. The DAO buys GNO back but keeps it in its treasury, so supply was flat over 90 days.
 
 Over the next 90 days GNO supply changes 0.00%; across a full year, 0.00%. That puts supply at 4.5/5 (flat).
 
 ## GNO demand
 
-People's appetite for Gnosis is **low**: 1/5, ranked #92 of 110.
+People's appetite for Gnosis is **low**: 1/5, ranked #92 of 109.
 
 Extra Gnosis demand detail for members stays on the live page.
 
@@ -72,12 +72,12 @@ Good for the price: Backing per GNO grows. Bad for it: Backing shrinks. Right no
 
 | Date | GNO price | Treasury per GNO |
 |---|---|---|
-| Jul 31 2026 | 108 USD | — |
 | Aug 31 2026 | 117 USD | — |
 | Sep 30 2026 | 118 USD | — |
-| Oct 21 2026 | 114 USD | 133 USD |
+| Oct 31 2026 | 105 USD | 123 USD |
+| Nov 5 2026 | 113 USD | 131 USD |
 
-*Checked Oct 19 2026*
+*Checked Oct 29 2026*
 
 ### • Rollup switch
 
@@ -93,11 +93,11 @@ Gnosis Chain becomes an Ethereum rollup; staking subsidy ends at launch.
 | Around Jan 2027 | Rollup launch target (coming) |
 | 2027 | Full EEZ spec (coming) |
 
-*Checked Oct 19 2026*
+*Checked Oct 29 2026*
 
 ### ▼ Staked GNO
 
-Staked GNO fell about 19% since Mar 31 2026, now steady.
+Staked GNO fell about 21% since Mar 31 2026, still sliding.
 
 ▲ Price up if: More GNO staked. ▼ Price down if: Stakers leave. Now: ▼ down side.
 
@@ -106,13 +106,14 @@ Staked GNO fell about 19% since Mar 31 2026, now steady.
 | Mar 31 2026 | 368 K GNO |
 | Jun 30 2026 | 335 K GNO |
 | Oct 19 2026 | 299 K GNO |
+| Oct 29 2026 | 292 K GNO |
 
-*Checked Oct 19 2026*
+*Checked Oct 29 2026*
 
 ## Next steps for GNO
 
 - Every GNO unlock and burn, explained: https://mrnasdog.com/research/gno/inflation
-- Compare GNO with 100+ coins: https://mrnasdog.com/coins
+- Compare GNO supply with 100+ coins: https://mrnasdog.com/token-supply
 - The MrNasDog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

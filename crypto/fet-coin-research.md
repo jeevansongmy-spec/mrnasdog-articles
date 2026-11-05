@@ -1,32 +1,32 @@
 ---
-title:         "Should You Buy ASI Alliance (FET)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Our read on ASI Alliance for Oct 21 2026: a negative long-run signal and a score of 3/10, from new supply, demand and what moves the price."
+title:         "ASI Alliance (FET) Tokenomics: +6.01% New Supply in 90 Days"
+description:   "As of Oct 28 2026, new ASI Alliance supply runs at +6.01% over 90 days and +14.50% over 12 months."
 canonical_url: "https://mrnasdog.com/research/fet"
 content_type:  "coin_hub"
 tags:          ["crypto", "fet", "asialliance", "should-i-buy"]
 published:     true
 ---
-# Should You Buy ASI Alliance (FET)? Supply, Demand and Price Drivers (Oct 2026)
+# ASI Alliance (FET) Tokenomics: +6.01% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/fet (checked Oct 21 2026)*
+*Originally published at https://mrnasdog.com/research/fet (checked Nov 5 2026)*
 
-Our read on ASI Alliance for Oct 21 2026: a **negative** long-run signal and a score of 3/10, from new supply, demand and what moves the price.
+As of Oct 28 2026, new ASI Alliance supply runs at **+6.01%** over 90 days and **+14.50%** over 12 months.
 
-- **Signal today:** negative (Oct 21 2026)
-- **MrNasDog score:** 3/10 — supply 0.5/5, demand 2.5/5
-- **New coins:** +5.99% in 90 days · +24.30% in a year
-- **Demand:** modest (2.5/5)
+- **Signal today:** negative (Nov 5 2026)
+- **MrNasDog score:** 2.5/10 — supply 0.5/5, demand 2/5
+- **New coins:** +6.01% in 90 days · +14.50% in a year
+- **Demand:** weak (2/5)
 - **Drivers:** 0 ▲ price up · 0 ▼ price down
 
 ## New FET hitting the market
 
-FET on Ethereum grew about 6% in 90 days, all of it team releases, with no burn to offset it.
+The team released 138.8M FET from its Ethereum wallets in 90 days and nothing was burned, so FET supply on Ethereum grows about 6% a quarter.
 
-New FET: +5.99% in 90 days, +24.30% in a year. Supply score 0.5/5, "flooding", #14 of 101 for new supply.
+New FET: +6.01% in 90 days, +14.50% in a year. Supply score 0.5/5, "flooding", #15 of 100 for new supply.
 
 ## How strong is ASI Alliance demand?
 
-ASI Alliance demand: 2.5/5 (**modest**), place #46 among 110 coins — interest today plus the buying that could come later.
+ASI Alliance demand: 2/5 (**weak**), place #64 among 109 coins — interest today plus the buying that could come later.
 
 (Members see more FET demand detail on the page; it is not repeated here.)
 
@@ -49,7 +49,7 @@ Ocean's bid to dismiss the suit still awaits a judge.
 | Apr 30 2026 | Ocean moves to dismiss |
 | Jun 26 2026 | Dismiss motion briefed |
 
-*Checked Oct 18 2026*
+*Checked Oct 28 2026*
 
 ### • ASI:Chain launch
 
@@ -65,42 +65,42 @@ Good for the price: Mainnet ships on time. Bad for it: Delays.
 | 2026 | ASI:Chain testnet (coming) |
 | Late 2026–early 2027 | Mainnet, FET as gas (coming) |
 
-*Checked Oct 18 2026*
+*Checked Oct 28 2026*
 
-## Should you buy ASI Alliance? The questions, answered
+## Questions about FET supply
 
-### Should I buy ASI Alliance now, or wait?
+### Is ASI Alliance (FET) inflationary or deflationary?
 
-Based on the law of supply and demand, the long-run signal for ASI Alliance is negative. As of Oct 21 2026, score 3/10, ASI Alliance faces +5.99% new supply over 90 days, with demand modest (2.5/5). ASI Alliance's price drivers: 0 ▲ price up, 0 ▼ price down.
+ASI Alliance (FET) is inflationary right now: its supply changes +6.01% over the next 90 days and +14.50% over the next year (checked Oct 28 2026). More FET is added than removed.
 
-### Is the FET burn enough to shrink ASI Alliance supply?
+### What is the FET inflation rate in 2026?
 
-Not right now, it looks like. FET on Ethereum still grows +5.99% in 90 days and +24.30% over the next year (Oct 19 2026). So new coins probably outweigh any burn for a while. Supply and demand still read negative for ASI Alliance in the long run.
+About +14.50% a year: that is how much ASI Alliance (FET) supply changes over the next 12 months, with +6.01% in the next 90 days (checked Oct 28 2026). That puts FET #15 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Is it time to take profit on ASI Alliance?
+### When is the next FET token unlock?
 
-Today the signal is negative. Supply and demand would point the other way for ASI Alliance if new supply keeps arriving (+5.99% in 90 days), or demand falls from modest. Next date to watch for ASI Alliance: 2026 — ASI:Chain testnet.
+No dated ASI Alliance (FET) unlock is scheduled in the next 90 days (checked Oct 28 2026). New FET still arrives: about 139M FET in 90 days.
 
-### Is ASI Alliance a good investment right now?
+### Does ASI Alliance burn or buy back FET?
 
-On our framework ASI Alliance scores 3/10 (Oct 21 2026), with supply 0.5/5 (flooding) and demand 2.5/5. In the next year ASI Alliance's supply changes +24.30%, so the long-run signal reads negative.
+Not in a way that removes FET today: nothing takes FET off the market over the next 90 days (checked Oct 28 2026). Nothing removes FET: no buyback and no burn on either chain. The 625.6M FET staked on Fetch.ai's chain does not count as a lock.
 
-### What is the best time to invest in ASI Alliance?
+### Where does new FET supply come from?
 
-The law of supply and demand points to one window for ASI Alliance: low new supply, high demand, drivers pointing up. Where ASI Alliance stands today: +5.99% new supply in 90 days (flooding), demand modest (2.5/5), drivers 0 ▲ / 0 ▼.
+In our count, about 139M new FET reaches the market over the next 90 days (checked Oct 28 2026). How it works: Counting FET on Ethereum only, the team released 138.8M FET from its Ethereum wallets in 90 days, mostly to one exchange deposit. Fetch.ai's own chain also made 232M new FET, outside this count.
 
-### Will ASI Alliance go up? What could move its price?
+### How much FET is in circulation?
 
-ASI Alliance has 2 price drivers today (0 ▲ price up, 0 ▼ price down). • Ocean dispute: Ocean's bid to dismiss the suit still awaits a judge. • ASI:Chain launch: Mainnet aimed for late 2026 or early 2027; FET becomes gas.
+About 2.31B FET is in circulation (checked Oct 28 2026). Over the next 90 days that changes +6.01%, and over a year +14.50%.
 
-### Should I buy ASI Alliance or Bitcoin?
+### Does FET have more new supply than RAY, VIRTUAL or XPL?
 
-ASI Alliance reads negative at 3/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, ASI Alliance looks weaker than Bitcoin today.
+Over the next 90 days (checked Oct 28 2026): FET +6.01%, RAY +0.23%, VIRTUAL +0.04%, XPL +14.35%. FET sits in the middle of these 4 coins.
 
 ## Where to read the rest of FET
 
 - FET supply, line by line: https://mrnasdog.com/research/fet/inflation
-- Where ASI Alliance sits among all coins: https://mrnasdog.com/coins
+- Where ASI Alliance sits on new supply: https://mrnasdog.com/token-supply
 - Why supply and demand decide FET's signal: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

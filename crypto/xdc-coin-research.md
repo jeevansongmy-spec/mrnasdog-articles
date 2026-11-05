@@ -8,7 +8,7 @@ published:     true
 ---
 # Is XDC Network (XDC) Inflationary? +0.09% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/xdc, updated Nov 4 2026*
+*From https://mrnasdog.com/research/xdc, updated Nov 5 2026*
 
 How much new XDC is coming? **+0.09%** in the next 90 days, **+0.37%** in the next year — checked Nov 4 2026.
 

@@ -1,18 +1,18 @@
 ---
-title:         "Bitcoin SV (BSV) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Is Bitcoin SV worth buying today? By the law of supply and demand, the long-run signal for BSV is negative (score 4.5/10, checked Oct 21 2026)."
+title:         "Bitcoin SV (BSV) Tokenomics: +0.20% New Supply in 90 Days"
+description:   "As of Oct 28 2026, new Bitcoin SV supply runs at +0.20% over 90 days and +0.81% over 12 months."
 canonical_url: "https://mrnasdog.com/research/bsv"
 content_type:  "coin_hub"
 tags:          ["crypto", "bsv", "bitcoinsv", "should-i-buy"]
 published:     true
 ---
-# Bitcoin SV (BSV) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
+# Bitcoin SV (BSV) Tokenomics: +0.20% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/bsv (checked Oct 21 2026)*
+*Originally published at https://mrnasdog.com/research/bsv (checked Nov 5 2026)*
 
-Is Bitcoin SV worth buying today? By the law of supply and demand, the long-run signal for BSV is **negative** (score 4.5/10, checked Oct 21 2026).
+As of Oct 28 2026, new Bitcoin SV supply runs at **+0.20%** over 90 days and **+0.81%** over 12 months.
 
-- **Signal:** negative (Oct 21 2026)
+- **Signal:** negative (Nov 5 2026)
 - **Score:** 4.5/10 — supply 3.5/5, demand 1/5
 - **Supply growth:** +0.20% in 90 days · +0.81% in a year
 - **How much people want it:** low (1/5)
@@ -37,7 +37,7 @@ Teranode goes live smoothly → price up · Delays or chain bugs → price down.
 | Oct 5 2026 | Teranode v0.16.0 out |
 | No date yet | Teranode runs mainnet (coming) |
 
-*Checked Oct 18 2026*
+*Checked Oct 28 2026*
 
 ### ▼ Miner power
 
@@ -47,67 +47,59 @@ Miner power is down about two thirds since early 2024.
 
 | Date | BSV hashrate |
 |---|---|
-| Jul 31 2026 | 187 PH/s |
 | Aug 31 2026 | 180 PH/s |
 | Sep 30 2026 | 202 PH/s |
-| Oct 21 2026 | 221 PH/s |
+| Oct 31 2026 | 190 PH/s |
+| Nov 5 2026 | 236 PH/s |
 
-*Checked Oct 18 2026*
+*Checked Oct 28 2026*
 
 ## New BSV hitting the market
 
-Bitcoin SV pays miners 3.125 new BSV a block, about 0.20% more coins every 90 days, and nothing burns or buys any back. 95.7% of the 21M cap is already mined.
+Bitcoin SV pays miners 3.125 BSV a block, about 40,300 new coins every 90 days, and nothing is burned or bought back. Supply grows about 0.20% a quarter toward a 21M cap.
 
-New BSV: +0.20% in 90 days, +0.81% in a year. Supply score 3.5/5, "steady", #69 of 101 for new supply.
+New BSV: +0.20% in 90 days, +0.81% in a year. Supply score 3.5/5, "steady", #70 of 100 for new supply.
 
 ## How strong is Bitcoin SV demand?
 
-Bitcoin SV demand: 1/5 (**low**), place #92 among 110 coins — interest today plus the buying that could come later.
+Bitcoin SV demand: 1/5 (**low**), place #92 among 109 coins — interest today plus the buying that could come later.
 
 The members-only part of BSV's demand section is not included.
 
-## Should you buy BSV? Questions about Bitcoin SV
+## Bitcoin SV (BSV) supply: questions people ask
 
-### Should I buy Bitcoin SV now, or wait?
+### Is Bitcoin SV (BSV) inflationary or deflationary?
 
-Supply and demand point to a negative long-run signal for Bitcoin SV (Oct 21 2026, score 4.5/10). Bitcoin SV adds +0.20% new supply in 90 days, and demand reads low (1/5). Bitcoin SV's price drivers: 0 ▲ price up, 1 ▼ price down.
+Bitcoin SV (BSV) is inflationary right now: its supply changes +0.20% over the next 90 days and +0.81% over the next year (checked Oct 28 2026). More BSV is added than removed.
 
-### Is Bitcoin SV dead in 2026?
+### What is the BSV inflation rate in 2026?
 
-Not dead, but it looks weak. Miner power is down about two thirds since early 2024, while Chronicle is live and Teranode still has no date. Supply grows only +0.20% in 90 days, so new coins are not the problem; demand is. Our supply-and-demand read for Bitcoin SV stays negative.
+About +0.81% a year: that is how much Bitcoin SV (BSV) supply changes over the next 12 months, with +0.20% in the next 90 days (checked Oct 28 2026). That puts BSV #70 of 100 coins we track for new supply (#1 = the most new supply).
 
-### What does Bitcoin SV mining look like today?
+### When is the next BSV token unlock?
 
-Thin, from what we see. Miner power on Bitcoin SV is down about two thirds since early 2024. Only +0.20% new BSV arrives in 90 days, so miners add little selling, but fewer miners can make the chain look less secure. That leaves Bitcoin SV's long-run signal at negative, by supply and demand.
+No dated Bitcoin SV (BSV) unlock is scheduled in the next 90 days (checked Oct 28 2026). New BSV still arrives: about 40.3K BSV in 90 days.
 
-### Could Bitcoin SV ever hit $10,000?
+### Does Bitcoin SV burn or buy back BSV?
 
-Bitcoin SV trades near $16.9 (Oct 21 2026). $10,000 a coin means a $201B market cap, 591 times today's $340M. Bitcoin SV's supply also grows +0.81% in the next year, so every extra coin needs buyers too. Our supply-and-demand read for Bitcoin SV stays negative.
+Not in a way that removes BSV today: nothing takes BSV off the market over the next 90 days (checked Oct 28 2026). Nothing removes BSV: no buyback, no fee burn, no staking lock.
 
-### Is it time to take profit on Bitcoin SV?
+### Where does new BSV supply come from?
 
-We would read Bitcoin SV differently if new supply jumps (today +0.20% in 90 days), or demand falls from low, or Miner power keeps pointing down. Until then Bitcoin SV's signal stays negative. Mark this date for Bitcoin SV: No date yet — Teranode runs mainnet.
+In our count, about 40.3K new BSV reaches the market over the next 90 days (checked Oct 28 2026). How it works: Mining only: 3.125 new BSV per block, about 40,300 every 90 days until the halving around April 2028.
 
-### Is Bitcoin SV a good investment right now?
+### How much BSV is in circulation?
 
-Bitcoin SV scores 4.5/10 on our framework (Oct 21 2026): supply 3.5/5 (steady), demand 1/5. Over the next year Bitcoin SV's supply changes +0.81%. The long-run signal is negative.
+About 20.1M BSV is in circulation (checked Oct 28 2026). Over the next 90 days that changes +0.20%, and over a year +0.81%.
 
-### How do I know when to buy Bitcoin SV?
+### Does BSV have more new supply than SPX, STRK or SEI?
 
-Supply and demand favor Bitcoin SV most when little new supply is coming, demand is strong and the price drivers point up. Right now Bitcoin SV has +0.20% new supply in 90 days (steady), demand low (1/5), drivers 0 ▲ / 1 ▼.
-
-### Will Bitcoin SV go up in 2026?
-
-Bitcoin SV's price drivers today: 0 pointing up, 1 pointing down, out of 2. • Chronicle and Teranode: Chronicle is live; the Teranode switch has no date yet. ▼ Miner power: Miner power is down about two thirds since early 2024.
-
-### Should I buy Bitcoin SV or Bitcoin?
-
-Bitcoin SV: negative signal, 4.5/10 · Bitcoin: positive signal, 8.5/10 (Oct 21 2026). By supply and demand, Bitcoin SV reads weaker than Bitcoin today.
+Over the next 90 days (checked Oct 28 2026): BSV +0.20%, SPX 0.00%, STRK +5.53%, SEI +4.96%. BSV sits in the middle of these 4 coins.
 
 ## Read more on BSV
 
 - BSV supply, line by line: https://mrnasdog.com/research/bsv/inflation
-- Where Bitcoin SV sits among all coins: https://mrnasdog.com/coins
+- Where Bitcoin SV sits on new supply: https://mrnasdog.com/token-supply
 - Why supply and demand decide BSV's signal: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

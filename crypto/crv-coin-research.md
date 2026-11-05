@@ -1,32 +1,32 @@
 ---
-title:         "Is Curve DAO (CRV) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)"
-description:   "Our read on Curve DAO for Oct 21 2026: a negative long-run signal and a score of 3.5/10, from new supply, demand and what moves the price."
+title:         "Is Curve DAO (CRV) Inflationary? +1.99% New Supply in 90 Days"
+description:   "How much new CRV is coming? +1.99% in the next 90 days, +7.86% in the next year — checked Oct 27 2026."
 canonical_url: "https://mrnasdog.com/research/crv"
 content_type:  "coin_hub"
 tags:          ["crypto", "crv", "curvedao", "should-i-buy"]
 published:     true
 ---
-# Is Curve DAO (CRV) a Good Buy Now? Supply, Demand, Price Drivers (Oct 2026)
+# Is Curve DAO (CRV) Inflationary? +1.99% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/crv, updated Oct 21 2026*
+*From https://mrnasdog.com/research/crv, updated Nov 5 2026*
 
-Our read on Curve DAO for Oct 21 2026: a **negative** long-run signal and a score of 3.5/10, from new supply, demand and what moves the price.
+How much new CRV is coming? **+1.99%** in the next 90 days, **+7.86%** in the next year — checked Oct 27 2026.
 
 - **Signal today:** negative for Curve DAO
 - **MrNasDog score:** 3.5/10 — supply 1.5/5, demand 2/5
-- **New coins:** +2.00% in 90 days · +7.90% in a year
+- **New coins:** +1.99% in 90 days · +7.86% in a year
 - **Demand:** weak (2/5)
 - **Drivers:** 2 ▲ price up · 0 ▼ price down
 
 ## New CRV hitting the market
 
-Curve pays liquidity providers in new CRV every second, and far more CRV left locks than entered them. +2.26% last 90 days; about +2.00% next. Nothing buys CRV back.
+Curve pays liquidity providers in new CRV every second, and more CRV now leaves voting locks than goes in. Fees go to lockers in crvUSD, so nothing buys CRV back.
 
-Curve DAO adds +2.00% new supply in the next 90 days and +7.90% over a year — supply scores 1.5/5 (heavy), #32 of 101 for new supply.
+Curve DAO adds +1.99% new supply in the next 90 days and +7.86% over a year — supply scores 1.5/5 (heavy), #33 of 100 for new supply.
 
 ## How strong is Curve DAO demand?
 
-Demand reads **weak** (2/5), #65 of 110 coins we track — that is how much people want CRV now and how much buying could still come.
+Demand reads **weak** (2/5), #64 of 109 coins we track — that is how much people want CRV now and how much buying could still come.
 
 (Members see more CRV demand detail on the page; it is not repeated here.)
 
@@ -42,12 +42,12 @@ Convex holds over half of all CRV voting power, rising since 2024.
 
 | Date | Convex | Yearn + StakeDAO |
 |---|---|---|
+| Jul 31 2026 | 53.6% | 25.8% |
 | Aug 31 2026 | 54% | 25.7% |
 | Sep 30 2026 | 54.1% | 25.9% |
-| Oct 10 2026 | 54% | 26% |
-| Oct 17 2026 | 54.3% | 25.9% |
+| Oct 27 2026 | 54.4% | 26% |
 
-*Checked Oct 17 2026*
+*Checked Oct 27 2026*
 
 ### ▲ crvUSD supply
 
@@ -57,47 +57,47 @@ Good for the price: More crvUSD borrowed. Bad for it: crvUSD shrinks. Right now 
 
 | Date | crvUSD on Ethereum |
 |---|---|
-| Jul 31 2026 | 225 M crvUSD |
 | Aug 31 2026 | 280 M crvUSD |
 | Sep 30 2026 | 250 M crvUSD |
-| Oct 21 2026 | 241 M crvUSD |
+| Oct 31 2026 | 224 M crvUSD |
+| Nov 5 2026 | 213 M crvUSD |
 
-*Checked Oct 17 2026*
+*Checked Oct 27 2026*
 
-## Should you buy CRV? Questions about Curve DAO
+## Curve DAO (CRV) supply: questions people ask
 
-### Should I enter Curve DAO right now?
+### Is Curve DAO (CRV) inflationary or deflationary?
 
-Based on the law of supply and demand, the long-run signal for Curve DAO is negative. As of Oct 21 2026, score 3.5/10, Curve DAO faces +2.00% new supply over 90 days, with demand weak (2/5). Curve DAO's price drivers: 2 ▲ price up, 0 ▼ price down.
+Curve DAO (CRV) is inflationary right now: its supply changes +1.99% over the next 90 days and +7.86% over the next year (checked Oct 27 2026). More CRV is added than removed.
 
-### What could be pushing Curve DAO (CRV) up?
+### What is the CRV inflation rate in 2026?
 
-Both of Curve DAO's drivers point up right now. Convex holds over half of all CRV voting power, a share rising since 2024, and crvUSD sits far above its 2024 lows, though it swings a lot. New supply of +2.00% in the next 90 days probably slows any climb. By supply and demand, Curve DAO's long-run signal is negative today.
+About +7.86% a year: that is how much Curve DAO (CRV) supply changes over the next 12 months, with +1.99% in the next 90 days (checked Oct 27 2026). That puts CRV #33 of 100 coins we track for new supply (#1 = the most new supply).
 
-### When should I sell Curve DAO?
+### When is the next CRV token unlock?
 
-Today the signal is negative. Supply and demand would point the other way for Curve DAO if new supply keeps arriving (+2.00% in 90 days), or demand falls from weak.
+No dated Curve DAO (CRV) unlock is scheduled in the next 90 days (checked Oct 27 2026). New CRV still arrives: about 33.8M CRV in 90 days.
 
-### Is Curve DAO a good investment in 2026?
+### Does Curve DAO burn or buy back CRV?
 
-On our framework Curve DAO scores 3.5/10 (Oct 21 2026), with supply 1.5/5 (heavy) and demand 2/5. In the next year Curve DAO's supply changes +7.90%, so the long-run signal reads negative.
+Yes. In our count, about 2.26M CRV is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Oct 27 2026). How it works: No buyback and no fee burn; new veCRV locks took in 2.25M CRV and about 12.75K CRV was burned or stuck in the token contract.
 
-### What is the best time to invest in Curve DAO?
+### Where does new CRV supply come from?
 
-The law of supply and demand points to one window for Curve DAO: low new supply, high demand, drivers pointing up. Where Curve DAO stands today: +2.00% new supply in 90 days (heavy), demand weak (2/5), drivers 2 ▲ / 0 ▼.
+In our count, about 33.8M new CRV reaches the market over the next 90 days (checked Oct 27 2026). How it works: 24.92M new CRV from liquidity rewards, 11.53M out of ended veCRV locks and 5.57M of old 2020 reward claims in 90 days.
 
-### Will Curve DAO go up? What could move its price?
+### How much CRV is in circulation?
 
-Curve DAO has 2 price drivers today (2 ▲ price up, 0 ▼ price down). ▲ Convex's vote share: Convex holds over half of all CRV voting power, rising since 2024. ▲ crvUSD supply: crvUSD is far above its 2024 lows but swings a lot.
+About 1.58B CRV is in circulation (checked Oct 27 2026). Over the next 90 days that changes +1.99%, and over a year +7.86%.
 
-### Should I buy Curve DAO or Bitcoin?
+### Does CRV have more new supply than APT, FLR or TIA?
 
-Curve DAO reads negative at 3.5/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, Curve DAO looks weaker than Bitcoin today.
+Over the next 90 days (checked Oct 27 2026): CRV +1.99%, APT +2.03%, FLR +1.05%, TIA +2.36%. CRV sits in the middle of these 4 coins.
 
 ## More on Curve DAO
 
 - Full CRV inflation analysis (every unlock, burn and buyback): https://mrnasdog.com/research/crv/inflation
-- Every coin ranked by supply and demand, Curve DAO included: https://mrnasdog.com/coins
+- Every coin's new supply, side by side: https://mrnasdog.com/token-supply
 - How we read Curve DAO and every other coin: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

@@ -1,32 +1,32 @@
 ---
-title:         "Maple Finance (SYRUP) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)"
-description:   "Our read on Maple Finance for Oct 21 2026: a mixed long-run signal and a score of 5/10, from new supply, demand and what moves the price."
+title:         "Maple Finance (SYRUP) Tokenomics: +1.06% New Supply in 90 Days"
+description:   "As of Oct 29 2026, new Maple Finance supply runs at +1.06% over 90 days and +4.25% over 12 months."
 canonical_url: "https://mrnasdog.com/research/syrup"
 content_type:  "coin_hub"
 tags:          ["crypto", "syrup", "maplefinance", "should-i-buy"]
 published:     true
 ---
-# Maple Finance (SYRUP) — Should You Buy? Signal, Supply and Price Drivers (Oct 2026)
+# Maple Finance (SYRUP) Tokenomics: +1.06% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/syrup (checked Oct 21 2026)*
+*Originally published at https://mrnasdog.com/research/syrup (checked Nov 5 2026)*
 
-Our read on Maple Finance for Oct 21 2026: a **mixed** long-run signal and a score of 5/10, from new supply, demand and what moves the price.
+As of Oct 29 2026, new Maple Finance supply runs at **+1.06%** over 90 days and **+4.25%** over 12 months.
 
-- **Signal today:** mixed (Oct 21 2026)
+- **Signal today:** mixed (Nov 5 2026)
 - **MrNasDog score:** 5/10 — supply 2/5, demand 3/5
-- **New coins:** +1.14% in 90 days · +4.62% in a year
+- **New coins:** +1.06% in 90 days · +4.25% in a year
 - **Demand:** moderate (3/5)
 - **Drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## New SYRUP hitting the market
 
-Maple Finance's token: issuance ended Oct 1 2026, but Maple's own treasury wallets released 12.98M SYRUP in 90 days, +1.11%, and the monthly buyback keeps what it buys.
+Maple Finance stopped minting SYRUP on Oct 1 2026. Supply still grows about 1% a quarter as its treasury pays out rewards, and buybacks stay in a counted wallet.
 
-New SYRUP: +1.14% in 90 days, +4.62% in a year. Supply score 2/5, "growing" (place 45 of 101).
+New SYRUP: +1.06% in 90 days, +4.25% in a year. Supply score 2/5, "growing" (place 46 of 100).
 
 ## Who wants Maple Finance right now
 
-Maple Finance demand: 3/5 (**moderate**), place #32 among 110 coins — interest today plus the buying that could come later.
+Maple Finance demand: 3/5 (**moderate**), place #34 among 109 coins — interest today plus the buying that could come later.
 
 The members-only part of SYRUP's demand section is not included.
 
@@ -36,7 +36,7 @@ The members-only part of SYRUP's demand section is not included.
 
 ### ▼ Maple AUM
 
-AUM sits about 5% under its Aug 31 2026 record.
+AUM sits about 9% under its Aug 31 2026 record.
 
 Good for the price: More money to lend. Bad for it: Lenders pull money out. Today: the price-down case.
 
@@ -45,9 +45,9 @@ Good for the price: More money to lend. Bad for it: Lenders pull money out. Toda
 | Jul 31 2026 | $4.23B |
 | Aug 31 2026 | $4.85B |
 | Sep 30 2026 | $4.73B |
-| Oct 18 2026 | $4.6B |
+| Oct 29 2026 | $4.42B |
 
-*Checked Oct 19 2026*
+*Checked Oct 29 2026*
 
 ### ▲ Big partners
 
@@ -66,42 +66,42 @@ New big partners join → price up · Partners leave or default → price down. 
 | Oct 6 2026 | IRACE bank for fiat |
 | Oct 13 2026 | Q3 results call |
 
-*Checked Oct 19 2026*
+*Checked Oct 29 2026*
 
-## Should you buy Maple Finance? The questions, answered
+## Questions about SYRUP supply
 
-### Is it time to buy the Maple Finance dip?
+### Is Maple Finance (SYRUP) inflationary or deflationary?
 
-By the law of supply and demand, Maple Finance's long-run signal is mixed (Oct 21 2026, score 5/10). New supply: +1.14% in the next 90 days. Demand: moderate (3/5). Maple Finance's price drivers: 1 ▲ price up, 1 ▼ price down.
+Maple Finance (SYRUP) is inflationary right now: its supply changes +1.06% over the next 90 days and +4.25% over the next year (checked Oct 29 2026). More SYRUP is added than removed.
 
-### Maple Finance SYRUP news: what changed lately?
+### What is the SYRUP inflation rate in 2026?
 
-SYRUP stopped issuing new tokens on Oct 1 2026, though treasury wallets released about 12.98M in the last 90 days, so supply still grows about +1.14% in the next 90. Maple also added IRACE bank as a partner on Oct 6 2026, while AUM sits about 5% under its record. By supply and demand, Maple Finance's long-run signal is mixed today.
+About +4.25% a year: that is how much Maple Finance (SYRUP) supply changes over the next 12 months, with +1.06% in the next 90 days (checked Oct 29 2026). That puts SYRUP #46 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Is it time to take profit on Maple Finance?
+### When is the next SYRUP token unlock?
 
-Maple Finance's signal is mixed for now. Maple Finance's signal would turn if new supply keeps arriving (+1.14% in 90 days), or demand falls from moderate, or Maple AUM keeps pointing down.
+No dated Maple Finance (SYRUP) unlock is scheduled in the next 90 days (checked Oct 29 2026). New SYRUP still arrives: about 12.4M SYRUP in 90 days.
 
-### Is Maple Finance a good investment right now?
+### Does Maple Finance burn or buy back SYRUP?
 
-Maple Finance sits at 5/10 today (Oct 21 2026): supply 2/5, demand 3/5. One more year adds +4.62% to Maple Finance's supply. Long-run signal: mixed.
+Not in a way that removes SYRUP today: nothing takes SYRUP off the market over the next 90 days (checked Oct 29 2026). Maple's monthly buyback bought 2.90M SYRUP, but the coins stay in a wallet that counts as circulating; nothing is burned.
 
-### When is a good time to buy Maple Finance?
+### Where does new SYRUP supply come from?
 
-By the law of supply and demand, the better time to start a position in Maple Finance is when its new supply is low, demand is high and its price drivers point up. Maple Finance today: +1.14% new supply in 90 days (growing), demand moderate (3/5), drivers 1 ▲ / 1 ▼.
+In our count, about 12.4M new SYRUP reaches the market over the next 90 days (checked Oct 29 2026). How it works: Minting stopped on Oct 1 2026, but Maple's treasury wallets paid 12.77M SYRUP into the market in 90 days, mostly to fund user rewards, and still hold 90.92M.
 
-### What could push Maple Finance's price up or down?
+### How much SYRUP is in circulation?
 
-Right now 2 things drive Maple Finance's price (1 ▲, 1 ▼). ▼ Maple AUM: AUM sits about 5% under its Aug 31 2026 record. ▲ Big partners: Partners keep arriving; IRACE bank joined on Oct 6 2026.
+About 1.17B SYRUP is in circulation (checked Oct 29 2026). Over the next 90 days that changes +1.06%, and over a year +4.25%.
 
-### Should I buy Maple Finance or Bitcoin?
+### Does SYRUP have more new supply than KAIA, PONS or IMX?
 
-Side by side on Oct 21 2026: Maple Finance at 5/10 with a mixed signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Maple Finance is the weaker of the two.
+Over the next 90 days (checked Oct 29 2026): SYRUP +1.06%, KAIA +1.04%, PONS −15.76%, IMX +2.25%. SYRUP sits in the middle of these 4 coins.
 
 ## Read more on SYRUP
 
 - SYRUP supply, line by line: https://mrnasdog.com/research/syrup/inflation
-- Where Maple Finance sits among all coins: https://mrnasdog.com/coins
+- Where Maple Finance sits on new supply: https://mrnasdog.com/token-supply
 - Why supply and demand decide SYRUP's signal: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

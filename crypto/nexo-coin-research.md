@@ -1,16 +1,16 @@
 ---
-title:         "Should You Buy Nexo? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Supply and demand give Nexo a mixed long-run signal today (Oct 21 2026); its score is 5.5/10."
+title:         "NEXO Supply & Demand: 0.00% Supply in 90 Days"
+description:   "NEXO supply changes 0.00% over the next 90 days and 0.00% over a year (checked Oct 27 2026)."
 canonical_url: "https://mrnasdog.com/research/nexo"
 content_type:  "coin_hub"
 tags:          ["crypto", "nexo", "nexo", "should-i-buy"]
 published:     true
 ---
-# Should You Buy Nexo? Supply, Demand and Price Drivers (Oct 2026)
+# NEXO Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/nexo · checked Oct 21 2026*
+*Live page: https://mrnasdog.com/research/nexo · checked Nov 5 2026*
 
-Supply and demand give Nexo a **mixed** long-run signal today (Oct 21 2026); its score is 5.5/10.
+NEXO supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Oct 27 2026).
 
 - **Long-run signal:** mixed (by the law of supply and demand)
 - **Score:** 5.5/10 — supply 4.5/5, demand 1/5
@@ -24,7 +24,7 @@ Besides supply and demand, we track 2 price drivers for Nexo: 1 ▲ and 0 ▼ ri
 
 ### ▲ Nexo's markets
 
-Back in the US since Feb 2026; new markets keep opening.
+Kraken listed NEXO on Oct 22 2026; new markets keep opening.
 
 Good for the price: New markets open. Bad for it: Regulators push it out. Right now it points up.
 
@@ -35,8 +35,9 @@ Good for the price: New markets open. Bad for it: Regulators push it out. Right 
 | Jul 8 2026 | Argentina card launch |
 | Aug 19 2026 | Australia credit lines |
 | Aug 2026 | Listed on Bithumb |
+| Oct 22 2026 | Listed on Kraken |
 
-*Checked Oct 17 2026*
+*Checked Oct 27 2026*
 
 ### • Bulgaria $3B claim
 
@@ -52,50 +53,54 @@ Case still fights over jurisdiction; no hearing date is public.
 | Jul 10 2026 | Nexo jurisdiction brief |
 | Sep 16 2026 | Bulgaria reply filed |
 
-*Checked Oct 17 2026*
+*Checked Oct 27 2026*
 
 ## Supply — new NEXO in the next 90 days
 
-NEXO is the Nexo platform token: 1B coins made in 2018, none added and none burned. Supply stays flat; the risk is the 768M NEXO that Nexo itself holds.
+NEXO is the Nexo app's loyalty token: a fixed 1B created in 2018, nothing new, nothing burned, so supply is flat. The thing to watch is the 768M Nexo still holds.
 
-Over the next 90 days NEXO supply changes 0.00%; across a full year, 0.00%. That puts supply at 4.5/5 (flat) (place 86 of 101).
+Over the next 90 days NEXO supply changes 0.00%; across a full year, 0.00%. That puts supply at 4.5/5 (flat) (place 84 of 100).
 
 ## Demand today
 
-People's appetite for Nexo is **low**: 1/5, ranked #92 of 110.
+People's appetite for Nexo is **low**: 1/5, ranked #92 of 109.
 
 A deeper NEXO demand breakdown is on the page for members.
 
-## Nexo: buy, sell or hold — questions and answers
+## Nexo supply questions, answered
 
-### Is it time to buy the Nexo dip?
+### Is NEXO inflationary or deflationary?
 
-Based on the law of supply and demand, the long-run signal for Nexo is mixed. As of Oct 21 2026, score 5.5/10, Nexo faces 0.00% new supply over 90 days, with demand low (1/5). Nexo's price drivers: 1 ▲ price up, 0 ▼ price down.
+As of Oct 27 2026, NEXO supply moves 0.00% in 90 days and 0.00% in a year, so NEXO is about flat. What is created and what is removed roughly match.
 
-### Should I sell my Nexo now?
+### What is the NEXO inflation rate in 2026?
 
-Today the signal is mixed. Supply and demand would point the other way for Nexo if new supply jumps (today 0.00% in 90 days), or demand falls from low.
+NEXO supply grows 0.00% over the next 12 months and 0.00% over the next 90 days (checked Oct 27 2026). That puts NEXO #84 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Is Nexo a good long-term investment?
+### When is the next NEXO token unlock?
 
-On our framework Nexo scores 5.5/10 (Oct 21 2026), with supply 4.5/5 (flat) and demand 1/5. In the next year Nexo's supply changes 0.00%, so the long-run signal reads mixed.
+No dated NEXO unlock is scheduled in the next 90 days (checked Oct 27 2026).
 
-### What is the best time to invest in Nexo?
+### Is any NEXO burned or bought back?
 
-The law of supply and demand points to one window for Nexo: low new supply, high demand, drivers pointing up. Where Nexo stands today: 0.00% new supply in 90 days (flat), demand low (1/5), drivers 1 ▲ / 0 ▼.
+Not in a way that removes NEXO today: nothing takes NEXO off the market over the next 90 days (checked Oct 27 2026). No burn, and no buyback since 2022. Past buybacks were kept in a 114.80M NEXO reserve that already counts as circulating.
 
-### Will Nexo go up? What could move its price?
+### Where does new NEXO supply come from?
 
-Nexo has 2 price drivers today (1 ▲ price up, 0 ▼ price down). ▲ Nexo's markets: Back in the US since Feb 2026; new markets keep opening. • Bulgaria $3B claim: Case still fights over jurisdiction; no hearing date is public.
+Almost no new NEXO reaches the market over the next 90 days (checked Oct 27 2026). No new NEXO: the token cannot mint and its built-in vesting ended in March 2022. Nexo controls about 768M NEXO, all counted as circulating, and almost none of it moved in 90 days.
 
-### Is Nexo a better investment than Bitcoin?
+### How much NEXO is in circulation?
 
-Nexo reads mixed at 5.5/10; Bitcoin reads positive at 8.5/10 (Oct 21 2026). On supply and demand, Nexo looks weaker than Bitcoin today.
+NEXO has about 1B coins in circulation as of Oct 27 2026; the next 90 days change that by 0.00% (0.00% over a year).
+
+### Does NEXO have more new supply than LIT, INJ or ATOM?
+
+Over the next 90 days (checked Oct 27 2026): NEXO 0.00%, LIT +6.38%, INJ +0.80%, ATOM +3.18%. NEXO has the least new supply of these 4 coins.
 
 ## Next steps for NEXO
 
 - Every NEXO unlock and burn, explained: https://mrnasdog.com/research/nexo/inflation
-- Compare NEXO with 100+ coins: https://mrnasdog.com/coins
+- Compare NEXO supply with 100+ coins: https://mrnasdog.com/token-supply
 - The MrNasDog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*

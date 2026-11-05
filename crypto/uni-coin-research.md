@@ -1,32 +1,32 @@
 ---
-title:         "Should You Buy Uniswap (UNI)? Supply, Demand and Price Drivers (Oct 2026)"
-description:   "Our read on Uniswap for Oct 21 2026: a positive long-run signal and a score of 7.5/10, from new supply, demand and what moves the price."
+title:         "Uniswap (UNI) Supply & Demand: +0.01% New Supply in 90 Days"
+description:   "Uniswap (UNI) supply changes +0.01% over the next 90 days and +0.05% over a year (checked Nov 1 2026)."
 canonical_url: "https://mrnasdog.com/research/uni"
 content_type:  "coin_hub"
 tags:          ["crypto", "uni", "uniswap", "should-i-buy"]
 published:     true
 ---
-# Should You Buy Uniswap (UNI)? Supply, Demand and Price Drivers (Oct 2026)
+# Uniswap (UNI) Supply & Demand: +0.01% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/uni · checked Oct 21 2026*
+*Live page: https://mrnasdog.com/research/uni · checked Nov 5 2026*
 
-Our read on Uniswap for Oct 21 2026: a **positive** long-run signal and a score of 7.5/10, from new supply, demand and what moves the price.
+Uniswap (UNI) supply changes **+0.01%** over the next 90 days and **+0.05%** over a year (checked Nov 1 2026).
 
 - **Signal:** positive (by the law of supply and demand)
-- **Score:** 7.5/10 — supply 3.5/5, demand 4/5
-- **Supply growth:** +0.06% in 90 days · +0.20% in a year
+- **Score:** 8/10 — supply 4/5, demand 4/5
+- **Supply growth:** +0.01% in 90 days · +0.05% in a year
 - **How much people want it:** strong (4/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## Supply — new UNI in the next 90 days
 
-Uniswap's treasury pays out 5M UNI a quarter while trading fees burn UNI. Two payouts landed in 90 days, so supply grew 0.65%; about 0.06% next.
+Uniswap trading fees buy and destroy UNI a little faster than the treasury's 5M UNI quarterly payout, so supply is roughly flat.
 
-Over the next 90 days UNI supply changes +0.06%; across a full year, +0.20%. That puts supply at 3.5/5 (steady).
+Over the next 90 days UNI supply changes +0.01%; across a full year, +0.05%. That puts supply at 4/5 (tight).
 
 ## Demand: how much people want UNI
 
-People's appetite for Uniswap is **strong**: 4/5, ranked #9 of 110.
+People's appetite for Uniswap is **strong**: 4/5, ranked #9 of 109.
 
 A deeper UNI demand breakdown is on the page for members.
 
@@ -42,16 +42,16 @@ Treasury keeps its UNI → price up · Treasury pays out UNI → price down. Now
 
 | Date | DAO treasury |
 |---|---|
-| Jul 31 2026 | 267 M UNI |
 | Aug 31 2026 | 267 M UNI |
 | Sep 30 2026 | 267 M UNI |
-| Oct 21 2026 | 262 M UNI |
+| Oct 31 2026 | 262 M UNI |
+| Nov 5 2026 | 262 M UNI |
 
-*Checked Oct 12 2026*
+*Checked Nov 1 2026*
 
 ### ▲ Fee switch votes
 
-Since Dec 25 2025, DAO votes have only widened the fee switch.
+DAO votes keep widening the fee switch, most recently Sep 23 2026.
 
 Good for the price: More fees to burns. Bad for it: Fee switch cut back. Today: the price-up case.
 
@@ -61,12 +61,14 @@ Good for the price: More fees to burns. Bad for it: Fee switch cut back. Today: 
 | Dec 28 2025 | 100M UNI burned |
 | Feb 24 2026 | 8-chain fee vote opens |
 | Mar 4 2026 | Fees on 8 more chains |
+| Jul 12 2026 | v4 fee check passes |
+| Sep 23 2026 | Arc fee check passes |
 
-*Checked Oct 12 2026*
+*Checked Nov 1 2026*
 
 ### • ETF and futures
 
-CME UNI futures start Oct 19 2026; the ETF is still pending.
+CME UNI futures went live Oct 19 2026; ETF still pending
 
 Good for the price: ETF and futures open. Bad for it: ETF denied.
 
@@ -74,45 +76,45 @@ Good for the price: ETF and futures open. Bad for it: ETF denied.
 |---|---|
 | Feb 5 2026 | Bitwise UNI ETF filed |
 | Sep 22 2026 | CME futures announced |
-| Oct 19 2026 | CME UNI futures start (coming) |
+| Oct 19 2026 | CME UNI futures live |
 | No date yet | SEC decides on ETF (coming) |
 
-*Checked Oct 12 2026*
+*Checked Nov 1 2026*
 
-## Questions about UNI
+## UNI tokenomics: questions and answers
 
-### Is it a good time to buy Uniswap today?
+### Is Uniswap (UNI) inflationary or deflationary?
 
-By the law of supply and demand, Uniswap's long-run signal is positive (Oct 21 2026, score 7.5/10). New supply: +0.06% in the next 90 days. Demand: strong (4/5). Uniswap's price drivers: 1 ▲ price up, 1 ▼ price down.
+As of Nov 1 2026, Uniswap (UNI) supply moves +0.01% in 90 days and +0.05% in a year, so UNI is inflationary. New UNI outweighs what is burned or bought back.
 
-### Why is Uniswap going up?
+### What is the UNI inflation rate in 2026?
 
-Votes and futures likely help. Since Dec 25 2025, every DAO vote has only widened the fee switch, and CME starts UNI futures on Oct 19 2026. The catch is the DAO treasury, which holds about 260M UNI and keeps paying some out. For Uniswap, the supply-and-demand signal is positive right now.
+Uniswap (UNI) supply grows +0.05% over the next 12 months and +0.01% over the next 90 days (checked Nov 1 2026). That puts UNI #75 of 100 coins we track for new supply (#1 = the most new supply).
 
-### Should I sell my Uniswap now?
+### When is the next UNI token unlock?
 
-Uniswap's signal is positive for now. Uniswap's signal would turn if new supply jumps (today +0.06% in 90 days), or demand falls from strong, or DAO treasury keeps pointing down. The next date on Uniswap's calendar: Oct 19 2026 — CME UNI futures start.
+No dated Uniswap (UNI) unlock is scheduled in the next 90 days (checked Nov 1 2026). New UNI still arrives: about 5M UNI in 90 days.
 
-### Is Uniswap a good long-term investment?
+### Does Uniswap burn or buy back UNI?
 
-Uniswap sits at 7.5/10 today (Oct 21 2026): supply 3.5/5, demand 4/5. One more year adds +0.20% to Uniswap's supply. Long-run signal: positive.
+Yes. In our count, about 4.92M UNI is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 1 2026). How it works: Fee-funded burn: 5.71M UNI destroyed in 90 days, slowing in October; about 4.92M next at today's price.
 
-### When is a good time to buy Uniswap?
+### Where does new UNI supply come from?
 
-By the law of supply and demand, the better time to buy Uniswap is when its new supply is low, demand is high and its price drivers point up. Uniswap today: +0.06% new supply in 90 days (steady), demand strong (4/5), drivers 1 ▲ / 1 ▼.
+In our count, about 5M new UNI reaches the market over the next 90 days (checked Nov 1 2026). How it works: 5M UNI growth payment from the treasury to Uniswap Labs each quarter (next Jan 1 2027); no UNI minted.
 
-### What could push Uniswap's price up or down?
+### How much UNI is in circulation?
 
-Right now 3 things drive Uniswap's price (1 ▲, 1 ▼). ▼ DAO treasury: DAO treasury holds roughly 260M UNI and keeps paying some out. ▲ Fee switch votes: Since Dec 25 2025, DAO votes have only widened the fee switch. • ETF and futures: CME UNI futures start Oct 19 2026; the ETF is still pending.
+Uniswap (UNI) has about 624M coins in circulation as of Nov 1 2026; the next 90 days change that by +0.01% (+0.05% over a year).
 
-### Is Uniswap a better investment than Bitcoin?
+### Does UNI have more new supply than NEAR, LTC or CC?
 
-Side by side on Oct 21 2026: Uniswap at 7.5/10 with a positive signal, Bitcoin at 8.5/10 with a positive signal. By supply and demand, Uniswap is the weaker of the two.
+Over the next 90 days (checked Nov 1 2026): UNI +0.01%, NEAR +0.60%, LTC +0.42%, CC +1.82%. UNI has the least new supply of these 4 coins.
 
 ## Read more on UNI
 
 - Every UNI unlock and burn, explained: https://mrnasdog.com/research/uni/inflation
-- Compare UNI with 100+ coins: https://mrnasdog.com/coins
+- Compare UNI supply with 100+ coins: https://mrnasdog.com/token-supply
 - The MrNasDog Pressure Framework: https://mrnasdog.com/research/pressure-framework/full
 
 *Every answer here applies basic economic theory — the law of supply and demand — to this coin's data. It is not financial advice.*
