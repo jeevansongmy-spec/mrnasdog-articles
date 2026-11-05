@@ -3,7 +3,7 @@ AAVE,Aave,0.124,0.487,2026-11-02,https://mrnasdog.com/research/aave/inflation
 ADA,Cardano,0.295,1.243,2026-10-31,https://mrnasdog.com/research/ada/inflation
 AERO,Aerodrome,8.496,23.086,2026-11-04,https://mrnasdog.com/research/aero/inflation
 ALGO,Algorand,0.480,1.887,2026-11-04,https://mrnasdog.com/research/algo/inflation
-APT,Aptos,2.032,8.156,2026-10-26,https://mrnasdog.com/research/apt/inflation
+APT,Aptos,2.031,8.152,2026-11-04,https://mrnasdog.com/research/apt/inflation
 ARB,Arbitrum,6.109,9.347,2026-11-03,https://mrnasdog.com/research/arb/inflation
 ASTER,Aster,2.706,4.257,2026-11-03,https://mrnasdog.com/research/aster/inflation
 ATOM,Cosmos Hub,3.176,13.529,2026-11-04,https://mrnasdog.com/research/atom/inflation
@@ -16,21 +16,21 @@ BONK,Bonk,-0.000,-0.001,2026-10-29,https://mrnasdog.com/research/bonk/inflation
 BSV,Bitcoin SV,0.201,0.814,2026-10-28,https://mrnasdog.com/research/bsv/inflation
 BTC,Bitcoin,0.206,0.835,2026-11-01,https://mrnasdog.com/research/btc/inflation
 BTT,BitTorrent,-2.167,-8.566,2026-10-28,https://mrnasdog.com/research/btt/inflation
-CAKE,PancakeSwap,-1.493,-6.053,2026-10-26,https://mrnasdog.com/research/cake/inflation
+CAKE,PancakeSwap,-1.640,-6.560,2026-11-04,https://mrnasdog.com/research/cake/inflation
 CC,Canton Coin,1.821,7.384,2026-11-01,https://mrnasdog.com/research/cc/inflation
 CFX,Conflux,0.440,1.785,2026-10-30,https://mrnasdog.com/research/cfx/inflation
 CRO,Cronos,7.189,28.476,2026-11-02,https://mrnasdog.com/research/cro/inflation
 CRV,Curve DAO,1.994,7.859,2026-10-27,https://mrnasdog.com/research/crv/inflation
-DASH,Dash,0.706,2.847,2026-10-26,https://mrnasdog.com/research/dash/inflation
+DASH,Dash,0.730,2.948,2026-11-04,https://mrnasdog.com/research/dash/inflation
 DOGE,Dogecoin,0.785,3.183,2026-10-31,https://mrnasdog.com/research/doge/inflation
 DOT,Polkadot,0.806,3.268,2026-11-02,https://mrnasdog.com/research/dot/inflation
 ENA,Ethena,2.098,8.392,2026-11-02,https://mrnasdog.com/research/ena/inflation
 ETC,Ethereum Classic,0.594,2.407,2026-11-03,https://mrnasdog.com/research/etc/inflation
 ETH,Ethereum,0.212,0.860,2026-10-30,https://mrnasdog.com/research/eth/inflation
-ETHFI,ether.fi,0.000,0.000,2026-10-26,https://mrnasdog.com/research/ethfi/inflation
+ETHFI,ether.fi,0.000,0.000,2026-11-04,https://mrnasdog.com/research/ethfi/inflation
 FET,ASI Alliance,6.006,14.504,2026-10-28,https://mrnasdog.com/research/fet/inflation
 FF,Falcon Finance,18.222,72.887,2026-10-28,https://mrnasdog.com/research/ff/inflation
-FIL,Filecoin,1.576,6.225,2026-10-26,https://mrnasdog.com/research/fil/inflation
+FIL,Filecoin,1.650,6.545,2026-11-04,https://mrnasdog.com/research/fil/inflation
 FLOKI,Floki,-0.041,-0.166,2026-10-30,https://mrnasdog.com/research/floki/inflation
 FLR,Flare,1.046,4.244,2026-10-27,https://mrnasdog.com/research/flr/inflation
 FORM,Four,0.005,0.022,2026-10-30,https://mrnasdog.com/research/form/inflation
@@ -43,7 +43,7 @@ HNT,Helium,9.480,37.343,2026-11-04,https://mrnasdog.com/research/hnt/inflation
 HYPE,Hyperliquid,-0.176,-0.386,2026-10-30,https://mrnasdog.com/research/hype/inflation
 ICP,Internet Computer,0.586,2.345,2026-11-03,https://mrnasdog.com/research/icp/inflation
 IMX,Immutable,2.249,9.121,2026-11-03,https://mrnasdog.com/research/imx/inflation
-INJ,Injective,0.791,3.257,2026-10-26,https://mrnasdog.com/research/inj/inflation
+INJ,Injective,0.804,3.262,2026-11-04,https://mrnasdog.com/research/inj/inflation
 JST,JUST,-1.255,-5.019,2026-11-03,https://mrnasdog.com/research/jst/inflation
 JTO,Jito,2.631,2.432,2026-10-29,https://mrnasdog.com/research/jto/inflation
 JUP,Jupiter,-0.000,-0.073,2026-10-31,https://mrnasdog.com/research/jup/inflation
@@ -63,7 +63,7 @@ MON,Monad,149.881,225.199,2026-10-29,https://mrnasdog.com/research/monad/inflati
 MORPHO,Morpho,6.027,24.445,2026-11-03,https://mrnasdog.com/research/morpho/inflation
 NEAR,NEAR Protocol,0.605,2.452,2026-11-01,https://mrnasdog.com/research/near/inflation
 NEXO,Nexo,0.000,0.000,2026-10-27,https://mrnasdog.com/research/nexo/inflation
-NIGHT,Midnight,0.000,0.000,2026-10-26,https://mrnasdog.com/research/night/inflation
+NIGHT,Midnight,0.000,0.000,2026-11-04,https://mrnasdog.com/research/night/inflation
 OKB,OKB,0.000,0.000,2026-10-31,https://mrnasdog.com/research/okb/inflation
 ONDO,Ondo Finance,35.122,35.122,2026-11-02,https://mrnasdog.com/research/ondo/inflation
 OP,Optimism,0.944,2.289,2026-10-29,https://mrnasdog.com/research/optimism/inflation
@@ -84,7 +84,7 @@ SHIB,Shiba Inu,-0.000,-0.001,2026-11-01,https://mrnasdog.com/research/shib/infla
 SKY,Sky,-0.162,-0.650,2026-11-03,https://mrnasdog.com/research/sky/inflation
 SOL,Solana,1.257,5.079,2026-10-30,https://mrnasdog.com/research/sol/inflation
 SPX,SPX6900,0.000,-0.001,2026-10-28,https://mrnasdog.com/research/spx/inflation
-STABLE,Stable,0.000,0.000,2026-10-26,https://mrnasdog.com/research/stable/inflation
+STABLE,Stable,0.000,0.000,2026-11-04,https://mrnasdog.com/research/stable/inflation
 STRK,Starknet,5.533,10.449,2026-10-27,https://mrnasdog.com/research/strk/inflation
 STX,Stacks,1.280,5.502,2026-10-27,https://mrnasdog.com/research/stx/inflation
 SUI,Sui Network,1.162,5.233,2026-11-01,https://mrnasdog.com/research/sui/inflation
@@ -95,16 +95,16 @@ TIA,Celestia,2.365,9.437,2026-10-27,https://mrnasdog.com/research/tia/inflation
 TRUMP,Official Trump,11.926,47.706,2026-10-27,https://mrnasdog.com/research/trump/inflation
 TRX,TRON,0.139,0.564,2026-10-30,https://mrnasdog.com/research/trx/inflation
 UNI,Uniswap,0.013,0.054,2026-11-01,https://mrnasdog.com/research/uni/inflation
-VET,VeChain,0.000,0.000,2026-10-26,https://mrnasdog.com/research/vet/inflation
+VET,VeChain,0.000,0.000,2026-11-04,https://mrnasdog.com/research/vet/inflation
 VIRTUAL,Virtuals Protocol,0.045,0.045,2026-10-28,https://mrnasdog.com/research/virtual/inflation
 VVV,Venice Token,3.386,6.404,2026-11-04,https://mrnasdog.com/research/vvv/inflation
 WLD,World,3.212,23.564,2026-11-02,https://mrnasdog.com/research/wld/inflation
 WLFI,World Liberty Financial,0.013,0.051,2026-11-03,https://mrnasdog.com/research/wlfi/inflation
-XDC,XDC Network,0.092,3.905,2026-10-27,https://mrnasdog.com/research/xdc/inflation
+XDC,XDC Network,0.091,0.371,2026-11-04,https://mrnasdog.com/research/xdc/inflation
 XLM,Stellar,2.781,11.280,2026-10-31,https://mrnasdog.com/research/xlm/inflation
 XMR,Monero,0.206,0.837,2026-10-31,https://mrnasdog.com/research/xmr/inflation
 XPL,Plasma,14.352,57.410,2026-10-28,https://mrnasdog.com/research/xpl/inflation
 XRP,XRP,1.421,5.682,2026-10-30,https://mrnasdog.com/research/xrp/inflation
 XTZ,Tezos,0.729,2.916,2026-10-29,https://mrnasdog.com/research/tezos/inflation
 ZEC,Zcash,0.948,3.843,2026-10-30,https://mrnasdog.com/research/zec/inflation
-ZRO,LayerZero,18.621,41.636,2026-10-26,https://mrnasdog.com/research/zro/inflation
+ZRO,LayerZero,17.574,40.613,2026-11-04,https://mrnasdog.com/research/zro/inflation
