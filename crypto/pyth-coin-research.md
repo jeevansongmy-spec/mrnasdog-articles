@@ -1,6 +1,6 @@
 ---
 title:         "Is Pyth Network (PYTH) Inflationary? 0.00% Supply in 90 Days"
-description:   "How much new PYTH is coming? 0.00% in the next 90 days, +26.98% in the next year — checked Oct 27 2026."
+description:   "How much new PYTH is coming? 0.00% in the next 90 days, +26.98% in the next year — checked Nov 5 2026."
 canonical_url: "https://mrnasdog.com/research/pyth"
 content_type:  "coin_hub"
 tags:          ["crypto", "pyth", "pythnetwork", "should-i-buy"]
@@ -10,7 +10,7 @@ published:     true
 
 *From https://mrnasdog.com/research/pyth, updated Nov 5 2026*
 
-How much new PYTH is coming? **0.00%** in the next 90 days, **+26.98%** in the next year — checked Oct 27 2026.
+How much new PYTH is coming? **0.00%** in the next 90 days, **+26.98%** in the next year — checked Nov 5 2026.
 
 - **Signal today:** mixed for Pyth Network
 - **MrNasDog score:** 6/10 — supply 4.5/5, demand 1.5/5
@@ -22,37 +22,37 @@ How much new PYTH is coming? **0.00%** in the next 90 days, **+26.98%** in the n
 
 ### Is Pyth Network (PYTH) inflationary or deflationary?
 
-Pyth Network (PYTH) is flat, neither inflationary nor deflationary right now: its supply changes 0.00% over the next 90 days and +26.98% over the next year (checked Oct 27 2026). New PYTH and removed PYTH about cancel out.
+Pyth Network (PYTH) is flat, neither inflationary nor deflationary right now: its supply changes 0.00% over the next 90 days and +26.98% over the next year (checked Nov 5 2026). New PYTH and removed PYTH about cancel out.
 
 ### What is the PYTH inflation rate in 2026?
 
-About +26.98% a year: that is how much Pyth Network (PYTH) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Oct 27 2026). That puts PYTH #91 of 100 coins we track for new supply (#1 = the most new supply).
+About +26.98% a year: that is how much Pyth Network (PYTH) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 5 2026). That puts PYTH #88 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next PYTH token unlock?
 
-No dated Pyth Network (PYTH) unlock is scheduled in the next 90 days (checked Oct 27 2026).
+No dated Pyth Network (PYTH) unlock is scheduled in the next 90 days (checked Nov 5 2026).
 
 ### Does Pyth Network burn or buy back PYTH?
 
-Yes. In our count, about 2.52K PYTH is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Oct 27 2026). How it works: Holders burned 22,796 PYTH in 90 days. The DAO took in 12.06M PYTH from buybacks and revenue but holds them, so the count does not fall.
+Not in a way that removes PYTH today: nothing takes PYTH off the market over the next 90 days (checked Nov 5 2026). The DAO bought 18.36M PYTH in 90 days with its revenue but holds it, so the count does not fall. No fee burn exists.
 
 ### Where does new PYTH supply come from?
 
-Almost no new PYTH reaches the market over the next 90 days (checked Oct 27 2026). No PYTH can be minted and nothing unlocked in 90 days. The last 2.125B PYTH unlock on May 20 2027, inside the next year.
+Almost no new PYTH reaches the market over the next 90 days (checked Nov 5 2026). No PYTH can be minted and nothing unlocked in 90 days. The last 2.125B PYTH unlock on May 20 2027, inside the next year.
 
 ### How much PYTH is in circulation?
 
-About 7.87B PYTH is in circulation (checked Oct 27 2026). Over the next 90 days that changes 0.00%, and over a year +26.98%.
+About 7.87B PYTH is in circulation (checked Nov 5 2026). Over the next 90 days that changes 0.00%, and over a year +26.98%.
 
-### Does PYTH have more new supply than ETHFI, STX or APT?
+### Does PYTH have more new supply than STABLE, VET or BLIFE?
 
-Over the next 90 days (checked Oct 27 2026): PYTH 0.00%, ETHFI 0.00%, STX +1.28%, APT +2.03%. PYTH sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 5 2026): PYTH 0.00%, STABLE 0.00%, VET 0.00%, BLIFE 0.00%. PYTH has the most new supply of these 4 coins.
 
 ## New PYTH hitting the market
 
-PYTH supply was flat over 90 days: no minting, no unlock, 22,796 PYTH burned. The last 2.125B unlock on May 20 2027.
+PYTH supply was flat over 90 days: no minting and no unlock. The DAO bought 18.36M PYTH and holds it. The last 2.125B unlock on May 20 2027.
 
-Pyth Network adds 0.00% new supply in the next 90 days and +26.98% over a year — supply scores 4.5/5 (flat), #91 of 100 for new supply.
+Pyth Network adds 0.00% new supply in the next 90 days and +26.98% over a year — supply scores 4.5/5 (flat), #88 of 100 for new supply.
 
 ## Demand: how much people want PYTH
 
@@ -66,7 +66,7 @@ What the score misses: 2 drivers. Today 1 push PYTH's price up and 1 push it dow
 
 ### ▲ Wall Street users
 
-Nasdaq, Fidelity and Kalshi all signed on in 2026
+Kalshi now settles a midterms index on Pyth data.
 
 Good for the price: More big firms sign. Bad for it: Firms walk away. Today: the price-up case.
 
@@ -79,8 +79,9 @@ Good for the price: More big firms sign. Bad for it: Firms walk away. Today: the
 | Jun 30 2026 | Nasdaq TotalView on Pyth |
 | Aug 26 2026 | Paid API keys required |
 | Sep 22 2026 | Nasdaq Basic distributor |
+| Oct 30 2026 | Kalshi midterms index |
 
-*Checked Oct 27 2026*
+*Checked Nov 5 2026*
 
 ### ▼ PYTH staked
 
@@ -90,12 +91,12 @@ More PYTH locked → price up · Stakers pull out → price down. Now: ▼ down 
 
 | Date | PYTH staked |
 |---|---|
-| Jul 31 2026 | 1.13 B PYTH |
 | Aug 31 2026 | 1.13 B PYTH |
 | Sep 30 2026 | 1.12 B PYTH |
-| Oct 27 2026 | 1.11 B PYTH |
+| Oct 31 2026 | 1.11 B PYTH |
+| Nov 5 2026 | 1.11 B PYTH |
 
-*Checked Oct 27 2026*
+*Checked Nov 5 2026*
 
 ## More on Pyth Network
 

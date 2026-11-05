@@ -1,63 +1,70 @@
 ---
-title:         "TRUMP Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description:   "TRUMP supply is growing: nothing can be minted, but the creators' vault let out 33.62M TRUMP in 90 days, +11.93% of the float, with 718.13M still inside."
+title:         "TRUMP Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
+description:   "No TRUMP can be minted, yet 33.62M TRUMP left the creators' vesting vault in 90 days, +11.93% net, with no buyback or burn. 718.13M still waits inside."
 canonical_url: "https://mrnasdog.com/research/trump/inflation"
 tags:          ["crypto", "trump", "official-trump", "memecoin"]
 published:     true
 ---
-Originally published at [TRUMP Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/trump/inflation).
+Originally published at [TRUMP Inflation Analysis · November 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/trump/inflation).
 
-# TRUMP Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+# TRUMP Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 
 <!-- main-page -->
 This is the long supply read. For the signal, the price drivers and the questions people ask about Official Trump, see [mrnasdog.com/research/trump](https://mrnasdog.com/research/trump).
-
-Official Trump (TRUMP) supply is growing fast: **+11.93%** over the 90 days from Jul 29 to Oct 27 2026, and about **+11.93%** again over the next 90 days. No new TRUMP can be minted, but the creators pulled **33.62M TRUMP** out of their vesting vault and onto the market, while no buyback or burn took any back. The hard cap is **1B TRUMP**, and **718.13M** of it still sits in that vault, waiting to be released.
+Official Trump's circulating supply grew a net **+11.93%** in the 90 days to Nov 5 2026, and the same pace is expected for the next 90 days. No TRUMP can ever be minted and the hard ceiling is **1B** coins, but the creators took **33.62M TRUMP** out of their vesting vault while nothing bought back or burned any, so buy pressure was **0**. Other trackers show **+13.10%** for the same 90 days, and **718.13M** TRUMP still waits in the vault.
 
 ## The verdict, in one paragraph
 
-Over the last 90 days the unlocked supply of Official Trump rose from about **248.25M TRUMP** to **281.87M TRUMP**, a net **+11.93%** of today's float. Our projection for the next 90 days is the same **+11.93%**, because the team has pulled coins out of its vault at a steady pace all year and nothing has changed that. Other trackers show **+13.74%** for the same 90 days, a gap of **1.82 points**. Both readings count the same **33.62M TRUMP** leaving the vault; the trackers set it against the smaller float of late July, so the gap is not extra TRUMP and the coin page carries no warning note. The reading stands: TRUMP is a fixed-cap meme coin that is inflationary on its active float, fed entirely by the creators' vault.
+Between Aug 7 and Nov 5 2026, the TRUMP float rose from about **248.25M** to **281.87M** coins, a net **+11.93%**, and the TRUMP ledger projects **+11.93%** again for the 90 days to Feb 3 2027. Other trackers show **+13.10%** for the past 90 days. The **1.17-point** difference is not a missing flow: both readings see the same six vault withdrawals on the same days, and the higher figure is measured against the smaller float of early August, so the coin page carries no warning note. The short label is a **fixed-cap meme coin whose float grows only as its creators open their vault**.
 
 ## Sell pressure: where new TRUMP comes from
 
-Protocol inflation is zero. The power to create new TRUMP was switched off on the Solana chain, so the supply can never grow past the **1B TRUMP** made at launch in January 2025. There are no mining rewards, no staking rewards and no emission of any kind.
+Protocol inflation is **0**. The power to mint new TRUMP was switched off for good when the coin launched on Jan 17 2025, so the **1B** coins made that day are the most that will ever exist.
 
-Vesting unlocks are where all of the new supply comes from. The creators' share, **800M TRUMP** or 80% of the coin, was placed in one on-chain vesting vault at launch. On paper part of it vests on the 18th of every month, but coins only reach the market when the team actually pulls them out, and the team pulls out far less than the calendar allows. Between Jul 29 and Oct 27 2026 the vault let out **33.62M TRUMP**: **2.62M** on Aug 22 2026, then **11.01M** on Sep 1, **11.26M** on Sep 6 and **8.73M** on Sep 20 2026. Over the same months the calendar vested about **86.1M TRUMP**, so the team took out only about two coins in five of what it could have. Nothing has left the vault since Sep 20 2026.
+Vesting unlocks are the only source of new supply, at **33.62M TRUMP** in 90 days. Eight in ten TRUMP were set aside at launch for CIC Digital, a Trump Organization affiliate, and Fight Fight Fight, the company that runs the coin, and those coins sit in one vesting vault on Solana. A coin only joins the market when it is taken out of that vault. The vault let out **2.62M** TRUMP on Aug 22, then **11.01M** on Sep 1, **11.26M** on Sep 6 and **8.73M** on Sep 20 2026. Nothing has left since Sep 20, yet the vault can be opened on any day, so the TRUMP ledger plans for about the same **33.62M** in the next 90 days.
 
-Foundation and unscheduled unlocks are zero as a separate row. Official Trump has no foundation, and every coin the team can sell comes out of the same vault, so it is already counted under vesting. Long-term locks and bankruptcy releases are zero too: no court case, estate or seized pile of TRUMP is waiting to come out.
+Foundation and unscheduled unlocks book **0** on their own line, because every coin that leaves the vault is already counted as a vesting unlock. That line is where the size of what could still come is named, in the overhang section below.
+
+Long-term locked or bankruptcy supply is **0**. No court estate, no failed lender and no long-term lock holds TRUMP waiting to be paid out.
 
 ## Buy pressure: where new TRUMP goes
 
-Nothing takes TRUMP off the market. There is no programmatic buyback: a company meant to raise money to buy TRUMP was reported in October 2025, but we found no purchase by it. There is no fee burn either; holders have destroyed under **1.2K TRUMP** by hand since launch, far too little to matter.
+A programmatic buyback is **0**. Nothing buys TRUMP back on the coin's behalf. A company to buy and hold TRUMP was announced in October 2025, but no purchase by it has been made public since.
 
-There is no foundation buyer, and the team is a seller, not a buyer. Big holders buy to win seats at the holder dinners, but those coins already circulate, so the buying moves coins between wallets without shrinking the float. TRUMP also has no staking or lock-up, so no new long-term lock removes any coins. The buy side of the ledger is **0** for the last 90 days and the next 90 days.
+A protocol fee burn is **0**. TRUMP has no burn built in. Holders have destroyed only about **1,200** TRUMP since launch, far too few to move the count.
+
+A foundation buy is **0**. No foundation buys TRUMP. Holders racing up the leaderboard for a seat at the Nov 22 2026 gala dinner buy coins that already circulate, so they move coins between wallets rather than taking any out.
+
+A new long-term lock is **0**. TRUMP has no staking and no lock for holders, so nothing pulls coins out of circulation for a long stretch.
 
 ## Foundation and overhang
 
-The whole overhang is the creators' vesting vault, which held **718.13M TRUMP** on Oct 27 2026, more than two and a half times the coins now on the market. About **496M** of that has already vested on paper and could be pulled out at any time; the other **222M** keeps vesting each month until the last date on Dec 18 2027. Since the first withdrawal in January 2026 the team has taken out **81.87M TRUMP** in total, sent first to a handful of team wallets that now hold almost nothing, because the coins were passed on to exchanges and other wallets.
+The one overhang that matters is the creators' vesting vault, which held **718.13M TRUMP** on Nov 5 2026, more than two and a half times the coins now circulating. On the published release calendar, most of those coins have already vested and could be taken out at once, while the rest vests **28.70M** a month until Dec 18 2027. Since its first withdrawal on Jan 30 2026, the vault has let out **81.87M** TRUMP in total, far below what the calendar allows.
 
-The team's own Jul 15 2026 market update said it expects to sell, spend or hand out less than **9.6%** of total supply over the coming months, about **96M TRUMP**. Some **44.45M** has left the vault since that update, which leaves roughly **51.5M** of that plan still to come. We re-read the vault at every refresh: if its balance falls between refreshes, the coins that left enter the sell side at the next refresh.
+The team said on Jul 15 2026 that it expects to sell, spend or hand out less than **9.6%** of all TRUMP over the coming months, about **96M** coins. Since that update, **44.45M** TRUMP has left the vault, which leaves about **51.5M** under that plan. The wallets that received the withdrawals passed the coins on and hold close to none, so they are not a second store. We read the vault on the chain every day; if its balance falls between checks, the coins that left enter the sell side at the next check.
 
-## How TRUMP compares to other Solana meme coins
+## How TRUMP compares to other meme coins
 
-Most large Solana meme coins put nearly all of their supply on the market from the start. dogwifhat has a fixed **998.93M** coins and every one of them already circulates, so it has no team vault left to open. BONK also has its whole supply in circulation, and burns have cut that supply below where it began. For coins like these, the float barely changes, and price depends only on who buys and who sells what is already out.
+TRUMP sits in an unusual spot among meme coins. Many meme coins put all or nearly all of their supply on the market at launch, so their float can only stay flat or shrink. Dogecoin goes the other way, paying miners new coins in every block with no cap at all. TRUMP has a hard cap like the first group, yet its float grows quickly, because eight in ten coins started life in a creators' vault.
 
-Official Trump is built the other way round. It has the same kind of fixed cap, but only about **28%** of it trades today, and one team vault controls the rest. That makes TRUMP behave less like a typical meme coin and more like a newly launched project with a large insider unlock still ahead. Pudgy Penguins is the nearest Solana match: it still has a share of its supply waiting to unlock, but a far smaller share than TRUMP. Among meme coins, a float that can still grow by more than two and a half times is rare.
+That makes TRUMP behave less like a meme coin and more like a young token with a large insider unlock still ahead. The difference is that TRUMP has no fixed cliff dates to plan around: the coins arrive whenever the vault is opened, in lumps such as the **31.00M** taken out across three days in September 2026, and then nothing for weeks.
+
+Nothing on the buy side balances this. TRUMP has no fee burn, no buyback and no staking lock, so each coin that leaves the vault adds to the float for good. Over a full year, the current pace would add about **134.47M** TRUMP, close to half of today's float.
 
 ## What to watch in the next 90 days
 
-First, the vault itself. It has been quiet since Sep 20 2026; a new withdrawal of the size seen in September, about **11M TRUMP** at a time, would show the team is selling again.
+**Nov 12 2026:** the leaderboard for the Nov 22 2026 gala dinner closes, and holders who bought to win a seat are free to sell afterwards.
 
-Second, the paper vesting dates on Nov 18 2026, Dec 18 2026 and Jan 18 2027, each worth about **28.7M TRUMP**. They add nothing to the market on their own, but past withdrawals have often come within days or weeks of them.
+**Nov 18 2026, Dec 18 2026 and Jan 18 2027:** the calendar vests another **28.70M** TRUMP each time; this adds to the float only if the coins are taken out of the vault.
 
-Third, the holder contest. The ranking for the gala dinner on Nov 22 2026 closes on Nov 12 2026. Contest buyers have pushed the price up before, and the vault withdrawals of Aug 22 2026 came while the price was jumping.
+**Any new vault withdrawal:** none has happened since Sep 20 2026, and the next one shows how much of the remaining **51.5M** under the Jul 15 2026 plan the team still means to sell.
 
-Fourth, any buyer that takes coins out of the float, such as the long-reported company meant to buy and hold TRUMP. If it ever buys and holds, the buy side of the ledger would stop being zero.
+**Jan 3 2027:** the new Congress sits, and Democrats have said they plan to look into the Trump family's crypto business, including this coin.
 
 ## Summary
 
-Official Trump supply grew **+11.93%** over the 90 days to Oct 27 2026 and is set to grow about the same over the next 90 days. No TRUMP can be minted; all of the new supply is the **33.62M TRUMP** the creators pulled from their vesting vault, and nothing is bought back or burned. The key risk is the size of what is left: **718.13M TRUMP** still sits in that vault, about **496M** of it already vested and free to be taken out at any time. The cap of **1B TRUMP** is fixed, so the float can never grow past it, and the vesting calendar reaches it on Dec 18 2027.
+Official Trump's circulating supply grew **+11.93%** in the 90 days to Nov 5 2026, and about the same is expected for the next 90 days. No new TRUMP can be minted, so all of that growth came from **33.62M** coins the creators took out of their vesting vault, with no buyback or burn to take any back. The key risk is the **718.13M** TRUMP still in that vault, most of it already vested on the calendar and free to leave on any day. The ceiling is the **1B** coins made at launch, which the float can reach by Dec 18 2027 at the latest if every vested coin is taken out.
 
 ---
 
-*MrNasDog Pressure Framework analysis of TRUMP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 27 2026.*
+*MrNasDog Pressure Framework analysis of TRUMP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 5 2026.*

@@ -1,6 +1,6 @@
 ---
 title:         "NEXO Supply & Demand: 0.00% Supply in 90 Days"
-description:   "NEXO supply changes 0.00% over the next 90 days and 0.00% over a year (checked Oct 27 2026)."
+description:   "NEXO supply changes 0.00% over the next 90 days and 0.00% over a year (checked Nov 5 2026)."
 canonical_url: "https://mrnasdog.com/research/nexo"
 content_type:  "coin_hub"
 tags:          ["crypto", "nexo", "nexo", "should-i-buy"]
@@ -10,7 +10,7 @@ published:     true
 
 *Live page: https://mrnasdog.com/research/nexo · checked Nov 5 2026*
 
-NEXO supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Oct 27 2026).
+NEXO supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 5 2026).
 
 - **Long-run signal:** mixed (by the law of supply and demand)
 - **Score:** 5.5/10 — supply 4.5/5, demand 1/5
@@ -37,7 +37,7 @@ Good for the price: New markets open. Bad for it: Regulators push it out. Right 
 | Aug 2026 | Listed on Bithumb |
 | Oct 22 2026 | Listed on Kraken |
 
-*Checked Oct 27 2026*
+*Checked Nov 5 2026*
 
 ### • Bulgaria $3B claim
 
@@ -53,17 +53,17 @@ Case still fights over jurisdiction; no hearing date is public.
 | Jul 10 2026 | Nexo jurisdiction brief |
 | Sep 16 2026 | Bulgaria reply filed |
 
-*Checked Oct 27 2026*
+*Checked Nov 5 2026*
 
 ## Supply — new NEXO in the next 90 days
 
-NEXO is the Nexo app's loyalty token: a fixed 1B created in 2018, nothing new, nothing burned, so supply is flat. The thing to watch is the 768M Nexo still holds.
+NEXO is the Nexo app's loyalty token: a fixed 1B made in 2018, nothing new, nothing burned, so supply is flat. The thing to watch is the 835M Nexo still holds.
 
 Over the next 90 days NEXO supply changes 0.00%; across a full year, 0.00%. That puts supply at 4.5/5 (flat) (place 84 of 100).
 
 ## Demand today
 
-People's appetite for Nexo is **low**: 1/5, ranked #92 of 109.
+People's appetite for Nexo is **low**: 1/5, ranked #91 of 109.
 
 A deeper NEXO demand breakdown is on the page for members.
 
@@ -71,31 +71,31 @@ A deeper NEXO demand breakdown is on the page for members.
 
 ### Is NEXO inflationary or deflationary?
 
-As of Oct 27 2026, NEXO supply moves 0.00% in 90 days and 0.00% in a year, so NEXO is about flat. What is created and what is removed roughly match.
+As of Nov 5 2026, NEXO supply moves 0.00% in 90 days and 0.00% in a year, so NEXO is about flat. What is created and what is removed roughly match.
 
 ### What is the NEXO inflation rate in 2026?
 
-NEXO supply grows 0.00% over the next 12 months and 0.00% over the next 90 days (checked Oct 27 2026). That puts NEXO #84 of 100 coins we track for new supply (#1 = the most new supply).
+NEXO supply grows 0.00% over the next 12 months and 0.00% over the next 90 days (checked Nov 5 2026). That puts NEXO #84 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next NEXO token unlock?
 
-No dated NEXO unlock is scheduled in the next 90 days (checked Oct 27 2026).
+No dated NEXO unlock is scheduled in the next 90 days (checked Nov 5 2026).
 
 ### Is any NEXO burned or bought back?
 
-Not in a way that removes NEXO today: nothing takes NEXO off the market over the next 90 days (checked Oct 27 2026). No burn, and no buyback since 2022. Past buybacks were kept in a 114.80M NEXO reserve that already counts as circulating.
+Not in a way that removes NEXO today: nothing takes NEXO off the market over the next 90 days (checked Nov 5 2026). No burn, and no buyback round since 2022. Past buybacks sit in a 114.80M NEXO reserve that already counts as circulating.
 
 ### Where does new NEXO supply come from?
 
-Almost no new NEXO reaches the market over the next 90 days (checked Oct 27 2026). No new NEXO: the token cannot mint and its built-in vesting ended in March 2022. Nexo controls about 768M NEXO, all counted as circulating, and almost none of it moved in 90 days.
+Almost no new NEXO reaches the market over the next 90 days (checked Nov 5 2026). No new NEXO: the token cannot mint and its built-in vesting ended in 2022. Nexo's own wallets hold about 835M NEXO, all counted as circulating, and the big ones did not move in 90 days.
 
 ### How much NEXO is in circulation?
 
-NEXO has about 1B coins in circulation as of Oct 27 2026; the next 90 days change that by 0.00% (0.00% over a year).
+NEXO has about 1B coins in circulation as of Nov 5 2026; the next 90 days change that by 0.00% (0.00% over a year).
 
-### Does NEXO have more new supply than LIT, INJ or ATOM?
+### Does NEXO have more new supply than ATOM, FIL or ZRO?
 
-Over the next 90 days (checked Oct 27 2026): NEXO 0.00%, LIT +6.38%, INJ +0.80%, ATOM +3.18%. NEXO has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 5 2026): NEXO 0.00%, ATOM +3.18%, FIL +1.65%, ZRO +17.57%. NEXO has the least new supply of these 4 coins.
 
 ## Next steps for NEXO
 

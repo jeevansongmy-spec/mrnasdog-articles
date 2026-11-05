@@ -1,6 +1,6 @@
 ---
 title:         "Pudgy Penguins (PENGU) Tokenomics: +2.60% New Supply in 90 Days"
-description:   "As of Oct 28 2026, new Pudgy Penguins supply runs at +2.60% over 90 days and +10.39% over 12 months."
+description:   "As of Nov 5 2026, new Pudgy Penguins supply runs at +2.60% over 90 days and +10.39% over 12 months."
 canonical_url: "https://mrnasdog.com/research/pengu"
 content_type:  "coin_hub"
 tags:          ["crypto", "pengu", "pudgypenguins", "should-i-buy"]
@@ -10,7 +10,7 @@ published:     true
 
 *Originally published at https://mrnasdog.com/research/pengu (checked Nov 5 2026)*
 
-As of Oct 28 2026, new Pudgy Penguins supply runs at **+2.60%** over 90 days and **+10.39%** over 12 months.
+As of Nov 5 2026, new Pudgy Penguins supply runs at **+2.60%** over 90 days and **+10.39%** over 12 months.
 
 - **Signal today:** negative (Nov 5 2026)
 - **MrNasDog score:** 3/10 — supply 1/5, demand 2/5
@@ -20,7 +20,7 @@ As of Oct 28 2026, new Pudgy Penguins supply runs at **+2.60%** over 90 days and
 
 ## New PENGU hitting the market
 
-No new PENGU can ever be minted, but team and company wallets paid out 1.63B PENGU in 90 days with nothing burned or bought back: supply +2.60%.
+Pudgy Penguins' PENGU cannot be minted, but its team and company share is paid out every month: 1.63B PENGU in 90 days, with nothing burned or bought back.
 
 New PENGU: +2.60% in 90 days, +10.39% in a year. Supply score 1/5, "meme coin".
 
@@ -49,7 +49,7 @@ Igloo is closing Abstract on Dec 15 to focus on PENGU.
 | Dec 15 2026 | Abstract shuts down (coming) |
 | By 2027 | IPO goal (CEO) (coming) |
 
-*Checked Oct 28 2026*
+*Checked Nov 5 2026*
 
 ### ▲ Toy business
 
@@ -68,37 +68,37 @@ Good for the price: More toys sold. Bad for it: Retail sales fade. Today: the pr
 | Oct 1 2026 | Kung Fu Tea: 330 stores |
 | Oct 25 2026 | Walmart holiday plush |
 
-*Checked Oct 28 2026*
+*Checked Nov 5 2026*
 
 ## PENGU tokenomics: questions and answers
 
 ### Is Pudgy Penguins (PENGU) inflationary or deflationary?
 
-Pudgy Penguins (PENGU) is inflationary right now: its supply changes +2.60% over the next 90 days and +10.39% over the next year (checked Oct 28 2026). More PENGU is added than removed.
+Pudgy Penguins (PENGU) is inflationary right now: its supply changes +2.60% over the next 90 days and +10.39% over the next year (checked Nov 5 2026). More PENGU is added than removed.
 
 ### What is the PENGU inflation rate in 2026?
 
-About +10.39% a year: that is how much Pudgy Penguins (PENGU) supply changes over the next 12 months, with +2.60% in the next 90 days (checked Oct 28 2026).
+About +10.39% a year: that is how much Pudgy Penguins (PENGU) supply changes over the next 12 months, with +2.60% in the next 90 days (checked Nov 5 2026).
 
 ### When is the next PENGU token unlock?
 
-No dated Pudgy Penguins (PENGU) unlock is scheduled in the next 90 days (checked Oct 28 2026). New PENGU still arrives: about 1.63B PENGU in 90 days.
+No dated Pudgy Penguins (PENGU) unlock is scheduled in the next 90 days (checked Nov 5 2026). New PENGU still arrives: about 1.63B PENGU in 90 days.
 
 ### Does Pudgy Penguins burn or buy back PENGU?
 
-Not in a way that removes PENGU today: nothing takes PENGU off the market over the next 90 days (checked Oct 28 2026). No buyback, no fee burn, no staking lock.
+Not in a way that removes PENGU today: nothing takes PENGU off the market over the next 90 days (checked Nov 5 2026). Nothing takes PENGU back: no buyback, no fee burn and no staking. The only big burn was 12.16B unclaimed airdrop coins on Feb 5 2025.
 
 ### Where does new PENGU supply come from?
 
-In our count, about 1.63B new PENGU reaches the market over the next 90 days (checked Oct 28 2026). How it works: Team + company vesting: 1.63B PENGU left the team wallets in 90 days, and they still hold 19.83B.
+In our count, about 1.63B new PENGU reaches the market over the next 90 days (checked Nov 5 2026). How it works: Team and company wallets let 1.63B PENGU out from Aug 7 to Nov 5 2026, in monthly payouts around the 17th, and still hold about 19.83B. No new PENGU can ever be minted.
 
 ### How much PENGU is in circulation?
 
-About 62.9B PENGU is in circulation (checked Oct 28 2026). Over the next 90 days that changes +2.60%, and over a year +10.39%.
+About 62.9B PENGU is in circulation (checked Nov 5 2026). Over the next 90 days that changes +2.60%, and over a year +10.39%.
 
-### Does PENGU have more new supply than VET, TRUMP or AERO?
+### Does PENGU have more new supply than TIA, CRV or XPL?
 
-Over the next 90 days (checked Oct 28 2026): PENGU +2.60%, VET 0.00%, TRUMP +11.93%, AERO +8.50%. PENGU sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 5 2026): PENGU +2.60%, TIA +2.31%, CRV +1.96%, XPL +14.35%. PENGU sits in the middle of these 4 coins.
 
 ## Next steps for PENGU
 

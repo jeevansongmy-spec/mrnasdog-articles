@@ -1,6 +1,6 @@
 ---
-title:         "PYTH Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description:   "PYTH supply is flat: 0.00% in 90 days and the next 90. No PYTH can be minted, the last 2.125B unlock is May 20 2027, and the DAO holds the PYTH it buys."
+title:         "PYTH Inflation Analysis · November 2026 · Mixed flows · supply roughly steady"
+description:   "PYTH supply is flat: 0.00% in 90 days and the same next. No PYTH can be minted, the final 2.125B unlock is May 20 2027, and the DAO holds what it buys."
 canonical_url: "https://mrnasdog.com/research/pyth/inflation"
 tags:          ["crypto", "pyth", "solana", "oracle"]
 published:     true
@@ -10,52 +10,56 @@ published:     true
 <!-- main-page -->
 The Pyth Network coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/pyth](https://mrnasdog.com/research/pyth). Below: supply, line by line.
 
-# PYTH Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+# PYTH Inflation Analysis · November 2026 · Mixed flows · supply roughly steady
 
-Pyth Network (PYTH) supply is flat: **0.00%** over the 90 days from Jul 29 to Oct 27 2026, and **0.00%** again over the next 90 days. No new PYTH can be minted and no unlock falls in either window, so the only supply change was **22,796 PYTH** that holders burned; the Pyth DAO bought and received **12.06M PYTH** but keeps them in its treasury. The hard cap is **10B PYTH**, and the last **2.125B** unlock on May 20 2027.
+**PYTH** supply was flat over the 90 days to Nov 5 2026, at **0.00%**, and it stays at **0.00%** for the next 90 days. Pyth Network can no longer mint PYTH, so the only new supply is the yearly unlock, and the final **2.125B PYTH** stays locked until **May 20 2027**. The Pyth DAO bought **18.36M PYTH** with its revenue and holds it instead of burning it, and other trackers show **−0.04%**, close to our reading.
 
 ## The verdict, in one paragraph
 
-PYTH supply moved **0.00%** in the last 90 days (a fall of 0.0003%, from holder burns) and is projected at **0.00%** for the next 90 days. Other trackers read **−0.04%** for the same 90 days, a gap of **−0.04 points**, small enough that the coin page carries no warning note. With no minting, no staking pay and no cliff before May 2027, Pyth Network is a quiet token today: the supply sits still until one large, dated unlock.
+Over the 90 days from Aug 7 to Nov 5 2026, **PYTH** gained no new circulating supply and lost only a few coins to holder burns, so the net change is **0.00%** of the **7.87B PYTH** in circulation. Other supply trackers show **−0.04%** for the same 90 days, a gap of **0.04 points**, and the coin page carries no warning note. The next 90 days, to Feb 3 2027, also read **0.00%**, because the next PYTH unlock falls on May 20 2027. The plain label for PYTH today: a fixed-supply oracle token between unlocks, with a buyback that holds its coins instead of burning them.
 
 ## Sell pressure: where new PYTH comes from
 
-Protocol inflation is **0** and can never start: the power to mint PYTH on Solana was removed for good, so the PYTH supply can only fall. Pyth Network used to pay stakers in its Oracle Integrity Staking program from a pool of existing PYTH, about 7M PYTH a month in early 2026, but the DAO set that reward to zero on Apr 22 2026 and moved the unused 849,208 PYTH back to the DAO treasury in July 2026.
+Protocol inflation is **zero**, and it is zero for good. The PYTH token on Solana has no mint authority any more, so no one, not the Pyth DAO and not the Pyth Data Association, can create a single extra PYTH. The total can only stay at **10B** or shrink. Pyth Network pays its data publishers out of PYTH that already exists, not out of new coins.
 
-Vesting unlocks are **0** in both windows. PYTH launched on Nov 20 2023 with 1.5B coins free and 8.5B locked, and the locked PYTH opens once a year in blocks of **2.125B**. The blocks of May 2024, May 2025 and May 2026 have opened; a forum idea in March 2026 to delay the May 2026 unlock never went to a vote. The fourth and last block opens on May 20 2027, well after Jan 25 2027, when the next window ends.
+Vesting unlocks are also **zero** in both windows. Pyth Network launched PYTH on Nov 20 2023 with **1.5B PYTH** unlocked and the other 8.5B locked, to be released in four equal unlocks of **2.125B PYTH** each, 6, 18, 30 and 42 months after launch. The unlocks of May 20 2024, May 20 2025 and May 20 2026 are done. A community idea in March 2026 to delay the May 2026 unlock never went to a vote. The fourth and final PYTH unlock is **May 20 2027**, well after Feb 3 2027, so it adds nothing to the next 90 days.
 
-Foundation and unscheduled unlocks are **0**. Every PYTH outside the final 2.125B block already counts as circulating, including the DAO treasury, the council wallet and the publisher-reward locks, so when the DAO spends or grants PYTH it adds no new supply. Long-term locked or bankruptcy supply is also **0**: no bankruptcy estate or court-held PYTH is waiting to be released.
+Foundation and unscheduled unlocks are **zero**. The Pyth DAO did pay out PYTH in the window: on Nov 4 2026 it sent **4.45M PYTH** to the Community Council for its last six-month budget and community moderators, and **225,000 PYTH** as stipends to five members of the retired Price Feed Council. Those coins came from the DAO treasury, which already counts as circulating, so they move PYTH from one circulating wallet to another and add no new supply.
+
+Long-term locked or bankruptcy supply is **zero**: no court estate or failed lender holds a pile of PYTH waiting to be paid out.
 
 ## Buy pressure: where new PYTH goes
 
-The programmatic buyback books **0**, even though it is real. Under the PYTH Strategic Reserve the Pyth DAO turns its share of product revenue into PYTH and holds it. Between Jul 29 and Oct 27 2026 the DAO treasury took in **12.06M PYTH**: **4.40M PYTH** bought on the market in three rounds credited on Aug 3, Sep 2 and Oct 1 2026, and **7.66M PYTH** paid directly in PYTH by Douro Labs as the DAO's July revenue share on Aug 4 2026. Since the DAO passed Strategic Reserve V2 in late September 2026, all of its eligible revenue goes to PYTH without a monthly vote. The bought PYTH stays inside the circulating count, so it does not lower the supply number, but it does take coins off the market.
+The PYTH buyback is real but books **zero**. Under the Pyth Strategic Reserve, the DAO turns its share of revenue from Pyth Pro, listings and Pyth indices into PYTH. Between Aug 7 and Nov 5 2026 the Pythian Council bought **18.36M PYTH** for the DAO: **669,662 PYTH** from the August round, **2.58M PYTH** from September and **15.11M PYTH** in October, after a September 2026 vote let all eligible revenue flow into the reserve without a monthly vote. Every bought PYTH goes to the DAO treasury and may not be sold without a new DAO vote, but the treasury still counts as circulating, so the buyback takes nothing out of the PYTH supply count.
 
-The protocol fee burn is **0**: Pyth Network has no fee burn. Its data products are paid for mostly in dollars, and June 2026 ideas to burn part of the fees, including Entropy fees, never reached a vote. Holder burns are the one thing that shrinks PYTH: holders destroyed **22,796 PYTH** in the window, most of it in two burns of **13,174 PYTH** on Aug 7 2026 and **7,096 PYTH** on Aug 27 2026. Those were one-offs, so the forecast for the next 90 days is the steady trickle of small burns, about **2,525 PYTH**.
+The protocol fee burn is **zero** because Pyth Network has no fee burn. Customers pay for Pyth data in dollars and other coins, and the DAO share buys PYTH that is held, not destroyed. Burn ideas have been raised on the Pyth forum, but none has passed.
 
-A foundation buy is **0**, because no group buys PYTH on its own beside the DAO reserve. A new long-term lock is **0** too: staked PYTH and publisher-reward locks still count as circulating, so they take nothing out of the count.
+Foundation buying is **zero**: outside the DAO reserve, no foundation or company buys PYTH on a schedule. New long-term locks are **zero** as well. Staked PYTH and publisher rewards that are still vesting count as circulating, and staking rewards have been paused since April 2026, so staking neither adds nor removes PYTH from the count.
+
+The one flow that does destroy PYTH is holder burns. Now and then ordinary holders burn small amounts of PYTH, and in all about **41,167 PYTH** have been destroyed since the 2023 launch, which is why the total supply reads just under 10B. That is less than 0.001% of the supply, far too small to move the PYTH number.
 
 ## Foundation and overhang
 
-The largest overhang is the final vesting block of **2.125B PYTH**, about 27% of today's circulating supply, which opens on May 20 2027 for ecosystem growth, publisher rewards, protocol development and private-sale buyers. The Pyth DAO treasury holds **41.09M PYTH**, up from 29.03M on Jul 29 2026, and under Strategic Reserve V2 the PYTH it buys cannot be sold without a separate DAO vote. The Pythian Council's buying wallet holds **14.13M PYTH** from the October rounds, waiting to be sent to the treasury.
+The PYTH that could reach the market sits in a few known places. The Pyth DAO treasury, which is also where the buyback lands, holds about **51.52M PYTH** after the Nov 4 2026 payouts. The Community Council multisig holds about **5.35M PYTH** for its budget, and the Pythian Council multisig, which runs the buyback, holds about **0.65M PYTH** plus the latest revenue it still has to convert. The unlocked ecosystem, publisher-reward and development pools are spread across large project wallets whose owners are not publicly labelled. The biggest single overhang is the final **2.125B PYTH** unlock on May 20 2027.
 
-About **5.46M PYTH** of publisher rewards from May and June 2026 sit in 33 lock accounts; a September 2026 vote moved their opening to one year after payout, so they open in May and June 2027. A proposal posted on Oct 27 2026 would send **4.45M PYTH** from the treasury to the community council for its budget and moderation. We read these wallets on-chain at each rebuild; if any of their balances falls between refreshes, the outflow enters the Foundation and unscheduled unlocks row at the next refresh.
+Apart from that final unlock, every one of these PYTH balances already counts as circulating, so none of them is booked as new supply. We read the DAO and council wallets again at each rebuild. If the PYTH balance of any of these wallets falls between rebuilds, that outflow is added to the foundation and unscheduled unlocks row at the next rebuild.
 
-## How PYTH compares to other oracle network chains
+## How PYTH compares to other oracle and data tokens
 
-PYTH and Chainlink's LINK share the same basic shape: a fixed supply that cannot be minted, a large pile of coins not yet circulating, and a reserve that turns revenue into the token and holds it. The difference is the timing of the pile. PYTH's last 2.125B opens on one known date, May 20 2027, while LINK's non-circulating wallets release coins in batches with no published calendar. The Chainlink Reserve held about 6.2M LINK in October 2026; the Pyth DAO holds 41.09M PYTH, though at a far lower price per coin.
+Among oracle tokens, PYTH sits closest to Chainlink's LINK in shape: both have a fixed maximum supply, no minting, and supply that grows only as locked project coins are released. The difference is timing. PYTH unlocks in one big step a year, on May 20, and then stays flat for the rest of the year; the last step, 2.125B PYTH, is about 27% of today's circulating supply. LINK comes out of project wallets in smaller, more regular moves. Between unlocks, PYTH looks like a fixed-supply coin.
 
-Other oracle networks run on their own chains and pay validators or stakers with newly minted coins, so their supply grows every day by design. PYTH stopped its staking pay in April 2026 and cannot mint, so between unlock dates its supply only shrinks, through holder burns. That makes PYTH one of the steadier oracle tokens day to day, with one large step left: after May 20 2027 every PYTH will be unlocked and the supply will be truly fixed.
+PYTH also differs from tokens that pay stakers in new coins. Many proof-of-stake chains and some data networks create fresh tokens every day to reward the people who secure them, which gives them a steady inflation rate. Pyth Network pays publishers and stakers from coins that already exist, and its staking rewards are paused, so PYTH has no built-in inflation at all.
+
+On the buy side, the PYTH buyback is a revenue-funded buy-and-hold, not a buy-and-burn. Tokens that burn what they buy shrink their supply every month. The Pyth DAO keeps the PYTH it buys in its treasury, so the reserve grows but the circulating count does not fall. If the DAO ever voted to burn or lock the reserve, PYTH would turn deflationary; until then the buyback supports demand rather than cutting supply.
 
 ## What to watch in the next 90 days
 
-First, the monthly PYTH purchase reports from the Pythian Council, due around early November and early December 2026, which show how many PYTH the October and November revenue bought and whether the council wallet's 14.13M PYTH reaches the treasury. Second, the vote on the proposal posted Oct 27 2026 to send 4.45M PYTH from the treasury to the community council, which moves coins inside the circulating count. Third, Douro Labs' monthly revenue reports in early November and early December 2026, which set the size of the next buy rounds.
-
-Fourth, any new DAO proposal to change the May 20 2027 unlock, or to add a fee burn; either would move the PYTH ledger. Fifth, the PYTH supply itself: any burn larger than the usual trickle shows up at the next refresh.
+The November 2026 Strategic Reserve report, due in early December 2026, will show how much PYTH the Pythian Council bought with the **621,330 USDC** of October revenue it received on Nov 3 2026. Watch the Pyth DAO forum for any vote to burn or lock the reserve, which would turn the buyback into a real supply cut. Watch the DAO treasury after each council payout, since the Community Council budget now covers six more months of spending. Watch for any proposal to change or delay the final **2.125B PYTH** unlock of May 20 2027, which is the next event that moves PYTH supply. Watch for any vote to restart staking rewards, which would draw on existing pools rather than new coins.
 
 ## Summary
 
-Pyth Network supply is flat at **0.00%** over the last 90 days and the next 90, because no PYTH can be minted, staking pay stopped in April 2026, and no unlock falls before May 20 2027. The Pyth DAO turns its revenue into PYTH and holds it, **12.06M PYTH** in these 90 days, which takes coins off the market without changing the supply count, while holders burned **22,796 PYTH**. The key risk is the final unlock of **2.125B PYTH** on May 20 2027, far more than a year of DAO buying at today's revenue. After that date the 10B cap is fully unlocked and PYTH supply can only fall.
+PYTH supply was flat at **0.00%** over the 90 days to Nov 5 2026 and stays flat for the next 90 days, because no PYTH can be minted and the next unlock is May 20 2027. The Pyth DAO bought **18.36M PYTH** with its revenue in the window and holds it, so the buyback supports demand without lowering the circulating count. The main supply risk is the final **2.125B PYTH** unlock in May 2027, about 27% of today's circulating supply. The hard ceiling is **10B PYTH**, and holder burns have already taken the total just below it.
 
 ---
 
-*MrNasDog Pressure Framework analysis of PYTH, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 27 2026.*
+*MrNasDog Pressure Framework analysis of PYTH, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 5 2026.*
