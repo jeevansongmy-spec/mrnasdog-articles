@@ -8,11 +8,11 @@ published:     true
 ---
 # Virtuals Protocol (VIRTUAL) Tokenomics: +0.04% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/virtual (checked Nov 5 2026)*
+*Originally published at https://mrnasdog.com/research/virtual (checked Nov 6 2026)*
 
 As of Oct 28 2026, new Virtuals Protocol supply runs at **+0.04%** over 90 days and **+0.04%** over 12 months.
 
-- **Signal:** mixed (Nov 5 2026)
+- **Signal:** mixed (Nov 6 2026)
 - **Score:** 6/10 — supply 3.5/5, demand 2.5/5
 - **Supply growth:** +0.04% in 90 days · +0.04% in a year
 - **How much people want it:** modest (2.5/5)
@@ -96,9 +96,9 @@ In our count, about 295K new VIRTUAL reaches the market over the next 90 days (c
 
 About 658M VIRTUAL is in circulation (checked Oct 28 2026). Over the next 90 days that changes +0.04%, and over a year +0.04%.
 
-### Does VIRTUAL have more new supply than FET, XPL or SPX?
+### Does VIRTUAL have more new supply than FET, TIA or PENGU?
 
-Over the next 90 days (checked Oct 28 2026): VIRTUAL +0.04%, FET +6.01%, XPL +14.35%, SPX 0.00%. VIRTUAL sits in the middle of these 4 coins.
+Over the next 90 days (checked Oct 28 2026): VIRTUAL +0.04%, FET +6.01%, TIA +2.31%, PENGU +2.60%. VIRTUAL has the least new supply of these 4 coins.
 
 ## Where to read the rest of VIRTUAL
 

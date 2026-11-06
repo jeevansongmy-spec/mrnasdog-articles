@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Lido DAO (LDO) Inflationary? +5.15% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/ldo, updated Nov 5 2026*
+*From https://mrnasdog.com/research/ldo, updated Nov 6 2026*
 
 How much new LDO is coming? **+5.15%** in the next 90 days, **+1.42%** in the next year — checked Oct 28 2026.
 
@@ -33,7 +33,7 @@ Good for the price: More ETH staked. Bad for it: ETH leaves Lido. Right now it p
 | Aug 31 2026 | 9.63 M ETH |
 | Sep 30 2026 | 9.87 M ETH |
 | Oct 31 2026 | 9.69 M ETH |
-| Nov 5 2026 | 9.68 M ETH |
+| Nov 6 2026 | 9.71 M ETH |
 
 *Checked Oct 28 2026*
 
@@ -48,7 +48,7 @@ Staking yield holds up → price up · Staking yield gets cut → price down. To
 | Aug 31 2026 | 2.27% |
 | Sep 30 2026 | 2.25% |
 | Oct 31 2026 | 4.16% |
-| Nov 5 2026 | 4.25% |
+| Nov 6 2026 | 4.25% |
 
 *Checked Oct 28 2026*
 
@@ -90,9 +90,9 @@ In our count, about 48.9M new LDO reaches the market over the next 90 days (chec
 
 About 830M LDO is in circulation (checked Oct 28 2026). Over the next 90 days that changes +5.15%, and over a year +1.42%.
 
-### Does LDO have more new supply than PENDLE, FF or SUN?
+### Does LDO have more new supply than TRUMP, FF or SUN?
 
-Over the next 90 days (checked Oct 28 2026): LDO +5.15%, PENDLE +1.64%, FF +18.22%, SUN −0.03%. LDO sits in the middle of these 4 coins.
+Over the next 90 days (checked Oct 28 2026): LDO +5.15%, TRUMP +11.93%, FF +18.22%, SUN −0.03%. LDO sits in the middle of these 4 coins.
 
 ## Next steps for LDO
 

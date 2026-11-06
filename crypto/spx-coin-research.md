@@ -8,7 +8,7 @@ published:     true
 ---
 # Is SPX6900 (SPX) Inflationary? 0.00% Supply in 90 Days
 
-*From https://mrnasdog.com/research/spx, updated Nov 5 2026*
+*From https://mrnasdog.com/research/spx, updated Nov 6 2026*
 
 How much new SPX is coming? **0.00%** in the next 90 days, **0.00%** in the next year — checked Oct 28 2026.
 
@@ -87,9 +87,9 @@ Almost no new SPX reaches the market over the next 90 days (checked Oct 28 2026)
 
 About 931M SPX is in circulation (checked Oct 28 2026). Over the next 90 days that changes 0.00%, and over a year 0.00%.
 
-### Does SPX have more new supply than XPL, BSV or STRK?
+### Does SPX have more new supply than XPL, BSV or BTT?
 
-Over the next 90 days (checked Oct 28 2026): SPX 0.00%, XPL +14.35%, BSV +0.20%, STRK +5.53%. SPX has the least new supply of these 4 coins.
+Over the next 90 days (checked Oct 28 2026): SPX 0.00%, XPL +14.35%, BSV +0.20%, BTT −2.17%. SPX sits in the middle of these 4 coins.
 
 ## Where to read the rest of SPX
 

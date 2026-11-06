@@ -8,7 +8,7 @@ published:     true
 ---
 # PENDLE Inflation Rate: +1.64% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/pendle — numbers checked Nov 5 2026*
+*Source: https://mrnasdog.com/research/pendle — numbers checked Nov 6 2026*
 
 **+1.64%** in 90 days, **+7.42%** in a year: that is how fast PENDLE supply changes as of Oct 28 2026.
 
@@ -39,7 +39,7 @@ Good for the price: More money parked. Bad for it: Money keeps leaving. Right no
 | Aug 31 2026 | $1.18B |
 | Sep 30 2026 | $1.26B |
 | Oct 31 2026 | $1.02B |
-| Nov 5 2026 | $1.03B |
+| Nov 6 2026 | $1.01B |
 
 *Checked Oct 28 2026*
 
@@ -90,9 +90,9 @@ In our count, about 2.85M new PENDLE reaches the market over the next 90 days (c
 
 PENDLE has about 174M coins in circulation as of Oct 28 2026; the next 90 days change that by +1.64% (+7.42% over a year).
 
-### Does PENDLE have more new supply than BTT, LDO or FF?
+### Does PENDLE have more new supply than BTT, TRUMP or LDO?
 
-Over the next 90 days (checked Oct 28 2026): PENDLE +1.64%, BTT −2.17%, LDO +5.15%, FF +18.22%. PENDLE sits in the middle of these 4 coins.
+Over the next 90 days (checked Oct 28 2026): PENDLE +1.64%, BTT −2.17%, TRUMP +11.93%, LDO +5.15%. PENDLE sits in the middle of these 4 coins.
 
 ## Go deeper on Pendle
 

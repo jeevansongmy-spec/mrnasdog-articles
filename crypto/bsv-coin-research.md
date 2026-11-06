@@ -8,11 +8,11 @@ published:     true
 ---
 # Bitcoin SV (BSV) Tokenomics: +0.20% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/bsv (checked Nov 5 2026)*
+*Originally published at https://mrnasdog.com/research/bsv (checked Nov 6 2026)*
 
 As of Oct 28 2026, new Bitcoin SV supply runs at **+0.20%** over 90 days and **+0.81%** over 12 months.
 
-- **Signal:** negative (Nov 5 2026)
+- **Signal:** negative (Nov 6 2026)
 - **Score:** 4.5/10 — supply 3.5/5, demand 1/5
 - **Supply growth:** +0.20% in 90 days · +0.81% in a year
 - **How much people want it:** low (1/5)
@@ -50,7 +50,7 @@ Miner power is down about two thirds since early 2024.
 | Aug 31 2026 | 180 PH/s |
 | Sep 30 2026 | 202 PH/s |
 | Oct 31 2026 | 190 PH/s |
-| Nov 5 2026 | 236 PH/s |
+| Nov 6 2026 | 220 PH/s |
 
 *Checked Oct 28 2026*
 
@@ -92,9 +92,9 @@ In our count, about 40.3K new BSV reaches the market over the next 90 days (chec
 
 About 20.1M BSV is in circulation (checked Oct 28 2026). Over the next 90 days that changes +0.20%, and over a year +0.81%.
 
-### Does BSV have more new supply than SPX, STRK or SEI?
+### Does BSV have more new supply than SPX, BTT or PENDLE?
 
-Over the next 90 days (checked Oct 28 2026): BSV +0.20%, SPX 0.00%, STRK +5.53%, SEI +4.96%. BSV sits in the middle of these 4 coins.
+Over the next 90 days (checked Oct 28 2026): BSV +0.20%, SPX 0.00%, BTT −2.17%, PENDLE +1.64%. BSV sits in the middle of these 4 coins.
 
 ## Read more on BSV
 

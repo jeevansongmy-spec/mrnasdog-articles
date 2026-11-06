@@ -1,69 +1,71 @@
 ---
-title:         "VIRTUAL Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description:   "VIRTUAL is roughly steady: a 1B cap already reached, 1.53M VIRTUAL vested out in 90 days, no buyback or burn, +0.23% net, at most +0.04% next."
+title:         "VIRTUAL Inflation Analysis · November 2026 · Mixed flows · supply roughly steady"
+description:   "VIRTUAL supply over 90 days: 1.27M VIRTUAL from one vesting contract, no burn and no buyback, +0.19% net. Capped at 1B; a 340.65M treasury has not moved."
 canonical_url: "https://mrnasdog.com/research/virtual/inflation"
 tags:          ["crypto", "virtual", "virtuals", "aiagents"]
 published:     true
 ---
-Originally published at [VIRTUAL Inflation Analysis · October 2026 · Mixed flows · supply roughly steady](https://mrnasdog.com/research/virtual/inflation).
+Originally published at [VIRTUAL Inflation Analysis · November 2026 · Mixed flows · supply roughly steady](https://mrnasdog.com/research/virtual/inflation).
 
-# VIRTUAL Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+# VIRTUAL Inflation Analysis · November 2026 · Mixed flows · supply roughly steady
 
 <!-- main-page -->
 This is the long supply read. For the signal, the price drivers and the questions people ask about Virtuals Protocol, see [mrnasdog.com/research/virtual](https://mrnasdog.com/research/virtual).
 
-VIRTUAL has a hard cap of **1B** coins, the cap is already reached, and no new VIRTUAL can ever be made. Between Jul 30 and Oct 28 2026 the only new supply was **1,532,450 VIRTUAL** paid out by a handful of vesting streams, while nothing was bought back or burned, so circulating supply grew about **+0.23%**. With only **295,279 VIRTUAL** left in those streams, the next 90 days can add at most about **+0.04%**; other trackers show about +0.14% for the same 90 days.
+VIRTUAL's supply is close to steady: up **+0.19%** in the 90 days from Aug 8 to Nov 6 2026, and on course for only about **+0.04%** in the next 90 days. All of the new supply came from one vesting contract, which paid out **1,269,412 VIRTUAL**, while nothing was bought back or burned. The coin is capped at **1B**, every one of them already exists, and other trackers show **+0.09%** for the same period.
 
 ## The verdict, in one paragraph
 
-VIRTUAL is close to a finished supply. Over the 90 days to Oct 28 2026, circulating VIRTUAL rose by about **+0.23%**, all of it from vesting streams paying out coins that had been locked away. Over the next 90 days the most that can come out of those streams is **295,279 VIRTUAL**, or about **+0.04%**. Other trackers put the last 90 days at about +0.14%; the difference is under a fifth of a point, so the coin page carries no warning note. Our label is "Mixed flows · supply roughly steady": a little new supply, no buying back, and a large treasury that has not moved since May 2024 and is the one thing that could change this picture.
+Over the 90 days to Nov 6 2026, VIRTUAL's circulating supply grew **+0.19%**. Other trackers show **+0.09%** for the same window, a difference of **0.10 points**, small enough that the coin page carries no warning note. Looking ahead, the only coins that can still unlock on a known path are the **295,279 VIRTUAL** left in that vesting contract, which would add about **+0.04%**. The large ecosystem treasury is the one thing that could change this picture, and it has not moved in two and a half years. In one line: VIRTUAL is a fixed-supply coin with a nearly finished vesting tail and a big, sleeping treasury.
 
 ## Sell pressure: where new VIRTUAL comes from
 
-**Protocol inflation** is zero, and it is zero for good. The VIRTUAL contract on Ethereum has a built-in cap of **1B**, all 1B already exist, and the owner key that could call the mint function was given up. A test call to mint even one more coin is refused by the contract itself. Stakers are not paid in fresh VIRTUAL either; their rewards come as agent-token airdrops and points.
+Protocol inflation is **zero**. The main VIRTUAL contract on Ethereum has a hard cap of 1B coins, all 1B were made long ago, and the owner key that could mint was given up, so the contract refuses any new mint. The VIRTUAL that lives on Base, Solana and other chains is bridged from that same 1B, not extra coins.
 
-**Vesting unlocks** are the only real source. A small set of vesting streams held VIRTUAL for a few wallets. Between Jul 30 and Oct 28 2026 they released **1,532,450 VIRTUAL**, most of it in August. The largest single payout was **578,482 VIRTUAL** on Aug 30, followed by a **392,200 VIRTUAL** pair of payouts on Aug 24 and **243,607 VIRTUAL** on Aug 4. Only four streams still hold coins, **295,279 VIRTUAL** in total, and every one of them has already finished vesting, the last on Oct 24 2026. Their owners can claim at any moment, so we count the full remainder as next-90-day supply, even though some of it has sat unclaimed since August.
+Vesting unlocks are the only live source of new supply. One vesting contract on Ethereum paid out **1,269,412 VIRTUAL** between Aug 8 and Nov 6 2026, across fourteen claims; the largest single claim was 578,482 VIRTUAL on Aug 30 2026 and the last one was 50,000 VIRTUAL on Oct 5 2026. Its four streams all finished between Aug 20 and Oct 24 2026, and **295,279 VIRTUAL** is still waiting to be claimed. Since that remainder can be taken out on any day, the next 90 days count all of it.
 
-**Foundation and unscheduled unlocks** added nothing. The ecosystem treasury, a multisig wallet holding **340.65M VIRTUAL**, did not send a single coin in these 90 days. Its own rules let it release at most 10% of the treasury a year, and only after a holder vote. Some unlock calendars show a monthly "Foundation" release of about 2.9M VIRTUAL, but the treasury wallet did not move on any of those dates.
+Foundation and unscheduled unlocks are **zero**. The ecosystem treasury holds **340.65M VIRTUAL** and did not send out a single coin in the window; its last outflow was on May 13 2024. Spending it needs a holder vote, and the rules cap it at 10% a year.
 
-**Long-term locked or bankruptcy** coins are not a factor. No bankruptcy estate or court-held pile of VIRTUAL waits to be released.
+Long-term locked or bankruptcy supply is **zero**. No court estate holds VIRTUAL. The almost 2M VIRTUAL taken in the Nov 2 2026 Mercado Bitcoin hack was already circulating, so even if the thief sells it, the count of coins in the market does not change.
 
 ## Buy pressure: where new VIRTUAL goes
 
-**Programmatic buyback** is zero. Every agent token launched on Virtuals Protocol pays a 1% trading fee, and that fee is swapped into VIRTUAL. But the VIRTUAL goes to agent creators and the protocol's fee wallet, and all of those coins still count as circulating, so nothing leaves the supply. The fee wallet held about **93.6K VIRTUAL** on Oct 28 2026.
+Programmatic buyback is **zero**. Trading fees on agent coins are swapped into VIRTUAL and paid to agent creators and to the protocol's fee wallet, but those wallets already count as circulating, so the coins never leave the market. Buybacks run on new agent launches buy the agent coins, not VIRTUAL.
 
-**Protocol fee burn** is zero. VIRTUAL has no burn function. The burn addresses on Ethereum and Base hold only about 1,500 VIRTUAL between them, almost unchanged across the window, and total supply stayed at exactly 1B. The burns people see on the platform hit agent tokens, not VIRTUAL.
+Protocol fee burn is **zero**. VIRTUAL has no burn: total supply on Ethereum was exactly 1B at both ends of the window, and the burn address did not grow.
 
-**Foundation buy** is zero. Neither the treasury nor the team bought VIRTUAL back in these 90 days.
+Foundation buying is **zero**. Neither the Virtuals Foundation nor the team has said it buys VIRTUAL, and no such buying shows up.
 
-**New long-term lock** is zero for the count. Holders can lock VIRTUAL for up to two years to get voting power, and about **21.35M VIRTUAL** sat in that lock on Oct 28 2026, a little less than the 21.94M on Jul 30. Locked coins still count as circulating, so the lock removes nothing.
+New long-term locks are **zero**. Holders can lock VIRTUAL for up to two years as veVIRTUAL to vote and to receive agent-coin airdrops, but locked VIRTUAL still counts as circulating, so more locking does not shrink the supply.
 
 ## Foundation and overhang
 
-The big holder is the ecosystem treasury: **340.65M VIRTUAL**, about 34% of all coins, in a multisig wallet on Ethereum. It is the only large pile of VIRTUAL outside the circulating count, and its last payout was in May 2024. Under its rules it could release up to about 35M VIRTUAL a year once holders vote for it. No such vote is open: the newest holder proposal, from early October 2026, did not pass.
+The biggest overhang by far is the ecosystem treasury: **340.65M VIRTUAL**, just over a third of all coins, held in a multisig on Ethereum that needs four of six signers. It is outside the circulating count, so anything it sends out would be new supply. Its balance was the same on Aug 8 and Nov 6 2026, and the holder vote it needs has not passed a spending plan since July 2025. One unlock tracker lists monthly treasury releases of about 2.92M VIRTUAL, but the treasury did not move on any of those dates in the window.
 
-The second, much smaller pile is the vesting remainder of **295,279 VIRTUAL**, all free to claim. A 2025 holder vote also approved a grant to the core team of up to 6% of supply, but it only pays out when VIRTUAL holds a price of $10, then $20, then $40. With VIRTUAL near $0.63, that grant is far from paying anything. A separate fund of 1% of supply set up in 2025 to defend agent launches did not come from the treasury wallet; whatever it holds already counts as circulating.
+The second overhang is small: the **295,279 VIRTUAL** left in the vesting contract, all of it already free to claim. A third is only a promise: a team grant approved in July 2025 that releases up to 6% of supply from the treasury only if VIRTUAL holds $10, $20 and $40, far above today's price. We check the treasury and the vesting contract every day; if either balance falls between checks, the outflow enters the sell side at the next refresh.
 
 ## How VIRTUAL compares to other AI-agent and launchpad coins
 
-Most coins tied to AI or to token launchpads still issue new coins. Fetch.ai (FET) added about 6% to its circulating supply in 90 days with no buyback, and Bittensor (TAO) about 4.3% through mining rewards, on our pages checked in late October 2026. Pump.fun (PUMP) works the other way: it uses platform revenue to buy back its own coin, removing about 4.4% of supply in 90 days, but its unlocks are larger still.
+Most chain coins grow their supply on purpose, paying validators or miners in new coins every day, so their supply rises whether or not anyone uses the chain. VIRTUAL works the other way. It is a fixed 1B coin with no issuance at all, so its supply only grows when a locked balance is released, and that has now shrunk to a vesting tail of under 0.05% of supply.
 
-VIRTUAL sits apart from both groups. It has no issuance at all, so it needs no buyback to stay flat, but it also has no buyback to soak up selling. Its supply story is almost entirely about one decision: whether and when holders vote to spend the treasury.
+Against other launchpad coins, VIRTUAL's gap is on the buy side. Some launchpads spend their platform fees buying back their own coin, which takes coins out of the market every week. Virtuals routes its fees to agent creators and its fee wallet, and its buybacks target agent coins, so VIRTUAL gets no steady built-in buyer. Its supply is quiet because little is being added, not because anything is taking coins away.
+
+The real difference from fully vested coins is the treasury. A third of VIRTUAL sits in one wallet that a holder vote can open at up to 10% a year. Coins without such a pool have nothing waiting; VIRTUAL has a large one that is quiet, and the vote, not a calendar, decides when it wakes.
 
 ## What to watch in the next 90 days
 
-**The vesting remainder.** About **295,279 VIRTUAL** can be claimed at any time from now to Jan 26 2027. If it is all claimed, that is the whole **+0.04%** forecast.
+First, the treasury on Nov 28 2026 and Dec 28 2026, the dates one unlock tracker gives for monthly releases of about 2.92M VIRTUAL; the treasury did not move on the same days in August, September or October 2026.
 
-**Treasury votes.** Any holder proposal to spend from the **340.65M VIRTUAL** treasury would be the biggest supply event. A vote runs 72 hours after a 72-hour discussion, so there would be about a week of warning before coins could move.
+Second, the last **295,279 VIRTUAL** in the vesting contract, which can be claimed on any day before Feb 4 2027; once it is gone, the vesting row drops to zero.
 
-**The monthly unlock dates on calendars.** Some unlock calendars list about 2.9M VIRTUAL on Nov 28 and Dec 28 2026. The treasury did not move on Jul 28, Aug 28, Sep 28 or Oct 28 2026, dates on the same calendar, so we expect nothing, but those are the days to check.
+Third, the holder vote. The newest proposal, a one-time early unstake for veVIRTUAL holders, was voted down on Oct 8 2026; any new proposal that spends treasury VIRTUAL would show up there days before coins move.
 
-**Agent liquidity rewards.** The project's papers describe a proposed plan to pay 60M VIRTUAL over 12 months to the top agent liquidity pools. It has not passed a vote and no coins have moved for it; if it ever passes, it would come from the treasury and change the forecast.
+Fourth, the Mercado Bitcoin thief's VIRTUAL from the Nov 2 2026 hack. Selling it does not change the supply count, but it adds coins to the order books in a thin market.
 
 ## Summary
 
-VIRTUAL can never have more than 1B coins, and that cap is already reached and locked. In the 90 days to Oct 28 2026, vesting streams released 1,532,450 VIRTUAL, about +0.23% of circulating supply, and nothing was bought back or burned. Only 295,279 VIRTUAL is left in those streams, so the next 90 days can add at most about +0.04%. The 340.65M VIRTUAL treasury, untouched since May 2024 and spendable only after a holder vote, is the one thing that could change this.
+VIRTUAL's circulating supply grew **+0.19%** over the 90 days to Nov 6 2026 and should grow only about **+0.04%** over the next 90 days. The whole increase came from one vesting contract, which paid out **1,269,412 VIRTUAL** and has **295,279** left. VIRTUAL is capped at 1B with no minting, no burn and no buyback of its own coin. The key risk is the **340.65M VIRTUAL** treasury, which has not moved since May 2024 but can release up to 10% a year after a holder vote.
 
 ---
 
-*MrNasDog Pressure Framework analysis of VIRTUAL, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 28 2026.*
+*MrNasDog Pressure Framework analysis of VIRTUAL, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 6 2026.*

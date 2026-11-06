@@ -1,6 +1,6 @@
 ---
-title:         "SPX Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description:   "SPX supply is roughly steady: no mint, no unlocks, and fan-built apps burned 156.81 SPX in 90 days. Net −0.00% now and 0.00% next on a fixed 1B supply."
+title:         "SPX Inflation Analysis · November 2026 · Mixed flows · supply roughly steady"
+description:   "SPX supply is flat: no mint, no unlocks, no team share, and holders burned just 157 SPX in 90 days. Net 0.00% now and 0.00% next on a fixed 1B SPX cap."
 canonical_url: "https://mrnasdog.com/research/spx/inflation"
 tags:          ["crypto", "spx", "spx6900", "memecoin"]
 published:     true
@@ -10,60 +10,66 @@ published:     true
 <!-- main-page -->
 ➜ Start with the SPX6900 coin page for the short answer (should you buy SPX?) and its price drivers: [mrnasdog.com/research/spx](https://mrnasdog.com/research/spx)
 
-# SPX Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+# SPX Inflation Analysis · November 2026 · Mixed flows · supply roughly steady
 
-SPX6900 (SPX) has one of the simplest supply stories in crypto: the supply is roughly steady, because the Ethereum contract fixes it at **1B SPX** and has no way to make more. In the 90 days to Oct 28 2026, **0 SPX** of new supply came out, fan-built apps burned **156.81 SPX**, and the net change was **−0.00%**, with **0.00%** expected for the next 90 days; other supply trackers show **+0.02%**.
+**TL;DR:** SPX6900 is about as steady as a coin supply gets. No new SPX can ever be made, nothing vests, and over the 90 days to Nov 6 2026 the only movement was **157 SPX** that holders sent to the burn address. Net, supply changed by **0.00%**, other trackers also show **0.00%**, and the next 90 days look the same on a hard cap of **1B** coins.
 
 ## The verdict, in one paragraph
 
-Over the 90 days from Jul 30 to Oct 28 2026, SPX supply moved by **−0.00%**: no new SPX was created and **156.81 SPX** were burned, against **930.99M SPX** in circulation. Other supply trackers show **+0.02%** for the same 90 days, a gap of just **0.02 points**, so the coin page carries no warning note. For the next 90 days we expect **0.00%**, because the small app burns have no schedule. The label that fits SPX6900 is plain: a fixed-supply meme coin where the count cannot go up and only drifts down by crumbs.
+SPX6900 lands in the middle band: mixed flows, supply roughly steady. Over the 90 days from Aug 8 to Nov 6 2026, the circulating supply fell by **157 SPX** out of **930.99M**, a net change of **0.00%**, and we project **0.00%** for the next 90 days. Other trackers show **0.00%** too, so the two readings agree and the coin page carries no warning note. For anyone holding SPX6900, the supply side of the price story is simply switched off: there are no unlock dates to fear and no burn big enough to help. Whatever moves SPX moves it through demand alone.
 
 ## Sell pressure: where new SPX comes from
 
-Protocol inflation is **0**, and it will stay 0. The SPX6900 contract on Ethereum writes the supply of 1B SPX as a fixed number, it has no function that creates coins, and its owner keys were given up when SPX launched in August 2023. Nobody, not even the people who launched it, can mint a single new SPX.
+**Protocol inflation: 0.** SPX6900 was created once, at launch in 2023, as **1B** coins. The SPX6900 contract on Ethereum has no way to make more: the total is written into the code as a fixed number, there is no mint, the contract cannot be swapped for a new version, and its owner key was given up. On-chain, the total stood at exactly **1B** on Aug 8 2026 and again on Nov 6 2026.
 
-Vesting unlocks are **0**. SPX6900 was a fair launch: there was no team share, no investor round and no advisor tokens, so there is no unlock calendar at all. The wallet that created the contract holds 0 SPX.
+**Vesting unlocks: 0.** SPX6900 had no team share, no investor round and no vesting schedule. The coin went straight into a trading pool at launch, and the wallet that launched SPX6900 holds no SPX today, so there is no locked pile that can reach the market on a calendar date.
 
-Foundation and unscheduled unlocks are **0**. SPX6900 has no foundation and no treasury. The one pile tied to the creator is **63,779 SPX** that people sent to the token contract by mistake; the creator wallet can sell it, but those coins already count as circulating, so a sale would not add new supply.
+**Foundation and unscheduled unlocks: 0.** SPX6900 has no foundation and no treasury. The token contract does hold about **63.82K SPX** left over from old trading taxes, and the launch wallet can sell it at any time. Those coins already count as circulating, so a sale would move price, not supply.
 
-Long-term locked or bankruptcy supply is **0**. No court case or bankrupt company holds SPX waiting to be paid out. The liquidity in the main SPX trading pool is locked until 2092, and the **14.34M SPX** inside that pool are already part of the circulating count.
+**Long-term locked or bankruptcy: 0.** No court case, frozen estate or long lock holds SPX waiting to come out. The largest single holder is the cross-chain bridge, with **108.84M SPX**, and every one of those coins backs a copy of SPX6900 on Solana or Base one for one. The copies are the same coins in a different place, not new supply.
 
 ## Buy pressure: where new SPX goes
 
-Programmatic buyback is **0**. SPX6900 earns no fees, so there is no money to buy coins back, and no contract or team does it.
+**Programmatic buyback: 0.** SPX6900 has no company, no fee income and no buyback. Nothing uses money to take SPX off the market on a schedule.
 
-Protocol fee burn is **0**. SPX charges no fee on trades: the launch tax dropped to 0 in 2023 and the contract has no switch to bring it back, so the SPX6900 design itself burns nothing.
+**Protocol fee burn: 0.** The SPX6900 contract has no burn built in. Coins only leave supply when a holder chooses to send them to the burn address, where they can never be spent again.
 
-Foundation buy is **0**. No foundation or company buys SPX for a reserve. Large holders and exchanges trade coins that already circulate, so their buying takes nothing out of the count.
+**Foundation buy: 0.** With no foundation, nobody buys SPX for the project. Whales and traders buy coins that already circulate, which changes who owns SPX6900 but not how many coins exist.
 
-New long-term lock is **0**. SPX has no staking, and the SPX copies on Solana, Base and other chains are each backed one for one by SPX held on Ethereum, so moving SPX between chains does not lock anything away.
+**New long-term lock: 0.** No new lock was set up between Aug 8 and Nov 6 2026. Coins sitting in trading pools still count as circulating.
 
-The only removal is a small extra line: two fan-built apps sent **156.81 SPX** to a dead address between Jul 30 and Oct 28 2026. Most of it, **145.06 SPX**, went in one burn on Sep 1 2026; the rest came in small monthly amounts, the last on Oct 1 2026. These burns are sporadic and have no public schedule, so we count nothing for the next 90 days.
+**Holder burns: 157 SPX.** Two small apps sent **157 SPX** to the burn address in the window. About **147 SPX** went in one go between Sep 1 and Sep 3 2026, and a savings app burned under **10 SPX** a month, the latest on Nov 3 2026. At about $56, that is roughly **0.00002%** of supply. The burns come with no public schedule, so the next 90 days book none.
 
 ## Foundation and overhang
 
-SPX6900 has no foundation, no lab, no DAO treasury and no unscheduled allocation. The only balance the creator can still move is the **63,779 SPX** sitting in the SPX token contract itself, up from 58,572 SPX on Jul 30 2026 as more people sent coins there by mistake. The bridge on Ethereum that backs the SPX copies on other chains holds about **108.83M SPX**; it belongs to the bridge, not to any team, and every coin in it is matched by a copy someone holds elsewhere. If the token contract's balance falls between checks, that outflow goes into the foundation line at the next check.
+SPX6900 has very little overhang because almost nobody holds SPX for the project. The one balance a single party can sell at will is the **63.82K SPX** inside the token contract, collected as trading tax and sellable by the launch wallet. That pile grew from about 58.71K SPX on Aug 8 2026 as small amounts kept arriving. Even sold in full, it is less than **0.01%** of supply.
 
-## How SPX compares to other meme coins
+The burn address holds **69.01M SPX**, the only coins outside the circulating count, and those are gone for good. The cross-chain bridge holds **108.84M SPX** as backing for the Solana and Base copies; that is not an overhang, because the matching coins already trade on those chains. Large private wallets hold tens of millions of SPX each, but those are buyers who already own circulating coins, not a supply source.
 
-Among meme coins, SPX6900 sits at the strictest end. Dogecoin has no cap and adds about 5B DOGE a year to pay miners, so its supply keeps growing forever. SPX can never grow: its count is fixed in the contract, the same hard-cap idea Bitcoin uses, but with no mining and no schedule at all. Every SPX that will ever exist already exists.
+## How SPX compares to other Ethereum meme coins
 
-Many newer meme coins are fixed-supply too, but carry a team or ecosystem share that unlocks over time, and those unlocks are where their sell pressure comes from. SPX6900 has none of that, so the supply side cannot surprise holders with a cliff. Some coins, like Shiba Inu, run steady burn programs; SPX6900 has no burn by design, and the fan app burns are tiny next to its 930.99M SPX in circulation.
+Among meme coins, SPX6900 sits at the strictest end on supply. Dogecoin pays miners new coins in every block forever, so its supply grows by a fixed amount each year. SPX6900 makes nothing at all, which puts it with the fixed-supply Ethereum meme coins such as Pepe, where the whole supply already exists and changes only when holders burn some.
 
-The result is that SPX6900's price is set almost entirely by demand. With no new SPX to absorb and no buyback to lean on, the coin moves on how much people want to hold it, which is why the demand half of the coin page matters more for SPX than the supply half.
+Where those coins differ is how much gets burned. Some meme coins have a burn page, a community burn push or a fee that feeds a burn, and those can take a noticeable slice out over a year. SPX6900 has none of that built in; its burns are a few apps sending small amounts by choice. So SPX6900 has none of the unlock risk other coins carry, and almost none of the burn support either. Its supply is a flat line in both directions.
 
 ## What to watch in the next 90 days
 
-The next monthly app burn is due around Oct 31 2026, with more around Nov 30 and Dec 30 2026; each has been under 1 SPX, so none of them will move the count.
+**Around Dec 1 2026 and Jan 1 2027:** the savings app has burned a few SPX near the start of each month, most recently on Nov 3 2026. The amounts are too small to change the count, but they show whether the burn habit continues.
 
-Watch the SPX token contract's own balance of **63,779 SPX**: if the creator wallet ever sells it, the coins move from the contract to the market, though the circulating count stays the same.
+**Any repeat of the Sep 1 2026 burn:** the larger app burned about 147 SPX over Sep 1 to Sep 3 2026 and has not fired since. A new and much larger burn is the only way the next 90 days could move off 0.00%.
 
-Watch the bridge on Ethereum, now near **108.83M SPX**: SPX moving back from Solana and Base shrinks it, which changes where SPX lives but not how many exist.
+**The 63.82K SPX in the token contract:** a sale from that pile would show on-chain. It would not change supply, but it would be the only seller tied to the launch wallet.
 
-Watch for any new app that burns SPX at a larger size. A real, repeating burn would turn SPX6900 slowly deflationary; nothing like that was announced as of Oct 28 2026.
+**By Feb 4 2027:** the end of the next 90-day window. Unless the SPX6900 contract somehow changes, which its code does not allow, supply should still read close to **930.99M SPX**.
 
 ## Summary
 
-SPX6900 (SPX) is a fixed-supply meme coin: the Ethereum contract caps it at 1B SPX, no one can mint more, and there is no team share, treasury or vesting. In the 90 days to Oct 28 2026, the supply changed by **−0.00%** as fan-built apps burned **156.81 SPX**, and we expect **0.00%** for the next 90 days. Other supply trackers agree within **0.02 points**. The supply side carries no unlock risk, so the main risk for SPX6900 holders is falling demand, not new coins.
+SPX6900 has a hard cap of 1B coins, and the code that runs it cannot make more.
 
-*MrNasDog Pressure Framework analysis of SPX, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 28 2026.*
+Over the 90 days to Nov 6 2026, the only change was **157 SPX** burned by holders, a net **0.00%**, with **0.00%** expected for the next 90 days.
+
+SPX6900 has no team share, no vesting, no foundation and no buyback, so there is no scheduled seller and no scheduled buyer.
+
+For SPX6900, supply is neutral, and price depends on how much people want the coin.
+
+*Checked Nov 6 2026. Data and explanation only, not financial advice.*

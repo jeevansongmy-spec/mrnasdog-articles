@@ -8,7 +8,7 @@ published:     true
 ---
 # BitTorrent (BTT) Supply & Demand: −2.17% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/btt · checked Nov 5 2026*
+*Live page: https://mrnasdog.com/research/btt · checked Nov 6 2026*
 
 BitTorrent (BTT) supply changes **−2.17%** over the next 90 days and **−8.57%** over a year (checked Oct 28 2026).
 
@@ -44,9 +44,9 @@ Almost no new BTT reaches the market over the next 90 days (checked Oct 28 2026)
 
 BitTorrent (BTT) has about 965T coins in circulation as of Oct 28 2026; the next 90 days change that by −2.17% (−8.57% over a year).
 
-### Does BTT have more new supply than SEI, PENDLE or LDO?
+### Does BTT have more new supply than BSV, PENDLE or TRUMP?
 
-Over the next 90 days (checked Oct 28 2026): BTT −2.17%, SEI +4.96%, PENDLE +1.64%, LDO +5.15%. BTT has the least new supply of these 4 coins.
+Over the next 90 days (checked Oct 28 2026): BTT −2.17%, BSV +0.20%, PENDLE +1.64%, TRUMP +11.93%. BTT has the least new supply of these 4 coins.
 
 ## BTT supply
 

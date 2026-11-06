@@ -8,7 +8,7 @@ published:     true
 ---
 # Falcon Finance (FF) Supply & Demand: +18.22% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/ff · checked Nov 5 2026*
+*Live page: https://mrnasdog.com/research/ff · checked Nov 6 2026*
 
 Falcon Finance (FF) supply changes **+18.22%** over the next 90 days and **+72.89%** over a year (checked Oct 28 2026).
 
@@ -26,7 +26,7 @@ Over the next 90 days FF supply changes +18.22%; across a full year, +72.89%. Th
 
 ## Demand: how much people want FF
 
-People's appetite for Falcon Finance is **very low**: 0.5/5, ranked #99 of 109.
+People's appetite for Falcon Finance is **very low**: 0.5/5, ranked #98 of 109.
 
 Members get the rest of the Falcon Finance demand read on mrnasdog.com.
 
@@ -45,7 +45,7 @@ Good for the price: More USDf minted. Bad for it: USDf shrinks. Now: ▲ up side
 | Aug 31 2026 | $1,179M |
 | Sep 30 2026 | $1,213M |
 | Oct 31 2026 | $1,728M |
-| Nov 5 2026 | $1,679M |
+| Nov 6 2026 | $1,680M |
 
 *Checked Oct 28 2026*
 
@@ -90,9 +90,9 @@ In our count, about 609M new FF reaches the market over the next 90 days (checke
 
 Falcon Finance (FF) has about 3.34B coins in circulation as of Oct 28 2026; the next 90 days change that by +18.22% (+72.89% over a year).
 
-### Does FF have more new supply than LDO, SUN or XTZ?
+### Does FF have more new supply than LDO, SUN or SEI?
 
-Over the next 90 days (checked Oct 28 2026): FF +18.22%, LDO +5.15%, SUN −0.03%, XTZ +0.73%. FF has the most new supply of these 4 coins.
+Over the next 90 days (checked Oct 28 2026): FF +18.22%, LDO +5.15%, SUN −0.03%, SEI +4.96%. FF has the most new supply of these 4 coins.
 
 ## Where to read the rest of FF
 

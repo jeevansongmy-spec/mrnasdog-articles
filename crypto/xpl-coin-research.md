@@ -8,7 +8,7 @@ published:     true
 ---
 # Plasma (XPL) Inflation Rate: +14.35% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/xpl — numbers checked Nov 5 2026*
+*Source: https://mrnasdog.com/research/xpl — numbers checked Nov 6 2026*
 
 **+14.35%** in 90 days, **+57.41%** in a year: that is how fast Plasma (XPL) supply changes as of Oct 28 2026.
 
@@ -44,9 +44,9 @@ In our count, about 683M new XPL reaches the market over the next 90 days (check
 
 Plasma (XPL) has about 4.76B coins in circulation as of Oct 28 2026; the next 90 days change that by +14.35% (+57.41% over a year).
 
-### Does XPL have more new supply than VIRTUAL, SPX or BSV?
+### Does XPL have more new supply than CRV, SPX or BSV?
 
-Over the next 90 days (checked Oct 28 2026): XPL +14.35%, VIRTUAL +0.04%, SPX 0.00%, BSV +0.20%. XPL has the most new supply of these 4 coins.
+Over the next 90 days (checked Oct 28 2026): XPL +14.35%, CRV +1.96%, SPX 0.00%, BSV +0.20%. XPL has the most new supply of these 4 coins.
 
 ## Supply: how much new XPL is coming
 
@@ -75,7 +75,7 @@ More dollars on Plasma → price up · Dollars leave Plasma → price down. Now:
 | Aug 31 2026 | $1.05B |
 | Sep 30 2026 | $1.45B |
 | Oct 31 2026 | $1.34B |
-| Nov 5 2026 | $1.4B |
+| Nov 6 2026 | $1.42B |
 
 *Checked Oct 28 2026*
 
@@ -90,7 +90,7 @@ Good for the price: Aave deposits grow. Bad for it: Aave deposits shrink. Today:
 | Aug 31 2026 | $0.509B |
 | Sep 30 2026 | $0.474B |
 | Oct 31 2026 | $0.426B |
-| Nov 5 2026 | $0.421B |
+| Nov 6 2026 | $0.414B |
 
 *Checked Oct 28 2026*
 
