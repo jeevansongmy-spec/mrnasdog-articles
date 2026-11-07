@@ -8,11 +8,11 @@ published:     true
 ---
 # The Graph (GRT) Tokenomics: +1.07% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/grt (checked Nov 5 2026)*
+*Originally published at https://mrnasdog.com/research/grt (checked Nov 7 2026)*
 
 As of Oct 29 2026, new The Graph supply runs at **+1.07%** over 90 days and **+4.30%** over 12 months.
 
-- **Long-run signal:** negative (Nov 5 2026)
+- **Long-run signal:** negative (Nov 7 2026)
 - **Score:** 3.5/10 — supply 2/5, demand 1.5/5
 - **New supply:** +1.07% in 90 days · +4.30% in a year
 - **Demand:** very weak (1.5/5)

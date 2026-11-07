@@ -8,14 +8,14 @@ published:     true
 ---
 # Gnosis (GNO) Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/gno · checked Nov 5 2026*
+*Live page: https://mrnasdog.com/research/gno · checked Nov 7 2026*
 
 Gnosis (GNO) supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Oct 29 2026).
 
 - **Long-run signal:** mixed (by the law of supply and demand)
-- **Score:** 5.5/10 — supply 4.5/5, demand 1/5
+- **Score:** 5/10 — supply 4.5/5, demand 0.5/5
 - **New supply:** 0.00% in 90 days · 0.00% in a year
-- **Demand:** low (1/5)
+- **Demand:** very low (0.5/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## Gnosis supply questions, answered
@@ -44,9 +44,9 @@ Almost no new GNO reaches the market over the next 90 days (checked Oct 29 2026)
 
 Gnosis (GNO) has about 2.64M coins in circulation as of Oct 29 2026; the next 90 days change that by 0.00% (0.00% over a year).
 
-### Does GNO have more new supply than XTZ, PIEVERSE or BONK?
+### Does GNO have more new supply than XTZ, PENDLE or BONK?
 
-Over the next 90 days (checked Oct 29 2026): GNO 0.00%, XTZ +0.73%, PIEVERSE +25.93%, BONK 0.00%. GNO sits in the middle of these 4 coins.
+Over the next 90 days (checked Oct 29 2026): GNO 0.00%, XTZ +0.73%, PENDLE +2.58%, BONK 0.00%. GNO sits in the middle of these 4 coins.
 
 ## Supply — new GNO in the next 90 days
 
@@ -56,7 +56,7 @@ Over the next 90 days GNO supply changes 0.00%; across a full year, 0.00%. That 
 
 ## GNO demand
 
-People's appetite for Gnosis is **low**: 1/5, ranked #92 of 109.
+People's appetite for Gnosis is **very low**: 0.5/5, ranked #98 of 109.
 
 Extra Gnosis demand detail for members stays on the live page.
 
@@ -75,7 +75,7 @@ Good for the price: Backing per GNO grows. Bad for it: Backing shrinks. Right no
 | Aug 31 2026 | 117 USD | — |
 | Sep 30 2026 | 118 USD | — |
 | Oct 31 2026 | 105 USD | 123 USD |
-| Nov 5 2026 | 113 USD | 131 USD |
+| Nov 7 2026 | 113 USD | 124 USD |
 
 *Checked Oct 29 2026*
 

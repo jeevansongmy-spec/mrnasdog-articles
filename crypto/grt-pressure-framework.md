@@ -1,69 +1,73 @@
 ---
-title:         "GRT Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description:   "GRT is inflationary: 75.15M newly minted GRT and a 38.75M Foundation unlock against a 59.9K burn give +1.04% in 90 days, about +1.07% next. No supply cap."
+title:         "GRT Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
+description:   "GRT is inflationary: 77.75M newly minted GRT and a 38.75M Foundation unlock against a 62.5K burn give +1.06% in 90 days, about the same next. No hard cap."
 canonical_url: "https://mrnasdog.com/research/grt/inflation"
 tags:          ["crypto", "grt", "the-graph", "infrastructure"]
 published:     true
 ---
-Originally published at [GRT Inflation Analysis · October 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/grt/inflation).
+Originally published at [GRT Inflation Analysis · November 2026 · Supply growing · projected to keep growing](https://mrnasdog.com/research/grt/inflation).
 
-# GRT Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+# GRT Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 
 <!-- main-page -->
 ➜ Start with the The Graph coin page for the short answer (should you buy GRT?) and its price drivers: [mrnasdog.com/research/grt](https://mrnasdog.com/research/grt)
 
-The Graph (GRT) is inflationary: supply grew **+1.04%** in the 90 days from Jul 31 to Oct 29 2026, and we expect about **+1.07%** over the next 90 days. The network minted **75.15M GRT** for indexers and a Foundation fund, and the Graph Foundation's lock paid out **38.75M GRT**, while query and curation taxes burned only **59,878 GRT**. GRT has no supply cap, so new coins arrive with every Ethereum block for as long as governance keeps the current rate.
+GRT supply grew about **+1.06%** in the 90 days from Aug 9 to Nov 7 2026 and should grow about the same in the next 90 days, so supply is growing and set to keep growing. The Graph mints about **77.75M GRT** per 90 days with no cap and a Foundation lock released another **38.75M GRT**, while fee burns destroyed only **62.5K GRT**. Other trackers show **+1.31%** for the same 90 days, mostly because of a one-time recount.
 
 ## The verdict, in one paragraph
 
-Over the last 90 days The Graph added **113.90M GRT** to the market and removed **59,878 GRT**, a net **+1.04%** on a circulating base of **10.94B GRT**. For the next 90 days we expect **116.69M GRT** of new supply against the same small burn, or about **+1.07%**. Other trackers show **+1.31%** for the same 90 days, which is **0.27 points** higher than our figure; the difference is small, so the coin page carries no warning note. GRT is a work token that is **inflationary by design**: the people who run the network are paid in new coins, and almost nothing takes coins back out.
+GRT is inflationary. Over the 90 days to Nov 7 2026 about **116.50M GRT** entered the market against about **62.5K GRT** burned, a net rise of **+1.06%** on a circulating supply of **10.94B GRT**. The next 90 days look the same, because the minting runs block by block and the Foundation lock opens one slice a month on a fixed schedule. Other trackers show **+1.31%**, a gap of **0.25 points**; most of their higher figure comes from a one-time recount of the circulating number on Aug 19 2026, not from new GRT. The gap is small, so the coin page carries no warning note. Our label for GRT this quarter: steady, built-in inflation with almost nothing burned against it.
 
 ## Sell pressure: where new GRT comes from
 
-Protocol inflation is the biggest source. The Graph mints **120.73 GRT** for every Ethereum block, about **866,000 GRT** a day, and pays it out on Arbitrum, where the protocol now lives. In these 90 days that came to **75.15M GRT**. Most of it went to indexers, the operators who store and serve blockchain data, and they share it with the delegators who back them.
+**Protocol inflation, about 77.75M GRT per 90 days.** The Graph pays the indexers who serve its data in newly minted GRT, **120.73 GRT** for every Ethereum block, which comes to close to 866,000 GRT a day. The minting happens on Arbitrum, where the protocol now runs. Since Sep 1 2026 about 80% of it goes to indexers and the people who delegate GRT to them, and 20% goes to the Foundation's new Innovation Allocation, a fund for products and partners approved by The Graph Council. Since Aug 25 2026, rewards that indexers lose for not meeting the new service rules are still minted, but into a separate reclaim pot instead of to the indexer. The total did not change with either step; only where the new coins land did.
 
-Two changes in late summer moved where that money lands, not how much is made. Since Sep 1 2026, a fifth of the issuance, **24.146 GRT** per block, goes straight to a Foundation fund for building and running the network. From late August 2026, indexers that miss the new service checks lose their rewards, and that share is set aside in a separate pot instead. Because the fund is now paid every block rather than when indexers claim, the minting runs close to the full rate, so we expect about **77.94M GRT** in the next 90 days.
+**Vesting unlocks, 38.75M GRT.** The Graph Foundation's original allocation of 2B GRT vests from a lock contract that pays out **12.92M GRT** a month until Dec 17 2030. Three slices were claimed in the window, on Aug 25, Sep 23 and Oct 26 2026, and **645.83M GRT** is still locked. The next three slices open on Nov 17 2026, Dec 17 2026 and Jan 17 2027, so the next 90 days carry the same 38.75M. The team, early backer and Edge & Node schedules have already finished.
 
-Vesting unlocks are the second source. The Graph Foundation's 10-year lock releases **12.92M GRT** once a month until Dec 17 2030. It paid out on Aug 25, Sep 23 and Oct 26 2026, **38.75M GRT** in all, and each payment moved on to other wallets within two days. Three more payments start on Nov 17 2026, Dec 17 2026 and Jan 17 2027, another **38.75M GRT**.
+**Foundation and unscheduled unlocks, zero.** The Foundation's pots already count as circulating, so spending from them moves coins between holders without adding any. The Innovation Allocation paid 6.96M GRT to builders in the window, and that adds nothing new.
 
-Foundation and unscheduled unlocks add nothing: the Foundation's other pots already count as circulating, so spending from them only moves coins that are already in the market. Long-term locked supply is also zero. There is no bankruptcy estate holding GRT, and the team, investor and Edge & Node schedules all finished by December 2025.
+**Long-term locked or bankruptcy, zero.** No court estate or bankruptcy pile of GRT is waiting to be paid out, and no other long lock is due to open in the next 90 days.
 
 ## Buy pressure: where new GRT goes
 
-There is no programmatic buyback. No contract or treasury buys GRT on the market. A holder asked on the forum on Sep 5 2026 for part of protocol revenue to buy and burn GRT, but no one has turned it into a vote.
+**Programmatic buyback, zero.** Nothing buys GRT back on the network's behalf. A holder posted an idea on Sep 5 2026 to spend a quarter of protocol revenue on buying and burning GRT, but it has had no official reply and no vote.
 
-The protocol fee burn is the only steady removal. One percent of every query payment is destroyed, and so is a small tax when people curate subgraphs. In these 90 days that burned **59,878 GRT**, about 665 a day, because apps paid only around **$58,000** for queries on the network. The burn cancels less than **0.1%** of the new GRT.
+**Protocol fee burn, about 62.5K GRT.** The Graph burns a 1% tax on the query fees apps pay and the tax charged when people signal on subgraphs. From Aug 9 to Nov 7 2026 those burns, plus about 259 GRT that holders sent to dead addresses, destroyed about **62,500 GRT**. That is less than 0.1% of the new GRT minted in the same time, because query fees are small next to the rewards.
 
-A Foundation buy is zero: the Foundation receives GRT from its lock and from issuance and passes it on; we found no purchase in these 90 days. A new long-term lock is zero as well. About **1.84B GRT** is staked by indexers and delegators, down from **2.10B GRT** on Jul 31 2026, but staked GRT still counts as circulating, so staking takes nothing out of the count.
+**Foundation buy, zero.** The Foundation spends GRT on grants and its own work and does not buy any back.
+
+**New long-term lock, zero.** GRT that is staked or delegated to indexers still counts as circulating and can be withdrawn after a short wait, so staking takes nothing out of the count.
 
 ## Foundation and overhang
 
-The largest overhang is the Foundation lock itself, which still holds **645.83M GRT**. It is on a fixed schedule, so we book each monthly payment in the vesting row as it comes due rather than all at once.
+The biggest overhang is the Foundation's own lock: **645.83M GRT** on Nov 7 2026, opening at 12.92M a month for about four more years. Each slice goes to a Foundation wallet and is passed on within a day or two, so it does not pile up there. The Foundation's Innovation Allocation held about **4.36M GRT** on Nov 7 2026 after paying out 6.96M, and it keeps filling at about 15M GRT every 90 days. The reclaim pot held **4.58M GRT** and has paid out nothing; the Foundation said in early November 2026 that no decision has been made on how it will be used. These pots already count as circulating, so they matter for who might sell, not for the supply count.
 
-Three smaller Foundation-side balances sit inside the market already. The building fund created on Sep 1 2026 holds **2.79M GRT** after paying out **6.96M**. The pot of rewards withheld from indexers that failed the service checks holds **4.32M GRT** and has not paid anything out. The two Foundation safes that receive the monthly unlock hold almost nothing between payments, because each payment is passed on within a day or two. We check all of these balances on-chain. If any of them falls between checks, the outflow goes into the Foundation and unscheduled unlocks row at the next check.
+## How GRT compares to other data-network tokens
 
-## How GRT compares to other data and work-token networks
+GRT works like a proof-of-stake chain token even though The Graph is not a chain: new coins pay the people who do the work, here indexers, and there is no cap. Chainlink's LINK has a fixed supply and grows the market amount only by releasing coins it already holds, so LINK has no minting at all. Filecoin pays its storage providers in new coins too, and it also burns network fees, so its burn is built into everyday use rather than a small tax on one kind of fee.
 
-GRT sits in the group of tokens that pay operators to do work: serve data, store files or run jobs. Inside that group, The Graph is one of the plainer inflation designs. It mints a fixed amount per Ethereum block with no cap and no halving, and its only built-in removal is a **1%** tax on query payments. As long as query spending stays small, new issuance outweighs the burn by more than a thousand to one.
-
-Filecoin also pays its operators with newly minted coins, but it burns network fees and locks coins as collateral from storage providers, so more use pulls more coins out of the market. Render runs a burn-and-mint design in which users burn tokens to pay for work while operators receive new ones, so heavy use can offset emissions. Chainlink sits at the other end: it has a fixed cap of one billion LINK and no protocol issuance, and its supply grows only when the team releases coins from its reserve wallets.
-
-Compared with these, GRT's supply depends far more on governance than on usage. The rate of new coins is set by a single protocol number, and the burn only matters if query payments grow many times over.
+The Graph's 2026 changes moved GRT toward paying for real work. Rewards now go only to indexers that serve queries well, and a fifth of new coins now funds new products through the Foundation. Neither step cut the total minted. GRT's burn is tied to query fees, so it only grows if paid use of the network grows a lot.
 
 ## What to watch in the next 90 days
 
-On Nov 17 2026 the Foundation lock reaches its next monthly payment of **12.92M GRT**, followed by Dec 17 2026 and Jan 17 2027; a payment that is skipped or delayed past the window would lower our forecast.
+**Nov 17 2026:** the next Foundation slice of 12.92M GRT opens, and the same day the service rules tighten again. Indexers with more than 40M GRT staked must serve one qualifying subgraph per 4M GRT, or lose rewards to the reclaim pot. That moves where new GRT lands, not how much is minted.
 
-The move of BSC and Polygon subgraphs from the free Studio onto the paid network was almost done on Oct 27 2026, with fewer than 78 of more than 860 left. If that lifts query payments, the burn grows with them.
+**Dec 17 2026:** another 12.92M GRT slice opens, and Japan's Coincheck ends GRT trading that day, after announcing on Nov 6 2026 that it is dropping six tokens for low trading.
 
-GIP-0090, posted on Sep 23 2026, asks for **0.1%** of issuance to fund a community group. It would come out of the same 120.73 GRT per block, so it would not change total supply.
+**Jan 17 2027:** the third slice in the window opens, bringing the next 90 days to 38.75M GRT from the lock.
 
-Any proposal to cut the issuance rate, or to spend revenue on buying and burning GRT, would change this ledger more than anything else; none was up for a vote on Oct 29 2026. We also watch whether the **4.32M GRT** of withheld rewards is sent out.
+**Open, no date:** a proposal to send 0.1% of new GRT to a community group, GIP-0090, lost Foundation support on Nov 6 2026 and would only split the same minting. Any decision on the reclaim pot, or on the Sep 5 2026 idea to buy and burn GRT with revenue, would be the first real change to the buy side.
 
 ## Summary
 
-The Graph's GRT supply grew **+1.04%** in the 90 days to Oct 29 2026 and is projected to grow about **+1.07%** in the next 90 days. New coins come from issuance of 120.73 GRT per Ethereum block and from the Graph Foundation's monthly unlock of 12.92M GRT, which runs until Dec 17 2030. The only removal is a small tax burn on queries and curation, under 60,000 GRT in 90 days. GRT has no supply cap, so the main risk for holders is steady dilution of roughly 4% a year unless governance lowers issuance or query spending grows sharply.
+GRT supply grew about **+1.06%** in the 90 days to Nov 7 2026 and should grow about the same in the next 90 days.
+
+The Graph mints about **77.75M GRT** every 90 days for indexers and a Foundation fund, and a Foundation lock adds **38.75M GRT** on a fixed monthly schedule until Dec 17 2030.
+
+Fee burns of about **62.5K GRT** cancel less than 0.1% of that, and nothing buys GRT back.
+
+Other trackers show **+1.31%** because of a one-time recount on Aug 19 2026, so the coin page carries no warning note.
 
 ---
 
-*MrNasDog Pressure Framework analysis of GRT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 29 2026.*
+*MrNasDog Pressure Framework analysis of GRT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 7 2026.*

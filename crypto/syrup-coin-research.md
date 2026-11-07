@@ -8,11 +8,11 @@ published:     true
 ---
 # Maple Finance (SYRUP) Tokenomics: +1.06% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/syrup (checked Nov 5 2026)*
+*Originally published at https://mrnasdog.com/research/syrup (checked Nov 7 2026)*
 
 As of Oct 29 2026, new Maple Finance supply runs at **+1.06%** over 90 days and **+4.25%** over 12 months.
 
-- **Signal today:** mixed (Nov 5 2026)
+- **Signal today:** mixed (Nov 7 2026)
 - **MrNasDog score:** 5/10 — supply 2/5, demand 3/5
 - **New coins:** +1.06% in 90 days · +4.25% in a year
 - **Demand:** moderate (3/5)
@@ -26,7 +26,7 @@ New SYRUP: +1.06% in 90 days, +4.25% in a year. Supply score 2/5, "growing" (pla
 
 ## Who wants Maple Finance right now
 
-Maple Finance demand: 3/5 (**moderate**), place #34 among 109 coins — interest today plus the buying that could come later.
+Maple Finance demand: 3/5 (**moderate**), place #33 among 109 coins — interest today plus the buying that could come later.
 
 The members-only part of SYRUP's demand section is not included.
 

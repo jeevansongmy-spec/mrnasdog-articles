@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Tezos (XTZ) Inflationary? +0.73% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/tezos, updated Nov 5 2026*
+*From https://mrnasdog.com/research/tezos, updated Nov 7 2026*
 
 How much new XTZ is coming? **+0.73%** in the next 90 days, **+2.92%** in the next year — checked Oct 29 2026.
 
@@ -33,7 +33,7 @@ Good for the price: More money on Etherlink. Bad for it: Money leaves Etherlink.
 | Aug 31 2026 | $14.9M |
 | Sep 30 2026 | $16.1M |
 | Oct 31 2026 | $17.4M |
-| Nov 5 2026 | $17.4M |
+| Nov 7 2026 | $17.5M |
 
 *Checked Oct 29 2026*
 
@@ -79,7 +79,7 @@ Tezos adds +0.73% new supply in the next 90 days and +2.92% over a year — supp
 
 ## How strong is Tezos demand?
 
-Demand reads **modest** (2.5/5), #47 of 109 coins we track — that is how much people want XTZ now and how much buying could still come.
+Demand reads **modest** (2.5/5), #45 of 109 coins we track — that is how much people want XTZ now and how much buying could still come.
 
 Extra Tezos demand detail for members stays on the live page.
 
@@ -109,9 +109,9 @@ In our count, about 8.06M new XTZ reaches the market over the next 90 days (chec
 
 About 1.1B XTZ is in circulation (checked Oct 29 2026). Over the next 90 days that changes +0.73%, and over a year +2.92%.
 
-### Does XTZ have more new supply than SUN, GNO or PIEVERSE?
+### Does XTZ have more new supply than STRK, GNO or PENDLE?
 
-Over the next 90 days (checked Oct 29 2026): XTZ +0.73%, SUN −0.03%, GNO 0.00%, PIEVERSE +25.93%. XTZ sits in the middle of these 4 coins.
+Over the next 90 days (checked Oct 29 2026): XTZ +0.73%, STRK +9.23%, GNO 0.00%, PENDLE +2.58%. XTZ sits in the middle of these 4 coins.
 
 ## Where to read the rest of XTZ
 

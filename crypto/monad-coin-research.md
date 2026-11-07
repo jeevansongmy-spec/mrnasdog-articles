@@ -8,11 +8,11 @@ published:     true
 ---
 # Monad (MON) Tokenomics: +149.88% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/monad (checked Nov 5 2026)*
+*Originally published at https://mrnasdog.com/research/monad (checked Nov 7 2026)*
 
 As of Oct 29 2026, new Monad supply runs at **+149.88%** over 90 days and **+225.20%** over 12 months.
 
-- **Signal:** mixed (Nov 5 2026)
+- **Signal:** mixed (Nov 7 2026)
 - **Score:** 4/10 — supply 0/5, demand 4/5
 - **Supply growth:** +149.88% in 90 days · +225.20% in a year
 - **How much people want it:** strong (4/5)
@@ -58,7 +58,7 @@ Foundation keeps holding → price up · Foundation sells → price down. Right 
 
 ## MON demand
 
-Monad demand: 4/5 (**strong**), place #9 among 109 coins — interest today plus the buying that could come later.
+Monad demand: 4/5 (**strong**), place #10 among 109 coins — interest today plus the buying that could come later.
 
 Members get the rest of the Monad demand read on mrnasdog.com.
 

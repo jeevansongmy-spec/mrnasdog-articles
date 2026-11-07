@@ -1,6 +1,6 @@
 ---
-title:         "ETH Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description:   "ETH burn rate today, live from the chain, plus the 90-day view: 265K new ETH to validators vs a 6.04K ETH fee burn, +0.21% net. No unlocks and no cap."
+title:         "ETH Inflation Analysis · November 2026 · Mixed flows · supply roughly steady"
+description:   "ETH burn rate today, live from the chain, plus the 90-day view: 266K new ETH to validators vs a 6.39K ETH fee burn, +0.21% net. No unlocks, no supply cap."
 canonical_url: "https://mrnasdog.com/research/eth/inflation"
 tags:          ["crypto", "eth", "ethereum", "staking"]
 published:     true
@@ -10,62 +10,66 @@ published:     true
 <!-- main-page -->
 ➜ Start with the Ethereum coin page for the short answer (should you buy ETH?) and its price drivers: [mrnasdog.com/research/eth](https://mrnasdog.com/research/eth)
 
-# ETH Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+# ETH Inflation Analysis · November 2026 · Mixed flows · supply roughly steady
 
-Ethereum's supply is growing slowly and steadily: up **+0.21%** in the 90 days from Aug 1 to Oct 30 2026, and on course for about **+0.21%** in the next 90 days. Validators were paid **265,235 ETH** of new issuance while the fee burn destroyed **6,045 ETH**, and ETH has no supply cap, no vesting and no buyback. Other trackers show **+1.24%** for the same period because of a one-day recount in their supply figure, so the coin page carries a warning note.
+ETH supply grew about **+0.21%** in the 90 days from Aug 9 to Nov 7 2026, and it should grow about the same in the next 90 days: mixed flows, with supply roughly steady. Ethereum pays its validators in newly made coins, **265,580 ETH** in the window, while the fee burn destroyed **6,387 ETH**, and there is no cap on how many ETH can exist. Other trackers show **+1.25%** for the same 90 days, because their supply figure was recounted in one step on Sep 3 2026, not because more ETH was made.
 
 ## ETH burn rate today
 
-The page opens with a live "ETH burn rate today" box, read from the chain once a day: ETH burned in the last 24 hours, new ETH paid to validators a day (about **2,947 ETH**, the 90-day pace), and the net change. On a normal day the burn cancels only a few percent of new issuance, so ETH supply keeps growing a little; on Oct 29 2026, the night of the Binance hack, about 1,600 ETH burned in four hours. For today's numbers, see [mrnasdog.com/research/eth/inflation](https://mrnasdog.com/research/eth/inflation).
+The page opens with a live "ETH burn rate today" box, read from the chain once a day: ETH burned in the last 24 hours, new ETH paid to validators each day (about **2,950 ETH**, the 90-day pace), and the net change. On an ordinary day the burn cancels only a small slice of new issuance, so ETH supply keeps rising a little; on the night of the Oct 29 2026 Binance hack, about 1,745 ETH burned in six hours. For today's numbers, see [mrnasdog.com/research/eth/inflation](https://mrnasdog.com/research/eth/inflation).
 
 ## The verdict, in one paragraph
 
-Over the 90 days to Oct 30 2026, ETH supply rose by a net **+0.21%**, from about 121.91M to 122.17M ETH. Other trackers report **+1.24%** for the same 90 days, a gap of **1.03 percentage points**, so the coin page shows a warning note. The gap is not new ETH: the supply figure those trackers use sat near 120.68M ETH until Sep 2 2026 and then jumped by 1.33M ETH on Sep 3 2026 to catch up with the chain, while on-chain supply rose by only about 2,900 ETH that day. Our reading is **+0.21%**, and the next 90 days look about the same. In one line, ETH today is a slowly inflating proof-of-stake coin whose fee burn offsets only a small slice of new issuance.
+From Aug 9 to Nov 7 2026 the ETH supply rose by a net **+0.21%**, and the next 90 days, at the same pace, come to about **+0.21%** again. Other trackers show **+1.25%**, a difference of **1.04 percentage points**, so the coin page carries a warning note. That higher number comes from a supply figure that stood still near 120.68M ETH from Aug 9 to Sep 2 2026 and then jumped 1.33M ETH on Sep 3 2026 to catch up with the chain. The chain itself grew by 259,193 ETH over the whole window. In one line: Ethereum is a steady, uncapped proof-of-stake chain whose new coins go to validators and whose burn takes back only a small slice.
 
 ## Sell pressure: where new ETH comes from
 
-Protocol issuance is the only source of new ETH. Ethereum pays validators freshly created ETH every epoch for proposing blocks and voting on the chain, and from Aug 1 to Oct 30 2026 that came to **265,235 ETH**, close to **2,950 ETH a day**. The pay scales with the square root of the total stake, so it rises as more ETH is staked: about **44.09M ETH** was securing the chain on Oct 30 2026, and another **1.22M ETH** was waiting in the entry queue. If every validator did its job perfectly, today's stake would earn about 3,016 ETH a day; the real figure is a little lower because some validators miss duties.
+Protocol inflation is the only source of new ETH: validators received **265,580 ETH** in the 90 days, close to 2,950 ETH a day, for proposing and confirming blocks. The pay is set by how much ETH is staked, not by a calendar, and the stake keeps growing. About **44.35M ETH** secures the network today, and close to 1M ETH more was waiting in the queue to join on Nov 7 2026, so this flow edges up a little each month rather than falling.
 
-Vesting unlocks are zero. ETH was sold to the public in 2014 and the genesis allocations became spendable when the network launched in July 2015, so no team or investor tranche is still locked.
+Vesting unlocks are **zero**. ETH has no vesting schedule at all: the coins from the 2014 public sale and the launch allocation have been free to move since July 2015, so no locked batch is waiting for a date.
 
-Foundation and unscheduled unlocks are zero. The Ethereum Foundation does spend ETH: its main wallet fell from 7,774 to **5,774 ETH** over the window, and it sold 2,785 ETH on Oct 26 2026. But every one of those coins already counted as circulating, so a Foundation sale moves ETH from one holder to another rather than adding to supply.
+Foundation and unscheduled unlocks are **zero**. The Ethereum Foundation does sell ETH to pay for research and grants. Its main wallet sent out 2,000 ETH between Aug 9 and Nov 7 2026, and news reported a sale of about 2,785 ETH in late October. But every ETH in existence already counts as circulating, so these sales move coins from one holder to another without adding any new ETH.
 
-Long-term locked or bankruptcy supply is zero. No court estate or bankruptcy pile of ETH is scheduled for release. The roughly 420,000 ETH held by the thief behind the Oct 29 2026 Binance hack is a different worry, a possible seller, but those coins were already circulating and add nothing to the count.
+Long-term locked or bankruptcy supply is **zero**. No court estate or failed firm holds ETH waiting to be released. The thief behind the Oct 29 2026 Binance hack now holds more than 420,000 ETH, but those coins were already circulating before they were stolen, so they do not raise the count either.
 
 ## Buy pressure: where new ETH goes
 
-Programmatic buyback is zero. No contract or treasury buys ETH back on the network's behalf.
+The programmatic buyback is **zero**. No contract or treasury buys ETH back for the network; the burn below is the only built-in way ETH leaves supply.
 
-The protocol fee burn is the one real removal. Every transaction's base fee is destroyed, and so is the fee rollups pay for blob space. Across all 645,552 blocks from Aug 1 to Oct 30 2026 the burn came to **6,045 ETH**, and blobs made up only 8.6 ETH of that. A single night did much of the work: about **1,600 ETH** burned in the four hours after the Binance hack began on Oct 29 2026, as people rushed to move coins. Even with that rush, the burn cancelled only **2.3%** of new validator pay.
+The protocol fee burn destroyed **6,387 ETH** across all 645,564 blocks in the window. Every transaction burns its base fee, and rollups burn a separate fee for posting blob data, though blobs added only about 10 ETH. The busiest stretch was the night of the Binance hack: in the six hours after it began on Oct 29 2026, people rushed to move coins and burned some 1,745 ETH, more than a quarter of the 90-day total. On a normal day the burn takes back only a few dozen ETH, against close to 3,000 ETH of new validator pay.
 
-Foundation buying is zero. The Foundation funds itself by selling ETH, not buying it. Spot funds and listed treasury companies do buy, and the largest company holder reported 6.05M ETH on Oct 25 2026, but they buy coins that already circulate, so the count does not change.
+The Foundation buy is **zero**. The Foundation sells to fund its work and does not buy back. Spot funds and listed companies that buy ETH buy coins that already circulate, so their buying takes nothing out of the count, just as their selling adds nothing.
 
-New long-term locks are zero. Staked ETH is still counted as circulating, so even a record stake takes nothing out of supply.
+The new long-term lock is **zero**. Staked ETH still counts as circulating, so a bigger stake does not shrink the supply. A draft proposal to burn part of validator pay as the stake grows was taken off the next upgrade on Oct 1 2026 and has no date.
 
 ## Foundation and overhang
 
-The Ethereum Foundation is the only team-controlled holder worth naming. Its four known wallets held about **94.31K ETH** on Oct 30 2026: the main wallet **5,774 ETH** (2,000 less than on Aug 1), a multisig wallet 68,222 ETH, a second multisig 20,176 ETH and a small wallet 134 ETH. The Foundation also staked about 69.5K ETH in spring 2026. In this period it sold 2,785 ETH on Oct 26 2026, and two wallets linked to it sent 4,393 ETH to an exchange in mid-October 2026. All of this ETH is already part of the 122.17M in circulation, so it is a selling risk rather than new supply. If Foundation coins ever came from outside the circulating count, they would enter the unscheduled unlocks line at the next check. Today, ETH has no team overhang in the supply sense.
+The only team-linked holder of size is the Ethereum Foundation. Its four known wallets held about **94.34K ETH** on Nov 7 2026: about 68.26K ETH in its main multisig safe, which grew by roughly 432 ETH of staking pay in the window; about 20.18K ETH in a second multisig that did not move; about 5.77K ETH in its oldest main wallet, down 2,000 ETH; and about 134 ETH in an early wallet. On top of that, it staked roughly 69.5K ETH by April 2026 and keeps the rewards. We re-read these wallets at every rebuild. Because every ETH is already counted as circulating, a sale from them moves coins inside the float; only if a balance outside the circulating count ever appeared would an outflow from it enter the Foundation row at the next refresh.
 
 ## How ETH compares to other proof-of-stake Layer 1 chains
 
-ETH has no hard cap, unlike Bitcoin's fixed 21M with halvings. Its issuance is not a fixed percentage either: it follows the size of the stake, paying more in total as more ETH is staked but less per staked coin. That makes Ethereum's new supply quite predictable over 90 days, because the stake moves slowly.
+Bitcoin is the clean opposite: a hard cap of 21M coins and a block reward that halves about every four years, so its new supply falls on a timetable no one can change without a fork. ETH has no cap and no halving. Its issuance follows the size of the stake instead, so it rises when more ETH is staked and falls when stakers leave.
 
-Compared with other proof-of-stake Layer 1 chains, ETH's yearly issuance of under 1% of supply is low. Solana and Cardano both release new coins on fixed schedules that still add a few percent a year, and those schedules do not care how many coins are staked. What sets Ethereum apart is that its burn grows with use: in very busy periods the burn can match or beat issuance, while in quiet periods like most of this window it barely dents it. Solana burns part of its fees too, but its fees are tiny, so its burn is small next to its new supply.
+Among proof-of-stake chains, many pay stakers on a fixed yearly schedule that steps down over time toward a low floor. ETH works differently: its pay grows with the square root of the total stake, so each extra staked coin adds a little less. Ethereum also burns the base fee of every transaction, which most chains do not do in full. When the network is very busy the burn can outrun issuance and shrink the supply; at today's activity it covers only a few percent of new coins.
+
+Compared with exchange and app tokens that burn on a set schedule, ETH has no treasury buying coins back. Its only sink is usage, so the ETH supply story is tied directly to how much people pay to use the chain.
 
 ## What to watch in the next 90 days
 
-First, the Glamsterdam upgrade. Its fork on the Hoodi test network, set for Oct 26 2026, was called off with no new date after a security review flagged two gas changes, and mainnet has no date. It does not change validator pay, but a busier chain would lift the burn.
+The Glamsterdam upgrade: its Hoodi test-network fork, first set for Oct 26 2026, was postponed on Oct 22 2026, and on Nov 6 2026 core developers said they will not fork Hoodi until smart contract risks from its new gas rules are resolved, so mainnet has no date and nothing in it changes validator pay or the burn.
 
-Second, the Binance hacker's ETH. After Oct 29 2026 the thief holds more than 420,000 ETH. Any sale moves existing coins and does not change supply, but it would test buyers.
+The issuance-burn proposal: the draft to burn part of validator pay, withdrawn from the Hegotá upgrade on Oct 1 2026, would cut new ETH if it ever returns, so any new date for it matters more than any other item on this list.
 
-Third, the staking queue. About 1.22M ETH was waiting to join validators on Oct 30 2026; as it enters, validator pay will creep up a little.
+The staking queue: close to 1M ETH was waiting to join on Nov 7 2026, and if it all enters, validator pay rises a little, by roughly 1% more new ETH per 90 days.
 
-Fourth, the tapered issuance burn draft. It would burn a rising share of validator pay as the stake grows, but its authors pulled it from the upgrade list on Oct 1 2026 and moved the debate to a separate process. With no upgrade date, it cannot change supply before Jan 28 2027.
+Other trackers' figure: around Dec 2 2026 the Sep 3 2026 recount leaves their 90-day window, and their number should drop back close to **+0.2%**, which is when the warning note can come off.
+
+Busy nights: the burn jumps when people rush to move coins, as on Oct 29 2026, so a new market shock would lift the burn for a few hours but would not change the 90-day picture much.
 
 ## Summary
 
-Ethereum's supply grew **+0.21%** over the 90 days to Oct 30 2026 and should grow about the same over the next 90 days. Validators received **265,235 ETH** of new issuance, while the fee burn destroyed **6,045 ETH**, about 2.3% as much. ETH has no vesting, no buyback and no supply cap, so the burn is its only brake, and it bites only when the chain is busy. Other trackers show a higher figure because of a one-day recount on Sep 3 2026, not because of new ETH.
+ETH supply grew about **+0.21%** in the 90 days to Nov 7 2026 and is on course for about the same in the next 90 days, a mixed reading with supply roughly steady. Ethereum pays validators about **265,580 ETH** of new coins per 90 days, and the fee burn takes back about **6,387 ETH**, so new supply wins easily at today's activity. ETH has no supply cap and no vesting, and every coin is already circulating, so the main risk to this picture is a growing stake, not an unlock. Other trackers show **+1.25%** only because of a one-day recount on Sep 3 2026, not because of new ETH.
 
 ---
 
-*MrNasDog Pressure Framework analysis of ETH, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 30 2026.*
+*MrNasDog Pressure Framework analysis of ETH, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 7 2026.*

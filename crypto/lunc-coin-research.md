@@ -8,7 +8,7 @@ published:     true
 ---
 # Terra Luna Classic (LUNC) Supply & Demand: −0.18% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/lunc · checked Nov 5 2026*
+*Live page: https://mrnasdog.com/research/lunc · checked Nov 7 2026*
 
 Terra Luna Classic (LUNC) supply changes **−0.18%** over the next 90 days and **−0.72%** over a year (checked Oct 29 2026).
 

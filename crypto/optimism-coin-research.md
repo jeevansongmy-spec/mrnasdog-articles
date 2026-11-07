@@ -8,7 +8,7 @@ published:     true
 ---
 # Optimism (OP) Inflation Rate: +0.94% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/optimism — numbers checked Nov 5 2026*
+*Source: https://mrnasdog.com/research/optimism — numbers checked Nov 7 2026*
 
 **+0.94%** in 90 days, **+2.29%** in a year: that is how fast Optimism (OP) supply changes as of Oct 29 2026.
 
@@ -94,7 +94,7 @@ Optimism (OP) has about 2.29B coins in circulation as of Oct 29 2026; the next 9
 
 ### Does OP have more new supply than KITE, LUNC or MON?
 
-Over the next 90 days (checked Oct 29 2026): OP +0.94%, KITE +39.63%, LUNC −0.18%, MON +149.88%. OP sits in the middle of these 4 coins.
+Over the next 90 days (checked Oct 29 2026): OP +0.94%, KITE +22.04%, LUNC −0.18%, MON +149.88%. OP sits in the middle of these 4 coins.
 
 ## Next steps for OP
 

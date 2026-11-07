@@ -8,11 +8,11 @@ published:     true
 ---
 # Jito (JTO) Tokenomics: +2.63% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/jto (checked Nov 5 2026)*
+*Originally published at https://mrnasdog.com/research/jto (checked Nov 7 2026)*
 
 As of Oct 29 2026, new Jito supply runs at **+2.63%** over 90 days and **+2.43%** over 12 months.
 
-- **Signal today:** mixed (Nov 5 2026)
+- **Signal today:** mixed (Nov 7 2026)
 - **MrNasDog score:** 4/10 — supply 1/5, demand 3/5
 - **New coins:** +2.63% in 90 days · +2.43% in a year
 - **Demand:** moderate (3/5)
@@ -26,7 +26,7 @@ New JTO: +2.63% in 90 days, +2.43% in a year. Supply score 1/5, "very heavy" (pl
 
 ## JTO demand
 
-Jito demand: 3/5 (**moderate**), place #34 among 109 coins — interest today plus the buying that could come later.
+Jito demand: 3/5 (**moderate**), place #33 among 109 coins — interest today plus the buying that could come later.
 
 Extra Jito demand detail for members stays on the live page.
 
@@ -45,7 +45,7 @@ Half the 2025 peak left; slowly rising since May 31 2026.
 | Aug 31 2026 | 10.1 M SOL |
 | Sep 30 2026 | 10.4 M SOL |
 | Oct 31 2026 | 10.4 M SOL |
-| Nov 5 2026 | 10.4 M SOL |
+| Nov 7 2026 | 10.4 M SOL |
 
 *Checked Oct 29 2026*
 
