@@ -1,6 +1,6 @@
 ---
-title:         "CFX Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description:   "CFX is mildly inflationary: 23.13M new CFX went to miners and stakers in 90 days vs an 11.86K burn, +0.44% net, about the same next. No unlocks, no cap."
+title:         "CFX Inflation Analysis · November 2026 · Mixed flows · supply roughly steady"
+description:   "CFX is mildly inflationary: 23.16M new CFX went to stakers and miners in 90 days vs a 10.41K burn, +0.44% net, about the same next. No unlocks, no cap."
 canonical_url: "https://mrnasdog.com/research/cfx/inflation"
 tags:          ["crypto", "cfx", "conflux", "layer1"]
 published:     true
@@ -10,62 +10,58 @@ published:     true
 <!-- main-page -->
 This is the long supply read. For the signal, the price drivers and the questions people ask about Conflux, see [mrnasdog.com/research/cfx](https://mrnasdog.com/research/cfx).
 
-# CFX Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+# CFX Inflation Analysis · November 2026 · Mixed flows · supply roughly steady
 
-Conflux (CFX) supply is growing slowly: **+0.44%** over the 90 days from Aug 1 to Oct 30 2026, and about **+0.44%** again over the next 90 days. Every block mints new CFX for miners and stakers, **23.13M CFX** in the window, while the protocol burn destroyed only **11,859 CFX**. CFX has no supply cap and no vesting left, so the block reward, the staking reward and that small burn are the only things that change the count.
+CFX supply is **roughly steady, but always growing a little**: Conflux paid miners and stakers **23.16M** new CFX between Aug 10 and Nov 8 2026, while fee and storage burns destroyed only **10,412 CFX**, so supply rose a net **+0.44%** in 90 days, close to the **+0.50%** other trackers show. Conflux has no supply cap and no vesting left; new CFX comes from two mints that run on every block, and the same pace is expected for the next 90 days.
 
 ## The verdict, in one paragraph
 
-Our verdict on CFX is **mixed flows, supply roughly steady**. Net new supply came to **+0.44%** in 90 days, which is under 2% a year, and the next 90 days look the same because the latest holder vote left every reward setting unchanged. Other trackers show about **+0.68%** for the same 90 days, a gap of **0.24 points**, small enough that the coin page carries no warning note. This is a slow, steady inflation coin: the dilution is real but modest, and it lands every block rather than in big dated unlocks.
+Over the 90 days to Nov 8 2026, CFX supply grew by a net **+0.44%** against about **5.25B CFX** in circulation. Other trackers put the same 90 days at **+0.50%**, a difference of **0.06 points**, so the two readings agree and the CFX coin page carries no warning note. The next 90 days should look the same, about **+0.44%**, unless an open parameter vote changes the pay rates. In one line: Conflux is a mildly inflationary chain where block and staking rewards make almost all of the change and the burn barely registers.
 
 ## Sell pressure: where new CFX comes from
 
-The block reward and the staking reward are the one source of new CFX. Miners earn **0.4 CFX** for each block, and Conflux makes about two blocks a second, so miners received about **6.25M CFX** between Aug 1 and Oct 30 2026. Stakers in proof of stake received about **16.88M CFX** over the same days, nearly three times what the miners got. Together that is **23.13M CFX**, roughly **257,000 CFX a day**.
+Protocol inflation is the whole of CFX sell pressure: **23.16M CFX** (23,155,498 CFX) was newly created between Aug 10 and Nov 8 2026, about **257,000 CFX a day**. The larger part, **16.91M CFX**, went to stakers, who are paid every hour in proportion to the roughly **899M CFX** now staked on Conflux. The rest, about **6.25M CFX**, went to miners, who earn **0.4 CFX** for each of the roughly two blocks the chain makes every second. The miners' reward was cut in half, from 0.8 CFX, on Apr 7 2026 after a community vote, and it has not changed since.
 
-Holders set these rewards by vote. A vote that closed on Feb 6 2026 cut the block reward in half, from 0.8 to 0.4 CFX, and that cut took effect on Apr 7 2026, before this window began. The base staking rate has stayed at **3.26%** a year. Because the staking reward grows when more CFX is staked, the rise in stake from **870.19M** to **893.78M CFX** during the window nudged the mint up a little: each 30-day stretch minted between 7.64M and 7.75M CFX.
+Vesting unlocks are **zero**. The CFX created at launch in 2020 finished unlocking by late 2024, and the two launch lock pools that once held team and investor coins are empty today, so no locked batch is waiting to open.
 
-Vesting adds nothing. The two-year and four-year lock pools from the 2020 launch are both empty, so every CFX from the start already counts as circulating. The four large launch-era fund contracts that still pay out each month are covered under the overhang section below; their payouts are coins already counted. No bankruptcy estate or court-held pile of CFX is waiting to be released either.
+Foundation and unscheduled unlocks are also **zero**, even though coins did move. Three launch-era fund contracts paid out **49.18M CFX** between Aug 10 and Nov 8 2026, in monthly batches, to one wallet that stakes much of what it receives. Every one of those coins was already counted as circulating, so the payouts change who holds CFX but add nothing new to the supply.
+
+Long-term locked or bankruptcy supply is **zero**: no court case, failed firm or long lock is sitting on CFX waiting to pay it out.
 
 ## Buy pressure: where new CFX goes
 
-Conflux destroys coins in two small ways. Part of each transaction's base fee is burned, about 37% of it, and that took **1,488 CFX** out of supply in 90 days, because fees on Conflux are tiny. Most of the deposit that apps put up to store data on the chain is also turned into storage points and leaves supply; that took **10,371 CFX**, in lumps, with the biggest single day on Oct 15 2026 at about 4,193 CFX.
+There is no programmatic buyback, so that row is **zero**. Conflux does not route fees into market purchases of CFX, and the last large burn, a one-time **76M CFX** from the ecosystem fund in May 2025, has not been repeated or announced again.
 
-Together the burn removed **11,859 CFX**, about **0.05%** of the new coins. No coins were sent to the burn address in the window. Conflux runs no buyback, and no foundation or company is buying CFX on the market for the network. The last big burn, **76M CFX** from the ecosystem fund, happened in May 2025, and no new one has been announced.
+The protocol fee burn destroyed **10,412 CFX** between Aug 10 and Nov 8 2026. Two burns make it up. About **37%** of every transaction base fee is destroyed, which removed **1,439 CFX** because Conflux fees are very small. The second, larger part, **8,973 CFX**, came from storage: when an app sponsor locks CFX to pay for on-chain storage, about **78%** of it is turned into storage points and leaves the supply for good. That storage burn arrives in lumps, mostly on Aug 26, Sep 3 and Oct 15 2026. Together, the burns took back less than five hundredths of one percent of what the two mints created.
 
-Staking does not take coins out of the count. About **893.78M CFX** is staked in proof of stake, and those coins still count as circulating, so a bigger stake means more new CFX in rewards, not less supply.
+A foundation buy is **zero**: the project's fund contracts send CFX out and do not buy it back. A new long-term lock is **zero** as well. The Conflux stake grew from about **885.78M** to **898.88M CFX** between Aug 10 and Nov 8 2026, but staked CFX still counts as circulating, so a larger stake does not shrink the supply.
 
 ## Foundation and overhang
 
-Four large contracts set up when Conflux launched hold about **2.31B CFX** between them, the largest alone about 1.35B. They pay out roughly once a month to a distribution wallet, and **49.18M CFX** left them in these 90 days, in payouts on Aug 14, Sep 16 and Oct 18 2026. A fifth contract with no public label holds **664.98M CFX** and did not move at all.
+Four fund contracts set up at the Conflux launch still hold about **2.31B CFX** between them: **1,348.19M**, **551.60M**, **302.90M** and **104.68M CFX**. The first three paid out in the window; the fourth last moved coins on Jul 13 2026. A fifth contract from the same era holds **664.98M CFX** and has not moved since June 2023. No public label names the owners of these contracts, so they are treated here as project-controlled funds.
 
-None of this is new supply. Every one of these coins already counts as circulating, so a payout moves CFX from one wallet to another without changing the count. What the payouts can change is how many coins reach the market: the average monthly payout, about **16.4M CFX**, is roughly twice what the chain mints in a month. The burn address holds **572.96M CFX**, coins destroyed in earlier years that no longer count at all.
+With the fifth contract, these balances come to about **2.97B CFX**, some **57%** of all CFX in circulation, but they already count as circulating, so a payout from them is not new supply. What matters is pace: at the recent rate of about 16M CFX a month they could keep paying out for years, and coins that leave the funds and reach exchanges add to selling even though they do not change the supply count. We re-read each fund's balance at every check; if a fund's balance falls between checks, the outflow is noted under foundation and unscheduled unlocks at the next check.
 
-## How CFX compares to other proof-of-work and proof-of-stake hybrid chains
+## How CFX compares to other proof-of-work and proof-of-stake Layer 1 chains
 
-Conflux mixes two ways of paying for security. Miners are paid per block, like Bitcoin or Kaspa, but the larger share of new coins goes to stakers, like Ethereum. Unlike Bitcoin or Kaspa, the reward does not shrink on a fixed timetable; holders vote on it every few months, and the last change was a cut.
+Conflux mixes two security models on one chain, so it pays two kinds of reward. A pure proof-of-work coin with a hard cap, like Bitcoin, pays only miners and cuts that pay on a fixed schedule until it stops. Conflux has no cap and no fixed schedule; instead, CFX holders who stake vote every two months on the miners' reward and the staking rate, and each vote can halve, double or keep each one. That gives Conflux a flexible issuance that can fall quickly, as it did on Apr 7 2026, or rise again if voters choose.
 
-Against Ethereum, which grew about **+0.21%** in its last 90-day reading, CFX grows about twice as fast. Both pay stakers in new coins and both burn part of every fee, but on Conflux fees are so small that the burn barely registers. Decred also splits its block reward between miners and stakers, though on a schedule written in advance rather than set by vote. For CFX, that means the inflation rate can move with a single vote result, up or down.
+Against proof-of-stake chains such as Ethereum, the difference is the burn. Ethereum destroys every base fee, which on busy days can cancel a large share of new coins. Conflux burns only about 37% of a much smaller base fee, plus storage deposits, so its burn is close to nothing next to issuance. CFX at roughly **+0.44%** a quarter, or under 2% a year, sits in the low-inflation group of uncapped Layer 1 chains, but with almost no burn pulling the other way.
 
 ## What to watch in the next 90 days
 
-**Early December 2026:** the result of the last holder vote takes effect. Every vote in it was for keeping the current settings, so the block reward and the staking rate should stay where they are.
+**Around Dec 3 2026**, Conflux round 25 of the parameter vote closes. On Nov 8 2026 the early votes leaned toward halving both the miners' reward and the staking rate, and toward burning a larger share of fees.
 
-**Around early February 2027:** the vote now open decides the next settings. Nothing has been cast in it yet. A cut or a rise to the block reward would land just after the next 90 days end.
+**Around Feb 1 2027**, a round 25 result would take effect, one round after the vote closes. If the halvings pass, new CFX would slow to about half its current pace from that day, which would trim only a few days of the next 90-day window but would shape every quarter after it.
 
-**Mid-November and mid-December 2026:** the next monthly payouts from the launch-era fund contracts, if the Aug 14, Sep 16 and Oct 18 pattern holds. They move coins already counted.
+**Monthly, around the middle of each month**, the launch-era fund contracts have been paying out; a larger batch than the recent 16M CFX a month, or coins moving from them to exchanges, would be the clearest sign of extra selling.
 
-**Through late January 2027:** the stake level. More CFX staked means more new CFX in rewards. The Conflux v3.1.1 node upgrade announced on Oct 22 2026 only fixes bugs and leaves rewards alone.
+**The staked total**, now near 899M CFX: a fast rise pushes staking pay up, while more of the float locked in staking leaves less on the market.
 
 ## Summary
 
-CFX supply grew **+0.44%** in the 90 days to Oct 30 2026 and should grow about the same over the next 90 days.
-
-Miners and stakers received **23.13M CFX** in new coins, and the fee and storage burn destroyed only **11,859 CFX** of it.
-
-Nothing vests, and the **2.31B CFX** in launch-era fund contracts already counts as circulating, so their monthly payouts add no new supply.
-
-The reward rates are set by holder vote, and the latest vote changed nothing, so the next real shift could come only from a vote result in early 2027.
+CFX supply rose a net **+0.44%** in the 90 days to Nov 8 2026, close to the **+0.50%** other trackers show, and the next 90 days should look the same. Conflux pays stakers and miners about **257,000 new CFX a day**, while its fee and storage burns removed only **10,412 CFX** over the whole quarter. The key risk is not new supply but the roughly **2.31B CFX** still held in launch-era fund contracts, which pay out every month. Conflux has no supply cap; the main brake on issuance is the holders' vote every two months, which halved the miners' reward on Apr 7 2026 and may halve both rewards again in early 2027.
 
 ---
 
-*MrNasDog Pressure Framework analysis of CFX, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 30 2026.*
+*MrNasDog Pressure Framework analysis of CFX, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 8 2026.*

@@ -1,67 +1,92 @@
 ---
-title:         "XRP Inflation Analysis · October 2026 · Supply growing · projected to keep growing"
-description: "XRP supply is growing: nothing is minted, but Ripple paid out 866.38M XRP in 90 days against a 54,640 XRP fee burn. +1.37% net, about +1.42% next, 100B cap."
+title:         "XRP Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
+description: "XRP supply is growing: Ripple paid 1.05B XRP out of escrow-fed wallets in 90 days against a 67.7K XRP fee burn, +1.66% net. Nothing is minted; 100B cap."
 canonical_url: "https://mrnasdog.com/research/xrp/inflation"
 tags: ["crypto", "xrp", "ripple", "escrow"]
 published: true
 ---
 Originally published at [https://mrnasdog.com/research/xrp/inflation](https://mrnasdog.com/research/xrp/inflation) by MrNasDog.
 
-# XRP Inflation Analysis · October 2026 · Supply growing · projected to keep growing
+# XRP Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 
 <!-- main-page -->
 **Main page:** the full XRP coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/xrp](https://mrnasdog.com/research/xrp)
 
-XRP supply is growing: between Aug 1 and Oct 30 2026 Ripple paid **866.38M XRP** out of its own wallets to outside holders, while transaction fees destroyed only **54,640 XRP**, so the circulating count rose a net **+1.37%**, with about **+1.42%** due in the next 90 days. No new XRP is ever made; the growth comes from Ripple handing out coins it already holds, mostly from the **1B XRP** its escrow opens on the 1st of every month. Other trackers read **+1.73%** for the same 90 days.
+XRP supply is growing, even though no new XRP is ever created. All 100B coins exist already, and the growth comes from Ripple paying out coins it holds: **1.05B XRP** reached the market between Aug 10 and Nov 8 2026, against a fee burn of **67,660 XRP**. Circulating supply rose a net **+1.66%** in 90 days, other trackers read **+1.93%**, and about **+1.42%** is expected over the next 90 days.
 
+      
 ## The verdict, in one paragraph
 
-Over the 90 days to Oct 30 2026, XRP's circulating supply grew a net **+1.37%**, and the next 90 days project **+1.42%**. Other trackers show **+1.73%** for the same window, a gap of **0.36 percentage points**, small enough that the coin page carries no warning note. XRP is a fixed-supply coin whose float still grows, because Ripple, the company that holds the unissued XRP, releases a set slice of its escrow every month and sells or pays out part of it. The label that fits: a capped coin with a steady company release, inflationary on the circulating float.
+      
+Over the 90 days to Nov 8 2026, XRP in circulation grew a net **+1.66%**, from Ripple payouts of 1.05B XRP, with only 67,660 XRP destroyed by fees. Other trackers show **+1.93%** for the same period, a gap of **0.27 points**, and the coin page carries no warning note. For the next 90 days the expected pace is **+1.42%**, set by three escrow openings on Dec 1 2026, Jan 1 2027 and Feb 1 2027. The plain label: XRP is a fixed-supply coin whose float grows on a company payout schedule, not on new coins.
 
+      
 ## Sell pressure: where new XRP comes from
 
-Protocol inflation is **zero**. All 100B XRP were created when the XRP Ledger launched in 2012, and no transaction type can make more; validators earn nothing in new coins, and there is no staking reward.
+      
+Protocol inflation is **zero**. The XRP Ledger created all 100B XRP when it started in 2012 and has no way to make more. Nobody is paid in new XRP for running the network, so the total on the ledger only ever goes down, by the fees it burns.
 
-Vesting unlocks book **zero**, even though Ripple's escrow opened **1B XRP** on each of Aug 1, Sep 1 and Oct 1 2026. Those coins land in Ripple's own wallets, which are not counted as circulating, and Ripple locked **2.1B** of the 3B straight back into new escrow that opens in 2029. An escrow opening on the XRP Ledger only moves coins from one Ripple pocket to another; what matters is what Ripple pays out next.
+      
+Vesting unlocks book **zero**, although the escrow did open on schedule. On Sep 1, Oct 1 and Nov 1 2026 Ripple's escrow released 1B XRP each time, and each time Ripple locked 700M straight back up. The 300M it kept went into Ripple's own wallets, and coins in Ripple's wallets are not yet part of the circulating supply. So an escrow opening on its own changes nothing for the market. The coins count when they leave Ripple.
 
-That payout is the Foundation and unscheduled-unlock row, and it is the whole story on the sell side: **866.38M XRP** left Ripple's wallets for outside holders in the window. Ripple keeps about **300M XRP** from each monthly escrow opening, moves it through its payout wallets and sends it on in batches of 100M to 200M, and one older Ripple wallet sent out **4.49M XRP** on Aug 6 2026. For the next 90 days the escrow schedule opens 1B XRP on Nov 1 2026, Dec 1 2026 and Jan 1 2027; if Ripple keeps the same 300M from each, about **900M XRP** reaches the market.
+      
+Ripple's own payouts carry the whole story: **1.05B XRP** left Ripple's wallets in the window. About 900M of it was the 300M kept from each of the three openings. The other 152M came from older Ripple wallets, including 190M that two dormant Ripple accounts sent to its payout wallet on Oct 30 2026. Over the next 90 days the count is about **900M XRP**, 300M for each opening due on Dec 1 2026, Jan 1 2027 and Feb 1 2027, because Ripple kept exactly that share at each of the last three openings. The extra draw from older wallets has no schedule, so it is not projected.
 
-The long-term locked or bankruptcy row is **zero**. No court-held pile or bankruptcy estate of XRP is waiting to be released. The **233.5M XRP** taken from Binance in the hack of Oct 29 2026 was already in circulation, so it changes who holds the coins, not how many circulate.
+      
+Long-term locked and bankruptcy supply is **zero**. No court estate or failed firm is holding XRP to pay out, and coins held by spot funds, XRP treasury companies and exchanges are already counted as circulating.
 
+      
 ## Buy pressure: where new XRP goes
 
-Programmatic buyback is **zero**. No contract or treasury buys XRP back; the buybacks Ripple ran in 2026 were of its own company shares, which removes no XRP from the market.
+      
+There is no programmatic buyback, so that row is **zero**. Ripple's 2026 buyback was of its own company shares, which does nothing to the XRP count.
 
-The protocol fee burn is the only built-in removal. Every XRP Ledger transaction destroys its small fee for good, and across all **2,003,488 ledgers** in the window that came to **54,640 XRP**, about 607 a day. That burn cancels well under one tenth of one percent of Ripple's payouts, so it barely dents the sell side.
+      
+The fee burn removed **67,660 XRP** between Aug 10 and Nov 8 2026, about 750 XRP a day. Every transaction on the ledger pays a tiny fee in XRP and the ledger destroys it, so the total supply now sits a little under 99.99B. The burn is steady but very small: it offsets well under a tenth of one percent of what Ripple paid out.
 
-Foundation buying is **zero**. Ripple does not buy XRP on the market, and the 2.1B XRP it re-locked in escrow never left its hands, so the re-lock takes nothing out of the circulating count. New long-term locks are also **zero**: XRP has no staking, and spot XRP funds, XRP treasury companies and bank custodians such as BNY, which began holding XRP for clients on Oct 27 2026, buy coins that already circulate.
+      
+Foundation buying is **zero**. Ripple does not buy XRP on the market, and the 2.1B XRP it locked back into escrow during the window never left its hands, so the re-lock takes nothing out of circulation. New long-term locks are also **zero**: XRP has no staking, and fund or treasury-company buying only moves coins that are already circulating.
 
+      
 ## Foundation and overhang
 
-Ripple is the one big holder that can add to the XRP float, and it holds a lot. Its on-ledger escrow holds **31.4B XRP** across eight Ripple accounts, scheduled to open 1B on the 1st of each month through May 2029 and a final 0.4B in June 2029; because Ripple re-locks most of each opening, new escrow keeps being added at the far end of that line. Outside escrow, Ripple's named wallets hold about **4.02B XRP**, led by one wallet with **1.33B XRP** that did not move in the window, a second with **812M XRP**, the **1B XRP** opened on Oct 1 2026 that is still unpaid in two escrow wallets, and five wallets of 100M each. Ripple's own figures put roughly **1.2B XRP** more in other wallets it controls.
+      
+Ripple is the one big holder that can add to the float. Its escrow holds **31.1B XRP**, set to open 1B XRP on the first day of every month until mid-2029. The monthly habit so far is to keep 300M and re-lock 700M, which stretches the escrow well past that date.
 
-We read Ripple's escrow and named wallets on the XRP Ledger at each refresh. If any of those balances falls between refreshes, the coins that leave Ripple's hands enter the Foundation and unscheduled-unlock row at the next refresh.
+      
+Outside the escrow, Ripple's known wallets hold about **4.10B XRP**. The largest single wallet holds about 1.33B and did not move in the window. Two more hold 500M each, together the Nov 1 2026 opening not yet paid out, and about 300M sits in the treasury wallet that feeds Ripple's payouts. Beyond those, Ripple holds roughly another 1B XRP in wallets that are not publicly labelled. If any of these balances falls, those coins join the circulating supply and show up at the next check.
 
-## How XRP compares to other pre-mined payment chains
+      
+## How XRP compares to other fixed-supply payment chains
 
-XRP belongs to the group of payment chains that created their whole supply on day one and handed the unissued part to a company or foundation, alongside Stellar (XLM) and Hedera (HBAR). In all three the protocol mints nothing, so the float grows only when the issuer releases coins. What sets XRP apart is the escrow: Ripple's release runs on a fixed on-ledger timetable of 1B XRP a month that anyone can read, while Stellar's and Hedera's reserves sit in foundation and council wallets with no time lock on the ledger itself.
+      
+XRP sits in a small group of payment-focused chains where every coin existed at launch and a company or foundation sells down its share over many years. Stellar works the same way: its new-coin inflation was switched off years ago, and its supply growth now comes from the Stellar Development Foundation handing out coins it holds. Hedera has a fixed supply too, released from a treasury on its own plan. In all three, the question is not how many coins the network prints but how fast the insiders let go.
 
-Against proof-of-stake chains such as Ethereum or Solana, XRP pays validators nothing in new coins, so it has no protocol inflation at all; the sell pressure comes from one company's treasury, not from thousands of stakers. Against Bitcoin, XRP shares a hard 100B cap and a fee burn instead of a halving, but Bitcoin's new coins go to miners who must sell to pay costs, while XRP's new float comes from a single issuer that chooses how much of each opening to keep.
+      
+That makes XRP very different from proof-of-stake chains such as Ethereum or Solana, where the protocol pays validators in brand-new coins every day and a fee burn pushes back. XRP pays no reward at all and burns every fee, so the ledger total can only fall. It is also different from Bitcoin, whose new coins come from miners on a fixed halving plan. For XRP, the escrow is the schedule, and Ripple's re-lock choice each month is the dial.
 
-XRP's fee burn is real but tiny next to Ethereum's EIP-1559 burn, because XRP Ledger fees are a fraction of a cent. On this chain the custody-versus-market-float question matters far more than the burn: more than a third of all XRP still sits with Ripple.
+      
+The practical result: XRP's growth rate is lumpy and set by one company. At 300M a month it runs a little under 1.5% a quarter today, and it would rise if Ripple stopped re-locking or fall if it re-locked more.
 
+      
 ## What to watch in the next 90 days
 
-**Nov 1 2026:** the next escrow opening; the 1B XRP already released on Oct 1 2026 sits in two Ripple wallets, and the usual split would send about 300M to market and 700M back into escrow.
+      
+**Dec 1 2026:** the next 1B XRP escrow opening. The thing to watch is how much Ripple re-locks; 700M back in escrow keeps the pace near 300M a month.
 
-**Nov 4 2026:** the fixCleanup3_4_0 amendment is due to switch on after a delay; it fixes ledger bugs and does not change how XRP is created or burned.
+      
+**Jan 1 2027 and Feb 1 2027:** two more 1B openings. Any month where Ripple keeps more than 300M would lift the expected growth above 1.42%.
 
-**Dec 1 2026 and Jan 1 2027:** two more 1B XRP escrow openings; a smaller re-lock than 700M at any of them would lift the next-90-day reading above **+1.42%**.
+      
+**The fee burn:** about 750 XRP a day lately. A busier ledger burns more, but even a doubling would stay tiny next to Ripple's payouts.
 
-**Ripple's big idle wallets:** the 1.33B XRP and 812M XRP wallets did not move in the window; any payout from them would add straight to the sell side. A US market-structure law could also change how much Ripple keeps from each opening, though Ripple has announced no change.
+      
+**The older Ripple wallets:** the 500M left in each of two wallets from the Nov 1 2026 opening, and the 1.33B wallet that has not moved. A sudden payout from any of them would show up as extra supply in the next check.
 
+      
 ## Summary
 
-XRP's supply is capped at 100B and no new XRP is ever minted, yet the circulating float grew a net **+1.37%** over the 90 days to Oct 30 2026 and is set to grow about **+1.42%** over the next 90. The growth comes from Ripple paying out **866.38M XRP** it already held, mostly the 300M it keeps from each 1B monthly escrow opening, while the XRP Ledger fee burn removed just **54,640 XRP**. The key risk is the size of Ripple's stock: **31.4B XRP** in escrow and about 5.2B more in its wallets, released at Ripple's own pace. The ceiling is firm: the float can never pass 100B XRP, and at today's pace the escrow runs through mid-2029 before any re-locks.
+      
+XRP is a fixed-supply coin: all 100B were created in 2012, nothing new is minted, and a small fee burn shrinks the total every day. Its circulating supply still grew **+1.66%** in the 90 days to Nov 8 2026, because Ripple paid **1.05B XRP** out of its escrow-fed wallets to the market. The next 90 days should add about **+1.42%**, from 300M XRP kept from each of three monthly escrow openings. The main risk is a change in Ripple's habit: with 31.1B XRP still in escrow and about 4.10B in its own wallets, one company decides how fast new XRP reaches the market.
 
-*MrNasDog Pressure Framework analysis of XRP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 30 2026.*
+*MrNasDog Pressure Framework analysis of XRP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 8 2026.*

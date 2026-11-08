@@ -1,6 +1,6 @@
 ---
-title:         "XMR Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description:   "XMR supply grows slowly: a fixed 0.6 XMR per block made 38,843 new XMR in 90 days, +0.21% net, with no burn, no vesting and no cap. Same pace expected."
+title:         "XMR Inflation Analysis · November 2026 · Mixed flows · supply roughly steady"
+description:   "Monero pays miners 0.6 new XMR per block, forever: 38,885 XMR in 90 days, nothing burned, no unlocks, supply up 0.21%. What changes it and what to watch."
 canonical_url: "https://mrnasdog.com/research/xmr/inflation"
 tags:          ["crypto", "xmr", "monero", "privacy"]
 published:     true
@@ -10,58 +10,64 @@ published:     true
 <!-- main-page -->
 Looking for the buy-or-sell answer? It is on the XMR coin page, with demand and price drivers: [mrnasdog.com/research/xmr](https://mrnasdog.com/research/xmr)
 
-# XMR Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+# XMR Inflation Analysis · November 2026 · Mixed flows · supply roughly steady
 
-**Monero (XMR)** is mildly inflationary and stays that way by design: supply grew **+0.21%** from Aug 2 to Oct 31 2026, and the next 90 days should add about the same. The whole sell side is tail emission, a fixed **0.6 XMR** per block paid to miners, which came to **38,843 XMR** in the window, while the buy side is **0** because Monero has no burn, no buyback and no lock. Monero has no supply cap, but the reward never changes, so the yearly rate keeps falling slowly as the total grows; other trackers show **+0.23%**, close to our figure.
+*Checked Nov 8 2026*
+
+**TL;DR:** Monero has no supply cap: miners receive a fixed **0.6 XMR** for every block, forever, and nothing is burned or bought back. From Aug 10 to Nov 8 2026 that added **38,885 XMR** against **0 XMR** removed, so supply grew **+0.21%**, about the same as other trackers show (**+0.22%**), and the next 90 days should look the same.
 
 ## The verdict, in one paragraph
 
-Over the 90 days to Oct 31 2026, **Monero** supply rose a net **+0.21%**, from new coins paid to miners with nothing taken back. Other trackers show **+0.23%** for the same stretch, a difference of only **0.02 percentage points**, so the XMR coin page carries no warning note. Every one of the 18.82M XMR in existence is unlocked and circulating, so there is no hidden pile of team or investor coins that could change the picture. The label that fits: **a slow, fixed tail emission with no sink**.
+Monero's supply grew **+0.21%** in the 90 days to Nov 8 2026, and the next 90 days to Feb 6 2027 should add the same **+0.21%**. Other trackers show **+0.22%**, a difference of **0.02 points**, so the coin page carries no warning note. Every new XMR in the window came from one place, the miners' block reward, and no XMR left the supply. The label is **mixed flows, supply roughly steady**: Monero grows slowly and evenly, with no unlock cliffs, no treasury and no surprises in the schedule.
 
 ## Sell pressure: where new XMR comes from
 
-**Protocol inflation** is the only source of new XMR. Every Monero block pays the miner who found it **0.6 XMR**, and that reward has stayed flat since Monero reached its tail emission in 2022. From Aug 2 to Oct 31 2026 the Monero chain added **64,740 blocks**, just under the 64,800 that two-minute blocks would give, so miners received **38,843 XMR**, about 432 XMR a day. A tiny **1.21 XMR** of that pay was never made: on 5,003 extra-full blocks the Monero size rule trimmed the miner's reward, which keeps miners from stuffing blocks for free.
+**Protocol inflation: 38,885 XMR.** Monero finished its main emission curve in 2022 and has paid a flat 0.6 XMR per block ever since. The network aims for one block every two minutes and keeps that pace by making mining harder or easier, so the count stays close to 720 blocks a day. Between Aug 10 and Nov 8 2026 miners found **64,811 blocks**, just 11 more than the two-minute target, which works out to about **432 new XMR a day**.
 
-**Vesting unlocks** are zero. Monero launched in April 2014 with no premine and no token sale, so no team, investor or advisor XMR exists and no unlock calendar is waiting.
+One detail trims that number a little. A block that is heavier than the recent normal size earns a smaller reward, which stops miners from stuffing blocks for free. In the window **5,130 blocks** were oversized and gave up under **2 XMR** in total. The biggest cut came on Nov 5 2026, when a nearly full block with no payments in it earned only a sliver of the usual 0.6 XMR. The coins a miner gives up this way are simply never created.
 
-**Foundation and unscheduled unlocks** are zero. Monero has no foundation treasury that could release coins; developers are paid from a community fund that people donate to, and every coin in that fund already counts as circulating.
+**Vesting unlocks: 0.** Monero started in April 2014 with no pre-mine, no token sale and no team allocation, so no locked batch of XMR exists to open.
 
-**Long-term locked or bankruptcy** coins are zero. No court estate, failed lender or old exchange holds a pile of XMR waiting to be paid out to creditors.
+**Foundation and unscheduled unlocks: 0.** Monero has no foundation treasury. Developers are paid from a community crowdfunding system that collects donated XMR and pays it out as work is delivered. Its four open requests total about 215 XMR. Those coins were already circulating when they were donated, so paying them out adds nothing to the count.
+
+**Long-term locked or bankruptcy: 0.** No court case or bankrupt firm is sitting on XMR waiting to repay creditors. In early November 2026 thieves who reportedly took more than $133 million from a French bank swapped part of it into XMR, but they bought coins that already existed.
 
 ## Buy pressure: where new XMR goes
 
-**Programmatic buyback** is zero. There is no company, token treasury or fee switch behind Monero that could buy XMR back on the market.
+**Programmatic buyback: 0.** Monero has no company, no revenue and no treasury, so nothing buys XMR back.
 
-**Protocol fee burn** is zero. Monero users paid **664.81 XMR** in fees from Aug 2 to Oct 31 2026, and all of it went to miners as part of their pay. Those coins changed hands but stayed in supply, which is the main design difference from chains that destroy their fees.
+**Protocol fee burn: 0.** Monero does not burn fees. Users paid about **658 XMR** in fees from Aug 10 to Nov 8 2026, and all of it went to the miners, on top of their block reward, so it stayed in circulation.
 
-**Foundation buy** is zero. No foundation, listed company or spot fund buys XMR for a treasury, so no outside buyer pulls coins off the market for good.
+**Foundation buy: 0.** No foundation or listed company buys XMR on behalf of the network. Buying on swap services and exchanges moves coins between people and leaves the total unchanged.
 
-**New long-term lock** is zero. Monero is mined with computers, not staked, so no XMR is locked up to secure the chain and nothing in the Monero protocol takes coins out of circulation.
+**New long-term lock: 0.** Monero is mined, not staked, so there is no way to lock coins out of circulation. The privacy upgrade now being tested changes how payments are hidden, not the 0.6 XMR reward.
 
 ## Foundation and overhang
 
-**Monero** has no foundation wallet, no team wallet and no investor wallet to track. The one pool tied to the project is the Monero community fund, which pays developers for approved work; on Oct 31 2026 four open requests were asking donors for **215 XMR** in total, and one asking for 45 XMR for three months of core work was already fully funded. The fund's balance is not public, because Monero hides amounts on-chain, but all of it sits inside the 18.82M XMR already counted as circulating. If a team-controlled balance ever appeared outside that circulating count and began to fall, the outflow would enter the Foundation and unscheduled unlocks row at the next check.
+Monero has almost nothing that could suddenly hit the market. The one pool of coins tied to the project is the community fund that pays developers, and its open requests come to about **215 XMR**, a rounding error next to the **18.83M XMR** in circulation. The fund does not publish a balance, because Monero hides amounts by design, but every coin in it was donated from coins already circulating. There are no investor wallets, no team wallets and no unlock schedule. The real steady seller is the miners, who receive about 432 new XMR a day and sell part of it to pay for power.
 
-## How XMR compares to other proof-of-work chains
+## How XMR compares to other proof-of-work Layer 1 chains
 
-**Monero vs Bitcoin**: Bitcoin halves its block reward about every four years and stops at 21M coins, so Bitcoin inflation falls in steps toward zero. Monero did the opposite once its main emission ended in 2022: it kept a fixed **0.6 XMR** per block forever, so miners are always paid in new coins and do not depend on fees alone. Both chains burn no fees, and both pay every new coin to miners rather than a team.
+Bitcoin and Monero both pay miners in new coins, but they end up in different places. Bitcoin halves its reward about every four years and stops at 21 million coins; today it adds about 450 BTC a day, which is close to Monero's pace as a share of supply. After Bitcoin's next halving in 2028, Monero will be growing faster, because Monero's 0.6 XMR never shrinks.
 
-**Monero vs Dogecoin**: Dogecoin also has no cap and pays a flat reward, 10,000 DOGE per block, but with one-minute blocks and a much larger supply. Both are uncapped coins whose yearly rate shrinks slowly because a fixed reward becomes a smaller share of a growing total. Monero runs at about **0.84%** a year.
-
-**Monero vs Zcash**: Zcash is the other large privacy coin, but its supply follows the Bitcoin model with halvings and a 21M cap. Monero trades a cap for a permanent miner budget; neither coin has unlocks hanging over its supply today, and neither burns its fees.
+Dogecoin also has no cap and also pays a fixed number of new coins per block, but its reward is far larger compared with its supply, so Dogecoin grows about four times as fast as Monero. Monero sits in the middle: no hard cap like Bitcoin, but a small fixed reward whose share of supply shrinks a little every year, from about 0.84% a year today. Neither Bitcoin, Dogecoin nor Monero burns fees.
 
 ## What to watch in the next 90 days
 
-**The FCMP++ privacy upgrade** is the next big Monero change; a test network moved to it on Oct 5 2026, a newer test release was reported on Oct 30 2026, and mainnet has no date yet, with a loose plan pointing to about April 2027. It changes how private payments are, not the 0.6 XMR block reward.
+**The privacy upgrade.** The FCMP++ upgrade, which hides who sends a payment among every coin on the chain, moved to a new test network on Oct 5 2026 and is still being tested at the weekly developer meetings, the next on Nov 9 2026. No date is set for the main network; a loose developer plan points to 2027. It does not change the block reward.
 
-**Mining power** sat near a six-month high in late October 2026. Faster or slower blocks nudge how many 0.6 XMR rewards land in 90 days, but the effect stays within a few hundred XMR.
+**Access on big exchanges.** On Oct 24 2026 Kraken dropped the questions it had started asking people who withdraw XMR, but it kept a $1,500 limit on what one person can withdraw in a rolling 30 days. The European Union's ban on privacy coins at licensed exchanges starts on Jul 1 2027.
 
-**Exchange access** is worth following: on Oct 24 2026 Kraken dropped questions it had been asking about Monero withdrawals and said XMR stays listed, while the European Union plans to bar privacy coins on its licensed exchanges from July 2027.
+**Mining concentration.** On Oct 26 2026 three mining pools held about 60% of the hashrate. A large pool could again try to rewrite recent blocks, as happened in September 2025 when a deep reorganization undid 118 transactions. That would shake trust, though it would not change how many XMR are made.
 
-**Jan 29 2027** closes the next 90-day window; at the current pace, Monero should add about 38,800 XMR by then, with no burn or unlock expected to change that.
+**The next window.** From Nov 8 2026 to Feb 6 2027 the chain should make about 64,800 blocks and about **38,885 XMR**, give or take a few dozen coins.
 
 ## Summary
 
-**Monero (XMR)** grows its supply by about **0.21%** every 90 days, all of it from a fixed 0.6 XMR tail emission paid to miners, and nothing burns, buys back or locks any XMR. Monero has no supply cap, no premine, no vesting and no foundation treasury, so every one of its 18.82M coins is already circulating and no unlock can surprise holders. The main supply risk is simply that the tail emission never stops, though its yearly rate keeps edging lower as the total grows. Other trackers agree within **0.02 percentage points**, so the XMR coin page shows no warning note.
+Monero added **38,885 XMR** in the 90 days to Nov 8 2026, all of it from the 0.6 XMR miners receive for every block.
 
-*MrNasDog Pressure Framework analysis of XMR, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 31 2026.*
+Nothing left the supply: Monero has no burn, no buyback, no treasury and no staking lock, and fees go to miners.
+
+Monero's supply grew **+0.21%**, other trackers show **+0.22%**, and the next 90 days should match.
+
+With no unlocks and no insider wallets, the only steady seller is the miners, and the reward never changes.
