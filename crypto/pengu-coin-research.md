@@ -8,11 +8,11 @@ published:     true
 ---
 # Pudgy Penguins (PENGU) Tokenomics: +2.60% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/pengu (checked Nov 5 2026)*
+*Originally published at https://mrnasdog.com/research/pengu (checked Nov 9 2026)*
 
 As of Nov 5 2026, new Pudgy Penguins supply runs at **+2.60%** over 90 days and **+10.39%** over 12 months.
 
-- **Signal today:** negative (Nov 5 2026)
+- **Signal today:** negative (Nov 9 2026)
 - **MrNasDog score:** 3/10 — supply 1/5, demand 2/5
 - **New coins:** +2.60% in 90 days · +10.39% in a year
 - **Demand:** weak (2/5)
@@ -26,7 +26,7 @@ New PENGU: +2.60% in 90 days, +10.39% in a year. Supply score 1/5, "meme coin".
 
 ## Demand: how much people want PENGU
 
-Pudgy Penguins demand: 2/5 (**weak**), place #64 among 109 coins — interest today plus the buying that could come later.
+Pudgy Penguins demand: 2/5 (**weak**), place #63 among 109 coins — interest today plus the buying that could come later.
 
 A deeper PENGU demand breakdown is on the page for members.
 
@@ -96,9 +96,9 @@ In our count, about 1.63B new PENGU reaches the market over the next 90 days (ch
 
 About 62.9B PENGU is in circulation (checked Nov 5 2026). Over the next 90 days that changes +2.60%, and over a year +10.39%.
 
-### Does PENGU have more new supply than TIA, CRV or XPL?
+### Does PENGU have more new supply than TIA, CRV or VIRTUAL?
 
-Over the next 90 days (checked Nov 5 2026): PENGU +2.60%, TIA +2.31%, CRV +1.96%, XPL +14.35%. PENGU sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 5 2026): PENGU +2.60%, TIA +2.31%, CRV +1.96%, VIRTUAL +0.04%. PENGU has the most new supply of these 4 coins.
 
 ## Next steps for PENGU
 

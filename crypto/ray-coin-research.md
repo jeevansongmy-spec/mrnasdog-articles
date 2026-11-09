@@ -8,7 +8,7 @@ published:     true
 ---
 # Raydium (RAY) Inflation Rate: +0.23% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/ray — numbers checked Nov 5 2026*
+*Source: https://mrnasdog.com/research/ray — numbers checked Nov 9 2026*
 
 **+0.23%** in 90 days, **+0.94%** in a year: that is how fast Raydium (RAY) supply changes as of Oct 31 2026.
 
@@ -26,7 +26,7 @@ Expect +0.23% more RAY in 90 days (+0.94% over the year). On supply alone Raydiu
 
 ## Who wants Raydium right now
 
-How much do people want RAY? **very strong** — 4.5 out of 5, #6 of 109.
+How much do people want RAY? **very strong** — 4.5 out of 5, #5 of 109.
 
 (Members see more RAY demand detail on the page; it is not repeated here.)
 
@@ -90,9 +90,9 @@ In our count, about 625K new RAY reaches the market over the next 90 days (check
 
 Raydium (RAY) has about 270M coins in circulation as of Oct 31 2026; the next 90 days change that by +0.23% (+0.94% over a year).
 
-### Does RAY have more new supply than AERO, FET or VIRTUAL?
+### Does RAY have more new supply than AERO, TIA or PENGU?
 
-Over the next 90 days (checked Oct 31 2026): RAY +0.23%, AERO +8.50%, FET +6.01%, VIRTUAL +0.04%. RAY sits in the middle of these 4 coins.
+Over the next 90 days (checked Oct 31 2026): RAY +0.23%, AERO +8.50%, TIA +2.31%, PENGU +2.60%. RAY has the least new supply of these 4 coins.
 
 ## Go deeper on Raydium
 

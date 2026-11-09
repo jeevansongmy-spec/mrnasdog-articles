@@ -8,7 +8,7 @@ published:     true
 ---
 # UNUS SED LEO (LEO) Inflation Rate: −0.06% Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/leo — numbers checked Nov 5 2026*
+*Source: https://mrnasdog.com/research/leo — numbers checked Nov 9 2026*
 
 **−0.06%** in 90 days, **−0.25%** in a year: that is how fast UNUS SED LEO (LEO) supply changes as of Oct 31 2026.
 
@@ -61,7 +61,7 @@ Expect −0.06% more LEO in 90 days (−0.25% over the year). On supply alone UN
 
 ## How strong is UNUS SED LEO demand?
 
-How much do people want LEO? **very low** — 0.5 out of 5, #99 of 109.
+How much do people want LEO? **very low** — 0.5 out of 5, #98 of 109.
 
 Extra UNUS SED LEO demand detail for members stays on the live page.
 

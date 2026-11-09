@@ -8,14 +8,14 @@ published:     true
 ---
 # Dogecoin (DOGE) Tokenomics: +0.78% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/doge (checked Nov 5 2026)*
+*Originally published at https://mrnasdog.com/research/doge (checked Nov 9 2026)*
 
 As of Oct 31 2026, new Dogecoin supply runs at **+0.78%** over 90 days and **+3.18%** over 12 months.
 
-- **Signal:** mixed (Nov 5 2026)
-- **Score:** 5/10 — supply 1.5/5, demand 3.5/5
+- **Signal:** mixed (Nov 9 2026)
+- **Score:** 5.5/10 — supply 1.5/5, demand 4/5
 - **Supply growth:** +0.78% in 90 days · +3.18% in a year
-- **How much people want it:** strong (3.5/5)
+- **How much people want it:** strong (4/5)
 - **Price drivers:** 0 ▲ price up · 0 ▼ price down
 
 ## What could move Dogecoin's price
@@ -41,7 +41,7 @@ Musk's X Money adds $1 tips, still with no DOGE.
 
 ### • Robinhood's wallet
 
-Down 5.8B DOGE since Jan 2024; flat for 401 days.
+Down 5.8B DOGE since Jan 2024; flat for 405 days.
 
 Good for the price: Wallet grows. Bad for it: Wallet shrinks.
 
@@ -50,9 +50,9 @@ Good for the price: Wallet grows. Bad for it: Wallet shrinks.
 | Aug 31 2026 | 27.2 B DOGE |
 | Sep 30 2026 | 27.2 B DOGE |
 | Oct 31 2026 | 27.2 B DOGE |
-| Nov 5 2026 | 27.2 B DOGE |
+| Nov 9 2026 | 27.2 B DOGE |
 
-*Checked Nov 4 2026*
+*Checked Nov 8 2026*
 
 ## How fast Dogecoin supply grows
 
@@ -62,7 +62,7 @@ New DOGE: +0.78% in 90 days, +3.18% in a year. Supply score 1.5/5, "meme coin".
 
 ## Demand today
 
-Dogecoin demand: 3.5/5 (**strong**), place #20 among 109 coins — interest today plus the buying that could come later.
+Dogecoin demand: 4/5 (**strong**), place #9 among 109 coins — interest today plus the buying that could come later.
 
 (Members see more DOGE demand detail on the page; it is not repeated here.)
 
@@ -92,9 +92,9 @@ In our count, about 1.23B new DOGE reaches the market over the next 90 days (che
 
 About 157B DOGE is in circulation (checked Oct 31 2026). Over the next 90 days that changes +0.78%, and over a year +3.18%.
 
-### Does DOGE have more new supply than ZEC, XMR or LINK?
+### Does DOGE have more new supply than HYPE, XMR or LINK?
 
-Over the next 90 days (checked Oct 31 2026): DOGE +0.78%, ZEC +0.95%, XMR +0.21%, LINK +1.47%. DOGE sits in the middle of these 4 coins.
+Over the next 90 days (checked Oct 31 2026): DOGE +0.78%, HYPE −0.41%, XMR +0.21%, LINK +1.47%. DOGE sits in the middle of these 4 coins.
 
 ## More on Dogecoin
 

@@ -8,7 +8,7 @@ published:     true
 ---
 # Immutable (IMX) Supply & Demand: +2.25% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/imx · checked Nov 5 2026*
+*Live page: https://mrnasdog.com/research/imx · checked Nov 9 2026*
 
 Immutable (IMX) supply changes **+2.25%** over the next 90 days and **+9.12%** over a year (checked Nov 3 2026).
 
@@ -60,7 +60,7 @@ Good for the price: More games, more use. Bad for it: Games leave the chain.
 | Oct 21 2026 | 49.1 K txs |
 | Oct 22 2026 | 49.9 K txs |
 | Oct 31 2026 | 40.9 K txs |
-| Nov 5 2026 | 40.5 K txs |
+| Nov 9 2026 | 42.4 K txs |
 
 *Checked Nov 3 2026*
 

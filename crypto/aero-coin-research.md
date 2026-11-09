@@ -8,12 +8,12 @@ published:     true
 ---
 # Aerodrome (AERO) Tokenomics: +8.50% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/aero (checked Nov 5 2026)*
+*Originally published at https://mrnasdog.com/research/aero (checked Nov 9 2026)*
 
 As of Nov 4 2026, new Aerodrome supply runs at **+8.50%** over 90 days and **+23.09%** over 12 months.
 
-- **Long-run signal:** mixed (Nov 5 2026)
-- **Score:** 4/10 — supply 0/5, demand 4/5
+- **Long-run signal:** mixed (Nov 9 2026)
+- **Score:** 4.5/10 — supply 0.5/5, demand 4/5
 - **New supply:** +8.50% in 90 days · +23.09% in a year
 - **Demand:** strong (4/5)
 - **Price drivers:** 0 ▲ price up · 0 ▼ price down
@@ -58,7 +58,7 @@ Aero pools still handle about half of all trading on Base.
 
 Aerodrome, now Aero after the Velodrome merger, pays liquidity providers in new AERO. Supply grew 2.79% in 90 days as staking absorbed most new coins; about 8.50% more is due next as staking slows.
 
-New AERO: +8.50% in 90 days, +23.09% in a year. Supply score 0/5, "extreme" (place 10 of 100).
+New AERO: +8.50% in 90 days, +23.09% in a year. Supply score 0.5/5, "flooding" (place 11 of 100).
 
 ## How strong is Aerodrome demand?
 
@@ -74,7 +74,7 @@ Aerodrome (AERO) is inflationary right now: its supply changes +8.50% over the n
 
 ### What is the AERO inflation rate in 2026?
 
-About +23.09% a year: that is how much Aerodrome (AERO) supply changes over the next 12 months, with +8.50% in the next 90 days (checked Nov 4 2026). That puts AERO #10 of 100 coins we track for new supply (#1 = the most new supply).
+About +23.09% a year: that is how much Aerodrome (AERO) supply changes over the next 12 months, with +8.50% in the next 90 days (checked Nov 4 2026). That puts AERO #11 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next AERO token unlock?
 
@@ -92,9 +92,9 @@ In our count, about 91.2M new AERO reaches the market over the next 90 days (che
 
 About 734M AERO is in circulation (checked Nov 4 2026). Over the next 90 days that changes +8.50%, and over a year +23.09%.
 
-### Does AERO have more new supply than TRUMP, RAY or FET?
+### Does AERO have more new supply than BLIFE, RAY or TIA?
 
-Over the next 90 days (checked Nov 4 2026): AERO +8.50%, TRUMP +11.93%, RAY +0.23%, FET +6.01%. AERO sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 4 2026): AERO +8.50%, BLIFE 0.00%, RAY +0.23%, TIA +2.31%. AERO has the most new supply of these 4 coins.
 
 ## More on Aerodrome
 

@@ -8,7 +8,7 @@ published:     true
 ---
 # Hyperliquid (HYPE) Supply & Demand: −0.41% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/hype · checked Nov 8 2026*
+*Live page: https://mrnasdog.com/research/hype · checked Nov 9 2026*
 
 Hyperliquid (HYPE) supply changes **−0.41%** over the next 90 days and **−1.65%** over a year (checked Nov 8 2026).
 
@@ -56,7 +56,7 @@ Over the next 90 days HYPE supply changes −0.41%; across a full year, −1.65%
 
 ## Who wants Hyperliquid right now
 
-People's appetite for Hyperliquid is **very strong**: 4.5/5, ranked #6 of 109.
+People's appetite for Hyperliquid is **very strong**: 4.5/5, ranked #5 of 109.
 
 Members get the rest of the Hyperliquid demand read on mrnasdog.com.
 

@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Stacks (STX) Inflationary? +1.27% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/stx, updated Nov 5 2026*
+*From https://mrnasdog.com/research/stx, updated Nov 9 2026*
 
 How much new STX is coming? **+1.27%** in the next 90 days, **+5.48%** in the next year — checked Nov 5 2026.
 
@@ -45,7 +45,7 @@ More BTC flows in → price up · BTC leaves Stacks → price down. Right now it
 | Aug 31 2026 | 2,441 BTC |
 | Sep 30 2026 | 2,481 BTC |
 | Oct 31 2026 | 2,481 BTC |
-| Nov 6 2026 | 2,482 BTC |
+| Nov 9 2026 | 2,482 BTC |
 
 *Checked Nov 5 2026*
 

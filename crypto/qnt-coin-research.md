@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Quant (QNT) Inflationary? 0.00% Supply in 90 Days
 
-*From https://mrnasdog.com/research/qnt, updated Nov 5 2026*
+*From https://mrnasdog.com/research/qnt, updated Nov 9 2026*
 
 How much new QNT is coming? **0.00%** in the next 90 days, **0.00%** in the next year — checked Nov 2 2026.
 
@@ -45,7 +45,7 @@ Good for the price: Coins stay put. Bad for it: Coins leave wallets. Today: the 
 | Aug 31 2026 | 626 K QNT | 623 K QNT |
 | Sep 30 2026 | 600 K QNT | 600 K QNT |
 | Oct 31 2026 | 600 K QNT | 600 K QNT |
-| Nov 5 2026 | 600 K QNT | 600 K QNT |
+| Nov 9 2026 | 600 K QNT | 600 K QNT |
 
 *Checked Nov 2 2026*
 

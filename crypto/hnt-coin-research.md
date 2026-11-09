@@ -8,7 +8,7 @@ published:     true
 ---
 # Helium (HNT) Supply & Demand: +9.48% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/hnt · checked Nov 5 2026*
+*Live page: https://mrnasdog.com/research/hnt · checked Nov 9 2026*
 
 Helium (HNT) supply changes **+9.48%** over the next 90 days and **+37.34%** over a year (checked Nov 4 2026).
 
@@ -62,7 +62,7 @@ Good for the price: Plan wins carriers. Bad for it: Plan stalls.
 
 ## How strong is Helium demand?
 
-People's appetite for Helium is **very low**: 0.5/5, ranked #99 of 109.
+People's appetite for Helium is **very low**: 0.5/5, ranked #98 of 109.
 
 Extra Helium demand detail for members stays on the live page.
 

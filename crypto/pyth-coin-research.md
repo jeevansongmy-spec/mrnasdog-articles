@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Pyth Network (PYTH) Inflationary? 0.00% Supply in 90 Days
 
-*From https://mrnasdog.com/research/pyth, updated Nov 5 2026*
+*From https://mrnasdog.com/research/pyth, updated Nov 9 2026*
 
 How much new PYTH is coming? **0.00%** in the next 90 days, **+26.98%** in the next year — checked Nov 5 2026.
 

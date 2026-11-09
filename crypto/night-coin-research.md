@@ -8,7 +8,7 @@ published:     true
 ---
 # Midnight (NIGHT) Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/night · checked Nov 5 2026*
+*Live page: https://mrnasdog.com/research/night · checked Nov 9 2026*
 
 Midnight (NIGHT) supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 4 2026).
 
@@ -67,7 +67,7 @@ Big promises come true → price up · Hype fades, goals slip → price down. To
 
 ## Who wants Midnight right now
 
-People's appetite for Midnight is **weak**: 2/5, ranked #64 of 109.
+People's appetite for Midnight is **weak**: 2/5, ranked #63 of 109.
 
 Members get the rest of the Midnight demand read on mrnasdog.com.
 
@@ -97,9 +97,9 @@ Almost no new NIGHT reaches the market over the next 90 days (checked Nov 4 2026
 
 Midnight (NIGHT) has about 16.6B coins in circulation as of Nov 4 2026; the next 90 days change that by 0.00% (0.00% over a year).
 
-### Does NIGHT have more new supply than ZRO, CAKE or XDC?
+### Does NIGHT have more new supply than ZRO, CAKE or STX?
 
-Over the next 90 days (checked Nov 4 2026): NIGHT 0.00%, ZRO +17.57%, CAKE −1.64%, XDC +0.09%. NIGHT sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 4 2026): NIGHT 0.00%, ZRO +17.57%, CAKE −1.64%, STX +1.27%. NIGHT sits in the middle of these 4 coins.
 
 ## Where to read the rest of NIGHT
 

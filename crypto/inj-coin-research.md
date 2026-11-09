@@ -8,11 +8,11 @@ published:     true
 ---
 # Injective (INJ) Tokenomics: +0.80% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/inj (checked Nov 5 2026)*
+*Originally published at https://mrnasdog.com/research/inj (checked Nov 9 2026)*
 
 As of Nov 4 2026, new Injective supply runs at **+0.80%** over 90 days and **+3.26%** over 12 months.
 
-- **Signal today:** mixed (Nov 5 2026)
+- **Signal today:** mixed (Nov 9 2026)
 - **MrNasDog score:** 6/10 — supply 2.5/5, demand 3.5/5
 - **New coins:** +0.80% in 90 days · +3.26% in a year
 - **Demand:** strong (3.5/5)
@@ -64,7 +64,7 @@ New INJ: +0.80% in 90 days, +3.26% in a year. Supply score 2.5/5, "moderate", #5
 
 ## How strong is Injective demand?
 
-Injective demand: 3.5/5 (**strong**), place #20 among 109 coins — interest today plus the buying that could come later.
+Injective demand: 3.5/5 (**strong**), place #23 among 109 coins — interest today plus the buying that could come later.
 
 Members get the rest of the Injective demand read on mrnasdog.com.
 
@@ -94,9 +94,9 @@ In our count, about 1.1M new INJ reaches the market over the next 90 days (check
 
 About 129M INJ is in circulation (checked Nov 4 2026). Over the next 90 days that changes +0.80%, and over a year +3.26%.
 
-### Does INJ have more new supply than NEXO, ATOM or FIL?
+### Does INJ have more new supply than LIT, ATOM or NEXO?
 
-Over the next 90 days (checked Nov 4 2026): INJ +0.80%, NEXO 0.00%, ATOM +3.18%, FIL +1.65%. INJ sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 4 2026): INJ +0.80%, LIT +6.38%, ATOM +3.18%, NEXO 0.00%. INJ sits in the middle of these 4 coins.
 
 ## More on Injective
 

@@ -8,11 +8,11 @@ published:     true
 ---
 # ASTER Tokenomics: +2.71% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/aster (checked Nov 5 2026)*
+*Originally published at https://mrnasdog.com/research/aster (checked Nov 9 2026)*
 
 As of Nov 3 2026, new Aster supply runs at **+2.71%** over 90 days and **+4.26%** over 12 months.
 
-- **Signal:** mixed (Nov 5 2026)
+- **Signal:** mixed (Nov 9 2026)
 - **Score:** 4/10 — supply 1/5, demand 3/5
 - **Supply growth:** +2.71% in 90 days · +4.26% in a year
 - **How much people want it:** moderate (3/5)
@@ -39,7 +39,7 @@ Open bets on Aster recovered after a weak first half of 2026.
 | Aug 31 2026 | $1.23B |
 | Sep 30 2026 | $1.41B |
 | Oct 31 2026 | $1.37B |
-| Nov 5 2026 | $1.43B |
+| Nov 9 2026 | $1.39B |
 
 *Checked Nov 3 2026*
 
@@ -64,7 +64,7 @@ Good for the price: US opens to Aster. Bad for it: Only rivals get US. Today: th
 
 ## Demand: how much people want ASTER
 
-Aster demand: 3/5 (**moderate**), place #34 among 109 coins — interest today plus the buying that could come later.
+Aster demand: 3/5 (**moderate**), place #32 among 109 coins — interest today plus the buying that could come later.
 
 Extra Aster demand detail for members stays on the live page.
 

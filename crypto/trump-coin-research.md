@@ -8,14 +8,14 @@ published:     true
 ---
 # Official Trump (TRUMP) Inflation Rate: +11.93% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/trump — numbers checked Nov 5 2026*
+*Source: https://mrnasdog.com/research/trump — numbers checked Nov 9 2026*
 
 **+11.93%** in 90 days, **+47.71%** in a year: that is how fast Official Trump (TRUMP) supply changes as of Nov 5 2026.
 
 - **Signal today:** negative — TRUMP, read by supply and demand
-- **MrNasDog score:** 2.5/10 — supply 0/5, demand 2.5/5
+- **MrNasDog score:** 3/10 — supply 0/5, demand 3/5
 - **New coins:** +11.93% in 90 days · +47.71% in a year
-- **Demand:** modest (2.5/5)
+- **Demand:** moderate (3/5)
 - **Drivers:** 1 ▲ price up · 2 ▼ price down
 
 ## Official Trump (TRUMP) supply: questions people ask
@@ -44,9 +44,9 @@ In our count, about 33.6M new TRUMP reaches the market over the next 90 days (ch
 
 Official Trump (TRUMP) has about 282M coins in circulation as of Nov 5 2026; the next 90 days change that by +11.93% (+47.71% over a year).
 
-### Does TRUMP have more new supply than PENDLE, LDO or FF?
+### Does TRUMP have more new supply than BSV, FET or BTT?
 
-Over the next 90 days (checked Nov 5 2026): TRUMP +11.93%, PENDLE +1.64%, LDO +5.15%, FF +18.22%. TRUMP sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 5 2026): TRUMP +11.93%, BSV +0.20%, FET +7.55%, BTT −2.21%. TRUMP has the most new supply of these 4 coins.
 
 ## Supply — new TRUMP in the next 90 days
 
@@ -56,7 +56,7 @@ Expect +11.93% more TRUMP in 90 days (+47.71% over the year). On supply alone Of
 
 ## Who wants Official Trump right now
 
-How much do people want TRUMP? **modest** — 2.5 out of 5, #47 of 109.
+How much do people want TRUMP? **moderate** — 3 out of 5, #32 of 109.
 
 (Members see more TRUMP demand detail on the page; it is not repeated here.)
 

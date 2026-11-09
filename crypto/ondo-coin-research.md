@@ -8,14 +8,14 @@ published:     true
 ---
 # Ondo Finance (ONDO) Supply & Demand: +35.12% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/ondo · checked Nov 5 2026*
+*Live page: https://mrnasdog.com/research/ondo · checked Nov 9 2026*
 
 Ondo Finance (ONDO) supply changes **+35.12%** over the next 90 days and **+35.12%** over a year (checked Nov 2 2026).
 
 - **Long-run signal:** negative (by the law of supply and demand)
-- **Score:** 3/10 — supply 0/5, demand 3/5
+- **Score:** 2.5/10 — supply 0/5, demand 2.5/5
 - **New supply:** +35.12% in 90 days · +35.12% in a year
-- **Demand:** moderate (3/5)
+- **Demand:** modest (2.5/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## ONDO price drivers
@@ -58,11 +58,11 @@ Good for the price: Clear, stable leadership. Bad for it: Long court fight. Now:
 
 ONDO made no new coins in 90 days, but its yearly unlock on Jan 18 2027 adds 1.71B ONDO, about 35% more supply, with nothing buying it back.
 
-Over the next 90 days ONDO supply changes +35.12%; across a full year, +35.12%. That puts supply at 0/5 (extreme), #3 of 100 for new supply.
+Over the next 90 days ONDO supply changes +35.12%; across a full year, +35.12%. That puts supply at 0/5 (extreme), #2 of 100 for new supply.
 
 ## How strong is Ondo Finance demand?
 
-People's appetite for Ondo Finance is **moderate**: 3/5, ranked #34 of 109.
+People's appetite for Ondo Finance is **modest**: 2.5/5, ranked #47 of 109.
 
 Extra Ondo Finance demand detail for members stays on the live page.
 
@@ -74,7 +74,7 @@ As of Nov 2 2026, Ondo Finance (ONDO) supply moves +35.12% in 90 days and +35.12
 
 ### What is the ONDO inflation rate in 2026?
 
-Ondo Finance (ONDO) supply grows +35.12% over the next 12 months and +35.12% over the next 90 days (checked Nov 2 2026). That puts ONDO #3 of 100 coins we track for new supply (#1 = the most new supply).
+Ondo Finance (ONDO) supply grows +35.12% over the next 12 months and +35.12% over the next 90 days (checked Nov 2 2026). That puts ONDO #2 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next ONDO token unlock?
 

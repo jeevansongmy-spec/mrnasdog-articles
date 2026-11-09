@@ -8,11 +8,11 @@ published:     true
 ---
 # Stellar (XLM) Tokenomics: +2.78% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/xlm (checked Nov 5 2026)*
+*Originally published at https://mrnasdog.com/research/xlm (checked Nov 9 2026)*
 
 As of Oct 31 2026, new Stellar supply runs at **+2.78%** over 90 days and **+11.28%** over 12 months.
 
-- **Signal today:** negative (Nov 5 2026)
+- **Signal today:** negative (Nov 9 2026)
 - **MrNasDog score:** 3/10 — supply 1/5, demand 2/5
 - **New coins:** +2.78% in 90 days · +11.28% in a year
 - **Demand:** weak (2/5)
@@ -26,7 +26,7 @@ New XLM: +2.78% in 90 days, +11.28% in a year. Supply score 1/5, "very heavy".
 
 ## Demand today
 
-Stellar demand: 2/5 (**weak**), place #64 among 109 coins — interest today plus the buying that could come later.
+Stellar demand: 2/5 (**weak**), place #63 among 109 coins — interest today plus the buying that could come later.
 
 The members-only part of XLM's demand section is not included.
 

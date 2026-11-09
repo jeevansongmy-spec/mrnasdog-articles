@@ -8,7 +8,7 @@ published:     true
 ---
 # KAIA Inflation Rate: +1.04% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/kaia — numbers checked Nov 8 2026*
+*Source: https://mrnasdog.com/research/kaia — numbers checked Nov 9 2026*
 
 **+1.04%** in 90 days, **+4.22%** in a year: that is how fast KAIA supply changes as of Nov 8 2026.
 

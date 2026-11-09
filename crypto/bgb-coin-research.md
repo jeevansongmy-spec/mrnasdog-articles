@@ -8,11 +8,11 @@ published:     true
 ---
 # Bitget Token (BGB) Tokenomics: 0.00% Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/bgb (checked Nov 5 2026)*
+*Originally published at https://mrnasdog.com/research/bgb (checked Nov 9 2026)*
 
 As of Nov 3 2026, new Bitget Token supply runs at **0.00%** over 90 days and **0.00%** over 12 months.
 
-- **Signal:** mixed (Nov 5 2026)
+- **Signal:** mixed (Nov 9 2026)
 - **Score:** 5/10 — supply 4.5/5, demand 0.5/5
 - **Supply growth:** 0.00% in 90 days · 0.00% in a year
 - **How much people want it:** very low (0.5/5)
@@ -26,7 +26,7 @@ New BGB: 0.00% in 90 days, 0.00% in a year. Supply score 4.5/5, "flat".
 
 ## How strong is Bitget Token demand?
 
-Bitget Token demand: 0.5/5 (**very low**), place #99 among 109 coins — interest today plus the buying that could come later.
+Bitget Token demand: 0.5/5 (**very low**), place #98 among 109 coins — interest today plus the buying that could come later.
 
 A deeper BGB demand breakdown is on the page for members.
 
@@ -45,7 +45,7 @@ Good for the price: Reserves grow. Bad for it: Money leaves Bitget. Today: the p
 | Aug 31 2026 | $5.38B |
 | Sep 30 2026 | $5.42B |
 | Oct 31 2026 | $5.83B |
-| Nov 5 2026 | $6.16B |
+| Nov 9 2026 | $5.73B |
 
 *Checked Nov 3 2026*
 

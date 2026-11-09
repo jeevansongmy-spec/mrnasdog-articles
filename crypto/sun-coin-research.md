@@ -1,20 +1,20 @@
 ---
-title:         "SUN Supply & Demand: −0.03% Supply in 90 Days"
-description:   "SUN supply changes −0.03% over the next 90 days and −0.13% over a year (checked Oct 29 2026)."
+title:         "SUN Supply & Demand: −0.04% Supply in 90 Days"
+description:   "SUN supply changes −0.04% over the next 90 days and −0.16% over a year (checked Nov 7 2026)."
 canonical_url: "https://mrnasdog.com/research/sun"
 content_type:  "coin_hub"
 tags:          ["crypto", "sun", "sun", "should-i-buy"]
 published:     true
 ---
-# SUN Supply & Demand: −0.03% Supply in 90 Days
+# SUN Supply & Demand: −0.04% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/sun · checked Nov 7 2026*
+*Live page: https://mrnasdog.com/research/sun · checked Nov 9 2026*
 
-SUN supply changes **−0.03%** over the next 90 days and **−0.13%** over a year (checked Oct 29 2026).
+SUN supply changes **−0.04%** over the next 90 days and **−0.16%** over a year (checked Nov 7 2026).
 
 - **Signal:** mixed (by the law of supply and demand)
 - **Score:** 6.5/10 — supply 4.5/5, demand 2/5
-- **Supply growth:** −0.03% in 90 days · −0.13% in a year
+- **Supply growth:** −0.04% in 90 days · −0.16% in a year
 - **How much people want it:** weak (2/5)
 - **Price drivers:** 0 ▲ price up · 2 ▼ price down
 
@@ -22,41 +22,41 @@ SUN supply changes **−0.03%** over the next 90 days and **−0.13%** over a ye
 
 ### Is SUN inflationary or deflationary?
 
-As of Oct 29 2026, SUN supply moves −0.03% in 90 days and −0.13% in a year, so SUN is deflationary. Burns or buybacks take out more SUN than is created.
+As of Nov 7 2026, SUN supply moves −0.04% in 90 days and −0.16% in a year, so SUN is deflationary. Burns or buybacks take out more SUN than is created.
 
 ### What is the SUN inflation rate in 2026?
 
-SUN supply shrinks −0.13% over the next 12 months and −0.03% over the next 90 days (checked Oct 29 2026). That puts SUN #96 of 100 coins we track for new supply (#1 = the most new supply).
+SUN supply shrinks −0.16% over the next 12 months and −0.04% over the next 90 days (checked Nov 7 2026). That puts SUN #97 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next SUN token unlock?
 
-No dated SUN unlock is scheduled in the next 90 days (checked Oct 29 2026).
+No dated SUN unlock is scheduled in the next 90 days (checked Nov 7 2026).
 
 ### Is any SUN burned or bought back?
 
-Yes. In our count, about 6.41M SUN is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Oct 29 2026). How it works: A quarterly buyback burn: 7.23M SUN on Oct 27 2026, about 6.41M more due around Jan 25 2027.
+Yes. In our count, about 7.91M SUN is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 7 2026). How it works: A quarterly buyback burn: 7.23M SUN on Oct 27 2026, about 7.91M more due around Jan 27 2027.
 
 ### Where does new SUN supply come from?
 
-Almost no new SUN reaches the market over the next 90 days (checked Oct 29 2026). No new SUN can be minted, and the DAO release ended in June 2026.
+Almost no new SUN reaches the market over the next 90 days (checked Nov 7 2026). No new SUN can be minted, and the last distribution ended in June 2026.
 
 ### How much SUN is in circulation?
 
-SUN has about 19.2B coins in circulation as of Oct 29 2026; the next 90 days change that by −0.03% (−0.13% over a year).
+SUN has about 19.2B coins in circulation as of Nov 7 2026; the next 90 days change that by −0.04% (−0.16% over a year).
 
-### Does SUN have more new supply than SPX, SEI or FF?
+### Does SUN have more new supply than GNO, XTZ or PENDLE?
 
-Over the next 90 days (checked Oct 29 2026): SUN −0.03%, SPX 0.00%, SEI +4.96%, FF +17.18%. SUN has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 7 2026): SUN −0.04%, GNO 0.00%, XTZ +0.72%, PENDLE +2.58%. SUN has the least new supply of these 4 coins.
 
 ## SUN supply
 
-A fixed 19.90B supply that only shrinks: SUN.io's trading income buys SUN back and burns it every quarter.
+SUN.io's governance coin has a fixed 19.90B supply that no contract can add to, and a quarterly fee-funded buyback burns a few million coins: supply down about 0.04% in 90 days.
 
-Over the next 90 days SUN supply changes −0.03%; across a full year, −0.13%. That puts supply at 4.5/5 (shrinking), #96 of 100 for new supply.
+Over the next 90 days SUN supply changes −0.04%; across a full year, −0.16%. That puts supply at 4.5/5 (shrinking), #97 of 100 for new supply.
 
 ## Demand today
 
-People's appetite for SUN is **weak**: 2/5, ranked #64 of 109.
+People's appetite for SUN is **weak**: 2/5, ranked #63 of 109.
 
 Members get the rest of the SUN demand read on mrnasdog.com.
 
@@ -66,24 +66,24 @@ Besides supply and demand, we track 2 price drivers for SUN: 0 ▲ and 2 ▼ rig
 
 ### ▼ SunSwap trading
 
-Trading is under a third of its Dec 2024 peak.
+Oct 2026 jump came mostly from hacker swaps, not real users.
 
 ▲ Price up if: More trading on SunSwap. ▼ Price down if: Less trading. Now: ▼ down side.
 
 | Period | Value |
 |---|---|
-| Apr 2026 | $1,610M |
 | May 2026 | $2,100M |
 | Jun 2026 | $2,136M |
 | Jul 2026 | $1,555M |
 | Aug 2026 | $1,669M |
 | Sep 2026 | $1,814M |
+| Oct 2026 | $2,489M |
 
-*Checked Oct 29 2026*
+*Checked Nov 7 2026*
 
 ### ▼ Justin Sun
 
-SEC case closed, but HTX now forced out of the UK.
+World Liberty fight grows; HTX forced out of the UK.
 
 Fewer legal fights → price up · More lawsuits, sanctions → price down. Today: the price-down case.
 
@@ -96,8 +96,9 @@ Fewer legal fights → price up · More lawsuits, sanctions → price down. Toda
 | Aug 31 2026 | HTX down after DDoS |
 | Oct 16 2026 | Poloniex $9M judgment |
 | Oct 29 2026 | HTX leaves UK, FCA deal |
+| Nov 3 2026 | Sun seeks WLFI sanctions |
 
-*Checked Oct 29 2026*
+*Checked Nov 7 2026*
 
 ## More on SUN
 

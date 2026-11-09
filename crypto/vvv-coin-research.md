@@ -8,7 +8,7 @@ published:     true
 ---
 # Venice Token (VVV) Supply & Demand: +3.39% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/vvv · checked Nov 5 2026*
+*Live page: https://mrnasdog.com/research/vvv · checked Nov 9 2026*
 
 Venice Token (VVV) supply changes **+3.39%** over the next 90 days and **+6.40%** over a year (checked Nov 4 2026).
 

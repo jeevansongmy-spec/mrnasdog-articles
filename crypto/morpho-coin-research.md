@@ -8,7 +8,7 @@ published:     true
 ---
 # Is MORPHO Inflationary? +6.03% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/morpho, updated Nov 5 2026*
+*From https://mrnasdog.com/research/morpho, updated Nov 9 2026*
 
 How much new MORPHO is coming? **+6.03%** in the next 90 days, **+24.44%** in the next year — checked Nov 3 2026.
 
@@ -22,7 +22,7 @@ How much new MORPHO is coming? **+6.03%** in the next 90 days, **+24.44%** in th
 
 Morpho mints no new coins, yet 42.40M MORPHO reached the market in 90 days from founder and partner unlocks and Association payouts, with nothing bought back. Supply +6.03%, about the same next.
 
-Morpho adds +6.03% new supply in the next 90 days and +24.44% over a year — supply scores 0.5/5 (flooding), #14 of 100 for new supply.
+Morpho adds +6.03% new supply in the next 90 days and +24.44% over a year — supply scores 0.5/5 (flooding), #16 of 100 for new supply.
 
 ## MORPHO demand
 
@@ -45,7 +45,7 @@ More Coinbase loans → price up · Coinbase pulls back → price down. Now: ▲
 | Aug 31 2026 | $1,353M |
 | Sep 30 2026 | $1,496M |
 | Oct 31 2026 | $1,616M |
-| Nov 5 2026 | $1,626M |
+| Nov 9 2026 | $1,633M |
 
 *Checked Nov 3 2026*
 
@@ -76,7 +76,7 @@ MORPHO is inflationary right now: its supply changes +6.03% over the next 90 day
 
 ### What is the MORPHO inflation rate in 2026?
 
-About +24.44% a year: that is how much MORPHO supply changes over the next 12 months, with +6.03% in the next 90 days (checked Nov 3 2026). That puts MORPHO #14 of 100 coins we track for new supply (#1 = the most new supply).
+About +24.44% a year: that is how much MORPHO supply changes over the next 12 months, with +6.03% in the next 90 days (checked Nov 3 2026). That puts MORPHO #16 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next MORPHO token unlock?
 

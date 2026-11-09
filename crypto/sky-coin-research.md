@@ -8,12 +8,12 @@ published:     true
 ---
 # Is SKY Inflationary? −0.16% Supply in 90 Days
 
-*From https://mrnasdog.com/research/sky, updated Nov 5 2026*
+*From https://mrnasdog.com/research/sky, updated Nov 9 2026*
 
 How much new SKY is coming? **−0.16%** in the next 90 days, **−0.65%** in the next year — checked Nov 3 2026.
 
 - **Long-run signal:** positive for Sky
-- **Score:** 7.5/10 — supply 4.5/5, demand 3/5
+- **Score:** 8/10 — supply 5/5, demand 3/5
 - **New supply:** −0.16% in 90 days · −0.65% in a year
 - **Demand:** moderate (3/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
@@ -33,7 +33,7 @@ More USDS in use → price up · USDS shrinks → price down. Right now it point
 | Sep 30 2026 | $6.69B | $4.78B |
 | Oct 31 2026 | $6.41B | $4.54B |
 | Nov 3 2026 | — | $4.51B |
-| Nov 5 2026 | $6.5B | — |
+| Nov 9 2026 | $5.44B | — |
 
 *Checked Nov 3 2026*
 
@@ -56,11 +56,11 @@ One listed company holds about 10% of all SKY and keeps adding.
 
 SKY is not minted: Sky's treasury paid stakers 143.1M SKY in 90 days while its profit-funded buyback took 110.7M back, so supply rose just 0.14% and points slightly lower next.
 
-Sky adds −0.16% new supply in the next 90 days and −0.65% over a year — supply scores 4.5/5 (shrinking).
+Sky adds −0.16% new supply in the next 90 days and −0.65% over a year — supply scores 5/5 (shrinking).
 
 ## SKY demand
 
-Demand reads **moderate** (3/5), #34 of 109 coins we track — that is how much people want SKY now and how much buying could still come.
+Demand reads **moderate** (3/5), #32 of 109 coins we track — that is how much people want SKY now and how much buying could still come.
 
 (Members see more SKY demand detail on the page; it is not repeated here.)
 
@@ -72,7 +72,7 @@ SKY is deflationary right now: its supply changes −0.16% over the next 90 days
 
 ### What is the SKY inflation rate in 2026?
 
-About −0.65% a year: that is how much SKY supply changes over the next 12 months, with −0.16% in the next 90 days (checked Nov 3 2026). That puts SKY #99 of 100 coins we track for new supply (#1 = the most new supply).
+About −0.65% a year: that is how much SKY supply changes over the next 12 months, with −0.16% in the next 90 days (checked Nov 3 2026). That puts SKY #100 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next SKY token unlock?
 

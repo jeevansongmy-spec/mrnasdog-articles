@@ -8,7 +8,7 @@ published:     true
 ---
 # Internet Computer (ICP) Inflation Rate: +0.59% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/icp — numbers checked Nov 5 2026*
+*Source: https://mrnasdog.com/research/icp — numbers checked Nov 9 2026*
 
 **+0.59%** in 90 days, **+2.34%** in a year: that is how fast Internet Computer (ICP) supply changes as of Nov 3 2026.
 
@@ -26,7 +26,7 @@ Expect +0.59% more ICP in 90 days (+2.34% over the year). On supply alone Intern
 
 ## Demand: how much people want ICP
 
-How much do people want ICP? **strong** — 3.5 out of 5, #20 of 109.
+How much do people want ICP? **strong** — 3.5 out of 5, #23 of 109.
 
 (Members see more ICP demand detail on the page; it is not repeated here.)
 
@@ -45,7 +45,7 @@ More ICP stays locked → price up · More ICP unstakes → price down. Right no
 | Aug 31 2026 | 289 M ICP | 243 M ICP |
 | Sep 30 2026 | 290 M ICP | 244 M ICP |
 | Oct 31 2026 | 287 M ICP | 243 M ICP |
-| Nov 5 2026 | 287 M ICP | 243 M ICP |
+| Nov 9 2026 | 287 M ICP | 243 M ICP |
 
 *Checked Nov 3 2026*
 
@@ -60,7 +60,7 @@ Good for the price: More apps running. Bad for it: App growth stalls.
 | Aug 31 2026 | 1.16 M apps |
 | Sep 30 2026 | 1.16 M apps |
 | Oct 31 2026 | 1.17 M apps |
-| Nov 5 2026 | 1.17 M apps |
+| Nov 9 2026 | 1.17 M apps |
 
 *Checked Nov 3 2026*
 

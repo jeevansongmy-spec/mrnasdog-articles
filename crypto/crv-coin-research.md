@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Curve DAO (CRV) Inflationary? +1.96% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/crv, updated Nov 5 2026*
+*From https://mrnasdog.com/research/crv, updated Nov 9 2026*
 
 How much new CRV is coming? **+1.96%** in the next 90 days, **+7.71%** in the next year — checked Nov 5 2026.
 
@@ -26,7 +26,7 @@ Curve DAO adds +1.96% new supply in the next 90 days and +7.71% over a year — 
 
 ## How strong is Curve DAO demand?
 
-Demand reads **weak** (2/5), #64 of 109 coins we track — that is how much people want CRV now and how much buying could still come.
+Demand reads **weak** (2/5), #63 of 109 coins we track — that is how much people want CRV now and how much buying could still come.
 
 (Members see more CRV demand detail on the page; it is not repeated here.)
 
@@ -60,7 +60,7 @@ Good for the price: More crvUSD borrowed. Bad for it: crvUSD shrinks. Right now 
 | Aug 31 2026 | 280 M crvUSD |
 | Sep 30 2026 | 250 M crvUSD |
 | Oct 31 2026 | 224 M crvUSD |
-| Nov 6 2026 | 209 M crvUSD |
+| Nov 9 2026 | 207 M crvUSD |
 
 *Checked Nov 5 2026*
 
@@ -90,9 +90,9 @@ In our count, about 33.8M new CRV reaches the market over the next 90 days (chec
 
 About 1.58B CRV is in circulation (checked Nov 5 2026). Over the next 90 days that changes +1.96%, and over a year +7.71%.
 
-### Does CRV have more new supply than PENGU, XPL or SPX?
+### Does CRV have more new supply than PENGU, VIRTUAL or PIEVERSE?
 
-Over the next 90 days (checked Nov 5 2026): CRV +1.96%, PENGU +2.60%, XPL +14.35%, SPX 0.00%. CRV sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 5 2026): CRV +1.96%, PENGU +2.60%, VIRTUAL +0.04%, PIEVERSE +25.93%. CRV sits in the middle of these 4 coins.
 
 ## More on Curve DAO
 

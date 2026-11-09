@@ -8,7 +8,7 @@ published:     true
 ---
 # Four (FORM) Inflation Rate: +0.01% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/form — numbers checked Nov 8 2026*
+*Source: https://mrnasdog.com/research/form — numbers checked Nov 9 2026*
 
 **+0.01%** in 90 days, **+0.02%** in a year: that is how fast Four (FORM) supply changes as of Nov 8 2026.
 

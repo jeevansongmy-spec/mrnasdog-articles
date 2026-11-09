@@ -8,11 +8,11 @@ published:     true
 ---
 # Aptos (APT) Tokenomics: +2.03% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/apt (checked Nov 5 2026)*
+*Originally published at https://mrnasdog.com/research/apt (checked Nov 9 2026)*
 
 As of Nov 4 2026, new Aptos supply runs at **+2.03%** over 90 days and **+8.15%** over 12 months.
 
-- **Signal today:** negative (Nov 5 2026)
+- **Signal today:** negative (Nov 9 2026)
 - **MrNasDog score:** 4/10 — supply 1.5/5, demand 2.5/5
 - **New coins:** +2.03% in 90 days · +8.15% in a year
 - **Demand:** modest (2.5/5)
@@ -45,7 +45,7 @@ Good for the price: More dollars on Aptos. Bad for it: Dollars leave Aptos. Righ
 | Aug 31 2026 | $732M | $208M |
 | Sep 30 2026 | $522M | $358M |
 | Oct 31 2026 | $377M | $246M |
-| Nov 5 2026 | $337M | $266M |
+| Nov 9 2026 | $357M | $305M |
 
 *Checked Nov 4 2026*
 
@@ -91,9 +91,9 @@ In our count, about 18.4M new APT reaches the market over the next 90 days (chec
 
 About 884M APT is in circulation (checked Nov 4 2026). Over the next 90 days that changes +2.03%, and over a year +8.15%.
 
-### Does APT have more new supply than STX, CRV or FLR?
+### Does APT have more new supply than ETHFI, FLR or STABLE?
 
-Over the next 90 days (checked Nov 4 2026): APT +2.03%, STX +1.28%, CRV +1.99%, FLR +1.05%. APT has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 4 2026): APT +2.03%, ETHFI 0.00%, FLR +1.04%, STABLE 0.00%. APT has the most new supply of these 4 coins.
 
 ## Next steps for APT
 

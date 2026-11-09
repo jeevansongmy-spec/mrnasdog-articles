@@ -8,7 +8,7 @@ published:     true
 ---
 # Is World (WLD) Inflationary? +3.21% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/wld, updated Nov 5 2026*
+*From https://mrnasdog.com/research/wld, updated Nov 9 2026*
 
 How much new WLD is coming? **+3.21%** in the next 90 days, **+23.56%** in the next year — checked Nov 2 2026.
 
@@ -39,7 +39,7 @@ More humans verify → price up · Sign-ups stall → price down. Right now it p
 | Jun 24 2026 | 18.1 M people |
 | Sep 29 2026 | 18.2 M people |
 | Oct 31 2026 | 18.2 M people |
-| Nov 5 2026 | 18.2 M people |
+| Nov 9 2026 | 18.2 M people |
 
 *Checked Nov 2 2026*
 
@@ -60,7 +60,7 @@ Eightco holds about 302M WLD, flat since Jul 27 2026.
 
 ## Who wants World right now
 
-Demand reads **weak** (2/5), #64 of 109 coins we track — that is how much people want WLD now and how much buying could still come.
+Demand reads **weak** (2/5), #63 of 109 coins we track — that is how much people want WLD now and how much buying could still come.
 
 A deeper WLD demand breakdown is on the page for members.
 

@@ -8,7 +8,7 @@ published:     true
 ---
 # TRON (TRX) Supply & Demand: +0.14% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/trx · checked Nov 8 2026*
+*Live page: https://mrnasdog.com/research/trx · checked Nov 9 2026*
 
 TRON (TRX) supply changes **+0.14%** over the next 90 days and **+0.57%** over a year (checked Nov 8 2026).
 

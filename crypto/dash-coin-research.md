@@ -8,7 +8,7 @@ published:     true
 ---
 # DASH Supply & Demand: +0.73% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/dash · checked Nov 5 2026*
+*Live page: https://mrnasdog.com/research/dash · checked Nov 9 2026*
 
 DASH supply changes **+0.73%** over the next 90 days and **+2.95%** over a year (checked Nov 4 2026).
 
@@ -96,9 +96,9 @@ In our count, about 130K new DASH reaches the market over the next 90 days (chec
 
 DASH has about 12.9M coins in circulation as of Nov 4 2026; the next 90 days change that by +0.73% (+2.95% over a year).
 
-### Does DASH have more new supply than XDC, ETHFI or PYTH?
+### Does DASH have more new supply than XDC, ETHFI or APT?
 
-Over the next 90 days (checked Nov 4 2026): DASH +0.73%, XDC +0.09%, ETHFI 0.00%, PYTH 0.00%. DASH has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 4 2026): DASH +0.73%, XDC +0.09%, ETHFI 0.00%, APT +2.03%. DASH sits in the middle of these 4 coins.
 
 ## Read more on DASH
 

@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Pi Network (PI) Inflationary? +4.16% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/pi, updated Nov 5 2026*
+*From https://mrnasdog.com/research/pi, updated Nov 9 2026*
 
 How much new PI is coming? **+4.16%** in the next 90 days, **+16.87%** in the next year — checked Nov 4 2026.
 

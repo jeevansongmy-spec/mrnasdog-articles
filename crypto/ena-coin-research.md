@@ -8,14 +8,14 @@ published:     true
 ---
 # Ethena (ENA) Supply & Demand: +2.10% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/ena · checked Nov 5 2026*
+*Live page: https://mrnasdog.com/research/ena · checked Nov 9 2026*
 
 Ethena (ENA) supply changes **+2.10%** over the next 90 days and **+8.39%** over a year (checked Nov 2 2026).
 
 - **Long-run signal:** negative (by the law of supply and demand)
-- **Score:** 4/10 — supply 1.5/5, demand 2.5/5
+- **Score:** 3.5/10 — supply 1.5/5, demand 2/5
 - **New supply:** +2.10% in 90 days · +8.39% in a year
-- **Demand:** modest (2.5/5)
+- **Demand:** weak (2/5)
 - **Price drivers:** 0 ▲ price up · 1 ▼ price down
 
 ## Supply: how much new ENA is coming
@@ -26,7 +26,7 @@ Over the next 90 days ENA supply changes +2.10%; across a full year, +8.39%. Tha
 
 ## How strong is Ethena demand?
 
-People's appetite for Ethena is **modest**: 2.5/5, ranked #47 of 109.
+People's appetite for Ethena is **weak**: 2/5, ranked #63 of 109.
 
 The members-only part of ENA's demand section is not included.
 
@@ -45,7 +45,7 @@ Good for the price: More USDe in use. Bad for it: USDe shrinks. Now: ▼ down si
 | Aug 31 2026 | 4.08 B USDe |
 | Sep 30 2026 | 4.9 B USDe |
 | Oct 31 2026 | 4.53 B USDe |
-| Nov 5 2026 | 4.61 B USDe |
+| Nov 9 2026 | 4.98 B USDe |
 
 *Checked Nov 2 2026*
 
@@ -77,7 +77,7 @@ Ethena (ENA) supply grows +8.39% over the next 12 months and +2.10% over the nex
 
 ### When is the next ENA token unlock?
 
-The next Ethena (ENA) unlock we track is on Nov 5 2026: about 93.8M ENA, 0.70% of the ENA in circulation (Monthly team unlock). Checked Nov 2 2026.
+The next Ethena (ENA) unlock we track is on Dec 5 2026: about 93.8M ENA, 0.70% of the ENA in circulation (Monthly team unlock). Checked Nov 2 2026.
 
 ### Does Ethena burn or buy back ENA?
 

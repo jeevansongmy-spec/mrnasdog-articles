@@ -1,6 +1,6 @@
 ---
 title:         "Is PIEVERSE Inflationary? +25.93% New Supply in 90 Days"
-description:   "How much new PIEVERSE is coming? +25.93% in the next 90 days, +104.16% in the next year — checked Oct 28 2026."
+description:   "How much new PIEVERSE is coming? +25.93% in the next 90 days, +104.16% in the next year — checked Nov 6 2026."
 canonical_url: "https://mrnasdog.com/research/pieverse"
 content_type:  "coin_hub"
 tags:          ["crypto", "pieverse", "pieverse", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Is PIEVERSE Inflationary? +25.93% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/pieverse, updated Nov 6 2026*
+*From https://mrnasdog.com/research/pieverse, updated Nov 9 2026*
 
-How much new PIEVERSE is coming? **+25.93%** in the next 90 days, **+104.16%** in the next year — checked Oct 28 2026.
+How much new PIEVERSE is coming? **+25.93%** in the next 90 days, **+104.16%** in the next year — checked Nov 6 2026.
 
 - **Signal:** negative for Pieverse
 - **Score:** 0.5/10 — supply 0/5, demand 0.5/5
@@ -20,7 +20,7 @@ How much new PIEVERSE is coming? **+25.93%** in the next 90 days, **+104.16%** i
 
 ## New PIEVERSE hitting the market
 
-Pieverse prints no new coins and burns none, but team-run wallets paid out 29.75M PIEVERSE in 90 days (+10.83%). The team and investor lock ends Nov 14 2026, so about 71.25M is due next (+25.93%).
+A 1B supply with only 274.75M circulating; team-run wallets pay out monthly, and team and investor coins start vesting on Nov 14 2026.
 
 Pieverse adds +25.93% new supply in the next 90 days and +104.16% over a year — supply scores 0/5 (extreme).
 
@@ -42,7 +42,7 @@ Good for the price: Bigger exchanges list it. Bad for it: Delistings.
 | Apr 20 2026 | Upbit KRW market opens |
 | May 20 2026 | Kraken spot listed |
 
-*Checked Oct 28 2026*
+*Checked Nov 6 2026*
 
 ### • Product rollout
 
@@ -59,7 +59,7 @@ Real users and payments → price up · Products stay unused → price down.
 | Sep 16 2026 | Added to Arc mainnet |
 | Q4 2026 | Global compliance push (coming) |
 
-*Checked Oct 28 2026*
+*Checked Nov 6 2026*
 
 ## Demand: how much people want PIEVERSE
 
@@ -71,31 +71,31 @@ The members-only part of PIEVERSE's demand section is not included.
 
 ### Is PIEVERSE inflationary or deflationary?
 
-PIEVERSE is inflationary right now: its supply changes +25.93% over the next 90 days and +104.16% over the next year (checked Oct 28 2026). More PIEVERSE is added than removed.
+PIEVERSE is inflationary right now: its supply changes +25.93% over the next 90 days and +104.16% over the next year (checked Nov 6 2026). More PIEVERSE is added than removed.
 
 ### What is the PIEVERSE inflation rate in 2026?
 
-About +104.16% a year: that is how much PIEVERSE supply changes over the next 12 months, with +25.93% in the next 90 days (checked Oct 28 2026). That puts PIEVERSE #4 of 100 coins we track for new supply (#1 = the most new supply).
+About +104.16% a year: that is how much PIEVERSE supply changes over the next 12 months, with +25.93% in the next 90 days (checked Nov 6 2026). That puts PIEVERSE #3 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next PIEVERSE token unlock?
 
-The next PIEVERSE unlock we track is on Nov 14 2026: about 16.7M PIEVERSE, 6.07% of the PIEVERSE in circulation (Team + investor unlock (first after the 12-month lock) — new supply). Checked Oct 28 2026.
+The next PIEVERSE unlock we track is on Nov 14 2026: about 16.7M PIEVERSE, 6.07% of the PIEVERSE in circulation (Team and investor lock ends, first monthly release — Sell). Checked Nov 6 2026.
 
 ### Is any PIEVERSE burned or bought back?
 
-Not in a way that removes PIEVERSE today: nothing takes PIEVERSE off the market over the next 90 days (checked Oct 28 2026). No buyback and no burn; staking holds about 10.72M that still counts as circulating.
+Not in a way that removes PIEVERSE today: nothing takes PIEVERSE off the market over the next 90 days (checked Nov 6 2026). Nothing takes PIEVERSE back: no buyback and no burn. About 10.72M is staked for points, but staked coins still count as circulating.
 
 ### Where does new PIEVERSE supply come from?
 
-In our count, about 71.3M new PIEVERSE reaches the market over the next 90 days (checked Oct 28 2026). How it works: Team-run wallets paid out 29.75M PIEVERSE in 90 days, and the team and investor lock ends Nov 14 2026, adding about 16.67M a month.
+In our count, about 71.3M new PIEVERSE reaches the market over the next 90 days (checked Nov 6 2026). How it works: Team-run wallets released 29.75M PIEVERSE in 90 days, and from Nov 14 2026 team and investor coins add about 16.67M a month.
 
 ### How much PIEVERSE is in circulation?
 
-About 275M PIEVERSE is in circulation (checked Oct 28 2026). Over the next 90 days that changes +25.93%, and over a year +104.16%.
+About 275M PIEVERSE is in circulation (checked Nov 6 2026). Over the next 90 days that changes +25.93%, and over a year +104.16%.
 
-### Does PIEVERSE have more new supply than GNO, BONK or KITE?
+### Does PIEVERSE have more new supply than VIRTUAL, BSV or TRUMP?
 
-Over the next 90 days (checked Oct 28 2026): PIEVERSE +25.93%, GNO 0.00%, BONK 0.00%, KITE +39.63%. PIEVERSE sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 6 2026): PIEVERSE +25.93%, VIRTUAL +0.04%, BSV +0.20%, TRUMP +11.93%. PIEVERSE has the most new supply of these 4 coins.
 
 ## Next steps for PIEVERSE
 

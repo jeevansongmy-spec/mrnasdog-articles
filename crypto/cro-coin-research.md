@@ -8,25 +8,25 @@ published:     true
 ---
 # Cronos (CRO) Supply & Demand: +7.19% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/cro · checked Nov 5 2026*
+*Live page: https://mrnasdog.com/research/cro · checked Nov 9 2026*
 
 Cronos (CRO) supply changes **+7.19%** over the next 90 days and **+28.48%** over a year (checked Nov 2 2026).
 
 - **Long-run signal:** negative (by the law of supply and demand)
-- **Score:** 4/10 — supply 0.5/5, demand 3.5/5
+- **Score:** 3.5/10 — supply 0.5/5, demand 3/5
 - **New supply:** +7.19% in 90 days · +28.48% in a year
-- **Demand:** strong (3.5/5)
+- **Demand:** moderate (3/5)
 - **Price drivers:** 0 ▲ price up · 1 ▼ price down
 
 ## CRO supply
 
 Cronos frees 1.17B CRO a month from a 70B reserve until 2030, so supply grew 6.81% in 90 days and should grow about 7.19% next, far more than its burns remove.
 
-Over the next 90 days CRO supply changes +7.19%; across a full year, +28.48%. That puts supply at 0.5/5 (flooding), #11 of 100 for new supply.
+Over the next 90 days CRO supply changes +7.19%; across a full year, +28.48%. That puts supply at 0.5/5 (flooding), #13 of 100 for new supply.
 
 ## CRO demand
 
-People's appetite for Cronos is **strong**: 3.5/5, ranked #20 of 109.
+People's appetite for Cronos is **moderate**: 3/5, ranked #32 of 109.
 
 (Members see more CRO demand detail on the page; it is not repeated here.)
 
@@ -92,7 +92,7 @@ As of Nov 2 2026, Cronos (CRO) supply moves +7.19% in 90 days and +28.48% in a y
 
 ### What is the CRO inflation rate in 2026?
 
-Cronos (CRO) supply grows +28.48% over the next 12 months and +7.19% over the next 90 days (checked Nov 2 2026). That puts CRO #11 of 100 coins we track for new supply (#1 = the most new supply).
+Cronos (CRO) supply grows +28.48% over the next 12 months and +7.19% over the next 90 days (checked Nov 2 2026). That puts CRO #13 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next CRO token unlock?
 

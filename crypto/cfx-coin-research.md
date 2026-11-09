@@ -8,11 +8,11 @@ published:     true
 ---
 # Conflux (CFX) Tokenomics: +0.44% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/cfx (checked Nov 8 2026)*
+*Originally published at https://mrnasdog.com/research/cfx (checked Nov 9 2026)*
 
 As of Nov 8 2026, new Conflux supply runs at **+0.44%** over 90 days and **+1.79%** over 12 months.
 
-- **Signal:** negative (Nov 8 2026)
+- **Signal:** negative (Nov 9 2026)
 - **Score:** 3.5/10 — supply 3/5, demand 0.5/5
 - **Supply growth:** +0.44% in 90 days · +1.79% in a year
 - **How much people want it:** very low (0.5/5)

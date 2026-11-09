@@ -8,11 +8,11 @@ published:     true
 ---
 # Hedera (HBAR) Tokenomics: +1.26% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/hbar (checked Nov 5 2026)*
+*Originally published at https://mrnasdog.com/research/hbar (checked Nov 9 2026)*
 
 As of Nov 1 2026, new Hedera supply runs at **+1.26%** over 90 days and **+5.09%** over 12 months.
 
-- **Long-run signal:** negative (Nov 5 2026)
+- **Long-run signal:** negative (Nov 9 2026)
 - **Score:** 3.5/10 — supply 2/5, demand 1.5/5
 - **New supply:** +1.26% in 90 days · +5.09% in a year
 - **Demand:** very weak (1.5/5)
@@ -22,7 +22,7 @@ As of Nov 1 2026, new Hedera supply runs at **+1.26%** over 90 days and **+5.09%
 
 Hedera's supply grew 1.21% in 90 days as the Council released 536M HBAR from its reserve, with nothing burned. The reserve still holds 5.67B HBAR, and about 1.26% more is expected next.
 
-New HBAR: +1.26% in 90 days, +5.09% in a year. Supply score 2/5, "growing", #42 of 100 for new supply.
+New HBAR: +1.26% in 90 days, +5.09% in a year. Supply score 2/5, "growing", #41 of 100 for new supply.
 
 ## The things that move Hedera
 
@@ -74,7 +74,7 @@ Hedera (HBAR) is inflationary right now: its supply changes +1.26% over the next
 
 ### What is the HBAR inflation rate in 2026?
 
-About +5.09% a year: that is how much Hedera (HBAR) supply changes over the next 12 months, with +1.26% in the next 90 days (checked Nov 1 2026). That puts HBAR #42 of 100 coins we track for new supply (#1 = the most new supply).
+About +5.09% a year: that is how much Hedera (HBAR) supply changes over the next 12 months, with +1.26% in the next 90 days (checked Nov 1 2026). That puts HBAR #41 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next HBAR token unlock?
 

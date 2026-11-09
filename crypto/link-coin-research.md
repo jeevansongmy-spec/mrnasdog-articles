@@ -8,14 +8,14 @@ published:     true
 ---
 # Chainlink (LINK) Supply & Demand: +1.47% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/link · checked Nov 5 2026*
+*Live page: https://mrnasdog.com/research/link · checked Nov 9 2026*
 
 Chainlink (LINK) supply changes **+1.47%** over the next 90 days and **+9.13%** over a year (checked Oct 31 2026).
 
 - **Long-run signal:** mixed (by the law of supply and demand)
-- **Score:** 6.5/10 — supply 1.5/5, demand 5/5
+- **Score:** 6/10 — supply 1.5/5, demand 4.5/5
 - **New supply:** +1.47% in 90 days · +9.13% in a year
-- **Demand:** exceptional (5/5)
+- **Demand:** very strong (4.5/5)
 - **Price drivers:** 2 ▲ price up · 0 ▼ price down
 
 ## LINK supply
@@ -26,7 +26,7 @@ Over the next 90 days LINK supply changes +1.47%; across a full year, +9.13%. Th
 
 ## Demand: how much people want LINK
 
-People's appetite for Chainlink is **exceptional**: 5/5, ranked #1 of 109.
+People's appetite for Chainlink is **very strong**: 4.5/5, ranked #5 of 109.
 
 Members get the rest of the Chainlink demand read on mrnasdog.com.
 

@@ -8,7 +8,7 @@ published:     true
 ---
 # PONS Inflation Rate: −15.76% Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/pons — numbers checked Nov 5 2026*
+*Source: https://mrnasdog.com/research/pons — numbers checked Nov 9 2026*
 
 **−15.76%** in 90 days, **−63.03%** in a year: that is how fast PONS supply changes as of Nov 3 2026.
 
@@ -26,7 +26,7 @@ Expect −15.76% more PONS in 90 days (−63.03% over the year). On supply alone
 
 ## Demand today
 
-How much do people want PONS? **very strong** — 4.5 out of 5, #6 of 109.
+How much do people want PONS? **very strong** — 4.5 out of 5, #5 of 109.
 
 A deeper PONS demand breakdown is on the page for members.
 
@@ -60,7 +60,7 @@ Chain meme trading cooled from its September peak; PONS moves with it
 | Aug 31 2026 | $19.1B |
 | Sep 30 2026 | $56B |
 | Oct 31 2026 | $27.8B |
-| Nov 5 2026 | $23B |
+| Nov 9 2026 | $21.8B |
 
 *Checked Nov 3 2026*
 
@@ -111,7 +111,7 @@ PONS has about 671M coins in circulation as of Nov 3 2026; the next 90 days chan
 
 ### Does PONS have more new supply than SYRUP, IMX or FORM?
 
-Over the next 90 days (checked Nov 3 2026): PONS −15.76%, SYRUP +1.06%, IMX +2.25%, FORM +0.01%. PONS has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 3 2026): PONS −15.76%, SYRUP +0.82%, IMX +2.25%, FORM +0.01%. PONS has the least new supply of these 4 coins.
 
 ## Where to read the rest of PONS
 

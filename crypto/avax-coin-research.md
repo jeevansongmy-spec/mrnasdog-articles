@@ -8,7 +8,7 @@ published:     true
 ---
 # Avalanche (AVAX) Inflation Rate: +1.06% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/avax — numbers checked Nov 5 2026*
+*Source: https://mrnasdog.com/research/avax — numbers checked Nov 9 2026*
 
 **+1.06%** in 90 days, **+4.25%** in a year: that is how fast Avalanche (AVAX) supply changes as of Nov 1 2026.
 
@@ -60,7 +60,7 @@ US funds' AVAX rose from 0.8M to 4.9M by Jun 30 2026.
 
 ## Who wants Avalanche right now
 
-How much do people want AVAX? **moderate** — 3 out of 5, #34 of 109.
+How much do people want AVAX? **moderate** — 3 out of 5, #32 of 109.
 
 A deeper AVAX demand breakdown is on the page for members.
 
@@ -76,7 +76,7 @@ Avalanche (AVAX) supply grows +4.25% over the next 12 months and +1.06% over the
 
 ### When is the next AVAX token unlock?
 
-The next Avalanche (AVAX) unlock we track is on Nov 8 2026: about 1.67M AVAX, 0.38% of the AVAX in circulation (Avalanche Foundation genesis unlock). Checked Nov 1 2026.
+No dated Avalanche (AVAX) unlock is scheduled in the next 90 days (checked Nov 1 2026). New AVAX still arrives: about 4.83M AVAX in 90 days.
 
 ### Does Avalanche burn or buy back AVAX?
 

@@ -8,14 +8,14 @@ published:     true
 ---
 # Sei Network (SEI) Tokenomics: +4.96% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/sei (checked Nov 5 2026)*
+*Originally published at https://mrnasdog.com/research/sei (checked Nov 9 2026)*
 
 As of Nov 5 2026, new Sei Network supply runs at **+4.96%** over 90 days and **+17.47%** over 12 months.
 
-- **Long-run signal:** negative (Nov 5 2026)
-- **Score:** 1.5/10 — supply 0.5/5, demand 1/5
+- **Long-run signal:** negative (Nov 9 2026)
+- **Score:** 2/10 — supply 0.5/5, demand 1.5/5
 - **New supply:** +4.96% in 90 days · +17.47% in a year
-- **Demand:** low (1/5)
+- **Demand:** very weak (1.5/5)
 - **Price drivers:** 1 ▲ price up · 2 ▼ price down
 
 ## Is SEI inflationary? Questions about Sei Network supply
@@ -44,9 +44,9 @@ In our count, about 334M new SEI reaches the market over the next 90 days (check
 
 About 6.73B SEI is in circulation (checked Nov 5 2026). Over the next 90 days that changes +4.96%, and over a year +17.47%.
 
-### Does SEI have more new supply than SUN, STRK or XTZ?
+### Does SEI have more new supply than SPX, FF or STRK?
 
-Over the next 90 days (checked Nov 5 2026): SEI +4.96%, SUN −0.03%, STRK +9.23%, XTZ +0.73%. SEI sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 5 2026): SEI +4.96%, SPX 0.00%, FF +17.18%, STRK +9.23%. SEI sits in the middle of these 4 coins.
 
 ## How fast Sei Network supply grows
 
@@ -56,7 +56,7 @@ New SEI: +4.96% in 90 days, +17.47% in a year. Supply score 0.5/5, "flooding".
 
 ## Demand: how much people want SEI
 
-Sei Network demand: 1/5 (**low**), place #91 among 109 coins — interest today plus the buying that could come later.
+Sei Network demand: 1.5/5 (**very weak**), place #78 among 109 coins — interest today plus the buying that could come later.
 
 The members-only part of SEI's demand section is not included.
 
@@ -113,7 +113,7 @@ Dollars on Sei fell by about two thirds since Dec 31 2025.
 | Aug 31 2026 | $44.7M |
 | Sep 30 2026 | $48M |
 | Oct 31 2026 | $39.1M |
-| Nov 6 2026 | $35.6M |
+| Nov 9 2026 | $37.4M |
 
 *Checked Nov 5 2026*
 

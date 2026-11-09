@@ -8,7 +8,7 @@ published:     true
 ---
 # Uniswap (UNI) Supply & Demand: +0.01% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/uni · checked Nov 5 2026*
+*Live page: https://mrnasdog.com/research/uni · checked Nov 9 2026*
 
 Uniswap (UNI) supply changes **+0.01%** over the next 90 days and **+0.05%** over a year (checked Nov 1 2026).
 
@@ -45,7 +45,7 @@ Treasury keeps its UNI → price up · Treasury pays out UNI → price down. Now
 | Aug 31 2026 | 267 M UNI |
 | Sep 30 2026 | 267 M UNI |
 | Oct 31 2026 | 262 M UNI |
-| Nov 5 2026 | 262 M UNI |
+| Nov 9 2026 | 262 M UNI |
 
 *Checked Nov 1 2026*
 

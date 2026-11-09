@@ -8,11 +8,11 @@ published:     true
 ---
 # Arbitrum (ARB) Tokenomics: +6.11% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/arb (checked Nov 5 2026)*
+*Originally published at https://mrnasdog.com/research/arb (checked Nov 9 2026)*
 
 As of Nov 3 2026, new Arbitrum supply runs at **+6.11%** over 90 days and **+9.35%** over 12 months.
 
-- **Signal:** mixed (Nov 5 2026)
+- **Signal:** mixed (Nov 9 2026)
 - **Score:** 4.5/10 — supply 0.5/5, demand 4/5
 - **Supply growth:** +6.11% in 90 days · +9.35% in a year
 - **How much people want it:** strong (4/5)
@@ -45,7 +45,7 @@ Robinhood Chain grows → price up · Robinhood Chain fades → price down. Toda
 | Aug 31 2026 | $0.714B |
 | Sep 30 2026 | $1.01B |
 | Oct 31 2026 | $1.09B |
-| Nov 5 2026 | $1.09B |
+| Nov 9 2026 | $1.07B |
 
 *Checked Nov 3 2026*
 
@@ -76,7 +76,7 @@ Arbitrum (ARB) is inflationary right now: its supply changes +6.11% over the nex
 
 ### What is the ARB inflation rate in 2026?
 
-About +9.35% a year: that is how much Arbitrum (ARB) supply changes over the next 12 months, with +6.11% in the next 90 days (checked Nov 3 2026). That puts ARB #13 of 100 coins we track for new supply (#1 = the most new supply).
+About +9.35% a year: that is how much Arbitrum (ARB) supply changes over the next 12 months, with +6.11% in the next 90 days (checked Nov 3 2026). That puts ARB #15 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next ARB token unlock?
 

@@ -8,7 +8,7 @@ published:     true
 ---
 # Shiba Inu (SHIB) Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/shib · checked Nov 5 2026*
+*Live page: https://mrnasdog.com/research/shib · checked Nov 9 2026*
 
 Shiba Inu (SHIB) supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 1 2026).
 
@@ -58,7 +58,7 @@ Over the next 90 days SHIB supply changes 0.00%; across a full year, 0.00%. That
 
 ## SHIB demand
 
-People's appetite for Shiba Inu is **moderate**: 3/5, ranked #34 of 109.
+People's appetite for Shiba Inu is **moderate**: 3/5, ranked #32 of 109.
 
 A deeper SHIB demand breakdown is on the page for members.
 

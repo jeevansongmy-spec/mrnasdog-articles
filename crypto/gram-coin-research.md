@@ -8,7 +8,7 @@ published:     true
 ---
 # Is GRAM Inflationary? +3.57% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/gram, updated Nov 5 2026*
+*From https://mrnasdog.com/research/gram, updated Nov 9 2026*
 
 How much new GRAM is coming? **+3.57%** in the next 90 days, **+13.79%** in the next year — checked Nov 1 2026.
 

@@ -8,7 +8,7 @@ published:     true
 ---
 # Canton Coin (CC) Inflation Rate: +1.82% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/cc — numbers checked Nov 5 2026*
+*Source: https://mrnasdog.com/research/cc — numbers checked Nov 9 2026*
 
 **+1.82%** in 90 days, **+7.38%** in a year: that is how fast Canton Coin (CC) supply changes as of Nov 1 2026.
 
@@ -59,11 +59,11 @@ Listed firm holds 3.7B CC and kept adding through Jun 30 2026.
 
 Canton Coin is minted as rewards every ten minutes and burned for every fee. In 90 days 2.07B new CC met a 1.34B burn, so supply rose 1.82%.
 
-Expect +1.82% more CC in 90 days (+7.38% over the year). On supply alone Canton Coin gets 1.5/5 — heavy (place 34 of 100).
+Expect +1.82% more CC in 90 days (+7.38% over the year). On supply alone Canton Coin gets 1.5/5 — heavy (place 35 of 100).
 
 ## How strong is Canton Coin demand?
 
-How much do people want CC? **strong** — 3.5 out of 5, #20 of 109.
+How much do people want CC? **strong** — 3.5 out of 5, #23 of 109.
 
 (Members see more CC demand detail on the page; it is not repeated here.)
 
@@ -75,7 +75,7 @@ As of Nov 1 2026, Canton Coin (CC) supply moves +1.82% in 90 days and +7.38% in 
 
 ### What is the CC inflation rate in 2026?
 
-Canton Coin (CC) supply grows +7.38% over the next 12 months and +1.82% over the next 90 days (checked Nov 1 2026). That puts CC #34 of 100 coins we track for new supply (#1 = the most new supply).
+Canton Coin (CC) supply grows +7.38% over the next 12 months and +1.82% over the next 90 days (checked Nov 1 2026). That puts CC #35 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next CC token unlock?
 

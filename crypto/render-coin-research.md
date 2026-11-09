@@ -8,14 +8,14 @@ published:     true
 ---
 # Render Network (RENDER) Supply & Demand: +0.27% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/render · checked Nov 5 2026*
+*Live page: https://mrnasdog.com/research/render · checked Nov 9 2026*
 
 Render Network (RENDER) supply changes **+0.27%** over the next 90 days and **+1.11%** over a year (checked Oct 31 2026).
 
 - **Signal today:** mixed (by the law of supply and demand)
-- **MrNasDog score:** 6.5/10 — supply 3/5, demand 3.5/5
+- **MrNasDog score:** 6/10 — supply 3/5, demand 3/5
 - **New coins:** +0.27% in 90 days · +1.11% in a year
-- **Demand:** strong (3.5/5)
+- **Demand:** moderate (3/5)
 - **Drivers:** 0 ▲ price up · 0 ▼ price down
 
 ## Supply — new RENDER in the next 90 days
@@ -26,7 +26,7 @@ Over the next 90 days RENDER supply changes +0.27%; across a full year, +1.11%. 
 
 ## Demand today
 
-People's appetite for Render Network is **strong**: 3.5/5, ranked #20 of 109.
+People's appetite for Render Network is **moderate**: 3/5, ranked #32 of 109.
 
 Members get the rest of the Render Network demand read on mrnasdog.com.
 
@@ -45,7 +45,7 @@ Good for the price: OTOY holds, no selling. Bad for it: OTOY moves more out.
 | Aug 31 2026 | 81.9 M RENDER |
 | Sep 30 2026 | 81.9 M RENDER |
 | Oct 31 2026 | 81.9 M RENDER |
-| Nov 5 2026 | 81.9 M RENDER |
+| Nov 9 2026 | 81.9 M RENDER |
 
 *Checked Oct 31 2026*
 
@@ -94,9 +94,9 @@ In our count, about 2.05M new RENDER reaches the market over the next 90 days (c
 
 Render Network (RENDER) has about 534M coins in circulation as of Oct 31 2026; the next 90 days change that by +0.27% (+1.11% over a year).
 
-### Does RENDER have more new supply than ALGO, LIT or NEXO?
+### Does RENDER have more new supply than ALGO, LIT or INJ?
 
-Over the next 90 days (checked Oct 31 2026): RENDER +0.27%, ALGO +0.48%, LIT +6.38%, NEXO 0.00%. RENDER sits in the middle of these 4 coins.
+Over the next 90 days (checked Oct 31 2026): RENDER +0.27%, ALGO +0.48%, LIT +6.38%, INJ +0.80%. RENDER has the least new supply of these 4 coins.
 
 ## Where to read the rest of RENDER
 

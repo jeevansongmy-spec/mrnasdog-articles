@@ -8,7 +8,7 @@ published:     true
 ---
 # ether.fi (ETHFI) Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/ethfi · checked Nov 5 2026*
+*Live page: https://mrnasdog.com/research/ethfi · checked Nov 9 2026*
 
 ether.fi (ETHFI) supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 4 2026).
 
@@ -26,7 +26,7 @@ Over the next 90 days ETHFI supply changes 0.00%; across a full year, 0.00%. Tha
 
 ## Demand today
 
-People's appetite for ether.fi is **moderate**: 3/5, ranked #34 of 109.
+People's appetite for ether.fi is **moderate**: 3/5, ranked #32 of 109.
 
 Extra ether.fi demand detail for members stays on the live page.
 
@@ -60,7 +60,7 @@ Good for the price: More money in Cash. Bad for it: Users pull money. Now: ▲ u
 | Aug 31 2026 | $203M |
 | Sep 30 2026 | $242M |
 | Oct 31 2026 | $242M |
-| Nov 5 2026 | $249M |
+| Nov 9 2026 | $238M |
 
 *Checked Nov 4 2026*
 
@@ -90,9 +90,9 @@ Almost no new ETHFI reaches the market over the next 90 days (checked Nov 4 2026
 
 ether.fi (ETHFI) has about 999M coins in circulation as of Nov 4 2026; the next 90 days change that by 0.00% (0.00% over a year).
 
-### Does ETHFI have more new supply than DASH, PYTH or STX?
+### Does ETHFI have more new supply than DASH, APT or FLR?
 
-Over the next 90 days (checked Nov 4 2026): ETHFI 0.00%, DASH +0.73%, PYTH 0.00%, STX +1.28%. ETHFI sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 4 2026): ETHFI 0.00%, DASH +0.73%, APT +2.03%, FLR +1.04%. ETHFI has the least new supply of these 4 coins.
 
 ## Read more on ETHFI
 

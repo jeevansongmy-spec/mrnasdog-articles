@@ -8,7 +8,7 @@ published:     true
 ---
 # XRP Supply & Demand: +1.42% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/xrp · checked Nov 8 2026*
+*Live page: https://mrnasdog.com/research/xrp · checked Nov 9 2026*
 
 XRP supply changes **+1.42%** over the next 90 days and **+5.67%** over a year (checked Nov 8 2026).
 

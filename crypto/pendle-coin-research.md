@@ -1,28 +1,28 @@
 ---
-title:         "PENDLE Inflation Rate: +1.64% New Supply in 90 Days"
-description:   "No PENDLE is minted, but treasury wallets and ended vote-locks released 2.09M PENDLE in 90 days, up 1.20%; 2.24M more locks end by late January."
+title:         "PENDLE Inflation Rate: +2.58% New Supply in 90 Days"
+description:   "Pendle's supply grows from old vePENDLE locks running out and project wallets paying out, not from minting; its fee buyback pays stakers instead of removing coins."
 canonical_url: "https://mrnasdog.com/research/pendle"
 content_type:  "coin_hub"
 tags:          ["crypto", "pendle", "pendle", "should-i-buy"]
 published:     true
 ---
-# PENDLE Inflation Rate: +1.64% New Supply in 90 Days
+# PENDLE Inflation Rate: +2.58% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/pendle — numbers checked Nov 6 2026*
+*Source: https://mrnasdog.com/research/pendle — numbers checked Nov 9 2026*
 
-**+1.64%** in 90 days, **+7.42%** in a year: that is how fast PENDLE supply changes as of Oct 28 2026.
+**+2.58%** in 90 days, **+8.68%** in a year: that is how fast PENDLE supply changes as of Nov 6 2026.
 
 - **Signal today:** negative — PENDLE, read by supply and demand
-- **MrNasDog score:** 4/10 — supply 1.5/5, demand 2.5/5
-- **New coins:** +1.64% in 90 days · +7.42% in a year
+- **MrNasDog score:** 3.5/10 — supply 1/5, demand 2.5/5
+- **New coins:** +2.58% in 90 days · +8.68% in a year
 - **Demand:** modest (2.5/5)
 - **Drivers:** 0 ▲ price up · 2 ▼ price down
 
 ## PENDLE supply
 
-No PENDLE is minted, but treasury wallets and ended vote-locks released 2.09M PENDLE in 90 days, up 1.20%; 2.24M more locks end by late January.
+Pendle's supply grows from old vePENDLE locks running out and project wallets paying out, not from minting; its fee buyback pays stakers instead of removing coins.
 
-Expect +1.64% more PENDLE in 90 days (+7.42% over the year). On supply alone Pendle gets 1.5/5 — heavy (place 36 of 100).
+Expect +2.58% more PENDLE in 90 days (+8.68% over the year). On supply alone Pendle gets 1/5 — very heavy (place 28 of 100).
 
 ## PENDLE price drivers the score does not count
 
@@ -39,9 +39,9 @@ Good for the price: More money parked. Bad for it: Money keeps leaving. Right no
 | Aug 31 2026 | $1.18B |
 | Sep 30 2026 | $1.26B |
 | Oct 31 2026 | $1.02B |
-| Nov 6 2026 | $1.01B |
+| Nov 9 2026 | $1.01B |
 
-*Checked Oct 28 2026*
+*Checked Nov 6 2026*
 
 ### ▼ Ethena's share
 
@@ -51,12 +51,12 @@ Ethena went from 70% of Pendle's money to about 5%
 
 | Date | Ethena (USDe + sUSDe) |
 |---|---|
-| Sep 30 2026 | 8% |
 | Oct 10 2026 | 8.1% |
 | Oct 18 2026 | 7.7% |
 | Oct 28 2026 | 5.3% |
+| Nov 6 2026 | 5.2% |
 
-*Checked Oct 28 2026*
+*Checked Nov 6 2026*
 
 ## Who wants Pendle right now
 
@@ -68,31 +68,31 @@ Extra Pendle demand detail for members stays on the live page.
 
 ### Is PENDLE inflationary or deflationary?
 
-As of Oct 28 2026, PENDLE supply moves +1.64% in 90 days and +7.42% in a year, so PENDLE is inflationary. New PENDLE outweighs what is burned or bought back.
+As of Nov 6 2026, PENDLE supply moves +2.58% in 90 days and +8.68% in a year, so PENDLE is inflationary. New PENDLE outweighs what is burned or bought back.
 
 ### What is the PENDLE inflation rate in 2026?
 
-PENDLE supply grows +7.42% over the next 12 months and +1.64% over the next 90 days (checked Oct 28 2026). That puts PENDLE #36 of 100 coins we track for new supply (#1 = the most new supply).
+PENDLE supply grows +8.68% over the next 12 months and +2.58% over the next 90 days (checked Nov 6 2026). That puts PENDLE #28 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next PENDLE token unlock?
 
-No dated PENDLE unlock is scheduled in the next 90 days (checked Oct 28 2026). New PENDLE still arrives: about 2.85M PENDLE in 90 days.
+The next PENDLE unlock we track is on Dec 31 2026: about 1.13M PENDLE, 0.65% of the PENDLE in circulation (vePENDLE locks end — Unlock). Checked Nov 6 2026.
 
 ### Is any PENDLE burned or bought back?
 
-Not in a way that removes PENDLE today: nothing takes PENDLE off the market over the next 90 days (checked Oct 28 2026). The fee buyback bought 815,387 PENDLE, but it all goes to stakers, who still count as circulating, so it removes none. No burn.
+Not in a way that removes PENDLE today: nothing takes PENDLE off the market over the next 90 days (checked Nov 6 2026). Fees bought back 741,958 PENDLE in 90 days, but all of it goes to sPENDLE stakers and stays in circulation. PENDLE has no burn.
 
 ### Where does new PENDLE supply come from?
 
-In our count, about 2.85M new PENDLE reaches the market over the next 90 days (checked Oct 28 2026). How it works: Nothing minted, but the treasury paid 500K PENDLE into pool rewards, sent 600K to an exchange, the team multisig paid 105K, and 883K left ended vote-locks: 2.09M in 90 days.
+In our count, about 4.49M new PENDLE reaches the market over the next 90 days (checked Nov 6 2026). How it works: No new PENDLE was minted. Project wallets paid out 1.21M in 90 days and old vePENDLE locks released 513K; another 3.44M locked PENDLE reaches its end date by Feb 4 2027.
 
 ### How much PENDLE is in circulation?
 
-PENDLE has about 174M coins in circulation as of Oct 28 2026; the next 90 days change that by +1.64% (+7.42% over a year).
+PENDLE has about 174M coins in circulation as of Nov 6 2026; the next 90 days change that by +2.58% (+8.68% over a year).
 
-### Does PENDLE have more new supply than BTT, TRUMP or LDO?
+### Does PENDLE have more new supply than XTZ, LDO or XPL?
 
-Over the next 90 days (checked Oct 28 2026): PENDLE +1.64%, BTT −2.17%, TRUMP +11.93%, LDO +5.15%. PENDLE sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 6 2026): PENDLE +2.58%, XTZ +0.72%, LDO +5.08%, XPL +14.35%. PENDLE sits in the middle of these 4 coins.
 
 ## Go deeper on Pendle
 

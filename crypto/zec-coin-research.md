@@ -8,7 +8,7 @@ published:     true
 ---
 # Zcash (ZEC) Supply & Demand: +0.95% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/zec · checked Nov 8 2026*
+*Live page: https://mrnasdog.com/research/zec · checked Nov 9 2026*
 
 Zcash (ZEC) supply changes **+0.95%** over the next 90 days and **+3.84%** over a year (checked Nov 8 2026).
 

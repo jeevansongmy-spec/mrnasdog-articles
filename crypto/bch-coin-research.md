@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Bitcoin Cash (BCH) Inflationary? +0.20% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/bch, updated Nov 5 2026*
+*From https://mrnasdog.com/research/bch, updated Nov 9 2026*
 
 How much new BCH is coming? **+0.20%** in the next 90 days, **+0.82%** in the next year — checked Oct 31 2026.
 
@@ -56,7 +56,7 @@ Bitcoin Cash adds +0.20% new supply in the next 90 days and +0.82% over a year �
 
 ## Demand: how much people want BCH
 
-Demand reads **weak** (2/5), #64 of 109 coins we track — that is how much people want BCH now and how much buying could still come.
+Demand reads **weak** (2/5), #63 of 109 coins we track — that is how much people want BCH now and how much buying could still come.
 
 The members-only part of BCH's demand section is not included.
 

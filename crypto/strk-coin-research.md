@@ -8,7 +8,7 @@ published:     true
 ---
 # Starknet (STRK) Supply & Demand: +9.23% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/strk · checked Nov 5 2026*
+*Live page: https://mrnasdog.com/research/strk · checked Nov 9 2026*
 
 Starknet (STRK) supply changes **+9.23%** over the next 90 days and **+25.52%** over a year (checked Nov 5 2026).
 
@@ -44,9 +44,9 @@ In our count, about 707M new STRK reaches the market over the next 90 days (chec
 
 Starknet (STRK) has about 7.66B coins in circulation as of Nov 5 2026; the next 90 days change that by +9.23% (+25.52% over a year).
 
-### Does STRK have more new supply than SEI, XTZ or GNO?
+### Does STRK have more new supply than FF, GNO or SUN?
 
-Over the next 90 days (checked Nov 5 2026): STRK +9.23%, SEI +4.96%, XTZ +0.73%, GNO 0.00%. STRK has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 5 2026): STRK +9.23%, FF +17.18%, GNO 0.00%, SUN −0.04%. STRK sits in the middle of these 4 coins.
 
 ## Supply: how much new STRK is coming
 
@@ -56,7 +56,7 @@ Over the next 90 days STRK supply changes +9.23%; across a full year, +25.52%. T
 
 ## How strong is Starknet demand?
 
-People's appetite for Starknet is **moderate**: 3/5, ranked #33 of 109.
+People's appetite for Starknet is **moderate**: 3/5, ranked #32 of 109.
 
 (Members see more STRK demand detail on the page; it is not repeated here.)
 

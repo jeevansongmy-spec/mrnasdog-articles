@@ -8,7 +8,7 @@ published:     true
 ---
 # Is JUST (JST) Inflationary? −1.25% Supply in 90 Days
 
-*From https://mrnasdog.com/research/jst, updated Nov 5 2026*
+*From https://mrnasdog.com/research/jst, updated Nov 9 2026*
 
 How much new JST is coming? **−1.25%** in the next 90 days, **−5.02%** in the next year — checked Nov 3 2026.
 
@@ -33,7 +33,7 @@ More money deposited → price up · Deposits leave → price down. Now: ▼ dow
 | Aug 31 2026 | $3.69B |
 | Sep 30 2026 | $3.87B |
 | Oct 31 2026 | $3.59B |
-| Nov 5 2026 | $3.52B |
+| Nov 9 2026 | $3.42B |
 
 *Checked Nov 3 2026*
 
@@ -64,7 +64,7 @@ JUST adds −1.25% new supply in the next 90 days and −5.02% over a year — s
 
 ## Demand: how much people want JST
 
-Demand reads **weak** (2/5), #64 of 109 coins we track — that is how much people want JST now and how much buying could still come.
+Demand reads **weak** (2/5), #63 of 109 coins we track — that is how much people want JST now and how much buying could still come.
 
 A deeper JST demand breakdown is on the page for members.
 

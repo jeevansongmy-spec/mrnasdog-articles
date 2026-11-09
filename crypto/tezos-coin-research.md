@@ -1,20 +1,20 @@
 ---
-title:         "Is Tezos (XTZ) Inflationary? +0.73% New Supply in 90 Days"
-description:   "How much new XTZ is coming? +0.73% in the next 90 days, +2.92% in the next year — checked Oct 29 2026."
+title:         "Is Tezos (XTZ) Inflationary? +0.72% New Supply in 90 Days"
+description:   "How much new XTZ is coming? +0.72% in the next 90 days, +2.88% in the next year — checked Nov 7 2026."
 canonical_url: "https://mrnasdog.com/research/tezos"
 content_type:  "coin_hub"
 tags:          ["crypto", "xtz", "tezos", "should-i-buy"]
 published:     true
 ---
-# Is Tezos (XTZ) Inflationary? +0.73% New Supply in 90 Days
+# Is Tezos (XTZ) Inflationary? +0.72% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/tezos, updated Nov 7 2026*
+*From https://mrnasdog.com/research/tezos, updated Nov 9 2026*
 
-How much new XTZ is coming? **+0.73%** in the next 90 days, **+2.92%** in the next year — checked Oct 29 2026.
+How much new XTZ is coming? **+0.72%** in the next 90 days, **+2.88%** in the next year — checked Nov 7 2026.
 
 - **Signal today:** negative for Tezos
 - **MrNasDog score:** 5/10 — supply 2.5/5, demand 2.5/5
-- **New coins:** +0.73% in 90 days · +2.92% in a year
+- **New coins:** +0.72% in 90 days · +2.88% in a year
 - **Demand:** modest (2.5/5)
 - **Drivers:** 1 ▲ price up · 2 ▼ price down
 
@@ -33,28 +33,28 @@ Good for the price: More money on Etherlink. Bad for it: Money leaves Etherlink.
 | Aug 31 2026 | $14.9M |
 | Sep 30 2026 | $16.1M |
 | Oct 31 2026 | $17.4M |
-| Nov 7 2026 | $17.5M |
+| Nov 9 2026 | $17.5M |
 
-*Checked Oct 29 2026*
+*Checked Nov 7 2026*
 
 ### ▲ Upgrade votes
 
-No new upgrade proposal since Ushuaia; next window ends Nov 4 2026.
+No upgrade proposal since Ushuaia; next window ends Nov 18 2026.
 
 Upgrades keep shipping → price up · Upgrades stall → price down. Today: the price-up case.
 
 | Date | What happened / what is coming |
 |---|---|
-| May 1 2025 | Rio upgrade live |
 | Sep 19 2025 | Seoul upgrade live |
 | Jan 24 2026 | Tallinn upgrade live |
 | May 4 2026 | Tezos X Previewnet |
 | Jun 30 2026 | Ushuaia upgrade live |
 | Sep 24 2026 | Quantumnet testnet |
 | Oct 21 2026 | No proposal, window shut |
-| Nov 4 2026 | Next window closes (coming) |
+| Nov 4 2026 | 2nd window, no proposal |
+| Nov 18 2026 | Next window closes (coming) |
 
-*Checked Oct 29 2026*
+*Checked Nov 7 2026*
 
 ### ▼ Foundation treasury
 
@@ -69,17 +69,17 @@ Treasury fell from $767M to $530M in about 640 days.
 | Jun 30 2025 | $641M | $72M |
 | Dec 31 2025 | $530M | $76M |
 
-*Checked Oct 29 2026*
+*Checked Nov 7 2026*
 
 ## New XTZ hitting the market
 
-Tezos has no supply cap and pays stakers in new XTZ every block, 8.03M in 90 days; small burns take back under 1%, so supply grows about 0.73% a quarter.
+Tezos pays bakers and stakers in new XTZ every block, and its small burns take back under 1%. Supply grows about 0.72% a quarter, with no cap and no vesting.
 
-Tezos adds +0.73% new supply in the next 90 days and +2.92% over a year — supply scores 2.5/5 (moderate).
+Tezos adds +0.72% new supply in the next 90 days and +2.88% over a year — supply scores 2.5/5 (moderate).
 
 ## How strong is Tezos demand?
 
-Demand reads **modest** (2.5/5), #45 of 109 coins we track — that is how much people want XTZ now and how much buying could still come.
+Demand reads **modest** (2.5/5), #47 of 109 coins we track — that is how much people want XTZ now and how much buying could still come.
 
 Extra Tezos demand detail for members stays on the live page.
 
@@ -87,31 +87,31 @@ Extra Tezos demand detail for members stays on the live page.
 
 ### Is Tezos (XTZ) inflationary or deflationary?
 
-Tezos (XTZ) is inflationary right now: its supply changes +0.73% over the next 90 days and +2.92% over the next year (checked Oct 29 2026). More XTZ is added than removed.
+Tezos (XTZ) is inflationary right now: its supply changes +0.72% over the next 90 days and +2.88% over the next year (checked Nov 7 2026). More XTZ is added than removed.
 
 ### What is the XTZ inflation rate in 2026?
 
-About +2.92% a year: that is how much Tezos (XTZ) supply changes over the next 12 months, with +0.73% in the next 90 days (checked Oct 29 2026). That puts XTZ #55 of 100 coins we track for new supply (#1 = the most new supply).
+About +2.88% a year: that is how much Tezos (XTZ) supply changes over the next 12 months, with +0.72% in the next 90 days (checked Nov 7 2026). That puts XTZ #55 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next XTZ token unlock?
 
-No dated Tezos (XTZ) unlock is scheduled in the next 90 days (checked Oct 29 2026). New XTZ still arrives: about 8.06M XTZ in 90 days.
+No dated Tezos (XTZ) unlock is scheduled in the next 90 days (checked Nov 7 2026). New XTZ still arrives: about 7.98M XTZ in 90 days.
 
 ### Does Tezos burn or buy back XTZ?
 
-Yes. In our count, about 37.5K XTZ is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Oct 29 2026). How it works: Storage fees and the built-in exchange burned 37,542 XTZ, and six lost Etherlink deposits burned 30,000 more in August, under 1% of new supply.
+Yes. In our count, about 38.3K XTZ is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 7 2026). How it works: Storage and trading burns took 38.35K XTZ, and six lost rollup bonds destroyed 30.00K XTZ.
 
 ### Where does new XTZ supply come from?
 
-In our count, about 8.06M new XTZ reaches the market over the next 90 days (checked Oct 29 2026). How it works: Tezos pays bakers and stakers about 89,000 new XTZ a day, 8.03M in 90 days, and buyers from the 2017 sale claimed 36,000 more; nothing vests.
+In our count, about 7.98M new XTZ reaches the market over the next 90 days (checked Nov 7 2026). How it works: About 7.95M new XTZ paid to bakers and stakers in 90 days, plus 39K XTZ claimed from the 2017 sale. No vesting.
 
 ### How much XTZ is in circulation?
 
-About 1.1B XTZ is in circulation (checked Oct 29 2026). Over the next 90 days that changes +0.73%, and over a year +2.92%.
+About 1.1B XTZ is in circulation (checked Nov 7 2026). Over the next 90 days that changes +0.72%, and over a year +2.88%.
 
-### Does XTZ have more new supply than STRK, GNO or PENDLE?
+### Does XTZ have more new supply than SUN, PENDLE or LDO?
 
-Over the next 90 days (checked Oct 29 2026): XTZ +0.73%, STRK +9.23%, GNO 0.00%, PENDLE +2.58%. XTZ sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 7 2026): XTZ +0.72%, SUN −0.04%, PENDLE +2.58%, LDO +5.08%. XTZ sits in the middle of these 4 coins.
 
 ## Where to read the rest of XTZ
 

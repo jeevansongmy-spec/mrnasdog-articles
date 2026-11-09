@@ -8,7 +8,7 @@ published:     true
 ---
 # OKB Inflation Rate: 0.00% Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/okb — numbers checked Nov 5 2026*
+*Source: https://mrnasdog.com/research/okb — numbers checked Nov 9 2026*
 
 **0.00%** in 90 days, **0.00%** in a year: that is how fast OKB supply changes as of Oct 31 2026.
 
@@ -56,7 +56,7 @@ Expect 0.00% more OKB in 90 days (0.00% over the year). On supply alone OKB gets
 
 ## Demand today
 
-How much do people want OKB? **moderate** — 3 out of 5, #34 of 109.
+How much do people want OKB? **moderate** — 3 out of 5, #32 of 109.
 
 A deeper OKB demand breakdown is on the page for members.
 

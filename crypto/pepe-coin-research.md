@@ -8,7 +8,7 @@ published:     true
 ---
 # PEPE Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/pepe · checked Nov 5 2026*
+*Live page: https://mrnasdog.com/research/pepe · checked Nov 9 2026*
 
 PEPE supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 2 2026).
 
@@ -56,7 +56,7 @@ Over the next 90 days PEPE supply changes 0.00%; across a full year, 0.00%. That
 
 ## Who wants Pepe right now
 
-People's appetite for Pepe is **strong**: 3.5/5, ranked #20 of 109.
+People's appetite for Pepe is **strong**: 3.5/5, ranked #23 of 109.
 
 A deeper PEPE demand breakdown is on the page for members.
 

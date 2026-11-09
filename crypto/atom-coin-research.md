@@ -8,11 +8,11 @@ published:     true
 ---
 # Cosmos Hub (ATOM) Tokenomics: +3.18% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/atom (checked Nov 5 2026)*
+*Originally published at https://mrnasdog.com/research/atom (checked Nov 9 2026)*
 
 As of Nov 4 2026, new Cosmos Hub supply runs at **+3.18%** over 90 days and **+13.53%** over 12 months.
 
-- **Long-run signal:** negative (Nov 5 2026)
+- **Long-run signal:** negative (Nov 9 2026)
 - **Score:** 3.5/10 — supply 1/5, demand 2.5/5
 - **New supply:** +3.18% in 90 days · +13.53% in a year
 - **Demand:** modest (2.5/5)
@@ -96,9 +96,9 @@ In our count, about 17.1M new ATOM reaches the market over the next 90 days (che
 
 About 540M ATOM is in circulation (checked Nov 4 2026). Over the next 90 days that changes +3.18%, and over a year +13.53%.
 
-### Does ATOM have more new supply than INJ, FIL or ZRO?
+### Does ATOM have more new supply than INJ, NEXO or FIL?
 
-Over the next 90 days (checked Nov 4 2026): ATOM +3.18%, INJ +0.80%, FIL +1.65%, ZRO +17.57%. ATOM sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 4 2026): ATOM +3.18%, INJ +0.80%, NEXO 0.00%, FIL +1.65%. ATOM has the most new supply of these 4 coins.
 
 ## Where to read the rest of ATOM
 
