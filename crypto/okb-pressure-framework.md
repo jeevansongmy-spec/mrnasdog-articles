@@ -1,71 +1,69 @@
 ---
-title:         "OKB Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description:   "OKB, the gas coin of OKX's X Layer, made no new coins and burned none from Aug 2 to Oct 31 2026: 0.00% net on a fixed 21M OKB, and the same expected next."
+title:         "OKB Inflation Analysis · November 2026 · Mixed flows · supply roughly steady"
+description:   "OKB, the gas coin of X Layer, minted nothing and burned nothing from Aug 11 to Nov 9 2026: a flat 21M OKB, 0.00% net, no buyback since OKX's 2025 burn."
 canonical_url: "https://mrnasdog.com/research/okb/inflation"
 tags:          ["crypto", "okb", "okx", "layer2"]
 published:     true
 ---
-# OKB Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+# OKB Inflation Analysis · November 2026 · Mixed flows · supply roughly steady
 
 *Originally published at [https://mrnasdog.com/research/okb/inflation](https://mrnasdog.com/research/okb/inflation)*
 
 <!-- main-page -->
 ➜ Start with the OKB coin page for the short answer (should you buy OKB?) and its price drivers: [mrnasdog.com/research/okb](https://mrnasdog.com/research/okb)
 
-OKB supply did not move: **0.00%** net from Aug 2 to Oct 31 2026, and **0.00%** expected for the next 90 days. OKB is the gas coin of X Layer, the chain built by the OKX exchange, and OKX fixed the total at **21M OKB** in August 2025. In the window, **0 OKB** was made and **0 OKB** was bought back or burned, and other trackers agree, showing **−0.004%**.
+OKB did not grow and did not shrink: the count held at **21M** from Aug 11 to Nov 9 2026. OKB is the gas coin of X Layer, the chain OKX runs, and OKX switched off minting when it set the 21M cap in August 2025. In those 90 days **0 OKB** was created and **0 OKB** was burned, so the net change is **0.00%**, and other trackers read about the same.
 
 ## The verdict, in one paragraph
 
-OKB is a coin whose count is standing still. Over the 90 days to Oct 31 2026 there was **no new supply** and **no supply taken away**, so the net change is **0.00%**, and nothing on the calendar changes that for the next 90 days. Other trackers read OKB at **−0.004%** over the same stretch, in line with ours, so the coin page carries no warning note. Our label: **mixed flows, supply roughly steady** — in OKB's case less "mixed" than simply still. The story for OKB holders now is demand, not supply.
+OKB's supply stood still. Between Aug 11 and Nov 9 2026 no new OKB was made on either of its two chains, no locked batch opened, nothing was bought back and nothing was burned, so the net change is **0.00%**, and the next 90 days should look the same. Other supply trackers show **−0.01%**, a difference of less than a hundredth of a point, so the coin page carries no warning note. We call this a steady supply: no pressure from new coins, and no help from a burn.
 
 ## Sell pressure: where new OKB comes from
 
-**Protocol inflation: 0.** OKB has no block reward and no staking pay. The machines that run X Layer are paid out of gas fees, in OKB that already exists, and OKX removed the mint from the OKB token contract on **Aug 18 2025**. The contract can still be upgraded by OKX, so the 21M total rests on OKX's promise rather than on code that can never change — but no such upgrade has been announced.
+**Protocol inflation: 0.** X Layer pays no block reward. Gas is paid in OKB that already exists, so busy days on the chain create nothing. From Aug 11 to Nov 9 2026 the old Ethereum copy of OKB stayed at **429,065** coins, and not one of the 106 deposits from Ethereum into X Layer created new OKB. OKX took minting out of the token contract in August 2025; only an upgrade of that contract could put it back, and none has been proposed.
 
-**Vesting unlocks: 0.** No OKB is locked up for staff, investors or partners. The old Ethereum version of OKB, which OKX is phasing out, held **429,064.58 OKB** on both Aug 2 and Oct 31 2026, so no coins crossed over from Ethereum to X Layer in the window either.
+**Vesting unlocks: 0.** OKB has no team, investor or ecosystem lock left. All 21M OKB are already counted as circulating, so no dated batch is waiting to open.
 
-**Foundation and unscheduled unlocks: 0.** There is no separate foundation treasury waiting to sell. The large OKB balances belong to OKX's exchange wallets, and those coins already count as circulating, so when they move they do not add to supply.
+**Foundation and unscheduled unlocks: 0.** OKX holds OKB in its exchange wallets, but those coins are already counted as circulating. When the exchange moves or sells them, nothing new reaches the market count.
 
-**Long-term locked or bankruptcy: 0.** No court estate, bankruptcy pile or long lock of OKB is waiting to be paid out.
+**Long-term locked or bankruptcy: 0.** No court case, collapsed lender or long lock is sitting on OKB waiting to release it.
 
 ## Buy pressure: where new OKB goes
 
-**Programmatic buyback: 0.** For years OKX bought back and burned OKB every quarter. That program ended with one last burn of **65.26M OKB** on **Aug 15 2025**, coins taken from past buybacks and from reserves, which is what brought the total down to 21M. No new buyback has been announced since.
+**Programmatic buyback: 0.** For six years OKX bought OKB back every quarter and burned it. That ended on Aug 15 2025, when it burned **65.26M OKB** in one go from past buybacks and its reserves. No new buyback has been announced since, so the last 90 days show none and we expect none in the next 90.
 
-**Protocol fee burn: 0.** X Layer does not destroy its gas. From Aug 2 to Oct 31 2026 about **1,207 OKB** of fees built up in the chain's fee vaults, where they stay as spendable coins. Less than **one OKB** was sent to dead addresses in that time, which is too small to count.
+**Protocol fee burn: 0.** X Layer does not burn its gas. The fees pile up in fee vaults: about **1,152 OKB** from Aug 11 to Nov 9 2026, all still counted. Only about 0.46 OKB went to dead addresses over the same days, far too little to move the count.
 
-**Foundation buy: 0.** OKX did not buy OKB in the window. Its own share of the coins in its wallets is small, about **38.92K OKB**.
+**Foundation buy: 0.** OKX has not said it will buy OKB from the market, and nothing on chain shows it doing so.
 
-**New long-term lock: 0.** Builders who want to open a market on X Layer's Exchange OS have to stake OKB first. Those staked coins still count as circulating, so they take nothing out of the supply count.
+**New long-term lock: 0.** Builders stake OKB to open markets on OKX's Exchange OS, and lenders wrap OKB to use it on X Layer. Those coins still count as circulating, so they take nothing out.
 
 ## Foundation and overhang
 
-The biggest holder of OKB by far is OKX itself, but mostly on behalf of its customers. OKX's exchange wallets on X Layer held about **19.41M OKB** on Oct 31 2026, down **89.57K** since Aug 2 as users withdrew. OKX's October reserve report lists **19.73M OKB** in its wallets against **19.69M OKB** owed to users, so the exchange's own part is only about **38.92K OKB**.
+The biggest holder is the OKX exchange itself. Its own November 2026 reserve report shows **19.70M OKB** in its wallets against **19.68M OKB** owed to customers, so almost all of it belongs to users and the exchange's own share is only about **25K OKB**. The X Layer fee vaults hold about **2.5K OKB**, and the address they pay out to holds **12.85K OKB**, unchanged through the window. Every one of these coins is already counted as circulating, so a sale from them would move price, not the supply count.
 
-Two smaller piles sit outside the exchange's main wallets: an OKX-labelled wallet with **34.43K OKB** and the chain's fee vaults plus their payout wallet, about **15.24K OKB** together. Neither paid out in the window. Every one of these coins is already circulating, so none of them is new supply waiting to arrive; they matter only as possible selling, not as inflation.
+## How OKB compares to other exchange-token chains
 
-## How OKB compares to other exchange chain tokens
+OKB now sits at the quiet end of exchange coins. BNB, the coin of Binance's chain, still burns every quarter: its 37th quarterly burn on Oct 19 2026 removed about **1.65M BNB**, and its chain burns part of every gas fee too, so BNB keeps shrinking. OKB made the opposite trade in 2025. OKX burned more than half the coins at once, set a hard 21M cap like Bitcoin's, and stopped the quarterly burn.
 
-Exchange coins that also pay for a chain's gas tend to follow one of two paths. **BNB**, the closest match, still shrinks on a schedule: it burns coins every quarter, **1.65M BNB** in its burn of Oct 19 2026, and it destroys part of every gas fee on its chain. OKB took the other path: one very large burn in August 2025, then a fixed count and no further burning.
-
-That makes OKB simpler to read than most coins on this site. There is no issuance to offset and no unlock calendar to track. The trade-off is that nothing in OKB's design pulls coins out of the market anymore, so any lift in the price has to come from people wanting more OKB, not from fewer OKB existing.
+Most Ethereum layer-2 chains use ETH for gas, so their own tokens carry no gas role at all. OKB is one of the few layer-2 gas coins with a fixed count, which makes its supply side simple: no new coins to absorb and no burn to lean on. Any change in OKB's price has to come from demand, not from the count.
 
 ## What to watch in the next 90 days
 
-**Any OKX word on burns or buybacks.** A restarted buyback, or a change to the 21M total through a contract upgrade, would be the one thing that moves OKB's supply. None is planned as of Oct 31 2026.
+**A new buyback or burn.** OKX has announced none since Aug 15 2025. If it restarted one, OKB would turn from flat to shrinking, and we would add it the day it is announced.
 
-**The OKX–ICE stock venue on X Layer.** By Oct 29 2026 about 38 US companies, Walmart and Eli Lilly among them, had objected to their shares being traded as tokens there. Busier trading on X Layer means more gas paid in OKB, but no supply change.
+**The token contract.** OKB's Ethereum contract can still be upgraded by its owner, and the X Layer bridge by a small group of signers. An upgrade that brought back minting would end the cap; nothing of the kind was proposed by Nov 9 2026.
 
-**X Layer's protocol upgrade.** OKX's roadmap lists protocol upgrades for the last quarter of 2026, by Dec 31 2026, with no date and no supply change announced.
+**OKX's next reserve report, around early December 2026.** It shows whether the exchange's own OKB share, about 25K today, is growing or being sold.
 
-**OKX's next monthly reserve report, due in November 2026.** It shows how much OKB OKX holds for itself; a sharp rise or fall in that small share would be worth noting.
+**The tokenized stock venue on X Layer.** By Nov 6 2026, 67 companies had objected to OKX and ICE listing their shares on it. Trading on X Layer pays gas in OKB, so this is a demand story, not a supply one; it does not change the 21M.
 
 ## Summary
 
-OKB supply was flat at **21M OKB** for the 90 days to Oct 31 2026, a net change of **0.00%**, with the same expected for the next 90 days.
+OKB's supply held at **21M** from Aug 11 to Nov 9 2026, with nothing minted and nothing burned.
 
-OKB has no block reward, no vesting, no buyback and no gas burn since OKX's last burn of 65.26M OKB on Aug 15 2025.
+OKX ended its quarterly buyback in August 2025 with a one-time burn of 65.26M OKB, and X Layer gas fees are kept in vaults, not destroyed.
 
-Almost all of the large OKB balances in OKX's wallets belong to its customers, and every one of those coins already circulates.
+The OKX exchange holds most OKB on behalf of its users, and its own share is about 25K OKB, all already counted.
 
-With supply standing still, OKB's price depends on demand for OKX and its X Layer chain, not on changes in the number of coins.
+The next 90 days should also read **0.00%**, unless OKX restarts a burn or upgrades the token contract.

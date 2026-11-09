@@ -1,6 +1,6 @@
 ---
-title:         "JUP Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description:   "JUP supply is roughly steady: no minting, team payouts paused and a 945K JUP fee burn give −0.03% over 90 days. The buyback keeps the 25.59M JUP it bought."
+title:         "JUP Inflation Analysis · November 2026 · Mixed flows · supply roughly steady"
+description:   "JUP cannot be minted. In 90 days no new JUP came out, team payouts stayed paused and a 945,500 JUP fee burn cut supply 0.03%. What opens in early 2027."
 canonical_url: "https://mrnasdog.com/research/jup/inflation"
 tags:          ["crypto", "jup", "jupiter", "defi"]
 published:     true
@@ -10,60 +10,56 @@ published:     true
 <!-- main-page -->
 This is the long supply read. For the signal, the price drivers and the questions people ask about Jupiter, see [mrnasdog.com/research/jup](https://mrnasdog.com/research/jup).
 
-# JUP Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+# JUP Inflation Analysis · November 2026 · Mixed flows · supply roughly steady
 
-JUP supply is roughly steady: it fell **−0.03%** in the 90 days to Oct 31 2026, and the next 90 days look flat. No one can mint new JUP, team payouts have been paused since a February 2026 vote, and the only coins destroyed were **945,409 JUP** of fees, almost all in one burn on Sep 10 2026. Other trackers read **−0.03%** as well, so the two views agree.
+JUP is a fixed coin: the power to mint new JUP was given up for good, so the count can only stay flat or shrink. Between Aug 11 and Nov 9 2026 nothing new entered circulation, while a fee burn destroyed **945,500 JUP**, almost all of it in one batch on Sep 10 2026. Net, supply fell about **0.03%**, and other trackers show the same **-0.03%**.
 
 ## The verdict, in one paragraph
 
-Over the 90 days from Aug 2 to Oct 31 2026, JUP's circulating supply of **3.32B** fell by **0.03%**. Other trackers show **−0.03%** too, a gap of about **0.00 points**, so the coin page carries no warning note. For the next 90 days we expect a change of about **0.00%**, because no batch burn is scheduled and nothing new is due to unlock. The plain label for JUP today: **a fixed-supply token with a paused team schedule and a small fee burn**.
+JUP supply is roughly steady, leaning slightly down. In the last 90 days Jupiter added **0 JUP** to circulation and burned **945,500 JUP**, so the circulating count of about **3.32B JUP** fell by **0.03%**. For the next 90 days we expect close to nothing either way: no unlock is scheduled to add new coins, and the next burn batch has no date. Other trackers measure the same move, so the coin page carries no warning note. Our label: mixed flows, supply roughly steady.
 
 ## Sell pressure: where new JUP comes from
 
-**Protocol inflation is zero, and it can never start.** The right to mint JUP was switched off on-chain, so the total of **6.86B JUP** can only stay the same or shrink. Staking rewards of about 50M JUP a quarter are paid from a pot of coins that already circulate; the payout of about 48.09M JUP on Oct 13 2026 moved coins from one holder to many, without adding any.
+Protocol inflation is zero and will stay zero. JUP lives on Solana, and the key that could mint more JUP was thrown away, so not even Jupiter can print new coins. The total is about **6.86B JUP** today, down from the 10B made at launch, after a 3B burn in January 2025 and later burns.
 
-**Vesting unlocks are zero.** In February 2026 JUP holders voted for "Net-Zero Emissions": team payouts stopped, the 2026 Jupuary airdrop of 700M JUP was put off with no new date, and the early Mercurial holders got their coins sooner, with Jupiter promising to buy back whatever they sell. Small team locks opened about 0.91M JUP in the window, but those coins were already counted as circulating, so they add nothing.
+Vesting unlocks added nothing. In February 2026 JUP holders voted, from Feb 17 to Feb 21, to pause team payouts for as long as needed, to postpone the yearly Jupuary airdrop, and to speed up the last payouts to early backers from Mercurial, the project Jupiter grew out of. The team's cold wallet last sent coins on Jan 31 2026, before that vote, and has not moved since.
 
-**Foundation and unscheduled unlocks are zero.** The three wallets that sit outside the circulating count, the community reserve, the paused team reserve and a reserve vault, did not send out a single coin from Aug 2 to Oct 31 2026. Team wallets that moved, such as the staking pot and the team payout vault, were already inside the circulating count.
+Foundation and unscheduled unlocks were zero too. The three wallets that hold Jupiter's set-aside coins did not move at all between Aug 11 and Nov 9 2026. Jupiter did pay about **50M JUP** to stakers on Oct 13 2026 and sent **21.29M JUP** from a team payout wallet on Oct 28 2026, but those coins were already counted as circulating, so they moved hands without raising the count.
 
-**Long-term locked or bankruptcy supply is zero.** No court estate or failed lender holds a pile of JUP waiting to be paid out.
+Long-term locked or bankruptcy coins are zero: no court case or failed company is sitting on JUP waiting to pay it out.
 
 ## Buy pressure: where new JUP goes
 
-**The programmatic buyback books zero, even though it is the largest flow.** Half of Jupiter's on-chain revenue buys JUP on the open market for the Litterbox Trust, which grew by **25.59M JUP** in the window, to **178.55M JUP**. Those coins are kept, not destroyed, and they still count as circulating. Buying takes coins away from sellers, which matters for price, but it does not change how many JUP exist. Only a community vote to burn the Litterbox, as happened in November 2025, would.
+The fee burn is the only thing that took JUP out of circulation. Projects that want a fast token check on Jupiter pay **1,000 JUP**, and those fees collect in a burn wallet. On Sep 10 2026 Jupiter burned one batch of **943,764 JUP** from it, and holders burned about **1,740 JUP** more on their own. The burn wallet filled up again by **481,810 JUP** over the 90 days and held **327,514 JUP** on Nov 9 2026, waiting for the next batch.
 
-**The protocol fee burn removed 945,409 JUP.** Projects pay 1,000 JUP each to have their token checked faster, and Jupiter burns those fees in batches. The batch on Sep 10 2026 destroyed **943,764 JUP**, and users burned another 1,645 JUP in small amounts. About 302,437 JUP of new fees now waits for the next batch, which has no set date, so we count only the small user burns for the next 90 days.
+The buyback is real but takes nothing out of the count. Half of what Jupiter earns on-chain goes to the Litterbox Trust, which buys JUP on the open market every day. It added **24.63M JUP** between Aug 11 and Nov 9 2026 and held **179.97M JUP** at the end. The trust keeps those coins instead of burning them, and they still count as circulating, so the buyback books zero here.
 
-**Foundation buying is zero.** Jupiter promised to buy back any JUP the early Mercurial holders sell, but no purchase has been reported, and anything it bought would land in team wallets that already count as circulating.
-
-**New long-term locks are zero.** The team staked 40M JUP on Aug 5 2026, but staked JUP still counts as circulating, so the stake removes nothing from the count.
+Foundation buying was zero: Jupiter promised to buy JUP to match any sales by early Mercurial backers, but no such purchase was disclosed in the window. New long-term locks were zero as well, because staked JUP still counts as circulating.
 
 ## Foundation and overhang
 
-JUP's real supply question is not new coins but old ones. The community reserve holds **1.70B JUP**, including the postponed Jupuary airdrop, and only a new community vote can release it. The paused team reserve holds **1.68B JUP**, and a reserve vault holds **159.89M JUP**; neither has moved since early 2026. Together these three wallets hold **3.54B JUP**, more than all the JUP that circulates today.
+About **3.54B JUP**, a bit more than half of all JUP, is held back by Jupiter and does not count as circulating. The Community Cold wallet holds **1.70B JUP**, including the 700M JUP Jupuary airdrop that was postponed in February 2026; releasing it needs a new community vote. The Team Cold wallet holds **1.68B JUP**, the paused team reserve plus a strategic reserve. A third reserve wallet, filled from Jupiter's treasury on Feb 9 2026, holds **159.89M JUP**.
 
-Inside the circulating count, Jupiter's team still controls the staking-rewards pot with **173.40M JUP**, the team payout vault with **170.28M JUP** (it paid out 21.29M JUP on Oct 28 2026), the team liquidity wallet with **126.38M JUP** and the DAO wallet with **103.87M JUP**. The Litterbox, with **178.55M JUP**, is public on-chain. Founders and team members also locked about **234.94M JUP** of their own coins until Jan 31 to Feb 2 2027. We read all of these wallets on every rebuild; if the balance of any reserve falls between rebuilds, the outflow is counted as new sell pressure at the next one.
+None of the three moved in the last 90 days, and none has a release date. If any of them starts to send coins out, those coins would add to supply on our next check. Jupiter's other big wallets, such as the **173.40M JUP** staker reward pot, a **170.28M JUP** team payout wallet and the Litterbox Trust, are already inside the circulating count.
 
-## How JUP compares to other DeFi exchange tokens
+## How JUP compares to other DeFi app tokens
 
-Most exchange and trading-app tokens fall into one of three supply designs. Some burn part of their income on a fixed calendar, like BNB's quarterly Auto-Burn, which shrinks the count every few months. Some still mint new coins as rewards, so the count rises week after week. JUP is neither: it cannot mint, it is not on a regular burn calendar, and its count moves only when the fee burn fires.
+Most tokens of trading apps still release new coins on a schedule, through team and investor unlocks or rewards. JUP stands out because it has three brakes on at the same time: no minting is possible, team payouts are paused by vote, and the airdrop was postponed. Its supply is set by decisions, not by a printing schedule.
 
-JUP's buyback is the "buy and hold" kind. A buy-and-burn design shrinks the supply as it buys; a buy-and-hold design, like JUP's Litterbox, keeps the coins in a wallet the community can later burn, spend or hand out. That makes the JUP buyback a strong source of buying but a weak promise on supply, because the coins can come back.
-
-The other difference is the size of the reserves. Many exchange tokens are close to fully unlocked. Less than half of all JUP circulates, and the rest sits in reserves whose release depends on community votes, not on a fixed unlock calendar. That keeps today's supply flat, but it leaves the long-term count in the hands of future votes.
+Where JUP is weaker is the buyback. Apps such as Hyperliquid and Pump.fun spend their fees buying back their own tokens too, and the size of those programs gets most of the attention. Jupiter's Litterbox buys every day, but it holds the coins instead of destroying them, so its supply only shrinks when Jupiter chooses to burn, as it did with **134.55M JUP** from the trust on Nov 25 2025.
 
 ## What to watch in the next 90 days
 
-**The next fee burn.** About 302,437 JUP of verification fees is waiting; past batches fired on Sep 3 2025, Apr 27 2026 and Sep 10 2026, so one could come at any time without notice.
+**Jan 31 to Feb 2 2027:** about **325.15M JUP** that team members locked on their own opens in 21 large lockers. These coins are already counted as circulating, so the count does not change, but holders will be free to sell them for the first time.
 
-**Any vote on Jupuary or the team reserve.** The Net-Zero pause has no end date; a vote to restart Jupuary or team payouts would turn the 1.70B and 1.68B JUP reserves into real new supply.
+**The next burn batch:** the last four came on Sep 3 2025, Nov 25 2025, Apr 27 2026 and Sep 10 2026, between 83 and 153 days apart. If the next one lands before Feb 7 2027, it would remove the **327,514 JUP** already waiting, plus new fees.
 
-**A vote on the Litterbox.** Forum posts from May to September 2026 asked to raise the buyback to 70% of revenue or to burn what it buys; none has gone to a vote yet. A burn vote would remove up to 178.55M JUP in one step.
+**The next staker payout, around mid-January 2027:** about **50M JUP** a quarter goes to stakers from the community pot. It moves coins already in circulation, so it does not change the count.
 
-**The next staking payout, around January 2027,** about 50M JUP from coins that already circulate, and the founder and team lock cliffs of about 234.94M JUP from Jan 31 2027, just after this window.
+**Any new community vote:** the 1.70B JUP community wallet, the paused team reserve and the 179.97M JUP in the Litterbox Trust only change supply through a decision. A vote to restart Jupuary would add supply; a vote to burn the Litterbox coins would cut it.
 
 ## Summary
 
-JUP's supply was roughly steady over the 90 days to Oct 31 2026, falling **0.03%** after one batch burn of 943,764 JUP of verification fees on Sep 10 2026. No one can mint new JUP, and team payouts and the 2026 Jupuary airdrop have been paused since a February 2026 vote, so nothing new reached the market. The Litterbox buyback bought **25.59M JUP** but keeps it, so it supports demand without shrinking the count. The main risk is a future vote: **3.38B JUP** sits in two paused reserves that only the community can release.
+JUP cannot be minted, so its supply can only stay flat or fall. In the 90 days to Nov 9 2026 nothing new came out, and a fee burn of **945,500 JUP** cut supply by about **0.03%**. Jupiter still holds back about **3.54B JUP** in three quiet wallets, and the team's own locked coins open on Jan 31 to Feb 2 2027. The Litterbox buyback keeps buying, but until Jupiter burns what it buys, the count barely moves.
 
-*MrNasdog Pressure Framework analysis of JUP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 31 2026.*
+*Checked Nov 9 2026.*

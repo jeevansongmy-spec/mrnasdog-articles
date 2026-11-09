@@ -1,6 +1,6 @@
 ---
-title:         "RENDER Inflation Analysis · October 2026 · Mixed flows · supply roughly steady"
-description:   "RENDER supply roughly steady: 2.66M new RENDER from monthly mints and Foundation releases vs a 591K RENDER job burn, +0.39% in 90 days and +0.27% next."
+title:         "RENDER Inflation Analysis · November 2026 · Mixed flows · supply roughly steady"
+description:   "RENDER supply roughly steady: 1.69M new RENDER from monthly mints and Foundation releases vs a 625K RENDER job burn, +0.20% in 90 days and +0.26% next."
 canonical_url: "https://mrnasdog.com/research/render/inflation"
 tags:          ["crypto", "render", "render-network", "depin"]
 published:     true
@@ -10,58 +10,62 @@ published:     true
 <!-- main-page -->
 This is the long supply read. For the signal, the price drivers and the questions people ask about Render Network, see [mrnasdog.com/research/render](https://mrnasdog.com/research/render).
 
-# RENDER Inflation Analysis · October 2026 · Mixed flows · supply roughly steady
+# RENDER Inflation Analysis · November 2026 · Mixed flows · supply roughly steady
 
-**RENDER** supply grew about **+0.39%** in the 90 days to Oct 31 2026, and we expect about **+0.27%** over the next 90 days, so supply is roughly steady. The Render Network runs on a burn-and-mint design: every rendering or AI job burns RENDER, and new RENDER is minted each month on a fixed, shrinking schedule under a cap of about 644.17M. In the window, **2.66M RENDER** reached the market from monthly mints and Foundation reserve releases, while job payments burned **591,151 RENDER**; other trackers show **+2.90%** because of a one-day recount, not new coins.
+RENDER supply is roughly steady, growing a little: between Aug 11 and Nov 9 2026 about **1.69M RENDER** reached the market from monthly mints and Foundation reserve releases, while finished jobs burned **624,608 RENDER**, a net rise of **+0.20%** in 90 days and about **+0.26%** projected next. Render runs on a burn-and-mint plan: people pay for GPU work, that money burns RENDER, and a fixed monthly mint pays the network, with all supply capped at **644.17M RENDER**. Other trackers show **+2.19%** because their supply figure was reset on Oct 31 2026, not because new coins appeared.
 
 ## The verdict, in one paragraph
 
-From Aug 2 to Oct 31 2026, RENDER's net supply rose **+0.39%**: 2.66M new RENDER entered the market and 591,151 RENDER were burned, against **533.54M** RENDER circulating. Other trackers read **+2.90%** for the same 90 days, a gap of **2.51 points**. That gap comes from one day: on Oct 31 2026 the supply figure those trackers use jumped by about 12.9M RENDER, when one Ethereum wallet holding 14.76M RENDER was counted as circulating again. No RENDER was made that day, so the Render coin page carries a warning note and our +0.39% stands. For the next 90 days we expect **+0.27%**, because the monthly mint gets smaller from Dec 20 2026. The label that fits: **a burn-and-mint network where emissions still beat the burn, but the burn is catching up fast**.
+Over the 90 days to Nov 9 2026 the Render Network added **1,685,620 RENDER** to the market and burned **624,608 RENDER**, so supply grew **+0.20%**. Over the next 90 days we expect about **2.51M RENDER** in and **1.12M RENDER** burned, or **+0.26%**. Other trackers read **+2.19%**, a gap of **1.99 percentage points**, and the coin page carries a warning note on it: their supply figure sat between 516.96M and 520.58M RENDER from Aug 11 to Oct 30 2026, then jumped about 12.9M on Oct 31 2026 when it was reset to count every RNDR on the Ethereum contract. No RENDER was made that day. RENDER is a burn-and-mint coin where, for now, the mint and the Foundation reserve still outrun the job burn.
 
 ## Sell pressure: where new RENDER comes from
 
-Protocol inflation added **612,132 RENDER** straight to spending wallets. Render Network mints 492,132 RENDER a month in its third emission year, which runs from Dec 20 2025 to Dec 19 2026. On Aug 23 and Sep 23 2026, 60,000 of each mint went to node-operator rewards and the other 432,132 went to the Foundation's reserve. On Oct 26 2026 the whole 492,132 went to a new spending wallet in one go. Under the published schedule the fourth year pays 380,284 RENDER a month, so for the next 90 days we count one more 492,132 mint in November and two smaller mints in December and January: **1.25M RENDER** in all.
+**Protocol inflation: 631,480 RENDER.** Render mints 492,132 RENDER a month in the year that runs from Dec 20 2025 to Dec 19 2026. Part of each mint used to go into a Foundation reserve and part straight to spending wallets. In the window, 60,000 RENDER went straight out on Aug 23 2026 and again on Sep 23 2026, the whole Oct 26 2026 mint of 492,132 RENDER went to a spending wallet, and a new burn-and-mint channel minted 19,348 RENDER after it opened on Nov 6 2026. For the next 90 days we count the November mint at 492,132 and the December and January mints at 380,284 each, the lower Year 4 rate due from Dec 20 2026, plus about 459K RENDER from the new channel, about **1.71M RENDER** in all.
 
-Vesting unlocks are **zero**. No team or investor tranche of RENDER is locked on a timer, and new RENDER comes only from the monthly mint, so there is no cliff to wait for.
+**Vesting unlocks: 0.** RENDER has no team or investor unlock calendar. Every new RENDER comes from the monthly mint.
 
-Foundation and unscheduled unlocks added **2.05M RENDER**. The Render Network Foundation keeps unspent emissions in a reserve that sits outside the circulating count. It released 1M RENDER on Aug 10 2026, 250,000 on Aug 27 2026 and 800,000 on Oct 12 2026 to its own spending wallets, and before that 2M on Feb 26 2026 and 2M on May 11 2026. Because the reserve has released coins in every three-month stretch this year, we count one more release of **800,000 RENDER**, the size of the latest one, by late January 2027.
+**Foundation and unscheduled releases: 1.05M RENDER.** The Foundation's emission reserve let out 250,000 RENDER on Aug 27 2026 and 800,000 RENDER on Oct 12 2026. It has released coins every two to three months this year, so we expect one more release of about **800,000 RENDER** in the next 90 days.
 
-Long-term locked or bankruptcy supply is **zero**. No court estate holds RENDER. The 4.68M RENDER in the upgrade bridge stands behind old RNDR on Ethereum and Polygon that has not been swapped yet; when someone swaps, an old coin is locked and a new one is paid out, so nothing new reaches the market. The bridge received 1M fresh RENDER on Sep 24 2026 for that reason, and it is not counted as supply.
+**Long-term locked or bankruptcy: 0.** No court case, bankrupt firm or long lock is holding RENDER that could be paid out in one go.
+
+**Old-token swaps: 4,140 RENDER.** On Sep 10 2026 one holder swapped 4,140 tokens from Render's first token contract into today's RNDR. Swaps like this are rare, so none are projected. Moving coins from Ethereum or Polygon to Solana adds nothing: the 8.20M RENDER paid out of the upgrade pool in 90 days matched the 8.20M old RNDR locked away.
 
 ## Buy pressure: where new RENDER goes
 
-The programmatic buyback books **zero** on its own. When a Render job is paid in dollars, that money buys RENDER on the market and the coins are burned, so we count them once, in the burn below. On Oct 31 2026 the burn wallet still held **598,097 RENDER** waiting to be burned.
+**Programmatic buyback: 0.** No contract buys RENDER just to hold it. When artists and AI users pay for jobs in dollars, those dollars buy RENDER on the market and the coins are burned, so that buying is counted once, in the burn.
 
-The protocol fee burn took **591,151 RENDER** out of supply between Aug 2 and Oct 31 2026, almost all of it from rendering jobs and a small part from AI compute jobs. The pace sped up sharply: about 83,900 RENDER burned in August, 142,000 in September and 365,300 in October. One single burn on Oct 26 2026 destroyed 77,734 RENDER. Even so, the burn cancelled less than a quarter of the 2.66M RENDER that reached the market. We carry the 90-day burn forward unchanged, which is cautious if October's pace holds.
+**Protocol fee burn: 624,608 RENDER.** Every finished render or compute job burns RENDER. From Aug 11 to Nov 9 2026 the job burn wallets destroyed 604,292 RENDER, and the new channel burned 20,316 RENDER in its first three days. The burn sped up hard in the autumn: about 64K RENDER in the rest of August, 142K in September and 366K in October, including one burn of 77,558 RENDER on Oct 26 2026. Jobs are priced in dollars, so at today's price of $1.62 the next 90 days of job burns come to about 638K RENDER. The new channel, built to burn a little more than it mints, adds about 482K, for about **1.12M RENDER**.
 
-Foundation buying is **zero**: the Render Network Foundation has no plan to buy RENDER back for its own wallets, and no such purchase showed up on-chain in the window. A new long-term lock is also **zero**. RENDER has no staking lock that takes coins out of circulation, and the Forth plan voted on until Oct 30 2026 would pay its rewards from coins the Foundation already holds.
+**Foundation buy: 0.** The Render Foundation does not buy RENDER back. Funds and companies that buy RENDER take coins that are already circulating, so their buying, and their selling, removes nothing from the count.
+
+**New long-term lock: 0.** RENDER has no staking lock, and no new long-term lock started in the window.
 
 ## Foundation and overhang
 
-The largest overhang is **OTOY's vault, with 81.90M RENDER**. OTOY is the company that started Render. Those coins already count as circulating and did not move between Aug 2 and Oct 31 2026, so they add nothing to the ledger today, but a large sale from that vault would be the biggest single risk to RENDER supply on the market.
+The Render Foundation's emission reserve holds **2,198,902 RENDER**, the coins most likely to reach the market next, and it pays out on no fixed calendar. The OTOY vault holds **81.90M RENDER**, already counted as circulating, and has not moved since Jul 16 2026. The Foundation's spending wallets hold about **1.31M RENDER** more. The Ethereum upgrade pool holds **2.95M RENDER** waiting to be swapped for old RNDR, which adds nothing. A proposed Forth incentive plan of up to 650,000 RENDER would come out of coins the Foundation already holds. We re-read these wallets at every rebuild: if the reserve's balance falls between rebuilds, the outflow counts as new sell pressure at the next one.
 
-The Render Network Foundation's reserve of unspent emissions holds **2.20M RENDER**, down from about 3.38M at the start of the window. It is the only Foundation wallet outside the circulating count, which is why its releases are counted as new supply. The Foundation's other wallets hold about **2.15M RENDER** between them: a node-reward wallet with 832,124, a payments wallet with 540,949, the wallet that took the Oct 26 2026 mint with 492,132, a vault with 212,054 RENDER and about $622K in USDC, and smaller reward and operations wallets. The burn wallets hold 608,097 RENDER that are due to be destroyed.
+## How RENDER compares to other decentralized compute tokens
 
-We read each of these wallets on-chain at every rebuild. If the reserve's balance falls between checks, the outflow enters the Foundation row as new supply at the next check; if OTOY's vault or another Foundation wallet starts sending coins to the market, we name it in the same row.
+RENDER is a burn-and-mint coin, the same family as Helium's HNT: users pay in dollars, the network burns the token, and a fixed schedule mints new tokens to pay the people who supply the hardware. The difference from a fee-burn chain like Ethereum is that the Render burn is tied to paid work, not to block space, so it rises and falls with how many render and AI jobs the network wins.
 
-## How RENDER compares to other burn-and-mint compute tokens
+Against compute tokens that pay providers only through open-ended staking inflation, RENDER is stricter on paper: its total is capped at 644.17M and the mint steps down each year, from 9.13M in the first year to 5.91M a year now and 380,284 a month from Dec 20 2026. Against tokens with large team unlocks, RENDER has none; the overhang is the Foundation reserve and the OTOY vault, not a vesting cliff.
 
-RENDER belongs to a small group of tokens where users destroy coins to pay for work and the network mints new coins to pay the people who supply that work. Helium uses the same burn-and-mint idea for wireless coverage. The design only turns a token deflationary when paid usage outgrows the mint. RENDER is not there yet: in the 90 days to Oct 31 2026 the burn of 591,151 RENDER covered less than a quarter of the coins reaching the market. But RENDER's mint is small and fixed, and it shrinks again on Dec 20 2026, so every rise in jobs moves the balance directly.
-
-Compute tokens that pay stakers from open-ended inflation, such as Akash, work differently: new supply follows the staking rate, not a schedule, and there is no burn on the same scale. Storage networks like Filecoin add supply through block rewards and long vesting lines. RENDER's supply story is simpler: one monthly mint under a hard cap of about 644.17M, one burn tied to paid jobs, and a Foundation reserve that decides when its share reaches the market.
+The weak point is balance. In this window the burn covered about 37% of what reached the market. Burn-and-mint coins only shrink when paid usage outgrows the mint, and RENDER is not there yet.
 
 ## What to watch in the next 90 days
 
-The result of the RNP-024 Forth vote, which closed on Oct 30 2026: it would let the Foundation spend up to 650,000 RENDER it already holds on usage rewards and marketing for an AI gateway, so it adds no new mint but could move coins out of Foundation wallets.
+**Late November 2026:** the last Year 3 mint of 492,132 RENDER, and where it goes, the reserve or a spending wallet.
 
-The last third-year mint, expected in late November 2026 at 492,132 RENDER, and the start of the fourth emission year on Dec 20 2026, when the schedule sets the monthly mint at 380,284 RENDER; a Year 4 budget proposal from the Foundation should spell out the split.
+**Dec 20 2026:** Year 4 of the burn-and-mint plan begins, with the monthly mint due to fall to 380,284 RENDER; a Year 4 budget proposal would set where those coins go.
 
-The next release from the Foundation's reserve, which we expect by late January 2027 at about 800,000 RENDER; a larger or earlier release would push the next-90-day figure up.
+**The new burn-and-mint channel:** it opened on Nov 6 2026 and burned about 5,360 RENDER a day in its first days. If it keeps that pace, it adds a steady burn that runs slightly ahead of what it mints.
 
-The burn rate: October 2026 burned about 365,300 RENDER, more than four times August. If that pace holds through January 2027, the burn alone would cut our next-90-day figure by about a third.
+**The Forth vote (RNP-024):** voting ran from Oct 28 2026; a yes funds up to 650,000 RENDER of user incentives from Foundation coins, which would move coins out of the reserve faster.
+
+**The next reserve release:** the reserve let out coins on Aug 27 and Oct 12 2026; another release of about 800,000 RENDER is likely before Feb 7 2027.
 
 ## Summary
 
-RENDER supply rose about **+0.39%** in the 90 days to Oct 31 2026 and should rise about **+0.27%** in the next 90 days, so the Render Network's supply is roughly steady. New RENDER comes from a fixed monthly mint and from Foundation reserve releases, 2.66M RENDER in all, while rendering and AI jobs burned 591,151 RENDER. The key risk is the 81.90M RENDER in OTOY's vault and the timing of reserve releases; the key support is a burn that more than quadrupled from August to October. Supply is capped at about 644.17M RENDER, and the monthly mint shrinks from 492,132 to 380,284 on Dec 20 2026.
+RENDER supply grew **+0.20%** between Aug 11 and Nov 9 2026 and is projected to grow about **+0.26%** in the next 90 days, a mixed and roughly steady reading. The Render Network mints RENDER every month and the Foundation reserve releases more, while every paid render and AI job burns RENDER, and the burn more than doubled from September to October 2026. The main risk is that the 2.20M RENDER reserve and the monthly mint keep landing faster than paid work burns them. Total RENDER can never pass 644.17M, and the monthly mint steps down to 380,284 from Dec 20 2026.
 
-*MrNasdog Pressure Framework analysis of RENDER, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Oct 31 2026.*
+*MrNasdog Pressure Framework analysis of RENDER, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 9 2026.*

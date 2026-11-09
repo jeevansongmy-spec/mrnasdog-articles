@@ -1,6 +1,6 @@
 ---
 title:         "Dogecoin (DOGE) Tokenomics: +0.78% New Supply in 90 Days"
-description:   "As of Oct 31 2026, new Dogecoin supply runs at +0.78% over 90 days and +3.18% over 12 months."
+description:   "As of Nov 9 2026, new Dogecoin supply runs at +0.78% over 90 days and +3.18% over 12 months."
 canonical_url: "https://mrnasdog.com/research/doge"
 content_type:  "coin_hub"
 tags:          ["crypto", "doge", "dogecoin", "should-i-buy"]
@@ -10,7 +10,7 @@ published:     true
 
 *Originally published at https://mrnasdog.com/research/doge (checked Nov 9 2026)*
 
-As of Oct 31 2026, new Dogecoin supply runs at **+0.78%** over 90 days and **+3.18%** over 12 months.
+As of Nov 9 2026, new Dogecoin supply runs at **+0.78%** over 90 days and **+3.18%** over 12 months.
 
 - **Signal:** mixed (Nov 9 2026)
 - **Score:** 5.5/10 — supply 1.5/5, demand 4/5
@@ -37,11 +37,11 @@ Musk's X Money adds $1 tips, still with no DOGE.
 | Mar 10 2026 | X Money set, no DOGE |
 | Oct 25 2026 | X $1 tips, no DOGE |
 
-*Checked Oct 31 2026*
+*Checked Nov 9 2026*
 
 ### • Robinhood's wallet
 
-Down 5.8B DOGE since Jan 2024; flat for 405 days.
+Down 5.8B DOGE since Jan 2024; flat for 406 days.
 
 Good for the price: Wallet grows. Bad for it: Wallet shrinks.
 
@@ -50,13 +50,13 @@ Good for the price: Wallet grows. Bad for it: Wallet shrinks.
 | Aug 31 2026 | 27.2 B DOGE |
 | Sep 30 2026 | 27.2 B DOGE |
 | Oct 31 2026 | 27.2 B DOGE |
-| Nov 9 2026 | 27.2 B DOGE |
+| Nov 10 2026 | 27.2 B DOGE |
 
-*Checked Nov 8 2026*
+*Checked Nov 9 2026*
 
 ## How fast Dogecoin supply grows
 
-DOGE is the coin of Dogecoin: every block mints 10,000 new DOGE with no cap, and nothing is burned or bought back, so miners' 1.23B new coins in 90 days lifted supply 0.78%.
+DOGE is the coin of Dogecoin, mined in blocks that each pay 10,000 new DOGE forever. Miners received 1.23B DOGE in 90 days and nothing took any back, so supply rose 0.78%.
 
 New DOGE: +0.78% in 90 days, +3.18% in a year. Supply score 1.5/5, "meme coin".
 
@@ -70,31 +70,31 @@ Dogecoin demand: 4/5 (**strong**), place #9 among 109 coins — interest today p
 
 ### Is Dogecoin (DOGE) inflationary or deflationary?
 
-Dogecoin (DOGE) is inflationary right now: its supply changes +0.78% over the next 90 days and +3.18% over the next year (checked Oct 31 2026). More DOGE is added than removed.
+Dogecoin (DOGE) is inflationary right now: its supply changes +0.78% over the next 90 days and +3.18% over the next year (checked Nov 9 2026). More DOGE is added than removed.
 
 ### What is the DOGE inflation rate in 2026?
 
-About +3.18% a year: that is how much Dogecoin (DOGE) supply changes over the next 12 months, with +0.78% in the next 90 days (checked Oct 31 2026).
+About +3.18% a year: that is how much Dogecoin (DOGE) supply changes over the next 12 months, with +0.78% in the next 90 days (checked Nov 9 2026).
 
 ### When is the next DOGE token unlock?
 
-No dated Dogecoin (DOGE) unlock is scheduled in the next 90 days (checked Oct 31 2026). New DOGE still arrives: about 1.23B DOGE in 90 days.
+No dated Dogecoin (DOGE) unlock is scheduled in the next 90 days (checked Nov 9 2026). New DOGE still arrives: about 1.23B DOGE in 90 days.
 
 ### Does Dogecoin burn or buy back DOGE?
 
-Not in a way that removes DOGE today: nothing takes DOGE off the market over the next 90 days (checked Oct 31 2026). Nothing takes DOGE back: there is no burn, no buyback and no staking lock, and fees go to miners. Only 0.18 DOGE reached a dead address in 90 days.
+Not in a way that removes DOGE today: nothing takes DOGE off the market over the next 90 days (checked Nov 9 2026). No burn, no buyback and no staking take DOGE out of the market. Fees are paid to miners, and only 0.13 DOGE went to a dead address in 90 days.
 
 ### Where does new DOGE supply come from?
 
-In our count, about 1.23B new DOGE reaches the market over the next 90 days (checked Oct 31 2026). How it works: Miners get 10,000 new DOGE every block: 1.23B in 90 days, about 13.65M a day, with no cap. Nothing vests, and the Foundation's 5.0M DOGE developer fund did not pay out.
+In our count, about 1.23B new DOGE reaches the market over the next 90 days (checked Nov 9 2026). How it works: Every block pays miners 10,000 new DOGE, with no cap and no halving: 1.23B DOGE in 90 days, about 13.65M a day. There are no unlocks, and the Foundation's 5.0M DOGE developer fund sent nothing out.
 
 ### How much DOGE is in circulation?
 
-About 157B DOGE is in circulation (checked Oct 31 2026). Over the next 90 days that changes +0.78%, and over a year +3.18%.
+About 157B DOGE is in circulation (checked Nov 9 2026). Over the next 90 days that changes +0.78%, and over a year +3.18%.
 
-### Does DOGE have more new supply than HYPE, XMR or LINK?
+### Does DOGE have more new supply than XMR, LEO or LINK?
 
-Over the next 90 days (checked Oct 31 2026): DOGE +0.78%, HYPE −0.41%, XMR +0.21%, LINK +1.47%. DOGE sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 9 2026): DOGE +0.78%, XMR +0.21%, LEO −0.06%, LINK +1.47%. DOGE sits in the middle of these 4 coins.
 
 ## More on Dogecoin
 

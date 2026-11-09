@@ -10,11 +10,11 @@ published:     true
 
 *Source: https://mrnasdog.com/research/leo — numbers checked Nov 9 2026*
 
-**−0.06%** in 90 days, **−0.25%** in a year: that is how fast UNUS SED LEO (LEO) supply changes as of Oct 31 2026.
+**−0.06%** in 90 days, **−0.26%** in a year: that is how fast UNUS SED LEO (LEO) supply changes as of Nov 9 2026.
 
 - **Signal today:** mixed — LEO, read by supply and demand
 - **MrNasDog score:** 5/10 — supply 4.5/5, demand 0.5/5
-- **New coins:** −0.06% in 90 days · −0.25% in a year
+- **New coins:** −0.06% in 90 days · −0.26% in a year
 - **Demand:** very low (0.5/5)
 - **Drivers:** 2 ▲ price up · 0 ▼ price down
 
@@ -39,7 +39,7 @@ Moved BTC reportedly at Coinbase; Bitfinex confirms no receipt.
 | No date yet | Rest of the BTC back (coming) |
 | 548 days after | Burn 80% within 548 days (coming) |
 
-*Checked Oct 31 2026*
+*Checked Nov 9 2026*
 
 ### ▲ Seized BTC pile
 
@@ -51,13 +51,13 @@ US sends BTC back → price up · Pile stays frozen → price down. Now: ▲ up 
 |---|---|
 | Oct 12 2026 | Sent to Coinbase 0.3% · Moved, use unclear 13% · Still in US wallets 86.7% |
 
-*Checked Oct 31 2026*
+*Checked Nov 9 2026*
 
 ## LEO supply
 
-UNUS SED LEO makes no new coins. Bitfinex spends at least 27% of its revenue buying LEO back: 213,689 LEO left supply in 90 days, and about 366K more is bought and waiting.
+UNUS SED LEO makes no new coins. Bitfinex spends at least 27% of its revenue buying LEO back: 149,862 LEO left supply in 90 days, and about 427K more is bought and waiting.
 
-Expect −0.06% more LEO in 90 days (−0.25% over the year). On supply alone UNUS SED LEO gets 4.5/5 — shrinking, #98 of 100 for new supply.
+Expect −0.06% more LEO in 90 days (−0.26% over the year). On supply alone UNUS SED LEO gets 4.5/5 — shrinking, #98 of 100 for new supply.
 
 ## How strong is UNUS SED LEO demand?
 
@@ -69,31 +69,31 @@ Extra UNUS SED LEO demand detail for members stays on the live page.
 
 ### Is UNUS SED LEO (LEO) inflationary or deflationary?
 
-As of Oct 31 2026, UNUS SED LEO (LEO) supply moves −0.06% in 90 days and −0.25% in a year, so LEO is deflationary. Burns or buybacks take out more LEO than is created.
+As of Nov 9 2026, UNUS SED LEO (LEO) supply moves −0.06% in 90 days and −0.26% in a year, so LEO is deflationary. Burns or buybacks take out more LEO than is created.
 
 ### What is the LEO inflation rate in 2026?
 
-UNUS SED LEO (LEO) supply shrinks −0.25% over the next 12 months and −0.06% over the next 90 days (checked Oct 31 2026). That puts LEO #98 of 100 coins we track for new supply (#1 = the most new supply).
+UNUS SED LEO (LEO) supply shrinks −0.26% over the next 12 months and −0.06% over the next 90 days (checked Nov 9 2026). That puts LEO #98 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next LEO token unlock?
 
-No dated UNUS SED LEO (LEO) unlock is scheduled in the next 90 days (checked Oct 31 2026).
+No dated UNUS SED LEO (LEO) unlock is scheduled in the next 90 days (checked Nov 9 2026).
 
 ### Does UNUS SED LEO burn or buy back LEO?
 
-Yes. In our count, about 578K LEO is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Oct 31 2026). How it works: The Bitfinex buyback took 213,689 LEO out of supply from Aug 2 to Sep 1 2026. Moves have paused since then with about 366K LEO bought and waiting; the next 90 days assume about 578.2K LEO.
+Yes. In our count, about 563K LEO is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 9 2026). How it works: The Bitfinex buyback burned 149,862 LEO from Aug 11 to Sep 1 2026. Burns have paused since then with about 427K LEO bought and waiting; the next 90 days assume about 563.3K LEO.
 
 ### Where does new LEO supply come from?
 
-Almost no new LEO reaches the market over the next 90 days (checked Oct 31 2026). No new LEO is made and nothing vests. Bitfinex wallets hold about 905.79M LEO (648M on Ethereum, 257.79M on Vaulta), all already counted as circulating.
+Almost no new LEO reaches the market over the next 90 days (checked Nov 9 2026). No new LEO is made and nothing vests. Bitfinex-linked wallets hold about 905.79M LEO (648M on Ethereum, 257.79M on Vaulta), all already counted as circulating, and none of it moved in 90 days.
 
 ### How much LEO is in circulation?
 
-UNUS SED LEO (LEO) has about 920M coins in circulation as of Oct 31 2026; the next 90 days change that by −0.06% (−0.25% over a year).
+UNUS SED LEO (LEO) has about 920M coins in circulation as of Nov 9 2026; the next 90 days change that by −0.06% (−0.26% over a year).
 
-### Does LEO have more new supply than LINK, ADA or XLM?
+### Does LEO have more new supply than DOGE, LINK or ADA?
 
-Over the next 90 days (checked Oct 31 2026): LEO −0.06%, LINK +1.47%, ADA +0.30%, XLM +2.78%. LEO has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 9 2026): LEO −0.06%, DOGE +0.78%, LINK +1.47%, ADA +0.24%. LEO has the least new supply of these 4 coins.
 
 ## More on UNUS SED LEO
 
