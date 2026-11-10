@@ -8,7 +8,7 @@ published:     true
 ---
 # Avalanche (AVAX) Inflation Rate: +1.06% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/avax — numbers checked Nov 9 2026*
+*Source: https://mrnasdog.com/research/avax — numbers checked Nov 10 2026*
 
 **+1.06%** in 90 days, **+4.25%** in a year: that is how fast Avalanche (AVAX) supply changes as of Nov 1 2026.
 

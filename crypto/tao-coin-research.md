@@ -8,7 +8,7 @@ published:     true
 ---
 # Bittensor (TAO) Inflation Rate: +2.71% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/tao — numbers checked Nov 9 2026*
+*Source: https://mrnasdog.com/research/tao — numbers checked Nov 10 2026*
 
 **+2.71%** in 90 days, **+10.98%** in a year: that is how fast Bittensor (TAO) supply changes as of Nov 1 2026.
 
@@ -26,7 +26,7 @@ As of Nov 1 2026, Bittensor (TAO) supply moves +2.71% in 90 days and +10.98% in 
 
 ### What is the TAO inflation rate in 2026?
 
-Bittensor (TAO) supply grows +10.98% over the next 12 months and +2.71% over the next 90 days (checked Nov 1 2026). That puts TAO #25 of 100 coins we track for new supply (#1 = the most new supply).
+Bittensor (TAO) supply grows +10.98% over the next 12 months and +2.71% over the next 90 days (checked Nov 1 2026). That puts TAO #24 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next TAO token unlock?
 
@@ -44,15 +44,15 @@ In our count, about 324K new TAO reaches the market over the next 90 days (check
 
 Bittensor (TAO) has about 11.7M coins in circulation as of Nov 1 2026; the next 90 days change that by +2.71% (+10.98% over a year).
 
-### Does TAO have more new supply than SHIB, CRO or OKB?
+### Does TAO have more new supply than SHIB, CRO or ENA?
 
-Over the next 90 days (checked Nov 1 2026): TAO +2.71%, SHIB 0.00%, CRO +7.19%, OKB 0.00%. TAO sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 1 2026): TAO +2.71%, SHIB 0.00%, CRO +7.19%, ENA +2.10%. TAO sits in the middle of these 4 coins.
 
 ## Supply: how much new TAO is coming
 
 Bittensor's supply grew 4.17% in 90 days: 0.5 new TAO every block plus a one-time 172,001 TAO top-up for root stakers. With that fix done, about 2.71% is expected next, under a 21M cap.
 
-Expect +2.71% more TAO in 90 days (+10.98% over the year). On supply alone Bittensor gets 1/5 — very heavy, #25 of 100 for new supply.
+Expect +2.71% more TAO in 90 days (+10.98% over the year). On supply alone Bittensor gets 1/5 — very heavy, #24 of 100 for new supply.
 
 ## Demand: how much people want TAO
 

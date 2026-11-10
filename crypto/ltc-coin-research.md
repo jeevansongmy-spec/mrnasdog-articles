@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Litecoin (LTC) Inflationary? +0.42% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/ltc, updated Nov 9 2026*
+*From https://mrnasdog.com/research/ltc, updated Nov 10 2026*
 
 How much new LTC is coming? **+0.42%** in the next 90 days, **+1.47%** in the next year — checked Nov 1 2026.
 

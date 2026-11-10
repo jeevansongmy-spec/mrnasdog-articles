@@ -1,6 +1,6 @@
 ---
 title:         "CRO Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
-description:   "CRO is inflationary: its 70B Strategic Reserve released 3.50B CRO in 90 days against a 228M burn, +6.81% net, and +7.19% next as monthly unlocks go on."
+description:   "CRO is inflationary: its Strategic Reserve released 3.50B CRO in 90 days against a 228M CRO burn, +6.80% net, and about +7.18% next as releases go on."
 canonical_url: "https://mrnasdog.com/research/cro/inflation"
 tags:          ["crypto", "cro", "cronos", "tokenomics"]
 published:     true
@@ -12,58 +12,56 @@ Originally published at [CRO Inflation Analysis · November 2026 · Supply growi
 <!-- main-page -->
 ➜ Start with the Cronos coin page for the short answer (should you buy CRO?) and its price drivers: [mrnasdog.com/research/cro](https://mrnasdog.com/research/cro)
 
-CRO supply is growing fast, and the next 90 days look the same. The driver is the **70B CRO** Strategic Reserve, minted again in March 2025, which frees **1.17B CRO** every month until March 2030. From Aug 4 to Nov 2 2026 Cronos added **3.68B CRO** (reserve releases plus staking mint) against a **228M CRO** burn, so circulating supply rose **+6.81%**, while market trackers show **+7.30%**. A **100B CRO** hard cap limits the total, but about 47.83B of that is still waiting in the reserve.
+CRO supply is growing, and it will keep growing: the coin added a net **+6.80%** in the 90 days to Nov 10 2026, and the next 90 days point to about **+7.18%**. Almost all of it comes from the Cronos Strategic Reserve, which released **3.50B CRO**, while stakers were paid **179.03M** new CRO and a holder vote burned **228M CRO**. Other supply trackers show **+7.30%** for the same 90 days, and CRO can never pass its **100B** cap.
 
 ## The verdict, in one paragraph
 
-Over the 90 days to Nov 2 2026, the CRO in circulation grew by **+6.81%**, from about 47.30B to **50.75B CRO**. Market trackers show **+7.30%** for the same stretch, a gap of **0.50 points**. Both see the same increase of about 3.45B CRO, and the coin page carries no warning note. For the next 90 days we expect about **+7.19%**, because three more reserve releases are already on the calendar and no burn is scheduled. In one line: CRO is inflationary by schedule, with a reserve unlock that dwarfs every burn.
+Over the 90 days from Aug 12 to Nov 10 2026, CRO supply grew a net **+6.80%**: about **3.68B CRO** reached the market and **228M CRO** was burned, against about **50.77B CRO** in circulation. Other supply trackers read **+7.30%** for the same stretch, a gap of **0.50 points**, close enough that the coin page carries no warning note. The next 90 days look slightly heavier, at about **+7.18%**, because three more reserve releases are already on the calendar and no burn vote is open. In one line, CRO is a reserve-unlock coin: inflationary by schedule, with burns too small to keep up.
 
 ## Sell pressure: where new CRO comes from
 
-Protocol inflation. Cronos pays stakers and its community pool in newly minted CRO. Between Aug 4 and Nov 2 2026 that came to **182.26M CRO**. Since the v7 upgrade of May 20 2026, the yearly mint rate shrinks by about 6.8% each month. It slid from 0.84% to 0.68% inside this window, so the next 90 days should mint about **148.74M CRO**, and the mint keeps getting smaller after that.
+**Protocol inflation.** Cronos POS stakers are paid in newly minted CRO every block. Between Aug 12 and Nov 10 2026 that mint added **179.03M CRO**. Since the v7 upgrade went live on May 20 2026, the Cronos staking mint shrinks by **6.8%** a month, so the yearly pace fell from about 815M to about 665M CRO inside the window. The next 90 days should add about **146.09M CRO**.
 
-Vesting unlocks. This is the big one. In March 2025 holders voted to bring back the 70B CRO that had been burned in 2021 and to place it in a Strategic Reserve that unlocks in 60 equal monthly steps of about 1.17B CRO. Three steps landed in this window, on Aug 17, Sep 16 and Oct 17 2026, for **3.50B CRO**, and each was moved to a Cronos payout wallet within days. The next three, on Nov 16 2026, Dec 16 2026 and Jan 16 2027, add another **3.50B CRO**. About **47.83B CRO** remains locked, with the last step due in March 2030.
+**Vesting unlocks.** This is the big one. In March 2025 holders voted to create again the 70B CRO that had been burned in 2021 and put it in a Strategic Reserve that frees **1.17B CRO** about every 30 days until March 2030. Releases on Aug 17, Sep 16 and Oct 17 2026 added **3.50B CRO** in the window, and every one of them was sent out to a single payout wallet, on Aug 18, Sep 30 and Oct 21 2026. Nothing that has vested is still waiting in the reserve, so the next three releases, on Nov 16 2026, Dec 16 2026 and Jan 16 2027, add another **3.50B CRO**.
 
-Foundation and unscheduled unlocks. This row is zero. The released reserve coins already count as circulating the moment they leave the reserve, so when Cronos later sells or spends them nothing new is added to the count.
+**Foundation and unscheduled unlocks.** Zero. The Cronos team wallets that hold released reserve CRO are already counted as circulating, so when they move coins nothing new reaches the market count. The holders are listed in the overhang section below.
 
-Long-term locked or bankruptcy. Also zero. No court estate or bankruptcy pile of CRO is waiting to be paid out, and the only long lock, the Strategic Reserve, is already covered by the monthly releases above.
+**Long-term locked or bankruptcy.** Zero. No court case or failed company is holding CRO waiting to pay it out.
 
 ## Buy pressure: where new CRO goes
 
-Programmatic buyback. Counted as zero for now, but it has started. A vote that passed on Oct 3 2026 sends all revenue from the Ult trading app and Cronos Launch to buy CRO on the open market and burn it each month. The first round, on Oct 30 2026, destroyed **1.79M CRO**, worth about $92K. Those coins went to the burn address on the Cronos EVM side, which the official supply figure still counts, and the amount is under 0.01% of supply, so it does not move the count yet.
+**Programmatic buyback.** Zero on the count, but real. A holder vote that ended on Oct 3 2026 sent 100% of the revenue from the Ult trading app and Cronos Launch to buying CRO and burning it once a month. The first burn, on Oct 30 2026, destroyed **1.79M CRO**, worth about $92K, at a dead address on Cronos EVM. That address is still counted in circulating supply, so this burn does not lower the CRO count used here. One monthly reserve release is about 650 times the size of that first revenue burn.
 
-Protocol fee burn. A slice of every mint flows into the Cronos community pool, and holders vote from time to time to burn what has built up. On Oct 3 2026 a vote sent **228M CRO** from the pool to the burn address, the largest such burn so far, which brings the total burned to 428.01M CRO. Earlier burns were 50M each, months apart, and no new burn vote is open, so none is counted for the next 90 days.
+**Protocol fee burn.** **228M CRO**. Fifteen percent of the new CRO from the staking mint goes to a Cronos community pool, and holders vote from time to time to burn what has piled up. Four earlier votes burned 50M CRO each, the last in March 2025; the fifth, which ended on Oct 3 2026, burned 228M CRO at once. No new burn vote is open and the pool holds only **18.23M CRO**, so the next 90 days book zero here.
 
-Foundation buy. Zero. Cronos does not buy CRO back from its own treasury, and the listed CRO treasury company planned with Trump Media was called off on Aug 7 2026.
+**Foundation buy.** Zero. No Cronos team wallet buys CRO back, and the planned public company that was to hold 6.3B CRO for Trump Media and the exchange behind Cronos was called off on Aug 7 2026.
 
-New long-term lock. Zero. Since May 2026 stakers can lock CRO for 1, 2 or 4 years for a bonus, and about 15.08B CRO is staked, but staked and locked CRO still counts as circulating.
+**New long-term lock.** Zero. Since May 2026 Cronos stakers can lock CRO for 1, 2 or 4 years for extra pay, and about **15.08B CRO** is staked in all, but locked and staked CRO still counts as circulating, so a bigger lock takes nothing out.
 
 ## Foundation and overhang
 
-The largest overhang is the Strategic Reserve itself, holding **47.83B CRO** on Nov 2 2026 and opening about 1.17B each month. Most of what it has already released has not been sold. The main Cronos payout wallet held **13.78B CRO** on Nov 2 2026, up from 10.78B on Aug 4, after taking in three releases and sending 500M on Sep 13 2026. An older reserve wallet holds **5.83B CRO** and did not move in the window. The community pool holds 16.05M CRO waiting for its next burn vote, and the staking bonus pot holds 43.79M CRO.
+The largest overhang is the Strategic Reserve itself: **47.83B CRO** still locked, leaving only on the monthly schedule above until March 2030. The payout wallet that receives every release holds **13.78B CRO**; it took in 3.50B in the window and passed 500M on to another wallet on Sep 13 2026. An older reserve wallet holds **5.83B CRO** and did not move at all. The Cronos community pool holds **18.23M CRO** waiting for its next burn vote, and the staking bonus pot holds **42.69M CRO**, down from about 50M as it pays the locked-staking bonus.
 
-Those wallets already count as circulating, so they add nothing to the 90-day number while they sit still. They are still worth watching: if the payout wallets start sending large amounts to exchanges, that is real selling, even though the supply count does not change.
+Cronos has said the reserve will also fund staking pay as the mint fades, so more of each release may go to stakers rather than to growth spending. Every one of these balances is read again at each rebuild: if any of them falls between checks, the outflow is booked as new sell pressure at the next refresh.
 
-## How CRO compares to other exchange-backed chains
+## How CRO compares to other exchange-backed Layer 1 chains
 
-CRO belongs with the tokens of chains run by a big exchange group, but its supply works the other way from most of them. BNB burns coins every quarter on a fixed schedule and its supply shrinks, and OKB burned down to a fixed supply with no new minting. CRO did the reverse in 2025: it brought back 70B burned coins and now releases them on a five-year schedule, so its supply grows by billions each quarter even as its burns get bigger.
+CRO is closest to BNB in what it is, a chain coin tied to a large exchange, but the two run opposite supply designs. BNB has no large locked pot left to release and burns coins every quarter on a set schedule, so its supply shrinks. CRO still has **47.83B CRO** in a reserve opening at 1.17B a month, and its burns come from holder votes and a revenue burn that is only weeks old. Where BNB's burn is the main event, the CRO burn is a side note next to the reserve.
 
-Against other proof-of-stake chains in the Cosmos family, the staking mint of CRO is small and falling. Many Cosmos chains pay stakers several percent a year in new coins with no end date, while CRO's mint is already below 0.7% a year and decays every month under a 100B hard cap. The difference is that CRO funds most of its staking bonus from the reserve rather than new coins, so the real supply pressure sits in the unlock schedule, not in the mint.
+Against proof-of-stake chains with no cap, such as Cosmos Hub or Solana, CRO looks different again. Those chains pay stakers with a steady stream of new coins and have no single locked pot hanging over the market. CRO's staking mint is already small, about **179.03M CRO** a quarter and shrinking every month, while the scheduled reserve release is nearly twenty times larger. So for CRO the supply story is a release calendar, not an emission rate, and it ends with a hard **100B** cap rather than an open tail.
 
 ## What to watch in the next 90 days
 
-Nov 16 2026: the 20th Strategic Reserve release, about 1.17B CRO, and whether the payout wallet sends any of it on.
+**Nov 16 2026:** the next Strategic Reserve release of 1.17B CRO, and how quickly it leaves the payout wallet.
 
-Late November 2026: the second monthly buy-and-burn from Ult and Cronos Launch revenue, which shows whether the burn can grow from 1.79M CRO toward a size that matters.
+**Late November and December 2026:** the second and third monthly revenue burns from Ult and Cronos Launch, and whether they grow beyond the first 1.79M CRO.
 
-Dec 16 2026: the 21st reserve release, another 1.17B CRO, a month after the first one in this window.
+**Dec 16 2026 and Jan 16 2027:** the next two reserve releases, 1.17B CRO each, which together with Nov 16 make up the 3.50B CRO booked for the next 90 days.
 
-Jan 16 2027: the 22nd release, bringing the 90-day total to 3.50B CRO and leaving about 44.33B CRO in the reserve.
-
-Any new community-pool burn vote: the pool refills by roughly 8M to 9M CRO a month, and a new vote would add a buy-side burn that is not counted today.
+**Any new Cronos governance vote:** a sixth community-pool burn, a change to the 6.8% monthly mint decay, or a change to how the reserve funds staking pay would all move this reading.
 
 ## Summary
 
-CRO supply grew **+6.81%** in the 90 days to Nov 2 2026 and should grow about **+7.19%** in the next 90, so CRO is inflationary by schedule. The cause is the 70B CRO Strategic Reserve, which frees about 1.17B CRO every month until March 2030, while the staking mint is small and shrinking. The biggest risk is that freed reserve coins, now mostly held in Cronos payout wallets holding 13.78B and 5.83B CRO, are sold into the market. The 100B CRO hard cap limits the total, but 47.83B of it is still to come out of the reserve.
+CRO supply grew a net **+6.80%** in the 90 days to Nov 10 2026 and is set to grow about **+7.18%** in the next 90, which makes CRO one of the faster-growing large coins. The driver is the Cronos Strategic Reserve, which releases 1.17B CRO a month until March 2030 and still holds **47.83B CRO**. The staking mint is small and shrinking, and the 228M CRO burn of Oct 3 2026 plus the new monthly revenue burn offset only a fraction of each release. The ceiling is fixed at **100B CRO**, but the main risk until 2030 is the steady monthly reserve release.
 
-*MrNasDog Pressure Framework analysis of CRO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 2 2026.*
+*MrNasdog Pressure Framework analysis of CRO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 10 2026.*

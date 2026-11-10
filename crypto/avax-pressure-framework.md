@@ -1,6 +1,6 @@
 ---
 title:         "AVAX Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
-description:   "AVAX supply is growing: 3.35M AVAX of staking rewards and a 1.67M Foundation unlock against an 86.6K AVAX fee burn, +1.11% in 90 days, about +1.06% next."
+description:   "AVAX supply is growing: 2.44M AVAX of staking pay and a 1.67M Foundation unlock against a 97.8K AVAX fee burn, +0.90% in 90 days, about the same next."
 canonical_url: "https://mrnasdog.com/research/avax/inflation"
 tags:          ["crypto", "avax", "avalanche", "proofofstake"]
 published:     true
@@ -12,54 +12,54 @@ published:     true
 
 # AVAX Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 
-AVAX supply is growing, and it is set to keep growing at almost the same pace. Avalanche pays its stakers in newly minted AVAX, about **3.35M AVAX** in the 90 days to Nov 1 2026, and the Avalanche Foundation's last locked genesis coins open in a **1.67M AVAX** tranche every quarter. Against that, the C-Chain fee burn destroyed only **86,586 AVAX**, so net supply rose **+1.11%** in 90 days, with about **+1.06%** expected next, all under a hard cap of **720M AVAX**.
+AVAX supply grew about **+0.90%** in the 90 days from Aug 12 to Nov 10 2026, and it should grow about the same in the next 90 days: supply growing, projected to keep growing. Avalanche pays stakers in newly minted AVAX, about **2.44M AVAX** in the window, and a Foundation unlock freed **1.67M AVAX** more, while the fee burn destroyed only **97.8K AVAX**. No more than 720M AVAX can ever exist. Other trackers show **+3.37%** for the same 90 days, because their supply figure caught up in one step on Sep 12 2026, not because more AVAX was made.
 
 ## The verdict, in one paragraph
 
-Over the 90 days from Aug 3 to Nov 1 2026, AVAX gained **5.01M AVAX** of new supply and lost **86,586 AVAX** to the fee burn, a net rise of **+1.11%** on a circulating supply of **444.07M AVAX**. For the next 90 days the same reading points to **+1.06%**: staking pay dips a little as the Helicon upgrade lowers the reward floor, the Nov 8 2026 Foundation tranche lands in full, and the burn runs a bit faster than before. Other trackers show **+2.98%** for the same 90 days, a gap of **1.87 points**, so the coin page carries a warning note. That higher figure comes from a one-day recount on Sep 12 2026, when the supply figure those trackers use jumped by **10.74M AVAX** to catch up with rewards and unlocks released months earlier; it is not new AVAX in this window. The short label for AVAX today: **steady staking inflation with a quarterly Foundation unlock on top**.
+Over the last 90 days the AVAX that can trade grew by a net **+0.90%**, and the next 90 days look the same at **+0.90%**, because staking pay and one Foundation unlock come in each window. Other trackers show **+3.37%**, a gap of **2.47 points**, so the coin page carries a warning note. The gap has one cause: the supply figure those trackers use stood almost still near 431.6M AVAX from late January to Sep 11 2026, then jumped by **10.74M AVAX** on Sep 12 2026 to catch up with months of staking pay and unlocks. That catch-up is old AVAX, not new AVAX made in this window. On-chain, circulating AVAX rose **3.98M** between Aug 12 and Nov 10 2026. The label that fits: **inflationary by design, inside a hard cap**.
 
 ## Sell pressure: where new AVAX comes from
 
-**Protocol inflation** is the largest source. Avalanche mints new AVAX for every staker whose stake ends with enough uptime, and the size of each reward is fixed on the day the stake starts. From Aug 3 to Nov 1 2026, 1,280 validations finished, all of them paid, and together with their delegators they received about **3.35M AVAX**. About **203M AVAX** is staked today, close to half of everything in circulation.
+The biggest source is staking pay. Avalanche mints new AVAX for the people who stake it, out of the part of the 720M cap that has not been issued yet. Since the Sep 22 2026 upgrade that pay runs at about 27,100 AVAX a day, or about **2.44M AVAX** over 90 days, on roughly 195.3M AVAX staked. The same upgrade lowers the pay rate for new stakes a little every few minutes until Dec 21 2026, so this number should drift down, not up.
 
-The pay rate is changing. The Helicon upgrade went live on Avalanche on Sep 22 2026 and, through ACP-285, lowers the minimum reward rate from 10% to 7.5% in a straight line over 90 days, until about Dec 21 2026. Stakes keep the rate that applied when they began, so the cut reaches supply gradually: live validators that started after Helicon earn about **5.03%** a year, against **5.92%** for those that started before it. Rewards already locked in for stakes ending by Jan 30 2027, plus the new short stakes that will start and finish inside that window, add up to about **3.17M AVAX** for the next 90 days.
+The second source is the Avalanche Foundation's launch allocation, which was locked at the start in 40 equal steps. Every 90 days one step of **1,666,800 AVAX** opens. One opened on Nov 8 2026, and the next opens on Feb 6 2027, so each 90-day window holds about one step. About 25.0M AVAX is still locked this way, and the last step opens on Jul 20 2030.
 
-**Vesting unlocks** are the second source. The only AVAX still locked from the 2020 genesis belongs to the Avalanche Foundation, and it opens in equal steps of **1,666,800 AVAX** roughly every 90 days. One step opened on Aug 10 2026, inside the window, and the next opens on **Nov 8 2026**, so each 90-day view carries one full tranche. After the November step, **25.0M AVAX** stays locked, with the last step due on Jul 20 2030.
-
-**Foundation and unscheduled unlocks** book zero. Apart from the published genesis tranches, no Avalanche Foundation release was seen in the window, and the Foundation coins that are already unlocked count as circulating, so selling them would not add new supply. **Long-term locked or bankruptcy** coins also book zero: no court estate holds AVAX for payout, and the **444,537 AVAX** that reached the Binance hacker on Oct 29 2026 was already circulating before the theft.
+The Foundation also holds coins that are already open: about 4.41M AVAX on its launch wallets, 858,000 of them staked, plus 2.08M AVAX it bought back from Avalanche Treasury Corp in September. Those coins already count as circulating, so they add **0** new supply even if sold, and there is no public plan to sell them. Nothing sits in a court case or a bankrupt firm either. The 444,537 AVAX the Binance hacker took on Oct 29 2026 was already circulating, so that row is also **0**.
 
 ## Buy pressure: where new AVAX goes
 
-**Programmatic buyback** books zero, because Avalanche has no contract or programme that buys AVAX back on the network's behalf.
+Avalanche burns its fees instead of paying them to validators. On the main smart-contract chain the whole fee is destroyed, tips included, and that removed **95,509 AVAX** between Aug 12 and Nov 10 2026. Other Avalanche chains pay a small running fee for each of their validators, and that fee is burned too, another **2,311 AVAX**. Together the burn took back **97.8K AVAX**, under 3% of the new coins. Fees roughly doubled after Sep 22 2026, from about 640 to about 1,420 AVAX a day, but even at the higher pace the burn stays small next to staking pay.
 
-The **protocol fee burn** is the only built-in sink. Every fee paid on the Avalanche C-Chain is destroyed, and from Aug 3 to Nov 1 2026 that came to **86,586 AVAX**, about 2.6% of the new AVAX paid to stakers. The burn picked up after the upgrade: validators voted the minimum gas price up to 5 nAVAX in late September, then halved it to 2.5 nAVAX on Oct 19 2026. At today's level the burn runs near 1,230 AVAX a day, about **110.81K AVAX** over the next 90 days. On Oct 30 2026, the day after the Binance hack began, the burn topped 6,000 AVAX, and rushes like that fade.
-
-**Foundation buy** books zero even though the Avalanche Foundation did buy: on Sep 23 2026 it bought **2,082,372 AVAX** from Avalanche Treasury Corp for $15M. Those coins were already circulating, so the deal moved them from one holder to another and took nothing out of supply. The same is true of treasury companies such as Avalanche Treasury Corp and AVAX One, and of the spot AVAX funds.
-
-**New long-term lock** books zero as well. Staked AVAX still counts as circulating, so the roughly 203M AVAX in staking removes nothing. On Aug 27 2026 Avalanche Foundation economists floated paying validators from fees instead of new coins, which would cut AVAX inflation hard, but there is no proposal and no date yet.
+There is no buyback contract and no treasury that buys AVAX on a schedule, so that row is **0**. The Foundation did buy 2,082,372 AVAX from Avalanche Treasury Corp for $15M, closing Sep 23 2026, but the coins moved from one circulating holder to another, so nothing left the count. Staking removes nothing either: staked AVAX still counts as circulating. Since the upgrade a stake can be as short as 48 hours and can renew on its own, which makes staked AVAX even easier to sell.
 
 ## Foundation and overhang
 
-The Avalanche Foundation controls the one block of AVAX that sits outside the circulating count: **26.67M AVAX** still locked on its 51 genesis wallets, opening at 1,666,800 AVAX a quarter until July 2030. Those same wallets also hold **2.74M AVAX** that is already unlocked, of which 0.99M is staked and 1.75M is free to move. The Foundation also holds the 2.08M AVAX it bought from Avalanche Treasury Corp in September in wallets it has not published, so that balance is tracked through its own disclosures. We read the genesis wallets on-chain at every rebuild and walk the Foundation's news by hand. If any of these balances falls between rebuilds, the outflow enters the Foundation row at the next one.
+The one large overhang is the Avalanche Foundation. Its locked launch allocation holds about **25.0M AVAX**, opening by 1,666,800 every 90 days until Jul 20 2030, and each step is already counted in the sell pressure above. On top of that, its launch wallets hold about **4.41M** open AVAX, and it owns at least the **2.08M** it bought in September, in wallets it has not published. We check these balances at every rebuild. If the Foundation's open balance falls between checks, the outflow goes into the sell pressure at the next check.
+
+Two listed companies also hold large amounts of AVAX: Avalanche Treasury Corp, which held about 15.3M AVAX at the end of June 2026 and has since sold some, and AVAX One. They are not part of the Avalanche team, and their coins already circulate, so their buying or selling moves price, not supply.
 
 ## How AVAX compares to other proof-of-stake Layer 1 chains
 
-AVAX sits between the capped and the uncapped proof-of-stake chains. Like Ethereum, Avalanche pays stakers in new coins and burns fees, but Ethereum has no supply cap and burns a share of fees, while Avalanche burns every C-Chain fee and stops minting at 720M AVAX. Because each reward shrinks as supply approaches the cap, AVAX issuance slows on its own over time, something an uncapped chain like Solana gets only from a fixed yearly taper.
+AVAX sits between two common designs. Like Ethereum and Solana, Avalanche pays its stakers in newly made coins, so supply rises every day. Unlike them, AVAX has a hard cap of 720M, and the pay formula shrinks as total supply gets closer to that cap, so issuance slows down by design instead of running forever. Ethereum has no cap at all, and Solana's issuance follows a set schedule that steps down each year with no fixed ceiling.
 
-Compared with chains whose burns cancel most of their issuance, AVAX is far from that point: its fee burn offsets under 3% of staking pay, so supply growth is set almost entirely by how much is staked and for how long. What sets AVAX apart from most large Layer 1 chains is the quarterly Foundation tranche, a dated and published unlock that adds about 0.38% to circulating supply every quarter until 2030, on top of the staking mint. The Helicon upgrade is the first cut to the minimum reward rate since Avalanche launched, and it is aimed at exactly this inflation.
+On the burn side, Avalanche is stricter than most: the whole fee on its main chain is destroyed, tips included, where Ethereum burns only the base part of each fee. But a full burn only matters when fees are large. At today's activity the burn returns under 3% of what staking adds, so AVAX behaves like a slowly inflating staking coin, not a deflationary one.
+
+The scheduled unlock is the other difference. Most older Layer 1 chains finished their insider vesting years ago. AVAX still opens one Foundation step every quarter until 2030, a small but steady extra supply that a pure staking chain does not have.
 
 ## What to watch in the next 90 days
 
-**Nov 8 2026:** the next Avalanche Foundation tranche of 1,666,800 AVAX opens, already booked in the forecast.
+**Nov 19 2026:** Avalanche Treasury Corp reports its third-quarter numbers; any sale of its AVAX would move price, not supply, but it shows whether this buyer is still buying or now selling.
 
-**Dec 21 2026:** the ACP-285 ramp ends and the minimum reward rate reaches 7.5%; from then on every new stake earns the lower rate, which pulls staking pay down through early 2027.
+**Around Dec 11 2026:** the one-day catch-up of Sep 12 2026 leaves the 90-day view of other trackers, so their figure should fall back close to ours and the warning note on the coin page should go away.
 
-**The C-Chain gas floor:** validators can move the minimum gas price again at any time, and the cut to 2.5 nAVAX on Oct 19 2026 already slowed the burn; a further change would move the burn row.
+**Dec 21 2026:** the lower staking-pay floor from the Sep 22 2026 upgrade is fully in place, at 7.5% instead of 10%, so new stakes earn a little less and the daily mint should ease.
 
-**Feb 6 2027:** the following Foundation tranche, just outside this window, enters the forecast at the next rebuild. Watch too whether the Foundation turns its zero-inflation idea of Aug 27 2026 into a formal proposal, and whether the 444,537 AVAX taken in the Binance hack is sold.
+**Feb 6 2027:** the next Foundation step of 1,666,800 AVAX opens, the one unlock in the next 90 days.
+
+**No date yet:** the NYSE-affiliated venue that will settle tokenized stocks on Avalanche still needs approval. If it launches and its trading pays fees in AVAX, the burn could grow.
 
 ## Summary
 
-AVAX supply grew **+1.11%** in the 90 days to Nov 1 2026 and is set to grow about **+1.06%** in the next 90, inside a hard cap of 720M AVAX. Avalanche staking rewards of about 3.35M AVAX and a 1.67M AVAX Avalanche Foundation tranche drive that growth, while the C-Chain fee burn of 86,586 AVAX offsets under 2% of it. The Helicon upgrade is slowly cutting staking pay, but the quarterly Foundation unlock runs until July 2030 with 26.67M AVAX still to come. The main risk to the reading is a larger or longer stake than today's 203M AVAX, which would lift rewards back up.
+AVAX supply grows about **+0.90%** every 90 days: stakers receive about **2.44M** new AVAX and a Foundation unlock adds **1.67M**, while the fee burn takes back only **97.8K**. Avalanche burns every fee on its main chain, but at today's activity that burn is far too small to offset staking pay. The main risks to holders are the quarterly Foundation unlocks, which run until Jul 20 2030, and the Foundation's open coins, which could be sold at any time. Total supply can never pass 720M AVAX, and other trackers show **+3.37%** only because of a one-day catch-up on Sep 12 2026, not because of new AVAX.
 
-*MrNasDog Pressure Framework analysis of AVAX, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 1 2026.*
+*MrNasdog Pressure Framework analysis of AVAX, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 10 2026.*

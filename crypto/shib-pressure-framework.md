@@ -1,6 +1,6 @@
 ---
 title: "SHIB Inflation Analysis · November 2026 · Mixed flows · supply roughly steady"
-description: "SHIB cannot mint and nothing unlocks. Holders burned 705M SHIB in 90 days and 740M more got stuck for good, under 0.001% of the 589.24T circulating supply."
+description: "SHIB supply is roughly steady: no new coins can be made, and 1.48B SHIB was burned or stuck for good in 90 days, about 0.0003% of the 589.24T circulating."
 canonical_url: "https://mrnasdog.com/research/shib/inflation"
 tags: ["crypto", "shib", "shiba-inu", "memecoin"]
 published: true
@@ -11,66 +11,59 @@ published: true
 
 <!-- main-page -->
 Looking for the buy-or-sell answer? It is on the SHIB coin page, with demand and price drivers: [mrnasdog.com/research/shib](https://mrnasdog.com/research/shib)
-Shiba Inu's supply is all but frozen: the token has no mint, nothing vests and there is no cap to reach, because every SHIB was made at launch. From Aug 3 to Nov 1 2026 no new SHIB was added, holders burned **705.14M SHIB** and sent another **740.16M SHIB** to the token's own address, where it is stuck for good, so supply fell by less than **0.001%** of the **589.24T** in circulation, with about the same expected next. Other trackers show about **+0.07%** for the same period, and the coin page carries no warning note.
+
+Shiba Inu (SHIB) prints no new coins, so its supply only moves one way: down, and very slowly. Between Aug 12 and Nov 10 2026 no new SHIB reached the market, while holders burned **610.15M SHIB** and another **873.70M SHIB** got stuck for good in the token's own contract address. Out of **589.24T SHIB** in circulation, that is a net change of about **−0.0003%**, against **+0.19%** on other trackers.
 
 ## The verdict, in one paragraph
 
-SHIB's net change over the last 90 days is **−0.0002%**, which rounds to zero on the coin page, and the next 90 days look the same. Other trackers read about **+0.07%**, a difference of **0.07** points, so the coin page shows no warning. The label is **Mixed flows · supply roughly steady**: nothing is added, and the burns are far too small to shrink SHIB in any way a holder would notice. At this pace it would take about a thousand years to burn even 1% of the supply.
+Over the 90 days to Nov 10 2026, SHIB supply fell by about **0.0003%**, and we expect about the same over the next 90 days, to Feb 8 2027. Other trackers show **+0.19%**, a gap of **0.19 points**; that is small enough that the coin page carries no warning note. Sell pressure from new coins is **0**. Buy pressure is **1.48B SHIB** in total, all of it from burns and from coins sent to an address that can never spend them. The cite-able label for SHIB is simple: a fixed-supply meme coin with a burn too small to matter, where the price depends on demand alone.
 
 ## Sell pressure: where new SHIB comes from
 
-**Protocol inflation is zero**, and it can never be anything else. The SHIB token's code has twelve functions: the usual ones for sending, approving and reading balances, plus one that lets a holder burn their own coins. There is no function to mint and no owner who could add one, so every SHIB that will ever exist was made when the token launched in August 2020.
+Protocol inflation is **0**. The SHIB contract on Ethereum has no function that can create coins. All 1 quadrillion SHIB were made at launch in August 2020, and every change since then has been a decrease.
 
-**Vesting unlocks are zero**. At launch, half of the one quadrillion SHIB went into a trading pool and the other half to Vitalik Buterin, who burned most of his share in May 2021. There was never a team, investor or sale tranche, so nothing is waiting to unlock.
+Vesting unlocks are **0**. Shiba Inu never had a team, investor or advisor share. Half of the launch supply went into a trading pool and half went to Vitalik Buterin, who burned most of his share in May 2021. No locked SHIB is waiting to open.
 
-**Foundation and unscheduled unlocks are zero**. Shiba Inu has no foundation treasury held back from the market. The wallet that launched the token still holds **50.50M SHIB** and did not move in the window.
+Foundation and unscheduled unlocks are **0**. The Shiba Inu team has no published treasury wallet, and the wallet that launched SHIB still holds the same **50.50M SHIB** it held at the start of the window.
 
-**Long-term locked or bankruptcy coins add zero**. A US government wallet holds **54.90B SHIB** seized in the FTX and Alameda case. Those coins already count as circulating, and the wallet did not move between Aug 3 and Nov 1 2026, so even a sale would be selling, not new supply.
+Long-term locked or bankruptcy supply is **0**. A US government wallet holds **54.90B SHIB** seized in the FTX and Alameda case, and it did not move between Aug 12 and Nov 10 2026. Those coins already count as circulating, so a future sale would change who holds SHIB, not how many SHIB exist. The same goes for the **499.9B SHIB** the Binance hacker sold around Oct 30 2026: the coins changed hands, and none were created.
 
 ## Buy pressure: where new SHIB goes
 
-**There is no buyback**. No program, team or treasury buys SHIB on the market and removes it.
+Programmatic buyback is **0**. No contract or team buys SHIB back from the market.
 
-**The protocol fee burn is zero right now**. Shibarium, the Shiba Inu network, was built to turn part of its fees into SHIB burns. That burn has been stuck for weeks: the SHIB lane of the Shibarium bridge was still closed in late October 2026, and the burn pot held only 371 BONE of the 1,000 it needs before it can fire.
+The protocol fee burn is **0** in this window. Shibarium, the Shiba Inu network, is designed to turn most of its fees into SHIB and burn them. That burn has stalled: the bridge route it needs to reach Ethereum has stayed restricted since the September 2025 Shibarium hack, the burn page stopped loading around Oct 22 2026, and no Shibarium fee burn reached Ethereum between Aug 12 and Nov 10 2026.
 
-**Foundation buying is zero**. A US crypto fund lists SHIB among the coins it may hold, but any fund buying takes coins that already circulate, so it does not lower the count.
+Foundation buying is **0**, because no team or company buys SHIB to take it off the market. New long-term locks are **0** too: staking SHIB in apps, or moving it to Solana, which became possible on Oct 4 2026, keeps those coins in circulation.
 
-**New long-term locks are zero**. About **3.34T SHIB** sits staked in the ShibaSwap vault, but staked SHIB still belongs to its owners and still counts as circulating. SHIB carried over to Solana since Oct 4 2026 is a copy of coins held back on Ethereum, so it changes nothing either.
-
-**Burns to dead wallets removed 705.14M SHIB** in the window, across about 420 transfers from holders and apps. The single biggest was a **297.57M SHIB** burn on Oct 5 2026, and a swap app that burns part of its fees sent about 90M more, the last of it on Oct 14 2026. These burns follow no schedule, so the next 90 days assume the same pace.
-
-**Coins stuck in the token's own address removed 740.16M SHIB**. In 47 transfers, people sent SHIB to the address of the SHIB token itself. No code can ever move coins out of that address, so they are gone for good, exactly like a burn. That address now holds **255.68B SHIB**, and it grows a little every month.
+The real buy side sits in two extra rows. Burns to dead wallets took **610.15M SHIB** out of the market in 350 transfers. One holder burned **297.57M SHIB** in a single transfer on Oct 5 2026; the rest came from small, steady burns by holders and by a few apps that burn part of their fees. Coins stuck in the token's own address added **873.70M SHIB** over 53 transfers. These are coins sent by mistake, or by design, straight to the SHIB contract. The contract has no way to send them out, so they are gone just as surely as burned coins, and that address now holds **255.81B SHIB**.
 
 ## Foundation and overhang
 
-SHIB has very little overhang in the usual sense, because no one was ever given a locked allocation. The wallet that launched the token holds **50.50M SHIB** and has been still. The largest known pile tied to one decision-maker is the US government wallet with **54.90B SHIB** from the FTX and Alameda case, which did not move in the window. Both already count as circulating, so a sale from either one would show up as selling on the market, not as new supply.
+SHIB has very little supply waiting on the sidelines. Of the **589.50T SHIB** still in existence, about **99.96%** already counts as circulating. The rest is mostly the SHIB stuck in the token's own address, plus small amounts held by the BONE and LEASH token contracts, which can never spend them. About **780.75M SHIB** sits with an unnamed holder outside the circulating count, and we saw no sign of it moving.
 
-Big holders such as exchanges, the staking vault and the Shibarium bridge also sit inside the circulating count. Coins moving between them do not change how many SHIB exist.
+The wallets worth watching are the launch wallet with **50.50M SHIB** and the US government wallet with **54.90B SHIB**. We read both on-chain at every rebuild. If the unnamed holder's 780.75M SHIB starts to move into the market between checks, that outflow is added to the Foundation and unscheduled unlocks row at the next check.
 
 ## How SHIB compares to other meme coins
 
-Dogecoin, the oldest meme coin, works the other way. It is mined, and every block pays miners 10,000 new DOGE, about 5 billion a year with no end date. Its supply grows a little every day, while SHIB's cannot grow at all.
+Dogecoin is the obvious comparison, and the two work in opposite ways. Dogecoin has no cap and pays miners about 10,000 new DOGE every block, so its supply grows every day. SHIB has no mining and no way to mint, so its supply can only shrink. On supply alone, SHIB is the tighter of the two big meme coins.
 
-SHIB is closer to the meme tokens that launched on Ethereum with one fixed supply made on day one. What sets SHIB apart is the giant early burn: about 410T SHIB, roughly 41% of everything ever made, sits in dead wallets, most of it from the May 2021 burn. Since then the burns have been small next to the 589.24T SHIB that remain, so SHIB's supply story today is one of standing still, not shrinking.
+Newer meme coins such as PEPE and BONK also launched with a fixed supply and lean on burns, but SHIB's burns are tiny next to its size. At the pace of the last 90 days, burns to dead wallets would need more than 2,000 years to remove just 1% of the circulating supply. That is why the SHIB burn rate, however often it makes headlines, does not change the supply picture in any way a holder would notice.
+
+SHIB also differs from chain coins such as ETH, where a fee burn is built into every transaction. SHIB's own network was meant to add that kind of burn through Shibarium, but with the bridge route shut that link is broken for now. Until it works again, SHIB's supply side rests on voluntary burns alone.
 
 ## What to watch in the next 90 days
 
-**The Shibarium fee burn.** The SHIB lane of the Shibarium bridge, shut after the September 2025 attack, was still closed in late October 2026, and the burn pot was stuck at 371 BONE. If the lane reopens and the pot reaches 1,000 BONE, the network's own burn could start again. No date was set as of Nov 1 2026.
+First, the Shibarium burn restart. No date has been given since the burn page stopped working around Oct 22 2026; a reopened bridge route would bring back the fee burn, though at today's Shibarium activity it would still be small.
 
-**Shibarium staking.** Validator staking on Shibarium has been under maintenance since Apr 17 2026, with no end date given. A restart would bring the network back to full health, but it would not add SHIB.
+Second, the US government's **54.90B SHIB**. A sale would add selling, not new supply, but it would be one of the largest single SHIB moves of the quarter.
 
-**SHIB on Solana.** SHIB went live on Solana on Oct 4 2026. Coins that move there stay counted once, so this changes where SHIB trades, not how much exists.
+Third, big one-off burns. A single holder burned **297.57M SHIB** on Oct 5 2026; another burn of that size would roughly double the next quarter's count, yet still leave the change far below 0.01%.
 
-**The US government's 54.90B SHIB.** The wallet did not move between Aug 3 and Nov 1 2026. Any sale would be selling pressure on the market, but it would not change the supply count.
+Fourth, SHIB on Solana, live since Oct 4 2026. Coins moved there stay in circulation, so this changes where SHIB trades, not how much exists.
 
 ## Summary
 
-SHIB cannot make new coins, and no tranche will ever unlock, because the token has no mint and no locked allocation.
+Shiba Inu (SHIB) has a fixed supply: the SHIB contract cannot create coins, and no team or investor unlocks exist. In the 90 days to Nov 10 2026, **610.15M SHIB** was burned and **873.70M SHIB** got stuck for good in the token's own address, a net change of about **−0.0003%** against **589.24T SHIB** in circulation. The Shibarium fee burn, the one built-in burn, is stalled with no restart date. With no new coins and almost no coins leaving, SHIB's price depends on demand, not on supply.
 
-From Aug 3 to Nov 1 2026, holders burned **705.14M SHIB** and sent another **740.16M SHIB** to the token's own address, where it is stuck for good.
-
-Together that is a fall of less than **0.001%** of the **589.24T SHIB** in circulation, and the next 90 days look the same.
-
-The Shibarium fee burn is the one thing that could speed up SHIB's burns, and it is stuck until the SHIB bridge lane reopens.
-
-*Checked Nov 1 2026. Data and explanation only, not financial advice.*
+*Checked Nov 10 2026. Data and explanation only, not financial advice.*
