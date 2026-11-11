@@ -8,7 +8,7 @@ published:     true
 ---
 # PEPE Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/pepe · checked Nov 9 2026*
+*Live page: https://mrnasdog.com/research/pepe · checked Nov 11 2026*
 
 PEPE supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 2 2026).
 
@@ -44,9 +44,9 @@ Almost no new PEPE reaches the market over the next 90 days (checked Nov 2 2026)
 
 PEPE has about 421T coins in circulation as of Nov 2 2026; the next 90 days change that by 0.00% (0.00% over a year).
 
-### Does PEPE have more new supply than ENA, AAVE or M?
+### Does PEPE have more new supply than OKB, AAVE or M?
 
-Over the next 90 days (checked Nov 2 2026): PEPE 0.00%, ENA +2.10%, AAVE +0.12%, M +1.45%. PEPE has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 2 2026): PEPE 0.00%, OKB 0.00%, AAVE +0.12%, M +1.45%. PEPE sits in the middle of these 4 coins.
 
 ## Supply: how much new PEPE is coming
 
@@ -56,7 +56,7 @@ Over the next 90 days PEPE supply changes 0.00%; across a full year, 0.00%. That
 
 ## Who wants Pepe right now
 
-People's appetite for Pepe is **strong**: 3.5/5, ranked #23 of 109.
+People's appetite for Pepe is **strong**: 3.5/5, ranked #21 of 109.
 
 A deeper PEPE demand breakdown is on the page for members.
 

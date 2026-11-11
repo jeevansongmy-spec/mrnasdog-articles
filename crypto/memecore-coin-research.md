@@ -8,7 +8,7 @@ published:     true
 ---
 # Is MemeCore (M) Inflationary? +1.45% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/memecore, updated Nov 9 2026*
+*From https://mrnasdog.com/research/memecore, updated Nov 11 2026*
 
 How much new M is coming? **+1.45%** in the next 90 days, **+5.89%** in the next year — checked Nov 2 2026.
 
@@ -26,7 +26,7 @@ MemeCore adds +1.45% new supply in the next 90 days and +5.89% over a year — s
 
 ## Demand today
 
-Demand reads **very low** (0.5/5), #98 of 109 coins we track — that is how much people want M now and how much buying could still come.
+Demand reads **very low** (0.5/5), #99 of 109 coins we track — that is how much people want M now and how much buying could still come.
 
 The members-only part of M's demand section is not included.
 

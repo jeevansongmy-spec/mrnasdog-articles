@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Mantle (MNT) Inflationary? 0.00% Supply in 90 Days
 
-*From https://mrnasdog.com/research/mnt, updated Nov 9 2026*
+*From https://mrnasdog.com/research/mnt, updated Nov 11 2026*
 
 How much new MNT is coming? **0.00%** in the next 90 days, **0.00%** in the next year — checked Nov 2 2026.
 
@@ -45,7 +45,7 @@ Good for the price: More dollars on Mantle. Bad for it: Dollars leave Mantle.
 | Aug 31 2026 | $591M |
 | Sep 30 2026 | $549M |
 | Oct 31 2026 | $546M |
-| Nov 9 2026 | $523M |
+| Nov 11 2026 | $525M |
 
 *Checked Nov 2 2026*
 
@@ -53,11 +53,11 @@ Good for the price: More dollars on Mantle. Bad for it: Dollars leave Mantle.
 
 Mantle's MNT made no new coins in 90 days: no mint, no unlocks, no burn. Supply dipped 0.01% after 291,000 MNT went back to a treasury that holds 2.92B MNT.
 
-Mantle adds 0.00% new supply in the next 90 days and 0.00% over a year — supply scores 4.5/5 (flat) (place 83 of 100).
+Mantle adds 0.00% new supply in the next 90 days and 0.00% over a year — supply scores 4.5/5 (flat) (place 82 of 100).
 
 ## How strong is Mantle demand?
 
-Demand reads **very low** (0.5/5), #98 of 109 coins we track — that is how much people want MNT now and how much buying could still come.
+Demand reads **very low** (0.5/5), #99 of 109 coins we track — that is how much people want MNT now and how much buying could still come.
 
 Extra Mantle demand detail for members stays on the live page.
 
@@ -69,7 +69,7 @@ Mantle (MNT) is flat, neither inflationary nor deflationary right now: its suppl
 
 ### What is the MNT inflation rate in 2026?
 
-About 0.00% a year: that is how much Mantle (MNT) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 2 2026). That puts MNT #83 of 100 coins we track for new supply (#1 = the most new supply).
+About 0.00% a year: that is how much Mantle (MNT) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 2 2026). That puts MNT #82 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next MNT token unlock?
 

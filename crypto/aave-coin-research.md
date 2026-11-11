@@ -8,7 +8,7 @@ published:     true
 ---
 # Is AAVE Inflationary? +0.12% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/aave, updated Nov 9 2026*
+*From https://mrnasdog.com/research/aave, updated Nov 11 2026*
 
 How much new AAVE is coming? **+0.12%** in the next 90 days, **+0.49%** in the next year — checked Nov 2 2026.
 
@@ -33,7 +33,7 @@ Deposits shrank in the last 30 days; far below the 2025 peak.
 | Aug 31 2026 | $17.7B |
 | Sep 30 2026 | $19.1B |
 | Oct 31 2026 | $15.6B |
-| Nov 9 2026 | $17B |
+| Nov 11 2026 | $16B |
 
 *Checked Nov 2 2026*
 

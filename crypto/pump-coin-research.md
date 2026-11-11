@@ -8,7 +8,7 @@ published:     true
 ---
 # Pump.fun (PUMP) Inflation Rate: −3.96% Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/pump — numbers checked Nov 9 2026*
+*Source: https://mrnasdog.com/research/pump — numbers checked Nov 11 2026*
 
 **−3.96%** in 90 days, **+5.67%** in a year: that is how fast Pump.fun (PUMP) supply changes as of Nov 2 2026.
 
