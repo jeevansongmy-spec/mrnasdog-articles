@@ -1,6 +1,6 @@
 ---
 title: "GT Inflation Analysis · November 2026 · Supply shrinking · projected to keep shrinking"
-description: "GT shrinks: Gate burned 1.99M GT on Oct 4 2026 while Gate Chain paid out 103K new GT, so supply fell 1.80% in 90 days and may fall 2.15% in the next 90."
+description: "GT supply is shrinking: Gate burned 1.99M GT on Oct 4 2026 against 103K GT of new mining pay, −1.80% in 90 days and about −2.23% next. No vesting left."
 canonical_url: "https://mrnasdog.com/research/gt/inflation"
 tags: ["crypto", "gt", "gate", "exchange-token"]
 published: true
@@ -12,84 +12,52 @@ Looking for the buy-or-sell answer? It is on the GT coin page, with demand and p
 
 # GT Inflation Analysis · November 2026 · Supply shrinking · projected to keep shrinking
 
-GT is shrinking: circulating supply fell **−1.80%** in the 90 days from Aug 6 to Nov 4 2026, and the next 90 days point to about **−2.15%**. Gate Chain paid its nodes about **103,000 GT** in new coins, while Gate's quarterly burn on Oct 4 2026 sent **1,987,321 GT** to the burn address. Other trackers show **−1.82%** for the same stretch, so the two views agree and the coin page carries no warning note.
+GateToken (GT) supply is shrinking. Between Aug 14 and Nov 12 2026, Gate Chain paid stakers **102,992 GT** in new coins, while the Gate exchange burned **1,987,321 GT** in its quarterly buyback-and-burn on Oct 4 2026. Net, circulating GT fell about **1.80%** in 90 days, close to the **−2.04%** other trackers show, and the next quarterly burn, due in early January 2027, points to about **−2.23%** over the next 90 days.
 
-      
 ## The verdict, in one paragraph
 
-      
-Gate's quarterly burn does almost all the work in GT's supply. In the window from Aug 6 to Nov 4 2026, the burn removed about **19 times** as many coins as Gate Chain created, so the net result was a fall of **1.80%**, from a starting point of **104.70M GT** in circulation. Outside trackers measured **−1.82%**, a gap of only **0.02 points**, so there is no warning on the page. The label is simple: supply shrinking, and projected to keep shrinking, as long as Gate keeps paying for its burns and does not move coins out of its insurance fund.
+Over the 90 days to Nov 12 2026, GT circulating supply moved **−1.80%**: the Gate burn removed nineteen times more GT than Gate Chain mining created. Other trackers read **−2.04%** for the same window, a gap of only **0.24 percentage points**, so the coin page carries no warning note. About **104.71M GT** circulate today, roughly 90% of the **116.96M GT** that still exist after burns. The short label for GT is simple: an exchange token that shrinks by a quarterly profit-funded burn, with a small, steady mining pay on top.
 
-      
 ## Sell pressure: where new GT comes from
 
-      
-The only new GT comes from Gate Chain itself. Every block, the chain makes **0.4 GT** and pays it to the nodes and stakers who keep it running. A block arrives about every 30 seconds, so the window held **257,499 blocks** and about **103,000 GT** of new coins. That is under a tenth of one percent of the coins in circulation. The pay per block has not changed, so the next 90 days should add about the same amount. Gate says this block pay comes out of a fixed budget of 30M GT, of which about 21.25M GT is still unpaid.
+Mining pay is the only source of new GT. Gate Chain pays **0.4 GT** to its stakers for every block, and a block lands about every 30 seconds. From Aug 14 to Nov 12 2026 the chain made 257,481 blocks, so mining added **102,992 GT**, or about 1,140 GT a day. That pay comes out of a 30M GT mining budget set aside at the start; about **21.1M GT** of it is still unpaid, so the same pace should hold well beyond the next 90 days.
 
-      
-Vesting adds nothing. Some unlock calendars still show **1.5M GT** unlocking on the 26th of every month, copied from a plan written in 2019. On-chain, no locked pile outside the circulating count paid anything out from Aug 6 to Nov 4 2026, so these calendar entries are not real new supply.
+Vesting adds nothing (**0 GT**). An old 2019 plan still lists 1.5M GT opening every month, but on-chain those coins already count as circulating; the only GT held outside the count is Gate's insurance fund, and it did not move.
 
-      
-Gate's own reserves added nothing either. The insurance fund kept the same **12.25M GT** at both ends of the window. No court case or bankruptcy pile of GT is waiting to be paid out.
+Gate released nothing new from its reserves (**0 GT**). Gate's insurance fund held **12.25M GT** on both Aug 14 and Nov 12 2026. It has topped up Gate's burn wallet twice, with 15.18M GT in January 2026 and 2.57M GT on Jul 4 2026, but never on a schedule, so no top-up is expected in the next 90 days.
 
-      
+No locked or bankrupt pile is waiting either (**0 GT**). No court case or failed firm holds GT. The 52.4M GT locked on Ethereum and the 5.21M GT locked for Gate Layer stand behind the same coins on the other chains, so they are not a second pile waiting to be sold.
+
 ## Buy pressure: where new GT goes
 
-      
-The big buyer is Gate. Every quarter the exchange sets aside part of its profits for GT, and its burn wallet sends the coins to a burn address that has never sent anything out. On Oct 4 2026 it sent **1,987,321 GT**, worth more than **$22.35M**, for the third quarter of 2026. That address now holds **191.93M GT**, nearly 64% of the 300M GT that first existed.
+Gate's quarterly buyback-and-burn is the whole story. Each quarter Gate burns GT paid for out of its profits. On Oct 4 2026 the Gate burn wallet sent **1,987,321 GT**, worth over $22.35M at the quarter's average price, to a burn address that has never sent a single coin out. That address now holds **191.93M GT**, about 64% of the original 300M. The rounds before it were 2.10M GT on Oct 15 2025, 2.16M GT on Jan 8 2026, 2.56M GT on Apr 26 2026 and 2.57M GT on Jul 4 2026. If Gate spends the same dollars on the next round, today's price of about $9.15 buys and burns about **2.44M GT**.
 
-      
-The next burn, for the fourth quarter, is expected around early January 2027. Gate has not named a date, but its last four burns came 69 to 108 days apart, which puts the next one inside the coming 90 days. If Gate spends the same dollars as last time at today's price, that is about **2.35M GT**, more coins than in October because GT now costs less.
+Fee burning removes too little to count (**0 GT**). Gate Chain destroys the base part of each transaction fee, but the amount is far too small to show next to the quarterly burn, and gas paid on Gate Layer collects in the network's fee wallets instead of being burned.
 
-      
-The other buy rows are empty. Gate Chain burns the base fee on every transaction, but the chain is quiet and the amount is too small to count. Gate Layer, the newer second chain that also runs on GT, uses only a few GT a day in fees. About **39.97M GT** is staked on Gate Chain, but staked coins still count as circulating, so staking removes nothing.
+Gate does not buy GT to hold, and staking takes nothing out (**0 GT**): about 39.96M GT is staked on Gate Chain, but staked GT still counts as circulating.
 
-      
 ## Foundation and overhang
 
-      
-The one pile that sits outside the circulating count is Gate's insurance fund, at **12.25M GT**. It is not on a schedule, and it has moved twice this year: it sent **15.18M GT** to Gate's burn wallet on Jan 20 2026 and **2.57M GT** on Jul 4 2026, less than an hour after the second-quarter burn. The October burn has not been topped up. If the fund refills the burn wallet again, those coins would count as new supply on the day they move, and part of the burn's effect would be undone.
+Gate's insurance fund is the one team-held pile outside the circulating count, with **12.25M GT** on Ethereum on Nov 12 2026. Gate's burn wallet holds another **10.63M GT**; those coins already count as circulating and are the ones each quarterly burn draws on. The two bridge locks, 52.4M GT on Ethereum and 5.21M GT for Gate Layer, back GT on the other chains, and the 21.1M GT left in the mining budget is paid out only block by block. If the insurance fund's balance falls, the GT that leaves it counts as new circulating supply.
 
-      
-Gate's burn wallet holds **10.63M GT**, already counted as circulating, and pays the quarterly burns. Another **52.40M GT** is locked on Ethereum to back GT on Gate Chain, so it is the same coins seen twice, not a second pile.
+## How GT compares to other exchange tokens
 
-      
-## How GT compares to other exchange-coin chains
+GT sits in the exchange-token family, where the exchange's own profits decide how fast supply falls. GT's burn is funded in dollars, so a lower GT price burns more coins for the same spend. Against it runs a mining pay of 0.4 GT a block on Gate Chain; a quarter of that pay is small, about a twentieth of one burn round.
 
-      
-Most exchange coins shrink through the exchange, not through the chain. BNB has the closest design to GT: a large burn every quarter plus a small fee burn, but no new coins at all. GT is one of the few exchange coins whose chain still creates a little new supply each block, which the quarterly burn easily covers.
+BNB also burns every quarter, but from coins set aside in advance, and it adds a burn of part of every fee on its own chain, which GT lacks in any size. LEO comes closest in spirit: Bitfinex spends part of its monthly revenue buying LEO back to burn, while GT's buying arrives in one large round a quarter. OKB took the opposite road, burning to a fixed supply in August 2025 and stopping buybacks, and KCS has not burned since Dec 31 2025. Among exchange tokens with a live burn, GT is one of the few whose burned coins come out of the circulating count every quarter, which is why its supply keeps falling.
 
-      
-Bitget's BGB burns coins from a reserve that was never counted as circulating, so its burns cut the total but not the coins on the market. GT's October burn came from a wallet already counted as circulating, so it took coins off the market. OKB went the other way: OKX fixed its total at 21M in August 2025, and nothing was burned in its latest 90 days. KuCoin's monthly KCS burn has gone quiet. Against that group, GT's burn is large and on time.
-
-      
 ## What to watch in the next 90 days
 
-      
-**Early January 2027:** the burn for the fourth quarter of 2026, expected at about **2.35M GT** if Gate spends the same dollars as in October. A smaller burn, or one that slips past Feb 2 2027, would make the next 90 days less negative.
+The Q4 2026 Gate burn is the big date: past rounds landed on Jan 8 2026 and Oct 4 2026, so the next is likely in early January 2027, and a round near **2.44M GT** would keep the reading close to −2.23%.
 
-      
-**Any day:** a move out of the **12.25M GT** insurance fund. A refill like the one on Jul 4 2026 would add coins to the market right after a burn.
+Gate's insurance fund is the second line to watch. A top-up of the burn wallet like the one on Jul 4 2026 would add its full size to circulating GT and cancel part of the next burn.
 
-      
-**Any day:** a change to the **0.4 GT** block pay on Gate Chain. None has been announced, and the pay has held at 0.4 GT all through 2026.
+Gate's monthly business reports, like the October 2026 report out on Nov 12 2026, show the profit that pays for each burn; a weak quarter means a smaller round.
 
-      
-**The 26th of each month:** calendar unlocks of 1.5M GT. We will keep checking that no locked pile outside the circulating count actually pays out.
+Gate Chain mining should stay near 0.4 GT a block, about 103K GT per 90 days, until the remaining 21.1M GT budget runs out; any change to that pay would show up in the native supply at once.
 
-      
 ## Summary
 
-      
-GT supply fell **1.80%** from Aug 6 to Nov 4 2026 and points to about **−2.15%** in the next 90 days.
+GateToken (GT) is a shrinking exchange token: circulating supply fell **1.80%** in the 90 days to Nov 12 2026, and the next 90 days point to about **−2.23%**. The Gate quarterly burn, **1,987,321 GT** on Oct 4 2026, outweighs Gate Chain mining of **102,992 GT** by nineteen times. The main risk to the shrink is Gate itself: a smaller profit-funded burn, or coins released from the 12.25M GT insurance fund, would slow it. Of the original 300M GT, 191.93M is already burned and about 104.71M circulates.
 
-      
-Gate's quarterly burn of **1,987,321 GT** on Oct 4 2026 outweighed the roughly **103,000 GT** that Gate Chain paid its nodes about 19 times over.
-
-      
-The next burn is expected in early January 2027 at about **2.35M GT**.
-
-      
-The main risk to the shrinking trend is Gate's **12.25M GT** insurance fund, which refilled the burn wallet twice in 2026.
-
-*MrNasDog Pressure Framework analysis of GT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 4 2026.*
+*MrNasDog Pressure Framework analysis of GT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 12 2026.*

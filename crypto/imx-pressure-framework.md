@@ -1,6 +1,6 @@
 ---
 title:         "IMX Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
-description:   "IMX supply is growing: no IMX can be minted, but the Foundation Treasury released 30M IMX in 90 days, +3.32% net, about +2.25% next. No burn, no buyback."
+description:   "IMX supply is growing: no IMX can be minted, but the Foundation Treasury released 25M IMX in 90 days, +2.76% net, about +2.21% next. No burn, no buyback."
 canonical_url: "https://mrnasdog.com/research/imx/inflation"
 tags:          ["crypto", "imx", "immutable", "gaming"]
 published:     true
@@ -12,62 +12,60 @@ This is the long supply read. For the signal, the price drivers and the question
 
 # IMX Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 
-IMX supply is growing, even though not one new coin can be made. All **2B IMX** already exist and the token refuses any further minting, yet the Foundation Treasury released **30M IMX** between Aug 5 and Nov 3 2026, so the circulating supply rose **+3.32%** in 90 days. Nothing is burned or bought back, and we expect about **20.34M IMX** more, or **+2.25%**, in the next 90 days; other trackers show **−54.77%** because of a one-off recount in August.
+IMX supply is growing, and it is set to keep growing. Not one new IMX can be minted, because all **2B** coins already exist, but Immutable's Foundation Treasury released **25M IMX** into circulation between Aug 14 and Nov 12 2026, nothing was burned or bought back, and the circulating count rose **+2.76%** in 90 days (other trackers show **+2.81%**). We expect about **19.97M** more in the next 90 days, or **+2.21%**.
 
 ## The verdict, in one paragraph
 
-From Aug 5 to Nov 3 2026, **30M IMX** entered the market against **0** taken out, a net rise of **+3.32%** on a circulating supply of **904.47M IMX**. Other trackers show **−54.77%** for the same 90 days, a difference of **58.09 points**, so the coin page carries a warning note. That difference is not coins leaving the market: the supply figure those trackers use read about 2.00B IMX from Aug 4 to Aug 12 2026 and then dropped to 879.65M IMX on Aug 13 2026, when the two Immutable treasuries were taken out of the count. The note should clear around Nov 11 2026, once their 90-day window moves past that day. IMX is a fixed-supply coin that still inflates its float through treasury payouts.
+Over the 90 days from Aug 14 to Nov 12 2026, IMX supply grew by **+2.76%**. Other trackers put the same stretch at **+2.81%**, a gap of only **0.05 points**, so the coin page carries no warning note. All of that growth came from one place: Immutable's own treasury handing coins to the wallet it uses to pay rewards and fund its chain. For the next 90 days we expect **+2.21%**, because the treasury has paid out steadily all year. The label that fits IMX best: a fully minted coin whose float still grows from a company treasury, with nothing on the other side to take coins back.
 
 ## Sell pressure: where new IMX comes from
 
-Protocol inflation is **0**, and it stays that way. The IMX token on Ethereum has a hard limit of 2B written into it, and every one of those coins was made years ago. On Nov 3 2026 we asked the token to mint a single extra coin from the one address that holds the right to mint, and the token refused because the limit is full. The token also has no way to destroy coins, so the total can neither rise nor fall.
+Protocol inflation is **0** and will stay there. The IMX token on Ethereum has a hard cap of 2B written into the contract, every one of those coins already exists, and the contract refuses any attempt to make more. Immutable Chain, where IMX pays for gas, only hands out coins that were first locked on Ethereum, and its reserve did not change by a single coin in the window.
 
-Vesting unlocks are **0**. The vesting wallets that used to feed new coins into the two treasuries every month are now empty. The last of them made its final payment of 11.03M IMX on Mar 30 2026, and Immutable said its unlock schedule was complete on Oct 31 2025. No investor or team tranche is left to open.
+Vesting unlocks are **0**. Immutable said the unlock schedule was finished in late 2025, and the last scheduled release, about **11.03M IMX** on Mar 30 2026, went straight into the Foundation Treasury, which still sits outside the circulating count. Both wallets that used to feed those releases have been empty since.
 
-Foundation and unscheduled unlocks are the whole story, at **30M IMX** in 90 days. The Foundation Treasury, a multi-signature wallet that the market count leaves out, sent **5M IMX** on Aug 11 2026 and **25M IMX** on Sep 29 2026 to a payout wallet. Its balance fell from 751.51M to 721.51M IMX over the window, exactly the size of those two transfers. The 25M payment was the largest single release of the past year. The payout wallet had sent about 6.38M IMX onward by Nov 3 2026, 5.45M of it into the bridge to Immutable Chain, and still held **24.37M IMX**. Those coins now count as circulating whether or not they have been sold.
+Foundation and unscheduled unlocks are the whole story, at **25M IMX**. On Sep 29 2026 the Foundation Treasury sent **25M IMX** to its payout wallet in a single transfer, the largest payout of the past year. From that wallet the coins move on to Immutable Chain, to reward programmes and to a few regular payees. The treasury has no published calendar, but it has paid out every month or two: about **81M IMX** across 15 transfers between Nov 13 2025 and Nov 12 2026, between about 14.6M and 25M in each quarter of that year. That steady habit is why we book about **19.97M IMX** for the next 90 days.
 
-For the next 90 days we expect about **20.34M IMX**. The Foundation Treasury paid out in 11 of the last 12 months, 16 transfers worth 82.5M IMX in all, but on no public calendar, so we expect it to keep the pace of the past year. Long-term locks and bankruptcy releases are **0**: no court estate holds IMX and no other lock is due to open.
+Long-term locked or bankruptcy coins are **0**. No court case, failed lender or bankrupt fund is holding IMX that it has to pay out.
 
 ## Buy pressure: where new IMX goes
 
-The programmatic buyback books **0**, although a real flow exists. Part of every marketplace fee on Immutable is used to buy IMX on the open market, and that IMX is paid out to stakers every two weeks. Because it goes straight back into holders' hands, it never leaves the circulating supply. The amounts are small next to the treasury payouts: a few tens of thousands of dollars a month.
+Programmatic buyback is **0**, even though buying does happen. A part of the fees on Immutable is used to buy IMX, but those coins are paid out to stakers every two weeks, so they come out of circulation and go straight back in. Nothing stays bought.
 
-The fee burn is **0**. IMX cannot be destroyed on Ethereum, and on Immutable Chain, where IMX pays for gas, the base fee is a tiny fraction of a cent and most blocks are nearly empty, so almost nothing is used up.
+Protocol fee burn is **0**. The IMX token has no burn function, and gas on Immutable Chain costs a tiny fraction of a cent, so almost nothing is used up there either.
 
-Foundation buying is **0**: neither treasury received a single IMX between Aug 5 and Nov 3 2026. New long-term locks are **0** too. Staked IMX and the **78.55M IMX** held in the bridge to Immutable Chain still count as circulating, so moving coins into either does not shrink the supply.
+Foundation buy is **0**. Neither treasury wallet took in a single IMX between Aug 14 and Nov 12 2026. Immutable pays IMX out; it does not buy it back.
+
+New long-term lock is **0**. Staked IMX still counts as circulating, and so do the coins locked on Ethereum while they are used on Immutable Chain, so neither one takes coins out of the count.
 
 ## Foundation and overhang
 
-Two treasury wallets hold every IMX that is not yet circulating, **1.10B IMX** between them, more than the whole circulating supply. The larger is the Foundation Treasury, with **721.51M IMX** on Nov 3 2026. It is the active one: it paid out in 11 of the last 12 months and is the source of all the new supply in this report.
+More than half of all IMX is still with Immutable. The Foundation Treasury holds **721.51M IMX**, down from 746.51M on Aug 14 2026, and it is the wallet that keeps paying out. A second treasury, set up for project development, holds **374.01M IMX**. It paid out 5M at a time five times between Nov 11 2025 and Feb 10 2026, and has not moved since. Together the two hold about **1.10B IMX**, more than the **904.47M** that circulate today, and neither has any published release plan.
 
-The second is Project Development Treasury 2, with **374.01M IMX**. It sent five payments of 5M IMX between Nov 11 2025 and Feb 10 2026 and has not moved since, so we book nothing for it in the next 90 days. If it starts paying out again, the supply forecast would rise quickly.
+Two more Immutable wallets are already counted as circulating, so their moves add nothing new. The payout wallet held **23.37M IMX** on Nov 12 2026 after the Sep 29 transfer, and a company safe has held about **45.47M IMX** without moving since August 2023. We watch both treasury balances closely. If either treasury's balance falls between two checks, the coins that left go into the Foundation and unscheduled unlocks line at the next check.
 
-Three more wallets tied to Immutable already count as circulating: the payout wallet with 24.37M IMX, a company multi-signature wallet with 45.47M IMX that has not moved since Aug 2023, and Immutable Chain's own reserve, which mirrors the bridge and did not change in the window. We read every one of these wallets on-chain at each rebuild. If either treasury's balance falls between two checks, the outflow is added to the Foundation row at the next check.
+## How IMX compares to other gaming chains
 
-## How IMX compares to other gaming and fixed-supply tokens
+Most gaming chains fall into one of two groups. Some pay their validators in brand-new coins, so supply rises a little every day by rule. Others, like IMX, were fully minted on day one and grow their circulating supply only as locked or treasury-held coins come out. IMX sits firmly in the second group: nothing is printed, and the 2B cap can never be raised, but the float still grows because the company and its treasury hold so much of the total.
 
-IMX sits in an unusual spot. Like Bitcoin it has a hard limit, but Bitcoin still adds new coins every block until it reaches that limit, while IMX reached its limit at launch. Like Ethereum it pays for gas on its own chain, but Ethereum creates new coins for validators and burns part of every fee, while IMX does neither. On paper that makes IMX one of the most fixed supplies in crypto.
+That makes IMX behave differently from a chain with a fee burn, such as Ethereum, where heavy use can destroy coins and slow or even reverse growth. IMX has no burn, and its fee buying is paid straight back out to stakers, so busier games on Immutable do not shrink the supply. The only thing that slows IMX supply growth is the treasury choosing to pay out less.
 
-In practice the float behaves like a young token that is still unlocking. Most of the supply sits with the company and is released by its own decision, not by a schedule. Tokens such as Arbitrum's ARB also have a fixed total but release coins on a published monthly vesting calendar, so buyers can see each step coming. With IMX the vesting is finished, yet the treasury release is the same kind of pressure, only without dates. About 45% of all IMX circulates; the other 55% waits in the two treasuries.
-
-Many gaming tokens add supply through game rewards or staking emissions. IMX does not: its staker rewards come from fees, which keeps the supply flat by design. The one thing that moves the IMX float is the treasury, and that makes Immutable's own spending the number to watch.
+The flip side is a ceiling. A coin that mints by rule can keep growing forever. IMX can grow only until the treasuries are empty, which at the past year's pace of about 81M a year would take more than a decade. The risk is the size of those wallets compared with the float, not a printing press.
 
 ## What to watch in the next 90 days
 
-The next Foundation Treasury payout. It sent coins in every month from Nov 2025 to Sep 2026 but none in Oct 2026; a payout in Nov or Dec 2026 would keep the run near the **20.34M IMX** we expect, while another 25M-sized release would push it higher.
+The next Foundation Treasury payout. It has gone out every month or two, the last one on Sep 29 2026; a transfer far larger than 25M, or none at all by mid-January 2027, would change the forward number.
 
-Project Development Treasury 2, quiet since Feb 10 2026 with **374.01M IMX**. Any outflow from it would be new supply that our forecast does not include.
+Any move from the second treasury, which has sat at 374.01M IMX since Feb 10 2026. A first payout after nine quiet months would add straight to supply.
 
-Where the payout wallet's **24.37M IMX** goes. It has been moving coins into the bridge to Immutable Chain; these coins already count as circulating, but large sends to exchanges would show selling.
+Immutable Chain's move to the OP Stack, announced on Nov 6 2026 for mid-2027, with support for games on the current test network ending by the end of 2026. It does not change how many IMX exist, but any change to how gas or rewards are paid would.
 
-Around Nov 11 2026, the August recount should drop out of other trackers' 90-day window, and their figure should move close to ours.
-
-Activity on Immutable Chain after the Gods Unchained card Forge moves into the game's launcher on Nov 4 2026. More trading means more fees and more IMX bought for stakers, though at today's size it does not change the supply count.
+Reward programmes on Immutable Chain. The payout wallet sends IMX there in 1M and 2M steps, the last on Nov 9 2026; a new or larger programme would pull bigger treasury payouts with it.
 
 ## Summary
 
-IMX can never be minted again, but its circulating supply still rose **+3.32%** from Aug 5 to Nov 3 2026 because the Foundation Treasury released **30M IMX**. Nothing is burned and no IMX is bought back out of the market, so every treasury payout adds to the float in full. We expect about **20.34M IMX**, or **+2.25%**, in the next 90 days. The ceiling is the **1.10B IMX** still held in two company treasuries, which is more than everything that circulates today.
+IMX supply grew **+2.76%** from Aug 14 to Nov 12 2026, and we expect about **+2.21%** in the next 90 days. No IMX can ever be minted, because all 2B already exist, so every new circulating coin comes from Immutable's treasury, which released **25M IMX** on Sep 29 2026. Nothing works the other way: IMX has no burn, and fee-bought IMX goes back to stakers. The key risk is size, since Immutable's two treasuries still hold about 1.10B IMX, more than the whole circulating supply, with no published plan for when it comes out.
 
 ---
 
-*MrNasdog Pressure Framework analysis of IMX, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 3 2026.*
+*MrNasdog Pressure Framework analysis of IMX, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 12 2026.*

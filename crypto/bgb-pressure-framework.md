@@ -1,6 +1,6 @@
 ---
 title:         "BGB Inflation Analysis · November 2026 · Mixed flows · supply roughly steady"
-description:   "BGB supply is flat: 0.00% over 90 days and next. No mint, no unlocks reached the market, and the Oct 19 2026 burn of 3.04M BGB came from a locked reserve."
+description:   "BGB supply was flat at 0.00% in 90 days. No BGB can be made, the Morph Foundation released none, and the Oct 19 2026 burn of 3.04M came from its store."
 canonical_url: "https://mrnasdog.com/research/bgb/inflation"
 tags:          ["crypto", "bgb", "bitget", "exchange"]
 published:     true
@@ -12,54 +12,54 @@ The Bitget Token coin page has the score, the price drivers and every question a
 
 # BGB Inflation Analysis · November 2026 · Mixed flows · supply roughly steady
 
-BGB supply is flat: circulating Bitget Token moved **0.00%** from Aug 5 to Nov 3 2026, and the same is expected for the next 90 days. BGB has a fixed **2B** supply with no mint, and the only coins outside the market are the Morph Foundation's locked reserve of **207.88M BGB**. New sell pressure was **0 BGB**, the Oct 19 2026 burn of **3,044,901 BGB** came out of that reserve rather than the market, and other trackers show **+0.06%**.
+BGB supply is flat: circulating Bitget Token moved **0.00%** between Aug 14 and Nov 12 2026, and the next 90 days look the same. No new BGB can be made, the Morph Foundation released none of the **207.88M BGB** it holds, and the **3.04M BGB** burned on Oct 19 2026 came out of that same store, so it never touched the coins in circulation. Other trackers show **+0.03%** for the same 90 days.
 
 ## The verdict, in one paragraph
 
-Over the 90 days from Aug 5 to Nov 3 2026, BGB's net change in circulating supply was **0.00%**, and the forecast for Nov 3 2026 to Feb 1 2027 is also **0.00%**. Other trackers read **+0.06%** for the same window, a gap of **0.06 points**, which is small, so the coin page carries no warning note. The 699.99M BGB in circulation on Aug 5 2026 was still 699.99M BGB on Nov 3 2026, down to the last coin. BGB is a **fixed-supply exchange token whose burns shrink a locked reserve, not the float**.
+Circulating BGB stood at about **699.99M** on Aug 14 2026 and at the same **699.99M** on Nov 12 2026, a net change of **0.00%**. Other trackers read **+0.03%**, a gap of **0.03 points**, so the coin page carries no warning note. The next 90 days project the same **0.00%**, because nothing is scheduled to leave the Foundation's store for the market. BGB is a fixed-supply exchange token with a frozen float: its total keeps shrinking, but the part that trades does not move.
 
 ## Sell pressure: where new BGB comes from
 
-Protocol inflation is **0**. The BGB token on Ethereum has a total supply of 2B, it has no mint function and no owner who could add one, and the BGB on the Morph chain is a bridged copy that matches the coins held in the bridge on Ethereum one for one. No new BGB can appear, so validator pay or staking rewards add nothing.
+Protocol inflation is **0**. The BGB token on Ethereum can only send and receive coins; it has no function that creates new ones, and all 2B were made at the start. Nobody earns new BGB for staking or for running the Morph chain, and the BGB used on Morph is a bridged copy backed one for one by coins locked on Ethereum.
 
-Vesting unlocks are **0**. When Bitget handed **440M BGB** to the Morph Foundation in Sep 2025, half was burned at once and **220M BGB** was locked with a plan to release 2% a month. In the 14 months since, the reserve has not sent a single coin to the market. It fell from 220M BGB to 210.93M BGB by Aug 5 2026 and to 207.88M BGB by Nov 3 2026, and every step down was a quarterly burn. Some unlock calendars still list monthly BGB unlocks, such as 6.2M BGB on Nov 29 2026, but those refer to coins that already circulate, so they add nothing new.
+Vesting unlocks are **0**. The Morph Foundation said in November 2025 that its treasury may release up to 2% of 220M BGB a month, about **4.4M BGB**, and that anything not handed out stays locked. Between Aug 14 and Nov 12 2026 the treasury released nothing. In fact, since it was filled on Sep 4 2025 the only coins that have ever left it went to the burn address.
 
-Foundation and unscheduled unlocks are **0**. The Morph Foundation reserve is the one pile that could still come to market, and it did not move toward the market in the window. Long-term locked or bankruptcy supply is also **0**: no court estate holds BGB, and the Sep 24 2026 hack of Bitget's hot wallets, which the exchange covered from its protection fund, moved coins that were already circulating.
+Foundation and unscheduled unlocks are **0**, for the same reason: the treasury did not send coins to anyone. Long-term locked or bankruptcy supply is also **0**. No court case or failed firm holds BGB, and the Sep 24 2026 hack of the Bitget exchange took other coins, not newly freed BGB.
 
 ## Buy pressure: where new BGB goes
 
-The programmatic buyback is **0**. Bitget used to buy back and burn BGB with a share of its profit, but since the Morph Foundation took over BGB in Sep 2025 the quarterly burn has been paid out of the Foundation's own reserve, not with coins bought on the market.
+Programmatic buyback is **0**. Bitget used to fund BGB burns from its profits, but that ended when it handed its BGB to the Morph Foundation in September 2025, and no one buys BGB on the market to burn it today.
 
-The fee burn books **0** on this ledger, even though BGB really was burned. On Oct 19 2026 the Morph Foundation sent **3,044,901 BGB** to a dead address for the July to September quarter. The Foundation sizes each burn from Morph network fees, which were **$7,930** after Ethereum costs, turned into BGB at the average price of $1.797 and boosted 690 times. Because the coins left the locked reserve and not the market, total supply fell from 910.92M to 907.88M BGB while circulating supply stayed at 699.99M BGB. The previous burn, for April to June, removed 3,010,400 BGB and was announced on Jul 15 2026, just before this window.
+The quarterly burn books **0** for circulating supply, even though it is real. On Oct 19 2026 the Foundation sent **3,044,901 BGB** to the burn address for the third quarter of 2026, and those coins are gone for good. They came from the Foundation's own treasury, which was never part of circulating supply, so the burn made the total smaller and the treasury smaller, but left the coins people trade exactly where they were. The burns before it, on Jan 23, Apr 9 and Jul 14 2026, each about 3M BGB, came from the same place.
 
-Foundation buying is **0**: the reserve wallet received nothing in the window and only shrank. New long-term locks are **0** too: the Morph BGB staking pool that opened on Apr 14 2026 locks coins for 90 days but is capped at 2M BGB, and staked BGB still counts as circulating.
+Foundation buying is **0**: neither the Foundation nor Bitget has said it will buy BGB back. New long-term locks are **0** as well. Morph's staking pool, opened Apr 14 2026, locks BGB for 90 days with room for 2M coins, but those coins already count as circulating, so locking them does not take anything out.
 
 ## Foundation and overhang
 
-The one team-controlled overhang is the Morph Foundation's locked reserve, holding **207,883,944 BGB** on Nov 3 2026. That is about **30%** of the 699.99M BGB in circulation and exactly the gap between total and circulating supply, so it is the only BGB the market does not yet count. The plan of a 2% monthly release would mean roughly 4.4M BGB a month if it were ever used, but so far the reserve has only fed burns. The reserve is tracked on-chain. If the reserve's balance falls between refreshes for anything other than a burn, that outflow enters Foundation and unscheduled unlocks at the next refresh.
+The Morph Foundation treasury is the one large holder outside circulation. It held **207,883,944 BGB** on Nov 12 2026, down from 220M when it was filled, and every coin it has let go so far went to the burn address. It is a two-of-three multi-signature wallet on Ethereum, and its balance is checked at every rebuild. Each month it is allowed to release about 4.4M BGB for listings, builder grants and payment rewards, so this store is the coin's real supply risk.
 
-The other large wallets on Ethereum hold coins that already circulate, so they are price risk rather than new supply. They include the Morph bridge, exchange custody, a wallet of about 227.6M BGB and a new wallet that gathered **100.3M BGB** around Oct 21 2026; a burn, a new lock or a large exchange deposit from either would be the thing to notice.
+One more wallet is worth naming. On Oct 21 and Oct 22 2026 a single wallet gathered about **100.3M BGB**, part of it from the wallet that ran Bitget's July 2025 burn. Those coins were already counted as circulating, so the move added nothing new. If the treasury's balance falls between rebuilds and the coins go anywhere other than the burn address, that outflow enters the sell side at the next rebuild.
 
-## How BGB compares to other exchange tokens
+## How BGB compares to other exchange-token chains
 
-Most exchange tokens shrink supply by buying coins on the open market with exchange profit and burning them. That takes coins out of the float, so it shows up as real buy pressure. BGB worked that way until Sep 2025. Today the BGB burn is funded from a reserve the market never counted, so it lowers total supply and the future overhang, but it does not take a single circulating BGB off the market.
+Most exchange tokens shrink their supply by having the issuer buy coins on the open market and burn them. Each such burn takes coins out of circulation, so it shows up as buy pressure. BGB works differently since September 2025. Its burns are paid for out of a treasury that was never in circulation, so they cut BGB's total supply without cutting the number of coins that trade.
 
-The size of the BGB burn is also tied to Morph chain use, not to exchange trading. Morph fees of a few thousand dollars a quarter, multiplied by a large booster, set a burn of about 3M BGB a quarter. An exchange token whose burn follows exchange revenue tends to burn more when trading is busy; BGB's burn follows a much smaller chain and a booster the Foundation can change.
+BGB is also unusual in who decides. The Bitget exchange gave up control of the token to the Morph Foundation, and the size of each burn now depends on fees paid on the Morph chain, the average BGB price and a governance multiplier set by holders. In the third quarter of 2026 Morph's fees were small, so the multiplier did almost all of the work.
 
-On issuance BGB sits with the fixed-supply group: no mint, no staking emission and no vesting tranche reaching the market. Exchange-backed chains that pay validators in new coins grow their supply every day; BGB does not.
+Like other fixed-supply tokens, BGB has no built-in issuance to soak up. The real question for supply is not new coins but the treasury: a token whose float stays flat today can still grow if the 207.88M store starts paying out.
 
 ## What to watch in the next 90 days
 
-The Q4 2026 BGB burn, for October to December, is expected around mid-January 2027 on the pattern of Jul 15 2026 and Oct 19 2026; if it comes from the reserve again it books 0, but if the Foundation buys coins on the market instead it becomes real buy pressure.
+The fourth-quarter burn is due around late January 2027, judging by the Jan 23, Apr 9, Jul 14 and Oct 19 2026 burns. If its coins come from the treasury again, it books **0**; if they are bought on the market, it becomes buy pressure.
 
-The Morph Foundation reserve of 207.88M BGB is the line to watch: any transfer out of it that is not a burn would be the first use of the 2% monthly release and would add new sell pressure.
+Any treasury payout to grants, listings or payment rewards would be the first real release. Up to about **4.4M BGB** a month is allowed, and the first such move would turn the flat reading positive.
 
-Bitget's follow-up to the Sep 24 2026 hack, after the exchange said it covered the loss from its protection fund, is worth watching for any plan that uses BGB itself.
+A holder vote that changes the burn multiplier would change how fast the treasury shrinks. A lower setting means smaller burns and more coins left in the store.
 
-Any change to the burn booster, which fell from 1,420 in the April to June quarter to 690 in July to September, would change how fast the reserve shrinks.
+Thailand plans to block the Bitget exchange from Dec 5 2026. That touches demand for BGB, not its supply.
 
 ## Summary
 
-BGB supply is flat at **0.00%** over the 90 days to Nov 3 2026 and is expected to stay flat through Feb 1 2027, against **+0.06%** on other trackers. Bitget Token has a fixed 2B supply with no mint, and 699.99M BGB circulate. The quarterly Morph burn, 3,044,901 BGB on Oct 19 2026, is paid out of the Morph Foundation's locked reserve, so it shrinks total supply but not the coins on the market. The key risk is that reserve of 207.88M BGB, which carries a 2% monthly release plan that has not been used yet.
+Bitget Token's circulating supply was flat over the 90 days to Nov 12 2026, at **0.00%**, and is projected flat for the next 90 days. No BGB can be created, and the Morph Foundation's **207.88M BGB** treasury released nothing. The Oct 19 2026 burn of **3.04M BGB** came out of that treasury, so it shrank BGB's total but not the coins in circulation. The main supply risk is the treasury itself, which may release up to about 4.4M BGB a month.
 
-*MrNasDog Pressure Framework analysis of BGB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 3 2026.*
+*MrNasDog Pressure Framework analysis of BGB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 12 2026.*

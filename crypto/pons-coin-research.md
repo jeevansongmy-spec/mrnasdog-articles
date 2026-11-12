@@ -1,28 +1,28 @@
 ---
-title:         "PONS Inflation Rate: −15.76% Supply in 90 Days"
-description:   "Pons is a token launchpad on Robinhood Chain. PONS gets no new supply, and the fee-funded buyback plus holder burns removed 84.89M in 90 days: supply −12.65%."
+title:         "PONS Inflation Rate: −20.87% Supply in 90 Days"
+description:   "Pons is a token launchpad on Robinhood Chain. PONS has a fixed 1 billion supply, and 80% of the protocol's fee share buys PONS and burns it: 56.29M PONS burned in 90 days, supply down 8.40%, with fees far lower than in September."
 canonical_url: "https://mrnasdog.com/research/pons"
 content_type:  "coin_hub"
 tags:          ["crypto", "pons", "pons", "should-i-buy"]
 published:     true
 ---
-# PONS Inflation Rate: −15.76% Supply in 90 Days
+# PONS Inflation Rate: −20.87% Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/pons — numbers checked Nov 9 2026*
+*Source: https://mrnasdog.com/research/pons — numbers checked Nov 12 2026*
 
-**−15.76%** in 90 days, **−63.03%** in a year: that is how fast PONS supply changes as of Nov 3 2026.
+**−20.87%** in 90 days, **−83.49%** in a year: that is how fast PONS supply changes as of Nov 12 2026.
 
 - **Signal:** positive — PONS, read by supply and demand
 - **Score:** 9.5/10 — supply 5/5, demand 4.5/5
-- **Supply growth:** −15.76% in 90 days · −63.03% in a year
+- **Supply growth:** −20.87% in 90 days · −83.49% in a year
 - **How much people want it:** very strong (4.5/5)
 - **Price drivers:** 2 ▲ price up · 1 ▼ price down
 
 ## PONS supply
 
-Pons is a token launchpad on Robinhood Chain. PONS gets no new supply, and the fee-funded buyback plus holder burns removed 84.89M in 90 days: supply −12.65%.
+Pons is a token launchpad on Robinhood Chain. PONS has a fixed 1 billion supply, and 80% of the protocol's fee share buys PONS and burns it: 56.29M PONS burned in 90 days, supply down 8.40%, with fees far lower than in September.
 
-Expect −15.76% more PONS in 90 days (−63.03% over the year). On supply alone Pons gets 5/5 — shrinking.
+Expect −20.87% more PONS in 90 days (−83.49% over the year). On supply alone Pons gets 5/5 — shrinking.
 
 ## Demand today
 
@@ -36,18 +36,18 @@ Pons has 3 price drivers. Right now: 2 up, 1 down.
 
 ### ▲ Launchpad share
 
-Pons still earns over 90% of Robinhood Chain launchpad fees
+Pons still earns about 90% of Robinhood Chain launchpad fees
 
 Good for the price: Rivals stay small. Bad for it: Rivals win share. Right now it points up.
 
 | Date | Pons share of launchpad fees |
 |---|---|
-| Sep 30 2026 | 93.1% |
 | Oct 13 2026 | 95.4% |
 | Oct 24 2026 | 95.2% |
 | Nov 3 2026 | 92.8% |
+| Nov 12 2026 | 90.1% |
 
-*Checked Nov 3 2026*
+*Checked Nov 12 2026*
 
 ### ▼ Robinhood Chain trading
 
@@ -60,13 +60,13 @@ Chain meme trading cooled from its September peak; PONS moves with it
 | Aug 31 2026 | $19.1B |
 | Sep 30 2026 | $56B |
 | Oct 31 2026 | $27.8B |
-| Nov 9 2026 | $21.8B |
+| Nov 13 2026 | $21.2B |
 
-*Checked Nov 3 2026*
+*Checked Nov 12 2026*
 
 ### ▲ Big exchange listings
 
-Nine big listings in 43 days; Deribit perps came last
+Nine big listings in 43 days; none new in 30 days
 
 More big exchanges → price up · Exchanges delist PONS → price down. Today: the price-up case.
 
@@ -81,37 +81,37 @@ More big exchanges → price up · Exchanges delist PONS → price down. Today: 
 | Oct 8 2026 | Upbit + Bithumb (KRW) |
 | Oct 13 2026 | Deribit perps |
 
-*Checked Nov 3 2026*
+*Checked Nov 12 2026*
 
 ## Is PONS inflationary? Questions about Pons supply
 
 ### Is PONS inflationary or deflationary?
 
-As of Nov 3 2026, PONS supply moves −15.76% in 90 days and −63.03% in a year, so PONS is deflationary. Burns or buybacks take out more PONS than is created.
+As of Nov 12 2026, PONS supply moves −20.87% in 90 days and −83.49% in a year, so PONS is deflationary. Burns or buybacks take out more PONS than is created.
 
 ### What is the PONS inflation rate in 2026?
 
-PONS supply shrinks −63.03% over the next 12 months and −15.76% over the next 90 days (checked Nov 3 2026).
+PONS supply shrinks −83.49% over the next 12 months and −20.87% over the next 90 days (checked Nov 12 2026).
 
 ### When is the next PONS token unlock?
 
-No dated PONS unlock is scheduled in the next 90 days (checked Nov 3 2026).
+No dated PONS unlock is scheduled in the next 90 days (checked Nov 12 2026).
 
 ### Is any PONS burned or bought back?
 
-Yes. In our count, about 106M PONS is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 3 2026). How it works: Launchpad fees buy PONS and burn it: 68.61M burned in 90 days for about $21.2M, plus 16.28M burned by holders. At today's price the same dollars would burn about 105.73M next, far less at today's lower fees.
+Yes. In our count, about 140M PONS is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 12 2026). How it works: The fee buyback burned 47.50M PONS in 90 days and holders burned 8.80M more, but the weekly burn has slowed sharply since September.
 
 ### Where does new PONS supply come from?
 
-Almost no new PONS reaches the market over the next 90 days (checked Nov 3 2026). No new PONS: all 1B were made in one mint at launch on Jul 13 2026, there was no team or investor share, and nothing vests.
+Almost no new PONS reaches the market over the next 90 days (checked Nov 12 2026). No new PONS: a fixed 1 billion supply with no team, investor or vesting unlocks.
 
 ### How much PONS is in circulation?
 
-PONS has about 671M coins in circulation as of Nov 3 2026; the next 90 days change that by −15.76% (−63.03% over a year).
+PONS has about 670M coins in circulation as of Nov 12 2026; the next 90 days change that by −20.87% (−83.49% over a year).
 
-### Does PONS have more new supply than SYRUP, IMX or FORM?
+### Does PONS have more new supply than IMX, FORM or HNT?
 
-Over the next 90 days (checked Nov 3 2026): PONS −15.76%, SYRUP +0.82%, IMX +2.25%, FORM +0.01%. PONS has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 12 2026): PONS −20.87%, IMX +2.21%, FORM +0.01%, HNT +9.48%. PONS has the least new supply of these 4 coins.
 
 ## Where to read the rest of PONS
 

@@ -1,6 +1,6 @@
 ---
 title:         "ARB Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
-description:   "ARB is inflationary: 277.94M ARB of team and investor unlocks plus 43.70M from the Foundation gave +4.67% in 90 days, with no burn. About +6.11% next."
+description:   "ARB is inflationary: 277.94M ARB of team and investor unlocks and 43.70M to the Foundation in 90 days, +4.67% net, and 100M more leaves the DAO treasury."
 canonical_url: "https://mrnasdog.com/research/arb/inflation"
 tags:          ["crypto", "arb", "arbitrum", "layer-2"]
 published:     true
@@ -12,60 +12,62 @@ published:     true
 <!-- main-page -->
 ➜ Start with the Arbitrum coin page for the short answer (should you buy ARB?) and its price drivers: [mrnasdog.com/research/arb](https://mrnasdog.com/research/arb)
 
-ARB's supply is growing fast, and it will grow faster before it slows: up **+4.67%** in the 90 days from Aug 5 to Nov 3 2026, and on course for about **+6.11%** in the next 90 days. Team and investor unlocks released **277.94M ARB** and the Arbitrum Foundation drew **43.70M ARB** from its vesting wallet, while nothing burned or bought ARB back. The 10B ARB cap holds, the last team and investor step lands on Mar 16 2027, and other trackers show **+4.18%** for the same 90 days.
+ARB is **inflationary** for now. Its supply is fixed at **10B**, but about 31% of it is still locked, and those locked coins open on a set calendar until April 2027. Between Aug 14 and Nov 12 2026, **321.63M ARB** entered circulation and **nothing** was bought back or burned, so circulating supply grew **+4.67%**. Other trackers show about +4.20% for the same 90 days.
 
 ## The verdict, in one paragraph
 
-Over the 90 days to Nov 3 2026, ARB's circulating supply grew **+4.67%**, from new coins that left locked wallets and nothing that took coins away. Other trackers show **+4.18%** for the same window, a gap of **0.49 points**. That gap is small, and it comes from the Foundation's release, which those trackers count late, so the coin page carries no warning note. The next 90 days look heavier, at about **+6.11%**, because a DAO vote may add 100M ARB on top of the usual unlocks. The label that fits ARB today: a fixed-cap token that is inflationary by unlock schedule on its active float.
+ARB is supply-heavy. In the last 90 days the circulating supply grew by **+4.67%**, and the next 90 days are set to add about **+6.11%**, because the Arbitrum DAO is about to move 100M ARB out of its treasury on top of the monthly unlocks. Other trackers put the last 90 days at **+4.20%**, about half a point lower, because they book the Arbitrum Foundation's releases once a month rather than when they happen. That difference is small, so the coin page carries no warning note. The label is simple: ARB's supply is growing, and nothing in the token pulls coins back out.
 
 ## Sell pressure: where new ARB comes from
 
-**1. Protocol inflation** is zero. Arbitrum does not pay ARB to anyone for running the network. The Arbitrum DAO has the right to vote a new mint of up to 2% of supply a year, but it has never used it, and none of the proposals open on Nov 3 2026 would mint a single coin.
+**Protocol inflation: 0.** No new ARB was created between Aug 14 and Nov 12 2026. The token's total supply has stayed just under 10B since launch in March 2023. The Arbitrum DAO could vote to mint up to 2% more each year, but it has never held such a vote and none is on the table.
 
-**2. Vesting unlocks** released **277.94M ARB**. The team, its advisers and the early investors were given 4.447B ARB with a four-year lock that started on Mar 16 2023. A quarter unlocked on Mar 16 2024, and the rest comes out in 36 equal monthly steps of about **92.65M ARB**. Three of those steps landed in the window, on Aug 16, Sep 16 and Oct 16 2026, and three more fall in the next 90 days, on Nov 16 and Dec 16 2026 and Jan 16 2027.
+**Vesting unlocks: 277.94M ARB.** The Offchain Labs team, its advisors and the early investors were given 4.45B ARB between them. A quarter opened in March 2024, and the rest opens in 36 equal monthly steps of **92.65M ARB** until March 2027. Three steps fell in the last 90 days, in mid-August, mid-September and mid-October 2026. Three more fall in the next 90 days, around Nov 15, Dec 15 and Jan 14. After the October step, about **463.23M ARB** of this group is still locked.
 
-**3. Foundation and unscheduled unlocks** added **43.70M ARB**. The Arbitrum Foundation's 700M ARB vests a little every second from Apr 17 2023 to Apr 17 2027, and the Foundation pulls the vested coins from its vesting wallet into its own wallet every few weeks. About **43.09M ARB** more vests in the next 90 days.
+**Foundation and unscheduled unlocks: 43.70M ARB.** The Arbitrum Foundation was given 700M ARB that opens a little every second from April 2023 to April 2027. Between Aug 14 and Nov 12 2026 its vesting wallet paid out **43.70M ARB** to the Foundation, which uses it for grants, partnerships and running costs. The wallet still holds **80.98M ARB**, and about **43.09M** more opens in the next 90 days.
 
-**4. Long-term locked or bankruptcy** is zero. No court estate or bankruptcy pile of ARB is waiting to be paid out. On Oct 30 2026 the Arbitrum Security Council froze **74.56M ARB** held by the Binance hacker, but those coins were already circulating before the freeze, so they add nothing either way.
+**Long-term locked or bankruptcy: 0.** No court case or failed company holds ARB waiting to pay it out. On Oct 30 2026 Arbitrum's Security Council froze **74.56M ARB** and 8,425 ETH taken in the Binance hack. Those coins were already circulating before the freeze, so neither the freeze nor a return to Binance changes the count.
 
-**5. DAO treasury grants** were zero in the window, since the treasury's balance did not move from Aug 5 to Nov 3 2026. That changes next: the Arbitrum DAO is voting until Nov 12 2026 on a plan to grow the USDG stablecoin on Arbitrum, and one line of it sends **100M ARB** from the treasury to the DRIP rewards program, held by the Foundation. The earlier off-chain vote passed with almost no votes against, so we count the 100M in the next 90 days, from as soon as Nov 16 2026.
+**DAO treasury releases: 0 so far, 100M ARB next.** The DAO treasury holds **2.56B ARB**, and those coins only start circulating when ARB holders vote to spend them. The treasury did not move at all between Aug 14 and Nov 12 2026. A vote ending on Nov 12 2026 sends **100M ARB** from it to DRIP, the DAO's reward program, to pay for growth of the USDG stablecoin on Arbitrum. The vote had no real opposition, and after a three-day waiting period the transfer can go out from about Nov 16 2026, so the next 90 days carry those 100M ARB.
 
 ## Buy pressure: where new ARB goes
 
-**1. Programmatic buyback** is zero. Arbitrum's gas, sequencer and transaction-ordering revenue is paid in ETH and flows to the DAO treasury, so no rule turns that income into ARB purchases. Offchain Labs, the company that built Arbitrum, said in March 2025 that it would buy ARB on the market, but coins bought that way were already circulating, so they do not shrink the count.
+**Programmatic buyback: 0.** People pay Arbitrum's network fees in ETH, and that ETH goes to the DAO. The DAO keeps it or invests it; it does not use it to buy ARB.
 
-**2. Protocol fee burn** is zero. No fee burns ARB. Only about 6 ARB reached a dead address in the window, far too little to count.
+**Protocol fee burn: 0.** Nothing in Arbitrum burns ARB. Only a handful of coins were sent to dead wallets or destroyed in the 90 days, too few to matter.
 
-**3. Foundation buy** is zero. Neither the Arbitrum Foundation nor the Arbitrum DAO bought ARB in the window, and no proposal to do so is open.
+**Foundation buy: 0.** Offchain Labs, the company that builds Arbitrum, said in March 2025 it would buy ARB over time and last said it had bought some in December 2025. It has never said how much. It buys coins that are already circulating, so the buying moves ARB from one holder to another and takes nothing out of the count.
 
-**4. New long-term lock** is zero. ARB has no staking lock that takes coins out of circulation. ARB sent back into the DAO treasury would leave the market, as the gaming fund's returns did in July 2026, but no coins came back between Aug 5 and Nov 3 2026.
+**New long-term lock: 0.** No new lock started in the 90 days. ARB holders can lend their votes to delegates, but their coins never leave their wallets and still count as circulating.
 
 ## Foundation and overhang
 
-Four large piles of ARB sit outside the circulating count today. The Arbitrum DAO treasury holds **2.56B ARB**, the biggest by far; it moves only by DAO vote, and the 100M USDG transfer would be its first outflow since Jun 28 2026. The team and investor lock still holds about **463.23M ARB**, which leaves in five monthly steps of 92.65M ARB through Mar 16 2027. The Foundation's vesting wallet holds **80.98M ARB**, which runs out on Apr 17 2027.
+Three pools sit outside circulation today. The largest is the **DAO treasury** with **2.56B ARB**, which only moves by holder vote; 100M of it is about to leave. Next is the team and investor calendar with **463.23M ARB** still locked, opening monthly to March 2027. Last is the Foundation's vesting wallet with **80.98M ARB**, opening second by second to April 2027.
 
-Two more piles already count as circulating and can be spent at any time without adding new supply: the Foundation's own wallet, at about **329.02M ARB**, and the DRIP rewards wallet, at **52.14M ARB**, which paid out a net 11.55M ARB to users in the window. The gaming fund that is winding down holds another 14.59M ARB. If the treasury, the vesting wallet or the team and investor lock falls between our checks, that outflow joins the sell side at the next update.
+Several large wallets already count as circulating. The Foundation's main wallet holds **329.02M ARB**. The DRIP reward wallet holds **52.14M ARB**, down from 63.70M on Aug 14 2026 as rewards went out. A DAO gaming fund that is winding down holds **14.59M ARB**. Selling from any of these would be felt on the market, but it would not add to the supply count.
 
-## How ARB compares to other Ethereum Layer 2 chains
+## How ARB compares to other Ethereum layer 2 chains
 
-ARB belongs to the class of rollup governance tokens. Users of these chains pay their fees in ETH, so the token itself earns no fee flow, gets no burn and has no built-in buyer. Its supply story is a calendar: a fixed amount was created at launch, and the share that circulates grows each month as insiders unlock. Optimism's OP follows the same pattern, so the useful comparison is how much is still locked and how soon it lands. For ARB, the team and investor lock runs out in March 2027 and the Foundation's in April 2027.
+ARB is a pure governance token. Arbitrum, like most Ethereum layer 2 chains, charges its fees in ETH, so ARB is not needed to use the network and does not earn from it. That is the same design as OP on Optimism and ZK on ZKsync. Starknet's STRK is different: it is used to pay fees and to stake, which gives holders a reason to keep it.
 
-That makes ARB the opposite of a proof-of-stake Layer 1 such as Ethereum, which keeps adding new coins forever to pay validators and claws part of them back through a fee burn. ARB's cap of 10B ARB is close to fixed, with only the DAO's unused 2% yearly mint right in reserve. Once the unlock calendar ends, new ARB can only come from the DAO treasury, and every one of those transfers needs a public vote.
+The supply story is also shared. These tokens launched with big team and investor shares that open monthly for several years, and none of them has a burn or buyback large enough to absorb that. ARB's team and investor calendar ends in March 2027, four years after launch. What sets ARB apart is the size of its DAO treasury: at 2.56B ARB, holder votes become the biggest open question for supply once the calendar ends.
 
 ## What to watch in the next 90 days
 
-**Nov 12 2026:** the Arbitrum DAO's on-chain vote on the USDG plan closes. If it passes, the 100M ARB transfer to the DRIP rewards program can run from Nov 16 2026; if it fails, the next 90 days drop to about **+4.66%**.
+**Nov 12 2026, the USDG vote closes.** If it passes, as the count suggests, the 100M ARB can leave the treasury from about Nov 16 2026. A failed or delayed vote would cut the next 90 days from about +6.11% to about +4.66%.
 
-**Nov 16 2026, Dec 16 2026 and Jan 16 2027:** the monthly team and investor steps of about 92.65M ARB each. Only two steps remain after that, on Feb 16 and Mar 16 2027.
+**Nov 15 2026, Dec 15 2026 and Jan 14 2027, monthly unlocks.** Each one opens **92.65M ARB** for the team and investors. After those three, two steps remain, in February and March 2027.
 
-**The frozen Binance funds:** the 74.56M ARB frozen on Oct 30 2026 can only move by a DAO vote. A vote to return it to Binance would not change the circulating count, but how the DAO handles it is a closely watched test of the Security Council's powers.
+**The frozen Binance hack funds.** Binance asked the DAO on Nov 5 2026 to hand back the frozen 74.56M ARB and 8,425 ETH. A return would be a big transfer to one holder, but it would not change the supply count.
 
-**Any DAO vote to mint:** the DAO's 2% yearly mint right is the only way ARB's total supply could rise, and no proposal to use it is open on Nov 3 2026.
+**New treasury spending votes.** Any further vote to spend from the 2.56B ARB treasury, or to use the 2% mint power, would add to supply. None other is live as of Nov 12 2026.
 
 ## Summary
 
-ARB's circulating supply grew **+4.67%** over the 90 days to Nov 3 2026 and is on course for about **+6.11%** over the next 90 days. Team and investor unlocks of **277.94M ARB** and Foundation vesting of **43.70M ARB** drove the growth, and nothing burns or buys ARB back, because Arbitrum's fees are paid in ETH. The main risk in the next 90 days is a DAO vote that would add 100M ARB from the treasury, on top of three more monthly unlocks. The total stays capped at 10B ARB, and the team and investor unlocks end on Mar 16 2027.
+Arbitrum's ARB grew its circulating supply by **+4.67%** between Aug 14 and Nov 12 2026, from 277.94M ARB of team and investor unlocks and 43.70M ARB released to the Arbitrum Foundation.
 
----
+Nothing in Arbitrum buys back or burns ARB, because the network's fees are paid in ETH, so every new coin stays in circulation.
 
-*MrNasDog Pressure Framework analysis of ARB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 3 2026.*
+The next 90 days look heavier at about **+6.11%**, as three more monthly unlocks meet a 100M ARB transfer from the DAO treasury for USDG stablecoin rewards.
+
+The team and investor calendar ends in March 2027, after which the 2.56B ARB DAO treasury becomes the main source of new ARB.

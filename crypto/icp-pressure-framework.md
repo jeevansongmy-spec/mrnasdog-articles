@@ -1,6 +1,6 @@
 ---
 title: "ICP Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
-description: "ICP is inflationary: 3.05M new ICP for node operators and stakers against a 147.07K burn gives +0.52% in 90 days, about +0.59% next. No supply cap, no buyback."
+description: "ICP is inflationary: 3.13M new ICP for stakers and node providers vs a 150.76K burn gives +0.53% in 90 days, about +0.61% next. No supply cap, no buyback yet."
 canonical_url: "https://mrnasdog.com/research/icp/inflation"
 tags: ["crypto", "icp", "internet-computer", "staking"]
 published: true
@@ -11,64 +11,48 @@ published: true
 
 <!-- main-page -->
 Looking for the buy-or-sell answer? It is on the ICP coin page, with demand and price drivers: [mrnasdog.com/research/icp](https://mrnasdog.com/research/icp)
-ICP is inflationary: its supply grew **+0.52%** in the 90 days from Aug 5 to Nov 3 2026, and it is on course for about **+0.59%** in the next 90 days. The Internet Computer made **3.05M ICP** in that time, **1.54M** as monthly pay for node operators and **1.51M** as voting rewards that stakers cashed out, while apps burned **147.07K ICP** to make the cycles they run on. ICP has no supply cap, no vesting contract and no buyback, and other trackers show **+0.54%** for the same period.
+ICP supply is growing, and it should keep growing over the next 90 days. The Internet Computer has no supply cap: it creates new ICP to pay stakers and node providers, and it destroys ICP when apps buy computing power. Between Aug 14 and Nov 12 2026 the network created **3.13M ICP** and burned **150,758 ICP**, so supply rose a net **+0.53%**; other trackers show **+0.38%** for the same stretch.
 
 ## The verdict, in one paragraph
 
-Over the 90 days to Nov 3 2026, ICP's supply grew a net **+0.52%**, from about 555.30M to **558.20M ICP**. Other supply trackers put the same period at **+0.54%**, a gap of only **0.02 points**, so the coin page carries no warning note. Looking ahead, the next 90 days should bring about **+0.59%**, a little more than the last 90, because the operators who were on half pay go back to full pay and the low ICP price means more coins per payment. The label that fits ICP today: **inflationary by design, with a burn that is still small**.
+Over the last 90 days ICP supply grew a net **+0.53%** of the **558.37M ICP** in circulation, and the next 90 days point to about **+0.61%**, because some node providers come off half pay. Other trackers read **+0.38%** for the same window, a gap of only **0.15 percentage points**, so the coin page carries no warning note. ICP is an uncapped Layer 1 that is inflationary by design: the burn is real and tied to actual use of the network, but at about 5% of new supply it is far too small to offset the new coins.
 
 ## Sell pressure: where new ICP comes from
 
-The first source is **voting rewards**. People who lock ICP in a neuron and vote on network decisions earn rewards every day, and the network creates the ICP only when the owner cashes those rewards out. From Aug 5 to Nov 3 2026, stakers cashed out **1,508,887 ICP**, and close to half of it, about **743,000 ICP**, came in the last 30 days, with three large holders alone taking about 160,000 ICP on Oct 4 2026. The reward pool now hands out about **53,166 ICP** a day, down from about 86,600 before the cut of Apr 21 2026.
+ICP has two sources of new coins, and both are minted by the Network Nervous System, the on-chain governance that runs the Internet Computer. The first is staking rewards. People who lock ICP in staking accounts, called neurons, earn voting rewards every day, but the rewards arrive as "maturity", not as ICP. Maturity becomes new ICP only when a holder cashes it out. From Aug 14 to Nov 12 2026 holders cashed out **1,590,053 ICP**, while about **3.37M ICP** of fresh maturity was credited, so more than half of the new rewards stayed unconverted. We expect about the same **1.59M ICP** in the next 90 days.
 
-ICP has **no vesting unlocks**. The coins given to early backers and the team at launch in May 2021 live in staked neurons on the same ledger, and those already count as circulating, so no locked batch is waiting to be added.
+The second source is node provider pay. The independent companies that run the Internet Computer's machines receive new ICP once a month. The three payments in the window were **541,884 ICP** on Aug 14, **525,110 ICP** on Sep 13 and **475,996 ICP** on Oct 14 2026, for a total of **1,542,990 ICP**. The bill is set in a basket of world currencies, and since July 2026 the network never values ICP at less than 2 units of that basket, which caps how many ICP a weak price can force it to mint. In July 2026 the community voted to put node providers who missed two emergency drills on half pay for three months. That penalty ends now: 19 providers return to full pay from the Nov 13 2026 payment and 5 more from the Dec 14 2026 payment, so the next three payments should come to about **1.94M ICP**.
 
-**Foundation and unscheduled unlocks add nothing**. Between Oct 8 and Oct 15 2026 the DFINITY Foundation moved **2.50M ICP** out of 50 of its dissolved neurons into its main account, and it paid out about **1.27M ICP** from that account over the 90 days. Those coins were already part of the supply, so none of it is new ICP.
-
-There is **no bankruptcy estate** or court-held pile of ICP. About 44.00M ICP sits in dissolved neurons that owners have not withdrawn yet, but that ICP already counts as circulating too.
-
-The second real source is **node provider rewards**. The companies that run the Internet Computer's machines are paid in newly made ICP once a month: **541,884 ICP** on Aug 14, **525,110 ICP** on Sep 13 and **475,996 ICP** on Oct 14 2026, **1.54M ICP** in all. The bill is set in a basket of world currencies, and since July 2026 ICP is valued at no less than 2.0 of that basket when the bill is paid, so a falling price cannot blow up the mint without limit. ICP trades below that level today, so the floor decides the next payments. A three-month half-pay penalty for operators who did not answer two emergency tests ends for 16 operators with the Nov 13 2026 payment and for 5 more with the Dec 14 2026 payment. Together that points to about **1.91M ICP** of node pay in the next 90 days.
+Vesting adds **0**. ICP has no vesting contract; the seed and early-contributor coins from the 2021 launch sit in ordinary neurons that already count as circulating. Foundation and unscheduled unlocks add **0**, because every Foundation coin is already inside the circulating count. Long-term locks and bankruptcy add **0**: no court case or failed firm holds ICP waiting to pay it out.
 
 ## Buy pressure: where new ICP goes
 
-ICP has **no programmatic buyback** today. DFINITY has said that 20% of the revenue from Cloud Engines, its private cloud offer for companies, will be used to buy and burn ICP, but no such burn is on record yet. When it starts, those coins will show up in the burn below.
+The Internet Computer's one working sink is the burn. Apps pay for computing and storage with cycles, and ICP is destroyed to create them; small transfer fees are destroyed as well. From Aug 14 to Nov 12 2026 that burned **150,758 ICP**, about **4.8%** of the new ICP minted in the same days. We expect the same pace next.
 
-The one live buyer is the **cycles burn**. Apps on the Internet Computer pay for computing and storage with cycles, and the only way to make cycles is to burn ICP. From Aug 5 to Nov 3 2026 that destroyed **146,846 ICP**, plus **227 ICP** of transfer fees, for **147,073 ICP** in all, roughly 1,600 a day. That cancels less than a twentieth of the new ICP made in the same days.
-
-There is **no Foundation buy**: the DFINITY Foundation pays ICP out for its work and does not buy it back, and no company or fund has a public plan to buy ICP in the next 90 days.
-
-Staking is **not a lock that removes supply**. About **286.87M ICP**, roughly half of all ICP, is staked in neurons, but staked ICP still counts as circulating, so the stake takes nothing out of the count.
+The programmatic buyback is **0** today. DFINITY plans to send 20% of Cloud Engine revenue to buying and burning ICP, and paid Cloud Engines only began going to business users in the week of Nov 10 2026, so no burn from them shows on-chain yet. When it starts, those coins are destroyed and land in the burn row. Foundation buying is **0**: the DFINITY Foundation does not buy ICP on the market. New long-term locks are **0** too. About **287.06M ICP** is staked in neurons, some for up to eight years, but staked ICP still counts as circulating, so a bigger stake removes nothing from the count.
 
 ## Foundation and overhang
 
-The biggest overhang on ICP is not a wallet but a promise. Stakers hold about **96.69M ICP** of voting rewards they have not cashed out, plus about 17.15M more that they chose to keep staked. None of it exists as ICP yet, and every cash-out creates new coins, so this pile is what feeds the voting-reward line above. About 48.50M of it belongs to neurons that have stopped voting for a long time, which may never be claimed.
+The biggest store of future ICP is not a wallet at all. Neurons hold about **96.75M ICP** of voting rewards that have not been cashed out yet, plus **17.20M ICP** of rewards that holders chose to keep staked. None of it is in the supply today. About **48.50M ICP** of that maturity sits on neurons that stopped voting, which suggests some of it may never move. Every cash-out from this pool shows up in the staking-rewards row as new supply.
 
-Inside the supply, the DFINITY Foundation's main account holds about **3.42M ICP** after the October move, and the Foundation-run neurons we could list hold about 5.00M ICP more. Early-backer seed neurons hold about **71.42M ICP**, early-contributor neurons about 12.62M ICP, and the Neurons' Fund, which backs new projects on the network, about 15.28M ICP plus 5.84M of rewards. All of these already count as circulating, so a sale moves coins between owners without adding supply. If the unclaimed rewards start falling faster between our checks, the extra ICP shows up in the voting-reward line at the next check, and any Foundation move that creates new coins would enter the Foundation line the same way.
+The DFINITY Foundation's main account holds about **3.38M ICP**. It took in **2.5M ICP** from the Foundation's own neurons on Oct 8 and Oct 15 2026 and sent out about **1.29M ICP** during the window. Other groups worth watching: seed buyers' neurons hold about **71.41M ICP**, early contributors' neurons **12.62M ICP**, the Neurons' Fund **15.28M ICP** staked plus 5.84M of maturity, and **44.33M ICP** sits in neurons that have finished unlocking but were never withdrawn. All of these coins already count as circulating, so a sale from them moves coins without adding to supply. We re-read every balance at each rebuild; if the Foundation's balance falls between checks, the outflow is booked in the Foundation row at the next check.
 
 ## How ICP compares to other proof-of-stake Layer 1 chains
 
-Most proof-of-stake chains pay stakers straight from new issuance at a fixed or slowly falling rate. ICP does the same through its voting rewards, but with two twists. First, the reward is only minted when a staker cashes it out, so a large unclaimed pile can turn into new supply all at once. Second, ICP also mints a monthly wage for the companies that run its machines, a cost that chains like Ethereum or Solana leave to validators to cover from their own rewards.
+Like Ethereum, ICP has no supply cap and pays its security providers in new coins while burning part of what users spend. The difference is who gets paid. Ethereum pays one group, its validators. The Internet Computer pays two: stakers who vote in governance, and node providers who run the hardware. Node pay is a bill for real machines, set in world currencies rather than in ICP, so a falling ICP price pushes more new coins out each month until the 2-unit floor stops it.
 
-On the buy side, ICP resembles chains with a fee burn, such as Ethereum, because every unit of compute is paid for with burned ICP. The difference is scale: ICP's burn covered less than a twentieth of new supply in the last 90 days, so the burn is a brake, not a counterweight. Unlike chains with a hard cap, such as Bitcoin, ICP has no maximum supply; its inflation falls only when governance votes cut rewards or app use grows enough to burn more.
+ICP's staking rewards also behave differently from most proof-of-stake chains. On Ethereum or Cosmos-style chains rewards are minted as coins straight away. On ICP they wait as maturity until the holder converts them, so the real new supply depends on how many holders choose to cash out, and the unconverted pool keeps growing in the background.
 
-Compared with its own past, ICP is in a lower-inflation phase. The voting reward pool was cut by about a third on Apr 21 2026, node pay was cut and given a price floor in April and July 2026, and the 90-day supply growth now sits near half a percent.
+On the burn side, the Internet Computer works like a "reverse gas" chain: apps, not users, buy cycles to run, and every cycle starts as burned ICP. That ties the burn to real computing demand, much like Ethereum's base-fee burn ties it to block space. In both cases the burn today covers only a small share of new issuance.
 
 ## What to watch in the next 90 days
 
-**Nov 13 2026:** the next node provider payment, about 620,000 ICP at today's price, the first at full pay for the 16 operators whose penalty ends.
-
-**Dec 14 2026 and Jan 12 2027:** the two following payments, about 645,000 ICP each, with 5 more operators back to full pay. A price above the floor would shrink each payment.
-
-**Voting-reward cash-outs:** the last 30 days brought about 743,000 ICP, twice the pace of the earlier months. If that pace holds, supply growth will run above our **+0.59%** estimate.
-
-**Cloud Engines burn:** the first on-chain burn from the 20% revenue plan would be the first new buyer of ICP beyond the cycles burn.
-
-**DFINITY Foundation account:** its main account ended the 90 days about 1.23M ICP fuller than it began, after the October move; how fast that is paid out matters for selling, though not for supply.
+The next node provider payment, due around **Nov 13 2026**, should be about **627.79K ICP** as 19 providers return to full pay. The payments due around **Dec 14 2026** and **Jan 12 2027** should each be about **656.53K ICP**, with 5 more providers back on full pay. If the ICP price climbs above 2 units of the currency basket before a payment, fewer ICP are minted for the same bill. Watch for the first on-chain burn from Cloud Engine revenue now that paid Cloud Engines have started reaching business users. Finally, a third group of node providers was moved onto reduced pay on Oct 9 2026; once its effect shows, it can only lower node pay.
 
 ## Summary
 
-ICP's supply grew **+0.52%** in the 90 days to Nov 3 2026 and should grow about **+0.59%** in the next 90 days. New ICP comes from two places, voting rewards that stakers cash out (**1.51M ICP**) and monthly pay for node operators (**1.54M ICP**), while the cycles burn took back only **147.07K ICP**. The main risk is the **96.69M ICP** of unclaimed rewards, which become new coins whenever stakers cash them out. ICP has no supply cap, so lower inflation depends on future reward cuts and on apps burning much more ICP for cycles.
+ICP supply grew **+0.53%** in the 90 days to Nov 12 2026 and is on course for about **+0.61%** next, because the Internet Computer mints new ICP for stakers and node providers and has no supply cap. The network created **3.13M ICP** in the window and burned **150,758 ICP** for computing, so the burn cancels only about 5% of new supply. The largest risk is the **96.75M ICP** of staking rewards still waiting to be cashed out, which sits outside today's supply. Paid Cloud Engines, with 20% of revenue meant to buy and burn ICP, are the one change that could make the burn meaningfully bigger.
 
 ---
 
-*MrNasDog Pressure Framework analysis of ICP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 3 2026.*
+*MrNasDog Pressure Framework analysis of ICP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 12 2026.*

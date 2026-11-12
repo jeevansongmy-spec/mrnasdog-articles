@@ -1,21 +1,21 @@
 ---
-title:         "Is JUST (JST) Inflationary? −1.25% Supply in 90 Days"
-description:   "How much new JST is coming? −1.25% in the next 90 days, −5.02% in the next year — checked Nov 3 2026."
+title:         "Is JUST (JST) Inflationary? −1.22% Supply in 90 Days"
+description:   "How much new JST is coming? −1.22% in the next 90 days, −4.90% in the next year — checked Nov 12 2026."
 canonical_url: "https://mrnasdog.com/research/jst"
 content_type:  "coin_hub"
 tags:          ["crypto", "jst", "just", "should-i-buy"]
 published:     true
 ---
-# Is JUST (JST) Inflationary? −1.25% Supply in 90 Days
+# Is JUST (JST) Inflationary? −1.22% Supply in 90 Days
 
-*From https://mrnasdog.com/research/jst, updated Nov 9 2026*
+*From https://mrnasdog.com/research/jst, updated Nov 12 2026*
 
-How much new JST is coming? **−1.25%** in the next 90 days, **−5.02%** in the next year — checked Nov 3 2026.
+How much new JST is coming? **−1.22%** in the next 90 days, **−4.90%** in the next year — checked Nov 12 2026.
 
 - **Long-run signal:** positive for JUST
-- **Score:** 7/10 — supply 5/5, demand 2/5
-- **New supply:** −1.25% in 90 days · −5.02% in a year
-- **Demand:** weak (2/5)
+- **Score:** 7.5/10 — supply 5/5, demand 2.5/5
+- **New supply:** −1.22% in 90 days · −4.90% in a year
+- **Demand:** modest (2.5/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## What could move JUST's price
@@ -33,9 +33,9 @@ More money deposited → price up · Deposits leave → price down. Now: ▼ dow
 | Aug 31 2026 | $3.69B |
 | Sep 30 2026 | $3.87B |
 | Oct 31 2026 | $3.59B |
-| Nov 9 2026 | $3.42B |
+| Nov 13 2026 | $3.32B |
 
-*Checked Nov 3 2026*
+*Checked Nov 12 2026*
 
 ### ▲ Justin Sun
 
@@ -54,17 +54,17 @@ HTX left the UK; Sun now seeks court sanctions on WLFI.
 | Oct 29 2026 | HTX told to leave UK |
 | Nov 2 2026 | Sun seeks WLFI sanctions |
 
-*Checked Nov 3 2026*
+*Checked Nov 12 2026*
 
 ## Where new JUST comes from
 
-JUST mints no new JST, and its income-funded buyback and burn took 2.13% of supply out in 90 days, with about 1.25% more expected by February.
+JST mints nothing new, and every quarter JUST spends part of its income to buy JST and burn it. Supply fell 2.13% in 90 days.
 
-JUST adds −1.25% new supply in the next 90 days and −5.02% over a year — supply scores 5/5 (shrinking) (place 104 of 100).
+JUST adds −1.22% new supply in the next 90 days and −4.90% over a year — supply scores 5/5 (shrinking) (place 104 of 100).
 
 ## Demand: how much people want JST
 
-Demand reads **weak** (2/5), #63 of 109 coins we track — that is how much people want JST now and how much buying could still come.
+Demand reads **modest** (2.5/5), #46 of 109 coins we track — that is how much people want JST now and how much buying could still come.
 
 A deeper JST demand breakdown is on the page for members.
 
@@ -72,31 +72,31 @@ A deeper JST demand breakdown is on the page for members.
 
 ### Is JUST (JST) inflationary or deflationary?
 
-JUST (JST) is deflationary right now: its supply changes −1.25% over the next 90 days and −5.02% over the next year (checked Nov 3 2026). More JST is removed than added.
+JUST (JST) is deflationary right now: its supply changes −1.22% over the next 90 days and −4.90% over the next year (checked Nov 12 2026). More JST is removed than added.
 
 ### What is the JST inflation rate in 2026?
 
-About −5.02% a year: that is how much JUST (JST) supply changes over the next 12 months, with −1.25% in the next 90 days (checked Nov 3 2026).
+About −4.90% a year: that is how much JUST (JST) supply changes over the next 12 months, with −1.22% in the next 90 days (checked Nov 12 2026).
 
 ### When is the next JST token unlock?
 
-No dated JUST (JST) unlock is scheduled in the next 90 days (checked Nov 3 2026).
+No dated JUST (JST) unlock is scheduled in the next 90 days (checked Nov 12 2026).
 
 ### Does JUST burn or buy back JST?
 
-Yes. In our count, about 101M JST is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 3 2026). How it works: Buyback and burn: 170.72M JST on Oct 16 2026; about 100.61M expected mid-January 2027.
+Yes. In our count, about 98.2M JST is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 12 2026). How it works: JUST DAO burned 170.72M JST on Oct 16 2026; about 98.16M more expected around Jan 15 2027.
 
 ### Where does new JST supply come from?
 
-Almost no new JST reaches the market over the next 90 days (checked Nov 3 2026). No new JST: nothing minted since 2020, and vesting ended in 2023.
+Almost no new JST reaches the market over the next 90 days (checked Nov 12 2026). No new JST is made: all 9.9B were created in 2020 and vesting ended in 2023.
 
 ### How much JST is in circulation?
 
-About 8.02B JST is in circulation (checked Nov 3 2026). Over the next 90 days that changes −1.25%, and over a year −5.02%.
+About 8.02B JST is in circulation (checked Nov 12 2026). Over the next 90 days that changes −1.22%, and over a year −4.90%.
 
-### Does JST have more new supply than BGB, ETC or VVV?
+### Does JST have more new supply than BGB, VVV or ETC?
 
-Over the next 90 days (checked Nov 3 2026): JST −1.25%, BGB 0.00%, ETC +0.59%, VVV +3.39%. JST has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 12 2026): JST −1.22%, BGB 0.00%, VVV +3.39%, ETC +0.59%. JST has the least new supply of these 4 coins.
 
 ## More on JUST
 

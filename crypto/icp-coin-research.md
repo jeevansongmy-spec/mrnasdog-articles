@@ -1,32 +1,32 @@
 ---
-title:         "Internet Computer (ICP) Inflation Rate: +0.59% New Supply in 90 Days"
-description:   "The Internet Computer made 3.05M ICP in 90 days for node operators and stakers and burned 147.1K, so supply grew 0.52%; about 0.59% next."
+title:         "Internet Computer (ICP) Inflation Rate: +0.61% New Supply in 90 Days"
+description:   "The Internet Computer mints new ICP for stakers and node providers and burns a little for computing: supply up about 0.53% in 90 days, 0.61% next."
 canonical_url: "https://mrnasdog.com/research/icp"
 content_type:  "coin_hub"
 tags:          ["crypto", "icp", "internetcomputer", "should-i-buy"]
 published:     true
 ---
-# Internet Computer (ICP) Inflation Rate: +0.59% New Supply in 90 Days
+# Internet Computer (ICP) Inflation Rate: +0.61% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/icp — numbers checked Nov 9 2026*
+*Source: https://mrnasdog.com/research/icp — numbers checked Nov 12 2026*
 
-**+0.59%** in 90 days, **+2.34%** in a year: that is how fast Internet Computer (ICP) supply changes as of Nov 3 2026.
+**+0.61%** in 90 days, **+2.46%** in a year: that is how fast Internet Computer (ICP) supply changes as of Nov 12 2026.
 
 - **Signal:** mixed — ICP, read by supply and demand
-- **Score:** 6.5/10 — supply 3/5, demand 3.5/5
-- **Supply growth:** +0.59% in 90 days · +2.34% in a year
+- **Score:** 6/10 — supply 2.5/5, demand 3.5/5
+- **Supply growth:** +0.61% in 90 days · +2.46% in a year
 - **How much people want it:** strong (3.5/5)
 - **Price drivers:** 0 ▲ price up · 1 ▼ price down
 
 ## Supply: how much new ICP is coming
 
-The Internet Computer made 3.05M ICP in 90 days for node operators and stakers and burned 147.1K, so supply grew 0.52%; about 0.59% next.
+The Internet Computer mints new ICP for stakers and node providers and burns a little for computing: supply up about 0.53% in 90 days, 0.61% next.
 
-Expect +0.59% more ICP in 90 days (+2.34% over the year). On supply alone Internet Computer gets 3/5 — light, #58 of 100 for new supply.
+Expect +0.61% more ICP in 90 days (+2.46% over the year). On supply alone Internet Computer gets 2.5/5 — moderate, #56 of 100 for new supply.
 
 ## Demand: how much people want ICP
 
-How much do people want ICP? **strong** — 3.5 out of 5, #23 of 109.
+How much do people want ICP? **strong** — 3.5 out of 5, #20 of 109.
 
 (Members see more ICP demand detail on the page; it is not repeated here.)
 
@@ -45,9 +45,9 @@ More ICP stays locked → price up · More ICP unstakes → price down. Right no
 | Aug 31 2026 | 289 M ICP | 243 M ICP |
 | Sep 30 2026 | 290 M ICP | 244 M ICP |
 | Oct 31 2026 | 287 M ICP | 243 M ICP |
-| Nov 9 2026 | 287 M ICP | 243 M ICP |
+| Nov 13 2026 | 287 M ICP | 243 M ICP |
 
-*Checked Nov 3 2026*
+*Checked Nov 12 2026*
 
 ### • Apps running
 
@@ -60,39 +60,39 @@ Good for the price: More apps running. Bad for it: App growth stalls.
 | Aug 31 2026 | 1.16 M apps |
 | Sep 30 2026 | 1.16 M apps |
 | Oct 31 2026 | 1.17 M apps |
-| Nov 9 2026 | 1.17 M apps |
+| Nov 13 2026 | 1.17 M apps |
 
-*Checked Nov 3 2026*
+*Checked Nov 12 2026*
 
 ## Internet Computer supply questions, answered
 
 ### Is Internet Computer (ICP) inflationary or deflationary?
 
-As of Nov 3 2026, Internet Computer (ICP) supply moves +0.59% in 90 days and +2.34% in a year, so ICP is inflationary. New ICP outweighs what is burned or bought back.
+As of Nov 12 2026, Internet Computer (ICP) supply moves +0.61% in 90 days and +2.46% in a year, so ICP is inflationary. New ICP outweighs what is burned or bought back.
 
 ### What is the ICP inflation rate in 2026?
 
-Internet Computer (ICP) supply grows +2.34% over the next 12 months and +0.59% over the next 90 days (checked Nov 3 2026). That puts ICP #58 of 100 coins we track for new supply (#1 = the most new supply).
+Internet Computer (ICP) supply grows +2.46% over the next 12 months and +0.61% over the next 90 days (checked Nov 12 2026). That puts ICP #56 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next ICP token unlock?
 
-No dated Internet Computer (ICP) unlock is scheduled in the next 90 days (checked Nov 3 2026). New ICP still arrives: about 3.42M ICP in 90 days.
+No dated Internet Computer (ICP) unlock is scheduled in the next 90 days (checked Nov 12 2026). New ICP still arrives: about 3.53M ICP in 90 days.
 
 ### Does Internet Computer burn or buy back ICP?
 
-Yes. In our count, about 147K ICP is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 3 2026). How it works: About 147.1K ICP burned in 90 days as apps turn ICP into computing cycles; the planned Cloud Engines buy-and-burn has not started.
+Yes. In our count, about 151K ICP is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 12 2026). How it works: Apps burn ICP to pay for computing: 150,758 ICP in 90 days, about 5% of new supply. A plan to spend 20% of Cloud Engine revenue on buying and burning ICP has not shown up on-chain yet.
 
 ### Where does new ICP supply come from?
 
-In our count, about 3.42M new ICP reaches the market over the next 90 days (checked Nov 3 2026). How it works: About 3.42M new ICP in the next 90 days: three monthly node provider payments (about 1.91M at today's price, as half-pay penalties end) and staking rewards cashed out (about 1.51M).
+In our count, about 3.53M new ICP reaches the market over the next 90 days (checked Nov 12 2026). How it works: New ICP has two sources: 1.59M of staking rewards cashed out and 1.54M of monthly node provider pay in 90 days. Node pay rises to about 1.94M next as half-pay penalties end. Another 96.75M ICP of rewards waits uncashed.
 
 ### How much ICP is in circulation?
 
-Internet Computer (ICP) has about 558M coins in circulation as of Nov 3 2026; the next 90 days change that by +0.59% (+2.34% over a year).
+Internet Computer (ICP) has about 558M coins in circulation as of Nov 12 2026; the next 90 days change that by +0.61% (+2.46% over a year).
 
-### Does ICP have more new supply than MORPHO, WLD or BGB?
+### Does ICP have more new supply than DOT, MNT or MORPHO?
 
-Over the next 90 days (checked Nov 3 2026): ICP +0.59%, MORPHO +6.03%, WLD +3.21%, BGB 0.00%. ICP sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 12 2026): ICP +0.61%, DOT +0.81%, MNT 0.00%, MORPHO +6.15%. ICP sits in the middle of these 4 coins.
 
 ## Read more on ICP
 
