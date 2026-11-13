@@ -1,20 +1,20 @@
 ---
-title:         "Is Lighter (LIT) Inflationary? +6.38% New Supply in 90 Days"
-description:   "How much new LIT is coming? +6.38% in the next 90 days, +57.42% in the next year — checked Nov 4 2026."
+title:         "Is Lighter (LIT) Inflationary? +8.94% New Supply in 90 Days"
+description:   "How much new LIT is coming? +8.94% in the next 90 days, +58.77% in the next year — checked Nov 13 2026."
 canonical_url: "https://mrnasdog.com/research/lit"
 content_type:  "coin_hub"
 tags:          ["crypto", "lit", "lighter", "should-i-buy"]
 published:     true
 ---
-# Is Lighter (LIT) Inflationary? +6.38% New Supply in 90 Days
+# Is Lighter (LIT) Inflationary? +8.94% New Supply in 90 Days
 
 *From https://mrnasdog.com/research/lit, updated Nov 13 2026*
 
-How much new LIT is coming? **+6.38%** in the next 90 days, **+57.42%** in the next year — checked Nov 4 2026.
+How much new LIT is coming? **+8.94%** in the next 90 days, **+58.77%** in the next year — checked Nov 13 2026.
 
 - **Signal:** negative for Lighter
 - **Score:** 4/10 — supply 0.5/5, demand 3.5/5
-- **Supply growth:** +6.38% in 90 days · +57.42% in a year
+- **Supply growth:** +8.94% in 90 days · +58.77% in a year
 - **How much people want it:** strong (3.5/5)
 - **Price drivers:** 1 ▲ price up · 2 ▼ price down
 
@@ -22,37 +22,37 @@ How much new LIT is coming? **+6.38%** in the next 90 days, **+57.42%** in the n
 
 ### Is Lighter (LIT) inflationary or deflationary?
 
-Lighter (LIT) is inflationary right now: its supply changes +6.38% over the next 90 days and +57.42% over the next year (checked Nov 4 2026). More LIT is added than removed.
+Lighter (LIT) is inflationary right now: its supply changes +8.94% over the next 90 days and +58.77% over the next year (checked Nov 13 2026). More LIT is added than removed.
 
 ### What is the LIT inflation rate in 2026?
 
-About +57.42% a year: that is how much Lighter (LIT) supply changes over the next 12 months, with +6.38% in the next 90 days (checked Nov 4 2026). That puts LIT #14 of 100 coins we track for new supply (#1 = the most new supply).
+About +58.77% a year: that is how much Lighter (LIT) supply changes over the next 12 months, with +8.94% in the next 90 days (checked Nov 13 2026). That puts LIT #11 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next LIT token unlock?
 
-The next Lighter (LIT) unlock we track is on Dec 29 2026: about 15.9M LIT, 6.38% of the LIT in circulation (Team and investor coins start unlocking). Checked Nov 4 2026.
+The next Lighter (LIT) unlock we track is on Dec 27 2026: about 22.4M LIT, 8.94% of the LIT in circulation (Team and investor LIT start to unlock — added to market by Feb 11 2027, about 3.19M a week). Checked Nov 13 2026.
 
 ### Does Lighter burn or buy back LIT?
 
-Not in a way that removes LIT today: nothing takes LIT off the market over the next 90 days (checked Nov 4 2026). Fees bought 2.76M LIT in 90 days, but those coins are paid out again to stakers; the Oct 9 2026 burn of 2.45M used reserve coins that never circulated.
+Not in a way that removes LIT today: nothing takes LIT off the market over the next 90 days (checked Nov 13 2026). Fees bought 2.93M LIT in 90 days, but Lighter keeps those coins and pays stakers with them; the Oct 9 2026 burn of 2.45M used reserve coins that never circulated.
 
 ### Where does new LIT supply come from?
 
-In our count, about 15.9M new LIT reaches the market over the next 90 days (checked Nov 4 2026). How it works: No new LIT reached the market in 90 days. Team and investor coins unlock from Dec 29 2026 at about 3.19M a week, about 15.95M by Feb 2 2027.
+In our count, about 22.4M new LIT reaches the market over the next 90 days (checked Nov 13 2026). How it works: No new LIT reached the market in 90 days. Team and investor coins unlock from Dec 27 2026 at about 3.19M a week, about 22.36M by Feb 11 2027.
 
 ### How much LIT is in circulation?
 
-About 250M LIT is in circulation (checked Nov 4 2026). Over the next 90 days that changes +6.38%, and over a year +57.42%.
+About 250M LIT is in circulation (checked Nov 13 2026). Over the next 90 days that changes +8.94%, and over a year +58.77%.
 
-### Does LIT have more new supply than ALGO, INJ or ATOM?
+### Does LIT have more new supply than KAS, ALGO or NIGHT?
 
-Over the next 90 days (checked Nov 4 2026): LIT +6.38%, ALGO +0.48%, INJ +0.80%, ATOM +3.18%. LIT has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 13 2026): LIT +8.94%, KAS +0.51%, ALGO +0.43%, NIGHT 0.00%. LIT has the most new supply of these 4 coins.
 
 ## Where new Lighter comes from
 
-Lighter's exchange token: supply flat for 90 days, then 500M team and investor LIT start unlocking on Dec 29 2026, about 3.19M a week.
+Lighter's LIT held its circulating supply flat for 90 days: the fee buyback stays in Lighter's wallets and the burn used reserve coins. About 22.36M team and investor LIT unlock from Dec 27 2026 to Feb 11 2027.
 
-Lighter adds +6.38% new supply in the next 90 days and +57.42% over a year — supply scores 0.5/5 (flooding), #14 of 100 for new supply.
+Lighter adds +8.94% new supply in the next 90 days and +58.77% over a year — supply scores 0.5/5 (flooding), #11 of 100 for new supply.
 
 ## How strong is Lighter demand?
 
@@ -75,9 +75,9 @@ Down by half since Dec 2025; slipping again since Sep 30.
 | Aug 31 2026 | $591M |
 | Sep 30 2026 | $656M |
 | Oct 31 2026 | $582M |
-| Nov 13 2026 | $577M |
+| Nov 14 2026 | $573M |
 
-*Checked Nov 4 2026*
+*Checked Nov 13 2026*
 
 ### ▲ Robinhood deposits
 
@@ -90,13 +90,13 @@ Good for the price: Robinhood users add money. Bad for it: Robinhood users pull 
 | Aug 31 2026 | $47.6M |
 | Sep 30 2026 | $107M |
 | Oct 31 2026 | $112M |
-| Nov 13 2026 | $112M |
+| Nov 14 2026 | $111M |
 
-*Checked Nov 4 2026*
+*Checked Nov 13 2026*
 
 ### ▼ Regulated access
 
-Lighter plans its first CFTC license filing in November 2026.
+Swiss bank added LIT Nov 9; CFTC filing still planned for November.
 
 Lighter gets US license → price up · US stays closed → price down. Now: ▼ down side.
 
@@ -108,9 +108,10 @@ Lighter gets US license → price up · US stays closed → price down. Now: ▼
 | Sep 29 2026 | US perps go to Bitstamp |
 | Oct 20 2026 | 21Shares LIT ETP (Xetra) |
 | Oct 21 2026 | Plans Nov CFTC filing |
+| Nov 9 2026 | Swiss bank Sygnum lists |
 | Nov 2026 | CFTC filing due (coming) |
 
-*Checked Nov 4 2026*
+*Checked Nov 13 2026*
 
 ## Next steps for LIT
 

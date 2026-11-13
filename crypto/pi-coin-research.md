@@ -1,28 +1,28 @@
 ---
-title:         "Is Pi Network (PI) Inflationary? +4.16% New Supply in 90 Days"
-description:   "How much new PI is coming? +4.16% in the next 90 days, +16.87% in the next year — checked Nov 4 2026."
+title:         "Is Pi Network (PI) Inflationary? +4.21% New Supply in 90 Days"
+description:   "How much new PI is coming? +4.21% in the next 90 days, +17.08% in the next year — checked Nov 13 2026."
 canonical_url: "https://mrnasdog.com/research/pi"
 content_type:  "coin_hub"
 tags:          ["crypto", "pi", "pinetwork", "should-i-buy"]
 published:     true
 ---
-# Is Pi Network (PI) Inflationary? +4.16% New Supply in 90 Days
+# Is Pi Network (PI) Inflationary? +4.21% New Supply in 90 Days
 
 *From https://mrnasdog.com/research/pi, updated Nov 13 2026*
 
-How much new PI is coming? **+4.16%** in the next 90 days, **+16.87%** in the next year — checked Nov 4 2026.
+How much new PI is coming? **+4.21%** in the next 90 days, **+17.08%** in the next year — checked Nov 13 2026.
 
 - **Signal today:** negative for Pi Network
 - **MrNasDog score:** 2/10 — supply 0.5/5, demand 1.5/5
-- **New coins:** +4.16% in 90 days · +16.87% in a year
+- **New coins:** +4.21% in 90 days · +17.08% in a year
 - **Demand:** very weak (1.5/5)
 - **Drivers:** 0 ▲ price up · 1 ▼ price down
 
 ## How fast Pi Network supply grows
 
-Pi Network created all 100B PI at the start, but 474M more reached the market in 90 days from mining payouts and team and reserve wallets. Supply up 4.16%.
+Pi Network created all 100B PI at launch and releases them over time: 337.85M mined PI reached the main chain and team and reserve wallets sent 144.42M to exchanges in 90 days, so supply grew about 4.21%, with only 2.81M PI taken out by fees.
 
-Pi Network adds +4.16% new supply in the next 90 days and +16.87% over a year — supply scores 0.5/5 (flooding), #19 of 100 for new supply.
+Pi Network adds +4.21% new supply in the next 90 days and +17.08% over a year — supply scores 0.5/5 (flooding), #19 of 100 for new supply.
 
 ## Big wallets, votes and dates behind PI
 
@@ -42,11 +42,11 @@ Kraken listed PI Mar 13 2026; Binance and Coinbase still have not.
 | Mar 13 2026 | Kraken lists PI |
 | No date yet | Binance or Coinbase? (coming) |
 
-*Checked Nov 4 2026*
+*Checked Nov 13 2026*
 
 ### • Core Team moves
 
-Four dev tools launched Oct 30; Ecosystem Summit runs Nov 17-19.
+Summit Nov 17-19; Pi Next hackathon with $200K prize starts Nov 19.
 
 Good for the price: Real uses go live. Bad for it: Upgrades bring no use.
 
@@ -58,8 +58,9 @@ Good for the price: Real uses go live. Bad for it: Upgrades bring no use.
 | Oct 16 2026 | Protocol 28 on mainnet |
 | Oct 30 2026 | Four dev tools launched |
 | Nov 17-19 2026 | Ecosystem Summit (coming) |
+| Nov 19 2026 | Pi Next hackathon starts (coming) |
 
-*Checked Nov 4 2026*
+*Checked Nov 13 2026*
 
 ## Who wants Pi Network right now
 
@@ -71,31 +72,31 @@ Demand reads **very weak** (1.5/5), #78 of 109 coins we track — that is how mu
 
 ### Is Pi Network (PI) inflationary or deflationary?
 
-Pi Network (PI) is inflationary right now: its supply changes +4.16% over the next 90 days and +16.87% over the next year (checked Nov 4 2026). More PI is added than removed.
+Pi Network (PI) is inflationary right now: its supply changes +4.21% over the next 90 days and +17.08% over the next year (checked Nov 13 2026). More PI is added than removed.
 
 ### What is the PI inflation rate in 2026?
 
-About +16.87% a year: that is how much Pi Network (PI) supply changes over the next 12 months, with +4.16% in the next 90 days (checked Nov 4 2026). That puts PI #19 of 100 coins we track for new supply (#1 = the most new supply).
+About +17.08% a year: that is how much Pi Network (PI) supply changes over the next 12 months, with +4.21% in the next 90 days (checked Nov 13 2026). That puts PI #19 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next PI token unlock?
 
-No dated Pi Network (PI) unlock is scheduled in the next 90 days (checked Nov 4 2026). New PI still arrives: about 474M PI in 90 days.
+No dated Pi Network (PI) unlock is scheduled in the next 90 days (checked Nov 13 2026). New PI still arrives: about 482M PI in 90 days.
 
 ### Does Pi Network burn or buy back PI?
 
-Yes. In our count, about 2.61M PI is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 4 2026). How it works: Fees sent 2.61M PI into a pool no one can spend, less than 1% of the new supply. There is no buyback.
+Yes. In our count, about 2.81M PI is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 13 2026). How it works: There is no buyback and no burn. Network fees fall into a pool no one can spend, which took 2.81M PI out of use in 90 days.
 
 ### Where does new PI supply come from?
 
-In our count, about 474M new PI reaches the market over the next 90 days (checked Nov 4 2026). How it works: Pioneers moved 338.31M mined PI to the main chain in 90 days, and Core Team, Foundation and liquidity-reserve wallets let another 136.03M PI out to outside wallets in monthly batches.
+In our count, about 482M new PI reaches the market over the next 90 days (checked Nov 13 2026). How it works: Nothing new is minted, but 337.85M mined PI reached the main chain in 90 days, and Core Team, Foundation and liquidity-reserve wallets sent another 144.42M PI to exchange wallets. More than 80B PI still sits in project wallets.
 
 ### How much PI is in circulation?
 
-About 11.3B PI is in circulation (checked Nov 4 2026). Over the next 90 days that changes +4.16%, and over a year +16.87%.
+About 11.4B PI is in circulation (checked Nov 13 2026). Over the next 90 days that changes +4.21%, and over a year +17.08%.
 
-### Does PI have more new supply than GT, RENDER or KAS?
+### Does PI have more new supply than INJ, KAS or LIT?
 
-Over the next 90 days (checked Nov 4 2026): PI +4.16%, GT −2.23%, RENDER +0.26%, KAS +0.52%. PI has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 13 2026): PI +4.21%, INJ +0.81%, KAS +0.51%, LIT +8.94%. PI sits in the middle of these 4 coins.
 
 ## Where to read the rest of PI
 
