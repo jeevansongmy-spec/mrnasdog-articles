@@ -8,25 +8,25 @@ published:     true
 ---
 # ether.fi (ETHFI) Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/ethfi · checked Nov 9 2026*
+*Live page: https://mrnasdog.com/research/ethfi · checked Nov 13 2026*
 
 ether.fi (ETHFI) supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 4 2026).
 
 - **Long-run signal:** positive (by the law of supply and demand)
-- **Score:** 7.5/10 — supply 4.5/5, demand 3/5
+- **Score:** 8/10 — supply 4.5/5, demand 3.5/5
 - **New supply:** 0.00% in 90 days · 0.00% in a year
-- **Demand:** moderate (3/5)
+- **Demand:** strong (3.5/5)
 - **Price drivers:** 2 ▲ price up · 0 ▼ price down
 
 ## Supply — new ETHFI in the next 90 days
 
 ether.fi's ETHFI has a fixed supply with no mint and no burn. Contributor unlocks and the weekly buyback both move coins already counted, so supply is flat.
 
-Over the next 90 days ETHFI supply changes 0.00%; across a full year, 0.00%. That puts supply at 4.5/5 (flat), #80 of 100 for new supply.
+Over the next 90 days ETHFI supply changes 0.00%; across a full year, 0.00%. That puts supply at 4.5/5 (flat), #79 of 100 for new supply.
 
 ## Demand today
 
-People's appetite for ether.fi is **moderate**: 3/5, ranked #32 of 109.
+People's appetite for ether.fi is **strong**: 3.5/5, ranked #18 of 109.
 
 Extra ether.fi demand detail for members stays on the live page.
 
@@ -60,7 +60,7 @@ Good for the price: More money in Cash. Bad for it: Users pull money. Now: ▲ u
 | Aug 31 2026 | $203M |
 | Sep 30 2026 | $242M |
 | Oct 31 2026 | $242M |
-| Nov 9 2026 | $238M |
+| Nov 13 2026 | $232M |
 
 *Checked Nov 4 2026*
 
@@ -72,7 +72,7 @@ As of Nov 4 2026, ether.fi (ETHFI) supply moves 0.00% in 90 days and 0.00% in a 
 
 ### What is the ETHFI inflation rate in 2026?
 
-ether.fi (ETHFI) supply grows 0.00% over the next 12 months and 0.00% over the next 90 days (checked Nov 4 2026). That puts ETHFI #80 of 100 coins we track for new supply (#1 = the most new supply).
+ether.fi (ETHFI) supply grows 0.00% over the next 12 months and 0.00% over the next 90 days (checked Nov 4 2026). That puts ETHFI #79 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next ETHFI token unlock?
 

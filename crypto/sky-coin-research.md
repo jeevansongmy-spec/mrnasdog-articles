@@ -8,14 +8,14 @@ published:     true
 ---
 # Is SKY Inflationary? −0.24% Supply in 90 Days
 
-*From https://mrnasdog.com/research/sky, updated Nov 12 2026*
+*From https://mrnasdog.com/research/sky, updated Nov 13 2026*
 
 How much new SKY is coming? **−0.24%** in the next 90 days, **−0.97%** in the next year — checked Nov 12 2026.
 
 - **Long-run signal:** positive for Sky
-- **Score:** 7.5/10 — supply 5/5, demand 2.5/5
+- **Score:** 8/10 — supply 5/5, demand 3/5
 - **New supply:** −0.24% in 90 days · −0.97% in a year
-- **Demand:** modest (2.5/5)
+- **Demand:** moderate (3/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## Big wallets, votes and dates behind SKY
@@ -60,7 +60,7 @@ Sky adds −0.24% new supply in the next 90 days and −0.97% over a year — su
 
 ## SKY demand
 
-Demand reads **modest** (2.5/5), #46 of 109 coins we track — that is how much people want SKY now and how much buying could still come.
+Demand reads **moderate** (3/5), #34 of 109 coins we track — that is how much people want SKY now and how much buying could still come.
 
 (Members see more SKY demand detail on the page; it is not repeated here.)
 

@@ -8,7 +8,7 @@ published:     true
 ---
 # PENDLE Inflation Rate: +2.58% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/pendle — numbers checked Nov 9 2026*
+*Source: https://mrnasdog.com/research/pendle — numbers checked Nov 13 2026*
 
 **+2.58%** in 90 days, **+8.68%** in a year: that is how fast PENDLE supply changes as of Nov 6 2026.
 
@@ -22,7 +22,7 @@ published:     true
 
 Pendle's supply grows from old vePENDLE locks running out and project wallets paying out, not from minting; its fee buyback pays stakers instead of removing coins.
 
-Expect +2.58% more PENDLE in 90 days (+8.68% over the year). On supply alone Pendle gets 1/5 — very heavy (place 28 of 100).
+Expect +2.58% more PENDLE in 90 days (+8.68% over the year). On supply alone Pendle gets 1/5 — very heavy (place 26 of 100).
 
 ## PENDLE price drivers the score does not count
 
@@ -39,7 +39,7 @@ Good for the price: More money parked. Bad for it: Money keeps leaving. Right no
 | Aug 31 2026 | $1.18B |
 | Sep 30 2026 | $1.26B |
 | Oct 31 2026 | $1.02B |
-| Nov 9 2026 | $1.01B |
+| Nov 13 2026 | $1.03B |
 
 *Checked Nov 6 2026*
 
@@ -72,7 +72,7 @@ As of Nov 6 2026, PENDLE supply moves +2.58% in 90 days and +8.68% in a year, so
 
 ### What is the PENDLE inflation rate in 2026?
 
-PENDLE supply grows +8.68% over the next 12 months and +2.58% over the next 90 days (checked Nov 6 2026). That puts PENDLE #28 of 100 coins we track for new supply (#1 = the most new supply).
+PENDLE supply grows +8.68% over the next 12 months and +2.58% over the next 90 days (checked Nov 6 2026). That puts PENDLE #26 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next PENDLE token unlock?
 

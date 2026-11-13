@@ -1,6 +1,6 @@
 ---
 title:         "Is AAVE Inflationary? +0.12% New Supply in 90 Days"
-description:   "How much new AAVE is coming? +0.12% in the next 90 days, +0.49% in the next year — checked Nov 2 2026."
+description:   "How much new AAVE is coming? +0.12% in the next 90 days, +0.49% in the next year — checked Nov 11 2026."
 canonical_url: "https://mrnasdog.com/research/aave"
 content_type:  "coin_hub"
 tags:          ["crypto", "aave", "aave", "should-i-buy"]
@@ -8,14 +8,14 @@ published:     true
 ---
 # Is AAVE Inflationary? +0.12% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/aave, updated Nov 11 2026*
+*From https://mrnasdog.com/research/aave, updated Nov 13 2026*
 
-How much new AAVE is coming? **+0.12%** in the next 90 days, **+0.49%** in the next year — checked Nov 2 2026.
+How much new AAVE is coming? **+0.12%** in the next 90 days, **+0.49%** in the next year — checked Nov 11 2026.
 
 - **Signal:** mixed for Aave
-- **Score:** 7.5/10 — supply 3.5/5, demand 4/5
+- **Score:** 7/10 — supply 3.5/5, demand 3.5/5
 - **Supply growth:** +0.12% in 90 days · +0.49% in a year
-- **How much people want it:** strong (4/5)
+- **How much people want it:** strong (3.5/5)
 - **Price drivers:** 1 ▲ price up · 2 ▼ price down
 
 ## Big wallets, votes and dates behind AAVE
@@ -32,10 +32,10 @@ Deposits shrank in the last 30 days; far below the 2025 peak.
 |---|---|
 | Aug 31 2026 | $17.7B |
 | Sep 30 2026 | $19.1B |
-| Oct 31 2026 | $15.6B |
-| Nov 11 2026 | $16B |
+| Oct 31 2026 | $16B |
+| Nov 13 2026 | $16B |
 
-*Checked Nov 2 2026*
+*Checked Nov 11 2026*
 
 ### ▲ DAO vs Labs
 
@@ -52,11 +52,11 @@ Good for the price: Holders get revenue. Bad for it: Labs keeps control. Now: �
 | Oct 10 2026 | Foundation vote 100% yes |
 | No date yet | Brand to Foundation (coming) |
 
-*Checked Nov 2 2026*
+*Checked Nov 11 2026*
 
 ### ▼ US AAVE ETF
 
-No US AAVE ETF yet; Bitwise date moved to Nov 22 2026.
+No US AAVE ETF yet; Bitwise date is Nov 22 2026.
 
 ETF opens → price up · More delays → price down. Now: ▼ down side.
 
@@ -69,17 +69,17 @@ ETF opens → price up · More delays → price down. Now: ▼ down side.
 | Oct 23 2026 | Delayed to Nov 22 |
 | Nov 22 2026? | Bitwise new date (coming) |
 
-*Checked Nov 2 2026*
+*Checked Nov 11 2026*
 
 ## Where new Aave comes from
 
-AAVE has a fixed 16M supply, but the DAO's reserve still pays stakers and three payment streams, adding about 0.12% every 90 days while the buyback stays paused.
+All 16M AAVE already exist, but the DAO reserve pays about 18K AAVE every 90 days to stakers and three streams, and buybacks are paused. Supply grows about 0.12% per 90 days, capped by the 559K AAVE left in the reserve.
 
 Aave adds +0.12% new supply in the next 90 days and +0.49% over a year — supply scores 3.5/5 (steady).
 
 ## Demand today
 
-Demand reads **strong** (4/5), #9 of 109 coins we track — that is how much people want AAVE now and how much buying could still come.
+Demand reads **strong** (3.5/5), #18 of 109 coins we track — that is how much people want AAVE now and how much buying could still come.
 
 Members get the rest of the Aave demand read on mrnasdog.com.
 
@@ -87,31 +87,31 @@ Members get the rest of the Aave demand read on mrnasdog.com.
 
 ### Is AAVE inflationary or deflationary?
 
-AAVE is inflationary right now: its supply changes +0.12% over the next 90 days and +0.49% over the next year (checked Nov 2 2026). More AAVE is added than removed.
+AAVE is inflationary right now: its supply changes +0.12% over the next 90 days and +0.49% over the next year (checked Nov 11 2026). More AAVE is added than removed.
 
 ### What is the AAVE inflation rate in 2026?
 
-About +0.49% a year: that is how much AAVE supply changes over the next 12 months, with +0.12% in the next 90 days (checked Nov 2 2026). That puts AAVE #72 of 100 coins we track for new supply (#1 = the most new supply).
+About +0.49% a year: that is how much AAVE supply changes over the next 12 months, with +0.12% in the next 90 days (checked Nov 11 2026). That puts AAVE #72 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next AAVE token unlock?
 
-No dated AAVE unlock is scheduled in the next 90 days (checked Nov 2 2026). New AAVE still arrives: about 19.1K AAVE in 90 days.
+No dated AAVE unlock is scheduled in the next 90 days (checked Nov 11 2026). New AAVE still arrives: about 19.3K AAVE in 90 days.
 
 ### Is any AAVE burned or bought back?
 
-Not in a way that removes AAVE today: nothing takes AAVE off the market over the next 90 days (checked Nov 2 2026). Nothing takes AAVE off the market: the DAO buyback has been paused since Apr 19 2026 and there is no burn. Aavenomics 3.0 promises automatic buybacks, but no vote, size or date exists yet.
+Not in a way that removes AAVE today: nothing takes AAVE off the market over the next 90 days (checked Nov 11 2026). Nothing takes AAVE back: buybacks have been paused since Apr 19 2026, the automatic buybacks promised in June have no start date, and AAVE has no burn.
 
 ### Where does new AAVE supply come from?
 
-In our count, about 19.1K new AAVE reaches the market over the next 90 days (checked Nov 2 2026). How it works: No AAVE is minted. New supply only leaves the DAO's Ecosystem Reserve: 11,984 AAVE of staking pay (150 a day) and 5,882 AAVE from three payment streams in 90 days, about 7,089 from the streams next.
+In our count, about 19.3K new AAVE reaches the market over the next 90 days (checked Nov 11 2026). How it works: Staking rewards from the DAO reserve (about 12.18K AAVE per 90 days at 150 a day) plus three payment streams to Aave Labs, LlamaRisk and TokenLogic (about 7.09K AAVE per 90 days).
 
 ### How much AAVE is in circulation?
 
-About 15.4M AAVE is in circulation (checked Nov 2 2026). Over the next 90 days that changes +0.12%, and over a year +0.49%.
+About 15.4M AAVE is in circulation (checked Nov 11 2026). Over the next 90 days that changes +0.12%, and over a year +0.49%.
 
 ### Does AAVE have more new supply than PEPE, M or ONDO?
 
-Over the next 90 days (checked Nov 2 2026): AAVE +0.12%, PEPE 0.00%, M +1.45%, ONDO +35.12%. AAVE sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 11 2026): AAVE +0.12%, PEPE 0.00%, M +1.45%, ONDO +35.12%. AAVE sits in the middle of these 4 coins.
 
 ## Read more on AAVE
 

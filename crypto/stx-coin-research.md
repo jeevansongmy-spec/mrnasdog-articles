@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Stacks (STX) Inflationary? +1.27% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/stx, updated Nov 9 2026*
+*From https://mrnasdog.com/research/stx, updated Nov 13 2026*
 
 How much new STX is coming? **+1.27%** in the next 90 days, **+5.48%** in the next year — checked Nov 5 2026.
 
@@ -22,7 +22,7 @@ How much new STX is coming? **+1.27%** in the next 90 days, **+5.48%** in the ne
 
 Stacks pays miners 1,000 new STX per Bitcoin block and mints 1,140 more for its Endowment at each new tenure. Nothing burns STX, so supply grows about 1.27% every 90 days.
 
-Stacks adds +1.27% new supply in the next 90 days and +5.48% over a year — supply scores 2/5 (growing), #40 of 100 for new supply.
+Stacks adds +1.27% new supply in the next 90 days and +5.48% over a year — supply scores 2/5 (growing), #39 of 100 for new supply.
 
 ## Demand: how much people want STX
 
@@ -45,7 +45,7 @@ More BTC flows in → price up · BTC leaves Stacks → price down. Right now it
 | Aug 31 2026 | 2,441 BTC |
 | Sep 30 2026 | 2,481 BTC |
 | Oct 31 2026 | 2,481 BTC |
-| Nov 9 2026 | 2,482 BTC |
+| Nov 13 2026 | 2,482 BTC |
 
 *Checked Nov 5 2026*
 
@@ -92,7 +92,7 @@ Stacks (STX) is inflationary right now: its supply changes +1.27% over the next 
 
 ### What is the STX inflation rate in 2026?
 
-About +5.48% a year: that is how much Stacks (STX) supply changes over the next 12 months, with +1.27% in the next 90 days (checked Nov 5 2026). That puts STX #40 of 100 coins we track for new supply (#1 = the most new supply).
+About +5.48% a year: that is how much Stacks (STX) supply changes over the next 12 months, with +1.27% in the next 90 days (checked Nov 5 2026). That puts STX #39 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next STX token unlock?
 

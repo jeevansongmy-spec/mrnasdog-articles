@@ -8,11 +8,11 @@ published:     true
 ---
 # Stellar (XLM) Tokenomics: +2.52% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/xlm (checked Nov 9 2026)*
+*Originally published at https://mrnasdog.com/research/xlm (checked Nov 13 2026)*
 
 As of Nov 9 2026, new Stellar supply runs at **+2.52%** over 90 days and **+10.21%** over 12 months.
 
-- **Signal today:** negative (Nov 9 2026)
+- **Signal today:** negative (Nov 13 2026)
 - **MrNasDog score:** 3/10 — supply 1/5, demand 2/5
 - **New coins:** +2.52% in 90 days · +10.21% in a year
 - **Demand:** weak (2/5)
@@ -26,7 +26,7 @@ New XLM: +2.52% in 90 days, +10.21% in a year. Supply score 1/5, "very heavy".
 
 ## Demand today
 
-Stellar demand: 2/5 (**weak**), place #63 among 109 coins — interest today plus the buying that could come later.
+Stellar demand: 2/5 (**weak**), place #65 among 109 coins — interest today plus the buying that could come later.
 
 The members-only part of XLM's demand section is not included.
 
@@ -76,7 +76,7 @@ Stellar (XLM) is inflationary right now: its supply changes +2.52% over the next
 
 ### What is the XLM inflation rate in 2026?
 
-About +10.21% a year: that is how much Stellar (XLM) supply changes over the next 12 months, with +2.52% in the next 90 days (checked Nov 9 2026). That puts XLM #28 of 100 coins we track for new supply (#1 = the most new supply).
+About +10.21% a year: that is how much Stellar (XLM) supply changes over the next 12 months, with +2.52% in the next 90 days (checked Nov 9 2026). That puts XLM #27 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next XLM token unlock?
 
@@ -94,9 +94,9 @@ In our count, about 891M new XLM reaches the market over the next 90 days (check
 
 About 35.4B XLM is in circulation (checked Nov 9 2026). Over the next 90 days that changes +2.52%, and over a year +10.21%.
 
-### Does XLM have more new supply than NEAR, BCH or UNI?
+### Does XLM have more new supply than ADA, BCH or NEAR?
 
-Over the next 90 days (checked Nov 9 2026): XLM +2.52%, NEAR +0.60%, BCH +0.20%, UNI +0.01%. XLM has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 9 2026): XLM +2.52%, ADA +0.24%, BCH +0.20%, NEAR +0.61%. XLM has the most new supply of these 4 coins.
 
 ## Read more on XLM
 

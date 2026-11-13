@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Algorand (ALGO) Inflationary? +0.48% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/algo, updated Nov 9 2026*
+*From https://mrnasdog.com/research/algo, updated Nov 13 2026*
 
 How much new ALGO is coming? **+0.48%** in the next 90 days, **+1.89%** in the next year — checked Nov 4 2026.
 
@@ -26,7 +26,7 @@ Algorand (ALGO) is inflationary right now: its supply changes +0.48% over the ne
 
 ### What is the ALGO inflation rate in 2026?
 
-About +1.89% a year: that is how much Algorand (ALGO) supply changes over the next 12 months, with +0.48% in the next 90 days (checked Nov 4 2026). That puts ALGO #60 of 100 coins we track for new supply (#1 = the most new supply).
+About +1.89% a year: that is how much Algorand (ALGO) supply changes over the next 12 months, with +0.48% in the next 90 days (checked Nov 4 2026). That puts ALGO #59 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next ALGO token unlock?
 
@@ -44,19 +44,19 @@ In our count, about 43.7M new ALGO reaches the market over the next 90 days (che
 
 About 9.08B ALGO is in circulation (checked Nov 4 2026). Over the next 90 days that changes +0.48%, and over a year +1.89%.
 
-### Does ALGO have more new supply than JUP, RENDER or LIT?
+### Does ALGO have more new supply than JUP, LIT or INJ?
 
-Over the next 90 days (checked Nov 4 2026): ALGO +0.48%, JUP 0.00%, RENDER +0.27%, LIT +6.38%. ALGO sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 4 2026): ALGO +0.48%, JUP 0.00%, LIT +6.38%, INJ +0.80%. ALGO sits in the middle of these 4 coins.
 
 ## How fast Algorand supply grows
 
 No ALGO is minted, but the Foundation pays stakers and keeps sending coins out, so supply grows about 0.6% a quarter.
 
-Algorand adds +0.48% new supply in the next 90 days and +1.89% over a year — supply scores 3/5 (light), #60 of 100 for new supply.
+Algorand adds +0.48% new supply in the next 90 days and +1.89% over a year — supply scores 3/5 (light), #59 of 100 for new supply.
 
 ## How strong is Algorand demand?
 
-Demand reads **low** (1/5), #93 of 109 coins we track — that is how much people want ALGO now and how much buying could still come.
+Demand reads **low** (1/5), #92 of 109 coins we track — that is how much people want ALGO now and how much buying could still come.
 
 (Members see more ALGO demand detail on the page; it is not repeated here.)
 

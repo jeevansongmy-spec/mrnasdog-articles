@@ -1,6 +1,6 @@
 ---
 title:         "Is Mantle (MNT) Inflationary? 0.00% Supply in 90 Days"
-description:   "How much new MNT is coming? 0.00% in the next 90 days, 0.00% in the next year — checked Nov 2 2026."
+description:   "How much new MNT is coming? 0.00% in the next 90 days, +1.33% in the next year — checked Nov 11 2026."
 canonical_url: "https://mrnasdog.com/research/mnt"
 content_type:  "coin_hub"
 tags:          ["crypto", "mnt", "mantle", "should-i-buy"]
@@ -8,13 +8,13 @@ published:     true
 ---
 # Is Mantle (MNT) Inflationary? 0.00% Supply in 90 Days
 
-*From https://mrnasdog.com/research/mnt, updated Nov 11 2026*
+*From https://mrnasdog.com/research/mnt, updated Nov 13 2026*
 
-How much new MNT is coming? **0.00%** in the next 90 days, **0.00%** in the next year — checked Nov 2 2026.
+How much new MNT is coming? **0.00%** in the next 90 days, **+1.33%** in the next year — checked Nov 11 2026.
 
 - **Long-run signal:** mixed for Mantle
 - **Score:** 5/10 — supply 4.5/5, demand 0.5/5
-- **New supply:** 0.00% in 90 days · 0.00% in a year
+- **New supply:** 0.00% in 90 days · +1.33% in a year
 - **Demand:** very low (0.5/5)
 - **Price drivers:** 0 ▲ price up · 0 ▼ price down
 
@@ -24,7 +24,7 @@ What the score misses: 2 drivers. Today 0 push MNT's price up and 0 push it down
 
 ### • Treasury backing
 
-72% of the treasury is MNT; new budget plan cuts spending caps.
+72% of treasury is MNT; lower spending caps passed Nov 11.
 
 ▲ Price up if: Bigger ETH/BTC reserves. ▼ Price down if: Reserves sold or spent.
 
@@ -32,7 +32,7 @@ What the score misses: 2 drivers. Today 0 push MNT's price up and 0 push it down
 |---|---|
 | Oct 2026 | MNT 72.1% · ETH 12.5% · BTC 10.4% · Stablecoins 4.8% · Other 0.2% |
 
-*Checked Nov 2 2026*
+*Checked Nov 11 2026*
 
 ### • Dollars on Mantle
 
@@ -45,19 +45,19 @@ Good for the price: More dollars on Mantle. Bad for it: Dollars leave Mantle.
 | Aug 31 2026 | $591M |
 | Sep 30 2026 | $549M |
 | Oct 31 2026 | $546M |
-| Nov 11 2026 | $525M |
+| Nov 13 2026 | $523M |
 
-*Checked Nov 2 2026*
+*Checked Nov 11 2026*
 
 ## Where new Mantle comes from
 
-Mantle's MNT made no new coins in 90 days: no mint, no unlocks, no burn. Supply dipped 0.01% after 291,000 MNT went back to a treasury that holds 2.92B MNT.
+Mantle mints no new MNT, but its 2.91B MNT treasury releases coins without a timetable: 10M on Nov 10 2026.
 
-Mantle adds 0.00% new supply in the next 90 days and 0.00% over a year — supply scores 4.5/5 (flat) (place 82 of 100).
+Mantle adds 0.00% new supply in the next 90 days and +1.33% over a year — supply scores 4.5/5 (flat) (place 82 of 100).
 
 ## How strong is Mantle demand?
 
-Demand reads **very low** (0.5/5), #99 of 109 coins we track — that is how much people want MNT now and how much buying could still come.
+Demand reads **very low** (0.5/5), #100 of 109 coins we track — that is how much people want MNT now and how much buying could still come.
 
 Extra Mantle demand detail for members stays on the live page.
 
@@ -65,31 +65,31 @@ Extra Mantle demand detail for members stays on the live page.
 
 ### Is Mantle (MNT) inflationary or deflationary?
 
-Mantle (MNT) is flat, neither inflationary nor deflationary right now: its supply changes 0.00% over the next 90 days and 0.00% over the next year (checked Nov 2 2026). New MNT and removed MNT about cancel out.
+Mantle (MNT) is flat, neither inflationary nor deflationary right now: its supply changes 0.00% over the next 90 days and +1.33% over the next year (checked Nov 11 2026). New MNT and removed MNT about cancel out.
 
 ### What is the MNT inflation rate in 2026?
 
-About 0.00% a year: that is how much Mantle (MNT) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 2 2026). That puts MNT #82 of 100 coins we track for new supply (#1 = the most new supply).
+About +1.33% a year: that is how much Mantle (MNT) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 11 2026). That puts MNT #82 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next MNT token unlock?
 
-No dated Mantle (MNT) unlock is scheduled in the next 90 days (checked Nov 2 2026).
+No dated Mantle (MNT) unlock is scheduled in the next 90 days (checked Nov 11 2026).
 
 ### Does Mantle burn or buy back MNT?
 
-Not in a way that removes MNT today: nothing takes MNT off the market over the next 90 days (checked Nov 2 2026). Nothing buys back or burns MNT; gas fees are kept. The only removal was 291,000 MNT a team wallet returned to the treasury on Oct 1 2026.
+Not in a way that removes MNT today: nothing takes MNT off the market over the next 90 days (checked Nov 11 2026). 291K MNT returned to the treasury on Oct 1 2026; no buyback and no burn.
 
 ### Where does new MNT supply come from?
 
-Almost no new MNT reaches the market over the next 90 days (checked Nov 2 2026). No MNT was minted or unlocked in 90 days, and the 2.92B MNT treasury sent nothing out. Its last release was 24.35M MNT on Apr 28 2026, and a new budget of up to 150M MNT a year awaits a vote.
+Almost no new MNT reaches the market over the next 90 days (checked Nov 11 2026). 10M MNT released from the treasury on Nov 10 2026; no minting and no vesting.
 
 ### How much MNT is in circulation?
 
-About 3.3B MNT is in circulation (checked Nov 2 2026). Over the next 90 days that changes 0.00%, and over a year 0.00%.
+About 3.31B MNT is in circulation (checked Nov 11 2026). Over the next 90 days that changes 0.00%, and over a year +1.33%.
 
-### Does MNT have more new supply than DOT, SKY or MORPHO?
+### Does MNT have more new supply than ICP, MORPHO or SKY?
 
-Over the next 90 days (checked Nov 2 2026): MNT 0.00%, DOT +0.81%, SKY −0.16%, MORPHO +6.03%. MNT sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 11 2026): MNT 0.00%, ICP +0.61%, MORPHO +6.15%, SKY −0.24%. MNT sits in the middle of these 4 coins.
 
 ## Next steps for MNT
 

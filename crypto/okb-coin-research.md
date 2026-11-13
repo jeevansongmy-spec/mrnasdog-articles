@@ -8,7 +8,7 @@ published:     true
 ---
 # OKB Inflation Rate: 0.00% Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/okb — numbers checked Nov 9 2026*
+*Source: https://mrnasdog.com/research/okb — numbers checked Nov 13 2026*
 
 **0.00%** in 90 days, **0.00%** in a year: that is how fast OKB supply changes as of Nov 9 2026.
 
@@ -26,7 +26,7 @@ As of Nov 9 2026, OKB supply moves 0.00% in 90 days and 0.00% in a year, so OKB 
 
 ### What is the OKB inflation rate in 2026?
 
-OKB supply grows 0.00% over the next 12 months and 0.00% over the next 90 days (checked Nov 9 2026). That puts OKB #86 of 100 coins we track for new supply (#1 = the most new supply).
+OKB supply grows 0.00% over the next 12 months and 0.00% over the next 90 days (checked Nov 9 2026). That puts OKB #85 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next OKB token unlock?
 
@@ -46,17 +46,17 @@ OKB has about 21M coins in circulation as of Nov 9 2026; the next 90 days change
 
 ### Does OKB have more new supply than ENA, PEPE or AAVE?
 
-Over the next 90 days (checked Nov 9 2026): OKB 0.00%, ENA +2.10%, PEPE 0.00%, AAVE +0.12%. OKB sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 9 2026): OKB 0.00%, ENA +2.08%, PEPE 0.00%, AAVE +0.12%. OKB sits in the middle of these 4 coins.
 
 ## OKB supply
 
 OKB pays the gas on X Layer, OKX's chain. The count sat at 21M from Aug 11 to Nov 9 2026: none minted, none unlocked, none burned.
 
-Expect 0.00% more OKB in 90 days (0.00% over the year). On supply alone OKB gets 4.5/5 — flat, #86 of 100 for new supply.
+Expect 0.00% more OKB in 90 days (0.00% over the year). On supply alone OKB gets 4.5/5 — flat, #85 of 100 for new supply.
 
 ## Demand today
 
-How much do people want OKB? **moderate** — 3 out of 5, #32 of 109.
+How much do people want OKB? **moderate** — 3 out of 5, #34 of 109.
 
 A deeper OKB demand breakdown is on the page for members.
 

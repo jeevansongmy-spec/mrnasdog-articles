@@ -8,7 +8,7 @@ published:     true
 ---
 # Cardano (ADA) Inflation Rate: +0.24% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/ada — numbers checked Nov 9 2026*
+*Source: https://mrnasdog.com/research/ada — numbers checked Nov 13 2026*
 
 **+0.24%** in 90 days, **+1.19%** in a year: that is how fast Cardano (ADA) supply changes as of Nov 9 2026.
 
@@ -33,7 +33,7 @@ Small, careful payouts → price up · Big payouts get sold → price down. Toda
 | Aug 31 2026 | 1.34 B ADA |
 | Sep 30 2026 | 1.37 B ADA |
 | Oct 31 2026 | 1.39 B ADA |
-| Nov 10 2026 | 1.4 B ADA |
+| Nov 13 2026 | 1.42 B ADA |
 
 *Checked Nov 9 2026*
 
@@ -64,7 +64,7 @@ Expect +0.24% more ADA in 90 days (+1.19% over the year). On supply alone Cardan
 
 ## How strong is Cardano demand?
 
-How much do people want ADA? **moderate** — 3 out of 5, #32 of 109.
+How much do people want ADA? **moderate** — 3 out of 5, #34 of 109.
 
 The members-only part of ADA's demand section is not included.
 
@@ -94,9 +94,9 @@ In our count, about 111M new ADA reaches the market over the next 90 days (check
 
 Cardano (ADA) has about 37.6B coins in circulation as of Nov 9 2026; the next 90 days change that by +0.24% (+1.19% over a year).
 
-### Does ADA have more new supply than LINK, NEAR or XLM?
+### Does ADA have more new supply than LINK, XLM or BCH?
 
-Over the next 90 days (checked Nov 9 2026): ADA +0.24%, LINK +1.47%, NEAR +0.60%, XLM +2.52%. ADA has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 9 2026): ADA +0.24%, LINK +1.47%, XLM +2.52%, BCH +0.20%. ADA sits in the middle of these 4 coins.
 
 ## Next steps for ADA
 

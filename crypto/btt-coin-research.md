@@ -8,14 +8,14 @@ published:     true
 ---
 # BitTorrent (BTT) Supply & Demand: −2.21% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/btt · checked Nov 9 2026*
+*Live page: https://mrnasdog.com/research/btt · checked Nov 13 2026*
 
 BitTorrent (BTT) supply changes **−2.21%** over the next 90 days and **−8.75%** over a year (checked Nov 6 2026).
 
 - **Signal today:** mixed (by the law of supply and demand)
-- **MrNasDog score:** 6.5/10 — supply 5/5, demand 1.5/5
+- **MrNasDog score:** 6/10 — supply 5/5, demand 1/5
 - **New coins:** −2.21% in 90 days · −8.75% in a year
-- **Demand:** very weak (1.5/5)
+- **Demand:** low (1/5)
 - **Drivers:** 0 ▲ price up · 1 ▼ price down
 
 ## BitTorrent (BTT) supply: questions people ask
@@ -56,7 +56,7 @@ Over the next 90 days BTT supply changes −2.21%; across a full year, −8.75%.
 
 ## BTT demand
 
-People's appetite for BitTorrent is **very weak**: 1.5/5, ranked #78 of 109.
+People's appetite for BitTorrent is **low**: 1/5, ranked #92 of 109.
 
 A deeper BTT demand breakdown is on the page for members.
 

@@ -8,11 +8,11 @@ published:     true
 ---
 # Pudgy Penguins (PENGU) Tokenomics: +2.60% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/pengu (checked Nov 9 2026)*
+*Originally published at https://mrnasdog.com/research/pengu (checked Nov 13 2026)*
 
 As of Nov 5 2026, new Pudgy Penguins supply runs at **+2.60%** over 90 days and **+10.39%** over 12 months.
 
-- **Signal today:** negative (Nov 9 2026)
+- **Signal today:** negative (Nov 13 2026)
 - **MrNasDog score:** 3/10 — supply 1/5, demand 2/5
 - **New coins:** +2.60% in 90 days · +10.39% in a year
 - **Demand:** weak (2/5)
@@ -26,7 +26,7 @@ New PENGU: +2.60% in 90 days, +10.39% in a year. Supply score 1/5, "meme coin".
 
 ## Demand: how much people want PENGU
 
-Pudgy Penguins demand: 2/5 (**weak**), place #63 among 109 coins — interest today plus the buying that could come later.
+Pudgy Penguins demand: 2/5 (**weak**), place #65 among 109 coins — interest today plus the buying that could come later.
 
 A deeper PENGU demand breakdown is on the page for members.
 

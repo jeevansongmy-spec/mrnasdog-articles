@@ -8,12 +8,12 @@ published:     true
 ---
 # Optimism (OP) Inflation Rate: +0.98% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/optimism — numbers checked Nov 9 2026*
+*Source: https://mrnasdog.com/research/optimism — numbers checked Nov 13 2026*
 
 **+0.98%** in 90 days, **+2.30%** in a year: that is how fast Optimism (OP) supply changes as of Nov 7 2026.
 
-- **Signal:** mixed — OP, read by supply and demand
-- **Score:** 4/10 — supply 2.5/5, demand 1.5/5
+- **Signal:** negative — OP, read by supply and demand
+- **Score:** 3.5/10 — supply 2/5, demand 1.5/5
 - **Supply growth:** +0.98% in 90 days · +2.30% in a year
 - **How much people want it:** very weak (1.5/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
@@ -22,7 +22,7 @@ published:     true
 
 Optimism mints no OP, but Foundation grants and team unlocks add new coins, and the buyback keeps what it buys.
 
-Expect +0.98% more OP in 90 days (+2.30% over the year). On supply alone Optimism gets 2.5/5 — moderate (place 48 of 100).
+Expect +0.98% more OP in 90 days (+2.30% over the year). On supply alone Optimism gets 2/5 — growing (place 46 of 100).
 
 ## OP price drivers the score does not count
 
@@ -74,7 +74,7 @@ As of Nov 7 2026, Optimism (OP) supply moves +0.98% in 90 days and +2.30% in a y
 
 ### What is the OP inflation rate in 2026?
 
-Optimism (OP) supply grows +2.30% over the next 12 months and +0.98% over the next 90 days (checked Nov 7 2026). That puts OP #48 of 100 coins we track for new supply (#1 = the most new supply).
+Optimism (OP) supply grows +2.30% over the next 12 months and +0.98% over the next 90 days (checked Nov 7 2026). That puts OP #46 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next OP token unlock?
 

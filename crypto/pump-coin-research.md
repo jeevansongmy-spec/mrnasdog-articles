@@ -1,20 +1,20 @@
 ---
-title:         "Pump.fun (PUMP) Inflation Rate: −3.96% Supply in 90 Days"
+title:         "Pump.fun (PUMP) Inflation Rate: −4.31% Supply in 90 Days"
 description:   "Pump.fun has 2 price drivers. Right now: 1 up, 1 down."
 canonical_url: "https://mrnasdog.com/research/pump"
 content_type:  "coin_hub"
 tags:          ["crypto", "pump", "pumpfun", "should-i-buy"]
 published:     true
 ---
-# Pump.fun (PUMP) Inflation Rate: −3.96% Supply in 90 Days
+# Pump.fun (PUMP) Inflation Rate: −4.31% Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/pump — numbers checked Nov 11 2026*
+*Source: https://mrnasdog.com/research/pump — numbers checked Nov 13 2026*
 
-**−3.96%** in 90 days, **+5.67%** in a year: that is how fast Pump.fun (PUMP) supply changes as of Nov 2 2026.
+**−4.31%** in 90 days, **+8.97%** in a year: that is how fast Pump.fun (PUMP) supply changes as of Nov 11 2026.
 
 - **Signal:** positive — PUMP, read by supply and demand
 - **Score:** 10/10 — supply 5/5, demand 5/5
-- **Supply growth:** −3.96% in 90 days · +5.67% in a year
+- **Supply growth:** −4.31% in 90 days · +8.97% in a year
 - **How much people want it:** exceptional (5/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
@@ -24,18 +24,18 @@ Pump.fun has 2 price drivers. Right now: 1 up, 1 down.
 
 ### ▲ Launchpad share
 
-After losing half in Sep, pump.fun took 76% of Oct fees.
+pump.fun still holds about 72% of launchpad fees in Nov.
 
 ▲ Price up if: pump.fun keeps the lead. ▼ Price down if: Rivals take launches. Now: ▲ up side.
 
 | Date | pump.fun share |
 |---|---|
-| Jul 31 2026 | 90.1% |
 | Aug 31 2026 | 87.2% |
 | Sep 30 2026 | 46.9% |
-| Oct 31 2026 | 75.7% |
+| Oct 31 2026 | 74.9% |
+| Nov 10 2026 | 71.7% |
 
-*Checked Nov 2 2026*
+*Checked Nov 11 2026*
 
 ### ▼ RICO lawsuit
 
@@ -51,13 +51,13 @@ Case dismissed → price up · Pump.fun loses case → price down. Today: the pr
 | Aug 31 2026 | RICO claims survive |
 | Oct 15 2026 | Pump.fun files answer |
 
-*Checked Nov 2 2026*
+*Checked Nov 11 2026*
 
 ## PUMP supply
 
-Pump.fun's PUMP grew +14.02% in 90 days as 83.38B left insider vesting wallets, but with no new PUMP possible and the buyback burning about 20.09B next, supply should shrink about 3.96%.
+Pump.fun's PUMP grew +14.35% in 90 days as 83.38B left locked wallets, but no new PUMP can be made and the buyback should burn about 21.63B next, so supply should shrink about 4.31%.
 
-Expect −3.96% more PUMP in 90 days (+5.67% over the year). On supply alone Pump.fun gets 5/5 — shrinking.
+Expect −4.31% more PUMP in 90 days (+8.97% over the year). On supply alone Pump.fun gets 5/5 — shrinking.
 
 ## Demand today
 
@@ -69,31 +69,31 @@ How much do people want PUMP? **exceptional** — 5 out of 5, #1 of 109.
 
 ### Is Pump.fun (PUMP) inflationary or deflationary?
 
-As of Nov 2 2026, Pump.fun (PUMP) supply moves −3.96% in 90 days and +5.67% in a year, so PUMP is deflationary. Burns or buybacks take out more PUMP than is created.
+As of Nov 11 2026, Pump.fun (PUMP) supply moves −4.31% in 90 days and +8.97% in a year, so PUMP is deflationary. Burns or buybacks take out more PUMP than is created.
 
 ### What is the PUMP inflation rate in 2026?
 
-Pump.fun (PUMP) supply grows +5.67% over the next 12 months and −3.96% over the next 90 days (checked Nov 2 2026).
+Pump.fun (PUMP) supply grows +8.97% over the next 12 months and −4.31% over the next 90 days (checked Nov 11 2026).
 
 ### When is the next PUMP token unlock?
 
-The next Pump.fun (PUMP) unlock we track is on Nov 12 2026: about 625M PUMP, 0.14% of the PUMP in circulation (Allocation wallet monthly release). Checked Nov 2 2026.
+The next Pump.fun (PUMP) unlock we track is on Dec 12 2026: about 625M PUMP, 0.14% of the PUMP in circulation (Allocation wallet monthly release). Checked Nov 11 2026.
 
 ### Does Pump.fun burn or buy back PUMP?
 
-Yes. In our count, about 20.1B PUMP is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 2 2026). How it works: Half of Pump.fun's net revenue buys PUMP and burns it at once: 18.93B burned in 90 days (about $78.3M), about 20.09B next at today's price. The plan is locked to about Apr 28 2027.
+Yes. In our count, about 21.6B PUMP is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 11 2026). How it works: Half of Pump.fun's net revenue buys PUMP and burns it at once: 17.58B burned in 90 days (about $76.7M), about 21.63B next at today's price. The plan runs to about Apr 28 2027.
 
 ### Where does new PUMP supply come from?
 
-In our count, about 1.88B new PUMP reaches the market over the next 90 days (checked Nov 2 2026). How it works: 83.38B PUMP left team and investor vesting wallets in 90 days; the next year of that vesting is already in escrows that count as circulating, so only 1.88B is due next. 229.26B still sits in the main custody wallet with no public schedule.
+In our count, about 1.88B new PUMP reaches the market over the next 90 days (checked Nov 11 2026). How it works: 83.38B PUMP left locked wallets in 90 days, mostly two September payouts to staff and early backers that already cover them to about August 2027, so only 1.88B is due next. 229.26B still sits in the main team wallet with no public dates.
 
 ### How much PUMP is in circulation?
 
-Pump.fun (PUMP) has about 460B coins in circulation as of Nov 2 2026; the next 90 days change that by −3.96% (+5.67% over a year).
+Pump.fun (PUMP) has about 458B coins in circulation as of Nov 11 2026; the next 90 days change that by −4.31% (+8.97% over a year).
 
-### Does PUMP have more new supply than ONDO, ASTER or WLFI?
+### Does PUMP have more new supply than ASTER, WLFI or DOT?
 
-Over the next 90 days (checked Nov 2 2026): PUMP −3.96%, ONDO +35.12%, ASTER +2.71%, WLFI +0.01%. PUMP has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 11 2026): PUMP −4.31%, ASTER +0.26%, WLFI +0.01%, DOT +0.81%. PUMP has the least new supply of these 4 coins.
 
 ## Go deeper on Pump.fun
 

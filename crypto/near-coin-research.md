@@ -1,32 +1,32 @@
 ---
-title:         "NEAR Protocol (NEAR) Inflation Rate: +0.60% New Supply in 90 Days"
-description:   "NEAR mints new coins every epoch for stakers and its treasury, about 8.00M in 90 days, while the gas burn takes back only 76.9K. Supply grows about 0.60% per 90 days."
+title:         "NEAR Protocol (NEAR) Inflation Rate: +0.61% New Supply in 90 Days"
+description:   "NEAR prints new coins every epoch for stakers and its treasury, about 8.05M in 90 days, while the gas burn takes back only 78.13K. Supply grows about 0.61% per 90 days."
 canonical_url: "https://mrnasdog.com/research/near"
 content_type:  "coin_hub"
 tags:          ["crypto", "near", "nearprotocol", "should-i-buy"]
 published:     true
 ---
-# NEAR Protocol (NEAR) Inflation Rate: +0.60% New Supply in 90 Days
+# NEAR Protocol (NEAR) Inflation Rate: +0.61% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/near — numbers checked Nov 10 2026*
+*Source: https://mrnasdog.com/research/near — numbers checked Nov 13 2026*
 
-**+0.60%** in 90 days, **+2.45%** in a year: that is how fast NEAR Protocol (NEAR) supply changes as of Nov 1 2026.
+**+0.61%** in 90 days, **+2.47%** in a year: that is how fast NEAR Protocol (NEAR) supply changes as of Nov 10 2026.
 
 - **Long-run signal:** mixed — NEAR, read by supply and demand
 - **Score:** 6/10 — supply 2.5/5, demand 3.5/5
-- **New supply:** +0.60% in 90 days · +2.45% in a year
+- **New supply:** +0.61% in 90 days · +2.47% in a year
 - **Demand:** strong (3.5/5)
 - **Price drivers:** 2 ▲ price up · 0 ▼ price down
 
 ## Supply — new NEAR in the next 90 days
 
-NEAR mints new coins every epoch for stakers and its treasury, about 8.00M in 90 days, while the gas burn takes back only 76.9K. Supply grows about 0.60% per 90 days.
+NEAR prints new coins every epoch for stakers and its treasury, about 8.05M in 90 days, while the gas burn takes back only 78.13K. Supply grows about 0.61% per 90 days.
 
-Expect +0.60% more NEAR in 90 days (+2.45% over the year). On supply alone NEAR Protocol gets 2.5/5 — moderate, #56 of 100 for new supply.
+Expect +0.61% more NEAR in 90 days (+2.47% over the year). On supply alone NEAR Protocol gets 2.5/5 — moderate, #55 of 100 for new supply.
 
 ## Who wants NEAR Protocol right now
 
-How much do people want NEAR? **strong** — 3.5 out of 5, #21 of 109.
+How much do people want NEAR? **strong** — 3.5 out of 5, #18 of 109.
 
 (Members see more NEAR demand detail on the page; it is not repeated here.)
 
@@ -36,7 +36,7 @@ NEAR Protocol has 2 price drivers. Right now: 2 up, 0 down.
 
 ### ▲ NEAR Intents
 
-Intents swaps hit $4.0B, just below the $4.8B record.
+October swaps hit $4.0B, second only to September's $4.8B record.
 
 ▲ Price up if: More swaps via NEAR. ▼ Price down if: Swap volume fades. Right now it points up.
 
@@ -49,7 +49,7 @@ Intents swaps hit $4.0B, just below the $4.8B record.
 | Sep 2026 | $4.8B |
 | Oct 2026 | $3.99B |
 
-*Checked Nov 1 2026*
+*Checked Nov 10 2026*
 
 ### ▲ NEAR ETFs
 
@@ -65,37 +65,37 @@ ETFs draw buyers → price up · ETF demand flops → price down. Now: ▲ up si
 | Sep 29 2026 | NRR ETF starts trading |
 | No date yet | Grayscale ETF decision (coming) |
 
-*Checked Nov 1 2026*
+*Checked Nov 10 2026*
 
 ## Questions about NEAR supply
 
 ### Is NEAR Protocol (NEAR) inflationary or deflationary?
 
-As of Nov 1 2026, NEAR Protocol (NEAR) supply moves +0.60% in 90 days and +2.45% in a year, so NEAR is inflationary. New NEAR outweighs what is burned or bought back.
+As of Nov 10 2026, NEAR Protocol (NEAR) supply moves +0.61% in 90 days and +2.47% in a year, so NEAR is inflationary. New NEAR outweighs what is burned or bought back.
 
 ### What is the NEAR inflation rate in 2026?
 
-NEAR Protocol (NEAR) supply grows +2.45% over the next 12 months and +0.60% over the next 90 days (checked Nov 1 2026). That puts NEAR #56 of 100 coins we track for new supply (#1 = the most new supply).
+NEAR Protocol (NEAR) supply grows +2.47% over the next 12 months and +0.61% over the next 90 days (checked Nov 10 2026). That puts NEAR #55 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next NEAR token unlock?
 
-No dated NEAR Protocol (NEAR) unlock is scheduled in the next 90 days (checked Nov 1 2026). New NEAR still arrives: about 8M NEAR in 90 days.
+No dated NEAR Protocol (NEAR) unlock is scheduled in the next 90 days (checked Nov 10 2026). New NEAR still arrives: about 8.05M NEAR in 90 days.
 
 ### Does NEAR Protocol burn or buy back NEAR?
 
-Yes. In our count, about 76.9K NEAR is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 1 2026). How it works: The gas burn is the only removal: 76,907 NEAR in 90 days, under 1% of new NEAR. Intents fees bought 1.41M NEAR more, but those coins are kept, not burned.
+Yes. In our count, about 79.5K NEAR is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 10 2026). How it works: The gas burn is the only removal: 78.13K NEAR in 90 days, and all gas is burned since Nov 4 2026. Intents fees bought 1.45M NEAR more, but those coins are kept, not burned.
 
 ### Where does new NEAR supply come from?
 
-In our count, about 8M new NEAR reaches the market over the next 90 days (checked Nov 1 2026). How it works: The epoch mint is the only new NEAR: 8.00M in 90 days for stakers and the treasury, close to the 2.5% yearly ceiling. Nothing vests, and treasury or Foundation spending moves coins already counted.
+In our count, about 8.05M new NEAR reaches the market over the next 90 days (checked Nov 10 2026). How it works: The epoch mint is the only new NEAR: 8.05M in 90 days for stakers and the treasury, close to the full 2.5% yearly rate. Nothing vests, and a voted cut toward 1.6% has not started.
 
 ### How much NEAR is in circulation?
 
-NEAR Protocol (NEAR) has about 1.31B coins in circulation as of Nov 1 2026; the next 90 days change that by +0.60% (+2.45% over a year).
+NEAR Protocol (NEAR) has about 1.31B coins in circulation as of Nov 10 2026; the next 90 days change that by +0.61% (+2.47% over a year).
 
-### Does NEAR have more new supply than ADA, XLM or BCH?
+### Does NEAR have more new supply than BCH, UNI or LTC?
 
-Over the next 90 days (checked Nov 1 2026): NEAR +0.60%, ADA +0.24%, XLM +2.52%, BCH +0.20%. NEAR sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 10 2026): NEAR +0.61%, BCH +0.20%, UNI −0.03%, LTC +0.42%. NEAR has the most new supply of these 4 coins.
 
 ## Go deeper on NEAR Protocol
 

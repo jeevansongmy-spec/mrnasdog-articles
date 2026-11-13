@@ -8,11 +8,11 @@ published:     true
 ---
 # KuCoin Token (KCS) Tokenomics: 0.00% Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/kcs (checked Nov 9 2026)*
+*Originally published at https://mrnasdog.com/research/kcs (checked Nov 13 2026)*
 
 As of Nov 4 2026, new KuCoin Token supply runs at **0.00%** over 90 days and **0.00%** over 12 months.
 
-- **Long-run signal:** negative (Nov 9 2026)
+- **Long-run signal:** negative (Nov 13 2026)
 - **Score:** 4.5/10 — supply 4.5/5, demand 0/5
 - **New supply:** 0.00% in 90 days · 0.00% in a year
 - **Demand:** minimal (0/5)
@@ -60,11 +60,11 @@ Users bring BTC in → price up · Users pull BTC out → price down. Now: ▼ d
 
 KuCoin's exchange token: no new coins, no burns since Dec 31 2025, and 67.4M KCS in two team wallets that have not moved since 2022.
 
-New KCS: 0.00% in 90 days, 0.00% in a year. Supply score 4.5/5, "flat" (place 82 of 100).
+New KCS: 0.00% in 90 days, 0.00% in a year. Supply score 4.5/5, "flat" (place 81 of 100).
 
 ## KCS demand
 
-KuCoin Token demand: 0/5 (**minimal**), place #109 among 109 coins — interest today plus the buying that could come later.
+KuCoin Token demand: 0/5 (**minimal**), place #108 among 109 coins — interest today plus the buying that could come later.
 
 Members get the rest of the KuCoin Token demand read on mrnasdog.com.
 
@@ -76,7 +76,7 @@ KuCoin Token (KCS) is flat, neither inflationary nor deflationary right now: its
 
 ### What is the KCS inflation rate in 2026?
 
-About 0.00% a year: that is how much KuCoin Token (KCS) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 4 2026). That puts KCS #82 of 100 coins we track for new supply (#1 = the most new supply).
+About 0.00% a year: that is how much KuCoin Token (KCS) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 4 2026). That puts KCS #81 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next KCS token unlock?
 
@@ -94,9 +94,9 @@ Almost no new KCS reaches the market over the next 90 days (checked Nov 4 2026).
 
 About 140M KCS is in circulation (checked Nov 4 2026). Over the next 90 days that changes 0.00%, and over a year 0.00%.
 
-### Does KCS have more new supply than ARB, GT or POL?
+### Does KCS have more new supply than ARB, POL or GT?
 
-Over the next 90 days (checked Nov 4 2026): KCS 0.00%, ARB +6.11%, GT −2.15%, POL −0.32%. KCS sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 4 2026): KCS 0.00%, ARB +6.11%, POL −0.32%, GT −2.23%. KCS sits in the middle of these 4 coins.
 
 ## Go deeper on KuCoin Token
 

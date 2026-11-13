@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Gate (GT) Inflationary? −2.23% Supply in 90 Days
 
-*From https://mrnasdog.com/research/gt, updated Nov 12 2026*
+*From https://mrnasdog.com/research/gt, updated Nov 13 2026*
 
 How much new GT is coming? **−2.23%** in the next 90 days, **−8.93%** in the next year — checked Nov 12 2026.
 
@@ -26,7 +26,7 @@ Gate adds −2.23% new supply in the next 90 days and −8.93% over a year — s
 
 ## Demand: how much people want GT
 
-Demand reads **very weak** (1.5/5), #77 of 109 coins we track — that is how much people want GT now and how much buying could still come.
+Demand reads **very weak** (1.5/5), #78 of 109 coins we track — that is how much people want GT now and how much buying could still come.
 
 The members-only part of GT's demand section is not included.
 

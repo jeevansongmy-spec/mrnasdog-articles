@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Pyth Network (PYTH) Inflationary? 0.00% Supply in 90 Days
 
-*From https://mrnasdog.com/research/pyth, updated Nov 9 2026*
+*From https://mrnasdog.com/research/pyth, updated Nov 13 2026*
 
 How much new PYTH is coming? **0.00%** in the next 90 days, **+26.98%** in the next year — checked Nov 5 2026.
 
@@ -26,7 +26,7 @@ Pyth Network (PYTH) is flat, neither inflationary nor deflationary right now: it
 
 ### What is the PYTH inflation rate in 2026?
 
-About +26.98% a year: that is how much Pyth Network (PYTH) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 5 2026). That puts PYTH #88 of 100 coins we track for new supply (#1 = the most new supply).
+About +26.98% a year: that is how much Pyth Network (PYTH) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 5 2026). That puts PYTH #87 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next PYTH token unlock?
 
@@ -44,15 +44,15 @@ Almost no new PYTH reaches the market over the next 90 days (checked Nov 5 2026)
 
 About 7.87B PYTH is in circulation (checked Nov 5 2026). Over the next 90 days that changes 0.00%, and over a year +26.98%.
 
-### Does PYTH have more new supply than STABLE, VET or BLIFE?
+### Does PYTH have more new supply than STABLE, VET or RAY?
 
-Over the next 90 days (checked Nov 5 2026): PYTH 0.00%, STABLE 0.00%, VET 0.00%, BLIFE 0.00%. PYTH has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 5 2026): PYTH 0.00%, STABLE 0.00%, VET 0.00%, RAY +0.16%. PYTH sits in the middle of these 4 coins.
 
 ## New PYTH hitting the market
 
 PYTH supply was flat over 90 days: no minting and no unlock. The DAO bought 18.36M PYTH and holds it. The last 2.125B unlock on May 20 2027.
 
-Pyth Network adds 0.00% new supply in the next 90 days and +26.98% over a year — supply scores 4.5/5 (flat), #88 of 100 for new supply.
+Pyth Network adds 0.00% new supply in the next 90 days and +26.98% over a year — supply scores 4.5/5 (flat), #87 of 100 for new supply.
 
 ## Demand: how much people want PYTH
 

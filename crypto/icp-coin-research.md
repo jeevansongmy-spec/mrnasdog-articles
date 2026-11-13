@@ -8,7 +8,7 @@ published:     true
 ---
 # Internet Computer (ICP) Inflation Rate: +0.61% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/icp — numbers checked Nov 12 2026*
+*Source: https://mrnasdog.com/research/icp — numbers checked Nov 13 2026*
 
 **+0.61%** in 90 days, **+2.46%** in a year: that is how fast Internet Computer (ICP) supply changes as of Nov 12 2026.
 
@@ -26,7 +26,7 @@ Expect +0.61% more ICP in 90 days (+2.46% over the year). On supply alone Intern
 
 ## Demand: how much people want ICP
 
-How much do people want ICP? **strong** — 3.5 out of 5, #20 of 109.
+How much do people want ICP? **strong** — 3.5 out of 5, #18 of 109.
 
 (Members see more ICP demand detail on the page; it is not repeated here.)
 

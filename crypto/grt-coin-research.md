@@ -8,11 +8,11 @@ published:     true
 ---
 # The Graph (GRT) Tokenomics: +1.06% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/grt (checked Nov 9 2026)*
+*Originally published at https://mrnasdog.com/research/grt (checked Nov 13 2026)*
 
 As of Nov 7 2026, new The Graph supply runs at **+1.06%** over 90 days and **+4.30%** over 12 months.
 
-- **Long-run signal:** negative (Nov 9 2026)
+- **Long-run signal:** negative (Nov 13 2026)
 - **Score:** 3.5/10 — supply 2/5, demand 1.5/5
 - **New supply:** +1.06% in 90 days · +4.30% in a year
 - **Demand:** very weak (1.5/5)
@@ -22,7 +22,7 @@ As of Nov 7 2026, new The Graph supply runs at **+1.06%** over 90 days and **+4.
 
 The Graph mints new GRT every block and a Foundation lock adds 12.92M a month, while burns take back under 0.1%, so supply grows about 1.06% in 90 days.
 
-New GRT: +1.06% in 90 days, +4.30% in a year. Supply score 2/5, "growing" (place 44 of 100).
+New GRT: +1.06% in 90 days, +4.30% in a year. Supply score 2/5, "growing" (place 43 of 100).
 
 ## How strong is The Graph demand?
 
@@ -76,7 +76,7 @@ The Graph (GRT) is inflationary right now: its supply changes +1.06% over the ne
 
 ### What is the GRT inflation rate in 2026?
 
-About +4.30% a year: that is how much The Graph (GRT) supply changes over the next 12 months, with +1.06% in the next 90 days (checked Nov 7 2026). That puts GRT #44 of 100 coins we track for new supply (#1 = the most new supply).
+About +4.30% a year: that is how much The Graph (GRT) supply changes over the next 12 months, with +1.06% in the next 90 days (checked Nov 7 2026). That puts GRT #43 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next GRT token unlock?
 

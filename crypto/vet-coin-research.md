@@ -8,11 +8,11 @@ published:     true
 ---
 # VeChain (VET) Tokenomics: 0.00% Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/vet (checked Nov 9 2026)*
+*Originally published at https://mrnasdog.com/research/vet (checked Nov 13 2026)*
 
 As of Nov 4 2026, new VeChain supply runs at **0.00%** over 90 days and **0.00%** over 12 months.
 
-- **Signal today:** positive (Nov 9 2026)
+- **Signal today:** positive (Nov 13 2026)
 - **MrNasDog score:** 7/10 — supply 4.5/5, demand 2.5/5
 - **New coins:** 0.00% in 90 days · 0.00% in a year
 - **Demand:** modest (2.5/5)
@@ -22,7 +22,7 @@ As of Nov 4 2026, new VeChain supply runs at **0.00%** over 90 days and **0.00%*
 
 VeChain made all its VET at launch and pays validators and stakers in VTHO, so VET supply held flat at 0.00% in 90 days.
 
-New VET: 0.00% in 90 days, 0.00% in a year. Supply score 4.5/5, "flat" (place 91 of 100).
+New VET: 0.00% in 90 days, 0.00% in a year. Supply score 4.5/5, "flat" (place 90 of 100).
 
 ## Big wallets, votes and dates behind VET
 
@@ -73,7 +73,7 @@ VeChain (VET) is flat, neither inflationary nor deflationary right now: its supp
 
 ### What is the VET inflation rate in 2026?
 
-About 0.00% a year: that is how much VeChain (VET) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 4 2026). That puts VET #91 of 100 coins we track for new supply (#1 = the most new supply).
+About 0.00% a year: that is how much VeChain (VET) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 4 2026). That puts VET #90 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next VET token unlock?
 
@@ -91,9 +91,9 @@ Almost no new VET reaches the market over the next 90 days (checked Nov 4 2026).
 
 About 86B VET is in circulation (checked Nov 4 2026). Over the next 90 days that changes 0.00%, and over a year 0.00%.
 
-### Does VET have more new supply than PYTH, BLIFE or AERO?
+### Does VET have more new supply than PYTH, RAY or BLIFE?
 
-Over the next 90 days (checked Nov 4 2026): VET 0.00%, PYTH 0.00%, BLIFE 0.00%, AERO +8.50%. VET sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 4 2026): VET 0.00%, PYTH 0.00%, RAY +0.16%, BLIFE 0.00%. VET sits in the middle of these 4 coins.
 
 ## More on VeChain
 

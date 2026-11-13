@@ -8,14 +8,14 @@ published:     true
 ---
 # Gnosis (GNO) Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/gno · checked Nov 9 2026*
+*Live page: https://mrnasdog.com/research/gno · checked Nov 13 2026*
 
 Gnosis (GNO) supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 7 2026).
 
 - **Long-run signal:** mixed (by the law of supply and demand)
-- **Score:** 5/10 — supply 4.5/5, demand 0.5/5
+- **Score:** 5.5/10 — supply 4.5/5, demand 1/5
 - **New supply:** 0.00% in 90 days · 0.00% in a year
-- **Demand:** very low (0.5/5)
+- **Demand:** low (1/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## Gnosis supply questions, answered
@@ -26,7 +26,7 @@ As of Nov 7 2026, Gnosis (GNO) supply moves 0.00% in 90 days and 0.00% in a year
 
 ### What is the GNO inflation rate in 2026?
 
-Gnosis (GNO) supply grows 0.00% over the next 12 months and 0.00% over the next 90 days (checked Nov 7 2026). That puts GNO #81 of 100 coins we track for new supply (#1 = the most new supply).
+Gnosis (GNO) supply grows 0.00% over the next 12 months and 0.00% over the next 90 days (checked Nov 7 2026). That puts GNO #80 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next GNO token unlock?
 
@@ -56,7 +56,7 @@ Over the next 90 days GNO supply changes 0.00%; across a full year, 0.00%. That 
 
 ## GNO demand
 
-People's appetite for Gnosis is **very low**: 0.5/5, ranked #98 of 109.
+People's appetite for Gnosis is **low**: 1/5, ranked #92 of 109.
 
 Extra Gnosis demand detail for members stays on the live page.
 
@@ -75,7 +75,7 @@ Good for the price: Backing per GNO grows. Bad for it: Backing shrinks. Right no
 | Aug 31 2026 | 117 USD | — |
 | Sep 30 2026 | 118 USD | — |
 | Oct 31 2026 | 105 USD | 123 USD |
-| Nov 9 2026 | 109 USD | 124 USD |
+| Nov 13 2026 | 109 USD | 116 USD |
 
 *Checked Nov 7 2026*
 

@@ -8,14 +8,14 @@ published:     true
 ---
 # TRON (TRX) Supply & Demand: +0.14% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/trx · checked Nov 9 2026*
+*Live page: https://mrnasdog.com/research/trx · checked Nov 13 2026*
 
 TRON (TRX) supply changes **+0.14%** over the next 90 days and **+0.57%** over a year (checked Nov 8 2026).
 
-- **Long-run signal:** positive (by the law of supply and demand)
-- **Score:** 7/10 — supply 3.5/5, demand 3.5/5
+- **Long-run signal:** mixed (by the law of supply and demand)
+- **Score:** 6.5/10 — supply 3.5/5, demand 3/5
 - **New supply:** +0.14% in 90 days · +0.57% in a year
-- **Demand:** strong (3.5/5)
+- **Demand:** moderate (3/5)
 - **Price drivers:** 2 ▲ price up · 0 ▼ price down
 
 ## TRX supply
@@ -26,7 +26,7 @@ Over the next 90 days TRX supply changes +0.14%; across a full year, +0.57%. Tha
 
 ## How strong is TRON demand?
 
-People's appetite for TRON is **strong**: 3.5/5, ranked #23 of 109.
+People's appetite for TRON is **moderate**: 3/5, ranked #34 of 109.
 
 A deeper TRX demand breakdown is on the page for members.
 
@@ -36,7 +36,7 @@ Besides supply and demand, we track 2 price drivers for TRON: 2 ▲ and 0 ▼ ri
 
 ### ▲ USDT on Tron
 
-USDT on Tron grew 20% in 365 days, to 92.3B.
+USDT on Tron grew 20% in 365 days, to 92.2B.
 
 Good for the price: More USDT on Tron. Bad for it: USDT leaves Tron. Right now it points up.
 
@@ -45,9 +45,9 @@ Good for the price: More USDT on Tron. Bad for it: USDT leaves Tron. Right now i
 | Aug 31 2026 | 91.9 B USDT | 73.5 B USDT |
 | Sep 30 2026 | 92.5 B USDT | 73.5 B USDT |
 | Oct 31 2026 | 92.7 B USDT | 71.1 B USDT |
-| Nov 9 2026 | 92.3 B USDT | 67.7 B USDT |
+| Nov 13 2026 | 92.2 B USDT | 66.8 B USDT |
 
-*Checked Nov 8 2026*
+*Checked Nov 12 2026*
 
 ### ▲ Justin Sun
 

@@ -8,11 +8,11 @@ published:     true
 ---
 # Polygon (POL) Tokenomics: −0.32% Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/pol (checked Nov 9 2026)*
+*Originally published at https://mrnasdog.com/research/pol (checked Nov 13 2026)*
 
 As of Nov 4 2026, new Polygon supply runs at **−0.32%** over 90 days and **+1.21%** over 12 months.
 
-- **Long-run signal:** mixed (Nov 9 2026)
+- **Long-run signal:** mixed (Nov 13 2026)
 - **Score:** 7.5/10 — supply 5/5, demand 2.5/5
 - **New supply:** −0.32% in 90 days · +1.21% in a year
 - **Demand:** modest (2.5/5)
@@ -39,7 +39,7 @@ Dollars on Polygon grew about 2.5x since 2024, slipping since May.
 | Aug 31 2026 | $3.53B |
 | Sep 30 2026 | $3.42B |
 | Oct 31 2026 | $3.34B |
-| Nov 9 2026 | $3.42B |
+| Nov 13 2026 | $3.3B |
 
 *Checked Nov 4 2026*
 
@@ -94,9 +94,9 @@ In our count, about 52.3M new POL reaches the market over the next 90 days (chec
 
 About 10.6B POL is in circulation (checked Nov 4 2026). Over the next 90 days that changes −0.32%, and over a year +1.21%.
 
-### Does POL have more new supply than GT, PI or KAS?
+### Does POL have more new supply than KCS, GT or PI?
 
-Over the next 90 days (checked Nov 4 2026): POL −0.32%, GT −2.15%, PI +4.16%, KAS +0.52%. POL sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 4 2026): POL −0.32%, KCS 0.00%, GT −2.23%, PI +4.16%. POL sits in the middle of these 4 coins.
 
 ## Next steps for POL
 

@@ -8,14 +8,14 @@ published:     true
 ---
 # Is PIEVERSE Inflationary? +25.93% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/pieverse, updated Nov 9 2026*
+*From https://mrnasdog.com/research/pieverse, updated Nov 13 2026*
 
 How much new PIEVERSE is coming? **+25.93%** in the next 90 days, **+104.16%** in the next year — checked Nov 6 2026.
 
 - **Signal:** negative for Pieverse
-- **Score:** 0.5/10 — supply 0/5, demand 0.5/5
+- **Score:** 1/10 — supply 0/5, demand 1/5
 - **Supply growth:** +25.93% in 90 days · +104.16% in a year
-- **How much people want it:** very low (0.5/5)
+- **How much people want it:** low (1/5)
 - **Price drivers:** 0 ▲ price up · 0 ▼ price down
 
 ## New PIEVERSE hitting the market
@@ -63,7 +63,7 @@ Real users and payments → price up · Products stay unused → price down.
 
 ## Demand: how much people want PIEVERSE
 
-Demand reads **very low** (0.5/5), #98 of 109 coins we track — that is how much people want PIEVERSE now and how much buying could still come.
+Demand reads **low** (1/5), #92 of 109 coins we track — that is how much people want PIEVERSE now and how much buying could still come.
 
 The members-only part of PIEVERSE's demand section is not included.
 

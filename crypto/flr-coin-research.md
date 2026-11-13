@@ -8,7 +8,7 @@ published:     true
 ---
 # Flare (FLR) Inflation Rate: +1.04% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/flr — numbers checked Nov 9 2026*
+*Source: https://mrnasdog.com/research/flr — numbers checked Nov 13 2026*
 
 **+1.04%** in 90 days, **+4.22%** in a year: that is how fast Flare (FLR) supply changes as of Nov 5 2026.
 
@@ -26,7 +26,7 @@ As of Nov 5 2026, Flare (FLR) supply moves +1.04% in 90 days and +4.22% in a yea
 
 ### What is the FLR inflation rate in 2026?
 
-Flare (FLR) supply grows +4.22% over the next 12 months and +1.04% over the next 90 days (checked Nov 5 2026). That puts FLR #46 of 100 coins we track for new supply (#1 = the most new supply).
+Flare (FLR) supply grows +4.22% over the next 12 months and +1.04% over the next 90 days (checked Nov 5 2026). That puts FLR #44 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next FLR token unlock?
 
@@ -52,7 +52,7 @@ Over the next 90 days (checked Nov 5 2026): FLR +1.04%, APT +2.03%, STABLE 0.00%
 
 Flare pays 3% a year in new FLR and keeps vesting rFLR rewards from a 17.13B incentive pool. Burns take back little, so supply grew about 1.01% in 90 days.
 
-Expect +1.04% more FLR in 90 days (+4.22% over the year). On supply alone Flare gets 2/5 — growing, #46 of 100 for new supply.
+Expect +1.04% more FLR in 90 days (+4.22% over the year). On supply alone Flare gets 2/5 — growing, #44 of 100 for new supply.
 
 ## Demand today
 
@@ -75,7 +75,7 @@ More XRP comes in → price up · XRP leaves Flare → price down. Now: ▼ down
 | Aug 31 2026 | 147 M FXRP |
 | Sep 30 2026 | 144 M FXRP |
 | Oct 31 2026 | 144 M FXRP |
-| Nov 9 2026 | 144 M FXRP |
+| Nov 13 2026 | 145 M FXRP |
 
 *Checked Nov 5 2026*
 

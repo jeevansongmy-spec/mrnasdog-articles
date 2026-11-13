@@ -8,11 +8,11 @@ published:     true
 ---
 # Bitcoin SV (BSV) Tokenomics: +0.20% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/bsv (checked Nov 9 2026)*
+*Originally published at https://mrnasdog.com/research/bsv (checked Nov 13 2026)*
 
 As of Nov 6 2026, new Bitcoin SV supply runs at **+0.20%** over 90 days and **+0.81%** over 12 months.
 
-- **Signal:** negative (Nov 9 2026)
+- **Signal:** negative (Nov 13 2026)
 - **Score:** 4.5/10 — supply 3.5/5, demand 1/5
 - **Supply growth:** +0.20% in 90 days · +0.81% in a year
 - **How much people want it:** low (1/5)
@@ -50,7 +50,7 @@ Miner power is down about two thirds since early 2024.
 | Aug 31 2026 | 180 PH/s |
 | Sep 30 2026 | 202 PH/s |
 | Oct 31 2026 | 190 PH/s |
-| Nov 9 2026 | 224 PH/s |
+| Nov 13 2026 | 220 PH/s |
 
 *Checked Nov 6 2026*
 
@@ -58,11 +58,11 @@ Miner power is down about two thirds since early 2024.
 
 Bitcoin SV makes new coins only through mining, about 40,300 BSV every 90 days, and nothing burns or buys any back. Supply grows about 0.20% a quarter under a hard 21M cap.
 
-New BSV: +0.20% in 90 days, +0.81% in a year. Supply score 3.5/5, "steady", #70 of 100 for new supply.
+New BSV: +0.20% in 90 days, +0.81% in a year. Supply score 3.5/5, "steady", #69 of 100 for new supply.
 
 ## How strong is Bitcoin SV demand?
 
-Bitcoin SV demand: 1/5 (**low**), place #93 among 109 coins — interest today plus the buying that could come later.
+Bitcoin SV demand: 1/5 (**low**), place #92 among 109 coins — interest today plus the buying that could come later.
 
 The members-only part of BSV's demand section is not included.
 
@@ -74,7 +74,7 @@ Bitcoin SV (BSV) is inflationary right now: its supply changes +0.20% over the n
 
 ### What is the BSV inflation rate in 2026?
 
-About +0.81% a year: that is how much Bitcoin SV (BSV) supply changes over the next 12 months, with +0.20% in the next 90 days (checked Nov 6 2026). That puts BSV #70 of 100 coins we track for new supply (#1 = the most new supply).
+About +0.81% a year: that is how much Bitcoin SV (BSV) supply changes over the next 12 months, with +0.20% in the next 90 days (checked Nov 6 2026). That puts BSV #69 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next BSV token unlock?
 

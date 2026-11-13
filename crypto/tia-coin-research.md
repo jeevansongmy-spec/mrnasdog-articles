@@ -8,14 +8,14 @@ published:     true
 ---
 # Celestia (TIA) Supply & Demand: +2.31% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/tia · checked Nov 9 2026*
+*Live page: https://mrnasdog.com/research/tia · checked Nov 13 2026*
 
 Celestia (TIA) supply changes **+2.31%** over the next 90 days and **+9.25%** over a year (checked Nov 5 2026).
 
-- **Signal:** negative (by the law of supply and demand)
-- **Score:** 3.5/10 — supply 1/5, demand 2.5/5
+- **Signal:** mixed (by the law of supply and demand)
+- **Score:** 4/10 — supply 1/5, demand 3/5
 - **Supply growth:** +2.31% in 90 days · +9.25% in a year
-- **How much people want it:** modest (2.5/5)
+- **How much people want it:** moderate (3/5)
 - **Price drivers:** 1 ▲ price up · 0 ▼ price down
 
 ## Celestia (TIA) supply: questions people ask
@@ -26,7 +26,7 @@ As of Nov 5 2026, Celestia (TIA) supply moves +2.31% in 90 days and +9.25% in a 
 
 ### What is the TIA inflation rate in 2026?
 
-Celestia (TIA) supply grows +9.25% over the next 12 months and +2.31% over the next 90 days (checked Nov 5 2026). That puts TIA #29 of 100 coins we track for new supply (#1 = the most new supply).
+Celestia (TIA) supply grows +9.25% over the next 12 months and +2.31% over the next 90 days (checked Nov 5 2026). That puts TIA #28 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next TIA token unlock?
 
@@ -44,9 +44,9 @@ In our count, about 22.8M new TIA reaches the market over the next 90 days (chec
 
 Celestia (TIA) has about 989M coins in circulation as of Nov 5 2026; the next 90 days change that by +2.31% (+9.25% over a year).
 
-### Does TIA have more new supply than RAY, PENGU or CRV?
+### Does TIA have more new supply than AERO, PENGU or CRV?
 
-Over the next 90 days (checked Nov 5 2026): TIA +2.31%, RAY +0.23%, PENGU +2.60%, CRV +1.96%. TIA sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 5 2026): TIA +2.31%, AERO +8.50%, PENGU +2.60%, CRV +1.96%. TIA sits in the middle of these 4 coins.
 
 ## Supply: how much new TIA is coming
 
@@ -56,7 +56,7 @@ Over the next 90 days TIA supply changes +2.31%; across a full year, +9.25%. Tha
 
 ## Who wants Celestia right now
 
-People's appetite for Celestia is **modest**: 2.5/5, ranked #47 of 109.
+People's appetite for Celestia is **moderate**: 3/5, ranked #34 of 109.
 
 (Members see more TIA demand detail on the page; it is not repeated here.)
 

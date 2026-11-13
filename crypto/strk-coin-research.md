@@ -8,7 +8,7 @@ published:     true
 ---
 # Starknet (STRK) Supply & Demand: +9.23% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/strk · checked Nov 9 2026*
+*Live page: https://mrnasdog.com/research/strk · checked Nov 13 2026*
 
 Starknet (STRK) supply changes **+9.23%** over the next 90 days and **+25.52%** over a year (checked Nov 5 2026).
 
@@ -56,7 +56,7 @@ Over the next 90 days STRK supply changes +9.23%; across a full year, +25.52%. T
 
 ## How strong is Starknet demand?
 
-People's appetite for Starknet is **moderate**: 3/5, ranked #32 of 109.
+People's appetite for Starknet is **moderate**: 3/5, ranked #34 of 109.
 
 (Members see more STRK demand detail on the page; it is not repeated here.)
 

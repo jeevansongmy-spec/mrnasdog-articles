@@ -8,7 +8,7 @@ published:     true
 ---
 # Falcon Finance (FF) Supply & Demand: +17.18% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/ff · checked Nov 9 2026*
+*Live page: https://mrnasdog.com/research/ff · checked Nov 13 2026*
 
 Falcon Finance (FF) supply changes **+17.18%** over the next 90 days and **+72.55%** over a year (checked Nov 6 2026).
 
@@ -26,7 +26,7 @@ Over the next 90 days FF supply changes +17.18%; across a full year, +72.55%. Th
 
 ## Demand: how much people want FF
 
-People's appetite for Falcon Finance is **very low**: 0.5/5, ranked #98 of 109.
+People's appetite for Falcon Finance is **very low**: 0.5/5, ranked #100 of 109.
 
 Members get the rest of the Falcon Finance demand read on mrnasdog.com.
 
@@ -45,7 +45,7 @@ Good for the price: More USDf minted. Bad for it: USDf shrinks. Now: ▲ up side
 | Aug 31 2026 | $1,179M |
 | Sep 30 2026 | $1,213M |
 | Oct 31 2026 | $1,728M |
-| Nov 9 2026 | $1,669M |
+| Nov 13 2026 | $1,669M |
 
 *Checked Nov 6 2026*
 

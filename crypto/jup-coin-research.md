@@ -8,14 +8,14 @@ published:     true
 ---
 # Jupiter (JUP) Tokenomics: 0.00% Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/jup (checked Nov 9 2026)*
+*Originally published at https://mrnasdog.com/research/jup (checked Nov 13 2026)*
 
 As of Nov 9 2026, new Jupiter supply runs at **0.00%** over 90 days and **−0.06%** over 12 months.
 
-- **Long-run signal:** positive (Nov 9 2026)
-- **Score:** 8/10 — supply 4.5/5, demand 3.5/5
+- **Long-run signal:** positive (Nov 13 2026)
+- **Score:** 7.5/10 — supply 4.5/5, demand 3/5
 - **New supply:** 0.00% in 90 days · −0.06% in a year
-- **Demand:** strong (3.5/5)
+- **Demand:** moderate (3/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## Where new Jupiter comes from
@@ -26,7 +26,7 @@ New JUP: 0.00% in 90 days, −0.06% in a year. Supply score 4.5/5, "flat".
 
 ## Who wants Jupiter right now
 
-Jupiter demand: 3.5/5 (**strong**), place #23 among 109 coins — interest today plus the buying that could come later.
+Jupiter demand: 3/5 (**moderate**), place #34 among 109 coins — interest today plus the buying that could come later.
 
 A deeper JUP demand breakdown is on the page for members.
 
@@ -60,7 +60,7 @@ Lending keeps growing → price up · Deposits leave → price down. Now: ▼ do
 | Aug 31 2026 | $1.08B | $1.24B |
 | Sep 30 2026 | $1.17B | $1.42B |
 | Oct 31 2026 | $0.93B | $1.23B |
-| Nov 10 2026 | $0.908B | $1.17B |
+| Nov 13 2026 | $0.951B | $1.15B |
 
 *Checked Nov 9 2026*
 
@@ -72,7 +72,7 @@ Jupiter (JUP) is flat, neither inflationary nor deflationary right now: its supp
 
 ### What is the JUP inflation rate in 2026?
 
-About −0.06% a year: that is how much Jupiter (JUP) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 9 2026). That puts JUP #92 of 100 coins we track for new supply (#1 = the most new supply).
+About −0.06% a year: that is how much Jupiter (JUP) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 9 2026). That puts JUP #91 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next JUP token unlock?
 

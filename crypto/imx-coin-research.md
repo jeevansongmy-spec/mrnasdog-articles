@@ -8,14 +8,14 @@ published:     true
 ---
 # Immutable (IMX) Supply & Demand: +2.21% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/imx · checked Nov 12 2026*
+*Live page: https://mrnasdog.com/research/imx · checked Nov 13 2026*
 
 Immutable (IMX) supply changes **+2.21%** over the next 90 days and **+8.96%** over a year (checked Nov 12 2026).
 
 - **Long-run signal:** negative (by the law of supply and demand)
-- **Score:** 2.5/10 — supply 1/5, demand 1.5/5
+- **Score:** 3/10 — supply 1/5, demand 2/5
 - **New supply:** +2.21% in 90 days · +8.96% in a year
-- **Demand:** very weak (1.5/5)
+- **Demand:** weak (2/5)
 - **Price drivers:** 0 ▲ price up · 1 ▼ price down
 
 ## Supply — new IMX in the next 90 days
@@ -26,7 +26,7 @@ Over the next 90 days IMX supply changes +2.21%; across a full year, +8.96%. Tha
 
 ## Demand today
 
-People's appetite for Immutable is **very weak**: 1.5/5, ranked #77 of 109.
+People's appetite for Immutable is **weak**: 2/5, ranked #65 of 109.
 
 A deeper IMX demand breakdown is on the page for members.
 

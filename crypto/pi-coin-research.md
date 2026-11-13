@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Pi Network (PI) Inflationary? +4.16% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/pi, updated Nov 9 2026*
+*From https://mrnasdog.com/research/pi, updated Nov 13 2026*
 
 How much new PI is coming? **+4.16%** in the next 90 days, **+16.87%** in the next year — checked Nov 4 2026.
 
@@ -93,9 +93,9 @@ In our count, about 474M new PI reaches the market over the next 90 days (checke
 
 About 11.3B PI is in circulation (checked Nov 4 2026). Over the next 90 days that changes +4.16%, and over a year +16.87%.
 
-### Does PI have more new supply than POL, KAS or JUP?
+### Does PI have more new supply than GT, RENDER or KAS?
 
-Over the next 90 days (checked Nov 4 2026): PI +4.16%, POL −0.32%, KAS +0.52%, JUP 0.00%. PI has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 4 2026): PI +4.16%, GT −2.23%, RENDER +0.26%, KAS +0.52%. PI has the most new supply of these 4 coins.
 
 ## Where to read the rest of PI
 

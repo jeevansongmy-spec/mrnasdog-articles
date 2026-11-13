@@ -8,12 +8,12 @@ published:     true
 ---
 # Zcash (ZEC) Supply & Demand: +0.95% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/zec · checked Nov 9 2026*
+*Live page: https://mrnasdog.com/research/zec · checked Nov 13 2026*
 
 Zcash (ZEC) supply changes **+0.95%** over the next 90 days and **+3.84%** over a year (checked Nov 8 2026).
 
 - **Long-run signal:** positive (by the law of supply and demand)
-- **Score:** 7.5/10 — supply 2.5/5, demand 5/5
+- **Score:** 7/10 — supply 2/5, demand 5/5
 - **New supply:** +0.95% in 90 days · +3.84% in a year
 - **Demand:** exceptional (5/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
@@ -39,7 +39,7 @@ They hold more → price up · They sell → price down. Now: ▼ down side.
 
 ### ▲ Private pool bug
 
-323K ZEC still in the old pool; 4.2M moved safely.
+321K ZEC still in the old pool; 4.2M moved safely.
 
 Good for the price: Old pool empties. Bad for it: Old pool grows. Today: the price-up case.
 
@@ -48,9 +48,9 @@ Good for the price: Old pool empties. Bad for it: Old pool grows. Today: the pri
 | Aug 31 2026 | 0.471 M ZEC | 3.84 M ZEC |
 | Sep 30 2026 | 0.379 M ZEC | 4.06 M ZEC |
 | Oct 31 2026 | 0.344 M ZEC | 4.18 M ZEC |
-| Nov 9 2026 | 0.323 M ZEC | 4.23 M ZEC |
+| Nov 13 2026 | 0.321 M ZEC | 4.18 M ZEC |
 
-*Checked Nov 8 2026*
+*Checked Nov 12 2026*
 
 ### • Privacy-coin rules
 
@@ -74,7 +74,7 @@ Good for the price: New ETFs, open doors. Bad for it: New bans.
 
 Zcash is mined toward a 21M cap: about 161K new ZEC every 90 days, +0.95%. NU7 made blocks 3× faster without changing that.
 
-Over the next 90 days ZEC supply changes +0.95%; across a full year, +3.84%. That puts supply at 2.5/5 (moderate), #49 of 100 for new supply.
+Over the next 90 days ZEC supply changes +0.95%; across a full year, +3.84%. That puts supply at 2/5 (growing), #47 of 100 for new supply.
 
 ## Demand: how much people want ZEC
 
@@ -90,7 +90,7 @@ As of Nov 8 2026, Zcash (ZEC) supply moves +0.95% in 90 days and +3.84% in a yea
 
 ### What is the ZEC inflation rate in 2026?
 
-Zcash (ZEC) supply grows +3.84% over the next 12 months and +0.95% over the next 90 days (checked Nov 8 2026). That puts ZEC #49 of 100 coins we track for new supply (#1 = the most new supply).
+Zcash (ZEC) supply grows +3.84% over the next 12 months and +0.95% over the next 90 days (checked Nov 8 2026). That puts ZEC #47 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next ZEC token unlock?
 
@@ -108,9 +108,9 @@ In our count, about 161K new ZEC reaches the market over the next 90 days (check
 
 Zcash (ZEC) has about 17M coins in circulation as of Nov 8 2026; the next 90 days change that by +0.95% (+3.84% over a year).
 
-### Does ZEC have more new supply than TRX, HYPE or DOGE?
+### Does ZEC have more new supply than TRX, HYPE or XMR?
 
-Over the next 90 days (checked Nov 8 2026): ZEC +0.95%, TRX +0.14%, HYPE −0.41%, DOGE +0.78%. ZEC has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 8 2026): ZEC +0.95%, TRX +0.14%, HYPE −0.41%, XMR +0.21%. ZEC has the most new supply of these 4 coins.
 
 ## Where to read the rest of ZEC
 

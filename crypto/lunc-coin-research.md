@@ -8,12 +8,12 @@ published:     true
 ---
 # Terra Luna Classic (LUNC) Supply & Demand: −0.16% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/lunc · checked Nov 9 2026*
+*Live page: https://mrnasdog.com/research/lunc · checked Nov 13 2026*
 
 Terra Luna Classic (LUNC) supply changes **−0.16%** over the next 90 days and **−0.65%** over a year (checked Nov 7 2026).
 
 - **Long-run signal:** mixed (by the law of supply and demand)
-- **Score:** 7/10 — supply 5/5, demand 2/5
+- **Score:** 6.5/10 — supply 4.5/5, demand 2/5
 - **New supply:** −0.16% in 90 days · −0.65% in a year
 - **Demand:** weak (2/5)
 - **Price drivers:** 0 ▲ price up · 1 ▼ price down
@@ -57,11 +57,11 @@ Good for the price: Upgrades pass, USTC revives. Bad for it: Votes stall or fail
 
 Terra Classic mints nothing new, and a 1.5% transfer tax burned 7.99B LUNC in 90 days, but 6.35B left the stake, so supply only fell 0.06%.
 
-Over the next 90 days LUNC supply changes −0.16%; across a full year, −0.65%. That puts supply at 5/5 (shrinking) (place 99 of 100).
+Over the next 90 days LUNC supply changes −0.16%; across a full year, −0.65%. That puts supply at 4.5/5 (shrinking) (place 99 of 100).
 
 ## LUNC demand
 
-People's appetite for Terra Luna Classic is **weak**: 2/5, ranked #63 of 109.
+People's appetite for Terra Luna Classic is **weak**: 2/5, ranked #65 of 109.
 
 Members get the rest of the Terra Luna Classic demand read on mrnasdog.com.
 

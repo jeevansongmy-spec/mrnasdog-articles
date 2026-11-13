@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Curve DAO (CRV) Inflationary? +1.96% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/crv, updated Nov 9 2026*
+*From https://mrnasdog.com/research/crv, updated Nov 13 2026*
 
 How much new CRV is coming? **+1.96%** in the next 90 days, **+7.71%** in the next year — checked Nov 5 2026.
 
@@ -22,11 +22,11 @@ How much new CRV is coming? **+1.96%** in the next 90 days, **+7.71%** in the ne
 
 Curve DAO's CRV grows about 2.45% in 90 days: emissions to liquidity providers and coins leaving ended veCRV locks far outweigh new locking.
 
-Curve DAO adds +1.96% new supply in the next 90 days and +7.71% over a year — supply scores 1.5/5 (heavy), #33 of 100 for new supply.
+Curve DAO adds +1.96% new supply in the next 90 days and +7.71% over a year — supply scores 1.5/5 (heavy), #32 of 100 for new supply.
 
 ## How strong is Curve DAO demand?
 
-Demand reads **weak** (2/5), #63 of 109 coins we track — that is how much people want CRV now and how much buying could still come.
+Demand reads **weak** (2/5), #65 of 109 coins we track — that is how much people want CRV now and how much buying could still come.
 
 (Members see more CRV demand detail on the page; it is not repeated here.)
 
@@ -60,7 +60,7 @@ Good for the price: More crvUSD borrowed. Bad for it: crvUSD shrinks. Right now 
 | Aug 31 2026 | 280 M crvUSD |
 | Sep 30 2026 | 250 M crvUSD |
 | Oct 31 2026 | 224 M crvUSD |
-| Nov 9 2026 | 207 M crvUSD |
+| Nov 13 2026 | 193 M crvUSD |
 
 *Checked Nov 5 2026*
 
@@ -72,7 +72,7 @@ Curve DAO (CRV) is inflationary right now: its supply changes +1.96% over the ne
 
 ### What is the CRV inflation rate in 2026?
 
-About +7.71% a year: that is how much Curve DAO (CRV) supply changes over the next 12 months, with +1.96% in the next 90 days (checked Nov 5 2026). That puts CRV #33 of 100 coins we track for new supply (#1 = the most new supply).
+About +7.71% a year: that is how much Curve DAO (CRV) supply changes over the next 12 months, with +1.96% in the next 90 days (checked Nov 5 2026). That puts CRV #32 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next CRV token unlock?
 

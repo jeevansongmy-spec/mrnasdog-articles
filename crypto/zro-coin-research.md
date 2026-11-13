@@ -8,14 +8,14 @@ published:     true
 ---
 # Is LayerZero (ZRO) Inflationary? +17.57% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/zro, updated Nov 9 2026*
+*From https://mrnasdog.com/research/zro, updated Nov 13 2026*
 
 How much new ZRO is coming? **+17.57%** in the next 90 days, **+40.61%** in the next year — checked Nov 4 2026.
 
 - **Signal today:** negative for LayerZero
-- **MrNasDog score:** 3/10 — supply 0/5, demand 3/5
+- **MrNasDog score:** 3.5/10 — supply 0/5, demand 3.5/5
 - **New coins:** +17.57% in 90 days · +40.61% in a year
-- **Demand:** moderate (3/5)
+- **Demand:** strong (3.5/5)
 - **Drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## What could move LayerZero's price
@@ -64,7 +64,7 @@ LayerZero adds +17.57% new supply in the next 90 days and +40.61% over a year �
 
 ## Demand today
 
-Demand reads **moderate** (3/5), #32 of 109 coins we track — that is how much people want ZRO now and how much buying could still come.
+Demand reads **strong** (3.5/5), #18 of 109 coins we track — that is how much people want ZRO now and how much buying could still come.
 
 The members-only part of ZRO's demand section is not included.
 

@@ -8,11 +8,11 @@ published:     true
 ---
 # Injective (INJ) Tokenomics: +0.80% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/inj (checked Nov 9 2026)*
+*Originally published at https://mrnasdog.com/research/inj (checked Nov 13 2026)*
 
 As of Nov 4 2026, new Injective supply runs at **+0.80%** over 90 days and **+3.26%** over 12 months.
 
-- **Signal today:** mixed (Nov 9 2026)
+- **Signal today:** mixed (Nov 13 2026)
 - **MrNasDog score:** 6/10 — supply 2.5/5, demand 3.5/5
 - **New coins:** +0.80% in 90 days · +3.26% in a year
 - **Demand:** strong (3.5/5)
@@ -60,11 +60,11 @@ Keeps adding INJ → price up · Sells or gets liquidated → price down. Today:
 
 Injective pays stakers about 1.10M new INJ a quarter while a monthly BuyBack burns about 78K, so supply grows about 0.80% every 90 days.
 
-New INJ: +0.80% in 90 days, +3.26% in a year. Supply score 2.5/5, "moderate", #52 of 100 for new supply.
+New INJ: +0.80% in 90 days, +3.26% in a year. Supply score 2.5/5, "moderate", #51 of 100 for new supply.
 
 ## How strong is Injective demand?
 
-Injective demand: 3.5/5 (**strong**), place #23 among 109 coins — interest today plus the buying that could come later.
+Injective demand: 3.5/5 (**strong**), place #18 among 109 coins — interest today plus the buying that could come later.
 
 Members get the rest of the Injective demand read on mrnasdog.com.
 
@@ -76,7 +76,7 @@ Injective (INJ) is inflationary right now: its supply changes +0.80% over the ne
 
 ### What is the INJ inflation rate in 2026?
 
-About +3.26% a year: that is how much Injective (INJ) supply changes over the next 12 months, with +0.80% in the next 90 days (checked Nov 4 2026). That puts INJ #52 of 100 coins we track for new supply (#1 = the most new supply).
+About +3.26% a year: that is how much Injective (INJ) supply changes over the next 12 months, with +0.80% in the next 90 days (checked Nov 4 2026). That puts INJ #51 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next INJ token unlock?
 

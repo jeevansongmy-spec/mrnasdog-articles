@@ -8,11 +8,11 @@ published:     true
 ---
 # Aerodrome (AERO) Tokenomics: +8.50% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/aero (checked Nov 9 2026)*
+*Originally published at https://mrnasdog.com/research/aero (checked Nov 13 2026)*
 
 As of Nov 4 2026, new Aerodrome supply runs at **+8.50%** over 90 days and **+23.09%** over 12 months.
 
-- **Long-run signal:** mixed (Nov 9 2026)
+- **Long-run signal:** mixed (Nov 13 2026)
 - **Score:** 4.5/10 — supply 0.5/5, demand 4/5
 - **New supply:** +8.50% in 90 days · +23.09% in a year
 - **Demand:** strong (4/5)
@@ -92,9 +92,9 @@ In our count, about 91.2M new AERO reaches the market over the next 90 days (che
 
 About 734M AERO is in circulation (checked Nov 4 2026). Over the next 90 days that changes +8.50%, and over a year +23.09%.
 
-### Does AERO have more new supply than BLIFE, RAY or TIA?
+### Does AERO have more new supply than BLIFE, TIA or PENGU?
 
-Over the next 90 days (checked Nov 4 2026): AERO +8.50%, BLIFE 0.00%, RAY +0.23%, TIA +2.31%. AERO has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 4 2026): AERO +8.50%, BLIFE 0.00%, TIA +2.31%, PENGU +2.60%. AERO has the most new supply of these 4 coins.
 
 ## More on Aerodrome
 

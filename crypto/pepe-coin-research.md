@@ -1,6 +1,6 @@
 ---
 title:         "PEPE Supply & Demand: 0.00% Supply in 90 Days"
-description:   "PEPE supply changes 0.00% over the next 90 days and 0.00% over a year (checked Nov 2 2026)."
+description:   "PEPE supply changes 0.00% over the next 90 days and 0.00% over a year (checked Nov 11 2026)."
 canonical_url: "https://mrnasdog.com/research/pepe"
 content_type:  "coin_hub"
 tags:          ["crypto", "pepe", "pepe", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # PEPE Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/pepe · checked Nov 11 2026*
+*Live page: https://mrnasdog.com/research/pepe · checked Nov 13 2026*
 
-PEPE supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 2 2026).
+PEPE supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 11 2026).
 
 - **Signal today:** mixed (by the law of supply and demand)
 - **MrNasDog score:** 5/10 — supply 1.5/5, demand 3.5/5
@@ -22,41 +22,41 @@ PEPE supply changes **0.00%** over the next 90 days and **0.00%** over a year (c
 
 ### Is PEPE inflationary or deflationary?
 
-As of Nov 2 2026, PEPE supply moves 0.00% in 90 days and 0.00% in a year, so PEPE is about flat. What is created and what is removed roughly match.
+As of Nov 11 2026, PEPE supply moves 0.00% in 90 days and 0.00% in a year, so PEPE is about flat. What is created and what is removed roughly match.
 
 ### What is the PEPE inflation rate in 2026?
 
-PEPE supply shrinks 0.00% over the next 12 months and 0.00% over the next 90 days (checked Nov 2 2026).
+PEPE supply shrinks 0.00% over the next 12 months and 0.00% over the next 90 days (checked Nov 11 2026).
 
 ### When is the next PEPE token unlock?
 
-No dated PEPE unlock is scheduled in the next 90 days (checked Nov 2 2026).
+No dated PEPE unlock is scheduled in the next 90 days (checked Nov 11 2026).
 
 ### Is any PEPE burned or bought back?
 
-Not in a way that removes PEPE today: nothing takes PEPE off the market over the next 90 days (checked Nov 2 2026). Holders burned about 2.58B PEPE in 90 days, mostly sent to the token's own address where it can never move.
+Not in a way that removes PEPE today: nothing takes PEPE off the market over the next 90 days (checked Nov 11 2026). About 2.53B PEPE got locked by mistake in the token's own address and holders burned 5.34M in 90 days.
 
 ### Where does new PEPE supply come from?
 
-Almost no new PEPE reaches the market over the next 90 days (checked Nov 2 2026). No new PEPE can be made: all 420.69T were minted on launch day, with no vesting and no team unlocks.
+Almost no new PEPE reaches the market over the next 90 days (checked Nov 11 2026). No new PEPE can ever be made: no mint, no vesting, and the team wallet's 2.12T PEPE did not move.
 
 ### How much PEPE is in circulation?
 
-PEPE has about 421T coins in circulation as of Nov 2 2026; the next 90 days change that by 0.00% (0.00% over a year).
+PEPE has about 421T coins in circulation as of Nov 11 2026; the next 90 days change that by 0.00% (0.00% over a year).
 
 ### Does PEPE have more new supply than OKB, AAVE or M?
 
-Over the next 90 days (checked Nov 2 2026): PEPE 0.00%, OKB 0.00%, AAVE +0.12%, M +1.45%. PEPE sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 11 2026): PEPE 0.00%, OKB 0.00%, AAVE +0.12%, M +1.45%. PEPE sits in the middle of these 4 coins.
 
 ## Supply: how much new PEPE is coming
 
-Every PEPE already exists and the contract cannot make more; holders burn a sliver, so supply is flat.
+Pepe has a fixed 420.69T supply with no mint and no unlocks; the only coins leaving the market are ones holders lose or burn.
 
 Over the next 90 days PEPE supply changes 0.00%; across a full year, 0.00%. That puts supply at 1.5/5 (meme coin).
 
 ## Who wants Pepe right now
 
-People's appetite for Pepe is **strong**: 3.5/5, ranked #21 of 109.
+People's appetite for Pepe is **strong**: 3.5/5, ranked #18 of 109.
 
 A deeper PEPE demand breakdown is on the page for members.
 
@@ -77,11 +77,11 @@ Good for the price: ETF opens to buyers. Bad for it: ETF delayed or denied.
 | Oct 2 2026 | Filing updated for Cboe |
 | No date yet | ETF starts trading (coming) |
 
-*Checked Nov 2 2026*
+*Checked Nov 11 2026*
 
 ### • Top 10 wallets
 
-Ten wallets hold about 35% of PEPE; a Sun-linked one is #8.
+Ten wallets hold about 41% of PEPE; Sun-linked wallets ~3%.
 
 ▲ Price up if: Big wallets keep holding. ▼ Price down if: Big wallets sell.
 
@@ -89,8 +89,9 @@ Ten wallets hold about 35% of PEPE; a Sun-linked one is #8.
 |---|---|
 | Apr 2026 | Top 10 wallets 41% · Everyone else 59% |
 | Nov 2 2026 | Top 10 wallets 35.4% · Everyone else 64.6% |
+| Nov 11 2026 | Top 10 wallets 40.8% · Everyone else 59.2% |
 
-*Checked Nov 2 2026*
+*Checked Nov 11 2026*
 
 ## Next steps for PEPE
 

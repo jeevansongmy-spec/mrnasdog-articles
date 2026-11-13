@@ -8,11 +8,11 @@ published:     true
 ---
 # Jito (JTO) Tokenomics: +1.92% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/jto (checked Nov 9 2026)*
+*Originally published at https://mrnasdog.com/research/jto (checked Nov 13 2026)*
 
 As of Nov 7 2026, new Jito supply runs at **+1.92%** over 90 days and **+1.71%** over 12 months.
 
-- **Signal today:** mixed (Nov 9 2026)
+- **Signal today:** mixed (Nov 13 2026)
 - **MrNasDog score:** 4.5/10 — supply 1.5/5, demand 3/5
 - **New coins:** +1.92% in 90 days · +1.71% in a year
 - **Demand:** moderate (3/5)
@@ -22,11 +22,11 @@ As of Nov 7 2026, new Jito supply runs at **+1.92%** over 90 days and **+1.71%**
 
 Jito's JTO can never be minted, yet team and investor vesting grew the float 6.08% in 90 days; the last 11.15M unlocks by Dec 7 2026, while JTX fees and a new buyback took back 840K JTO.
 
-New JTO: +1.92% in 90 days, +1.71% in a year. Supply score 1.5/5, "heavy" (place 34 of 100).
+New JTO: +1.92% in 90 days, +1.71% in a year. Supply score 1.5/5, "heavy" (place 33 of 100).
 
 ## JTO demand
 
-Jito demand: 3/5 (**moderate**), place #32 among 109 coins — interest today plus the buying that could come later.
+Jito demand: 3/5 (**moderate**), place #34 among 109 coins — interest today plus the buying that could come later.
 
 Extra Jito demand detail for members stays on the live page.
 
@@ -45,7 +45,7 @@ Half the 2025 peak left; slipping again in the last 30 days.
 | Aug 31 2026 | 10.1 M SOL |
 | Sep 30 2026 | 10.4 M SOL |
 | Oct 31 2026 | 10.3 M SOL |
-| Nov 9 2026 | 10.4 M SOL |
+| Nov 13 2026 | 10.4 M SOL |
 
 *Checked Nov 7 2026*
 
@@ -88,7 +88,7 @@ Jito (JTO) is inflationary right now: its supply changes +1.92% over the next 90
 
 ### What is the JTO inflation rate in 2026?
 
-About +1.71% a year: that is how much Jito (JTO) supply changes over the next 12 months, with +1.92% in the next 90 days (checked Nov 7 2026). That puts JTO #34 of 100 coins we track for new supply (#1 = the most new supply).
+About +1.71% a year: that is how much Jito (JTO) supply changes over the next 12 months, with +1.92% in the next 90 days (checked Nov 7 2026). That puts JTO #33 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next JTO token unlock?
 
@@ -106,9 +106,9 @@ In our count, about 11.5M new JTO reaches the market over the next 90 days (chec
 
 About 541M JTO is in circulation (checked Nov 7 2026). Over the next 90 days that changes +1.92%, and over a year +1.71%.
 
-### Does JTO have more new supply than MON, SYRUP or PONS?
+### Does JTO have more new supply than MON, SYRUP or IMX?
 
-Over the next 90 days (checked Nov 7 2026): JTO +1.92%, MON +149.91%, SYRUP +0.82%, PONS −15.76%. JTO sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 7 2026): JTO +1.92%, MON +149.91%, SYRUP +0.82%, IMX +2.21%. JTO sits in the middle of these 4 coins.
 
 ## Next steps for JTO
 

@@ -8,7 +8,7 @@ published:     true
 ---
 # Helium (HNT) Supply & Demand: +9.48% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/hnt · checked Nov 9 2026*
+*Live page: https://mrnasdog.com/research/hnt · checked Nov 13 2026*
 
 Helium (HNT) supply changes **+9.48%** over the next 90 days and **+37.34%** over a year (checked Nov 4 2026).
 
@@ -62,7 +62,7 @@ Good for the price: Plan wins carriers. Bad for it: Plan stalls.
 
 ## How strong is Helium demand?
 
-People's appetite for Helium is **very low**: 0.5/5, ranked #98 of 109.
+People's appetite for Helium is **very low**: 0.5/5, ranked #100 of 109.
 
 Extra Helium demand detail for members stays on the live page.
 
@@ -92,9 +92,9 @@ In our count, about 19.6M new HNT reaches the market over the next 90 days (chec
 
 Helium (HNT) has about 200M coins in circulation as of Nov 4 2026; the next 90 days change that by +9.48% (+37.34% over a year).
 
-### Does HNT have more new supply than FORM or IMX?
+### Does HNT have more new supply than FORM or PONS?
 
-Over the next 90 days (checked Nov 4 2026): HNT +9.48%, FORM +0.01%, IMX +2.25%. HNT has the most new supply of these 3 coins.
+Over the next 90 days (checked Nov 4 2026): HNT +9.48%, FORM +0.01%, PONS −20.87%. HNT has the most new supply of these 3 coins.
 
 ## Next steps for HNT
 

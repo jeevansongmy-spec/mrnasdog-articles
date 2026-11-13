@@ -8,14 +8,14 @@ published:     true
 ---
 # Venice Token (VVV) Supply & Demand: +3.39% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/vvv · checked Nov 9 2026*
+*Live page: https://mrnasdog.com/research/vvv · checked Nov 13 2026*
 
 Venice Token (VVV) supply changes **+3.39%** over the next 90 days and **+6.40%** over a year (checked Nov 4 2026).
 
 - **Signal today:** mixed (by the law of supply and demand)
-- **MrNasDog score:** 5/10 — supply 1/5, demand 4/5
+- **MrNasDog score:** 4.5/10 — supply 1/5, demand 3.5/5
 - **New coins:** +3.39% in 90 days · +6.40% in a year
-- **Demand:** strong (4/5)
+- **Demand:** strong (3.5/5)
 - **Drivers:** 0 ▲ price up · 0 ▼ price down
 
 ## VVV price drivers
@@ -61,7 +61,7 @@ Over the next 90 days VVV supply changes +3.39%; across a full year, +6.40%. Tha
 
 ## Who wants Venice Token right now
 
-People's appetite for Venice Token is **strong**: 4/5, ranked #9 of 109.
+People's appetite for Venice Token is **strong**: 3.5/5, ranked #18 of 109.
 
 The members-only part of VVV's demand section is not included.
 
@@ -91,9 +91,9 @@ In our count, about 1.77M new VVV reaches the market over the next 90 days (chec
 
 Venice Token (VVV) has about 48.8M coins in circulation as of Nov 4 2026; the next 90 days change that by +3.39% (+6.40% over a year).
 
-### Does VVV have more new supply than ETC, ARB or KCS?
+### Does VVV have more new supply than JST, ETC or ARB?
 
-Over the next 90 days (checked Nov 4 2026): VVV +3.39%, ETC +0.59%, ARB +6.11%, KCS 0.00%. VVV sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 4 2026): VVV +3.39%, JST −1.22%, ETC +0.59%, ARB +6.11%. VVV sits in the middle of these 4 coins.
 
 ## More on Venice Token
 

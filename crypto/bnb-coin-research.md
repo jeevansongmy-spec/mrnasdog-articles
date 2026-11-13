@@ -8,14 +8,14 @@ published:     true
 ---
 # BNB Supply & Demand: −1.19% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/bnb · checked Nov 9 2026*
+*Live page: https://mrnasdog.com/research/bnb · checked Nov 13 2026*
 
 BNB supply changes **−1.19%** over the next 90 days and **−4.77%** over a year (checked Nov 8 2026).
 
 - **Signal:** positive (by the law of supply and demand)
-- **Score:** 9/10 — supply 5/5, demand 4/5
+- **Score:** 8.5/10 — supply 5/5, demand 3.5/5
 - **Supply growth:** −1.19% in 90 days · −4.77% in a year
-- **How much people want it:** strong (4/5)
+- **How much people want it:** strong (3.5/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## Supply — new BNB in the next 90 days
@@ -64,7 +64,7 @@ They hold more → price up · They sell → price down. Right now it points up.
 
 ## Demand: how much people want BNB
 
-People's appetite for BNB is **strong**: 4/5, ranked #9 of 109.
+People's appetite for BNB is **strong**: 3.5/5, ranked #18 of 109.
 
 The members-only part of BNB's demand section is not included.
 

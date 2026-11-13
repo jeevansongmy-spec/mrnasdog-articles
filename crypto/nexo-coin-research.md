@@ -8,7 +8,7 @@ published:     true
 ---
 # NEXO Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/nexo · checked Nov 9 2026*
+*Live page: https://mrnasdog.com/research/nexo · checked Nov 13 2026*
 
 NEXO supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 5 2026).
 
@@ -59,11 +59,11 @@ Case still fights over jurisdiction; no hearing date is public.
 
 NEXO is the Nexo app's loyalty token: a fixed 1B made in 2018, nothing new, nothing burned, so supply is flat. The thing to watch is the 835M Nexo still holds.
 
-Over the next 90 days NEXO supply changes 0.00%; across a full year, 0.00%. That puts supply at 4.5/5 (flat) (place 84 of 100).
+Over the next 90 days NEXO supply changes 0.00%; across a full year, 0.00%. That puts supply at 4.5/5 (flat) (place 83 of 100).
 
 ## Demand today
 
-People's appetite for Nexo is **low**: 1/5, ranked #93 of 109.
+People's appetite for Nexo is **low**: 1/5, ranked #92 of 109.
 
 A deeper NEXO demand breakdown is on the page for members.
 
@@ -75,7 +75,7 @@ As of Nov 5 2026, NEXO supply moves 0.00% in 90 days and 0.00% in a year, so NEX
 
 ### What is the NEXO inflation rate in 2026?
 
-NEXO supply grows 0.00% over the next 12 months and 0.00% over the next 90 days (checked Nov 5 2026). That puts NEXO #84 of 100 coins we track for new supply (#1 = the most new supply).
+NEXO supply grows 0.00% over the next 12 months and 0.00% over the next 90 days (checked Nov 5 2026). That puts NEXO #83 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next NEXO token unlock?
 

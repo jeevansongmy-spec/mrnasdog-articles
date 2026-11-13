@@ -8,7 +8,7 @@ published:     true
 ---
 # Is KITE Inflationary? +22.04% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/kite, updated Nov 9 2026*
+*From https://mrnasdog.com/research/kite, updated Nov 13 2026*
 
 How much new KITE is coming? **+22.04%** in the next 90 days, **+88.14%** in the next year — checked Nov 6 2026.
 
@@ -26,7 +26,7 @@ Kite adds +22.04% new supply in the next 90 days and +88.14% over a year — sup
 
 ## Demand today
 
-Demand reads **weak** (2/5), #63 of 109 coins we track — that is how much people want KITE now and how much buying could still come.
+Demand reads **weak** (2/5), #65 of 109 coins we track — that is how much people want KITE now and how much buying could still come.
 
 A deeper KITE demand breakdown is on the page for members.
 
@@ -45,7 +45,7 @@ Tens of thousands of transactions a day; over 3.7M since Dec 2025.
 | Nov 2 2026 | 66,338 txs |
 | Nov 3 2026 | 82,956 txs |
 | Nov 4 2026 | 81,932 txs |
-| Nov 9 2026 | 73,606 txs |
+| Nov 13 2026 | 41,496 txs |
 
 *Checked Nov 6 2026*
 

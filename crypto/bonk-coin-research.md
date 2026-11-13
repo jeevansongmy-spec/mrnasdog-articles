@@ -8,7 +8,7 @@ published:     true
 ---
 # BONK Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/bonk · checked Nov 9 2026*
+*Live page: https://mrnasdog.com/research/bonk · checked Nov 13 2026*
 
 BONK supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 7 2026).
 

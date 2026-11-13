@@ -8,11 +8,11 @@ published:     true
 ---
 # Filecoin (FIL) Tokenomics: +1.65% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/fil (checked Nov 9 2026)*
+*Originally published at https://mrnasdog.com/research/fil (checked Nov 13 2026)*
 
 As of Nov 4 2026, new Filecoin supply runs at **+1.65%** over 90 days and **+6.54%** over 12 months.
 
-- **Signal:** negative (Nov 9 2026)
+- **Signal:** negative (Nov 13 2026)
 - **Score:** 3.5/10 — supply 1.5/5, demand 2/5
 - **Supply growth:** +1.65% in 90 days · +6.54% in a year
 - **How much people want it:** weak (2/5)
@@ -22,11 +22,11 @@ As of Nov 4 2026, new Filecoin supply runs at **+1.65%** over 90 days and **+6.5
 
 Filecoin's launch unlocks are over, but block rewards and collateral returned by departing storage providers still grow FIL supply about 1.65% a quarter.
 
-New FIL: +1.65% in 90 days, +6.54% in a year. Supply score 1.5/5, "heavy", #36 of 100 for new supply.
+New FIL: +1.65% in 90 days, +6.54% in a year. Supply score 1.5/5, "heavy", #34 of 100 for new supply.
 
 ## Demand: how much people want FIL
 
-Filecoin demand: 2/5 (**weak**), place #63 among 109 coins — interest today plus the buying that could come later.
+Filecoin demand: 2/5 (**weak**), place #65 among 109 coins — interest today plus the buying that could come later.
 
 Extra Filecoin demand detail for members stays on the live page.
 
@@ -45,7 +45,7 @@ More data stored → price up · Storage keeps shrinking → price down. Now: �
 | Aug 31 2026 | 1.38 EiB |
 | Sep 27 2026 | 1.34 EiB |
 | Oct 31 2026 | 1.21 EiB |
-| Nov 9 2026 | 1.12 EiB |
+| Nov 13 2026 | 1.12 EiB |
 
 *Checked Nov 4 2026*
 
@@ -73,7 +73,7 @@ Filecoin (FIL) is inflationary right now: its supply changes +1.65% over the nex
 
 ### What is the FIL inflation rate in 2026?
 
-About +6.54% a year: that is how much Filecoin (FIL) supply changes over the next 12 months, with +1.65% in the next 90 days (checked Nov 4 2026). That puts FIL #36 of 100 coins we track for new supply (#1 = the most new supply).
+About +6.54% a year: that is how much Filecoin (FIL) supply changes over the next 12 months, with +1.65% in the next 90 days (checked Nov 4 2026). That puts FIL #34 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next FIL token unlock?
 

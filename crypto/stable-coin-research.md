@@ -8,7 +8,7 @@ published:     true
 ---
 # Is STABLE Inflationary? 0.00% Supply in 90 Days
 
-*From https://mrnasdog.com/research/stable, updated Nov 9 2026*
+*From https://mrnasdog.com/research/stable, updated Nov 13 2026*
 
 How much new STABLE is coming? **0.00%** in the next 90 days, **0.00%** in the next year — checked Nov 4 2026.
 
@@ -26,7 +26,7 @@ STABLE is flat, neither inflationary nor deflationary right now: its supply chan
 
 ### What is the STABLE inflation rate in 2026?
 
-About 0.00% a year: that is how much STABLE supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 4 2026). That puts STABLE #90 of 100 coins we track for new supply (#1 = the most new supply).
+About 0.00% a year: that is how much STABLE supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 4 2026). That puts STABLE #89 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next STABLE token unlock?
 
@@ -52,11 +52,11 @@ Over the next 90 days (checked Nov 4 2026): STABLE 0.00%, FLR +1.04%, PYTH 0.00%
 
 Stable charges gas in USDT0, so STABLE only stakes and governs. All 100B coins exist, 18.0B trade, and the 82B locked coins wait until Dec 8 2027.
 
-Stable adds 0.00% new supply in the next 90 days and 0.00% over a year — supply scores 4.5/5 (flat) (place 90 of 100).
+Stable adds 0.00% new supply in the next 90 days and 0.00% over a year — supply scores 4.5/5 (flat) (place 89 of 100).
 
 ## Who wants Stable right now
 
-Demand reads **very low** (0.5/5), #98 of 109 coins we track — that is how much people want STABLE now and how much buying could still come.
+Demand reads **very low** (0.5/5), #100 of 109 coins we track — that is how much people want STABLE now and how much buying could still come.
 
 A deeper STABLE demand breakdown is on the page for members.
 

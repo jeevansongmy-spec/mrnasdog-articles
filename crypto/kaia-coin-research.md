@@ -8,25 +8,25 @@ published:     true
 ---
 # KAIA Inflation Rate: +1.04% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/kaia — numbers checked Nov 9 2026*
+*Source: https://mrnasdog.com/research/kaia — numbers checked Nov 13 2026*
 
 **+1.04%** in 90 days, **+4.22%** in a year: that is how fast KAIA supply changes as of Nov 8 2026.
 
 - **Signal today:** negative — KAIA, read by supply and demand
-- **MrNasDog score:** 2.5/10 — supply 2/5, demand 0.5/5
+- **MrNasDog score:** 2/10 — supply 2/5, demand 0/5
 - **New coins:** +1.04% in 90 days · +4.22% in a year
-- **Demand:** very low (0.5/5)
+- **Demand:** minimal (0/5)
 - **Drivers:** 1 ▲ price up · 0 ▼ price down
 
 ## Supply: how much new KAIA is coming
 
 Kaia mints a fixed 9.6 KAIA a block with no cap. A new monthly burn of unearned rewards takes back about a tenth, so supply still grows about 1% a quarter.
 
-Expect +1.04% more KAIA in 90 days (+4.22% over the year). On supply alone Kaia gets 2/5 — growing (place 47 of 100).
+Expect +1.04% more KAIA in 90 days (+4.22% over the year). On supply alone Kaia gets 2/5 — growing (place 45 of 100).
 
 ## Demand: how much people want KAIA
 
-How much do people want KAIA? **very low** — 0.5 out of 5, #98 of 109.
+How much do people want KAIA? **minimal** — 0 out of 5, #108 of 109.
 
 Extra Kaia demand detail for members stays on the live page.
 
@@ -45,7 +45,7 @@ More dollar coins on Kaia → price up · Dollar coins leave → price down. Tod
 | Aug 31 2026 | $207M |
 | Sep 30 2026 | $242M |
 | Oct 31 2026 | $201M |
-| Nov 9 2026 | $206M |
+| Nov 13 2026 | $206M |
 
 *Checked Nov 8 2026*
 
@@ -93,7 +93,7 @@ As of Nov 8 2026, KAIA supply moves +1.04% in 90 days and +4.22% in a year, so K
 
 ### What is the KAIA inflation rate in 2026?
 
-KAIA supply grows +4.22% over the next 12 months and +1.04% over the next 90 days (checked Nov 8 2026). That puts KAIA #47 of 100 coins we track for new supply (#1 = the most new supply).
+KAIA supply grows +4.22% over the next 12 months and +1.04% over the next 90 days (checked Nov 8 2026). That puts KAIA #45 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next KAIA token unlock?
 

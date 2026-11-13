@@ -8,7 +8,7 @@ published:     true
 ---
 # SUN Supply & Demand: −0.04% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/sun · checked Nov 9 2026*
+*Live page: https://mrnasdog.com/research/sun · checked Nov 13 2026*
 
 SUN supply changes **−0.04%** over the next 90 days and **−0.16%** over a year (checked Nov 7 2026).
 
@@ -56,7 +56,7 @@ Over the next 90 days SUN supply changes −0.04%; across a full year, −0.16%.
 
 ## Demand today
 
-People's appetite for SUN is **weak**: 2/5, ranked #63 of 109.
+People's appetite for SUN is **weak**: 2/5, ranked #65 of 109.
 
 Members get the rest of the SUN demand read on mrnasdog.com.
 

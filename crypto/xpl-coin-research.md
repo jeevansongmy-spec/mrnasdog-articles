@@ -8,7 +8,7 @@ published:     true
 ---
 # Plasma (XPL) Inflation Rate: +14.35% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/xpl — numbers checked Nov 9 2026*
+*Source: https://mrnasdog.com/research/xpl — numbers checked Nov 13 2026*
 
 **+14.35%** in 90 days, **+57.41%** in a year: that is how fast Plasma (XPL) supply changes as of Nov 6 2026.
 
@@ -56,7 +56,7 @@ Expect +14.35% more XPL in 90 days (+57.41% over the year). On supply alone Plas
 
 ## Demand: how much people want XPL
 
-How much do people want XPL? **weak** — 2 out of 5, #63 of 109.
+How much do people want XPL? **weak** — 2 out of 5, #65 of 109.
 
 (Members see more XPL demand detail on the page; it is not repeated here.)
 
@@ -75,7 +75,7 @@ More dollars on Plasma → price up · Dollars leave Plasma → price down. Now:
 | Aug 31 2026 | $1.05B |
 | Sep 30 2026 | $1.45B |
 | Oct 31 2026 | $1.34B |
-| Nov 9 2026 | $1.5B |
+| Nov 13 2026 | $1.59B |
 
 *Checked Nov 6 2026*
 
@@ -90,7 +90,7 @@ Good for the price: Aave deposits grow. Bad for it: Aave deposits shrink. Today:
 | Aug 31 2026 | $0.509B |
 | Sep 30 2026 | $0.474B |
 | Oct 31 2026 | $0.426B |
-| Nov 9 2026 | $0.372B |
+| Nov 13 2026 | $0.352B |
 
 *Checked Nov 6 2026*
 

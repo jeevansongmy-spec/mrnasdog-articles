@@ -8,7 +8,7 @@ published:     true
 ---
 # Chainlink (LINK) Supply & Demand: +1.47% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/link · checked Nov 9 2026*
+*Live page: https://mrnasdog.com/research/link · checked Nov 13 2026*
 
 Chainlink (LINK) supply changes **+1.47%** over the next 90 days and **+9.13%** over a year (checked Nov 9 2026).
 
@@ -22,7 +22,7 @@ Chainlink (LINK) supply changes **+1.47%** over the next 90 days and **+9.13%** 
 
 Chainlink's LINK has a fixed 1B supply, but the team still holds back 233.15M and releases about 70M a year in four steps, so circulating supply grew 2.45% in 90 days.
 
-Over the next 90 days LINK supply changes +1.47%; across a full year, +9.13%. That puts supply at 1.5/5 (heavy) (place 37 of 100).
+Over the next 90 days LINK supply changes +1.47%; across a full year, +9.13%. That puts supply at 1.5/5 (heavy) (place 35 of 100).
 
 ## Demand: how much people want LINK
 
@@ -76,7 +76,7 @@ As of Nov 9 2026, Chainlink (LINK) supply moves +1.47% in 90 days and +9.13% in 
 
 ### What is the LINK inflation rate in 2026?
 
-Chainlink (LINK) supply grows +9.13% over the next 12 months and +1.47% over the next 90 days (checked Nov 9 2026). That puts LINK #37 of 100 coins we track for new supply (#1 = the most new supply).
+Chainlink (LINK) supply grows +9.13% over the next 12 months and +1.47% over the next 90 days (checked Nov 9 2026). That puts LINK #35 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next LINK token unlock?
 
@@ -94,9 +94,9 @@ In our count, about 11.3M new LINK reaches the market over the next 90 days (che
 
 Chainlink (LINK) has about 767M coins in circulation as of Nov 9 2026; the next 90 days change that by +1.47% (+9.13% over a year).
 
-### Does LINK have more new supply than LEO, ADA or NEAR?
+### Does LINK have more new supply than LEO, ADA or XLM?
 
-Over the next 90 days (checked Nov 9 2026): LINK +1.47%, LEO −0.06%, ADA +0.24%, NEAR +0.60%. LINK has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 9 2026): LINK +1.47%, LEO −0.06%, ADA +0.24%, XLM +2.52%. LINK sits in the middle of these 4 coins.
 
 ## Next steps for LINK
 

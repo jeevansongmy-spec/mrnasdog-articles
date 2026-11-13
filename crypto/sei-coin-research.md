@@ -8,11 +8,11 @@ published:     true
 ---
 # Sei Network (SEI) Tokenomics: +4.96% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/sei (checked Nov 9 2026)*
+*Originally published at https://mrnasdog.com/research/sei (checked Nov 13 2026)*
 
 As of Nov 5 2026, new Sei Network supply runs at **+4.96%** over 90 days and **+17.47%** over 12 months.
 
-- **Long-run signal:** negative (Nov 9 2026)
+- **Long-run signal:** negative (Nov 13 2026)
 - **Score:** 2/10 — supply 0.5/5, demand 1.5/5
 - **New supply:** +4.96% in 90 days · +17.47% in a year
 - **Demand:** very weak (1.5/5)
@@ -113,7 +113,7 @@ Dollars on Sei fell by about two thirds since Dec 31 2025.
 | Aug 31 2026 | $44.7M |
 | Sep 30 2026 | $48M |
 | Oct 31 2026 | $39.1M |
-| Nov 9 2026 | $37.4M |
+| Nov 13 2026 | $37.8M |
 
 *Checked Nov 5 2026*
 

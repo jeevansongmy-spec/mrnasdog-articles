@@ -8,11 +8,11 @@ published:     true
 ---
 # Aptos (APT) Tokenomics: +2.03% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/apt (checked Nov 9 2026)*
+*Originally published at https://mrnasdog.com/research/apt (checked Nov 13 2026)*
 
 As of Nov 4 2026, new Aptos supply runs at **+2.03%** over 90 days and **+8.15%** over 12 months.
 
-- **Signal today:** negative (Nov 9 2026)
+- **Signal today:** negative (Nov 13 2026)
 - **MrNasDog score:** 4/10 — supply 1.5/5, demand 2.5/5
 - **New coins:** +2.03% in 90 days · +8.15% in a year
 - **Demand:** modest (2.5/5)
@@ -22,7 +22,7 @@ As of Nov 4 2026, new Aptos supply runs at **+2.03%** over 90 days and **+8.15%*
 
 Aptos supply grew 4.33% in 90 days, mostly from monthly unlocks. The team and investor unlocks ended on Oct 12 2026, so the next 90 days should add about 2.03%.
 
-New APT: +2.03% in 90 days, +8.15% in a year. Supply score 1.5/5, "heavy" (place 32 of 100).
+New APT: +2.03% in 90 days, +8.15% in a year. Supply score 1.5/5, "heavy" (place 31 of 100).
 
 ## Demand today
 
@@ -45,7 +45,7 @@ Good for the price: More dollars on Aptos. Bad for it: Dollars leave Aptos. Righ
 | Aug 31 2026 | $732M | $208M |
 | Sep 30 2026 | $522M | $358M |
 | Oct 31 2026 | $377M | $246M |
-| Nov 9 2026 | $357M | $305M |
+| Nov 13 2026 | $387M | $343M |
 
 *Checked Nov 4 2026*
 
@@ -73,11 +73,11 @@ Aptos (APT) is inflationary right now: its supply changes +2.03% over the next 9
 
 ### What is the APT inflation rate in 2026?
 
-About +8.15% a year: that is how much Aptos (APT) supply changes over the next 12 months, with +2.03% in the next 90 days (checked Nov 4 2026). That puts APT #32 of 100 coins we track for new supply (#1 = the most new supply).
+About +8.15% a year: that is how much Aptos (APT) supply changes over the next 12 months, with +2.03% in the next 90 days (checked Nov 4 2026). That puts APT #31 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next APT token unlock?
 
-The next Aptos (APT) unlock we track is on Nov 11 2026: about 4.54M APT, 0.51% of the APT in circulation (November unlock: community + Foundation — Sell pressure). Checked Nov 4 2026.
+The next Aptos (APT) unlock we track is on Dec 11 2026: about 4.54M APT, 0.51% of the APT in circulation (December unlock: community + Foundation — Sell pressure). Checked Nov 4 2026.
 
 ### Does Aptos burn or buy back APT?
 

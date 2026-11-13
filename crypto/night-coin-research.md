@@ -8,21 +8,21 @@ published:     true
 ---
 # Midnight (NIGHT) Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/night · checked Nov 9 2026*
+*Live page: https://mrnasdog.com/research/night · checked Nov 13 2026*
 
 Midnight (NIGHT) supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 4 2026).
 
-- **Signal:** mixed (by the law of supply and demand)
-- **Score:** 6.5/10 — supply 4.5/5, demand 2/5
+- **Signal:** positive (by the law of supply and demand)
+- **Score:** 7/10 — supply 4.5/5, demand 2.5/5
 - **Supply growth:** 0.00% in 90 days · 0.00% in a year
-- **How much people want it:** weak (2/5)
+- **How much people want it:** modest (2.5/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## Supply — new NIGHT in the next 90 days
 
 Midnight's NIGHT is flat: all 24B exist, no new coins came out in 90 days, and the 6B Reserve has not started paying block producers.
 
-Over the next 90 days NIGHT supply changes 0.00%; across a full year, 0.00%. That puts supply at 4.5/5 (flat) (place 85 of 100).
+Over the next 90 days NIGHT supply changes 0.00%; across a full year, 0.00%. That puts supply at 4.5/5 (flat) (place 84 of 100).
 
 ## NIGHT price drivers the score does not count
 
@@ -67,7 +67,7 @@ Big promises come true → price up · Hype fades, goals slip → price down. To
 
 ## Who wants Midnight right now
 
-People's appetite for Midnight is **weak**: 2/5, ranked #63 of 109.
+People's appetite for Midnight is **modest**: 2.5/5, ranked #47 of 109.
 
 Members get the rest of the Midnight demand read on mrnasdog.com.
 
@@ -79,7 +79,7 @@ As of Nov 4 2026, Midnight (NIGHT) supply moves 0.00% in 90 days and 0.00% in a 
 
 ### What is the NIGHT inflation rate in 2026?
 
-Midnight (NIGHT) supply grows 0.00% over the next 12 months and 0.00% over the next 90 days (checked Nov 4 2026). That puts NIGHT #85 of 100 coins we track for new supply (#1 = the most new supply).
+Midnight (NIGHT) supply grows 0.00% over the next 12 months and 0.00% over the next 90 days (checked Nov 4 2026). That puts NIGHT #84 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next NIGHT token unlock?
 
