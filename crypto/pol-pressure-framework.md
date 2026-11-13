@@ -1,6 +1,6 @@
 ---
 title:         "POL Inflation Analysis · November 2026 · Mixed flows · supply roughly steady"
-description:   "POL supply is roughly steady: a 52.33M POL mint vs a 100M POL base-fee burn gave −0.45% in 90 days; next, an 85.93M burn from Dec 22 2026 means −0.32%."
+description:   "POL fell 0.45% in 90 days: 52.36M POL minted vs a 100M POL base-fee burn on Sep 23 2026. The next burn opens Dec 22 2026 with 85.93M POL waiting."
 canonical_url: "https://mrnasdog.com/research/pol/inflation"
 tags:          ["crypto", "pol", "polygon", "layer2"]
 published:     true
@@ -10,58 +10,60 @@ published:     true
 <!-- main-page -->
 The Polygon coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/pol](https://mrnasdog.com/research/pol). Below: supply, line by line.
 
-POL supply went down a little over the last 90 days: about **−0.45%** from Aug 6 to Nov 4 2026, with a further fall of about **−0.32%** lined up for the next 90 days. The 2% yearly mint added **52.33M POL**, while one big burn of saved base fees removed **100M POL** on Sep 23 2026. POL has no supply cap, no vesting and no buyback, and other trackers show about the same result, **−0.44%**.
+**POL** supply went down over the last 90 days, by about **0.45%**. Polygon mints about 2% of supply every year with no cap, but on Sep 23 2026 it burned a large pile of saved-up base fees for the first time. The mint added **52.36M POL**, the burn removed **100M POL**, and the next 90 days should end about **0.32%** lower again.
 
 ## The verdict, in one paragraph
 
-Net, POL supply fell by **47.67M POL** in 90 days, about **−0.45%** of the **10.64B POL** in circulation. Other trackers read **−0.44%** for the same stretch, a gap of less than a hundredth of a point, so the coin page carries no warning note. The label is mixed flows, with supply roughly steady: a steady trickle of new coins every day, and a large burn every 90 days that, for now, more than cancels it. The next burn can run from Dec 22 2026 and already has **85.93M POL** waiting, which would make the next 90 days about **−0.32%**.
+From Aug 15 to Nov 13 2026 POL supply fell by **0.45%**, and the other trackers we compare against show **−0.44%** for the same stretch, so the two readings agree and the coin page carries no warning note. The fall comes from one event, not from a steady trend: without the Sep 23 2026 burn, supply would have grown about half a percent, as it does every quarter. For the next 90 days we expect about **−0.32%**, because a second burn opens on Dec 22 2026 with **85.93M POL** already waiting. Both moves are small, so the label is mixed flows, with supply roughly steady and leaning down for now.
 
 ## Sell pressure: where new POL comes from
 
-**1. Protocol inflation.** The POL token contract mints new coins once a day at a 2% yearly rate that compounds. From Aug 6 to Nov 4 2026 that added **52.33M POL**, close to **581K POL** a day. Half of each day's mint goes to the staking contract, which pays validators and the people who delegate to them, and half goes to the Community Treasury. Because the rate compounds on a growing base, the amount per day creeps up slowly, but the next 90 days should look almost the same.
+**Protocol inflation** is the only real source of new POL. Once a day, just after midnight UTC, the POL contract on Ethereum creates fresh coins, at a pace of about 2% of supply a year. Over the 90 days to Nov 13 2026 that came to **52,357,895 POL**, close to 582K a day, and the amount per day creeps up a little as supply grows. Half of each mint goes to the staking contract that pays Polygon validators and the people who stake with them, and half goes to the Community Treasury, which funds grants for builders.
 
-**2. Vesting unlocks.** Zero. POL replaced MATIC one for one in September 2024 with a 10B starting supply, and none of it was locked for a team or investors, so no unlock date is waiting.
+**Vesting unlocks** add nothing. POL took over from MATIC one for one in 2024, and every MATIC had long been unlocked, so there is no team or investor batch with a date on it.
 
-**3. Foundation and unscheduled unlocks.** Zero. Every POL wallet, including the treasury and the fee wallets, already counts as circulating, so when these wallets move or spend POL, no new coins appear in the count.
+**Foundation and unscheduled unlocks** book zero. The treasury moved a lot of POL this quarter, but every one of those coins was already counted as circulating, so moving it does not add supply.
 
-**4. Long-term locked or bankruptcy.** Zero. No court case or failed company is sitting on POL that must be paid out. The **370.24M POL** set aside for MATIC holders who have not switched yet already counts as circulating.
+**Long-term locked or bankruptcy** also books zero. About **70.49M POL** stolen in the Polymarket and Binance hacks of Oct 29 and Oct 30 2026 is frozen, and a proposal would return it to the two firms. Those coins were already circulating before the hacks, so handing them back changes nothing in the count.
 
 ## Buy pressure: where new POL goes
 
-**1. Programmatic buyback.** Zero. No contract buys POL on the market today. A draft plan would turn income from a Polygon payments program into POL buybacks, part for stakers and part for the burn, but it is still a draft. A community call in 2025 to end the 2% mint and fund buybacks never reached a vote.
+**Protocol fee burn** is the one way POL leaves supply. Every transaction on Polygon pays a base fee, and those fees collect in a single wallet on the chain. Since this autumn a contract lets anyone burn up to **100M POL** from that wallet once every 90 days. The first burn ran on Sep 23 2026: the coins crossed the bridge back to Ethereum and landed in a dead address, **100,000,002 POL** in all once a few small test sends are added. The next burn opens on Dec 22 2026. The wallet already holds **85.93M POL** for it, and that is the amount we count for the next 90 days. If more fees are swept in first, the burn could reach the 100M limit.
 
-**2. Protocol fee burn.** **100M POL** in the last 90 days. Each Polygon transaction pays a base fee in POL. Since early 2026 those fees are not destroyed at once: they collect in a fee wallet, part of them pays back gas for some AI-agent payment apps under a program that runs until Dec 31 2026, and the rest goes to a burn wallet. Anyone can trigger that burn wallet, and each time it sends up to **100M POL** to a dead address, at most once every 90 days. The first burn went through on Sep 23 2026. On Oct 30 2026 the fee wallet topped the burn wallet up to **85.93M POL**, and the next burn opens on Dec 22 2026, so we book that amount for the next 90 days.
+**Programmatic buyback** books zero. No program buys POL back today. A draft plan would turn fiat payment revenue into POL purchases for stakers and for the burn, but it has not been approved.
 
-**3. Foundation buy.** Zero. Neither the Polygon Foundation nor Polygon Labs buys POL off the market. Fund and exchange buying moves coins that already circulate.
+**Foundation buy** books zero, since no Polygon body bought POL from the market in the window.
 
-**4. New long-term lock.** Zero. Staked POL still counts as circulating. The Community Treasury staked **100.7M POL** on Oct 14 2026, and a one-off reward boost pays **27.33M POL** of saved transaction tips to stakers from Oct 1 to Dec 1 2026. Both move coins that already exist, so neither changes the count.
+**New long-term lock** books zero as well. Staked POL still counts as circulating, so the **3.94B POL** in the staking contract does not shrink supply, and neither did the 100.7M added on Oct 14 2026.
 
 ## Foundation and overhang
 
-The Community Treasury on Ethereum holds **6.14M POL**, down from **80.38M POL** on Aug 6 2026, after it staked **100.7M POL** on Oct 14 2026. The treasury keeps receiving half of each day's mint, about **290K POL** a day. The burn wallet on Polygon holds **85.93M POL** for the Dec 22 2026 burn, and the fee wallet that feeds it holds **5.90M POL** and grows by roughly half a million POL a day. The Polygon Foundation and Polygon Labs have not published a list of their own wallets, so their balances stay unknown. All of these coins already count as circulating: if they are sold, the price can feel it, but the supply count does not change.
+The **Community Treasury** receives half of every mint, about 291K POL a day. On Oct 14 2026 it sent **100.7M POL** to a treasury multisig, which staked all of it the same day, and on Nov 10 2026 it sent the multisig another 7.88M. That left the treasury itself with only about **874.69K POL** on Nov 13 2026, while the multisig still holds about 7.88M unstaked.
 
-## How POL compares to other Ethereum scaling chains
+The **base-fee collector** holds **85.93M POL** that can only leave through the next burn, and the fee wallet in front of it holds about **8.93M POL**. Part of that wallet pays back gas for some payment apps under a program that runs to Dec 31 2026, and the rest moves on to the collector. All of these balances already count as circulating, so none of them can add new supply. They only show where the next sales or burns would come from.
 
-Most tokens of Ethereum scaling chains, such as Arbitrum and Optimism, have no regular mint and no fee burn. Their supply grows when locked team and investor coins unlock on a calendar, often in large monthly steps. POL works the other way round: there is no unlock calendar at all, a small mint arrives every day, and the network's own fees take coins out of supply. That makes POL closer to a proof-of-stake base chain such as Ethereum, where validators are paid in new coins and fees are burned.
+## How POL compares to other proof-of-stake networks
 
-The difference from Ethereum is timing. Ethereum burns fees in every block, so its burn is smooth. Polygon saves its base fees and burns them in one batch every 90 days at most, so its supply line rises steadily for three months and then drops in a single step. That is why a 90-day reading of POL depends a lot on whether a burn falls inside the window.
+Most proof-of-stake networks pay validators in new coins, and many burn part of their fees. Ethereum burns its base fee in every block, so the burn shows up as a smooth, steady flow. Polygon does it differently: it saves the base fee up and burns it in one large batch every 90 days. That makes POL supply move in steps. For about 89 days of each quarter it grows by the mint, and on burn day it drops by up to 100M at once.
+
+The other difference is where the mint goes. On many networks all new coins go to stakers. On Polygon half goes to a treasury that spends it on grants and other uses. So even when fees are low, a steady stream of new coins reaches people who may sell them.
 
 ## What to watch in the next 90 days
 
-**Dec 1 2026: the staking reward boost ends.** The one-off payout of **27.33M POL** in saved tips ends and the staking reward returns to its normal level. It moves existing coins, so supply is not affected, but stakers will see lower rewards.
+**Dec 22 2026**: the second burn opens. Anyone can call it, and it should remove between 85.93M and 100M POL. If no one calls it, the count for the next 90 days would turn into growth.
 
-**Dec 22 2026: the next burn opens.** Anyone can then burn up to **100M POL** from the burn wallet. It holds **85.93M POL** today; if the fee wallet tops it up again first, the burn could be bigger, and if nobody calls it, it waits.
+**Dec 31 2026**: the gas pay-back program for payment apps is set to end. After that, all base fees should flow on to the burn collector.
 
-**Dec 31 2026: the gas payback program ends.** After that, more of the base fees should flow to the burn instead of paying back gas for AI-agent payment apps, unless a new proposal extends it.
+**The stolen-POL return**: a network upgrade proposed on Nov 4 2026 would move 70.49M frozen POL back to Polymarket and Binance. It changes who holds the coins, not how many exist, but those two firms could sell them.
 
-**Any date: the payments buyback draft.** If the draft plan to buy POL with payments income is approved, it would add a new buy row for the first time.
+**New fee plans**: a payments growth program proposed on Nov 5 2026 would pay base fees back to large payment apps. If it passes, less would reach the burn and future burns would shrink.
 
 ## Summary
 
-POL supply fell about **−0.45%** in the 90 days to Nov 4 2026, and other trackers agree closely at **−0.44%**.
+POL supply fell **0.45%** over the 90 days to Nov 13 2026, because the first base-fee burn removed **100M POL** while the mint added **52.36M POL**.
 
-The 2% yearly mint added **52.33M POL**, split between stakers and the Community Treasury, and a single base-fee burn on Sep 23 2026 removed **100M POL**.
+The mint runs at about 2% a year with no cap, half to stakers and half to the Community Treasury, and nothing vests.
 
-POL has no vesting, no buyback and no supply cap, and all treasury and fee wallets already count as circulating.
+The next burn opens on Dec 22 2026 with **85.93M POL** already set aside, so we expect supply to fall about **0.32%** in the next 90 days.
 
-With **85.93M POL** waiting for a burn that opens on Dec 22 2026, supply is set to fall about **−0.32%** over the next 90 days.
+Over a full year, POL only shrinks if the burns keep up with the mint, so the size of each quarterly burn is the number to follow.

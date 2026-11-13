@@ -64,7 +64,7 @@ Good for the price: Payments wins lift POL. Bad for it: Value skips POL holders.
 
 ## Demand today
 
-Polygon demand: 2.5/5 (**modest**), place #47 among 109 coins — interest today plus the buying that could come later.
+Polygon demand: 2.5/5 (**modest**), place #46 among 109 coins — interest today plus the buying that could come later.
 
 Extra Polygon demand detail for members stays on the live page.
 

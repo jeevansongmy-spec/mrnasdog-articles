@@ -1,6 +1,6 @@
 ---
 title: "PI Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
-description: "PI is inflationary: 338.31M mined PI moved to the main chain and 136.03M let out by team and reserve wallets give +4.16% in 90 days. Fees take back 2.61M."
+description: "PI is inflationary: 337.85M mined PI reached the main chain and team and reserve wallets sent 144.42M to exchanges, +4.21% in 90 days. Fees took 2.81M."
 canonical_url: "https://mrnasdog.com/research/pi/inflation"
 tags: ["crypto", "pi", "pinetwork", "layer1"]
 published: true
@@ -12,60 +12,60 @@ This is the long supply read. For the signal, the price drivers and the question
 
 # PI Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 
-PI supply is growing, and it should keep growing. All **100B** PI were created at the start, so nothing new is minted; instead coins reach the market when Pioneers move mined PI to the main chain and when team and reserve wallets let coins out. From Aug 6 to Nov 4 2026 that came to **474.34M PI** in, against only **2.61M PI** taken out by fees, for a net rise of **+4.16%** in 90 days. Other trackers show **+3.09%**, because they only count the mined coins.
+PI supply is growing, and fast for a coin of its size. Every PI ever planned, **100B**, was created on the first day, so new supply means coins leaving locked-up pools for people who can sell them. Over the 90 days to Nov 13 2026 about **337.85M** mined PI reached the main chain, and Core Team, Foundation and liquidity-reserve wallets sent another **144.42M** to exchange wallets, while fees took only **2.81M** out of use. Net, supply grew about **+4.21%**, against **+3.08%** on other trackers.
 
 ## The verdict, in one paragraph
 
-Pi Network's circulating supply rose by a net **471.73M PI** in the 90 days to Nov 4 2026, which is **+4.16%** on today's **11.34B PI**. We expect about the same pace in the next 90 days, since every source of new PI runs on a steady or monthly rhythm. Other trackers read **+3.09%**, a gap of about **1.07 points**, so the coin page carries a warning note. The difference is the **136.03M PI** that left Core Team, Foundation and liquidity-reserve wallets for outside wallets: those coins can be sold like any other, but the common circulating figure for PI only counts mined coins. Our label is clear: PI is inflationary, and it is one of the faster-growing supplies we track.
+Pi Network's counted supply rose about **+4.21%** in the 90 days to Nov 13 2026, and the next 90 days look the same, because nothing in how PI reaches the market has changed. Other trackers show **+3.08%**, a gap of about 1.13 points. The difference is real: those trackers only count PI that Pioneers mined and moved to the main chain, while we also count the 144.42M PI that team and reserve wallets sent to exchanges in the same window. The coin page carries a warning note that explains this. Our label: supply growing, and projected to keep growing.
 
 ## Sell pressure: where new PI comes from
 
-**Protocol inflation.** The biggest source is mining. Pioneers earn PI in the app, pass identity checks, and then move their balance to the main chain. That added **338.31M PI** from Aug 6 to Nov 4 2026, close to **3.76M** a day. The pace slowed to about **2.57M** a day after Sep 25 2026, but the Sep 17 2026 identity-check fixes cleared the way for more than 900,000 Pioneers, so it could pick up again. The mining pot still holds **48.65B PI**, so this flow has years left in it.
+The largest source is mining. Pioneers mine PI on their phones, but those coins only count once the Pioneer passes an identity check and moves the balance to the main chain. Between Aug 14 and Nov 13 2026 that added **342.49M PI**, or about **337.85M** per 90 days, close to 3.75M a day. The pace swings: it ran near 4.75M a day from Aug 14 to Sep 25 and near 2.89M a day after that.
 
-**Vesting unlocks.** The Core Team's **20B PI** was split into about 10,000 wallets of 2M each, which together still hold **17.75B PI**. On Aug 6, Sep 3, Oct 20 and Oct 25 2026 a few of them sent **56.33M PI** to 35 new wallets, and **20.97M PI** of that has already moved on to outside wallets. The Pioneers' own time-locked coins that open each day do not count here, because they were already part of the circulating figure.
+Some Pioneers lock their coins for two weeks to three years to mine faster. Those locked coins count as circulating from the day they arrive, so when a lock ends nothing new is added. About **6.04B PI** was still locked on Nov 13 2026, down from 6.17B on Aug 14.
 
-**Foundation and unscheduled unlocks.** The liquidity reserve sent **150M PI** to a payout wallet, 50M on Sep 3 and 100M on Oct 21 2026. That wallet then paid **100.97M PI** into one busy outside wallet in small payments, about 1.1M a day. The Foundation passed another **14.08M PI** to outside wallets in monthly batches. Together that is **115.06M PI**.
+The second source is the Core Team. The Pi white paper gives the Core Team 20% of all PI and says its share unlocks as the community mines more. The Core Team holds **17.75B PI** in 10,000 wallets of about 2M each. In this window those wallets passed 42.43M PI to helper wallets in batches on Sep 3, Sep 25, Oct 20 and Oct 25 2026, and **31.94M PI** of the Core Team's coins reached exchange wallets.
 
-**Long-term locked or bankruptcy.** Nothing. There is no court estate or bankruptcy pile of PI waiting to be paid out.
+The third source is the Foundation and the liquidity reserve. The liquidity reserve moved 150M PI to a trading wallet in two tranches, and **100.40M** of it reached an exchange wallet by Nov 13 2026. The Foundation sent 12M PI to exchange wallets through a relay wallet and paid 85K PI in small grants. Together that is **112.48M PI**. No court case or failed company holds PI waiting to be paid out, so the fourth sell row is zero.
 
 ## Buy pressure: where new PI goes
 
-**Programmatic buyback.** None. Pi Network has no buyback and has announced none.
+Very little PI leaves the market. Each transaction pays a small fee, and Pi Network's fees go into a fee pool that no one can spend. The pool grew by **2.81M PI** between Aug 15 and Nov 13 2026, about 31K a day, and now holds 12.78M PI. That is less than 1% of the new supply in the same window.
 
-**Protocol fee burn.** Every transaction fee goes into a pool on the chain that nobody can spend. That pool grew by **2.61M PI** between Aug 6 and Nov 4 2026, close to 29,000 PI a day. It is real, but it cancels less than 1% of the new supply.
-
-**Foundation buy.** None. Pi's venture arm put money into a robotics startup, reported on Oct 28 2026, but that is an investment in a company, not a purchase of PI on the market.
-
-**New long-term lock.** Nothing taken out. Pioneers who lock PI for longer still count as circulating, and the token launchpad that would lock PI inside trading pools is still on the test network.
+Nobody buys PI back. The Pi team has announced no buyback, and money from apps and domain sales is not used to take coins off the market. The Foundation and the Core Team sell PI rather than buy it. The hackathon prize that starts on Nov 19 2026 is 200,000 USDT, a stablecoin, so it does not create buying of PI. New locks by Pioneers also remove nothing, because locked PI already counts as circulating.
 
 ## Foundation and overhang
 
-A lot of PI sits in project wallets that could reach the market later. The mining pot holds **48.65B PI**, and a second mining wallet holds **4.67B PI**; both feed future migration. The Core Team's genesis wallets hold **17.75B PI**, and its 35 newer wallets hold another **39.13M PI** that has not moved on yet. The Foundation's main wallet holds **9.50B PI**, with about **447M PI** more in five smaller Foundation wallets. The liquidity reserve holds **4.00B PI** in its main wallet and **772M PI** in a second one, and its payout wallet has **66.91M PI** ready to go out. On top of that, about **6.05B PI** of Pioneer coins are still time-locked, though those are already counted as circulating.
+Most PI is still sitting in wallets the project controls, and that is the biggest risk for holders. The mining pool that pays Pioneers holds **48.65B PI** in its main wallet and another 4.67B in a second wallet, plus 253.71M in the wallet that funds payouts. Those coins are meant for Pioneers and will enter circulation as more people pass identity checks.
 
-## How PI compares to other pre-minted Layer 1 chains
+The Core Team holds **17.75B PI** across its 10,000 wallets, with about 43.3M more already passed to helper wallets and ready to go. The Foundation holds **9.95B PI**, most of it in one 9.5B wallet. The liquidity reserve holds **4.83B PI**, of which 56.05M already waits in its trading wallet. None of these wallets follows a published calendar, so any month can bring a new batch.
 
-Pi Network looks most like the older chains that created their whole supply on day one and hand it out over time. XRP works this way, with a large company stash released in steps, and Stellar, whose code Pi's chain is built on, sends fees into the same kind of unspendable pool. What makes PI different is the size and spread of the handout: the mined coins arrive from millions of Pioneers every day, while mining, team, Foundation and reserve wallets together hold more than seven times today's circulating supply. Chains that pay validators in new coins, like Ethereum, at least burn part of every fee. On Pi Network the fee pool is too small to matter, so nearly every new PI stays in the market.
+## How PI compares to other Layer 1 chains with a pre-created supply
+
+PI works like the few chains that created every coin at launch and hand them out over time, rather than chains that pay validators new coins. Stellar, the network Pi's software comes from, also created its whole supply at the start and released it through a foundation, but Stellar's foundation burned more than half of its stock in 2019, which cut its overhang for good. Pi has made no such cut.
+
+XRP is another pre-created coin, and Ripple releases it from an escrow on a fixed monthly schedule that anyone can check. Pi Network's releases have no such calendar: mined coins arrive as identity checks finish, and team and reserve wallets move coins in batches with no dates announced. Proof-of-stake chains like Ethereum add new coins at a steady rate set by the protocol, so their supply is easier to forecast than PI's. Among chains that unlock a pre-created stock, PI sits near the top for how much new supply it adds each quarter.
 
 ## What to watch in the next 90 days
 
-**Nov 17–19 2026, the first Pi Ecosystem Summit.** It is an online event for apps and builders. No supply news has been announced for it, but any change to migration, lockups or the reserves would move these numbers.
+**Nov 17 to Nov 19 2026:** the first Pi Ecosystem Summit runs online, with developer tools on Nov 17 and AI on Nov 18. It does not change supply, but any app that needs PI to work would add a reason to hold it.
 
-**Late November 2026, the next monthly batch.** The Core Team and Foundation have let coins out on similar dates each month, most recently on Oct 20 and Oct 25 2026. Another batch of a similar size would keep the vesting and Foundation flows on pace.
+**Nov 19 2026:** the Pi Next hackathon opens with a 200,000 USDT prize pool. The prize is paid in a stablecoin, so it brings builders but no direct buying of PI.
 
-**Early January 2027, the payout wallet runs dry.** At about 1.1M PI a day, the **66.91M PI** now in the liquidity payout wallet would be gone around then. A new top-up from the reserve would extend the flow; no top-up would slow it.
+**Late November to December 2026:** the next Core Team batch. Batches came on Sep 3, Sep 25, Oct 20 and Oct 25 2026, so another one before the end of the year would fit the pattern, and about 43.3M PI already sits in helper wallets.
 
-**Through Feb 2 2027, the migration pace.** If the Pioneers cleared in September finish their checks, migration could climb back above 3.76M PI a day and push the next 90 days higher than the last.
+**Through Feb 11 2027:** the liquidity reserve's 56.05M PI waiting in its trading wallet, and the pace of mined PI reaching the chain. The Sep 17 2026 identity-check fixes cleared the way for more than 900,000 Pioneers, which could push the mining number above 3.75M a day.
 
 ## Summary
 
-PI supply grew a net **+4.16%** from Aug 6 to Nov 4 2026, and we expect about the same over the next 90 days.
+Pi Network's supply grew about **+4.21%** in the 90 days to Nov 13 2026, and the next 90 days look about the same.
 
-Mined coins moved to the main chain added **338.31M PI**, and Core Team, Foundation and reserve wallets let out another **136.03M PI**.
+About 337.85M mined PI reached the main chain, and Core Team, Foundation and liquidity-reserve wallets sent another 144.42M PI to exchange wallets.
 
-Only **2.61M PI** left through fees, and there is no buyback, so almost nothing offsets the new supply.
+Only 2.81M PI left use through fees, and Pi Network has no buyback and no burn.
 
-Other trackers show **+3.09%** because they count only mined coins, so the coin page carries a warning note about that gap.
+More than 80B PI still sits in wallets the project controls, so the flow of new PI is set to continue for years.
 
 ---
 
-*MrNasDog Pressure Framework analysis of PI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 4 2026.*
+*MrNasDog Pressure Framework analysis of PI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 13 2026.*

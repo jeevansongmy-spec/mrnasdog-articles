@@ -66,7 +66,7 @@ New ATOM: +3.18% in 90 days, +13.53% in a year. Supply score 1/5, "very heavy" (
 
 ## Demand today
 
-Cosmos Hub demand: 2.5/5 (**modest**), place #47 among 109 coins — interest today plus the buying that could come later.
+Cosmos Hub demand: 2.5/5 (**modest**), place #46 among 109 coins — interest today plus the buying that could come later.
 
 Members get the rest of the Cosmos Hub demand read on mrnasdog.com.
 

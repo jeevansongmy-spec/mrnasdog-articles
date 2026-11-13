@@ -62,7 +62,7 @@ Kaspa adds +0.52% new supply in the next 90 days and +1.64% over a year — supp
 
 ## Demand: how much people want KAS
 
-Demand reads **moderate** (3/5), #34 of 109 coins we track — that is how much people want KAS now and how much buying could still come.
+Demand reads **moderate** (3/5), #35 of 109 coins we track — that is how much people want KAS now and how much buying could still come.
 
 The members-only part of KAS's demand section is not included.
 

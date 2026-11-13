@@ -67,7 +67,7 @@ Big promises come true → price up · Hype fades, goals slip → price down. To
 
 ## Who wants Midnight right now
 
-People's appetite for Midnight is **modest**: 2.5/5, ranked #47 of 109.
+People's appetite for Midnight is **modest**: 2.5/5, ranked #46 of 109.
 
 Members get the rest of the Midnight demand read on mrnasdog.com.
 
