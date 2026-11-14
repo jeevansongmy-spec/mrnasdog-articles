@@ -8,7 +8,7 @@ published:     true
 *Originally published at [https://mrnasdog.com/research/dash/inflation](https://mrnasdog.com/research/dash/inflation)*
 
 <!-- main-page -->
-➜ Start with the Dash coin page for the short answer and its price drivers: [mrnasdog.com/research/dash](https://mrnasdog.com/research/dash)
+The Dash coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/dash](https://mrnasdog.com/research/dash). Below: supply, line by line.
 
 # DASH Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 

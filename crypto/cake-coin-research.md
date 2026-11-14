@@ -8,7 +8,7 @@ published:     true
 ---
 # PancakeSwap (CAKE) Supply & Demand: −1.64% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/cake · checked Nov 13 2026*
+*Live page: https://mrnasdog.com/research/cake · checked Nov 14 2026*
 
 PancakeSwap (CAKE) supply changes **−1.64%** over the next 90 days and **−6.56%** over a year (checked Nov 4 2026).
 
@@ -92,9 +92,9 @@ In our count, about 1.78M new CAKE reaches the market over the next 90 days (che
 
 PancakeSwap (CAKE) has about 328M coins in circulation as of Nov 4 2026; the next 90 days change that by −1.64% (−6.56% over a year).
 
-### Does CAKE have more new supply than NIGHT, STX or XDC?
+### Does CAKE have more new supply than FIL, STX or ZRO?
 
-Over the next 90 days (checked Nov 4 2026): CAKE −1.64%, NIGHT 0.00%, STX +1.27%, XDC +0.09%. CAKE has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 4 2026): CAKE −1.64%, FIL +1.65%, STX +1.27%, ZRO +17.56%. CAKE has the least new supply of these 4 coins.
 
 ## Go deeper on PancakeSwap
 

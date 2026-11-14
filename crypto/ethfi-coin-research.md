@@ -8,7 +8,7 @@ published:     true
 ---
 # ether.fi (ETHFI) Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/ethfi · checked Nov 13 2026*
+*Live page: https://mrnasdog.com/research/ethfi · checked Nov 14 2026*
 
 ether.fi (ETHFI) supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 4 2026).
 
@@ -60,7 +60,7 @@ Good for the price: More money in Cash. Bad for it: Users pull money. Now: ▲ u
 | Aug 31 2026 | $203M |
 | Sep 30 2026 | $242M |
 | Oct 31 2026 | $242M |
-| Nov 13 2026 | $232M |
+| Nov 14 2026 | $229M |
 
 *Checked Nov 4 2026*
 

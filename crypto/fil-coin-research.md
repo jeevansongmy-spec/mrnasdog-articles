@@ -8,11 +8,11 @@ published:     true
 ---
 # Filecoin (FIL) Tokenomics: +1.65% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/fil (checked Nov 13 2026)*
+*Originally published at https://mrnasdog.com/research/fil (checked Nov 14 2026)*
 
 As of Nov 4 2026, new Filecoin supply runs at **+1.65%** over 90 days and **+6.54%** over 12 months.
 
-- **Signal:** negative (Nov 13 2026)
+- **Signal:** negative (Nov 14 2026)
 - **Score:** 3.5/10 — supply 1.5/5, demand 2/5
 - **Supply growth:** +1.65% in 90 days · +6.54% in a year
 - **How much people want it:** weak (2/5)
@@ -45,7 +45,7 @@ More data stored → price up · Storage keeps shrinking → price down. Now: �
 | Aug 31 2026 | 1.38 EiB |
 | Sep 27 2026 | 1.34 EiB |
 | Oct 31 2026 | 1.21 EiB |
-| Nov 13 2026 | 1.12 EiB |
+| Nov 14 2026 | 1.11 EiB |
 
 *Checked Nov 4 2026*
 
@@ -91,9 +91,9 @@ In our count, about 14.2M new FIL reaches the market over the next 90 days (chec
 
 About 844M FIL is in circulation (checked Nov 4 2026). Over the next 90 days that changes +1.65%, and over a year +6.54%.
 
-### Does FIL have more new supply than NEXO, ZRO or NIGHT?
+### Does FIL have more new supply than NEXO, CAKE or STX?
 
-Over the next 90 days (checked Nov 4 2026): FIL +1.65%, NEXO 0.00%, ZRO +17.57%, NIGHT 0.00%. FIL sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 4 2026): FIL +1.65%, NEXO 0.00%, CAKE −1.64%, STX +1.27%. FIL has the most new supply of these 4 coins.
 
 ## Go deeper on Filecoin
 

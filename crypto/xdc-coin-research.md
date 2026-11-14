@@ -8,7 +8,7 @@ published:     true
 ---
 # Is XDC Network (XDC) Inflationary? +0.09% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/xdc, updated Nov 13 2026*
+*From https://mrnasdog.com/research/xdc, updated Nov 14 2026*
 
 How much new XDC is coming? **+0.09%** in the next 90 days, **+0.37%** in the next year — checked Nov 4 2026.
 
@@ -64,7 +64,7 @@ Good for the price: More dollars settle on XDC. Bad for it: Dollars leave XDC. T
 | Aug 31 2026 | $72.7M |
 | Sep 30 2026 | $57.7M |
 | Oct 31 2026 | $60.4M |
-| Nov 13 2026 | $56.9M |
+| Nov 14 2026 | $52.8M |
 
 *Checked Nov 4 2026*
 
@@ -94,9 +94,9 @@ In our count, about 18.2M new XDC reaches the market over the next 90 days (chec
 
 About 19.9B XDC is in circulation (checked Nov 4 2026). Over the next 90 days that changes +0.09%, and over a year +0.37%.
 
-### Does XDC have more new supply than STX, DASH or ETHFI?
+### Does XDC have more new supply than ZRO, DASH or ETHFI?
 
-Over the next 90 days (checked Nov 4 2026): XDC +0.09%, STX +1.27%, DASH +0.73%, ETHFI 0.00%. XDC sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 4 2026): XDC +0.09%, ZRO +17.56%, DASH +0.73%, ETHFI 0.00%. XDC sits in the middle of these 4 coins.
 
 ## More on XDC Network
 

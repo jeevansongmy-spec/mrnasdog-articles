@@ -8,7 +8,7 @@ published:     true
 ---
 # Is STABLE Inflationary? 0.00% Supply in 90 Days
 
-*From https://mrnasdog.com/research/stable, updated Nov 13 2026*
+*From https://mrnasdog.com/research/stable, updated Nov 14 2026*
 
 How much new STABLE is coming? **0.00%** in the next 90 days, **0.00%** in the next year — checked Nov 4 2026.
 
