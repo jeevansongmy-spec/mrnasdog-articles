@@ -1,6 +1,6 @@
 ---
 title:         "DASH Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
-description:   "Dash supply rose +0.74% in 90 days: 58.8K DASH of block rewards, 19.0K of treasury payouts and 53.7K of Platform withdrawals against 35.9K of deposits."
+description:   "DASH supply rose +0.72% in 90 days: 58.3K DASH to miners and masternodes, 19K from the treasury, Platform flows both ways. No vesting, no buyback, capped."
 canonical_url: "https://mrnasdog.com/research/dash/inflation"
 tags:          ["crypto", "dash", "masternode", "proofofwork"]
 published:     true
@@ -8,70 +8,72 @@ published:     true
 *Originally published at [https://mrnasdog.com/research/dash/inflation](https://mrnasdog.com/research/dash/inflation)*
 
 <!-- main-page -->
-The Dash coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/dash](https://mrnasdog.com/research/dash). Below: supply, line by line.
+➜ Start with the Dash coin page for the short answer and its price drivers: [mrnasdog.com/research/dash](https://mrnasdog.com/research/dash)
 
 # DASH Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 
-Dash supply is growing and should keep growing at about the same pace: net new DASH came to **+0.74%** of the circulating coins from Aug 6 to Nov 4 2026, and the next 90 days point to **+0.73%**. Each block pays miners and masternodes, a monthly treasury makes new coins for voted projects, and Dash Platform moves coins in and out of a pool that sits outside the market. In all, **131,578 DASH** came onto the market and **35,955 DASH** left it, against a hard ceiling of **18.92M** coins and **12.89M** in circulation today; other trackers show **+0.83%**.
+DASH supply is growing, and it should keep growing at about the same pace. In the 90 days to Nov 14 2026 new DASH from mining, the monthly treasury and withdrawals from Dash Platform came to **131,782 DASH**, while deposits into Dash Platform and vote fees took out **38,918 DASH**. That leaves supply up **+0.72%** in 90 days, with about **+0.72%** again in the next 90, under a hard ceiling of about 18.92M DASH.
 
 ## The verdict, in one paragraph
 
-Over the last 90 days the DASH supply rose a net **+0.74%**, or **95,623 DASH** on a base of **12.89M**. Other trackers put the same 90 days at **+0.83%**, a gap of **0.09** percentage points, small enough that the coin page carries no warning note. The next 90 days look almost the same at **+0.73%**, because the block reward already took its yearly step down on Aug 16 2026 and the next step is not due until around Sep 2027. The label that fits: **steady proof-of-work emission plus a voted treasury, with no burn of any size**.
+Dash is a proof-of-work payments coin, and every block still pays out new coins, so supply only goes one way: up. Over the 90 days from Aug 16 to Nov 14 2026 the count of circulating DASH rose by a net **92,865 DASH**, or **+0.72%**, on a base of about **12.89M DASH**. Outside trackers show **+0.73%** for nearly the same days, so the two readings agree and the coin page carries no warning note. The next 90 days look almost the same, about **+0.72%**, because no reward cut and no unlock falls inside them. Our label: supply growing, and projected to keep growing at a slow, steady rate.
 
 ## Sell pressure: where new DASH comes from
 
-The first and steadiest source is the block reward. Every block, about every 2.6 minutes, pays new DASH to the miner who found it and to one masternode in the queue. From Aug 6 to Nov 4 2026, those payments came to **58,833 DASH** across **49,348 blocks**. On Aug 16 2026 the reward fell by one fourteenth, as it does once every 210,240 blocks, so each block now pays **1.18 DASH** into ordinary wallets and the next 90 days should bring about **58,303 DASH**.
+The first source is the block reward. A new Dash block arrives about every 2.6 minutes, and each one pays the miner who found it and one masternode, the always-on servers that keep the network fast. Between Aug 16 and Nov 14 2026 there were 49,348 blocks, and the part of their reward paid out on the main chain came to **58,303 DASH**, about 650 a day.
 
-There are no vesting unlocks. Dash began in January 2014 with no token sale and no team or investor share, so no locked tranche exists to be released. Every DASH in existence came from mining, masternode pay, the treasury or the Platform pool.
+That reward shrinks by one fourteenth roughly once a year. The latest cut landed on Aug 16 2026, a few hours before this window began, so the whole window already runs at the lower rate. The next cut is due around August 2027, well after the next 90 days.
 
-Foundation and unscheduled unlocks book zero. The Dash Core Group, which builds the software, is paid from the treasury, about **4,832 DASH** a month under its current proposal, and those coins are counted once, when the treasury creates them. Selling them later moves coins that are already in the market.
+The second source is the treasury. A fifth of every block reward is set aside for a monthly vote, and only the projects masternode owners approve are ever paid. Money nobody votes for is simply never created. The treasury paid **6,817 DASH** on Aug 21, **6,810 DASH** on Sep 21 and **5,393 DASH** on Oct 21 2026, **19,020 DASH** in all. For the payout due around Nov 20 2026, about **5,706 DASH** of projects were passing on Nov 14 2026, so the next 90 days count about **18,386 DASH** from the treasury.
 
-Nothing sits in the long-term locked or bankruptcy row either. No court estate, frozen exchange pile or locked team reserve of DASH is waiting to be paid out.
+The third source is Dash Platform, the app layer that runs beside the main chain. Platform keeps its own pool of DASH, and that pool is not part of the circulating count. Part of every block reward goes straight into it to pay evonodes, the larger servers that run Platform, and app users move coins in and out. When coins come back out, they become circulating again. Between Aug 16 and Nov 14 2026, 2,637 withdrawals brought **54,459 DASH** back onto the main chain.
 
-The treasury is the second source of new coins. A fifth of every block's reward is held back for projects and paid once a month, but only for proposals the masternodes vote through; budget nobody wins is never created. The three monthly payouts in the window were **6,817 DASH** on Aug 21, **6,810 DASH** on Sep 21 and **5,393 DASH** on Oct 21 2026, **19,020 DASH** in all. The Nov 20 2026 payout has **5,394 DASH** passing today out of **6,828** possible, so the next 90 days should bring about **18,074 DASH**.
-
-The third source is Dash Platform. Part of every block reward goes into a pool that pays the evonodes running Platform, and users can also move DASH into that pool to use Platform apps. Coins in the pool are outside the market; when anyone withdraws them, they come back. From Aug 6 to Nov 4 2026, **2,513 withdrawals** brought **53,724 DASH** back onto the market, and we expect about the same in the next 90 days.
+Nothing else adds supply. Dash launched in January 2014 with no sale and no team allocation, so no vesting batch exists, and no bankrupt firm or court case is holding DASH to pay out.
 
 ## Buy pressure: where new DASH goes
 
-There is no buyback. Transaction fees go to the miner, so no revenue is set aside to buy DASH back, and no proposal to start one is on the ballot.
+The biggest pull runs the other way through the same Platform pool. When someone moves DASH onto Platform to pay for apps, usernames or storage, those coins leave circulation. Between Aug 16 and Nov 14 2026, 1,611 deposits moved **38,877 DASH** into the pool. Much of it later returns as withdrawals, so the two Platform rows partly cancel each other; over the window the pool itself grew from about 30,749 to **37,980 DASH**.
 
-The only burn is small. Filing a treasury proposal costs **1 DASH**, and that coin is destroyed. Between Aug 6 and Nov 4 2026, **39 proposals** burned **39 DASH**. Normal transaction fees are paid out, not burned.
+Dash burns almost nothing. Normal transaction fees go to the miner, not to a burn. The only coins destroyed are the 1 DASH fee paid to put a project up for a treasury vote, which came to **41 DASH** in the window.
 
-There is no foundation buy. The Dash Core Group lives on treasury pay and sells to cover its costs; it does not buy DASH back.
-
-Masternode collateral does not count as a lock. About **4.11M DASH** backs **2,635 masternodes** at 1,000 each and **368 evonodes** at 4,000 each, but those coins stay spendable and are part of the circulating count, so they take nothing out.
-
-The one real buy-side flow is the Platform deposit, the mirror of the withdrawal above. From Aug 6 to Nov 4 2026, **1,589 deposits** moved **35,916 DASH** into the Platform pool, which cancels about two thirds of the withdrawals. The pool itself grew from **30,059 DASH** to **35,273 DASH**, because evonode pay flows in faster than people take coins out.
+There is no buyback. No contract, team or company buys DASH back. Masternodes lock 1,000 DASH each and evonodes 4,000, but those coins sit in normal wallets and still count as circulating, so a new masternode takes nothing out of the count.
 
 ## Foundation and overhang
 
-The largest pile outside the market is the Platform pool, at **35,273 DASH** on Nov 4 2026. It fills with evonode pay and user deposits and drains with withdrawals, and today at most 2,000 DASH a day may leave it. We read its balance from the chain every day.
+Dash has no foundation sitting on a reserve. Dash Core Group, the main development team, is paid from the monthly treasury like any other project; its current budget is **4,832 DASH** a month, running to Dec 3 2026. Those coins are counted when the treasury creates them, so when Dash Core Group sells them to pay staff, nothing new enters the count.
 
-The treasury holds no stock at all: it is a monthly budget of up to **6,828 DASH** that only becomes coins when proposals pass. Its next three payouts fall on about Nov 20 2026, Dec 20 2026 and Jan 19 2027, and all three are already in the forecast.
-
-The Dash Core Group's own operating wallets are not published, so their balance cannot be read; every coin they get is counted when the treasury pays it. Masternode collateral, about **4.11M DASH**, could be sold if owners shut their nodes, but it is already circulating, so a sale would move coins without adding any. If the Platform pool's balance falls between our checks, the outflow enters the foundation and unscheduled row at the next check.
+The one real store of DASH outside the count is the Dash Platform pool, at **37,980 DASH** on Nov 14 2026. It does not belong to the team: it holds the balances of evonodes and app users. Today Platform lets about 2,000 DASH a day leave the pool. An upgrade released on Oct 26 2026 would raise that to 15% of the pool a day once enough evonodes switch, so withdrawals could come faster than in the last 90 days.
 
 ## How DASH compares to other proof-of-work payment coins
 
-Bitcoin and Litecoin cut their block reward in half every four years and hold a hard cap, 21M and 84M coins. Dash cuts by a smaller step, one fourteenth, every year or so, which gives a smoother curve and a ceiling of about **18.92M**, of which **12.89M** exist today. Monero went the other way: since 2022 it pays a fixed tail reward for ever, with no cap.
+Bitcoin is the simplest case. Every new bitcoin goes to miners, the reward halves about every four years, and nothing is burned or locked. Dash shares the mined, capped design, but its reward falls a little every year instead of in big halving steps, and it splits that reward three ways: miners, masternodes and a voted treasury.
 
-What sets Dash apart is who gets the new coins. Bitcoin and Litecoin pay miners alone. Dash pays most of each block to masternodes and evonodes that hold collateral, and sends a fifth to a treasury voted on by those same nodes. Zcash also sends part of each block to development funds, but Dash's treasury is unusual in that unspent budget is simply never made, so a quiet month means less new supply.
+The treasury is the part most payment coins lack. In Dash, a fifth of new supply is not automatic. It exists only when masternode owners vote a project through, so a quiet month adds less DASH than the rules allow. In the last 90 days the treasury paid out about 93% of its full allowance.
 
-None of these coins burns much. Like Bitcoin, Litecoin and Monero, Dash pays fees to the block producer, so there is no fee burn to offset new coins. The only coins it takes out of the market are those parked in the Platform pool, and those can come back at any time.
+The other difference is Dash Platform. Most proof-of-work coins have one chain and one supply. Dash runs an app layer beside it with its own pool of coins, and that pool works like a door that swings both ways: deposits take DASH out of circulation, withdrawals bring it back. Over the last 90 days more came back than went in, which added to the growth.
 
 ## What to watch in the next 90 days
 
-The Nov 20 2026 treasury payout: **5,394 DASH** of **6,828** is passing today, and late votes can push it up or down before the deadline.
+**Nov 20 2026:** the November treasury payout. About 5,706 DASH of projects were passing on Nov 14 2026, out of a ceiling of about 6,828 DASH, and voting is still open.
 
-The Dash Core v24 hard fork, which can lock in from Nov 14 2026 and activate around Nov 28 2026 at the earliest; it adds shared masternodes and split payouts and replaces the flat Platform withdrawal limit with one tied to the pool's balance, but it does not change the block reward.
+**After Nov 28 2026:** the Dash Core v24 network upgrade, released on Nov 5 2026, was due to switch on no earlier than Nov 28 2026, and on Nov 13 2026 the team said it will now come later, after a fix for slow masternode groups. It lets several owners share one masternode and replaces the fixed cap on Platform withdrawals with a limit tied to the pool size. It does not change the block reward.
 
-Platform version 5, released on Oct 26 2026, which switches on once two thirds of evonodes upgrade; it raises how much can leave the Platform pool each day, so withdrawals could rise above the **53,724 DASH** of the last 90 days.
+**Dec 3 2026:** the current Dash Core Group budget ends. A new proposal has to pass for the team to be paid at the Dec 20 2026 payout, which is the single largest item in each monthly treasury.
 
-The Dec 20 2026 and Jan 19 2027 treasury payouts, each forecast at about **6,340 DASH** until their votes close; the Dash Core Group's current proposal runs through December 2026, so a new one will be on the January ballot.
+**Dec 20 2026 and Jan 19 2027:** the next two treasury payouts, each up to about 6,828 DASH.
+
+**No date yet:** the Dash Platform upgrade released on Oct 26 2026 starts once enough evonodes run it. From then, up to 15% of the Platform pool could leave in a day instead of 2,000 DASH, which would show up as faster new supply.
 
 ## Summary
 
-Dash is a proof-of-work payments coin whose supply grew **+0.74%** in the 90 days to Nov 4 2026, with about **+0.73%** expected in the next 90 days. New DASH comes from three places: block rewards to miners and masternodes, a monthly treasury that only creates coins for passed proposals, and withdrawals from the Dash Platform pool, partly offset by deposits into that pool. The main risk to the reading is Platform: a looser withdrawal limit could let more of its **35,273 DASH** pool reach the market. The supply is capped near **18.92M** DASH, and the block reward keeps falling by one fourteenth about once a year.
+DASH supply grew **+0.72%** in the 90 days to Nov 14 2026, and about the same is expected in the next 90 days.
 
-*MrNasDog Pressure Framework analysis of DASH, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 4 2026.*
+Block rewards added 58,303 DASH, the voted treasury 19,020 and withdrawals from Dash Platform 54,459, while deposits into Platform took out 38,877 and vote fees burned 41.
+
+Dash has no vesting, no buyback and no fee burn, and its supply can never pass about 18.92M DASH.
+
+The thing to watch is the Dash Platform pool of 37,980 DASH: two upgrades could let it empty faster, which would push new supply up.
+
+---
+
+*MrNasDog Pressure Framework analysis of DASH, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 14 2026.*
