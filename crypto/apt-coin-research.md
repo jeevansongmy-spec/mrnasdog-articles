@@ -1,28 +1,28 @@
 ---
-title:         "Aptos (APT) Tokenomics: +2.03% New Supply in 90 Days"
-description:   "As of Nov 4 2026, new Aptos supply runs at +2.03% over 90 days and +8.15% over 12 months."
+title:         "Aptos (APT) Tokenomics: +2.02% New Supply in 90 Days"
+description:   "As of Nov 14 2026, new Aptos supply runs at +2.02% over 90 days and +8.10% over 12 months."
 canonical_url: "https://mrnasdog.com/research/apt"
 content_type:  "coin_hub"
 tags:          ["crypto", "apt", "aptos", "should-i-buy"]
 published:     true
 ---
-# Aptos (APT) Tokenomics: +2.03% New Supply in 90 Days
+# Aptos (APT) Tokenomics: +2.02% New Supply in 90 Days
 
 *Originally published at https://mrnasdog.com/research/apt (checked Nov 14 2026)*
 
-As of Nov 4 2026, new Aptos supply runs at **+2.03%** over 90 days and **+8.15%** over 12 months.
+As of Nov 14 2026, new Aptos supply runs at **+2.02%** over 90 days and **+8.10%** over 12 months.
 
-- **Signal today:** negative (Nov 14 2026)
+- **Signal today:** mixed (Nov 14 2026)
 - **MrNasDog score:** 4/10 — supply 1.5/5, demand 2.5/5
-- **New coins:** +2.03% in 90 days · +8.15% in a year
+- **New coins:** +2.02% in 90 days · +8.10% in a year
 - **Demand:** modest (2.5/5)
-- **Drivers:** 0 ▲ price up · 1 ▼ price down
+- **Drivers:** 1 ▲ price up · 0 ▼ price down
 
 ## How fast Aptos supply grows
 
-Aptos supply grew 4.33% in 90 days, mostly from monthly unlocks. The team and investor unlocks ended on Oct 12 2026, so the next 90 days should add about 2.03%.
+Aptos added 3.54% to its circulating supply in 90 days, mostly from unlocks. With team and investor unlocks finished, the next 90 days should add about 2.02%.
 
-New APT: +2.03% in 90 days, +8.15% in a year. Supply score 1.5/5, "heavy" (place 31 of 100).
+New APT: +2.02% in 90 days, +8.10% in a year. Supply score 1.5/5, "heavy" (place 32 of 100).
 
 ## Demand today
 
@@ -32,22 +32,22 @@ Members get the rest of the Aptos demand read on mrnasdog.com.
 
 ## Big wallets, votes and dates behind APT
 
-2 things outside the score can move APT's price — today 0 ▲ up, 1 ▼ down.
+2 things outside the score can move APT's price — today 1 ▲ up, 0 ▼ down.
 
-### ▼ Stablecoins on Aptos
+### ▲ Stablecoins on Aptos
 
-USDT on Aptos is down more than half since June 2026.
+Dollars on Aptos are returning; USDT still under half its peak
 
-Good for the price: More dollars on Aptos. Bad for it: Dollars leave Aptos. Right now it points down.
+Good for the price: More dollars on Aptos. Bad for it: Dollars leave Aptos. Right now it points up.
 
 | Date | USDT | USDC |
 |---|---|---|
 | Aug 31 2026 | $732M | $208M |
 | Sep 30 2026 | $522M | $358M |
 | Oct 31 2026 | $377M | $246M |
-| Nov 14 2026 | $387M | $352M |
+| Nov 15 2026 | $395M | $361M |
 
-*Checked Nov 4 2026*
+*Checked Nov 14 2026*
 
 ### • US APT ETF
 
@@ -63,37 +63,37 @@ ETF approved, new buyers → price up · Stays stuck → price down.
 | Aug 15 2025 | S-1 amended again |
 | Mar 17 2026 | SEC calls APT commodity |
 
-*Checked Nov 4 2026*
+*Checked Nov 14 2026*
 
 ## Aptos supply questions, answered
 
 ### Is Aptos (APT) inflationary or deflationary?
 
-Aptos (APT) is inflationary right now: its supply changes +2.03% over the next 90 days and +8.15% over the next year (checked Nov 4 2026). More APT is added than removed.
+Aptos (APT) is inflationary right now: its supply changes +2.02% over the next 90 days and +8.10% over the next year (checked Nov 14 2026). More APT is added than removed.
 
 ### What is the APT inflation rate in 2026?
 
-About +8.15% a year: that is how much Aptos (APT) supply changes over the next 12 months, with +2.03% in the next 90 days (checked Nov 4 2026). That puts APT #31 of 100 coins we track for new supply (#1 = the most new supply).
+About +8.10% a year: that is how much Aptos (APT) supply changes over the next 12 months, with +2.02% in the next 90 days (checked Nov 14 2026). That puts APT #32 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next APT token unlock?
 
-The next Aptos (APT) unlock we track is on Dec 11 2026: about 4.54M APT, 0.51% of the APT in circulation (December unlock: community + Foundation — Sell pressure). Checked Nov 4 2026.
+The next Aptos (APT) unlock we track is on Dec 11 2026: about 4.54M APT, 0.51% of the APT in circulation (Monthly unlock: community + Foundation pools). Checked Nov 14 2026.
 
 ### Does Aptos burn or buy back APT?
 
-Yes. In our count, about 406K APT is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 4 2026). How it works: The gas burn is the only removal: 405,531 APT in 90 days after the small share paid back to validators. That cancels under a tenth of staking pay. No buyback runs yet.
+Yes. In our count, about 399K APT is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 14 2026). How it works: The gas burn is the only removal: 398,780 APT in 90 days after the share paid back to validators, under a tenth of staking pay. No buyback runs.
 
 ### Where does new APT supply come from?
 
-In our count, about 18.4M new APT reaches the market over the next 90 days (checked Nov 4 2026). How it works: Three monthly unlocks freed 33.93M APT in 90 days, the last of them for the team and early investors on Oct 12 2026, and stakers were paid 4.73M new APT. From November only the community and Foundation pools unlock, about 4.54M a month.
+In our count, about 18.3M new APT reaches the market over the next 90 days (checked Nov 14 2026). How it works: Three monthly unlocks freed 27.16M APT in 90 days, the last of the team and early investor payouts on Oct 11 2026, and stakers were paid 4.71M new APT. From November only the community and Foundation pools unlock, about 4.54M a month.
 
 ### How much APT is in circulation?
 
-About 884M APT is in circulation (checked Nov 4 2026). Over the next 90 days that changes +2.03%, and over a year +8.15%.
+About 889M APT is in circulation (checked Nov 14 2026). Over the next 90 days that changes +2.02%, and over a year +8.10%.
 
-### Does APT have more new supply than ETHFI, FLR or STABLE?
+### Does APT have more new supply than TIA, PENGU or CRV?
 
-Over the next 90 days (checked Nov 4 2026): APT +2.03%, ETHFI 0.00%, FLR +1.04%, STABLE 0.00%. APT has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 14 2026): APT +2.02%, TIA +2.31%, PENGU +2.60%, CRV +1.96%. APT sits in the middle of these 4 coins.
 
 ## Next steps for APT
 

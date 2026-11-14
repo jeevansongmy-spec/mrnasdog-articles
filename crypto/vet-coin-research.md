@@ -1,6 +1,6 @@
 ---
 title:         "VeChain (VET) Tokenomics: 0.00% Supply in 90 Days"
-description:   "As of Nov 4 2026, new VeChain supply runs at 0.00% over 90 days and 0.00% over 12 months."
+description:   "As of Nov 14 2026, new VeChain supply runs at 0.00% over 90 days and 0.00% over 12 months."
 canonical_url: "https://mrnasdog.com/research/vet"
 content_type:  "coin_hub"
 tags:          ["crypto", "vet", "vechain", "should-i-buy"]
@@ -10,7 +10,7 @@ published:     true
 
 *Originally published at https://mrnasdog.com/research/vet (checked Nov 14 2026)*
 
-As of Nov 4 2026, new VeChain supply runs at **0.00%** over 90 days and **0.00%** over 12 months.
+As of Nov 14 2026, new VeChain supply runs at **0.00%** over 90 days and **0.00%** over 12 months.
 
 - **Signal today:** positive (Nov 14 2026)
 - **MrNasDog score:** 7/10 — supply 4.5/5, demand 2.5/5
@@ -20,7 +20,7 @@ As of Nov 4 2026, new VeChain supply runs at **0.00%** over 90 days and **0.00%*
 
 ## Where new VeChain comes from
 
-VeChain made all its VET at launch and pays validators and stakers in VTHO, so VET supply held flat at 0.00% in 90 days.
+VeChain made every VET at launch and pays stakers in VTHO, so VET supply held at 0.00% in 90 days. No unlocks, no burn, no buyback.
 
 New VET: 0.00% in 90 days, 0.00% in a year. Supply score 4.5/5, "flat" (place 90 of 100).
 
@@ -36,12 +36,12 @@ Staked VET more than doubled since Dec 2025; flat lately
 
 | Date | VET staked |
 |---|---|
-| Aug 31 2026 | 14.1 B VET |
 | Sep 30 2026 | 14.3 B VET |
 | Oct 31 2026 | 14.5 B VET |
 | Nov 4 2026 | 14.5 B VET |
+| Nov 14 2026 | 14.5 B VET |
 
-*Checked Nov 4 2026*
+*Checked Nov 14 2026*
 
 ### ▲ Network upgrades
 
@@ -57,7 +57,7 @@ Good for the price: Upgrades ship smoothly. Bad for it: Delays or bugs. Today: t
 | Sep 16 2026 | Interstellar EVM upgrade |
 | No date yet | Next: Ethereum tx match (coming) |
 
-*Checked Nov 4 2026*
+*Checked Nov 14 2026*
 
 ## Demand today
 
@@ -69,31 +69,31 @@ Extra VeChain demand detail for members stays on the live page.
 
 ### Is VeChain (VET) inflationary or deflationary?
 
-VeChain (VET) is flat, neither inflationary nor deflationary right now: its supply changes 0.00% over the next 90 days and 0.00% over the next year (checked Nov 4 2026). New VET and removed VET about cancel out.
+VeChain (VET) is flat, neither inflationary nor deflationary right now: its supply changes 0.00% over the next 90 days and 0.00% over the next year (checked Nov 14 2026). New VET and removed VET about cancel out.
 
 ### What is the VET inflation rate in 2026?
 
-About 0.00% a year: that is how much VeChain (VET) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 4 2026). That puts VET #90 of 100 coins we track for new supply (#1 = the most new supply).
+About 0.00% a year: that is how much VeChain (VET) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 14 2026). That puts VET #90 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next VET token unlock?
 
-No dated VeChain (VET) unlock is scheduled in the next 90 days (checked Nov 4 2026).
+No dated VeChain (VET) unlock is scheduled in the next 90 days (checked Nov 14 2026).
 
 ### Does VeChain burn or buy back VET?
 
-Not in a way that removes VET today: nothing takes VET off the market over the next 90 days (checked Nov 4 2026). Nothing removes VET: fees are paid and burned in VTHO, there is no buyback, and the stake rose to 14.97B VET but staked coins still count.
+Not in a way that removes VET today: nothing takes VET off the market over the next 90 days (checked Nov 14 2026). Nothing removes VET: fees are paid and burned in VTHO, there is no buyback, and the stake grew to 14.95B VET, but staked coins still count.
 
 ### Where does new VET supply come from?
 
-Almost no new VET reaches the market over the next 90 days (checked Nov 4 2026). No new VET is made: every coin dates from the 2018 launch, staking pays in VTHO, nothing vests, and the 727.58M VET frozen since the 2019 theft did not move.
+Almost no new VET reaches the market over the next 90 days (checked Nov 14 2026). No new VET is made: every coin dates from the 2018 launch, stakers are paid in VTHO, nothing vests, and the 727.58M VET frozen since January 2020 did not move.
 
 ### How much VET is in circulation?
 
-About 86B VET is in circulation (checked Nov 4 2026). Over the next 90 days that changes 0.00%, and over a year 0.00%.
+About 86B VET is in circulation (checked Nov 14 2026). Over the next 90 days that changes 0.00%, and over a year 0.00%.
 
-### Does VET have more new supply than PYTH, RAY or BLIFE?
+### Does VET have more new supply than CRV, VIRTUAL or PIEVERSE?
 
-Over the next 90 days (checked Nov 4 2026): VET 0.00%, PYTH 0.00%, RAY +0.16%, BLIFE 0.00%. VET sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 14 2026): VET 0.00%, CRV +1.96%, VIRTUAL +0.04%, PIEVERSE +25.93%. VET has the least new supply of these 4 coins.
 
 ## More on VeChain
 

@@ -1,28 +1,28 @@
 ---
-title:         "Filecoin (FIL) Tokenomics: +1.65% New Supply in 90 Days"
-description:   "As of Nov 4 2026, new Filecoin supply runs at +1.65% over 90 days and +6.54% over 12 months."
+title:         "Filecoin (FIL) Tokenomics: +1.53% New Supply in 90 Days"
+description:   "As of Nov 14 2026, new Filecoin supply runs at +1.53% over 90 days and +6.04% over 12 months."
 canonical_url: "https://mrnasdog.com/research/fil"
 content_type:  "coin_hub"
 tags:          ["crypto", "fil", "filecoin", "should-i-buy"]
 published:     true
 ---
-# Filecoin (FIL) Tokenomics: +1.65% New Supply in 90 Days
+# Filecoin (FIL) Tokenomics: +1.53% New Supply in 90 Days
 
 *Originally published at https://mrnasdog.com/research/fil (checked Nov 14 2026)*
 
-As of Nov 4 2026, new Filecoin supply runs at **+1.65%** over 90 days and **+6.54%** over 12 months.
+As of Nov 14 2026, new Filecoin supply runs at **+1.53%** over 90 days and **+6.04%** over 12 months.
 
 - **Signal:** negative (Nov 14 2026)
 - **Score:** 3.5/10 — supply 1.5/5, demand 2/5
-- **Supply growth:** +1.65% in 90 days · +6.54% in a year
+- **Supply growth:** +1.53% in 90 days · +6.04% in a year
 - **How much people want it:** weak (2/5)
 - **Price drivers:** 0 ▲ price up · 1 ▼ price down
 
 ## New FIL hitting the market
 
-Filecoin's launch unlocks are over, but block rewards and collateral returned by departing storage providers still grow FIL supply about 1.65% a quarter.
+Filecoin's launch unlocks ran out on Oct 14 2026, so the biggest source of new FIL is gone. Supply still grew 2.82% in 90 days, because storage providers took back 8.06M FIL of deposits as stored data shrank, and rewards added 5.21M. The burn removed only 293,141 FIL. Next 90 days: about +1.53%.
 
-New FIL: +1.65% in 90 days, +6.54% in a year. Supply score 1.5/5, "heavy", #34 of 100 for new supply.
+New FIL: +1.53% in 90 days, +6.04% in a year. Supply score 1.5/5, "heavy", #35 of 100 for new supply.
 
 ## Demand: how much people want FIL
 
@@ -45,9 +45,9 @@ More data stored → price up · Storage keeps shrinking → price down. Now: �
 | Aug 31 2026 | 1.38 EiB |
 | Sep 27 2026 | 1.34 EiB |
 | Oct 31 2026 | 1.21 EiB |
-| Nov 14 2026 | 1.11 EiB |
+| Nov 15 2026 | 1.1 EiB |
 
-*Checked Nov 4 2026*
+*Checked Nov 14 2026*
 
 ### • Makers' decisions
 
@@ -63,37 +63,37 @@ Solstice went live Oct 19 2026; rewards now lean to paid storage.
 | Sep 30 2026 | IPFS team winds down |
 | Oct 19 2026 | Solstice live on mainnet |
 
-*Checked Nov 4 2026*
+*Checked Nov 14 2026*
 
 ## Filecoin supply questions, answered
 
 ### Is Filecoin (FIL) inflationary or deflationary?
 
-Filecoin (FIL) is inflationary right now: its supply changes +1.65% over the next 90 days and +6.54% over the next year (checked Nov 4 2026). More FIL is added than removed.
+Filecoin (FIL) is inflationary right now: its supply changes +1.53% over the next 90 days and +6.04% over the next year (checked Nov 14 2026). More FIL is added than removed.
 
 ### What is the FIL inflation rate in 2026?
 
-About +6.54% a year: that is how much Filecoin (FIL) supply changes over the next 12 months, with +1.65% in the next 90 days (checked Nov 4 2026). That puts FIL #34 of 100 coins we track for new supply (#1 = the most new supply).
+About +6.04% a year: that is how much Filecoin (FIL) supply changes over the next 12 months, with +1.53% in the next 90 days (checked Nov 14 2026). That puts FIL #35 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next FIL token unlock?
 
-No dated Filecoin (FIL) unlock is scheduled in the next 90 days (checked Nov 4 2026). New FIL still arrives: about 14.2M FIL in 90 days.
+No dated Filecoin (FIL) unlock is scheduled in the next 90 days (checked Nov 14 2026). New FIL still arrives: about 13.3M FIL in 90 days.
 
 ### Does Filecoin burn or buy back FIL?
 
-Yes. In our count, about 297K FIL is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 4 2026). How it works: No buyback. Penalties and network fees burned 293,778 FIL in 90 days, and from Jan 18 2027 the Solstice upgrade starts burning a small, growing slice of each block reward.
+Yes. In our count, about 302K FIL is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 14 2026). How it works: No buyback. Penalties and network fees burned 293,141 FIL in 90 days, and from Jan 18 2027 the Solstice upgrade starts burning a small, growing slice of each block reward.
 
 ### Where does new FIL supply come from?
 
-In our count, about 14.2M new FIL reaches the market over the next 90 days (checked Nov 4 2026). How it works: The six-year launch unlocks ended on Oct 14 2026 after freeing 12.28M FIL in the last 90 days. Block rewards add about 5.24M FIL a quarter, and storage providers took back 8.98M FIL of collateral as the network shrank.
+In our count, about 13.3M new FIL reaches the market over the next 90 days (checked Nov 14 2026). How it works: The six-year launch unlocks ended on Oct 14 2026 after freeing 10.89M FIL in the last 90 days. Block rewards add about 5.21M FIL a quarter, and storage providers took back 8.06M FIL of deposits as the network shrank.
 
 ### How much FIL is in circulation?
 
-About 844M FIL is in circulation (checked Nov 4 2026). Over the next 90 days that changes +1.65%, and over a year +6.54%.
+About 847M FIL is in circulation (checked Nov 14 2026). Over the next 90 days that changes +1.53%, and over a year +6.04%.
 
-### Does FIL have more new supply than NEXO, CAKE or STX?
+### Does FIL have more new supply than CAKE, FLR or PYTH?
 
-Over the next 90 days (checked Nov 4 2026): FIL +1.65%, NEXO 0.00%, CAKE −1.64%, STX +1.27%. FIL has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 14 2026): FIL +1.53%, CAKE −1.96%, FLR +1.04%, PYTH 0.00%. FIL has the most new supply of these 4 coins.
 
 ## Go deeper on Filecoin
 
