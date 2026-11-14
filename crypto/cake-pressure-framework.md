@@ -1,6 +1,6 @@
 ---
 title: "CAKE Inflation Analysis · November 2026 · Supply shrinking · projected to keep shrinking"
-description: "CAKE is deflationary: weekly fee buybacks burned 6.97M CAKE against 1.59M farm CAKE and 746K out of old locks, so supply fell 1.41% in 90 days; 1.64% next."
+description: "CAKE supply is shrinking: weekly fee buybacks burned 6.40M CAKE in 90 days against 1.61M of farm pay and 751K from old locks, net −1.17%, with −1.96% next."
 canonical_url: "https://mrnasdog.com/research/cake/inflation"
 tags: ["crypto", "cake", "pancakeswap", "defi"]
 published: true
@@ -12,60 +12,54 @@ This is the long supply read. For the signal, the price drivers and the question
 
 # CAKE Inflation Analysis · November 2026 · Supply shrinking · projected to keep shrinking
 
-CAKE supply is shrinking, and the plan on the table keeps it shrinking. PancakeSwap uses part of its trading fees to buy CAKE every week and burns it, and those buybacks destroyed **6.97M CAKE** in the 90 days to Nov 4 2026, while farms and the growth fund kept **1.59M** new CAKE and holders pulled **746.12K** out of old lock contracts. Net, CAKE supply fell **1.41%**, with about **1.64%** more expected in the next 90 days, under a voted cap of **400M CAKE**; other trackers show **+1.86%** because their latest count caught that week's mint before the Monday burn.
+CAKE supply shrank about **−1.17%** in the 90 days from Aug 16 to Nov 14 2026, and it is on course to shrink about **−1.96%** in the next 90 days. PancakeSwap uses part of its trading fees to buy CAKE on the market every week and burn it, and those buybacks destroyed **6,396,965 CAKE** in the window, while farms and the team's growth fund received **1,609,967** new CAKE and holders claimed **750,711** from old locks. CAKE has a voted cap of **400M**. Other trackers show **+7.27%** for the same 90 days only because their latest count caught a weekly batch of new coins a few days before it is burned.
 
 ## The verdict, in one paragraph
 
-Across the 90 days from Aug 6 to Nov 4 2026, CAKE's net supply change was **−1.41%**, and the next 90 days point to **−1.64%**. Other trackers report **+1.86%** for the same window, a gap of **3.27 percentage points**, so the CAKE coin page shows a warning note. The gap is a timing effect, not new CAKE: on Nov 4 2026 about **11.19M CAKE** minted that week was still waiting in PancakeSwap's farm and burn contracts for the Monday burn, while on Aug 6 2026 only about **0.37M** was waiting. Those coins are destroyed every week and never reach the market. On-chain, the CAKE in circulation fell about **4.62M** over the window. CAKE is a deflationary DEX token, kept that way by a fee-funded buyback that burns about four times what farms keep.
+On our ledger CAKE supply fell **−1.17%** over the 90 days to Nov 14 2026: **2.36M CAKE** of new and newly unlocked coins against **6.40M CAKE** burned, on a circulating supply of **344.25M CAKE**. The next 90 days point to **−1.96%**, a deeper fall, because the same weekly fee money buys more CAKE at today's lower price. Other trackers read **+7.27%**, a gap of **8.44 points**, so the coin page carries a warning note. The gap is a timing effect, not new supply: on Nov 14 2026 those trackers counted **27.02M CAKE** printed on Nov 12 and 13 that sit in the PancakeSwap farm contract waiting for the Monday burn. Without that batch the same count fell **−1.03%**. The label for CAKE is deflationary by weekly buyback and burn.
 
 ## Sell pressure: where new CAKE comes from
 
-**1. Protocol inflation — about 1.59M CAKE.** PancakeSwap's farm contract on BNB Chain mints 44 CAKE every block, and more than 99.7% of it goes straight to the weekly burn. The part that stays out came to **1,593,086 CAKE** between Aug 6 and Nov 4 2026, about **17,700 CAKE a day**. Close to **996,600 CAKE** of that went to PancakeSwap's ecosystem growth fund, and the rest paid farms. The official monthly burn reports for August, September and October 2026 show the same pace. The Flip, the plan CAKE holders passed on Oct 24 2026, cuts this pay from November 2026, but no new rate is set yet, so the next 90 days are counted at today's rate.
+Protocol inflation is the farm pay. The PancakeSwap farm contracts paid out **1,609,967 CAKE** between Aug 16 and Nov 14 2026, about 17,900 a day, and **1,026,697** of it went to the team's ecosystem growth fund. The old CAKE farm contract still prints about 60M CAKE a week, a habit left over from 2020, but everything except this small farm share is sent back and burned within days, so it never reaches a wallet and we do not count it on either side. A governance vote that passed on Oct 24 2026, called The Flip, will cut CAKE emissions from about 22,500 a day to 11,000 and later to 7,000, but the rate on-chain had not changed on Nov 14 2026 and no date was given, so the next 90 days keep today's pace.
 
-**2. Vesting unlocks — 0.** CAKE launched in Sep 2020 with no team, investor or token-sale allocation. Every CAKE in existence was minted by the farms, so CAKE has no vesting schedule and no unlock cliff.
+Vesting unlocks are zero. CAKE launched in September 2020 through farming alone, with no team, investor or sale allocation, so there is no unlock calendar and no cliff waiting to open.
 
-**3. Foundation and unscheduled unlocks — 0.** The ecosystem growth fund only took coins in during the window, and those coins already count in row 1. PancakeSwap's Treasury runs on trading fees and does not publish its wallet, and nothing in the window showed it releasing CAKE.
+Foundation and unscheduled unlocks are zero. PancakeSwap's team wallets did not move CAKE out of a locked or uncounted balance in the window. The growth fund keeps its coins in a wallet that already counts as circulating, so its payouts are counted once, when they are paid in.
 
-**4. Long-term locked — about 746.12K CAKE.** A vote in Apr 2025 retired CAKE locking and set every locked coin free, and holders are still walking out of the old lock contracts. The locked balance fell from **16.54M** to **15.79M CAKE** between Aug 6 and Nov 4 2026. Most of it was one withdrawal of **574,033 CAKE** on Aug 26 2026; since Sep 1 2026 the steady pace is about 2,100 CAKE a day, which gives **189.52K CAKE** for the next 90 days.
+Long-term locks add **750,711 CAKE**. When the old CAKE lock program, veCAKE, ended in April 2025, every lock opened, but each holder has to claim the coins. About 600,000 CAKE were claimed in late August and early September 2026, and a steady trickle since then points to about **184,360 CAKE** in the next 90 days. About **15.78M CAKE** is still unclaimed in the two old lock contracts.
 
 ## Buy pressure: where new CAKE goes
 
-**1. Programmatic buyback — about 6.97M CAKE.** Every week PancakeSwap takes its share of trading fees, buys CAKE on the open market and burns it each Monday. The 13 burns from Aug 10 to Nov 2 2026 destroyed **6,967,680 bought CAKE**, worth about **$14.39M**. The weeks are getting smaller: the Oct 26 2026 burn took **261,379 CAKE** and the Nov 2 2026 burn **335,103 CAKE**, against more than 700,000 in some weeks of late August and September. At today's CAKE price of **$2.01**, the same dollars would buy about **7.16M CAKE** in the next 90 days. Every bought coin goes to the burn address, in plain view on-chain.
+The programmatic buyback is the engine of the CAKE supply. Every Sunday PancakeSwap takes its share of trading fees, buys CAKE on the open market and sends it to be burned. Twelve weekly burns from Aug 16 to Nov 1 2026 removed **6,396,965 CAKE**, worth about **$13.57M** on the days they ran. The Nov 8 buyback was postponed to Nov 16 2026 while PancakeSwap upgrades the security of the buyback contracts; about 690,000 CAKE was already bought and waiting on Nov 14 2026. Because the buyback is set in dollars, the same fee money buys about **8.53M CAKE** in the next 90 days at today's price of $1.59.
 
-**2. Protocol fee burn — about 6.07K CAKE.** Smaller PancakeSwap products and a handful of holders sent **6,071 CAKE** straight to the burn. Since a vote on Jun 21 2026, fees from side products go to the Treasury instead of the burn, so this stream stays tiny.
+The protocol fee burn adds **6,071 CAKE**, from a few smaller PancakeSwap products that still burn their fees as CAKE. Most side-product fees have gone to the PancakeSwap Treasury instead since a vote in June 2026.
 
-**3. Foundation buy — 0.** Since a Feb 2026 vote, the Treasury keeps fees from stablecoin pools in stablecoins and may buy CAKE when it chooses. No such purchase was announced in the window, and CAKE it buys and holds still circulates.
-
-**4. New long-term lock — 0.** There is no CAKE lock any more, so no new coins are being taken out of circulation. Coins only flow out of the old contracts, which is row 4 of the sell side.
+Foundation buying is zero: the team does not buy CAKE to keep. A new long-term lock is zero too, because there is no lock program left; the old locks only open now.
 
 ## Foundation and overhang
 
-The largest team-controlled pile of CAKE is the **ecosystem growth fund**, a wallet that needs 3 of its 7 team signers to move coins. It held **5.82M CAKE** on Nov 4 2026, up from **4.82M** on Aug 6, and it sent nothing out in the window. Under The Flip, the remaining CAKE emission of **7,000 CAKE a day** in the end state goes to a growth fund called the Pantry, to be spent on marketing, partner deals and new pools. The **PancakeSwap Treasury** does not publish its wallet, so its balance is unknown. The **old lock contracts** still hold **15.79M CAKE** of holders' coins that can leave at any time, the overhang most likely to add supply. And the **400M cap** leaves room for about **65M** more CAKE, which only a new holder vote could use. We re-read these balances at every rebuild; if the growth fund's balance falls between checks, the outflow enters sell row 3 at the next check.
+The largest team-controlled CAKE balance we can see is the ecosystem growth fund, a three-of-seven multisig wallet that held **5.92M CAKE** on Nov 14 2026. It received 1,026,697 CAKE in the window and spent almost none of it. Under The Flip it becomes the Pantry, with 7,000 CAKE a day in the end state for marketing, partnerships and new pools. The PancakeSwap Treasury, which now receives side-product fees and part of the v3 fees, has never published its wallet or balance, so we track it through votes and reports. The three buyback contracts held about 690,000 CAKE on Nov 14 2026, bought and waiting for the postponed burn. The 400M cap, set by a vote on Jan 19 2026, leaves about 65M CAKE of room above today's post-burn supply, and the old farm contract can still mint. If any of these balances falls between our checks, the outflow enters the sell side at the next check.
 
 ## How CAKE compares to other DEX tokens
 
-Most DEX tokens pay liquidity providers in newly minted coins and burn little or nothing, so their supply climbs every week. Vote-escrow designs such as Curve's CRV and Aerodrome's AERO tie that new supply to locking, and the locked coins count as a promise rather than a burn. CAKE ran a vote-escrow model too, until holders retired it in Apr 2025 and cut emission from about 40,000 to 22,500 CAKE a day.
+CAKE belongs to the group of exchange tokens that turn trading fees into buybacks. What sets PancakeSwap apart is that it burns what it buys every week, so the coins leave for good, while some other DEX tokens keep their buybacks in a project wallet, which takes coins off the market only for as long as that wallet holds them. CAKE also still pays farms in new coins, so its net is buyback minus emissions, and in the 90 days to Nov 14 2026 the buyback won by about 2.7 to 1.
 
-Since then CAKE has worked more like an exchange token with a buyback: real trading fees, collected across PancakeSwap on many chains, buy the coin on the open market every week and burn it. That makes CAKE's supply depend on trading volume and on the CAKE price. Busy weeks and a cheap CAKE burn more coins; quiet weeks and a dearer CAKE burn fewer. Exchange tokens with a scheduled quarterly burn, such as BNB, follow a published schedule instead, so their burn is easier to predict but not tied to each week's fees.
-
-The Flip moves CAKE further down this road. Liquidity providers on the newer v3 and Infinity pools will keep 88% of swap fees instead of about two-thirds, so less fee money is left to buy CAKE, while CAKE emission falls by about 69% in two steps. The v2 pools stay unchanged and keep sending part of every swap fee to the burn.
+Against DEX tokens that still have team and investor unlocks running, CAKE has the opposite profile: no unlock calendar at all, but a cap that rests on a governance vote rather than on code, with a farm contract that can still mint. And because The Flip hands more of the fees to liquidity providers on most chains, the pools that pay most of today's burns, which switch last, are the part of PancakeSwap to watch.
 
 ## What to watch in the next 90 days
 
-**The Flip rollout, from November 2026.** PancakeSwap plans to switch one chain a week over about three months, starting with the chains that pay least into the burn, while emission steps down from 22,500 toward 11,000 CAKE a day. Each switch lowers both sides of the CAKE ledger.
+Nov 16 2026: the postponed weekly buyback and burn, with about 690,000 CAKE already bought. A normal-sized burn after it says the security upgrade is done.
 
-**The weekly Monday burns, starting Nov 9 2026.** The last three bought between 261,379 and 335,103 CAKE. Burns that stay near that size would mean less buying than the 90-day count assumes.
+November 2026 to about the end of January 2027: The Flip switches chains one a week to an 88% fee share for liquidity providers, starting with the chains that burn the least. If the chains that pay most of the burns move earlier than planned, the weekly buyback could shrink.
 
-**The November burn report, early Dec 2026.** PancakeSwap publishes its mint and burn totals each month; October 2026 was its 38th month in a row with more CAKE burned than minted.
+The emission cut to 11,000 CAKE a day: once it shows up on-chain, farm pay in the next 90 days falls by about 0.8M CAKE and the shrink gets faster.
 
-**The opBNB bridge route, closing Nov 23 2026.** CAKE on opBNB must be moved back to BNB Chain before the route closes. It moves coins between chains and does not change how many CAKE exist.
-
-**The old lock contracts and the growth fund.** Another large withdrawal like the one on Aug 26 2026, or a first spend from the 5.82M CAKE growth fund, would show up at the next check.
+Early December 2026: PancakeSwap's November burn report, the first full month with the delayed burn and the first chains on The Flip.
 
 ## Summary
 
-CAKE, the PancakeSwap token, is deflationary: in the 90 days to Nov 4 2026 its supply fell **1.41%**, and the next 90 days point to **1.64%** more. The engine is a weekly buyback paid from trading fees, which burned **6.97M CAKE** against **1.59M** new farm CAKE and **746.12K** released from old locks. The main risk is The Flip, which from November 2026 sends more fee money to liquidity providers and less to the burn, chain by chain, while it also cuts new CAKE. CAKE has no vesting, a voted cap of **400M**, and a burn that rises and falls with what traders pay.
+CAKE supply fell about **−1.17%** in the 90 days to Nov 14 2026 and is on course for about **−1.96%** in the next 90 days, a shrinking supply that should keep shrinking. PancakeSwap burns **6.40M CAKE** per 90 days with trading-fee buybacks, against **1.61M** of new farm and growth-fund pay and **751K** claimed from old locks. The main risk is fee money: The Flip gives liquidity providers more of the fees, and if trading slows, the weekly burn shrinks with it. CAKE has no vesting and a voted cap of **400M**, and the +7.27% shown elsewhere is a weekly batch of coins counted a few days before it is burned.
 
 ---
 
-*MrNasDog Pressure Framework analysis of CAKE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 4 2026.*
+*MrNasDog Pressure Framework analysis of CAKE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 14 2026.*
