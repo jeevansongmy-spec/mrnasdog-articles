@@ -1,6 +1,6 @@
 ---
 title:         "PIEVERSE Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
-description:   "PIEVERSE supply is growing: team wallets released 29.75M in 90 days, +10.83% net, and team and investor coins from Nov 14 2026 bring about +25.93% next."
+description:   "PIEVERSE supply is growing: project wallets paid out 29.75M in 90 days, +10.83% net, and with the insider lock over about +19.87% is due next. No burn."
 canonical_url: "https://mrnasdog.com/research/pieverse/inflation"
 tags:          ["crypto", "pieverse", "tokenomics", "vesting"]
 published:     true
@@ -12,62 +12,66 @@ Originally published at [PIEVERSE Inflation Analysis · November 2026 · Supply 
 <!-- main-page -->
 Looking for the buy-or-sell answer? It is on the PIEVERSE coin page, with demand and price drivers: [mrnasdog.com/research/pieverse](https://mrnasdog.com/research/pieverse)
 
-PIEVERSE supply is **growing**. All **1B** coins already exist, but only **274.75M** count as circulating, and team-run wallets released **29.75M PIEVERSE** in the last 90 days with no buyback or burn to offset it, a net **+10.83%**. The next 90 days look heavier, about **+25.93%**, because the 12-month lock on team and investor coins ends on **Nov 14 2026**; other trackers show only **+0.29%**, and the coin page carries a warning note.
+PIEVERSE supply is growing, and it should grow faster next. No new coins are ever made, since all **1B** PIEVERSE already exist, but project wallets keep paying coins out to the market. In the 90 days to Nov 15 2026 they paid out **29.75M PIEVERSE** against nothing taken back, so the circulating count rose by **+10.83%**, and the next 90 days point to about **+19.87%**. Other trackers show close to **0%**.
 
 ## The verdict, in one paragraph
 
-From Aug 8 to Nov 6 2026, Pieverse's team-run wallets let **29.75M PIEVERSE** out into the market, and nothing took any back. Against the **274.75M** coins counted as circulating, that is a net **+10.83%** in 90 days. For the next 90 days we expect about **71.25M** new coins, a net **+25.93%**, as team and investor coins start to vest on top of the monthly community payouts. Other trackers show **+0.29%**, a gap of about **10.54 points**, because the circulating figure they use has stayed at the project's own 274.75M since June 2026 while the wallets kept paying out. The coin page carries a warning note for that reason. Our label: **supply growing, and projected to grow faster**.
+Pieverse is an AI agent payment app on Ethereum and BNB Chain, and PIEVERSE is its coin. Only **274.75M** of the 1B coins count as circulating today. Between Aug 17 and Nov 15 2026, project wallets paid out **29.75M PIEVERSE**, and nothing was bought back, burned or locked away. That is **+10.83%** in 90 days. The team and investor lock ended on **Nov 14 2026**, so the next 90 days carry those monthly releases on top of the usual payouts: about **54.58M PIEVERSE**, or **+19.87%**. Other trackers read about **+0.03%**, a gap of about **10.80** points, because the circulating figure they use has not changed since Jun 15 2026. The coin page carries a warning note for that. Our label: supply growing, and projected to keep growing.
 
 ## Sell pressure: where new PIEVERSE comes from
 
-**Protocol inflation is zero.** Pieverse has no emission. The token was created in October 2025 with 900M PIEVERSE on Ethereum and 100M on BNB Chain, and the two chains still add up to exactly 1B. The token can only mint through an approved minter, and none is set today.
+**Protocol inflation: 0.** PIEVERSE has no emission. All 1B coins were made in October 2025, 900M on Ethereum and 100M on BNB Chain. Coins can move between the two chains, but the total across both was exactly 1B on Aug 17 2026 and again on Nov 15 2026.
 
-**Vesting releases are 21.25M PIEVERSE.** The community and ecosystem pools sit in multisig wallets run by the team, and they pay out about once a month. One wallet sent 5M PIEVERSE on Aug 17, Sep 18 and Oct 20 2026, and a second sent 6.25M on Aug 17 2026. For the next 90 days we book the same community pace, 21.25M, plus the first team and investor coins. Team and advisors hold 200M on a 24-month release after a 12-month lock, and investors hold 150M on an 18-month release after the same lock. That works out to about **16.67M PIEVERSE a month** on Nov 14 2026, Dec 14 2026 and Jan 14 2027, or 50M in the window, for **71.25M** in total.
+**Vesting unlocks: 21.25M.** Two project payout wallets send coins out roughly once a month. The first paid 5M PIEVERSE on Aug 17, Sep 18 and Oct 20 2026, and now holds 30M. The second paid 6.25M on Aug 17 2026 and now holds 27.5M; it paid every month from May to August and has been quiet since. Each wallet's balance fell by exactly what it sent. Part of the August money went straight on through a bulk-send tool to many wallets, the way rewards and marketing payments leave; the 5M payouts of Sep 18 and Oct 20 still sit in the wallets that received them.
 
-**Foundation and unscheduled releases are 8.5M PIEVERSE.** An operations wallet sent 8.5M PIEVERSE to a fresh wallet on Aug 17 2026. That wallet pays out at uneven times with no public plan, so nothing is booked for it in the next 90 days. The 100M wallet that matches the foundation reserve has never sent a single coin.
+The bigger change is the end of the team and investor lock on **Nov 14 2026**. The team holds 20% of supply, released over 24 months, and investors hold 15%, released over 18 months. That works out to about **16.67M PIEVERSE** a month between them. As of Nov 15 2026 the wallets that hold those shares had not moved at all, so the first release has not reached the market yet. For the next 90 days we count the same payout pace of 21.25M plus two insider releases, on Dec 14 2026 and Jan 14 2027, for about **54.58M PIEVERSE**.
 
-**Long-term locked or bankruptcy coins are zero.** There is no court estate or bankruptcy pile of PIEVERSE. Everything still waiting sits in the team-run wallets described below, not under a legal lock.
+**Foundation and unscheduled unlocks: 8.50M.** A project operations wallet sent 8.5M PIEVERSE to a single new wallet on Aug 17 2026. This wallet pays at odd times and in odd sizes, from a few thousand coins to 30M, so we count nothing from it for the next 90 days and watch it instead.
+
+**Long-term locked or bankruptcy: 0.** No court case, hack recovery or failed company is holding PIEVERSE that could be paid out.
 
 ## Buy pressure: where new PIEVERSE goes
 
-**Programmatic buyback is zero.** Pieverse does not set aside app or payment income to buy PIEVERSE back.
+**Programmatic buyback: 0.** Pieverse does not use app income to buy PIEVERSE back, and there is no buyback contract.
 
-**Protocol fee burn is zero.** The token has no burn function, and no coins sit in a dead wallet. Coins that cross the bridge are removed on one chain and re-created on the other, so the 1B total never shrinks.
+**Protocol fee burn: 0.** Pieverse does not burn coins. The total stayed at exactly 1B across the window, and the dead address holds only dust.
 
-**Foundation buying is zero.** We found no foundation, fund or listed company buying PIEVERSE. The team wallets only send coins out.
+**Foundation buy: 0.** The project has not bought coins from the market. Its wallets only send coins out.
 
-**New long-term locks are zero.** Staking opened on Aug 25 2026, and about **10.72M PIEVERSE** is now staked on Ethereum to earn points. Staked coins still belong to their owners and count as circulating, so staking removes nothing from the count, even though it keeps some coins off the market for a while.
+**New long-term lock: 0.** Staking opened in late August 2026. Holders lock PIEVERSE for 90, 180 or 365 days and earn points, not new coins. About **10.87M PIEVERSE** is staked now, most of it bought on exchanges. Staked coins still count as circulating, so staking takes nothing out of the count, though it does keep those coins off the market until each term ends.
 
 ## Foundation and overhang
 
-Almost three quarters of all PIEVERSE still sits in nine team-run multisig wallets on Ethereum, holding **699.65M PIEVERSE** between them. The largest holds **166M** and has never moved; by its size it looks like part of the community pool. Two wallets of **150M** each and one of **50M** have never moved either; by size they match the investor share (150M) and the team and advisor share (200M), whose lock ends on Nov 14 2026. A **100M** wallet, the size of the foundation reserve, has also never moved.
+Almost three quarters of all PIEVERSE still sits in project wallets, and none of it is locked by code. A **166M** wallet the size of the community share has never moved. Two **150M** wallets and one **50M** wallet match the team and investor shares and have never moved either, even after the lock ended on Nov 14 2026. A **100M** wallet the size of the foundation reserve has never moved, although trackers say its release began in May 2026. The two monthly payout wallets hold **30M** and **27.5M**, a quieter wallet holds **20M**, and the operations wallet holds **10.15M** across both chains. If any of these balances falls, the coins that leave join the count at the next check.
 
-The wallets that pay out today hold less: the monthly community wallets have **30M** and **27.5M** left, a quiet wallet holds **20M**, and the operations wallet has **6.15M** on Ethereum plus 4M on BNB Chain. Pieverse has not published which wallet holds which pool, so the matching above is by size only. Some coins that already left are parked in fresh wallets that have never moved them, 18.5M PIEVERSE from the August to October payouts, so part of the past 90 days' release has not reached a market yet.
+## How PIEVERSE compares to other young fixed-supply tokens
 
-## How PIEVERSE compares to other AI agent tokens
+PIEVERSE has a hard cap of 1B and no emission, like many tokens launched in the last two years. Coins like this do not inflate through rewards. Their supply grows only when locked or reserved coins are handed out, so the unlock calendar and the project's own wallets decide the pace.
 
-Many AI agent tokens pay their builders and users with new coins, either through a steady emission or through large reward pools. PIEVERSE works the other way: there is no emission at all, so every new coin on the market is one that was set aside at launch and is now being let out of a team-run wallet. That makes its supply easy to read, because the wallets are public, but it also means the pace is set by the team and by the vesting dates, not by usage.
+Compared with a proof-of-stake chain like Ethereum, which pays validators new coins and burns part of every fee for a net change of about 0.2% in 90 days, PIEVERSE moves far faster: about **+10.83%** in 90 days with nothing on the buy side to slow it. Compared with older unlock tokens such as Arbitrum, where team and investor coins have been released monthly since 2024, PIEVERSE is at the very start of that road. Only about a quarter of its supply circulates, and the insider releases have just begun, so the share of new coins each month is large.
 
-The bigger difference is age. PIEVERSE first traded on Nov 14 2025, so it is barely a year old and only **27.5%** of its supply counts as circulating. Tokens that launched years ago have mostly finished vesting, so their supply moves slowly. PIEVERSE is at the point where the largest groups, the team and the investors, are just starting to receive coins, and that is why its expected growth in the next 90 days, **+25.93%**, is so much higher than for older coins in the same field.
+One thing sets PIEVERSE apart: the project keeps the reserves in its own wallets rather than in time-lock contracts, so coins reach the market only when the team sends them. That makes the pace less certain in both directions. Payouts can come faster than the schedule, as with the operations wallet, or slower, as with the foundation reserve that has not moved since launch.
 
 ## What to watch in the next 90 days
 
-**Nov 14 2026: the first team and investor release.** The 12-month lock ends and about 16.67M PIEVERSE is due. Watch whether the two 150M wallets and the 50M wallet start to send coins, and whether they go to exchanges.
+**Around Nov 20 2026:** the next payout from the 30M wallet, which has sent 5M PIEVERSE around the middle of each month since August.
 
-**Nov 14 2026: the foundation reserve.** One unlock tracker shows 25M PIEVERSE from the foundation reserve due the same day. The 100M wallet has never moved, so we book nothing until coins actually leave it.
+**From about Nov 23 2026:** the first 90-day staking terms end, and holders who staked in late August can take their coins back and sell them.
 
-**Dec 14 2026 and Jan 14 2027: the next two monthly releases.** Each adds about 16.67M PIEVERSE from the team and investor pools, on top of the community payouts that have come around the middle of each month.
+**Dec 14 2026:** the second team and investor release under the schedule, about 16.67M PIEVERSE. Watch whether the two 150M wallets and the 50M wallet finally move.
 
-**The parked coins.** About 18.5M PIEVERSE from the recent payouts still sits in fresh wallets, and another early wallet moved 9.37M PIEVERSE to a new address on Nov 5 2026. If those coins head to exchanges, selling could pick up faster than the release dates alone suggest.
+**Jan 14 2027:** the next insider release, about 16.67M PIEVERSE, with another due Feb 14 2027, just after this window.
+
+**Any time:** the 100M foundation-sized wallet. It has never moved, although trackers say the foundation share has been releasing monthly since May 2026. If it starts paying out, the count rises faster than shown here.
 
 ## Summary
 
-PIEVERSE has a 1B supply that was all created at launch, and no emission, buyback or burn changes it.
+PIEVERSE has a fixed 1B supply with no emission, no buyback and no burn, so every change comes from project wallets paying coins out.
 
-In the last 90 days team-run wallets released 29.75M PIEVERSE, a net +10.83% against the 274.75M circulating, while other trackers show only +0.29% because their circulating figure has not moved since June 2026.
+In the 90 days to Nov 15 2026 those wallets paid out **29.75M PIEVERSE**, which grew the circulating count by **+10.83%**, while other trackers show close to zero because their figure has not changed since Jun 15 2026.
 
-From Nov 14 2026 team and investor coins add about 16.67M PIEVERSE a month, so we expect about 71.25M new coins and a net +25.93% in the next 90 days.
+With the team and investor lock over since Nov 14 2026, the next 90 days point to about **54.58M** new coins, or **+19.87%**.
 
-About 699.65M PIEVERSE still waits in nine team-run wallets, so the supply of PIEVERSE will keep growing for a long time unless demand grows faster.
+About 700M PIEVERSE still sits in project wallets, so how fast those wallets move matters more than anything else in this coin's supply.
 
-*Checked Nov 6 2026. Data and explanation only, not financial advice.*
+*Checked Nov 15 2026. Data and explanation only, not financial advice.*

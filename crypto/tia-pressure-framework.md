@@ -1,6 +1,6 @@
 ---
 title:         "TIA Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
-description:   "Celestia (TIA) supply rose 3.71% in 90 days: 30.05M TIA unlocked and 6.60M minted for stakers, no fee burn. About +2.31% next as the core unlock has ended."
+description:   "Celestia (TIA) supply rose 3.53% in 90 days: 28.44M TIA unlocked and 6.57M minted for stakers, no fee burn. About +2.30% next as team unlocks have ended."
 canonical_url: "https://mrnasdog.com/research/tia/inflation"
 tags:          ["crypto", "tia", "celestia", "data-availability"]
 published:     true
@@ -12,62 +12,56 @@ Looking for the buy-or-sell answer? It is on the TIA coin page, with demand and 
 
 # TIA Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 
-TIA is inflationary. Over the 90 days to Nov 5 2026, about **36.65M TIA** joined the circulating supply: **30.05M** from locked pots opening on schedule and **6.60M** newly made for stakers. Only **500 TIA** was destroyed. Net, circulating TIA grew **+3.71%**, and the next 90 days look like **+2.31%**, because the core team's unlock stream ended on Oct 30 2026. There is no cap.
+TIA supply is growing, and it will keep growing next quarter, only more slowly. Between Aug 17 and Nov 15 2026, **35.01M TIA** joined the circulating supply, **28.44M** from unlocks and **6.57M** from new coins paid to stakers, while just **500 TIA** was destroyed. That is **+3.53%** net in 90 days against **+3.59%** on other trackers, and Celestia has no supply cap.
 
 ## The verdict, in one paragraph
 
-Celestia's supply is growing, and it will keep growing for at least another year. In the last 90 days the circulating count rose **+3.71%**, and other trackers show **+3.76%** for the same stretch, so the two views agree and the coin page carries no warning note. The label is simple: **supply growing, projected to keep growing**. The pace should slow to about **+2.31%** in the next 90 days. That is still a lot of new TIA for buyers to absorb, and almost nothing on the other side of the ledger takes coins away.
+Celestia's circulating supply rose **+3.53%** over the last 90 days, and the next 90 days point to about **+2.30%**. Other supply trackers show **+3.59%** for the same stretch, a difference of **0.06 points**, so the coin page carries no warning note. The slower pace ahead has two causes: the early team's unlocks finished on Oct 30 2026, and the yearly pay rate for stakers stepped down on Oct 31 2026. The label that fits TIA today is an unlock-driven supply with steady staker pay and almost no sink.
 
 ## Sell pressure: where new TIA comes from
 
-**Protocol inflation.** Celestia pays the people who stake TIA with newly made coins, a little in every block. Between Aug 7 and Nov 5 2026 that added **6,600,858 TIA**. The yearly rate follows a fixed path that the community agreed to lower in 2025: it started that path at 2.5% and drops by about 6.7% each year until it reaches a floor of 1.5%. Celestia's third year began on Oct 31 2026, and the rate stepped down to about **2.17%**. At that new pace the next 90 days should bring about **6.31M TIA**, a little less than the last 90.
+The first source is protocol inflation. Celestia pays the people who stake TIA in brand-new coins every block, and between Aug 17 and Nov 15 2026 that created **6,569,254 TIA**. The pay is set once a year from the size of the supply, and the rate falls by 6.7% each year toward a floor of 1.5%. On Oct 31 2026 it moved to about **2.17%** a year, so the next 90 days should bring about **6.31M TIA**, a little less than the last 90.
 
-**Vesting unlocks.** This is the bigger source by far. Two locked allocations from the launch opened day by day. The core contributors' share, set aside for the people who built Celestia, released **13.53M TIA** in the window and finished on Oct 30 2026, three years after launch. The R&D and ecosystem share, run by the Celestia Foundation, released **16.52M TIA** and keeps opening at the same steady pace until Oct 30 2027. Together they freed **30.05M TIA**. In the next 90 days only the ecosystem stream remains, worth about **16.52M TIA**, and about **65.89M TIA** of it is still to come after today.
+The second source, and the bigger one, is vesting. Two locked pots opened a little every day. The early team's coins added **11.92M TIA** up to their final day, Oct 30 2026, and that stream is now over. The Foundation's research and ecosystem pot added **16.52M TIA** and keeps opening at about 183,500 TIA a day until Oct 30 2027. Together that is **28.44M TIA** in the last 90 days, and about **16.52M** in the next 90, all of it from the ecosystem pot.
 
-**Foundation and unscheduled unlocks.** Nothing new came from here. The Foundation's operations wallet paid out about **1.45M TIA** during the window, but those coins already counted as circulating, so moving them does not add to the total.
-
-**Long-term locked or bankruptcy.** Zero. No court estate or failed company holds TIA that is waiting to be paid out to creditors.
+The third row, Foundation and unscheduled unlocks, is zero. About 125.94M TIA was set aside at launch for future projects and is not counted as circulating; only an on-chain vote can release it, and no such vote has been made or is open. The fourth row is zero too, because no court case, failed lender or frozen estate is holding TIA that could be paid out.
 
 ## Buy pressure: where new TIA goes
 
-**Programmatic buyback.** Zero. Nothing on Celestia buys TIA back with its income. A community plan posted on the forum, revised on Sep 22 2026, explores ways to link the fees rollups pay for data more closely to TIA, but it has not been voted on and switches nothing on.
+Celestia has no buyback. No contract or treasury buys TIA off the market, and a community plan on blob fees, last revised on Sep 22 2026, is still only a forum discussion without a vote.
 
-**Protocol fee burn.** Zero. When a rollup posts its data to Celestia, the fee goes to validators and the people who stake with them. No part of it is destroyed. A burn has been suggested for a future upgrade, with no date and no vote.
+Celestia also has no fee burn. Rollups pay fees to post their data, and that money goes to validators and the people who stake with them; none of it is destroyed. The Foundation has not bought TIA in 2026; its last purchase was in July 2025, when it bought back an early investor's stake and sold the coins on to new holders over the following months.
 
-**Foundation buy.** Zero in this window. The last big purchase was in July 2025, when the Foundation bought **43.45M TIA** from an early investor and placed them with new buyers on a lock-up.
-
-**New long-term lock.** Zero. Staked TIA still counts as circulating. Staking in fact fell during the window, from **497.79M** to **463.30M TIA**, so more coins became free to move, not fewer.
-
-**Governance deposit burn.** One small, one-off burn. On Oct 6 2026 a governance proposal was cancelled, and under Celestia's rules half of its deposit, **500 TIA**, was destroyed. Next to 36.65M new coins it barely registers.
+Staking is not a lock in this ledger. About 481.6M TIA is staked, but staked TIA still counts as circulating, so a bigger stake removes nothing. The one coin sink in the window was small and accidental: on Oct 6 2026 someone cancelled their own governance proposal, and the chain burned half of the deposit, **500 TIA**. Nothing like it is pending, so the buy side for the next 90 days is zero.
 
 ## Foundation and overhang
 
-The largest pile still outside the circulating count is a reserve of **125.94M TIA** set aside at launch for future public programs, such as airdrops and grants. It has no published release date. If any of it is handed out, it would add straight to supply, so we will check it at every rebuild.
+Two pots sit outside the circulating count. The bigger one is the reserve for future projects, about **125.94M TIA**, which has no schedule and needs a vote to spend. The second is what is left of the Foundation's ecosystem pot, about **64.05M TIA** on Nov 15 2026, which already sits on its day-by-day schedule and is counted in the vesting row. Together they make up the gap between the coins that exist, about 1,181.6M TIA, and the 991.6M that circulate.
 
-The second pile is the rest of the R&D and ecosystem allocation, about **65.89M TIA** on Nov 5 2026. That one is on a clear schedule, roughly **16.52M TIA** every 90 days, and is already counted in the sell side above. Inside the circulating count, the Foundation's operations wallet held about **18.99M TIA** at the end of the window, and the community pool, which only a governance vote can spend, held about **3.63M TIA**.
+The chain's community pool, about **3.64M TIA**, is already counted as circulating and has no open spending vote. We re-check every one of these pots at each rebuild. If the future-projects reserve or the ecosystem pot shrinks faster than its schedule between checks, the coins that left will be added to the Foundation and unscheduled unlocks row at the next rebuild.
 
-## How TIA compares to other proof-of-stake Layer 1 chains
+## How TIA compares to other proof-of-stake data chains
 
-Most proof-of-stake chains pay stakers with new coins, so Celestia's mint is normal for its group, and at about 2.17% a year it is now on the low side. What sets TIA apart is the size of its unlocks. Chains that launched years earlier have mostly finished vesting, so their supply grows only from staking pay. Celestia is still in its unlock years, and the opening pots add more than four times what staking pay adds.
+Celestia sells one thing, space for other chains to post their data, and it pays for its security the way most proof-of-stake chains do, with new coins for stakers. What sets TIA apart is how little comes back the other way. Ethereum also pays validators in new coins, but Ethereum burns the base fee of every transaction and the fee rollups pay for blob data, so heavy use pulls supply down. Celestia's data fees go to validators instead, so more use does not shrink TIA supply at all.
 
-The other difference is the missing burn. Chains such as Ethereum destroy part of every fee, which offsets some new supply on busy days. Celestia keeps data cheap on purpose and sends all fees to validators, so nothing pushes back against new coins. Until a burn or another use for fees is switched on, TIA's supply only goes one way.
+Against other Cosmos-built chains, Celestia's pay curve is gentler and more predictable. Many Cosmos chains raise or lower staking pay with how much of the supply is staked, while Celestia fixes the rate for each year and cuts it on a set path to 1.5%. Two network upgrades, in July 2025 and November 2025, already brought the rate down from the launch level of 8%.
+
+The bigger difference is the unlock calendar. Many chains launched in 2023 are still releasing team and investor coins, while Celestia's investor and team streams are now finished. What remains is one Foundation stream with a fixed end date of Oct 30 2027 and one reserve that needs a vote. That makes TIA's next year of new supply easier to count than for most young chains, even though the total is still large next to the circulating supply.
 
 ## What to watch in the next 90 days
 
-**From Nov 5 2026 to Feb 3 2027:** the ecosystem stream keeps adding about 183,500 TIA a day, close to **16.52M TIA** over the period, while staking pay adds about **6.31M**. This is the first quarter without the core contributors' stream, so the pace of new supply should be clearly lower than in the last 90 days.
+First, the ecosystem stream: about 183,500 TIA a day should keep entering circulation through Feb 13 2027, and any change to that pace would show up quickly in the circulating count.
 
-**The blob fee plan:** the Sep 22 2026 forum package would first need a funding vote and then its own upgrade proposal before any fee burn could start. Any on-chain vote on it would be the first sign of a buy-side force for TIA.
+Second, any on-chain vote to spend the 125.94M TIA future-projects reserve. None is open on Nov 15 2026, and the last proposal of any kind that passed closed on Dec 28 2025.
 
-**The 125.94M TIA reserve:** any announced airdrop, grant round or sale from the future-programs reserve would add new supply that is not on any schedule today.
+Third, the fee debates on the Celestia forum. A Nov 7 2026 post asks for a burn on blob fees, and the Sep 22 2026 blob-economy plan would study one. Neither has a vote, and either would need a network upgrade before a single TIA is burned.
 
-**Oct 30 2027 and Oct 31 2027:** further out, the ecosystem stream ends and the staking rate takes its next yearly step down, to about 2.02%. After that, new TIA would come almost only from staking pay.
+Fourth, staking pay. The rate is fixed until about Oct 31 2027, when it should drop again by 6.7%, so the next 90 days carry no step. A proposal posted Nov 15 2026 to make blocks faster would not change how many TIA are paid per year, because pay follows time, not block count.
 
 ## Summary
 
-TIA's circulating supply grew **+3.71%** in the 90 days to Nov 5 2026, mostly from scheduled unlocks of launch allocations rather than staking pay.
+TIA is an uncapped proof-of-stake coin whose supply rose **+3.53%** in the 90 days to Nov 15 2026, mostly from unlocks, with **6.57M TIA** of staker pay on top. The early team's unlocks ended on Oct 30 2026 and the staking rate dropped to about 2.17% on Oct 31 2026, so the next 90 days point to about **+2.30%**. Celestia has no fee burn and no buyback, so nothing on the chain soaks up the new coins. The main risks are the Foundation's ecosystem pot, which keeps opening until Oct 30 2027, and a 125.94M TIA reserve that a single vote could release.
 
-The core contributors' unlock ended on Oct 30 2026 and the staking rate fell to about 2.17% on Oct 31 2026, so the next 90 days should add about **+2.31%**.
+---
 
-Celestia has no buyback and no fee burn, so apart from a one-off 500 TIA burn, nothing takes TIA out of supply.
-
-A reserve of 125.94M TIA for future public programs has no release date and is the biggest open question for Celestia's supply.
+*MrNasDog Pressure Framework analysis of TIA, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 15 2026.*

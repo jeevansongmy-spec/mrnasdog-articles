@@ -1,20 +1,20 @@
 ---
-title:         "Flare (FLR) Inflation Rate: +1.04% New Supply in 90 Days"
-description:   "As of Nov 5 2026, Flare (FLR) supply moves +1.04% in 90 days and +4.22% in a year, so FLR is inflationary. New FLR outweighs what is burned or bought back."
+title:         "Flare (FLR) Inflation Rate: +1.01% New Supply in 90 Days"
+description:   "As of Nov 15 2026, Flare (FLR) supply moves +1.01% in 90 days and +4.11% in a year, so FLR is inflationary. New FLR outweighs what is burned or bought back."
 canonical_url: "https://mrnasdog.com/research/flr"
 content_type:  "coin_hub"
 tags:          ["crypto", "flr", "flare", "should-i-buy"]
 published:     true
 ---
-# Flare (FLR) Inflation Rate: +1.04% New Supply in 90 Days
+# Flare (FLR) Inflation Rate: +1.01% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/flr — numbers checked Nov 13 2026*
+*Source: https://mrnasdog.com/research/flr — numbers checked Nov 15 2026*
 
-**+1.04%** in 90 days, **+4.22%** in a year: that is how fast Flare (FLR) supply changes as of Nov 5 2026.
+**+1.01%** in 90 days, **+4.11%** in a year: that is how fast Flare (FLR) supply changes as of Nov 15 2026.
 
 - **Signal:** negative — FLR, read by supply and demand
 - **Score:** 3.5/10 — supply 2/5, demand 1.5/5
-- **Supply growth:** +1.04% in 90 days · +4.22% in a year
+- **Supply growth:** +1.01% in 90 days · +4.11% in a year
 - **How much people want it:** very weak (1.5/5)
 - **Price drivers:** 0 ▲ price up · 1 ▼ price down
 
@@ -22,41 +22,41 @@ published:     true
 
 ### Is Flare (FLR) inflationary or deflationary?
 
-As of Nov 5 2026, Flare (FLR) supply moves +1.04% in 90 days and +4.22% in a year, so FLR is inflationary. New FLR outweighs what is burned or bought back.
+As of Nov 15 2026, Flare (FLR) supply moves +1.01% in 90 days and +4.11% in a year, so FLR is inflationary. New FLR outweighs what is burned or bought back.
 
 ### What is the FLR inflation rate in 2026?
 
-Flare (FLR) supply grows +4.22% over the next 12 months and +1.04% over the next 90 days (checked Nov 5 2026). That puts FLR #44 of 100 coins we track for new supply (#1 = the most new supply).
+Flare (FLR) supply grows +4.11% over the next 12 months and +1.01% over the next 90 days (checked Nov 15 2026). That puts FLR #46 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next FLR token unlock?
 
-No dated Flare (FLR) unlock is scheduled in the next 90 days (checked Nov 5 2026). New FLR still arrives: about 922M FLR in 90 days.
+No dated Flare (FLR) unlock is scheduled in the next 90 days (checked Nov 15 2026). New FLR still arrives: about 901M FLR in 90 days.
 
 ### Does Flare burn or buy back FLR?
 
-Yes. In our count, about 9.77M FLR is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 5 2026). How it works: 28.0M burned by one multisig, a 6.19M fee burn, and 4.61M set aside in the FIRE fee wallet.
+Yes. In our count, about 11.5M FLR is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 15 2026). How it works: 16.0M burned by one validator wallet, a 7.60M fee burn, and 5.05M set aside in the FIRE fee wallet.
 
 ### Where does new FLR supply come from?
 
-In our count, about 922M new FLR reaches the market over the next 90 days (checked Nov 5 2026). How it works: 622.5M FLR of 3% inflation rewards plus 304.0M of rFLR and escrow unlocks in 90 days.
+In our count, about 901M new FLR reaches the market over the next 90 days (checked Nov 15 2026). How it works: 607.8M FLR of 3% inflation rewards plus 297.5M from vesting rFLR and late escrow claims in 90 days.
 
 ### How much FLR is in circulation?
 
-Flare (FLR) has about 87.7B coins in circulation as of Nov 5 2026; the next 90 days change that by +1.04% (+4.22% over a year).
+Flare (FLR) has about 87.8B coins in circulation as of Nov 15 2026; the next 90 days change that by +1.01% (+4.11% over a year).
 
-### Does FLR have more new supply than APT, STABLE or PYTH?
+### Does FLR have more new supply than PYTH, APT or VET?
 
-Over the next 90 days (checked Nov 5 2026): FLR +1.04%, APT +2.03%, STABLE 0.00%, PYTH 0.00%. FLR sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 15 2026): FLR +1.01%, PYTH 0.00%, APT +2.02%, VET 0.00%. FLR sits in the middle of these 4 coins.
 
 ## Supply: how much new FLR is coming
 
-Flare pays 3% a year in new FLR and keeps vesting rFLR rewards from a 17.13B incentive pool. Burns take back little, so supply grew about 1.01% in 90 days.
+Flare mints FLR at 3% a year to pay its data providers and validators, and rFLR reward programmes unlock more on top. About 905M FLR reached holders in 90 days while burns took back 28.7M, so supply grew 1.00%.
 
-Expect +1.04% more FLR in 90 days (+4.22% over the year). On supply alone Flare gets 2/5 — growing, #44 of 100 for new supply.
+Expect +1.01% more FLR in 90 days (+4.11% over the year). On supply alone Flare gets 2/5 — growing, #46 of 100 for new supply.
 
 ## Demand today
 
-How much do people want FLR? **very weak** — 1.5 out of 5, #78 of 109.
+How much do people want FLR? **very weak** — 1.5 out of 5, #77 of 109.
 
 (Members see more FLR demand detail on the page; it is not repeated here.)
 
@@ -75,9 +75,9 @@ More XRP comes in → price up · XRP leaves Flare → price down. Now: ▼ down
 | Aug 31 2026 | 147 M FXRP |
 | Sep 30 2026 | 144 M FXRP |
 | Oct 31 2026 | 144 M FXRP |
-| Nov 13 2026 | 145 M FXRP |
+| Nov 16 2026 | 145 M FXRP |
 
-*Checked Nov 5 2026*
+*Checked Nov 15 2026*
 
 ### • XRPFi launches
 
@@ -96,7 +96,7 @@ Good for the price: Launches pull XRP in. Bad for it: Launches draw no XRP.
 | Oct 6 2026 | Firelight cover live |
 | Nov 22 2026 (SEC filing; was delayed before) | FLR ETF effective date (coming) |
 
-*Checked Nov 5 2026*
+*Checked Nov 15 2026*
 
 ## Go deeper on Flare
 
