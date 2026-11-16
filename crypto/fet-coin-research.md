@@ -8,11 +8,11 @@ published:     true
 ---
 # ASI Alliance (FET) Tokenomics: +7.55% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/fet (checked Nov 13 2026)*
+*Originally published at https://mrnasdog.com/research/fet (checked Nov 16 2026)*
 
 As of Nov 6 2026, new ASI Alliance supply runs at **+7.55%** over 90 days and **+7.70%** over 12 months.
 
-- **Signal today:** negative (Nov 13 2026)
+- **Signal today:** negative (Nov 16 2026)
 - **MrNasDog score:** 2.5/10 — supply 0.5/5, demand 2/5
 - **New coins:** +7.55% in 90 days · +7.70% in a year
 - **Demand:** weak (2/5)
@@ -26,7 +26,7 @@ New FET: +7.55% in 90 days, +7.70% in a year. Supply score 0.5/5, "flooding", #1
 
 ## How strong is ASI Alliance demand?
 
-ASI Alliance demand: 2/5 (**weak**), place #65 among 109 coins — interest today plus the buying that could come later.
+ASI Alliance demand: 2/5 (**weak**), place #64 among 109 coins — interest today plus the buying that could come later.
 
 (Members see more FET demand detail on the page; it is not repeated here.)
 
@@ -94,9 +94,9 @@ In our count, about 175M new FET reaches the market over the next 90 days (check
 
 About 2.31B FET is in circulation (checked Nov 6 2026). Over the next 90 days that changes +7.55%, and over a year +7.70%.
 
-### Does FET have more new supply than TRUMP, BTT or SPX?
+### Does FET have more new supply than BSV, BTT or SPX?
 
-Over the next 90 days (checked Nov 6 2026): FET +7.55%, TRUMP +11.93%, BTT −2.21%, SPX 0.00%. FET sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 6 2026): FET +7.55%, BSV +0.20%, BTT −2.21%, SPX 0.00%. FET has the most new supply of these 4 coins.
 
 ## Where to read the rest of FET
 

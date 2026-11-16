@@ -8,7 +8,7 @@ published:     true
 ---
 # Falcon Finance (FF) Supply & Demand: +17.18% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/ff · checked Nov 13 2026*
+*Live page: https://mrnasdog.com/research/ff · checked Nov 16 2026*
 
 Falcon Finance (FF) supply changes **+17.18%** over the next 90 days and **+72.55%** over a year (checked Nov 6 2026).
 
@@ -45,7 +45,7 @@ Good for the price: More USDf minted. Bad for it: USDf shrinks. Now: ▲ up side
 | Aug 31 2026 | $1,179M |
 | Sep 30 2026 | $1,213M |
 | Oct 31 2026 | $1,728M |
-| Nov 13 2026 | $1,669M |
+| Nov 16 2026 | $1,516M |
 
 *Checked Nov 6 2026*
 
@@ -90,9 +90,9 @@ In our count, about 745M new FF reaches the market over the next 90 days (checke
 
 Falcon Finance (FF) has about 3.55B coins in circulation as of Nov 6 2026; the next 90 days change that by +17.18% (+72.55% over a year).
 
-### Does FF have more new supply than SEI, STRK or GNO?
+### Does FF have more new supply than PENGU, GNO or SUN?
 
-Over the next 90 days (checked Nov 6 2026): FF +17.18%, SEI +4.96%, STRK +9.23%, GNO 0.00%. FF has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 6 2026): FF +17.18%, PENGU +2.60%, GNO 0.00%, SUN −0.04%. FF has the most new supply of these 4 coins.
 
 ## Where to read the rest of FF
 

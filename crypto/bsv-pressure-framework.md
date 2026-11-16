@@ -1,6 +1,6 @@
 ---
 title: "BSV Inflation Analysis · November 2026 · Mixed flows · supply roughly steady"
-description: "Bitcoin SV supply in 90 days: 40,272 new BSV from 12,887 mined blocks, no burn, no buyback, no vesting. Net +0.20%, the same next, under a hard 21M cap."
+description: "Bitcoin SV supply in 90 days: 40,284 new BSV from 12,891 mined blocks, no burn, no buyback, no vesting. Net +0.20%, the same next, under a hard 21M cap."
 canonical_url: "https://mrnasdog.com/research/bsv/inflation"
 tags: ["crypto", "bsv", "bitcoin-sv", "proof-of-work"]
 published: true
@@ -12,50 +12,62 @@ published: true
 
 # BSV Inflation Analysis · November 2026 · Mixed flows · supply roughly steady
 
-Bitcoin SV's supply is growing slowly and only through mining: up **+0.20%** in the 90 days from Aug 8 to Nov 6 2026, and on course for the same **+0.20%** in the next 90 days. Miners received **40,272 BSV** of new coins from **12,887 blocks**, nothing was burned or bought back, and every coin stays under a hard cap of **21M BSV**. Other trackers show about **+0.20%** too, so the coin page carries no warning note.
+Bitcoin SV's supply is growing slowly and only through mining: up **+0.20%** in the 90 days from Aug 18 to Nov 16 2026, with the same **+0.20%** expected over the next 90 days. Miners found **12,891 blocks** and were paid **40,284 new BSV**, while nothing was burned, bought back or locked, and every coin sits under a hard cap of **21M BSV**. Other trackers show **+0.18%**, close enough that the coin page carries no warning note.
 
 ## The verdict, in one paragraph
 
-Over the 90 days to Nov 6 2026, BSV supply rose by a net **+0.20%**, from about 20.07M to 20.11M BSV. Other trackers report **+0.20%** for the same 90 days, a gap of less than **0.01 percentage points**, so the two readings agree and the coin page shows no warning note. The next 90 days look the same, because the block reward stays at 3.125 BSV until the next halving, which is still about a year and a half away. In one line, BSV today is a capped proof-of-work coin in the late stage of its schedule, where a small and steady flow of new coins goes to miners and nothing flows back out.
+Over the 90 days to Nov 16 2026, BSV's supply rose by **+0.20%**, and the next 90 days should add the same **+0.20%**. Other trackers put the same period at **+0.18%**, a difference of only **0.02 points**, so the coin page shows no warning note. Every new coin came from the block reward, and no coin left the supply. The plain label for BSV is a quiet, capped mining chain: a small, steady drip of new coins that only gets smaller over time.
 
 ## Sell pressure: where new BSV comes from
 
-Mining is the only source of new BSV. Every block pays the miner who finds it a subsidy of **3.125 BSV**, and between Aug 8 and Nov 6 2026 miners found **12,887 blocks**, which created **40,272 BSV**. The chain aims for one block every ten minutes, or 144 a day, but it ran at about **143.2 blocks a day** in this window, just over half a percent slow, so the real figure sits slightly below the round-number estimate of 40,500 BSV. The 90 days before that produced 12,940 blocks, so the pace is steady. Miners also collect transaction fees, but those fees are paid with coins that already exist and add nothing to supply.
+The block reward is the only real source. Each block pays the miner who found it **3.125 BSV**, and between Aug 18 and Nov 16 2026 miners found **12,891 blocks**, about 143 a day, a little under the target of 144. That added **40,284 BSV**, or about 448 BSV a day. The reward halves every 210,000 blocks, and the next cut, to 1.5625 BSV, falls at block 1,050,000, around April 2028, so the next 90 days pay the same rate.
 
-Vesting unlocks are **zero** because BSV never had a sale, a team share or a locked allocation. It split from Bitcoin Cash on Nov 15 2018, and every holder simply kept a matching balance on the new chain, all of it spendable from the first day.
+Vesting adds **0**. Bitcoin SV split from Bitcoin Cash on Nov 15 2018 and copied every existing balance across, so there was never a token sale, a team share or an investor batch waiting to open.
 
-Foundation and unscheduled unlocks are also **zero**. The BSV Association that steers the node software does not hold a reserve of BSV waiting to be released, and almost every coin ever mined already counts as circulating, so there is no hidden pile outside the float that could suddenly appear.
+Foundation and unscheduled releases add **0**. The BSV Association pays for node software and the new Teranode node, but it never received an allocation of coins, so there is no foundation wallet that could release a lump.
 
-Long-term locked and bankruptcy coins book **zero** as well, even though two large court piles exist. The Mt. Gox estate once held nearly **202,000 BSV**, coins its creditors cannot choose as a repayment, which the trustee said would be sold or had already been sold. Chinese prosecutors, in a case a Tianjin court accepted with a notice dated Oct 13 2026, are seeking **72,746 BSV** tied to the Qian Zhimin fraud, and reports say UK authorities have already converted those coins. Both piles already count as circulating, so a sale or payout moves existing coins rather than adding new ones.
+Long-term locked or bankruptcy coins add **0** as well. The Mt. Gox estate once held nearly **202,000 BSV**, which its creditors cannot be paid in, and a court case in China asks for about **72,746 BSV** linked to the Qian Zhimin fraud. Both piles were already counted as circulating, so a sale would move existing coins, not add new ones.
 
 ## Buy pressure: where new BSV goes
 
-There is no programmatic buyback, so that row is **zero**. No company, fund or smart contract buys BSV back on behalf of the network, and no protocol revenue is set aside for it.
+Nothing takes BSV out of circulation. There is no buyback: no contract or treasury buys coins back, and every transaction fee goes to the miner who found the block.
 
-The protocol fee burn is **zero** because Bitcoin SV burns nothing by design: every fee goes to the miner. Some people do send coins to well-known dead addresses, but the three best known have taken in only about **2,206 BSV** over the chain's whole life, and only a tiny fraction of a single coin arrived during this window.
+There is no fee burn either. The well-known dead addresses on the chain did not change between Nov 6 and Nov 16 2026, and over the whole 90 days they took in only dust, about **0.001 BSV**.
 
-Foundation buying is **zero**, since nobody has announced a plan to buy BSV for a reserve. New long-term locks are also **zero**: BSV has no staking and no lock-up product. The chain does have rules that let miners freeze coins named in a valid court order and later reassign them, but frozen coins still exist and still count, so even a used order removes nothing from supply.
+No foundation buys BSV for the network, so that row is **0**. Buyers on the market take coins that already circulate, which leaves the count where it was.
+
+There is no staking and no lock-up, so the new-lock row is **0**. Bitcoin SV has a court-order tool that lets miners freeze or hand back stolen coins, but no order was carried out in the window, and handing coins back only moves them from one owner to another.
 
 ## Foundation and overhang
 
-Bitcoin SV has no team-controlled overhang. There is no foundation treasury, no investor allocation and no locked tranche, so no insider wallet can add new coins to the market. The two piles that matter are held by courts and estates, not by the project: the Mt. Gox estate, whose old figure was nearly 202,000 BSV and whose repayment deadline now runs to Oct 31 2027, and the 72,746 BSV sought in the Qian Zhimin forfeiture case. Neither has a public wallet we can follow, and both already count as circulating. If either pile is ever sold, the coins move from one holder to another rather than entering supply, so the count would not change.
+No team or foundation holds an overhang of BSV. Two outside piles are worth naming, though neither can raise the supply. The Mt. Gox estate held nearly **202,000 BSV** in 2020 and planned to sell it, because creditors are paid only in cash, bitcoin and Bitcoin Cash; it is not clear how much is left, and the estate now has until **Oct 31 2027** to finish repayments. The Qian Zhimin case lists about **72,746 BSV** among the assets Chinese prosecutors want confiscated, and it is not public whether those coins are still held in BSV.
+
+Both piles already count as circulating, so a sale would be selling pressure on the price but would not add a single new coin. We re-check both at every rebuild; if either pile turns out to sit outside the circulating count and starts to move, the outflow enters the foundation row at the next check.
 
 ## How BSV compares to other proof-of-work chains
 
-BSV shares its money rules with Bitcoin and Bitcoin Cash. All three cap supply at 21M coins, all three cut the block reward in half every 210,000 blocks, and all three now pay **3.125 coins** per block. Bitcoin's supply grew about **0.19%** over the same 90 days, almost exactly BSV's pace, because both chains are in the same halving era and both aim for ten-minute blocks. The real difference is not the schedule but who secures it: Bitcoin draws far more mining power, while BSV relies on a smaller group of miners, so its block pace can drift a little more from the target.
+BSV runs the same supply rules as Bitcoin: 21M cap, a reward that halves every 210,000 blocks, and **3.125** coins a block in this era. Bitcoin's supply also grew about **0.20%** over the same 90 days, so the two chains add new coins at almost exactly the same rate. Both halve at block 1,050,000 too, though the dates differ a little because each chain finds blocks at its own pace.
 
-Against Litecoin, BSV looks similar in shape but different in size. Litecoin also halves and has a hard cap, at 84M coins, but its blocks come every two and a half minutes. Dogecoin is the clear contrast: it pays a fixed 10,000 DOGE per block forever with no cap, so its new supply never shrinks the way BSV's does at each halving.
+Bitcoin Cash, the chain BSV split from, follows the same schedule, so the three Bitcoin-family coins all inflate at about 0.2% a quarter today. The difference with BSV is the spending side: none of the three burns fees or buys coins back, so all of their supply change is mining.
 
-None of these chains burns fees or buys coins back, so for all of them the supply story is simply the mining schedule. For BSV that means the most important date is the next halving, at block 1,050,000, when the reward drops to 1.5625 BSV and new supply roughly halves overnight.
+Dogecoin is the contrast. It pays a fixed 10,000 DOGE per block with no cap and no halving, so its supply grows forever, although the percentage shrinks as the total gets larger. BSV's flow, by design, keeps halving toward zero.
 
 ## What to watch in the next 90 days
 
-First, the block pace through Feb 4 2027: if miners keep finding about 143 blocks a day, the next 90 days add close to 40,300 BSV, and a large shift of mining power could nudge that a little up or down. Second, the Tianjin court case over the Qian Zhimin assets, whose six-month notice period from Oct 13 2026 runs until about April 2027; a ruling would decide who owns the 72,746 BSV but would not create any. Third, any Mt. Gox trustee update before the Oct 31 2027 deadline, which would only move coins that already exist. Fourth, Teranode, the new node software the BSV Association is rolling out with no fixed mainnet date, which changes how much the chain can carry but not the block reward. Fifth, the next halving at block 1,050,000, expected around April 2028, well outside this window.
+The block pace: miners found about 143 blocks a day this quarter, and a big swing in mining power could speed up or slow down how many new BSV arrive before the network adjusts.
+
+Teranode: on Nov 4 2026 the BSV Association mined a test block of about 505GB with 2.8 billion transactions on an internal test network, and a public test network is promised with no date yet; none of this changes the reward.
+
+The Qian Zhimin confiscation case: a Tianjin court accepted it on Sep 28 2026 and published a six-month notice on Oct 13 2026, so a hearing on the 72,746 BSV is unlikely before April 2027.
+
+The Mt. Gox estate: its repayment deadline is now Oct 31 2027, and any sale of leftover BSV would be existing coins, not new ones.
+
+The court-order tool: if a court order to freeze or hand back coins is ever carried out, it moves existing coins and leaves the supply where it is.
 
 ## Summary
 
-Bitcoin SV's supply grew **+0.20%** in the 90 days to Nov 6 2026, all of it from the mining reward of 3.125 BSV per block, and it should grow by the same amount in the next 90 days. BSV has no vesting, no team treasury, no buyback and no burn, so there is nothing that adds coins in sudden lumps and nothing that takes coins back. The court-held Mt. Gox and Qian Zhimin piles could reach the market, but they already count as circulating and would not raise the supply. With about **20.11M** of a hard **21M BSV** already mined, the new flow will roughly halve again around April 2028.
+Bitcoin SV's supply grew **+0.20%** in the 90 days to Nov 16 2026 and should grow by the same amount in the next 90 days, all of it from the **3.125 BSV** block reward. BSV has no vesting, no team treasury, no buyback and no burn, so new coins never arrive in sudden lumps and none are ever taken back. The Mt. Gox and Qian Zhimin piles could reach the market, but they already count as circulating and would not raise the supply. With about **20.11M** of a hard **21M BSV** already mined, the new flow halves again around April 2028.
 
 ---
 
-*MrNasDog Pressure Framework analysis of BSV, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 6 2026.*
+*MrNasDog Pressure Framework analysis of BSV, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 16 2026.*

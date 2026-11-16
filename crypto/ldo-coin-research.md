@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Lido DAO (LDO) Inflationary? +5.08% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/ldo, updated Nov 13 2026*
+*From https://mrnasdog.com/research/ldo, updated Nov 16 2026*
 
 How much new LDO is coming? **+5.08%** in the next 90 days, **+2.63%** in the next year — checked Nov 6 2026.
 
@@ -33,7 +33,7 @@ Good for the price: More ETH staked. Bad for it: ETH leaves Lido. Right now it p
 | Aug 31 2026 | 9.63 M ETH |
 | Sep 30 2026 | 9.87 M ETH |
 | Oct 31 2026 | 9.69 M ETH |
-| Nov 13 2026 | 9.76 M ETH |
+| Nov 16 2026 | 9.75 M ETH |
 
 *Checked Nov 6 2026*
 
@@ -48,7 +48,7 @@ Staking yield holds up → price up · Staking yield gets cut → price down. To
 | Aug 31 2026 | 2.27% |
 | Sep 30 2026 | 2.25% |
 | Oct 31 2026 | 4.16% |
-| Nov 13 2026 | 2.33% |
+| Nov 16 2026 | 2.35% |
 
 *Checked Nov 6 2026*
 
@@ -60,7 +60,7 @@ Lido DAO adds +5.08% new supply in the next 90 days and +2.63% over a year — s
 
 ## Demand: how much people want LDO
 
-Demand reads **very weak** (1.5/5), #78 of 109 coins we track — that is how much people want LDO now and how much buying could still come.
+Demand reads **very weak** (1.5/5), #77 of 109 coins we track — that is how much people want LDO now and how much buying could still come.
 
 (Members see more LDO demand detail on the page; it is not repeated here.)
 
@@ -90,9 +90,9 @@ In our count, about 48.9M new LDO reaches the market over the next 90 days (chec
 
 About 830M LDO is in circulation (checked Nov 6 2026). Over the next 90 days that changes +5.08%, and over a year +2.63%.
 
-### Does LDO have more new supply than PENDLE, XPL or KITE?
+### Does LDO have more new supply than PENDLE, XPL or SEI?
 
-Over the next 90 days (checked Nov 6 2026): LDO +5.08%, PENDLE +2.58%, XPL +14.35%, KITE +22.04%. LDO sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 6 2026): LDO +5.08%, PENDLE +2.58%, XPL +14.35%, SEI +4.14%. LDO sits in the middle of these 4 coins.
 
 ## Next steps for LDO
 

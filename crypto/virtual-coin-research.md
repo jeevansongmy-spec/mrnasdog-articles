@@ -8,11 +8,11 @@ published:     true
 ---
 # Virtuals Protocol (VIRTUAL) Tokenomics: +0.04% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/virtual (checked Nov 13 2026)*
+*Originally published at https://mrnasdog.com/research/virtual (checked Nov 16 2026)*
 
 As of Nov 6 2026, new Virtuals Protocol supply runs at **+0.04%** over 90 days and **+0.04%** over 12 months.
 
-- **Signal:** mixed (Nov 13 2026)
+- **Signal:** mixed (Nov 16 2026)
 - **Score:** 6/10 — supply 3.5/5, demand 2.5/5
 - **Supply growth:** +0.04% in 90 days · +0.04% in a year
 - **How much people want it:** modest (2.5/5)
@@ -26,7 +26,7 @@ New VIRTUAL: +0.04% in 90 days, +0.04% in a year. Supply score 3.5/5, "steady", 
 
 ## Who wants Virtuals Protocol right now
 
-Virtuals Protocol demand: 2.5/5 (**modest**), place #47 among 109 coins — interest today plus the buying that could come later.
+Virtuals Protocol demand: 2.5/5 (**modest**), place #48 among 109 coins — interest today plus the buying that could come later.
 
 (Members see more VIRTUAL demand detail on the page; it is not repeated here.)
 
@@ -96,9 +96,9 @@ In our count, about 295K new VIRTUAL reaches the market over the next 90 days (c
 
 About 658M VIRTUAL is in circulation (checked Nov 6 2026). Over the next 90 days that changes +0.04%, and over a year +0.04%.
 
-### Does VIRTUAL have more new supply than CRV, PIEVERSE or BSV?
+### Does VIRTUAL have more new supply than VET, TIA or BSV?
 
-Over the next 90 days (checked Nov 6 2026): VIRTUAL +0.04%, CRV +1.96%, PIEVERSE +25.93%, BSV +0.20%. VIRTUAL has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 6 2026): VIRTUAL +0.04%, VET 0.00%, TIA +2.30%, BSV +0.20%. VIRTUAL sits in the middle of these 4 coins.
 
 ## Where to read the rest of VIRTUAL
 

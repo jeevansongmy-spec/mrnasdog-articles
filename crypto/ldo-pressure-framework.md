@@ -1,6 +1,6 @@
 ---
 title:         "LDO Inflation Analysis · November 2026 · Supply was shrinking · trend softening"
-description:   "LDO supply fell 0.81% in 90 days as the Lido DAO treasury bought back 6.74M LDO, but 48.93M locked LDO open on Jan 1 2027. No new LDO is made or burned."
+description:   "LDO supply fell 0.82% in 90 days as the Lido DAO bought back 6.73M LDO, but 48.93M locked LDO open on Jan 1 2027, so about +4.36% is next. No LDO is made."
 canonical_url: "https://mrnasdog.com/research/ldo/inflation"
 tags:          ["crypto", "ldo", "lido", "defi"]
 published:     true
@@ -12,52 +12,60 @@ Looking for the buy-or-sell answer? It is on the LDO coin page, with demand and 
 
 # LDO Inflation Analysis · November 2026 · Supply was shrinking · trend softening
 
-LDO supply was shrinking over the last 90 days, but the trend turns the other way in the next 90. No new LDO is ever paid out: all **1B** coins were made at launch, and the Lido DAO treasury took **6.74M LDO** off the market by swapping staked ETH for it, so the float fell about **0.81%**, the same as the outside supply reading of **−0.81%**. On **Jan 1 2027**, a one-year lock of **48.93M LDO** opens, which should lift supply about **5.08%** even after another batch of buybacks.
+**LDO**, the governance token of **Lido**, shrank its circulating supply by **0.82%** over the 90 days to Nov 16 2026, because the Lido DAO swapped staked ETH for **6.73M LDO** and parked it in its treasury, while **0 LDO** of new supply reached the market. That trend turns in the next 90 days: **48.93M LDO** locked after a 2025 wallet hack opens in one step on **Jan 1 2027**, against about **13.09M LDO** of expected buybacks, so LDO supply is set to grow about **+4.36%**. The total stays capped at **1B LDO**, and market trackers show **−0.84%** for the past 90 days, in line with this reading.
 
 ## The verdict, in one paragraph
 
-From Aug 8 to Nov 6 2026, LDO's circulating supply fell by **0.81%**: nothing new reached the market and the DAO treasury pulled **6.74M LDO** back in. Outside supply trackers show **−0.81%** over the same 90 days, a gap of only **0.006 points**, so the coin page carries no warning note. Looking ahead, the picture flips. A single cliff of **48.93M LDO** on Jan 1 2027 outweighs the roughly **6.78M LDO** the next buyback batch should take back, so the next 90 days point to supply growth of about **5.08%**. In one line: LDO is a fixed-count governance coin whose float shrank on treasury buybacks and now faces one large unlock.
+Over the 90 days from Aug 18 to Nov 16 2026, LDO's circulating supply fell by **0.82%**, from DAO buybacks alone, with no new LDO unlocked, minted or paid out. Market trackers measure the same period at **−0.84%**, a difference of just **0.02 percentage points**, so the LDO coin page carries no warning note. The next 90 days look very different: the Jan 1 2027 unlock of **48.93M LDO** is nearly four times the LDO the DAO is expected to buy back, which puts the forward reading at about **+4.36%**. In one line: LDO is a fixed-supply governance token whose shrinking float is about to take one large, dated unlock.
 
 ## Sell pressure: where new LDO comes from
 
-Protocol inflation is **zero**. LDO has no block rewards and no emission schedule; all 1B LDO were created in December 2020, and making more would take a full vote of LDO holders, which has not happened. The total count stayed at exactly 1B through the window.
+**Protocol inflation is 0 LDO.** All 1 billion LDO were created when Lido launched in December 2020, and Lido pays its stakers in staked ETH, not LDO, so there is no emission at all. The on-chain LDO supply read exactly **1,000,000,000** on Aug 18 and on Nov 16 2026. The LDO contract can still create new tokens, but only through a full Lido DAO vote, and no such vote is proposed.
 
-Vesting unlocks were **zero** in the last 90 days, because the original team and investor vesting ran out in 2022. The next 90 days are different. In December 2025 a large LDO holder lost control of a wallet to a thief, and a DAO vote that passed on Jan 1 2026 took the locked coins back and handed them to ten new wallets owned by the same holder, with a one-year lock. Those **48.93M LDO** are not counted as circulating today, and the lock ends for all ten wallets on **Jan 1 2027**. Because the whole amount opens on one day, the full **48.93M** is counted in the next 90 days. The DAO can still cancel these grants, but no one has proposed that.
+**Vesting unlocks were 0 LDO in the last 90 days, and are 48.93M LDO in the next 90.** In December 2025 a large LDO holder lost control of a wallet. The Lido DAO froze the tokens, and vote #197, which passed on Jan 1 2026, moved **48,934,690 LDO** into ten new wallets owned by the same holder, locked for exactly one year. The lock has no gradual release: every one of those LDO becomes free to move on **Jan 1 2027**. Some unlock trackers still list LDO as fully unlocked, so this date is easy to miss.
 
-Foundation and unscheduled unlocks were **zero**. The DAO treasury sent no LDO out between Aug 8 and Nov 6 2026. Its last payment was 97,656 LDO on Mar 2 2026, and the contributor pay plan that used to draw on it ended on Oct 31 2026. Long-term locked or bankruptcy supply is also **zero**: there is no court estate holding LDO. The 6.24M LDO stolen from Binance's hot wallet on Oct 29 2026 were already circulating and were sold on the market, so they changed who holds LDO, not how many are out.
+**Foundation and unscheduled unlocks were 0 LDO.** The Lido DAO treasury sent no LDO out between Aug 18 and Nov 16 2026. Its last payouts were contributor rewards in February 2026 and a small grants payment on Mar 2 2026, and the contributor reward program ended on Oct 31 2026, so any new LDO pay for contributors needs a fresh DAO request.
+
+**Long-term locked or bankruptcy LDO is 0.** No court estate holds LDO. The Oct 29 2026 Binance hack took **6.24M LDO** from the exchange's hot wallet, and the thief sold all of it on-chain, but those tokens were already circulating, so the theft moved LDO without adding any.
 
 ## Buy pressure: where new LDO goes
 
-The automatic buyback took **6,354 LDO**. Lido switched it on on Aug 10 2026. It buys only when the DAO earns more than its yearly budget, and it made one small order on Aug 13 2026 before lower income turned it off. With income still under that line, it is not expected to buy in the next 90 days.
+**The programmatic buyback took 0 LDO in the window.** Lido's automatic buyback went live on Aug 10 2026. It only buys when the DAO's share of staking income runs above **$40M a year**, and it made a single small purchase of **6,354 LDO** on Aug 13 2026, just before this window, then nothing, because income stayed below that line. A forum push to tie that line to the DAO's 2027 budget is still open.
 
-The protocol fee burn is **zero**. Lido's staking fee is paid in stETH to the treasury and node operators, and no part of it destroys LDO.
+**The protocol fee burn is 0 LDO.** Lido does not burn LDO. Its fees are taken in staked ETH, and the LDO supply did not move.
 
-The treasury's own buying did the real work: **6.73M LDO**. On Apr 13 2026 LDO holders voted to let the DAO swap up to 10,000 stETH for LDO in batches of 1,000, buying only below a set price against ETH. Two deliveries landed in the window, **2,148,138 LDO** on Aug 25 and **4,583,559 LDO** on Sep 25 2026. Because the treasury is not counted as circulating, every coin that lands there leaves the market. A fourth batch of 1,000 stETH is running until Nov 24 2026; at today's price that buys about **6.78M LDO**, and that amount is counted for the next 90 days. Buying paused for a few days after the Binance hack and has since resumed.
+**DAO treasury buying took 6.73M LDO off the market.** In April 2026 Lido DAO tokenholders approved spending up to **10,000 stETH** to buy LDO in rounds of **1,000 stETH**, each under a published price cap. The bought LDO goes back to the DAO treasury, where it no longer counts as circulating. **2.15M LDO** arrived on Aug 25 and **4.58M LDO** on Sep 25 2026. The fourth round paused briefly around the Binance hack, then delivered **6.59M LDO** on Nov 16 2026, just after the window closed, so it counts toward the next 90 days. With **6,000 stETH** still unspent and every round so far followed straight by the next, one more round of about **6.50M LDO** at today's price is expected before mid-February, for about **13.09M LDO** in all.
 
-New long-term locks are **zero**. Voting or delegating LDO does not lock it, and LDO has no staking of its own.
+**New long-term locks are 0 LDO.** LDO has no staking lock or vote-escrow, so the only place LDO leaves the float is the DAO treasury.
 
 ## Foundation and overhang
 
-The largest overhang is the Lido DAO treasury, with **121.50M LDO** on Nov 6 2026, up from 114.76M on Aug 8 because of the buybacks. It only pays out after a DAO vote or a limited, pre-approved motion. The second is the hack-recovery lock of **48.93M LDO**, which opens on Jan 1 2027 and is already counted in the next 90 days. The buyback wallet also holds about **5.16M LDO** bought on Oct 29 and Nov 5 2026; those coins are still counted as circulating until they are handed to the treasury. One more door is open but unused: on Sep 21 2026 holders approved lending up to **7.5M LDO** from the treasury to market makers if exchange trading dries up. We re-check these balances at every rebuild. If the treasury's balance falls between checks, that outflow is added to sell pressure at the next refresh.
+The largest LDO overhang is the **Lido DAO treasury**, which holds **128.09M LDO** after the Nov 16 2026 delivery, up from **114.77M** on Aug 18. Every LDO buyback lands here, the balance is on-chain and checked at each rebuild, and it has no release schedule.
+
+The second is the **hack-recovery lock** of **48.93M LDO** in ten wallets, which opens on Jan 1 2027 and is already counted in the vesting row. The DAO could in principle cancel that lock by vote, but nobody has proposed it.
+
+The third is a **standby market-making loan**. In October 2026 the Lido DAO approved lending up to **7.5M LDO**, or $1.5M worth if that is less, to market makers if LDO trading on a big exchange gets too thin. It has not been used. If the treasury balance falls between rebuilds, through this loan, new contributor pay or grants, the outflow enters the Foundation row at the next rebuild.
 
 ## How LDO compares to other DeFi governance tokens
 
-LDO belongs to the group of governance coins with a fixed count that was fully minted at launch, like UNI or AAVE. For these coins, supply does not grow from block rewards the way it does on proof-of-stake chains. What moves the float is the treasury: when it pays people, coins enter the market, and when it buys coins back and keeps them, coins leave. In 2026 LDO's treasury has been a buyer, so its float has been shrinking.
+LDO sits with the fixed-supply DeFi governance tokens: a hard total of tokens, no emission to stakers and a large DAO treasury, so LDO supply changes come from two places only: treasury tokens entering the market, and tokens leaving it through buybacks. That is unlike staking-reward chains such as Ethereum, where new coins are paid out every few minutes whether anyone sells or not.
 
-LDO differs from the many fee-burning tokens in one way. Coins Lido buys back are kept in the treasury, not destroyed, so they could come back out after a future vote. A burn ends that question for good; a treasury buyback leaves it open. LDO is also unusual in still having a large, dated cliff four years after launch. Most governance coins from 2020 and 2021 finished their unlocks long ago, but the hack-recovery lock gives LDO one more big unlock day.
+The Lido buyback is also different in kind. Several DeFi tokens burn what they buy, so the supply cap itself falls. Lido keeps its bought-back LDO in the treasury: it leaves the circulating count, but it is not destroyed and could return later by DAO vote. And unlike tokens that run a steady share of fees into buybacks, most of Lido's buying so far has come from a fixed pot of treasury stETH rather than from income, because the automatic buyback has bought almost nothing.
+
+LDO's one large risk is a single dated unlock. Many governance tokens release investor and team tokens in monthly slices; LDO finished those years ago, and its 48.93M Jan 1 2027 unlock is a one-off left over from a wallet hack.
 
 ## What to watch in the next 90 days
 
-Nov 24 2026: the fourth buyback batch closes, and the report should show how many LDO went back to the treasury. The next batch of 1,000 stETH needs its own price cap and a fresh objection window.
+The **fourth buyback round report** and the posting of a fifth round are expected in late November 2026; the fourth round's outer deadline is **Nov 24 2026**.
 
-End of November 2026: the 2027 budget request, where contributors have said they will consider linking the automatic buyback's trigger to the approved budget. A lower budget would let it start buying again.
+The **2027 Lido DAO budget request**, expected at the end of November 2026, may tie the automatic buyback to the approved budget and may ask for new LDO for contributor pay.
 
-Jan 1 2027: the **48.93M LDO** hack-recovery lock opens in all ten wallets at once, the single biggest supply event in this window.
+The **Jan 1 2027 unlock** of 48.93M LDO, and whether the ten wallets move the tokens to exchanges after that date.
 
-Any time: whether the treasury switches on the market-making loan of up to 7.5M LDO, which would move those coins into the market.
+Any use of the **7.5M LDO market-making loan**, which would show as an outflow from the DAO treasury.
 
 ## Summary
 
-LDO has a fixed count of 1B coins and no emission, so its supply only moves when the Lido DAO treasury pays coins out or buys them back. Over the 90 days to Nov 6 2026 the treasury bought back **6.74M LDO** with staked ETH, and circulating supply fell about **0.81%**, matching outside trackers. The main risk ahead is the **48.93M LDO** lock that opens on Jan 1 2027, which is about seven times the next buyback batch and points to supply growth of about **5.08%** in the next 90 days. The bought-back coins stay in the treasury rather than being burned, so they remain a future supply the DAO controls.
+LDO's circulating supply shrank **0.82%** in the 90 days to Nov 16 2026, because the Lido DAO bought **6.73M LDO** with staked ETH and kept it in its treasury, while no new LDO reached the market. LDO has a fixed **1B** supply and no emission, so its supply moves only through treasury buybacks and unlocks. The key risk is the **48.93M LDO** hack-recovery unlock on Jan 1 2027, which outweighs the expected **13.09M LDO** of buybacks and puts the next 90 days at about **+4.36%**. The treasury's **128.09M LDO** is the largest overhang behind that unlock.
 
-*MrNasDog Pressure Framework analysis of LDO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 6 2026.*
+*MrNasDog Pressure Framework analysis of LDO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 16 2026.*

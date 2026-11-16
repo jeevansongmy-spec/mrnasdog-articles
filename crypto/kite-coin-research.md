@@ -8,7 +8,7 @@ published:     true
 ---
 # Is KITE Inflationary? +22.04% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/kite, updated Nov 13 2026*
+*From https://mrnasdog.com/research/kite, updated Nov 16 2026*
 
 How much new KITE is coming? **+22.04%** in the next 90 days, **+88.14%** in the next year — checked Nov 6 2026.
 
@@ -22,11 +22,11 @@ How much new KITE is coming? **+22.04%** in the next 90 days, **+88.14%** in the
 
 Kite never mints new KITE, but insider coins freed on Nov 3 2026 sit unmoved and 526.91M more unlock by Feb 3 2027, about 22% of today's supply.
 
-Kite adds +22.04% new supply in the next 90 days and +88.14% over a year — supply scores 0/5 (extreme) (place 4 of 100).
+Kite adds +22.04% new supply in the next 90 days and +88.14% over a year — supply scores 0/5 (extreme) (place 3 of 100).
 
 ## Demand today
 
-Demand reads **weak** (2/5), #65 of 109 coins we track — that is how much people want KITE now and how much buying could still come.
+Demand reads **weak** (2/5), #64 of 109 coins we track — that is how much people want KITE now and how much buying could still come.
 
 A deeper KITE demand breakdown is on the page for members.
 
@@ -45,7 +45,7 @@ Tens of thousands of transactions a day; over 3.7M since Dec 2025.
 | Nov 2 2026 | 66,338 txs |
 | Nov 3 2026 | 82,956 txs |
 | Nov 4 2026 | 81,932 txs |
-| Nov 13 2026 | 41,496 txs |
+| Nov 16 2026 | 81,483 txs |
 
 *Checked Nov 6 2026*
 
@@ -74,7 +74,7 @@ KITE is inflationary right now: its supply changes +22.04% over the next 90 days
 
 ### What is the KITE inflation rate in 2026?
 
-About +88.14% a year: that is how much KITE supply changes over the next 12 months, with +22.04% in the next 90 days (checked Nov 6 2026). That puts KITE #4 of 100 coins we track for new supply (#1 = the most new supply).
+About +88.14% a year: that is how much KITE supply changes over the next 12 months, with +22.04% in the next 90 days (checked Nov 6 2026). That puts KITE #3 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next KITE token unlock?
 
@@ -92,9 +92,9 @@ In our count, about 527M new KITE reaches the market over the next 90 days (chec
 
 About 2.39B KITE is in circulation (checked Nov 6 2026). Over the next 90 days that changes +22.04%, and over a year +88.14%.
 
-### Does KITE have more new supply than XPL, BONK or OP?
+### Does KITE have more new supply than TRUMP, STRK or BONK?
 
-Over the next 90 days (checked Nov 6 2026): KITE +22.04%, XPL +14.35%, BONK 0.00%, OP +0.98%. KITE has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 6 2026): KITE +22.04%, TRUMP +11.93%, STRK +8.97%, BONK 0.00%. KITE has the most new supply of these 4 coins.
 
 ## More on Kite
 
