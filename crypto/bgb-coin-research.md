@@ -8,11 +8,11 @@ published:     true
 ---
 # Bitget Token (BGB) Tokenomics: 0.00% Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/bgb (checked Nov 13 2026)*
+*Originally published at https://mrnasdog.com/research/bgb (checked Nov 17 2026)*
 
 As of Nov 12 2026, new Bitget Token supply runs at **0.00%** over 90 days and **0.00%** over 12 months.
 
-- **Signal:** mixed (Nov 13 2026)
+- **Signal:** mixed (Nov 17 2026)
 - **Score:** 5/10 — supply 4.5/5, demand 0.5/5
 - **Supply growth:** 0.00% in 90 days · 0.00% in a year
 - **How much people want it:** very low (0.5/5)
@@ -45,7 +45,7 @@ Good for the price: Reserves grow. Bad for it: Money leaves Bitget.
 | Aug 31 2026 | $5.38B |
 | Sep 30 2026 | $5.42B |
 | Oct 31 2026 | $5.83B |
-| Nov 13 2026 | $5.82B |
+| Nov 17 2026 | $5.23B |
 
 *Checked Nov 12 2026*
 
@@ -90,9 +90,9 @@ Almost no new BGB reaches the market over the next 90 days (checked Nov 12 2026)
 
 About 700M BGB is in circulation (checked Nov 12 2026). Over the next 90 days that changes 0.00%, and over a year 0.00%.
 
-### Does BGB have more new supply than WLD, JST or VVV?
+### Does BGB have more new supply than WLD, JST or ETC?
 
-Over the next 90 days (checked Nov 12 2026): BGB 0.00%, WLD +3.19%, JST −1.22%, VVV +3.39%. BGB sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 12 2026): BGB 0.00%, WLD +3.19%, JST −1.22%, ETC +0.59%. BGB sits in the middle of these 4 coins.
 
 ## Read more on BGB
 

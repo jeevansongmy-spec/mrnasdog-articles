@@ -8,14 +8,14 @@ published:     true
 ---
 # Jupiter (JUP) Tokenomics: 0.00% Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/jup (checked Nov 13 2026)*
+*Originally published at https://mrnasdog.com/research/jup (checked Nov 17 2026)*
 
 As of Nov 9 2026, new Jupiter supply runs at **0.00%** over 90 days and **−0.06%** over 12 months.
 
-- **Long-run signal:** positive (Nov 13 2026)
-- **Score:** 7.5/10 — supply 4.5/5, demand 3/5
+- **Long-run signal:** positive (Nov 17 2026)
+- **Score:** 8/10 — supply 4.5/5, demand 3.5/5
 - **New supply:** 0.00% in 90 days · −0.06% in a year
-- **Demand:** moderate (3/5)
+- **Demand:** strong (3.5/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## Where new Jupiter comes from
@@ -26,7 +26,7 @@ New JUP: 0.00% in 90 days, −0.06% in a year. Supply score 4.5/5, "flat".
 
 ## Who wants Jupiter right now
 
-Jupiter demand: 3/5 (**moderate**), place #34 among 109 coins — interest today plus the buying that could come later.
+Jupiter demand: 3.5/5 (**strong**), place #20 among 109 coins — interest today plus the buying that could come later.
 
 A deeper JUP demand breakdown is on the page for members.
 
@@ -60,7 +60,7 @@ Lending keeps growing → price up · Deposits leave → price down. Now: ▼ do
 | Aug 31 2026 | $1.08B | $1.24B |
 | Sep 30 2026 | $1.17B | $1.42B |
 | Oct 31 2026 | $0.93B | $1.23B |
-| Nov 13 2026 | $0.951B | $1.15B |
+| Nov 17 2026 | $0.943B | $1.13B |
 
 *Checked Nov 9 2026*
 
@@ -90,9 +90,9 @@ Almost no new JUP reaches the market over the next 90 days (checked Nov 9 2026).
 
 About 3.32B JUP is in circulation (checked Nov 9 2026). Over the next 90 days that changes 0.00%, and over a year −0.06%.
 
-### Does JUP have more new supply than KAS, ALGO or LIT?
+### Does JUP have more new supply than RENDER, INJ or PI?
 
-Over the next 90 days (checked Nov 9 2026): JUP 0.00%, KAS +0.52%, ALGO +0.48%, LIT +6.38%. JUP has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 9 2026): JUP 0.00%, RENDER +0.26%, INJ +0.81%, PI +4.21%. JUP has the least new supply of these 4 coins.
 
 ## Read more on JUP
 

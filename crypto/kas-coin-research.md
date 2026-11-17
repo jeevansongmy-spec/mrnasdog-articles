@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Kaspa (KAS) Inflationary? +0.51% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/kas, updated Nov 13 2026*
+*From https://mrnasdog.com/research/kas, updated Nov 17 2026*
 
 How much new KAS is coming? **+0.51%** in the next 90 days, **+1.61%** in the next year — checked Nov 13 2026.
 
@@ -50,7 +50,7 @@ Good for the price: Miners return. Bad for it: Miners leave.
 | Aug 31 2026 | 326 PH/s |
 | Sep 30 2026 | 346 PH/s |
 | Oct 31 2026 | 365 PH/s |
-| Nov 14 2026 | 316 PH/s |
+| Nov 17 2026 | 328 PH/s |
 
 *Checked Nov 13 2026*
 
@@ -58,11 +58,11 @@ Good for the price: Miners return. Bad for it: Miners leave.
 
 Kaspa is a fair-launch proof-of-work coin: miners are the only source of new KAS, their pay shrinks every month, and about 96.9% of the 28.7B cap is already mined.
 
-Kaspa adds +0.51% new supply in the next 90 days and +1.61% over a year — supply scores 3/5 (light) (place 58 of 100).
+Kaspa adds +0.51% new supply in the next 90 days and +1.61% over a year — supply scores 3/5 (light) (place 59 of 100).
 
 ## Demand: how much people want KAS
 
-Demand reads **moderate** (3/5), #35 of 109 coins we track — that is how much people want KAS now and how much buying could still come.
+Demand reads **moderate** (3/5), #37 of 109 coins we track — that is how much people want KAS now and how much buying could still come.
 
 The members-only part of KAS's demand section is not included.
 
@@ -74,7 +74,7 @@ Kaspa (KAS) is inflationary right now: its supply changes +0.51% over the next 9
 
 ### What is the KAS inflation rate in 2026?
 
-About +1.61% a year: that is how much Kaspa (KAS) supply changes over the next 12 months, with +0.51% in the next 90 days (checked Nov 13 2026). That puts KAS #58 of 100 coins we track for new supply (#1 = the most new supply).
+About +1.61% a year: that is how much Kaspa (KAS) supply changes over the next 12 months, with +0.51% in the next 90 days (checked Nov 13 2026). That puts KAS #59 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next KAS token unlock?
 

@@ -1,6 +1,6 @@
 ---
 title:         "Is SPX6900 (SPX) Inflationary? 0.00% Supply in 90 Days"
-description:   "How much new SPX is coming? 0.00% in the next 90 days, 0.00% in the next year — checked Nov 6 2026."
+description:   "How much new SPX is coming? 0.00% in the next 90 days, 0.00% in the next year — checked Nov 16 2026."
 canonical_url: "https://mrnasdog.com/research/spx"
 content_type:  "coin_hub"
 tags:          ["crypto", "spx", "spx6900", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Is SPX6900 (SPX) Inflationary? 0.00% Supply in 90 Days
 
-*From https://mrnasdog.com/research/spx, updated Nov 16 2026*
+*From https://mrnasdog.com/research/spx, updated Nov 17 2026*
 
-How much new SPX is coming? **0.00%** in the next 90 days, **0.00%** in the next year — checked Nov 6 2026.
+How much new SPX is coming? **0.00%** in the next 90 days, **0.00%** in the next year — checked Nov 16 2026.
 
 - **Long-run signal:** mixed for SPX6900
 - **Score:** 4/10 — supply 1.5/5, demand 2.5/5
@@ -32,7 +32,7 @@ Good for the price: Murad keeps holding. Bad for it: Murad sells. Now: ▲ up si
 |---|---|
 | Sep 2026 | Murad's known wallets 3% · Everyone else 97% |
 
-*Checked Nov 6 2026*
+*Checked Nov 16 2026*
 
 ### • Exchange listings
 
@@ -47,17 +47,17 @@ New big listings → price up · Delistings → price down.
 | Sep 9 2025 | Coinbase spot listing |
 | Jun 16 2026 | Upbit + Bithumb list SPX |
 
-*Checked Nov 6 2026*
+*Checked Nov 16 2026*
 
 ## How fast SPX6900 supply grows
 
-SPX6900 is a meme coin on Ethereum with a fixed 1B supply. Nothing is minted or unlocked, and holder burns are tiny, so supply stays flat.
+SPX6900 is a meme coin with a fixed supply: no mint, no unlocks, no team wallet. Holders burned 157 SPX in 90 days, so supply is flat.
 
 SPX6900 adds 0.00% new supply in the next 90 days and 0.00% over a year — supply scores 1.5/5 (meme coin).
 
 ## Demand: how much people want SPX
 
-Demand reads **modest** (2.5/5), #48 of 109 coins we track — that is how much people want SPX now and how much buying could still come.
+Demand reads **modest** (2.5/5), #47 of 109 coins we track — that is how much people want SPX now and how much buying could still come.
 
 (Members see more SPX demand detail on the page; it is not repeated here.)
 
@@ -65,31 +65,31 @@ Demand reads **modest** (2.5/5), #48 of 109 coins we track — that is how much 
 
 ### Is SPX6900 (SPX) inflationary or deflationary?
 
-SPX6900 (SPX) is flat, neither inflationary nor deflationary right now: its supply changes 0.00% over the next 90 days and 0.00% over the next year (checked Nov 6 2026). New SPX and removed SPX about cancel out.
+SPX6900 (SPX) is flat, neither inflationary nor deflationary right now: its supply changes 0.00% over the next 90 days and 0.00% over the next year (checked Nov 16 2026). New SPX and removed SPX about cancel out.
 
 ### What is the SPX inflation rate in 2026?
 
-About 0.00% a year: that is how much SPX6900 (SPX) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 6 2026).
+About 0.00% a year: that is how much SPX6900 (SPX) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 16 2026).
 
 ### When is the next SPX token unlock?
 
-No dated SPX6900 (SPX) unlock is scheduled in the next 90 days (checked Nov 6 2026).
+No dated SPX6900 (SPX) unlock is scheduled in the next 90 days (checked Nov 16 2026).
 
 ### Does SPX6900 burn or buy back SPX?
 
-Not in a way that removes SPX today: nothing takes SPX off the market over the next 90 days (checked Nov 6 2026). Holders burned 157 SPX in 90 days through two small apps; no buyback and no built-in burn.
+Yes. In our count, about 10 SPX is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 16 2026). How it works: Holders burned 157 SPX in 90 days, about 10 SPX expected next.
 
 ### Where does new SPX supply come from?
 
-Almost no new SPX reaches the market over the next 90 days (checked Nov 6 2026). No new SPX can be made: the 1B supply was created once in 2023, there is no team share and nothing vests.
+Almost no new SPX reaches the market over the next 90 days (checked Nov 16 2026). No new SPX can ever be made: the supply is fixed at 1B, with no unlocks and no team share.
 
 ### How much SPX is in circulation?
 
-About 931M SPX is in circulation (checked Nov 6 2026). Over the next 90 days that changes 0.00%, and over a year 0.00%.
+About 931M SPX is in circulation (checked Nov 16 2026). Over the next 90 days that changes 0.00%, and over a year 0.00%.
 
-### Does SPX have more new supply than BTT, CRV or PENGU?
+### Does SPX have more new supply than XTZ, SEI or TRUMP?
 
-Over the next 90 days (checked Nov 6 2026): SPX 0.00%, BTT −2.21%, CRV +1.96%, PENGU +2.60%. SPX sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 16 2026): SPX 0.00%, XTZ +0.72%, SEI +4.14%, TRUMP +11.93%. SPX has the least new supply of these 4 coins.
 
 ## Where to read the rest of SPX
 

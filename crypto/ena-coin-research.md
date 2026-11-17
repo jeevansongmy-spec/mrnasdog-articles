@@ -8,7 +8,7 @@ published:     true
 ---
 # Ethena (ENA) Supply & Demand: +2.08% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/ena · checked Nov 13 2026*
+*Live page: https://mrnasdog.com/research/ena · checked Nov 17 2026*
 
 Ethena (ENA) supply changes **+2.08%** over the next 90 days and **+8.33%** over a year (checked Nov 11 2026).
 
@@ -26,7 +26,7 @@ Over the next 90 days ENA supply changes +2.08%; across a full year, +8.33%. Tha
 
 ## How strong is Ethena demand?
 
-People's appetite for Ethena is **weak**: 2/5, ranked #65 of 109.
+People's appetite for Ethena is **weak**: 2/5, ranked #63 of 109.
 
 The members-only part of ENA's demand section is not included.
 
@@ -45,7 +45,7 @@ Good for the price: More USDe in use. Bad for it: USDe shrinks. Now: ▲ up side
 | Aug 31 2026 | 4.08 B USDe |
 | Sep 30 2026 | 4.9 B USDe |
 | Oct 31 2026 | 4.53 B USDe |
-| Nov 13 2026 | 4.9 B USDe |
+| Nov 17 2026 | 4.87 B USDe |
 
 *Checked Nov 11 2026*
 
@@ -73,7 +73,7 @@ As of Nov 11 2026, Ethena (ENA) supply moves +2.08% in 90 days and +8.33% in a y
 
 ### What is the ENA inflation rate in 2026?
 
-Ethena (ENA) supply grows +8.33% over the next 12 months and +2.08% over the next 90 days (checked Nov 11 2026). That puts ENA #30 of 100 coins we track for new supply (#1 = the most new supply).
+Ethena (ENA) supply grows +8.33% over the next 12 months and +2.08% over the next 90 days (checked Nov 11 2026). That puts ENA #31 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next ENA token unlock?
 

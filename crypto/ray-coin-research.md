@@ -8,7 +8,7 @@ published:     true
 ---
 # Raydium (RAY) Inflation Rate: +0.16% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/ray — numbers checked Nov 13 2026*
+*Source: https://mrnasdog.com/research/ray — numbers checked Nov 17 2026*
 
 **+0.16%** in 90 days, **+0.64%** in a year: that is how fast Raydium (RAY) supply changes as of Nov 9 2026.
 
@@ -72,7 +72,7 @@ As of Nov 9 2026, Raydium (RAY) supply moves +0.16% in 90 days and +0.64% in a y
 
 ### What is the RAY inflation rate in 2026?
 
-Raydium (RAY) supply grows +0.64% over the next 12 months and +0.16% over the next 90 days (checked Nov 9 2026). That puts RAY #70 of 100 coins we track for new supply (#1 = the most new supply).
+Raydium (RAY) supply grows +0.64% over the next 12 months and +0.16% over the next 90 days (checked Nov 9 2026). That puts RAY #71 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next RAY token unlock?
 
@@ -90,9 +90,9 @@ In our count, about 425K new RAY reaches the market over the next 90 days (check
 
 Raydium (RAY) has about 270M coins in circulation as of Nov 9 2026; the next 90 days change that by +0.16% (+0.64% over a year).
 
-### Does RAY have more new supply than VET, BLIFE or AERO?
+### Does RAY have more new supply than ETHFI, PIEVERSE or DASH?
 
-Over the next 90 days (checked Nov 9 2026): RAY +0.16%, VET 0.00%, BLIFE 0.00%, AERO +8.50%. RAY sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 9 2026): RAY +0.16%, ETHFI 0.00%, PIEVERSE +19.87%, DASH +0.72%. RAY sits in the middle of these 4 coins.
 
 ## Go deeper on Raydium
 

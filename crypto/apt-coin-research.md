@@ -8,11 +8,11 @@ published:     true
 ---
 # Aptos (APT) Tokenomics: +2.02% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/apt (checked Nov 14 2026)*
+*Originally published at https://mrnasdog.com/research/apt (checked Nov 17 2026)*
 
 As of Nov 14 2026, new Aptos supply runs at **+2.02%** over 90 days and **+8.10%** over 12 months.
 
-- **Signal today:** mixed (Nov 14 2026)
+- **Signal today:** mixed (Nov 17 2026)
 - **MrNasDog score:** 4/10 — supply 1.5/5, demand 2.5/5
 - **New coins:** +2.02% in 90 days · +8.10% in a year
 - **Demand:** modest (2.5/5)
@@ -45,7 +45,7 @@ Good for the price: More dollars on Aptos. Bad for it: Dollars leave Aptos. Righ
 | Aug 31 2026 | $732M | $208M |
 | Sep 30 2026 | $522M | $358M |
 | Oct 31 2026 | $377M | $246M |
-| Nov 15 2026 | $395M | $361M |
+| Nov 17 2026 | $415M | $381M |
 
 *Checked Nov 14 2026*
 
@@ -91,9 +91,9 @@ In our count, about 18.3M new APT reaches the market over the next 90 days (chec
 
 About 889M APT is in circulation (checked Nov 14 2026). Over the next 90 days that changes +2.02%, and over a year +8.10%.
 
-### Does APT have more new supply than TIA, PENGU or CRV?
+### Does APT have more new supply than FLR, VET or FF?
 
-Over the next 90 days (checked Nov 14 2026): APT +2.02%, TIA +2.31%, PENGU +2.60%, CRV +1.96%. APT sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 14 2026): APT +2.02%, FLR +1.01%, VET 0.00%, FF +17.18%. APT sits in the middle of these 4 coins.
 
 ## Next steps for APT
 

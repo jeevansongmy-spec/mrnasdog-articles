@@ -8,7 +8,7 @@ published:     true
 ---
 # Hyperliquid (HYPE) Supply & Demand: −0.41% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/hype · checked Nov 13 2026*
+*Live page: https://mrnasdog.com/research/hype · checked Nov 17 2026*
 
 Hyperliquid (HYPE) supply changes **−0.41%** over the next 90 days and **−1.65%** over a year (checked Nov 8 2026).
 
@@ -75,9 +75,9 @@ Company buys → price up · Company sells → price down. Right now it points u
 | Sep 17 2026 | 35.1 M HYPE |
 | Sep 24 2026 | 37 M HYPE |
 | Oct 31 2026 | 38.9 M HYPE |
-| Nov 13 2026 | 38.9 M HYPE |
+| Nov 17 2026 | 38.9 M HYPE |
 
-*Checked Nov 13 2026*
+*Checked Nov 17 2026*
 
 ### ▲ Foundation votes
 
@@ -90,7 +90,7 @@ Good for the price: Power spread out. Bad for it: One group in control. Now: ▲
 | Jan 2025 | Hyper Foundation 81% · Others 19% |
 | Nov 2026 | Hyper Foundation 47.5% · Hyperliquid Strategies x Unit 8.9% · Others 43.6% |
 
-*Checked Nov 13 2026*
+*Checked Nov 17 2026*
 
 ## Where to read the rest of HYPE
 

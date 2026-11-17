@@ -8,11 +8,11 @@ published:     true
 ---
 # Sui Network (SUI) Tokenomics: +1.46% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/sui (checked Nov 13 2026)*
+*Originally published at https://mrnasdog.com/research/sui (checked Nov 17 2026)*
 
 As of Nov 10 2026, new Sui Network supply runs at **+1.46%** over 90 days and **+5.23%** over 12 months.
 
-- **Signal today:** mixed (Nov 13 2026)
+- **Signal today:** mixed (Nov 17 2026)
 - **MrNasDog score:** 4/10 — supply 1.5/5, demand 2.5/5
 - **New coins:** +1.46% in 90 days · +5.23% in a year
 - **Demand:** modest (2.5/5)
@@ -57,7 +57,7 @@ Sui halted 3 times since late 2024; none in 166 days.
 
 Only 41% of the 10B SUI is unlocked. Staking pay from a launch pot and unlocks on the 1st of each month added 64.6M SUI in 90 days, about +1.56%.
 
-New SUI: +1.46% in 90 days, +5.23% in a year. Supply score 1.5/5, "heavy", #36 of 100 for new supply.
+New SUI: +1.46% in 90 days, +5.23% in a year. Supply score 1.5/5, "heavy", #37 of 100 for new supply.
 
 ## SUI demand
 
@@ -73,7 +73,7 @@ Sui Network (SUI) is inflationary right now: its supply changes +1.46% over the 
 
 ### What is the SUI inflation rate in 2026?
 
-About +5.23% a year: that is how much Sui Network (SUI) supply changes over the next 12 months, with +1.46% in the next 90 days (checked Nov 10 2026). That puts SUI #36 of 100 coins we track for new supply (#1 = the most new supply).
+About +5.23% a year: that is how much Sui Network (SUI) supply changes over the next 12 months, with +1.46% in the next 90 days (checked Nov 10 2026). That puts SUI #37 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next SUI token unlock?
 

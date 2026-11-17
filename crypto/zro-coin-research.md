@@ -8,7 +8,7 @@ published:     true
 ---
 # Is LayerZero (ZRO) Inflationary? +17.56% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/zro, updated Nov 13 2026*
+*From https://mrnasdog.com/research/zro, updated Nov 17 2026*
 
 How much new ZRO is coming? **+17.56%** in the next 90 days, **+46.33%** in the next year — checked Nov 13 2026.
 
@@ -65,7 +65,7 @@ LayerZero adds +17.56% new supply in the next 90 days and +46.33% over a year �
 
 ## Demand today
 
-Demand reads **strong** (3.5/5), #18 of 109 coins we track — that is how much people want ZRO now and how much buying could still come.
+Demand reads **strong** (3.5/5), #20 of 109 coins we track — that is how much people want ZRO now and how much buying could still come.
 
 The members-only part of ZRO's demand section is not included.
 
@@ -95,9 +95,9 @@ In our count, about 70.8M new ZRO reaches the market over the next 90 days (chec
 
 About 400M ZRO is in circulation (checked Nov 13 2026). Over the next 90 days that changes +17.56%, and over a year +46.33%.
 
-### Does ZRO have more new supply than STX, XDC or DASH?
+### Does ZRO have more new supply than NEXO, XDC or CAKE?
 
-Over the next 90 days (checked Nov 13 2026): ZRO +17.56%, STX +1.27%, XDC +0.09%, DASH +0.73%. ZRO has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 13 2026): ZRO +17.56%, NEXO 0.00%, XDC +4.31%, CAKE −1.96%. ZRO has the most new supply of these 4 coins.
 
 ## Read more on ZRO
 

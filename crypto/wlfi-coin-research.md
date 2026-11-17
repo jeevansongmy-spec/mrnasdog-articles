@@ -8,7 +8,7 @@ published:     true
 ---
 # World Liberty Financial (WLFI) Inflation Rate: +0.01% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/wlfi — numbers checked Nov 13 2026*
+*Source: https://mrnasdog.com/research/wlfi — numbers checked Nov 17 2026*
 
 **+0.01%** in 90 days, **+0.05%** in a year: that is how fast World Liberty Financial (WLFI) supply changes as of Nov 12 2026.
 
@@ -45,7 +45,7 @@ USD1 keeps shrinking, now far below its Jan 2026 high.
 | Aug 31 2026 | $4.2B |
 | Sep 30 2026 | $4.43B |
 | Oct 31 2026 | $3.89B |
-| Nov 13 2026 | $3.26B |
+| Nov 17 2026 | $3.1B |
 
 *Checked Nov 12 2026*
 

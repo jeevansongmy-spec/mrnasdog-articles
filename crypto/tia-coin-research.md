@@ -8,7 +8,7 @@ published:     true
 ---
 # Celestia (TIA) Supply & Demand: +2.30% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/tia · checked Nov 15 2026*
+*Live page: https://mrnasdog.com/research/tia · checked Nov 17 2026*
 
 Celestia (TIA) supply changes **+2.30%** over the next 90 days and **+9.03%** over a year (checked Nov 15 2026).
 
@@ -44,9 +44,9 @@ In our count, about 22.8M new TIA reaches the market over the next 90 days (chec
 
 Celestia (TIA) has about 992M coins in circulation as of Nov 15 2026; the next 90 days change that by +2.30% (+9.03% over a year).
 
-### Does TIA have more new supply than VIRTUAL, BSV or FET?
+### Does TIA have more new supply than FF, CRV or PENGU?
 
-Over the next 90 days (checked Nov 15 2026): TIA +2.30%, VIRTUAL +0.04%, BSV +0.20%, FET +7.55%. TIA sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 15 2026): TIA +2.30%, FF +17.18%, CRV +1.96%, PENGU +2.60%. TIA sits in the middle of these 4 coins.
 
 ## Supply: how much new TIA is coming
 
@@ -56,7 +56,7 @@ Over the next 90 days TIA supply changes +2.30%; across a full year, +9.03%. Tha
 
 ## Who wants Celestia right now
 
-People's appetite for Celestia is **moderate**: 3/5, ranked #35 of 109.
+People's appetite for Celestia is **moderate**: 3/5, ranked #37 of 109.
 
 (Members see more TIA demand detail on the page; it is not repeated here.)
 

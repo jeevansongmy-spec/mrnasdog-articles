@@ -8,7 +8,7 @@ published:     true
 ---
 # Official Trump (TRUMP) Inflation Rate: +11.93% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/trump — numbers checked Nov 15 2026*
+*Source: https://mrnasdog.com/research/trump — numbers checked Nov 17 2026*
 
 **+11.93%** in 90 days, **+47.71%** in a year: that is how fast Official Trump (TRUMP) supply changes as of Nov 15 2026.
 
@@ -44,9 +44,9 @@ In our count, about 33.6M new TRUMP reaches the market over the next 90 days (ch
 
 Official Trump (TRUMP) has about 282M coins in circulation as of Nov 15 2026; the next 90 days change that by +11.93% (+47.71% over a year).
 
-### Does TRUMP have more new supply than SEI, KITE or STRK?
+### Does TRUMP have more new supply than SEI, STRK or BONK?
 
-Over the next 90 days (checked Nov 15 2026): TRUMP +11.93%, SEI +4.14%, KITE +22.04%, STRK +8.97%. TRUMP sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 15 2026): TRUMP +11.93%, SEI +4.14%, STRK +8.97%, BONK 0.00%. TRUMP has the most new supply of these 4 coins.
 
 ## Supply — new TRUMP in the next 90 days
 

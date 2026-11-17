@@ -8,7 +8,7 @@ published:     true
 ---
 # Helium (HNT) Supply & Demand: +9.16% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/hnt · checked Nov 14 2026*
+*Live page: https://mrnasdog.com/research/hnt · checked Nov 17 2026*
 
 Helium (HNT) supply changes **+9.16%** over the next 90 days and **+35.52%** over a year (checked Nov 14 2026).
 
@@ -74,7 +74,7 @@ As of Nov 14 2026, Helium (HNT) supply moves +9.16% in 90 days and +35.52% in a 
 
 ### What is the HNT inflation rate in 2026?
 
-Helium (HNT) supply grows +35.52% over the next 12 months and +9.16% over the next 90 days (checked Nov 14 2026). That puts HNT #10 of 100 coins we track for new supply (#1 = the most new supply).
+Helium (HNT) supply grows +35.52% over the next 12 months and +9.16% over the next 90 days (checked Nov 14 2026). That puts HNT #9 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next HNT token unlock?
 

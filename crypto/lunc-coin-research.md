@@ -8,7 +8,7 @@ published:     true
 ---
 # Terra Luna Classic (LUNC) Supply & Demand: −0.16% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/lunc · checked Nov 13 2026*
+*Live page: https://mrnasdog.com/research/lunc · checked Nov 17 2026*
 
 Terra Luna Classic (LUNC) supply changes **−0.16%** over the next 90 days and **−0.65%** over a year (checked Nov 7 2026).
 
@@ -61,7 +61,7 @@ Over the next 90 days LUNC supply changes −0.16%; across a full year, −0.65%
 
 ## LUNC demand
 
-People's appetite for Terra Luna Classic is **weak**: 2/5, ranked #65 of 109.
+People's appetite for Terra Luna Classic is **weak**: 2/5, ranked #63 of 109.
 
 Members get the rest of the Terra Luna Classic demand read on mrnasdog.com.
 
@@ -91,9 +91,9 @@ In our count, about 486M new LUNC reaches the market over the next 90 days (chec
 
 Terra Luna Classic (LUNC) has about 5.52T coins in circulation as of Nov 7 2026; the next 90 days change that by −0.16% (−0.65% over a year).
 
-### Does LUNC have more new supply than OP, CFX or GRT?
+### Does LUNC have more new supply than LDO, CFX or XPL?
 
-Over the next 90 days (checked Nov 7 2026): LUNC −0.16%, OP +0.98%, CFX +0.44%, GRT +1.06%. LUNC has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 7 2026): LUNC −0.16%, LDO +4.36%, CFX +0.44%, XPL +14.35%. LUNC has the least new supply of these 4 coins.
 
 ## Read more on LUNC
 

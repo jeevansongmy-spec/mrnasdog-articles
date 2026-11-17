@@ -8,14 +8,14 @@ published:     true
 ---
 # BONK Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/bonk · checked Nov 13 2026*
+*Live page: https://mrnasdog.com/research/bonk · checked Nov 17 2026*
 
 BONK supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 7 2026).
 
 - **Signal today:** negative (by the law of supply and demand)
-- **MrNasDog score:** 4/10 — supply 1.5/5, demand 2.5/5
+- **MrNasDog score:** 3.5/10 — supply 1.5/5, demand 2/5
 - **New coins:** 0.00% in 90 days · 0.00% in a year
-- **Demand:** modest (2.5/5)
+- **Demand:** weak (2/5)
 - **Drivers:** 0 ▲ price up · 1 ▼ price down
 
 ## BONK price drivers
@@ -58,7 +58,7 @@ Over the next 90 days BONK supply changes 0.00%; across a full year, 0.00%. That
 
 ## Who wants Bonk right now
 
-People's appetite for Bonk is **modest**: 2.5/5, ranked #47 of 109.
+People's appetite for Bonk is **weak**: 2/5, ranked #63 of 109.
 
 The members-only part of BONK's demand section is not included.
 
@@ -88,9 +88,9 @@ Almost no new BONK reaches the market over the next 90 days (checked Nov 7 2026)
 
 BONK has about 88T coins in circulation as of Nov 7 2026; the next 90 days change that by 0.00% (0.00% over a year).
 
-### Does BONK have more new supply than KITE, OP or LUNC?
+### Does BONK have more new supply than STRK, PENDLE or OP?
 
-Over the next 90 days (checked Nov 7 2026): BONK 0.00%, KITE +22.04%, OP +0.98%, LUNC −0.16%. BONK sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 7 2026): BONK 0.00%, STRK +8.97%, PENDLE +2.49%, OP +0.98%. BONK has the least new supply of these 4 coins.
 
 ## Go deeper on Bonk
 

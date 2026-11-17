@@ -8,7 +8,7 @@ published:     true
 ---
 # Render Network (RENDER) Supply & Demand: +0.26% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/render · checked Nov 13 2026*
+*Live page: https://mrnasdog.com/research/render · checked Nov 17 2026*
 
 Render Network (RENDER) supply changes **+0.26%** over the next 90 days and **+0.79%** over a year (checked Nov 9 2026).
 
@@ -26,7 +26,7 @@ Over the next 90 days RENDER supply changes +0.26%; across a full year, +0.79%. 
 
 ## Demand today
 
-People's appetite for Render Network is **strong**: 3.5/5, ranked #18 of 109.
+People's appetite for Render Network is **strong**: 3.5/5, ranked #20 of 109.
 
 Members get the rest of the Render Network demand read on mrnasdog.com.
 
@@ -45,7 +45,7 @@ Good for the price: OTOY holds, no selling. Bad for it: OTOY moves more out.
 | Aug 31 2026 | 81.9 M RENDER |
 | Sep 30 2026 | 81.9 M RENDER |
 | Oct 31 2026 | 81.9 M RENDER |
-| Nov 13 2026 | 81.9 M RENDER |
+| Nov 17 2026 | 81.9 M RENDER |
 
 *Checked Nov 9 2026*
 
@@ -76,7 +76,7 @@ As of Nov 9 2026, Render Network (RENDER) supply moves +0.26% in 90 days and +0.
 
 ### What is the RENDER inflation rate in 2026?
 
-Render Network (RENDER) supply grows +0.79% over the next 12 months and +0.26% over the next 90 days (checked Nov 9 2026). That puts RENDER #63 of 100 coins we track for new supply (#1 = the most new supply).
+Render Network (RENDER) supply grows +0.79% over the next 12 months and +0.26% over the next 90 days (checked Nov 9 2026). That puts RENDER #64 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next RENDER token unlock?
 
@@ -94,9 +94,9 @@ In our count, about 2.51M new RENDER reaches the market over the next 90 days (c
 
 Render Network (RENDER) has about 534M coins in circulation as of Nov 9 2026; the next 90 days change that by +0.26% (+0.79% over a year).
 
-### Does RENDER have more new supply than PI, KAS or JUP?
+### Does RENDER have more new supply than KCS, JUP or INJ?
 
-Over the next 90 days (checked Nov 9 2026): RENDER +0.26%, PI +4.16%, KAS +0.52%, JUP 0.00%. RENDER sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 9 2026): RENDER +0.26%, KCS 0.00%, JUP 0.00%, INJ +0.81%. RENDER sits in the middle of these 4 coins.
 
 ## Where to read the rest of RENDER
 

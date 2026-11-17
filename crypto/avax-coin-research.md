@@ -8,7 +8,7 @@ published:     true
 ---
 # Avalanche (AVAX) Inflation Rate: +0.90% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/avax — numbers checked Nov 13 2026*
+*Source: https://mrnasdog.com/research/avax — numbers checked Nov 17 2026*
 
 **+0.90%** in 90 days, **+3.60%** in a year: that is how fast Avalanche (AVAX) supply changes as of Nov 10 2026.
 
@@ -60,7 +60,7 @@ US funds' AVAX rose from 0.8M to 4.9M by Jun 30 2026.
 
 ## Who wants Avalanche right now
 
-How much do people want AVAX? **strong** — 3.5 out of 5, #18 of 109.
+How much do people want AVAX? **strong** — 3.5 out of 5, #20 of 109.
 
 A deeper AVAX demand breakdown is on the page for members.
 
@@ -72,7 +72,7 @@ As of Nov 10 2026, Avalanche (AVAX) supply moves +0.90% in 90 days and +3.60% in
 
 ### What is the AVAX inflation rate in 2026?
 
-Avalanche (AVAX) supply grows +3.60% over the next 12 months and +0.90% over the next 90 days (checked Nov 10 2026). That puts AVAX #48 of 100 coins we track for new supply (#1 = the most new supply).
+Avalanche (AVAX) supply grows +3.60% over the next 12 months and +0.90% over the next 90 days (checked Nov 10 2026). That puts AVAX #49 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next AVAX token unlock?
 

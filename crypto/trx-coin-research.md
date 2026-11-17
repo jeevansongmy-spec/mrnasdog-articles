@@ -8,7 +8,7 @@ published:     true
 ---
 # TRON (TRX) Supply & Demand: +0.14% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/trx · checked Nov 13 2026*
+*Live page: https://mrnasdog.com/research/trx · checked Nov 17 2026*
 
 TRON (TRX) supply changes **+0.14%** over the next 90 days and **+0.57%** over a year (checked Nov 8 2026).
 
@@ -22,11 +22,11 @@ TRON (TRX) supply changes **+0.14%** over the next 90 days and **+0.57%** over a
 
 TRX supply grew about 0.14% in 90 days: TRON paid out 352M new TRX and the fee burn took back 220M.
 
-Over the next 90 days TRX supply changes +0.14%; across a full year, +0.57%. That puts supply at 3.5/5 (steady), #71 of 100 for new supply.
+Over the next 90 days TRX supply changes +0.14%; across a full year, +0.57%. That puts supply at 3.5/5 (steady), #72 of 100 for new supply.
 
 ## How strong is TRON demand?
 
-People's appetite for TRON is **moderate**: 3/5, ranked #34 of 109.
+People's appetite for TRON is **moderate**: 3/5, ranked #37 of 109.
 
 A deeper TRX demand breakdown is on the page for members.
 
@@ -36,7 +36,7 @@ Besides supply and demand, we track 2 price drivers for TRON: 2 ▲ and 0 ▼ ri
 
 ### ▲ USDT on Tron
 
-USDT on Tron grew 20% in 365 days, to 92.2B.
+USDT on Tron grew 20% in 365 days, to 92.0B.
 
 Good for the price: More USDT on Tron. Bad for it: USDT leaves Tron. Right now it points up.
 
@@ -45,9 +45,9 @@ Good for the price: More USDT on Tron. Bad for it: USDT leaves Tron. Right now i
 | Aug 31 2026 | 91.9 B USDT | 73.5 B USDT |
 | Sep 30 2026 | 92.5 B USDT | 73.5 B USDT |
 | Oct 31 2026 | 92.7 B USDT | 71.1 B USDT |
-| Nov 13 2026 | 92.2 B USDT | 66.8 B USDT |
+| Nov 17 2026 | 92 B USDT | 66.8 B USDT |
 
-*Checked Nov 12 2026*
+*Checked Nov 16 2026*
 
 ### ▲ Justin Sun
 
@@ -76,7 +76,7 @@ As of Nov 8 2026, TRON (TRX) supply moves +0.14% in 90 days and +0.57% in a year
 
 ### What is the TRX inflation rate in 2026?
 
-TRON (TRX) supply grows +0.57% over the next 12 months and +0.14% over the next 90 days (checked Nov 8 2026). That puts TRX #71 of 100 coins we track for new supply (#1 = the most new supply).
+TRON (TRX) supply grows +0.57% over the next 12 months and +0.14% over the next 90 days (checked Nov 8 2026). That puts TRX #72 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next TRX token unlock?
 

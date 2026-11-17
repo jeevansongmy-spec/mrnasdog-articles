@@ -8,7 +8,7 @@ published:     true
 ---
 # Chainlink (LINK) Supply & Demand: +1.47% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/link · checked Nov 13 2026*
+*Live page: https://mrnasdog.com/research/link · checked Nov 17 2026*
 
 Chainlink (LINK) supply changes **+1.47%** over the next 90 days and **+9.13%** over a year (checked Nov 9 2026).
 
@@ -22,7 +22,7 @@ Chainlink (LINK) supply changes **+1.47%** over the next 90 days and **+9.13%** 
 
 Chainlink's LINK has a fixed 1B supply, but the team still holds back 233.15M and releases about 70M a year in four steps, so circulating supply grew 2.45% in 90 days.
 
-Over the next 90 days LINK supply changes +1.47%; across a full year, +9.13%. That puts supply at 1.5/5 (heavy) (place 35 of 100).
+Over the next 90 days LINK supply changes +1.47%; across a full year, +9.13%. That puts supply at 1.5/5 (heavy) (place 36 of 100).
 
 ## Demand: how much people want LINK
 
@@ -76,7 +76,7 @@ As of Nov 9 2026, Chainlink (LINK) supply moves +1.47% in 90 days and +9.13% in 
 
 ### What is the LINK inflation rate in 2026?
 
-Chainlink (LINK) supply grows +9.13% over the next 12 months and +1.47% over the next 90 days (checked Nov 9 2026). That puts LINK #35 of 100 coins we track for new supply (#1 = the most new supply).
+Chainlink (LINK) supply grows +9.13% over the next 12 months and +1.47% over the next 90 days (checked Nov 9 2026). That puts LINK #36 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next LINK token unlock?
 

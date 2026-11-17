@@ -8,21 +8,21 @@ published:     true
 ---
 # ASTER Tokenomics: +0.26% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/aster (checked Nov 13 2026)*
+*Originally published at https://mrnasdog.com/research/aster (checked Nov 17 2026)*
 
 As of Nov 11 2026, new Aster supply runs at **+0.26%** over 90 days and **+1.69%** over 12 months.
 
-- **Signal:** mixed (Nov 13 2026)
-- **Score:** 6/10 — supply 3/5, demand 3/5
+- **Signal:** mixed (Nov 17 2026)
+- **Score:** 6.5/10 — supply 3/5, demand 3.5/5
 - **Supply growth:** +0.26% in 90 days · +1.69% in a year
-- **How much people want it:** moderate (3/5)
+- **How much people want it:** strong (3.5/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## How fast Aster supply grows
 
 Aster released 63.38M ASTER from its airdrop reserve on Nov 4 2026 and pays stakers 450K a week. Its big fee buyback goes back to stakers, so supply rose 2.73% in 90 days, with about 0.26% next.
 
-New ASTER: +0.26% in 90 days, +1.69% in a year. Supply score 3/5, "light", #62 of 100 for new supply.
+New ASTER: +0.26% in 90 days, +1.69% in a year. Supply score 3/5, "light", #63 of 100 for new supply.
 
 ## What could move Aster's price
 
@@ -39,7 +39,7 @@ Open bets on Aster recovered after a weak first half of 2026.
 | Aug 31 2026 | $1.23B |
 | Sep 30 2026 | $1.41B |
 | Oct 31 2026 | $1.37B |
-| Nov 13 2026 | $1.3B |
+| Nov 17 2026 | $1.16B |
 
 *Checked Nov 11 2026*
 
@@ -64,7 +64,7 @@ Good for the price: US opens to Aster. Bad for it: Only rivals get US. Today: th
 
 ## Demand: how much people want ASTER
 
-Aster demand: 3/5 (**moderate**), place #34 among 109 coins — interest today plus the buying that could come later.
+Aster demand: 3.5/5 (**strong**), place #20 among 109 coins — interest today plus the buying that could come later.
 
 Extra Aster demand detail for members stays on the live page.
 
@@ -76,7 +76,7 @@ ASTER is inflationary right now: its supply changes +0.26% over the next 90 days
 
 ### What is the ASTER inflation rate in 2026?
 
-About +1.69% a year: that is how much ASTER supply changes over the next 12 months, with +0.26% in the next 90 days (checked Nov 11 2026). That puts ASTER #62 of 100 coins we track for new supply (#1 = the most new supply).
+About +1.69% a year: that is how much ASTER supply changes over the next 12 months, with +0.26% in the next 90 days (checked Nov 11 2026). That puts ASTER #63 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next ASTER token unlock?
 

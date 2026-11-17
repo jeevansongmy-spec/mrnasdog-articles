@@ -8,7 +8,7 @@ published:     true
 ---
 # PONS Inflation Rate: −20.87% Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/pons — numbers checked Nov 13 2026*
+*Source: https://mrnasdog.com/research/pons — numbers checked Nov 17 2026*
 
 **−20.87%** in 90 days, **−83.49%** in a year: that is how fast PONS supply changes as of Nov 12 2026.
 
@@ -60,7 +60,7 @@ Chain meme trading cooled from its September peak; PONS moves with it
 | Aug 31 2026 | $19.1B |
 | Sep 30 2026 | $56B |
 | Oct 31 2026 | $27.8B |
-| Nov 13 2026 | $21.2B |
+| Nov 17 2026 | $19.4B |
 
 *Checked Nov 12 2026*
 
@@ -111,7 +111,7 @@ PONS has about 670M coins in circulation as of Nov 12 2026; the next 90 days cha
 
 ### Does PONS have more new supply than IMX, FORM or HNT?
 
-Over the next 90 days (checked Nov 12 2026): PONS −20.87%, IMX +2.21%, FORM +0.01%, HNT +9.48%. PONS has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 12 2026): PONS −20.87%, IMX +2.21%, FORM +0.01%, HNT +9.16%. PONS has the least new supply of these 4 coins.
 
 ## Where to read the rest of PONS
 

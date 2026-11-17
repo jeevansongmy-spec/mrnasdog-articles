@@ -8,7 +8,7 @@ published:     true
 ---
 # NEAR Protocol (NEAR) Inflation Rate: +0.61% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/near — numbers checked Nov 13 2026*
+*Source: https://mrnasdog.com/research/near — numbers checked Nov 17 2026*
 
 **+0.61%** in 90 days, **+2.47%** in a year: that is how fast NEAR Protocol (NEAR) supply changes as of Nov 10 2026.
 
@@ -22,11 +22,11 @@ published:     true
 
 NEAR prints new coins every epoch for stakers and its treasury, about 8.05M in 90 days, while the gas burn takes back only 78.13K. Supply grows about 0.61% per 90 days.
 
-Expect +0.61% more NEAR in 90 days (+2.47% over the year). On supply alone NEAR Protocol gets 2.5/5 — moderate, #55 of 100 for new supply.
+Expect +0.61% more NEAR in 90 days (+2.47% over the year). On supply alone NEAR Protocol gets 2.5/5 — moderate, #56 of 100 for new supply.
 
 ## Who wants NEAR Protocol right now
 
-How much do people want NEAR? **strong** — 3.5 out of 5, #18 of 109.
+How much do people want NEAR? **strong** — 3.5 out of 5, #20 of 109.
 
 (Members see more NEAR demand detail on the page; it is not repeated here.)
 
@@ -75,7 +75,7 @@ As of Nov 10 2026, NEAR Protocol (NEAR) supply moves +0.61% in 90 days and +2.47
 
 ### What is the NEAR inflation rate in 2026?
 
-NEAR Protocol (NEAR) supply grows +2.47% over the next 12 months and +0.61% over the next 90 days (checked Nov 10 2026). That puts NEAR #55 of 100 coins we track for new supply (#1 = the most new supply).
+NEAR Protocol (NEAR) supply grows +2.47% over the next 12 months and +0.61% over the next 90 days (checked Nov 10 2026). That puts NEAR #56 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next NEAR token unlock?
 

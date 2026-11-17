@@ -8,7 +8,7 @@ published:     true
 ---
 # NEXO Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/nexo · checked Nov 15 2026*
+*Live page: https://mrnasdog.com/research/nexo · checked Nov 17 2026*
 
 NEXO supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 15 2026).
 

@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Gate (GT) Inflationary? −2.23% Supply in 90 Days
 
-*From https://mrnasdog.com/research/gt, updated Nov 13 2026*
+*From https://mrnasdog.com/research/gt, updated Nov 17 2026*
 
 How much new GT is coming? **−2.23%** in the next 90 days, **−8.93%** in the next year — checked Nov 12 2026.
 
@@ -22,11 +22,11 @@ How much new GT is coming? **−2.23%** in the next 90 days, **−8.93%** in the
 
 Gate burned 1.99M GT on Oct 4 2026 while Gate Chain mining added only 103K, so circulating GT fell 1.80% in 90 days, with about 2.23% more due next.
 
-Gate adds −2.23% new supply in the next 90 days and −8.93% over a year — supply scores 5/5 (shrinking) (place 107 of 100).
+Gate adds −2.23% new supply in the next 90 days and −8.93% over a year — supply scores 5/5 (shrinking) (place 106 of 100).
 
 ## Demand: how much people want GT
 
-Demand reads **very weak** (1.5/5), #78 of 109 coins we track — that is how much people want GT now and how much buying could still come.
+Demand reads **very weak** (1.5/5), #77 of 109 coins we track — that is how much people want GT now and how much buying could still come.
 
 The members-only part of GT's demand section is not included.
 
@@ -45,7 +45,7 @@ Gate's reserves slipped back under $6B after a September rebound.
 | Aug 31 2026 | $6.68B |
 | Sep 30 2026 | $7.51B |
 | Oct 31 2026 | $6.02B |
-| Nov 13 2026 | $5.66B |
+| Nov 17 2026 | $5.19B |
 
 *Checked Nov 12 2026*
 
@@ -92,9 +92,9 @@ In our count, about 103K new GT reaches the market over the next 90 days (checke
 
 About 105M GT is in circulation (checked Nov 12 2026). Over the next 90 days that changes −2.23%, and over a year −8.93%.
 
-### Does GT have more new supply than POL, PI or RENDER?
+### Does GT have more new supply than ARB, VVV or POL?
 
-Over the next 90 days (checked Nov 12 2026): GT −2.23%, POL −0.32%, PI +4.16%, RENDER +0.26%. GT has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 12 2026): GT −2.23%, ARB +6.11%, VVV +3.03%, POL −0.32%. GT has the least new supply of these 4 coins.
 
 ## More on Gate
 

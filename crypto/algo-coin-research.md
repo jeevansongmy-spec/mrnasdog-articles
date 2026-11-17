@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Algorand (ALGO) Inflationary? +0.43% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/algo, updated Nov 13 2026*
+*From https://mrnasdog.com/research/algo, updated Nov 17 2026*
 
 How much new ALGO is coming? **+0.43%** in the next 90 days, **+1.69%** in the next year — checked Nov 13 2026.
 
@@ -26,7 +26,7 @@ Algorand (ALGO) is inflationary right now: its supply changes +0.43% over the ne
 
 ### What is the ALGO inflation rate in 2026?
 
-About +1.69% a year: that is how much Algorand (ALGO) supply changes over the next 12 months, with +0.43% in the next 90 days (checked Nov 13 2026). That puts ALGO #60 of 100 coins we track for new supply (#1 = the most new supply).
+About +1.69% a year: that is how much Algorand (ALGO) supply changes over the next 12 months, with +0.43% in the next 90 days (checked Nov 13 2026). That puts ALGO #61 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next ALGO token unlock?
 
@@ -52,7 +52,7 @@ Over the next 90 days (checked Nov 13 2026): ALGO +0.43%, LIT +8.94%, NIGHT 0.00
 
 Algorand never mints ALGO, yet supply grew 0.59% in 90 days as the Foundation paid stakers and spent from its wallets. Nothing is burned.
 
-Algorand adds +0.43% new supply in the next 90 days and +1.69% over a year — supply scores 3/5 (light), #60 of 100 for new supply.
+Algorand adds +0.43% new supply in the next 90 days and +1.69% over a year — supply scores 3/5 (light), #61 of 100 for new supply.
 
 ## How strong is Algorand demand?
 

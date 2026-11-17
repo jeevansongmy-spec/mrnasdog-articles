@@ -8,11 +8,11 @@ published:     true
 ---
 # FLOKI Tokenomics: −0.04% Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/floki (checked Nov 13 2026)*
+*Originally published at https://mrnasdog.com/research/floki (checked Nov 17 2026)*
 
 As of Nov 8 2026, new Floki supply runs at **−0.04%** over 90 days and **−0.16%** over 12 months.
 
-- **Signal today:** negative (Nov 13 2026)
+- **Signal today:** negative (Nov 17 2026)
 - **MrNasDog score:** 3/10 — supply 1.5/5, demand 1.5/5
 - **New coins:** −0.04% in 90 days · −0.16% in a year
 - **Demand:** very weak (1.5/5)
@@ -63,7 +63,7 @@ More ways for big buyers → price up · Delistings → price down.
 
 ## How strong is Floki demand?
 
-Floki demand: 1.5/5 (**very weak**), place #78 among 109 coins — interest today plus the buying that could come later.
+Floki demand: 1.5/5 (**very weak**), place #77 among 109 coins — interest today plus the buying that could come later.
 
 Extra Floki demand detail for members stays on the live page.
 

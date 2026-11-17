@@ -8,7 +8,7 @@ published:     true
 ---
 # Gnosis (GNO) Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/gno · checked Nov 13 2026*
+*Live page: https://mrnasdog.com/research/gno · checked Nov 17 2026*
 
 Gnosis (GNO) supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 7 2026).
 
@@ -44,9 +44,9 @@ Almost no new GNO reaches the market over the next 90 days (checked Nov 7 2026).
 
 Gnosis (GNO) has about 2.64M coins in circulation as of Nov 7 2026; the next 90 days change that by 0.00% (0.00% over a year).
 
-### Does GNO have more new supply than STRK, SUN or XTZ?
+### Does GNO have more new supply than BTT, BSV or SUN?
 
-Over the next 90 days (checked Nov 7 2026): GNO 0.00%, STRK +9.23%, SUN −0.04%, XTZ +0.72%. GNO sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 7 2026): GNO 0.00%, BTT −2.56%, BSV +0.20%, SUN −0.04%. GNO sits in the middle of these 4 coins.
 
 ## Supply — new GNO in the next 90 days
 
@@ -75,7 +75,7 @@ Good for the price: Backing per GNO grows. Bad for it: Backing shrinks. Right no
 | Aug 31 2026 | 117 USD | — |
 | Sep 30 2026 | 118 USD | — |
 | Oct 31 2026 | 105 USD | 123 USD |
-| Nov 13 2026 | 109 USD | 116 USD |
+| Nov 17 2026 | 93.1 USD | 107 USD |
 
 *Checked Nov 7 2026*
 

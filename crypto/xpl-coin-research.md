@@ -1,6 +1,6 @@
 ---
 title:         "Plasma (XPL) Inflation Rate: +14.35% New Supply in 90 Days"
-description:   "As of Nov 6 2026, Plasma (XPL) supply moves +14.35% in 90 days and +57.41% in a year, so XPL is inflationary. New XPL outweighs what is burned or bought back."
+description:   "As of Nov 16 2026, Plasma (XPL) supply moves +14.35% in 90 days and +57.41% in a year, so XPL is inflationary. New XPL outweighs what is burned or bought back."
 canonical_url: "https://mrnasdog.com/research/xpl"
 content_type:  "coin_hub"
 tags:          ["crypto", "xpl", "plasma", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # Plasma (XPL) Inflation Rate: +14.35% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/xpl — numbers checked Nov 16 2026*
+*Source: https://mrnasdog.com/research/xpl — numbers checked Nov 17 2026*
 
-**+14.35%** in 90 days, **+57.41%** in a year: that is how fast Plasma (XPL) supply changes as of Nov 6 2026.
+**+14.35%** in 90 days, **+57.41%** in a year: that is how fast Plasma (XPL) supply changes as of Nov 16 2026.
 
 - **Long-run signal:** negative — XPL, read by supply and demand
 - **Score:** 2/10 — supply 0/5, demand 2/5
@@ -22,41 +22,41 @@ published:     true
 
 ### Is Plasma (XPL) inflationary or deflationary?
 
-As of Nov 6 2026, Plasma (XPL) supply moves +14.35% in 90 days and +57.41% in a year, so XPL is inflationary. New XPL outweighs what is burned or bought back.
+As of Nov 16 2026, Plasma (XPL) supply moves +14.35% in 90 days and +57.41% in a year, so XPL is inflationary. New XPL outweighs what is burned or bought back.
 
 ### What is the XPL inflation rate in 2026?
 
-Plasma (XPL) supply grows +57.41% over the next 12 months and +14.35% over the next 90 days (checked Nov 6 2026). That puts XPL #7 of 100 coins we track for new supply (#1 = the most new supply).
+Plasma (XPL) supply grows +57.41% over the next 12 months and +14.35% over the next 90 days (checked Nov 16 2026). That puts XPL #7 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next XPL token unlock?
 
-The next Plasma (XPL) unlock we track is on Nov 25 2026: about 228M XPL, 4.78% of the XPL in circulation (Monthly unlock: ecosystem fund, team and investors). Checked Nov 6 2026.
+The next Plasma (XPL) unlock we track is on Nov 25 2026: about 228M XPL, 4.78% of the XPL in circulation (Monthly unlock (ecosystem, team, investors)). Checked Nov 16 2026.
 
 ### Does Plasma burn or buy back XPL?
 
-Not in a way that removes XPL today: nothing takes XPL off the market over the next 90 days (checked Nov 6 2026). Nothing takes XPL back: there is no buyback, and the base-fee burn is tiny because plain USDT transfers are free. Coins locked for the Plasma One card still count as circulating.
+Not in a way that removes XPL today: nothing takes XPL off the market over the next 90 days (checked Nov 16 2026). Nothing takes XPL back: there is no buyback, and the base-fee burn is tiny because plain stablecoin transfers are free. Coins locked for the Plasma One card still count as circulating.
 
 ### Where does new XPL supply come from?
 
-In our count, about 683M new XPL reaches the market over the next 90 days (checked Nov 6 2026). How it works: Unlocks are the only new XPL: the Sep 25 2026 team and investor cliff and monthly releases freed 2.07B in 90 days, and 227.78M more opens on the 25th of every month until Sep 25 2028. Validators are not paid in new coins yet.
+In our count, about 683M new XPL reaches the market over the next 90 days (checked Nov 16 2026). How it works: Unlocks are the only new XPL: the Sep 25 2026 team and investor cliff and monthly releases freed 2.07B in 90 days, and 227.78M more opens on the 25th of every month until Sep 25 2028. Validators are not paid in new coins yet.
 
 ### How much XPL is in circulation?
 
-Plasma (XPL) has about 4.76B coins in circulation as of Nov 6 2026; the next 90 days change that by +14.35% (+57.41% over a year).
+Plasma (XPL) has about 4.76B coins in circulation as of Nov 16 2026; the next 90 days change that by +14.35% (+57.41% over a year).
 
-### Does XPL have more new supply than LDO, SEI or TRUMP?
+### Does XPL have more new supply than CFX, GRT or FLOKI?
 
-Over the next 90 days (checked Nov 6 2026): XPL +14.35%, LDO +5.08%, SEI +4.14%, TRUMP +11.93%. XPL has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 16 2026): XPL +14.35%, CFX +0.44%, GRT +1.06%, FLOKI −0.04%. XPL has the most new supply of these 4 coins.
 
 ## Supply: how much new XPL is coming
 
-Plasma's XPL grew 43.52% in 90 days as the Sep 25 2026 team and investor cliff landed, and 227.78M more unlocks every month with no buyback to absorb it.
+Plasma's XPL grew 43.52% in 90 days as the Sep 25 2026 team and investor cliff landed, and 227.78M more unlocks every month with no buyback to take any back.
 
 Expect +14.35% more XPL in 90 days (+57.41% over the year). On supply alone Plasma gets 0/5 — extreme, #7 of 100 for new supply.
 
 ## Demand: how much people want XPL
 
-How much do people want XPL? **weak** — 2 out of 5, #64 of 109.
+How much do people want XPL? **weak** — 2 out of 5, #63 of 109.
 
 (Members see more XPL demand detail on the page; it is not repeated here.)
 
@@ -66,7 +66,7 @@ Plasma has 2 price drivers. Right now: 1 up, 1 down.
 
 ### ▲ Stablecoins on Plasma
 
-Stablecoins up in the last 7 days; far below Sep 2025's $6B
+Stablecoins rising again; still far below Sep 2025's $6B
 
 More dollars on Plasma → price up · Dollars leave Plasma → price down. Now: ▲ up side.
 
@@ -75,13 +75,13 @@ More dollars on Plasma → price up · Dollars leave Plasma → price down. Now:
 | Aug 31 2026 | $1.05B |
 | Sep 30 2026 | $1.45B |
 | Oct 31 2026 | $1.34B |
-| Nov 16 2026 | $1.63B |
+| Nov 17 2026 | $1.65B |
 
-*Checked Nov 6 2026*
+*Checked Nov 16 2026*
 
 ### ▼ Aave on Plasma
 
-Aave holds most of Plasma's app money, far below its 2025 peak
+Aave deposits on Plasma keep shrinking, far below 2025's peak
 
 Good for the price: Aave deposits grow. Bad for it: Aave deposits shrink. Today: the price-down case.
 
@@ -90,9 +90,9 @@ Good for the price: Aave deposits grow. Bad for it: Aave deposits shrink. Today:
 | Aug 31 2026 | $0.509B |
 | Sep 30 2026 | $0.474B |
 | Oct 31 2026 | $0.426B |
-| Nov 16 2026 | $0.341B |
+| Nov 17 2026 | $0.344B |
 
-*Checked Nov 6 2026*
+*Checked Nov 16 2026*
 
 ## Read more on XPL
 

@@ -8,11 +8,11 @@ published:     true
 ---
 # Cosmos Hub (ATOM) Tokenomics: +3.17% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/atom (checked Nov 13 2026)*
+*Originally published at https://mrnasdog.com/research/atom (checked Nov 17 2026)*
 
 As of Nov 13 2026, new Cosmos Hub supply runs at **+3.17%** over 90 days and **+13.51%** over 12 months.
 
-- **Long-run signal:** negative (Nov 13 2026)
+- **Long-run signal:** negative (Nov 17 2026)
 - **Score:** 3.5/10 — supply 1/5, demand 2.5/5
 - **New supply:** +3.17% in 90 days · +13.51% in a year
 - **Demand:** modest (2.5/5)
@@ -64,11 +64,11 @@ Tokenomics update due by Nov 30 2026; proposals follow.
 
 Cosmos Hub pays stakers about 16.48M new ATOM every 90 days, near 12.5% a year because blocks come fast, and burns almost none: supply +3.04% in 90 days.
 
-New ATOM: +3.17% in 90 days, +13.51% in a year. Supply score 1/5, "very heavy" (place 22 of 100).
+New ATOM: +3.17% in 90 days, +13.51% in a year. Supply score 1/5, "very heavy" (place 23 of 100).
 
 ## Demand today
 
-Cosmos Hub demand: 2.5/5 (**modest**), place #46 among 109 coins — interest today plus the buying that could come later.
+Cosmos Hub demand: 2.5/5 (**modest**), place #47 among 109 coins — interest today plus the buying that could come later.
 
 Members get the rest of the Cosmos Hub demand read on mrnasdog.com.
 
@@ -80,7 +80,7 @@ Cosmos Hub (ATOM) is inflationary right now: its supply changes +3.17% over the 
 
 ### What is the ATOM inflation rate in 2026?
 
-About +13.51% a year: that is how much Cosmos Hub (ATOM) supply changes over the next 12 months, with +3.17% in the next 90 days (checked Nov 13 2026). That puts ATOM #22 of 100 coins we track for new supply (#1 = the most new supply).
+About +13.51% a year: that is how much Cosmos Hub (ATOM) supply changes over the next 12 months, with +3.17% in the next 90 days (checked Nov 13 2026). That puts ATOM #23 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next ATOM token unlock?
 
@@ -98,9 +98,9 @@ In our count, about 17.2M new ATOM reaches the market over the next 90 days (che
 
 About 542M ATOM is in circulation (checked Nov 13 2026). Over the next 90 days that changes +3.17%, and over a year +13.51%.
 
-### Does ATOM have more new supply than NIGHT, NEXO or FIL?
+### Does ATOM have more new supply than NIGHT, NEXO or ZRO?
 
-Over the next 90 days (checked Nov 13 2026): ATOM +3.17%, NIGHT 0.00%, NEXO 0.00%, FIL +1.65%. ATOM has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 13 2026): ATOM +3.17%, NIGHT 0.00%, NEXO 0.00%, ZRO +17.56%. ATOM sits in the middle of these 4 coins.
 
 ## Where to read the rest of ATOM
 

@@ -8,7 +8,7 @@ published:     true
 ---
 # SUN Supply & Demand: −0.04% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/sun · checked Nov 13 2026*
+*Live page: https://mrnasdog.com/research/sun · checked Nov 17 2026*
 
 SUN supply changes **−0.04%** over the next 90 days and **−0.16%** over a year (checked Nov 7 2026).
 
@@ -44,9 +44,9 @@ Almost no new SUN reaches the market over the next 90 days (checked Nov 7 2026).
 
 SUN has about 19.2B coins in circulation as of Nov 7 2026; the next 90 days change that by −0.04% (−0.16% over a year).
 
-### Does SUN have more new supply than GNO, XTZ or PENDLE?
+### Does SUN have more new supply than BSV, VIRTUAL or XTZ?
 
-Over the next 90 days (checked Nov 7 2026): SUN −0.04%, GNO 0.00%, XTZ +0.72%, PENDLE +2.58%. SUN has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 7 2026): SUN −0.04%, BSV +0.20%, VIRTUAL +0.04%, XTZ +0.72%. SUN has the least new supply of these 4 coins.
 
 ## SUN supply
 
@@ -56,7 +56,7 @@ Over the next 90 days SUN supply changes −0.04%; across a full year, −0.16%.
 
 ## Demand today
 
-People's appetite for SUN is **weak**: 2/5, ranked #65 of 109.
+People's appetite for SUN is **weak**: 2/5, ranked #63 of 109.
 
 Members get the rest of the SUN demand read on mrnasdog.com.
 

@@ -8,7 +8,7 @@ published:     true
 ---
 # Optimism (OP) Inflation Rate: +0.98% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/optimism — numbers checked Nov 13 2026*
+*Source: https://mrnasdog.com/research/optimism — numbers checked Nov 17 2026*
 
 **+0.98%** in 90 days, **+2.30%** in a year: that is how fast Optimism (OP) supply changes as of Nov 7 2026.
 
@@ -22,7 +22,7 @@ published:     true
 
 Optimism mints no OP, but Foundation grants and team unlocks add new coins, and the buyback keeps what it buys.
 
-Expect +0.98% more OP in 90 days (+2.30% over the year). On supply alone Optimism gets 2/5 — growing (place 46 of 100).
+Expect +0.98% more OP in 90 days (+2.30% over the year). On supply alone Optimism gets 2/5 — growing (place 47 of 100).
 
 ## OP price drivers the score does not count
 
@@ -62,7 +62,7 @@ More money on OP → price up · Money leaves → price down. Right now it point
 
 ## How strong is Optimism demand?
 
-How much do people want OP? **very weak** — 1.5 out of 5, #78 of 109.
+How much do people want OP? **very weak** — 1.5 out of 5, #77 of 109.
 
 A deeper OP demand breakdown is on the page for members.
 
@@ -74,7 +74,7 @@ As of Nov 7 2026, Optimism (OP) supply moves +0.98% in 90 days and +2.30% in a y
 
 ### What is the OP inflation rate in 2026?
 
-Optimism (OP) supply grows +2.30% over the next 12 months and +0.98% over the next 90 days (checked Nov 7 2026). That puts OP #46 of 100 coins we track for new supply (#1 = the most new supply).
+Optimism (OP) supply grows +2.30% over the next 12 months and +0.98% over the next 90 days (checked Nov 7 2026). That puts OP #47 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next OP token unlock?
 
@@ -92,9 +92,9 @@ In our count, about 22.5M new OP reaches the market over the next 90 days (check
 
 Optimism (OP) has about 2.29B coins in circulation as of Nov 7 2026; the next 90 days change that by +0.98% (+2.30% over a year).
 
-### Does OP have more new supply than BONK, LUNC or CFX?
+### Does OP have more new supply than PENDLE, LDO or LUNC?
 
-Over the next 90 days (checked Nov 7 2026): OP +0.98%, BONK 0.00%, LUNC −0.16%, CFX +0.44%. OP has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 7 2026): OP +0.98%, PENDLE +2.49%, LDO +4.36%, LUNC −0.16%. OP sits in the middle of these 4 coins.
 
 ## Next steps for OP
 

@@ -8,11 +8,11 @@ published:     true
 ---
 # Hedera (HBAR) Tokenomics: +1.25% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/hbar (checked Nov 13 2026)*
+*Originally published at https://mrnasdog.com/research/hbar (checked Nov 17 2026)*
 
 As of Nov 10 2026, new Hedera supply runs at **+1.25%** over 90 days and **+5.02%** over 12 months.
 
-- **Long-run signal:** negative (Nov 13 2026)
+- **Long-run signal:** negative (Nov 17 2026)
 - **Score:** 3.5/10 — supply 2/5, demand 1.5/5
 - **New supply:** +1.25% in 90 days · +5.02% in a year
 - **Demand:** very weak (1.5/5)
@@ -63,7 +63,7 @@ Four big names joined since Dec 2025; Hitachi just dropped off.
 
 ## HBAR demand
 
-Hedera demand: 1.5/5 (**very weak**), place #78 among 109 coins — interest today plus the buying that could come later.
+Hedera demand: 1.5/5 (**very weak**), place #77 among 109 coins — interest today plus the buying that could come later.
 
 Members get the rest of the Hedera demand read on mrnasdog.com.
 

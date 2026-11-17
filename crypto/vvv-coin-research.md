@@ -8,14 +8,14 @@ published:     true
 ---
 # Venice Token (VVV) Supply & Demand: +3.03% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/vvv · checked Nov 13 2026*
+*Live page: https://mrnasdog.com/research/vvv · checked Nov 17 2026*
 
 Venice Token (VVV) supply changes **+3.03%** over the next 90 days and **+5.93%** over a year (checked Nov 13 2026).
 
 - **Signal today:** mixed (by the law of supply and demand)
-- **MrNasDog score:** 4.5/10 — supply 1/5, demand 3.5/5
+- **MrNasDog score:** 5/10 — supply 1/5, demand 4/5
 - **New coins:** +3.03% in 90 days · +5.93% in a year
-- **Demand:** strong (3.5/5)
+- **Demand:** strong (4/5)
 - **Drivers:** 0 ▲ price up · 0 ▼ price down
 
 ## VVV price drivers
@@ -57,11 +57,11 @@ Good for the price: Growth reaches token. Bad for it: Equity keeps growth.
 
 Venice Token (VVV) supply grew +3.37% in 90 days: team unlocks and staking pay outrun the revenue burns until the team lock ends on Jan 27 2027.
 
-Over the next 90 days VVV supply changes +3.03%; across a full year, +5.93%. That puts supply at 1/5 (very heavy), #23 of 100 for new supply.
+Over the next 90 days VVV supply changes +3.03%; across a full year, +5.93%. That puts supply at 1/5 (very heavy), #24 of 100 for new supply.
 
 ## Who wants Venice Token right now
 
-People's appetite for Venice Token is **strong**: 3.5/5, ranked #18 of 109.
+People's appetite for Venice Token is **strong**: 4/5, ranked #9 of 109.
 
 The members-only part of VVV's demand section is not included.
 
@@ -73,7 +73,7 @@ As of Nov 13 2026, Venice Token (VVV) supply moves +3.03% in 90 days and +5.93% 
 
 ### What is the VVV inflation rate in 2026?
 
-Venice Token (VVV) supply grows +5.93% over the next 12 months and +3.03% over the next 90 days (checked Nov 13 2026). That puts VVV #23 of 100 coins we track for new supply (#1 = the most new supply).
+Venice Token (VVV) supply grows +5.93% over the next 12 months and +3.03% over the next 90 days (checked Nov 13 2026). That puts VVV #24 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next VVV token unlock?
 

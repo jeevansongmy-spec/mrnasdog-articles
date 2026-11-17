@@ -8,7 +8,7 @@ published:     true
 ---
 # Internet Computer (ICP) Inflation Rate: +0.61% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/icp — numbers checked Nov 13 2026*
+*Source: https://mrnasdog.com/research/icp — numbers checked Nov 17 2026*
 
 **+0.61%** in 90 days, **+2.46%** in a year: that is how fast Internet Computer (ICP) supply changes as of Nov 12 2026.
 
@@ -22,11 +22,11 @@ published:     true
 
 The Internet Computer mints new ICP for stakers and node providers and burns a little for computing: supply up about 0.53% in 90 days, 0.61% next.
 
-Expect +0.61% more ICP in 90 days (+2.46% over the year). On supply alone Internet Computer gets 2.5/5 — moderate, #56 of 100 for new supply.
+Expect +0.61% more ICP in 90 days (+2.46% over the year). On supply alone Internet Computer gets 2.5/5 — moderate, #57 of 100 for new supply.
 
 ## Demand: how much people want ICP
 
-How much do people want ICP? **strong** — 3.5 out of 5, #18 of 109.
+How much do people want ICP? **strong** — 3.5 out of 5, #20 of 109.
 
 (Members see more ICP demand detail on the page; it is not repeated here.)
 
@@ -45,7 +45,7 @@ More ICP stays locked → price up · More ICP unstakes → price down. Right no
 | Aug 31 2026 | 289 M ICP | 243 M ICP |
 | Sep 30 2026 | 290 M ICP | 244 M ICP |
 | Oct 31 2026 | 287 M ICP | 243 M ICP |
-| Nov 13 2026 | 287 M ICP | 243 M ICP |
+| Nov 17 2026 | 287 M ICP | 243 M ICP |
 
 *Checked Nov 12 2026*
 
@@ -60,7 +60,7 @@ Good for the price: More apps running. Bad for it: App growth stalls.
 | Aug 31 2026 | 1.16 M apps |
 | Sep 30 2026 | 1.16 M apps |
 | Oct 31 2026 | 1.17 M apps |
-| Nov 13 2026 | 1.17 M apps |
+| Nov 17 2026 | 1.17 M apps |
 
 *Checked Nov 12 2026*
 
@@ -72,7 +72,7 @@ As of Nov 12 2026, Internet Computer (ICP) supply moves +0.61% in 90 days and +2
 
 ### What is the ICP inflation rate in 2026?
 
-Internet Computer (ICP) supply grows +2.46% over the next 12 months and +0.61% over the next 90 days (checked Nov 12 2026). That puts ICP #56 of 100 coins we track for new supply (#1 = the most new supply).
+Internet Computer (ICP) supply grows +2.46% over the next 12 months and +0.61% over the next 90 days (checked Nov 12 2026). That puts ICP #57 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next ICP token unlock?
 

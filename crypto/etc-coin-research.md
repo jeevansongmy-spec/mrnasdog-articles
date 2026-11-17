@@ -8,12 +8,12 @@ published:     true
 ---
 # Ethereum Classic (ETC) Supply & Demand: +0.59% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/etc · checked Nov 13 2026*
+*Live page: https://mrnasdog.com/research/etc · checked Nov 17 2026*
 
 Ethereum Classic (ETC) supply changes **+0.59%** over the next 90 days and **+2.41%** over a year (checked Nov 12 2026).
 
 - **Long-run signal:** negative (by the law of supply and demand)
-- **Score:** 4/10 — supply 2.5/5, demand 1.5/5
+- **Score:** 4.5/10 — supply 3/5, demand 1.5/5
 - **New supply:** +0.59% in 90 days · +2.41% in a year
 - **Demand:** very weak (1.5/5)
 - **Price drivers:** 0 ▲ price up · 3 ▼ price down
@@ -22,11 +22,11 @@ Ethereum Classic (ETC) supply changes **+0.59%** over the next 90 days and **+2.
 
 Ethereum Classic is a mined coin with a hard cap of about 210.7M ETC. Miners earn about 943.6K new ETC every 90 days and nothing is burned or bought back, so supply grows about 0.59% per 90 days until the next 20% reward cut around Sep 2028.
 
-Over the next 90 days ETC supply changes +0.59%; across a full year, +2.41%. That puts supply at 2.5/5 (moderate), #57 of 100 for new supply.
+Over the next 90 days ETC supply changes +0.59%; across a full year, +2.41%. That puts supply at 3/5 (light), #58 of 100 for new supply.
 
 ## How strong is Ethereum Classic demand?
 
-People's appetite for Ethereum Classic is **very weak**: 1.5/5, ranked #78 of 109.
+People's appetite for Ethereum Classic is **very weak**: 1.5/5, ranked #77 of 109.
 
 A deeper ETC demand breakdown is on the page for members.
 
@@ -60,7 +60,7 @@ More mining power → price up · Miners leave → price down. Today: the price-
 | Aug 31 2026 | 186 TH/s |
 | Sep 30 2026 | 182 TH/s |
 | Oct 31 2026 | 198 TH/s |
-| Nov 13 2026 | 183 TH/s |
+| Nov 17 2026 | 178 TH/s |
 
 *Checked Nov 12 2026*
 
@@ -90,7 +90,7 @@ As of Nov 12 2026, Ethereum Classic (ETC) supply moves +0.59% in 90 days and +2.
 
 ### What is the ETC inflation rate in 2026?
 
-Ethereum Classic (ETC) supply grows +2.41% over the next 12 months and +0.59% over the next 90 days (checked Nov 12 2026). That puts ETC #57 of 100 coins we track for new supply (#1 = the most new supply).
+Ethereum Classic (ETC) supply grows +2.41% over the next 12 months and +0.59% over the next 90 days (checked Nov 12 2026). That puts ETC #58 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next ETC token unlock?
 
@@ -108,9 +108,9 @@ In our count, about 944K new ETC reaches the market over the next 90 days (check
 
 Ethereum Classic (ETC) has about 159M coins in circulation as of Nov 12 2026; the next 90 days change that by +0.59% (+2.41% over a year).
 
-### Does ETC have more new supply than VVV, ARB or KCS?
+### Does ETC have more new supply than JST, ARB or GT?
 
-Over the next 90 days (checked Nov 12 2026): ETC +0.59%, VVV +3.39%, ARB +6.11%, KCS 0.00%. ETC sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 12 2026): ETC +0.59%, JST −1.22%, ARB +6.11%, GT −2.23%. ETC sits in the middle of these 4 coins.
 
 ## More on Ethereum Classic
 

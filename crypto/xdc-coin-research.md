@@ -8,7 +8,7 @@ published:     true
 ---
 # Is XDC Network (XDC) Inflationary? +4.31% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/xdc, updated Nov 14 2026*
+*From https://mrnasdog.com/research/xdc, updated Nov 17 2026*
 
 How much new XDC is coming? **+4.31%** in the next 90 days, **+4.59%** in the next year — checked Nov 14 2026.
 
@@ -22,7 +22,7 @@ How much new XDC is coming? **+4.31%** in the next 90 days, **+4.59%** in the ne
 
 XDC pays validators a small steady stream of new coins and burns nothing; the big step is the yearly release of about 841M XDC on Feb 5 2027, with 17.28B XDC still in launch reserves.
 
-XDC Network adds +4.31% new supply in the next 90 days and +4.59% over a year — supply scores 0.5/5 (flooding), #19 of 100 for new supply.
+XDC Network adds +4.31% new supply in the next 90 days and +4.59% over a year — supply scores 0.5/5 (flooding), #18 of 100 for new supply.
 
 ## Who wants XDC Network right now
 
@@ -64,7 +64,7 @@ Good for the price: More dollars settle on XDC. Bad for it: Dollars leave XDC. T
 | Aug 31 2026 | $72.7M |
 | Sep 30 2026 | $57.7M |
 | Oct 31 2026 | $60.4M |
-| Nov 15 2026 | $52.8M |
+| Nov 17 2026 | $51.7M |
 
 *Checked Nov 14 2026*
 
@@ -76,7 +76,7 @@ XDC Network (XDC) is inflationary right now: its supply changes +4.31% over the 
 
 ### What is the XDC inflation rate in 2026?
 
-About +4.59% a year: that is how much XDC Network (XDC) supply changes over the next 12 months, with +4.31% in the next 90 days (checked Nov 14 2026). That puts XDC #19 of 100 coins we track for new supply (#1 = the most new supply).
+About +4.59% a year: that is how much XDC Network (XDC) supply changes over the next 12 months, with +4.31% in the next 90 days (checked Nov 14 2026). That puts XDC #18 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next XDC token unlock?
 

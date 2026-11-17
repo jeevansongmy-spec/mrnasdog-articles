@@ -8,7 +8,7 @@ published:     true
 ---
 # Cardano (ADA) Inflation Rate: +0.24% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/ada — numbers checked Nov 13 2026*
+*Source: https://mrnasdog.com/research/ada — numbers checked Nov 17 2026*
 
 **+0.24%** in 90 days, **+1.19%** in a year: that is how fast Cardano (ADA) supply changes as of Nov 9 2026.
 
@@ -33,7 +33,7 @@ Small, careful payouts → price up · Big payouts get sold → price down. Toda
 | Aug 31 2026 | 1.34 B ADA |
 | Sep 30 2026 | 1.37 B ADA |
 | Oct 31 2026 | 1.39 B ADA |
-| Nov 13 2026 | 1.42 B ADA |
+| Nov 17 2026 | 1.43 B ADA |
 
 *Checked Nov 9 2026*
 
@@ -64,7 +64,7 @@ Expect +0.24% more ADA in 90 days (+1.19% over the year). On supply alone Cardan
 
 ## How strong is Cardano demand?
 
-How much do people want ADA? **moderate** — 3 out of 5, #34 of 109.
+How much do people want ADA? **moderate** — 3 out of 5, #37 of 109.
 
 The members-only part of ADA's demand section is not included.
 
@@ -76,7 +76,7 @@ As of Nov 9 2026, Cardano (ADA) supply moves +0.24% in 90 days and +1.19% in a y
 
 ### What is the ADA inflation rate in 2026?
 
-Cardano (ADA) supply grows +1.19% over the next 12 months and +0.24% over the next 90 days (checked Nov 9 2026). That puts ADA #64 of 100 coins we track for new supply (#1 = the most new supply).
+Cardano (ADA) supply grows +1.19% over the next 12 months and +0.24% over the next 90 days (checked Nov 9 2026). That puts ADA #65 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next ADA token unlock?
 

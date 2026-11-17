@@ -8,7 +8,7 @@ published:     true
 ---
 # Bittensor (TAO) Inflation Rate: +2.69% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/tao — numbers checked Nov 13 2026*
+*Source: https://mrnasdog.com/research/tao — numbers checked Nov 17 2026*
 
 **+2.69%** in 90 days, **+10.93%** in a year: that is how fast Bittensor (TAO) supply changes as of Nov 10 2026.
 
@@ -26,7 +26,7 @@ As of Nov 10 2026, Bittensor (TAO) supply moves +2.69% in 90 days and +10.93% in
 
 ### What is the TAO inflation rate in 2026?
 
-Bittensor (TAO) supply grows +10.93% over the next 12 months and +2.69% over the next 90 days (checked Nov 10 2026). That puts TAO #24 of 100 coins we track for new supply (#1 = the most new supply).
+Bittensor (TAO) supply grows +10.93% over the next 12 months and +2.69% over the next 90 days (checked Nov 10 2026). That puts TAO #25 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next TAO token unlock?
 
@@ -52,7 +52,7 @@ Over the next 90 days (checked Nov 10 2026): TAO +2.69%, SHIB 0.00%, CRO +7.18%,
 
 Bittensor's supply grew 4.16% in 90 days: 0.5 new TAO every block plus a one-time 172,001 TAO top-up for root stakers. With that fix done, about 2.69% is expected next, under a 21M cap.
 
-Expect +2.69% more TAO in 90 days (+10.93% over the year). On supply alone Bittensor gets 1/5 — very heavy, #24 of 100 for new supply.
+Expect +2.69% more TAO in 90 days (+10.93% over the year). On supply alone Bittensor gets 1/5 — very heavy, #25 of 100 for new supply.
 
 ## Demand: how much people want TAO
 

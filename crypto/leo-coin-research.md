@@ -8,7 +8,7 @@ published:     true
 ---
 # UNUS SED LEO (LEO) Inflation Rate: −0.06% Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/leo — numbers checked Nov 13 2026*
+*Source: https://mrnasdog.com/research/leo — numbers checked Nov 17 2026*
 
 **−0.06%** in 90 days, **−0.26%** in a year: that is how fast UNUS SED LEO (LEO) supply changes as of Nov 9 2026.
 

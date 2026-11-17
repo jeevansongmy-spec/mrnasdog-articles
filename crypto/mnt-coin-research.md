@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Mantle (MNT) Inflationary? 0.00% Supply in 90 Days
 
-*From https://mrnasdog.com/research/mnt, updated Nov 13 2026*
+*From https://mrnasdog.com/research/mnt, updated Nov 17 2026*
 
 How much new MNT is coming? **0.00%** in the next 90 days, **+1.33%** in the next year — checked Nov 11 2026.
 
@@ -45,7 +45,7 @@ Good for the price: More dollars on Mantle. Bad for it: Dollars leave Mantle.
 | Aug 31 2026 | $591M |
 | Sep 30 2026 | $549M |
 | Oct 31 2026 | $546M |
-| Nov 13 2026 | $523M |
+| Nov 17 2026 | $523M |
 
 *Checked Nov 11 2026*
 

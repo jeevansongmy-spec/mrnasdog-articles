@@ -8,11 +8,11 @@ published:     true
 ---
 # Filecoin (FIL) Tokenomics: +1.53% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/fil (checked Nov 14 2026)*
+*Originally published at https://mrnasdog.com/research/fil (checked Nov 17 2026)*
 
 As of Nov 14 2026, new Filecoin supply runs at **+1.53%** over 90 days and **+6.04%** over 12 months.
 
-- **Signal:** negative (Nov 14 2026)
+- **Signal:** negative (Nov 17 2026)
 - **Score:** 3.5/10 — supply 1.5/5, demand 2/5
 - **Supply growth:** +1.53% in 90 days · +6.04% in a year
 - **How much people want it:** weak (2/5)
@@ -26,7 +26,7 @@ New FIL: +1.53% in 90 days, +6.04% in a year. Supply score 1.5/5, "heavy", #35 o
 
 ## Demand: how much people want FIL
 
-Filecoin demand: 2/5 (**weak**), place #65 among 109 coins — interest today plus the buying that could come later.
+Filecoin demand: 2/5 (**weak**), place #63 among 109 coins — interest today plus the buying that could come later.
 
 Extra Filecoin demand detail for members stays on the live page.
 
@@ -45,7 +45,7 @@ More data stored → price up · Storage keeps shrinking → price down. Now: �
 | Aug 31 2026 | 1.38 EiB |
 | Sep 27 2026 | 1.34 EiB |
 | Oct 31 2026 | 1.21 EiB |
-| Nov 15 2026 | 1.1 EiB |
+| Nov 17 2026 | 1.11 EiB |
 
 *Checked Nov 14 2026*
 
@@ -91,9 +91,9 @@ In our count, about 13.3M new FIL reaches the market over the next 90 days (chec
 
 About 847M FIL is in circulation (checked Nov 14 2026). Over the next 90 days that changes +1.53%, and over a year +6.04%.
 
-### Does FIL have more new supply than CAKE, FLR or PYTH?
+### Does FIL have more new supply than CAKE, STX or ETHFI?
 
-Over the next 90 days (checked Nov 14 2026): FIL +1.53%, CAKE −1.96%, FLR +1.04%, PYTH 0.00%. FIL has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 14 2026): FIL +1.53%, CAKE −1.96%, STX +1.25%, ETHFI 0.00%. FIL has the most new supply of these 4 coins.
 
 ## Go deeper on Filecoin
 

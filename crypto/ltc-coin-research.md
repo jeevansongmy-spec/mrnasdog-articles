@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Litecoin (LTC) Inflationary? +0.42% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/ltc, updated Nov 13 2026*
+*From https://mrnasdog.com/research/ltc, updated Nov 17 2026*
 
 How much new LTC is coming? **+0.42%** in the next 90 days, **+1.45%** in the next year — checked Nov 10 2026.
 
@@ -56,7 +56,7 @@ Good for the price: Keeps or buys LTC. Bad for it: Sells LTC. Today: the price-d
 
 Litecoin pays miners 6.25 new LTC a block, about 325K LTC every 90 days, and burns almost nothing. Supply grows about 0.42% per 90 days toward an 84M cap, and the next halving comes around late July 2027.
 
-Litecoin adds +0.42% new supply in the next 90 days and +1.45% over a year — supply scores 3/5 (light), #61 of 100 for new supply.
+Litecoin adds +0.42% new supply in the next 90 days and +1.45% over a year — supply scores 3/5 (light), #62 of 100 for new supply.
 
 ## Demand: how much people want LTC
 
@@ -72,7 +72,7 @@ Litecoin (LTC) is inflationary right now: its supply changes +0.42% over the nex
 
 ### What is the LTC inflation rate in 2026?
 
-About +1.45% a year: that is how much Litecoin (LTC) supply changes over the next 12 months, with +0.42% in the next 90 days (checked Nov 10 2026). That puts LTC #61 of 100 coins we track for new supply (#1 = the most new supply).
+About +1.45% a year: that is how much Litecoin (LTC) supply changes over the next 12 months, with +0.42% in the next 90 days (checked Nov 10 2026). That puts LTC #62 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next LTC token unlock?
 

@@ -8,14 +8,14 @@ published:     true
 ---
 # Starknet (STRK) Supply & Demand: +8.97% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/strk · checked Nov 15 2026*
+*Live page: https://mrnasdog.com/research/strk · checked Nov 17 2026*
 
 Starknet (STRK) supply changes **+8.97%** over the next 90 days and **+24.51%** over a year (checked Nov 15 2026).
 
 - **Signal today:** negative (by the law of supply and demand)
-- **MrNasDog score:** 3/10 — supply 0/5, demand 3/5
+- **MrNasDog score:** 2.5/10 — supply 0/5, demand 2.5/5
 - **New coins:** +8.97% in 90 days · +24.51% in a year
-- **Demand:** moderate (3/5)
+- **Demand:** modest (2.5/5)
 - **Drivers:** 2 ▲ price up · 0 ▼ price down
 
 ## Questions about STRK supply
@@ -44,9 +44,9 @@ In our count, about 688M new STRK reaches the market over the next 90 days (chec
 
 Starknet (STRK) has about 7.66B coins in circulation as of Nov 15 2026; the next 90 days change that by +8.97% (+24.51% over a year).
 
-### Does STRK have more new supply than KITE, BONK or OP?
+### Does STRK have more new supply than TRUMP, BONK or PENDLE?
 
-Over the next 90 days (checked Nov 15 2026): STRK +8.97%, KITE +22.04%, BONK 0.00%, OP +0.98%. STRK sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 15 2026): STRK +8.97%, TRUMP +11.93%, BONK 0.00%, PENDLE +2.49%. STRK sits in the middle of these 4 coins.
 
 ## Supply: how much new STRK is coming
 
@@ -56,7 +56,7 @@ Over the next 90 days STRK supply changes +8.97%; across a full year, +24.51%. T
 
 ## How strong is Starknet demand?
 
-People's appetite for Starknet is **moderate**: 3/5, ranked #35 of 109.
+People's appetite for Starknet is **modest**: 2.5/5, ranked #47 of 109.
 
 (Members see more STRK demand detail on the page; it is not repeated here.)
 

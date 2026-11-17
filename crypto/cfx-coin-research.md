@@ -8,11 +8,11 @@ published:     true
 ---
 # Conflux (CFX) Tokenomics: +0.44% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/cfx (checked Nov 13 2026)*
+*Originally published at https://mrnasdog.com/research/cfx (checked Nov 17 2026)*
 
 As of Nov 8 2026, new Conflux supply runs at **+0.44%** over 90 days and **+1.79%** over 12 months.
 
-- **Signal:** negative (Nov 13 2026)
+- **Signal:** negative (Nov 17 2026)
 - **Score:** 3.5/10 — supply 3/5, demand 0.5/5
 - **Supply growth:** +0.44% in 90 days · +1.79% in a year
 - **How much people want it:** very low (0.5/5)
@@ -39,7 +39,7 @@ More stablecoins on Conflux → price up · Stablecoins leave → price down. Ri
 | Aug 31 2026 | 38.1 M | 20.1 M |
 | Sep 28 2026 | 38.1 M | 20.1 M |
 | Oct 31 2026 | 31.1 M | 20.1 M |
-| Nov 13 2026 | 31.1 M | 20 M |
+| Nov 17 2026 | 31.1 M | 20 M |
 
 *Checked Nov 8 2026*
 
@@ -94,9 +94,9 @@ In our count, about 23.2M new CFX reaches the market over the next 90 days (chec
 
 About 5.25B CFX is in circulation (checked Nov 8 2026). Over the next 90 days that changes +0.44%, and over a year +1.79%.
 
-### Does CFX have more new supply than LUNC, GRT or FLOKI?
+### Does CFX have more new supply than LUNC, XPL or GRT?
 
-Over the next 90 days (checked Nov 8 2026): CFX +0.44%, LUNC −0.16%, GRT +1.06%, FLOKI −0.04%. CFX sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 8 2026): CFX +0.44%, LUNC −0.16%, XPL +14.35%, GRT +1.06%. CFX sits in the middle of these 4 coins.
 
 ## More on Conflux
 

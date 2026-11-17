@@ -8,7 +8,7 @@ published:     true
 ---
 # DASH Supply & Demand: +0.72% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/dash · checked Nov 14 2026*
+*Live page: https://mrnasdog.com/research/dash · checked Nov 17 2026*
 
 DASH supply changes **+0.72%** over the next 90 days and **+2.89%** over a year (checked Nov 14 2026).
 
@@ -96,9 +96,9 @@ In our count, about 131K new DASH reaches the market over the next 90 days (chec
 
 DASH has about 12.9M coins in circulation as of Nov 14 2026; the next 90 days change that by +0.72% (+2.89% over a year).
 
-### Does DASH have more new supply than BLIFE, STABLE or AERO?
+### Does DASH have more new supply than PIEVERSE, BLIFE or STABLE?
 
-Over the next 90 days (checked Nov 14 2026): DASH +0.72%, BLIFE 0.00%, STABLE 0.00%, AERO +5.37%. DASH sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 14 2026): DASH +0.72%, PIEVERSE +19.87%, BLIFE 0.00%, STABLE 0.00%. DASH sits in the middle of these 4 coins.
 
 ## Read more on DASH
 

@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Bitcoin Cash (BCH) Inflationary? +0.20% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/bch, updated Nov 13 2026*
+*From https://mrnasdog.com/research/bch, updated Nov 17 2026*
 
 How much new BCH is coming? **+0.20%** in the next 90 days, **+0.82%** in the next year — checked Nov 9 2026.
 
@@ -26,7 +26,7 @@ Bitcoin Cash (BCH) is inflationary right now: its supply changes +0.20% over the
 
 ### What is the BCH inflation rate in 2026?
 
-About +0.82% a year: that is how much Bitcoin Cash (BCH) supply changes over the next 12 months, with +0.20% in the next 90 days (checked Nov 9 2026). That puts BCH #68 of 100 coins we track for new supply (#1 = the most new supply).
+About +0.82% a year: that is how much Bitcoin Cash (BCH) supply changes over the next 12 months, with +0.20% in the next 90 days (checked Nov 9 2026). That puts BCH #69 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next BCH token unlock?
 
@@ -52,11 +52,11 @@ Over the next 90 days (checked Nov 9 2026): BCH +0.20%, XLM +2.52%, NEAR +0.61%,
 
 Bitcoin Cash adds about 452 new BCH a day, all to miners, and burns nothing. Supply +0.20% in 90 days under a 21M cap.
 
-Bitcoin Cash adds +0.20% new supply in the next 90 days and +0.82% over a year — supply scores 3.5/5 (steady) (place 68 of 100).
+Bitcoin Cash adds +0.20% new supply in the next 90 days and +0.82% over a year — supply scores 3.5/5 (steady) (place 69 of 100).
 
 ## Demand: how much people want BCH
 
-Demand reads **weak** (2/5), #65 of 109 coins we track — that is how much people want BCH now and how much buying could still come.
+Demand reads **weak** (2/5), #63 of 109 coins we track — that is how much people want BCH now and how much buying could still come.
 
 The members-only part of BCH's demand section is not included.
 

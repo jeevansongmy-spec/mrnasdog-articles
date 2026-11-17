@@ -8,7 +8,7 @@ published:     true
 ---
 # Is MemeCore (M) Inflationary? +1.45% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/memecore, updated Nov 13 2026*
+*From https://mrnasdog.com/research/memecore, updated Nov 17 2026*
 
 How much new M is coming? **+1.45%** in the next 90 days, **+5.88%** in the next year — checked Nov 11 2026.
 
@@ -22,7 +22,7 @@ How much new M is coming? **+1.45%** in the next 90 days, **+5.88%** in the next
 
 MemeCore's supply jumped 41.87% in 90 days when a team wallet released 925.93M M to a Nasdaq company; block rewards add about 1.45% every 90 days, and 3.14B M still sit with the team.
 
-MemeCore adds +1.45% new supply in the next 90 days and +5.88% over a year — supply scores 1.5/5 (heavy) (place 37 of 100).
+MemeCore adds +1.45% new supply in the next 90 days and +5.88% over a year — supply scores 1.5/5 (heavy) (place 38 of 100).
 
 ## Demand today
 
@@ -69,7 +69,7 @@ MemeCore (M) is inflationary right now: its supply changes +1.45% over the next 
 
 ### What is the M inflation rate in 2026?
 
-About +5.88% a year: that is how much MemeCore (M) supply changes over the next 12 months, with +1.45% in the next 90 days (checked Nov 11 2026). That puts M #37 of 100 coins we track for new supply (#1 = the most new supply).
+About +5.88% a year: that is how much MemeCore (M) supply changes over the next 12 months, with +1.45% in the next 90 days (checked Nov 11 2026). That puts M #38 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next M token unlock?
 

@@ -8,7 +8,7 @@ published:     true
 ---
 # Midnight (NIGHT) Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/night · checked Nov 13 2026*
+*Live page: https://mrnasdog.com/research/night · checked Nov 17 2026*
 
 Midnight (NIGHT) supply changes **0.00%** over the next 90 days and **+2.28%** over a year (checked Nov 13 2026).
 
@@ -68,7 +68,7 @@ Big promises come true → price up · Hype fades, goals slip → price down. To
 
 ## Who wants Midnight right now
 
-People's appetite for Midnight is **modest**: 2.5/5, ranked #46 of 109.
+People's appetite for Midnight is **modest**: 2.5/5, ranked #47 of 109.
 
 Members get the rest of the Midnight demand read on mrnasdog.com.
 

@@ -8,7 +8,7 @@ published:     true
 ---
 # Is AAVE Inflationary? +0.12% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/aave, updated Nov 13 2026*
+*From https://mrnasdog.com/research/aave, updated Nov 17 2026*
 
 How much new AAVE is coming? **+0.12%** in the next 90 days, **+0.49%** in the next year — checked Nov 11 2026.
 
@@ -33,7 +33,7 @@ Deposits shrank in the last 30 days; far below the 2025 peak.
 | Aug 31 2026 | $17.7B |
 | Sep 30 2026 | $19.1B |
 | Oct 31 2026 | $16B |
-| Nov 13 2026 | $16B |
+| Nov 17 2026 | $15.1B |
 
 *Checked Nov 11 2026*
 
@@ -79,7 +79,7 @@ Aave adds +0.12% new supply in the next 90 days and +0.49% over a year — suppl
 
 ## Demand today
 
-Demand reads **strong** (3.5/5), #18 of 109 coins we track — that is how much people want AAVE now and how much buying could still come.
+Demand reads **strong** (3.5/5), #20 of 109 coins we track — that is how much people want AAVE now and how much buying could still come.
 
 Members get the rest of the Aave demand read on mrnasdog.com.
 
@@ -91,7 +91,7 @@ AAVE is inflationary right now: its supply changes +0.12% over the next 90 days 
 
 ### What is the AAVE inflation rate in 2026?
 
-About +0.49% a year: that is how much AAVE supply changes over the next 12 months, with +0.12% in the next 90 days (checked Nov 11 2026). That puts AAVE #72 of 100 coins we track for new supply (#1 = the most new supply).
+About +0.49% a year: that is how much AAVE supply changes over the next 12 months, with +0.12% in the next 90 days (checked Nov 11 2026). That puts AAVE #73 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next AAVE token unlock?
 

@@ -8,7 +8,7 @@ published:     true
 ---
 # Solana (SOL) Supply & Demand: +1.14% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/sol · checked Nov 13 2026*
+*Live page: https://mrnasdog.com/research/sol · checked Nov 17 2026*
 
 Solana (SOL) supply changes **+1.14%** over the next 90 days and **+4.64%** over a year (checked Nov 8 2026).
 
@@ -51,7 +51,7 @@ Good for the price: More big buyers. Bad for it: Fewer. Now: ▼ down side.
 
 ### ▲ Network stops
 
-Solana stopped 6 times by 2024. None in 1011 days.
+Solana stopped 6 times by 2024. None in 1015 days.
 
 ▲ Price up if: No stops. ▼ Price down if: A new stop. Today: the price-up case.
 
@@ -64,7 +64,7 @@ Solana stopped 6 times by 2024. None in 1011 days.
 | Jul 2025 | 0 stops |
 | Jul 2026 | 0 stops |
 
-*Checked Nov 13 2026*
+*Checked Nov 17 2026*
 
 ## Solana (SOL) supply: questions people ask
 
@@ -74,7 +74,7 @@ As of Nov 8 2026, Solana (SOL) supply moves +1.14% in 90 days and +4.64% in a ye
 
 ### What is the SOL inflation rate in 2026?
 
-Solana (SOL) supply grows +4.64% over the next 12 months and +1.14% over the next 90 days (checked Nov 8 2026). That puts SOL #42 of 100 coins we track for new supply (#1 = the most new supply).
+Solana (SOL) supply grows +4.64% over the next 12 months and +1.14% over the next 90 days (checked Nov 8 2026). That puts SOL #43 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next SOL token unlock?
 
