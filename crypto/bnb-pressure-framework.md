@@ -1,6 +1,6 @@
 ---
 title:         "BNB Inflation Analysis · November 2026 · Supply shrinking · projected to keep shrinking"
-description:   "BNB makes no new coins: the Oct 19 2026 burn destroyed 1.65M BNB and the fee burn 7,185 more, so supply fell 1.26% in 90 days. Next burn: mid-January."
+description:   "No new BNB is minted: the Oct 19 2026 Auto-Burn destroyed 1.65M BNB and the fee burn 6,852 more, so supply fell 1.26% in 90 days. Next burn: mid-January."
 canonical_url: "https://mrnasdog.com/research/bnb/inflation"
 tags:          ["crypto", "bnb", "binance", "auto-burn"]
 published:     true
@@ -12,58 +12,62 @@ published:     true
 
 # BNB Inflation Analysis · November 2026 · Supply shrinking · projected to keep shrinking
 
-BNB is **deflationary**: the chain makes no new coins, and two burns destroy coins for good. In the 90 days to Nov 8 2026 nothing new came out, while the burns destroyed **1,653,381 BNB**, so supply fell **1.26%**. Other trackers show **−1.23%** for the same stretch, and the next quarterly burn, expected in mid-January 2027, should cut supply by about **1.19%** more.
+BNB is shrinking. From Aug 19 to Nov 17 2026 not a single new BNB was created, while two burns destroyed **1,653,048 BNB**, so the supply fell **1.26%** in 90 days. The quarterly Auto-Burn did almost all of it, **1,646,196 BNB** on Oct 19 2026, and the fee burn added **6,852 BNB**; other trackers read **−1.24%**, the same story. The supply started at 200M, now sits near **131.5M**, and the burns are meant to go on until only 100M BNB is left.
 
 ## The verdict, in one paragraph
 
-From Aug 10 to Nov 8 2026 the BNB supply fell by **1.26%**, from about 133.16M to **131.51M** coins. Other trackers put the same 90 days at **−1.23%**, a gap of just **0.03 percentage points**, so the coin page carries no warning note. Almost all of the drop came on a single day, Oct 19 2026, when the 37th quarterly burn destroyed 1,646,196 BNB; the rest came from a small burn that runs in every block. For the next 90 days, to Feb 6 2027, we expect about **1.57M BNB** to be destroyed, or **−1.19%**. The label: **supply shrinking by design, through scheduled burns, with no new coins coming in**.
+Over the 90 days to Nov 17 2026 the BNB supply changed by **−1.26%**. Other supply trackers show **−1.24%** for the same stretch, a difference of only **0.02 points**, so the coin page carries no warning note. The next 90 days should look almost the same, about **−1.27%**, because the 38th quarterly burn is expected in mid-January 2027 and the price that sizes it has fallen. In one line: BNB is a deflationary coin, kept that way by a scheduled quarterly burn, with no new coins on the other side of the scale.
 
 ## Sell pressure: where new BNB comes from
 
-The first possible source is new coins paid to the network, and for BNB that is **zero**: validators and stakers on BNB Smart Chain earn only the fees people pay to use it, so the chain does not print anything to pay them.
+**Protocol inflation is zero.** BNB Smart Chain has no block reward. The validators who produce its blocks, about two every second, are paid from the fees users already spend, so running the chain creates no new BNB at all.
 
-Vesting unlocks are also **zero**. Every BNB that exists already counts as circulating, so no team, investor or launch batch is waiting for a date to open.
+**Vesting unlocks are zero.** Every BNB in existence is already unlocked and circulating, so no team or investor batch is waiting on a calendar date.
 
-Foundation and other unscheduled releases are **zero** as well. The biggest wallet linked to the project, the one that pays for the quarterly burn, only ever sends coins to the burn address, and every coin it holds is already counted as circulating.
+**Foundation and unscheduled unlocks are zero.** The one wallet tied to the project that holds a large pile is the wallet that pays for the quarterly burn. Between Aug 19 and Nov 17 2026 its only outgoing payment was the **1,646,196 BNB** it sent to be destroyed on Oct 19 2026. Its coins are already counted as circulating, so they could only add selling if they were sold, and nothing shows that.
 
-Long-term locks and bankruptcy payouts are **zero**. No court case or failed firm is holding BNB for a later payout. The Binance hack on Oct 29 2026 moved coins that were already in circulation, so it does not add to the supply either.
+**Long-term locked or bankruptcy supply is zero.** No court or bankrupt firm holds BNB for a later payout. The coins taken in the Binance hack that began on Oct 29 2026 were already circulating before the theft, so moving them to the attackers created nothing new.
 
 ## Buy pressure: where new BNB goes
 
-There is no market buyback, so that row is **zero**. BNB does not use fees or profits to buy coins on the market; the quarterly burn is paid from coins set aside in advance.
+**The quarterly Auto-Burn is the big one.** Every quarter BNB Chain destroys a batch whose size is set in public by the number of blocks made and the median BNB price: the lower the price, the more BNB burns. The 37th burn, on Oct 19 2026, sent **1,646,196 BNB** to an address no one can spend from. It is booked as its own row because it is a second burn, separate from the fee burn.
 
-The fee burn destroyed **7,185 BNB** in the 90 days, about 80 coins a day. One tenth of the fees in every block goes straight to a burn address that nobody can spend from. The amount burned each day slowed through the period, from about 94 BNB a day in August to about 48 a day by early November.
+**The protocol fee burn took 6,852 BNB.** A tenth of the fees in every block is destroyed on the spot. That came to about **76 BNB a day** across the window, slowing to about **55 a day** in the last month as activity on the chain cooled.
 
-Foundation buying is **zero**. Listed companies that hold BNB and the US spot BNB fund buy coins that are already circulating, so their buying moves coins between owners rather than out of the supply.
+**Programmatic buyback is zero.** Nobody buys BNB on the open market in order to destroy it; the quarterly burn uses coins that were set aside for it.
 
-New long-term locks are **zero**. Staked BNB still counts as circulating, so more staking does not shrink the count.
+**Foundation buying is zero.** Binance has been rebuying coins to replace what the hack took, and the US spot BNB fund and listed companies that hold BNB also buy. All of them buy coins that are already circulating, so the count does not change.
 
-The quarterly Auto-Burn is the big one: **1,646,196 BNB** destroyed on Oct 19 2026. A fixed rule sets each burn from two things, the number of blocks the chain made in the quarter and the median BNB price over it, so a lower price means more coins burned. The next one, the 38th, covers October to December 2026. At today's price near **$697** it would be about **1.56M BNB**, and the last three January burns came between Jan 15 and Jan 23.
+**New long-term locks are zero.** Staked BNB still counts as circulating, and no new multi-year lock was set up in the window.
 
 ## Foundation and overhang
 
-The one team-controlled pile that matters is the wallet that funds the quarterly burn. It held **5.25M BNB** at the start of the period and **3.61M BNB** on Nov 8 2026, after the Oct 19 burn; it made no other payment. That is enough for about two more burns of today's size. We read its balance on-chain at every check. If that wallet's balance falls between checks for any reason other than a burn, the coins that leave enter the sell side at the next check.
+The burn-funding wallet is the only project-linked pile we track. It held **5.25M BNB** on Aug 19 2026 and holds **3.61M BNB** now, after the Oct 19 burn, enough for about two more quarterly burns at today's size. We read its balance from the chain every day. If that balance falls between checks for any reason other than a burn, the outflow enters the Foundation row at the next check.
 
-A second large balance is not a team wallet: an old bridge contract holds about **25.97M BNB** and slowly pays it out to people who still hold coins from the BNB Beacon Chain, which closed in late 2024. It paid out about 4,300 BNB in the 90 days. Those coins already count as circulating, so the payouts add nothing. The largest listed company holding BNB reported about 515,000 BNB at the end of July 2026, and the US spot BNB fund holds coins bought on the open market; neither can add new coins.
+One other large address is watched but not counted as a team pile: the old bridge hub that pays back BNB to people who still had coins on the retired Beacon Chain. It holds about **25.97M BNB** and paid out about **5,067 BNB** in the window. Those coins were already circulating, so the payouts do not change the supply. Binance's own holdings sit with the exchange and its customers and are not listed here.
 
-## How BNB compares to other proof-of-stake Layer 1 chains
+## How BNB compares to other exchange-backed Layer 1 chains
 
-Most proof-of-stake chains pay their validators in new coins and burn only part of their fees. Ethereum is the closest example: it burns the base fee of every transaction, but its validator pay is larger than the burn, so its supply rose about **0.21%** over the 90 days to Nov 7 2026. Solana also pays validators in new coins on a falling schedule and burns part of its fees, so its supply keeps growing. Tron pays its block producers in new coins and burns fees, so its supply rises or falls with how busy the network is.
+Most Layer 1 coins pay their validators in new coins and burn a little back. Ethereum is the clearest example: over roughly the same 90 days it paid validators about **266,723 ETH** and burned only about **6,606 ETH**, so its supply grew. BNB works the other way round. Its validators get fees only, so the sell side is empty, and both of its burns push the supply down.
 
-BNB is built the other way round. It never creates coins for validators, who live on fees alone, and it adds a scheduled burn on top of the fee burn. That makes BNB one of the few large chains whose supply falls every quarter whatever the network's activity. The fee burn is the part that depends on use, while the quarterly burn is a promise kept by that rule until the supply reaches **100M BNB**, about 31.51M coins below today.
+Against Bitcoin, the contrast is between a fixed issuance schedule and a shrinking one. Bitcoin still adds new coins every block, slower after each halving, toward a hard cap. BNB already has all its coins out, and the only open question is how fast the burns remove them on the way down to 100M.
+
+Among exchange coins, BNB is the one whose burn size is set in public and carried out on the chain every quarter, rather than announced from a company's profits. Because the size depends on the price, the burn destroys more BNB when the price is low and less when it is high.
 
 ## What to watch in the next 90 days
 
-The Jenner upgrade goes live on BNB Smart Chain on **Dec 8 2026** at 02:30 UTC. It adds a token standard for stablecoins, a reserved lane for payments and finer block timing; it changes no fee, burn or supply rule.
+**Mid-January 2027, the 38th Auto-Burn.** No date is set yet; past January burns came mid-month, as on Jan 15 2026. At today's price it would destroy about **1.66M BNB**, and a lower price by the end of December would make it larger.
 
-The quarter that sets the 38th burn closes on **Dec 31 2026**. Its median BNB price fixes the size: a lower price means a bigger burn, a higher price a smaller one.
+**Dec 8 2026, the Jenner upgrade.** BNB Smart Chain switches on a payment lane and a new standard for stablecoins and tokenized assets. Nothing in it changes the fee burn or adds new BNB.
 
-The 38th Auto-Burn itself is expected around **mid-January 2027**, at about 1.56M BNB at today's price; the last January burn came on Jan 15 2026. If it slipped past Feb 6 2027, the next 90 days would show only the small fee burn.
+**The pace of the fee burn.** It slowed from about 100 BNB a day in August to about 55 a day in November. A busier chain would lift it again; a quieter one would shave a few thousand BNB off the quarter.
 
-The fee burn fell from about 94 BNB a day in August to about 48 a day in early November. If chain activity stays quiet, the next 90 days could burn less than the 7,185 BNB of the last 90.
+**The burn-funding wallet.** With **3.61M BNB** left, it covers about two more burns before it needs topping up. Any payment from it that is not a burn would show up in the Foundation row.
+
+**A new BNB Chain network.** BNB Chain plans a second, faster chain for early 2027 that uses BNB for fees and staking. It has no launch date inside this window, and it creates no new BNB.
 
 ## Summary
 
-BNB's supply is shrinking by design: the chain creates no new coins, and two burns destroyed 1,653,381 BNB in the 90 days to Nov 8 2026, a fall of 1.26%. Almost all of it came from the quarterly Auto-Burn on Oct 19 2026, and the next one, expected in mid-January 2027, should take out about 1.56M BNB more. The main risk to that reading is timing, since a late burn would leave only the small fee burn in the window. The burns stop when the supply reaches 100M BNB, which is still about 31.51M coins away.
+BNB's supply fell **1.26%** in the 90 days to Nov 17 2026, and the next 90 days point to about the same. No new BNB is created, because validators are paid from fees, and every coin is already unlocked. Two burns do the work: a quarterly Auto-Burn of about 1.6M BNB and a smaller burn of a tenth of every fee. The key thing to watch is the burn-funding wallet, which can pay for about two more burns, and the supply keeps falling until only 100M BNB remain.
 
-*MrNasDog Pressure Framework analysis of BNB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 8 2026.*
+*MrNasDog Pressure Framework analysis of BNB, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 17 2026.*

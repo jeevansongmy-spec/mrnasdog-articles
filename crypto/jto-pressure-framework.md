@@ -1,6 +1,6 @@
 ---
 title:         "JTO Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
-description:   "JTO supply grew 6.08% in 90 days from team and investor unlocks, about 1.92% next as vesting ends Dec 7 2026. No JTO can be minted; buybacks stay small."
+description:   "JTO supply grew 6.05% in 90 days as team and backers got 33.93M JTO, against 1.32M taken back. A last 11.31M unlock lands Dec 7 2026, then vesting ends."
 canonical_url: "https://mrnasdog.com/research/jto/inflation"
 tags:          ["crypto", "jito", "solana", "jto"]
 published:     true
@@ -12,60 +12,56 @@ Originally published at [JTO Inflation Analysis · November 2026 · Supply growi
 <!-- main-page -->
 The Jito coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/jto](https://mrnasdog.com/research/jto). Below: supply, line by line.
 
-JTO supply grew about **+6.08%** in the 90 days from Aug 9 to Nov 7 2026, and it should grow about **+1.92%** in the next 90 days: supply growing, projected to keep growing, but much more slowly. No new JTO can ever be minted, so the growth comes from team and investor coins unlocking, **33.46M JTO** in the window, plus **300,000 JTO** paid out by a DAO-funded multisig, while trading fees and a new buyback took **840,455 JTO** off the market. Other trackers show **+6.44%** for the same 90 days, close to our figure.
+**JTO** supply is growing, and the growth comes from one place: the team and early backers of **Jito** receive a fixed batch of tokens every month. Between Aug 19 and Nov 17 2026 they got **33.93M JTO** and the DAO paid out another **380.09K JTO**, while JTX trading fees and a DAO buyback burn took back **1.32M JTO**, for net growth of **+6.05%** against a market reading of **+6.53%**. JTO can never be minted again, and the vesting schedule ends with a final **11.31M JTO** batch on Dec 7 2026.
 
 ## The verdict, in one paragraph
 
-From Aug 9 to Nov 7 2026 the JTO supply in the market rose by a net **+6.08%**, and the next 90 days come to about **+1.92%**, because the last team and investor coins unlock on Dec 7 2026. Other trackers show **+6.44%**, a difference of **0.36 percentage points**, so the coin page carries no warning note. In one line: JTO is a capped governance coin in the final month of its unlock schedule, and the coins its DAO now takes back are still far fewer than the coins that unlock.
+Over the 90 days to Nov 17 2026, JTO's circulating supply grew a net **+6.05%**. The market reading over the same days was **+6.53%**, a gap of **0.47 percentage points**, small enough that the coin page carries no warning note. For the next 90 days the JTO ledger projects about **+2.01%**, because only one insider batch is left before the schedule closes. JTO is an unlock-driven governance token in the last weeks of its vesting: inflationary today, with the scheduled part of the pressure about to run out.
 
 ## Sell pressure: where new JTO comes from
 
-**Protocol inflation: 0.** The power to mint JTO was given up for good, so no new JTO can ever be made. Jito started with 1B JTO; about **14.16M** have been burned since, which leaves **985.84M JTO** in existence, and that number can only stay the same or fall.
+**Protocol inflation is zero.** Jito pays no block rewards in JTO, and the right to create new JTO was removed from the token for good, so the 1B JTO made at the Dec 7 2023 launch is the ceiling forever. After burns, **985.84M JTO** exists today.
 
-**Vesting unlocks: 33.46M JTO.** The coins set aside for Jito's core contributors (245M) and investors (162.14M) unlock over three years with a one-year wait. A third of them opened on Dec 7 2024, and the rest has unlocked a little every day since, about **371,820 JTO** a day. From Aug 9 to Nov 7 2026 that added **33.46M JTO** to the market. The schedule ends on Dec 7 2026, three years after launch, so the next 90 days hold only about **11.15M JTO** more, one month of unlocks instead of three.
+**Vesting unlocks added 33.93M JTO.** Jito's core contributors hold 245M JTO and its investors 162.14M JTO. Both groups waited one year, received a third of their tokens on Dec 7 2024, and since then get **11.31M JTO** on the 7th of every month. The Sep 7, Oct 7 and Nov 7 2026 batches fell inside this window. One batch remains, on Dec 7 2026, and it is almost the whole JTO sell side for the next 90 days.
 
-**Foundation and unscheduled unlocks: 300,000 JTO.** A Jito multisig that the DAO treasury funded with 10,482,868 JTO on Feb 17 2026 sends **100,000 JTO** to a payout wallet each month, and from there it goes on to individual wallets. Three payouts landed in the window, on Sep 2, Oct 2 and Nov 2 2026, and the same pace means three more by early February 2027.
+**Foundation and DAO spending added 380.09K JTO.** The Jito DAO tops up its liquidity programs with about 100K JTO a month, and 310,192 JTO went out to pool rewards between Sep 1 and Nov 2 2026. A second DAO payout wallet sent out 69,898 JTO in October and November. The monthly liquidity top-ups are expected to continue, so the next 90 days carry about **300K JTO** from this row.
 
-**Long-term locks or bankruptcy: 0.** No court estate, hack stash or long lock of JTO is waiting to be released.
+**Long-term locks and bankruptcy add nothing.** No court, trustee or failed firm holds JTO waiting for a payout.
 
 ## Buy pressure: where new JTO goes
 
-**Programmatic buyback: 670,274 JTO.** JTX is Jito's own trading app, opened in July 2026. When a trader pays a JTX fee in JTO, the DAO's share of that fee goes straight to the DAO treasury in the same transaction. From Aug 9 to Nov 7 2026 that moved **670,274 JTO** out of the market and into the treasury, and none left it again. The DAO voted in July 2026 to spend everything JTX earns on buying JTO and burning it until late 2027, but these coins have not been burned yet. We expect the same pace in the next 90 days, although the stock trading JTX added on Nov 5 2026 could lift it.
+**JTX fees took 639.63K JTO off the market.** Traders on JTX, Jito's trading app launched in July 2026, pay part of their fees in JTO. The DAO's share goes straight to the Jito DAO treasury, which keeps it, so **639,633 JTO** left the market between Aug 19 and Nov 17 2026. October was the busiest month, and November has run much slower. A July 2026 vote says this JTX money should buy and burn JTO until at least late 2027; by Nov 17 2026 the treasury had not burned any of it.
 
-**Protocol fee burn: 0.** JTO has no built-in burn. On Nov 6 2026 Jito's buyback group burned **681,971 JTO**, but those coins came from its own reserve, which the DAO gave it in July 2025 and which never counted as circulating. Burning them shrinks the total, not the amount in the market, so they are not counted twice. Apart from that, only crumbs were burned, when users closed old accounts.
+**There is no automatic fee burn.** Jito's other fees, from tips, staking and block building, are paid in SOL and in its staked-SOL token and never touch JTO.
 
-**Foundation buy: 170,182 JTO.** On Nov 4 2026 the same buyback group, which works for the DAO, started buying JTO on the open market with JitoSOL, about 1.31 JitoSOL every 11 minutes. By Nov 7 it had bought **170,182 JTO**. About 1,175 JitoSOL is left in the order, worth some **407,100 JTO** at today's price, so the buying should stop around Nov 14 2026. No further order is scheduled.
+**The DAO buyback group burned 681.97K JTO.** The Cryptoeconomics subDAO, the DAO group that turns Jito revenue into support for the token, burned **681,971 JTO** on Nov 6 2026. Between Nov 4 and Nov 14 2026 it also bought **566,969 JTO** on the open market with staked SOL and kept it, so its wallet now holds **4.79M JTO**. The group burns without a timetable. Before Nov 6 its last burn was 9.71M JTO in February 2026, so no burn is counted for the next 90 days.
 
-**New long-term lock: 0.** JTO can be staked for governance, but staked coins can be taken back, so they still count as circulating, and no new long lock was set up.
+**Voting locks take nothing out:** JTO locked to vote still counts as circulating.
 
 ## Foundation and overhang
 
-The largest pile of JTO outside the market is the Jito DAO treasury, with **210.11M JTO**. It sent nothing out between Aug 9 and Nov 7 2026, and only a token-holder vote can spend it. Next is the DAO-funded multisig behind the monthly payouts, with **13.64M JTO** left, and the buyback group's own wallet, with **4.40M JTO** after the Nov 6 burn. The Jito Foundation, which received the 250M JTO ecosystem allocation, also holds **55.29M JTO** in one wallet that already counts as circulating. A wallet it had funded with 15M JTO in July 2026 sent **20M JTO** to what looks like an exchange on Oct 22 2026; because those coins were already counted, the move adds nothing to the supply figures here, but it is real selling power in the market. Together these piles are much larger than the unlocks still to come, so the DAO's and the Foundation's spending matters more for JTO's supply after Dec 7 2026 than the unlock schedule does.
+The biggest risk to JTO supply is not on any schedule. About **430M JTO**, close to half of all the JTO that exists, sits in wallets run by the Jito DAO and the Jito Foundation and is not counted as circulating. The DAO treasury alone holds **210.12M JTO**, and an incentive wallet holds another **13.64M JTO**. The DAO's standing budget lets it spend up to 20M JTO on liquidity and partner deals, and the Foundation's ecosystem pool has no published release plan. Two more team-linked wallets already count as circulating: a Foundation-funded wallet with **55.29M JTO** and the buyback group's **4.79M JTO**. We read these wallets at every rebuild. If any of their balances falls between rebuilds, that outflow enters the Foundation row at the next rebuild.
 
-## How JTO compares to other staking and Solana DeFi tokens
+## How JTO compares to other DeFi governance tokens
 
-Pyth Network's PYTH, another Solana coin, gave up its power to mint just like JTO, but it unlocks in one big yearly step: nothing opened in the last 90 days at our last check, and the final 2.125B PYTH waits until May 20 2027. JTO is the opposite shape, a smooth trickle that simply stops on Dec 7 2026.
+JTO follows the classic venture-backed governance-token design: a fixed supply, a one-year cliff for insiders, then monthly unlocks, with a large DAO treasury on top. That makes JTO more like Jupiter's JUP or Arbitrum's ARB than like an uncapped proof-of-stake coin such as SOL, which prints new coins for stakers every epoch. For coins of this type, supply growth is front-loaded and falls away when vesting ends, while the treasury becomes the swing factor.
 
-Jupiter's JUP added no new coins in its latest window at our last check and burned about 945,000 JUP of fees, so its supply shrank a little, while JTO still grows. Raydium's RAY keeps paying stakers from a mining reserve, about 625,000 RAY a quarter, which is a slow, open-ended flow rather than a schedule with an end date.
-
-Lido's LDO, the closest match as a liquid-staking governance coin, finished its team vesting in 2022 and now uses its treasury to buy LDO back; at our last check that took about 6.73M LDO out of the market in 90 days. Jito is at the start of that road: its unlocks end next month and its fee-funded buying has only just begun, so for now its buying is far smaller than its unlocks.
+On the buy side JTO is weaker than the strongest buyback tokens. Hyperliquid's HYPE and Raydium's RAY route a fixed share of every fee into buying the token, day after day. Most of Jito's fees flow to stakers and the DAO in SOL; only the young JTX app collects JTO, and the buyback group works in bursts. If the JTX fee burn starts to run on its own, JTO would move closer to that fee-driven model.
 
 ## What to watch in the next 90 days
 
-**Around Nov 14 2026:** the buyback group's current JitoSOL order should run out after about 407,100 more JTO. Whether a new order follows, and whether the bought coins are burned like the Nov 6 batch, decides if this row stays alive.
+**Dec 7 2026:** the final **11.31M JTO** batch for the team and early backers. After it, JTO has no scheduled unlocks left.
 
-**Dec 7 2026:** the last team and investor coins unlock, about 11.15M JTO between now and then. After that day the schedule adds nothing, and new JTO can only reach the market through DAO or Foundation spending.
+**Dec 2 2026, Jan 2 and Feb 2 2027:** the expected monthly top-ups of about 100K JTO to the DAO's liquidity programs.
 
-**The JTX burn:** the DAO has promised to burn what JTX earns until late 2027, yet the 670,274 JTO of fees it received in the window still sit in the treasury. A first burn of those coins would not change the count again, but it would show the promise working. JTX added stock trading on Nov 5 2026, and a mobile app and futures trading are planned, which could raise fees.
+**JTX fee intake:** the treasury took in about 264K JTO in October but only about 33K in the first half of November. Whether JTX trading picks back up decides most of the JTO buy side.
 
-**Treasury votes:** a proposal from Aug 26 2026 would keep network revenue paying validators through the end of 2026 and wind that support down by mid-2027, after which more revenue could go back to buying JTO. Its vote result is not yet confirmed. Any vote that spends the 210.11M JTO treasury would also move the count.
+**The buyback group's 4.79M JTO:** the Cryptoeconomics subDAO's year-end report is due in December 2026, and a new burn from this wallet would add to the buy side.
+
+**The ~430M JTO in DAO and Foundation wallets:** any large transfer out of these wallets would be the biggest supply event of 2027.
 
 ## Summary
 
-JTO supply in the market grew **+6.08%** from Aug 9 to Nov 7 2026, almost all of it from team and investor unlocks of **33.46M JTO**.
+JTO supply grew a net **+6.05%** in the 90 days to Nov 17 2026, almost all of it from the monthly insider unlock of **11.31M JTO**, while JTX fees kept by the DAO and one buyback burn took back **1.32M JTO**. JTO can never be minted again, and its vesting schedule ends with the last batch on Dec 7 2026, so the next 90 days project only about **+2.01%**. The real long-term risk is the roughly **430M JTO** held by the Jito DAO and Foundation with no release schedule. The upside case is a JTX fee burn that runs every day instead of in rare bursts.
 
-Those unlocks end on Dec 7 2026, so the next 90 days come to only about **+1.92%**, and no new JTO can ever be minted.
-
-JTX fees and a new buyback took **840,455 JTO** off the market in the window, about 2.5% of what unlocked, and the buyback order should run out around Nov 14 2026.
-
-After Dec 7 2026, JTO's supply depends on how the DAO spends its **210.11M JTO** treasury and whether the JTX burn promise turns into real burns.
+*MrNasdog Pressure Framework analysis of JTO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 17 2026.*

@@ -79,7 +79,7 @@ Tezos adds +0.72% new supply in the next 90 days and +2.88% over a year — supp
 
 ## How strong is Tezos demand?
 
-Demand reads **modest** (2.5/5), #47 of 109 coins we track — that is how much people want XTZ now and how much buying could still come.
+Demand reads **modest** (2.5/5), #46 of 109 coins we track — that is how much people want XTZ now and how much buying could still come.
 
 Extra Tezos demand detail for members stays on the live page.
 
