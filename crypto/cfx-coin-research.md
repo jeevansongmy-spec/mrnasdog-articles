@@ -1,6 +1,6 @@
 ---
 title:         "Conflux (CFX) Tokenomics: +0.44% New Supply in 90 Days"
-description:   "As of Nov 8 2026, new Conflux supply runs at +0.44% over 90 days and +1.79% over 12 months."
+description:   "As of Nov 18 2026, new Conflux supply runs at +0.44% over 90 days and +1.75% over 12 months."
 canonical_url: "https://mrnasdog.com/research/cfx"
 content_type:  "coin_hub"
 tags:          ["crypto", "cfx", "conflux", "should-i-buy"]
@@ -8,21 +8,21 @@ published:     true
 ---
 # Conflux (CFX) Tokenomics: +0.44% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/cfx (checked Nov 17 2026)*
+*Originally published at https://mrnasdog.com/research/cfx (checked Nov 18 2026)*
 
-As of Nov 8 2026, new Conflux supply runs at **+0.44%** over 90 days and **+1.79%** over 12 months.
+As of Nov 18 2026, new Conflux supply runs at **+0.44%** over 90 days and **+1.75%** over 12 months.
 
-- **Signal:** negative (Nov 17 2026)
+- **Signal:** negative (Nov 18 2026)
 - **Score:** 3.5/10 — supply 3/5, demand 0.5/5
-- **Supply growth:** +0.44% in 90 days · +1.79% in a year
+- **Supply growth:** +0.44% in 90 days · +1.75% in a year
 - **How much people want it:** very low (0.5/5)
 - **Price drivers:** 0 ▲ price up · 2 ▼ price down
 
 ## Where new Conflux comes from
 
-Conflux pays miners and stakers about 257,000 new CFX a day while its burns take back almost nothing: supply up 0.44% in 90 days, with no cap.
+Conflux pays stakers and miners about 23M new CFX every 90 days, and its fee and storage burns take back almost none. Supply grows about 0.44% per 90 days, with no cap and no unlocks left.
 
-New CFX: +0.44% in 90 days, +1.79% in a year. Supply score 3/5, "light" (place 60 of 100).
+New CFX: +0.44% in 90 days, +1.75% in a year. Supply score 3/5, "light" (place 60 of 100).
 
 ## The things that move Conflux
 
@@ -30,7 +30,7 @@ New CFX: +0.44% in 90 days, +1.79% in a year. Supply score 3/5, "light" (place 6
 
 ### ▼ Stablecoins on Conflux
 
-Dollar coin up about 9x in 2026; yuan coin now shrinking.
+Dollar coin up 9x in 2026; yuan coin fell 18% in Oct.
 
 More stablecoins on Conflux → price up · Stablecoins leave → price down. Right now it points down.
 
@@ -39,19 +39,18 @@ More stablecoins on Conflux → price up · Stablecoins leave → price down. Ri
 | Aug 31 2026 | 38.1 M | 20.1 M |
 | Sep 28 2026 | 38.1 M | 20.1 M |
 | Oct 31 2026 | 31.1 M | 20.1 M |
-| Nov 17 2026 | 31.1 M | 20 M |
+| Nov 19 2026 | 31.1 M | 20 M |
 
-*Checked Nov 8 2026*
+*Checked Nov 18 2026*
 
 ### ▼ China/HK rules
 
-Beijing backs blockchain, but the party now targets crypto graft.
+Beijing targets crypto graft; HK licence bill due by year end.
 
 ▲ Price up if: China, HK open doors. ▼ Price down if: China cracks down. Today: the price-down case.
 
 | Date | What happened / what is coming |
 |---|---|
-| Feb 25 2025 | Kazakhstan OKs AxCNH |
 | Oct 24 2025 | AxCNH lending goes live |
 | Late Nov 2025 | China crypto crackdown |
 | Feb 11 2026 | CFX listed on HashKey HK |
@@ -59,8 +58,9 @@ Beijing backs blockchain, but the party now targets crypto graft.
 | Sep 16 2026 | HK 5-year plan: crypto |
 | Oct 11 2026 | Beijing: national chain |
 | Oct 29 2026 | CPC: crypto graft probe |
+| Late 2026 | HK crypto licence bill (coming) |
 
-*Checked Nov 8 2026*
+*Checked Nov 18 2026*
 
 ## Who wants Conflux right now
 
@@ -72,31 +72,31 @@ Members get the rest of the Conflux demand read on mrnasdog.com.
 
 ### Is Conflux (CFX) inflationary or deflationary?
 
-Conflux (CFX) is inflationary right now: its supply changes +0.44% over the next 90 days and +1.79% over the next year (checked Nov 8 2026). More CFX is added than removed.
+Conflux (CFX) is inflationary right now: its supply changes +0.44% over the next 90 days and +1.75% over the next year (checked Nov 18 2026). More CFX is added than removed.
 
 ### What is the CFX inflation rate in 2026?
 
-About +1.79% a year: that is how much Conflux (CFX) supply changes over the next 12 months, with +0.44% in the next 90 days (checked Nov 8 2026). That puts CFX #60 of 100 coins we track for new supply (#1 = the most new supply).
+About +1.75% a year: that is how much Conflux (CFX) supply changes over the next 12 months, with +0.44% in the next 90 days (checked Nov 18 2026). That puts CFX #60 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next CFX token unlock?
 
-No dated Conflux (CFX) unlock is scheduled in the next 90 days (checked Nov 8 2026). New CFX still arrives: about 23.2M CFX in 90 days.
+No dated Conflux (CFX) unlock is scheduled in the next 90 days (checked Nov 18 2026). New CFX still arrives: about 23M CFX in 90 days.
 
 ### Does Conflux burn or buy back CFX?
 
-Yes. In our count, about 10.4K CFX is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 8 2026). How it works: Fee and storage burns destroyed 10,412 CFX in 90 days, almost nothing next to new supply. There is no buyback.
+Yes. In our count, about 10.4K CFX is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 18 2026). How it works: Fee and storage burns destroyed 10,377 CFX in 90 days, about one coin for every 2,200 created. There is no buyback.
 
 ### Where does new CFX supply come from?
 
-In our count, about 23.2M new CFX reaches the market over the next 90 days (checked Nov 8 2026). How it works: Miners and stakers received 23.16M new CFX in 90 days, about 257,000 a day. Nothing vests; the 2.31B CFX in launch-era fund contracts already counts as circulating.
+In our count, about 23M new CFX reaches the market over the next 90 days (checked Nov 18 2026). How it works: Stakers and miners received 22.99M new CFX in 90 days, about 255,000 a day. Nothing vests; the 2.29B CFX in old fund contracts already counts as circulating.
 
 ### How much CFX is in circulation?
 
-About 5.25B CFX is in circulation (checked Nov 8 2026). Over the next 90 days that changes +0.44%, and over a year +1.79%.
+About 5.26B CFX is in circulation (checked Nov 18 2026). Over the next 90 days that changes +0.44%, and over a year +1.75%.
 
-### Does CFX have more new supply than LUNC, XPL or GRT?
+### Does CFX have more new supply than MON, OP or FLOKI?
 
-Over the next 90 days (checked Nov 8 2026): CFX +0.44%, LUNC −0.16%, XPL +14.35%, GRT +1.06%. CFX sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 18 2026): CFX +0.44%, MON +150.08%, OP +0.96%, FLOKI −0.04%. CFX sits in the middle of these 4 coins.
 
 ## More on Conflux
 

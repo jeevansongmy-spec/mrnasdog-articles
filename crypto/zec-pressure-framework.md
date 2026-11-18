@@ -1,6 +1,6 @@
 ---
 title:         "ZEC Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
-description:   "Zcash mined 161,164 new ZEC in 90 days toward a 21M cap, while the new NU7 fee removal took out just 1.63 ZEC. Supply is up +0.95%, about the same next."
+description:   "Zcash paid out 161,258 new ZEC in 90 days toward a 21M cap, while the new fee removal took out just 13.71 ZEC. Supply is up 0.95%, about the same next."
 canonical_url: "https://mrnasdog.com/research/zec/inflation"
 tags:          ["crypto", "zec", "zcash", "privacy"]
 published:     true
@@ -10,50 +10,56 @@ published:     true
 <!-- main-page -->
 **Main page:** the full ZEC coin page — signal, price drivers and the buy/sell questions → [mrnasdog.com/research/zec](https://mrnasdog.com/research/zec)
 
-ZEC supply grew about **+0.95%** in the 90 days from Aug 10 to Nov 8 2026, and it should grow about the same in the next 90 days: supply growing, and projected to keep growing. Zcash is mined like Bitcoin, and its blocks created **161,164 ZEC** in the window, while the new fee removal that started on Nov 6 2026 took out only **1.63 ZEC**. The hard cap is **21M** ZEC, and about 17.03M exist today. Other trackers show **+1.45%** for the same 90 days, because their supply figure jumped in one step on Aug 11 2026, not because more ZEC was made.
+**ZEC** supply is growing. Zcash is mined like Bitcoin, with a hard cap of **21M** ZEC and a halving about every four years, and every block pays new coins to miners and to two community funds. From Aug 20 to Nov 18 2026 blocks paid out **161,258 ZEC**, while the new fee removal took out only **13.71 ZEC**, so supply rose about **+0.95%** in 90 days. Other trackers show about **+1.00%** for the same stretch, close enough that the coin page carries no warning note.
 
 ## The verdict, in one paragraph
 
-Our 90-day net reading for ZEC is **+0.95%**. Other trackers show **+1.45%**, a gap of **0.50** percentage points, so the coin page carries a warning note. The reason is dated and plain: the supply figure those trackers use sat about **83,000 ZEC** below the real chain total until Aug 10 2026, then jumped **82,021 ZEC** on Aug 11 2026 to catch up. That catch-up is not new ZEC. Counted on the chain itself, Zcash supply rose **161,162 ZEC** in the window, which is the **+0.95%** we show. The one-day jump falls out of the 90-day view on Nov 9 2026, and the two readings should then agree. The label that fits ZEC today: inflationary by mining, on a fixed path to a cap.
+Zcash adds about **0.95%** to its supply every 90 days and is set to add about the same over the next 90. The only real source of new ZEC is the block reward, and the only thing pulling ZEC out is a slice of transaction fees that is far too small to matter yet. Other trackers read **+1.00%** for the last 90 days, a gap of only **0.05** points, so the two views agree and the page shows no warning. The label is simple: **supply growing, projected to keep growing**, at a pace that halves again around late November 2028.
 
 ## Sell pressure: where new ZEC comes from
 
-Protocol inflation is the only real source of new ZEC. Every block creates fresh coins, and between Aug 10 and Nov 8 2026 that added **161,164 ZEC**, about **1,790 ZEC** a day. The split is fixed in the rules: 80% to the miner who found the block, 8% to Zcash Community Grants, and 12% into a lockbox inside the protocol that only coin holders can steer.
+**Protocol inflation** is the whole story on the sell side. Every Zcash block pays a fixed reward: 80% to the miner who found it, 8% to Zcash Community Grants and 12% to a lockbox that coin holders steer by vote. Between Aug 20 and Nov 18 2026 those rewards added **161,258 ZEC**, or about **1,790 ZEC** a day. All three shares are new coins, and all three were counted as circulating the moment they were mined.
 
-On Nov 6 2026 the NU7 upgrade made blocks three times faster, one every 25 seconds instead of 75. Each block now pays a third as much, **0.52 ZEC** instead of **1.5625 ZEC**, so the amount per day of new ZEC did not change. That is why we expect about the same **161,164 ZEC** in the next 90 days.
+The big change in the window was the NU7 upgrade on **Nov 5 2026**. It made blocks arrive every 25 seconds instead of every 75 and cut the reward per block to a third, from 1.5625 ZEC to about **0.52 ZEC**. Three times the blocks at a third of the reward means the payout per day did not move: about 1,792 ZEC a day before the upgrade and about 1,793 a day after it. That is why the next 90 days look almost the same, about **161,339 ZEC**.
 
-Vesting unlocks are zero. Zcash never sold tokens to investors and has no team allocation waiting to open, and the old founders' share of mining ended in November 2020. Foundation and unscheduled unlocks are also zero: the groups that hold ZEC for the project spend coins that are already counted as circulating, so their grants and sales add nothing to the count. Long-term locked or bankruptcy supply is zero too, since no court case or failed firm is sitting on ZEC to pay out later.
+**Vesting unlocks** are zero. Zcash never had a locked token schedule. The founders' share of early rewards was paid block by block and stopped on Nov 18 2020, so there is no cliff waiting to open.
+
+**Foundation and unscheduled unlocks** are zero as well. Several project pots hold ZEC, but every coin in them was counted when it was mined, so spending them moves coins between holders without adding any. They are listed below.
+
+**Long-term locked or bankruptcy** coins are zero: no court or bankrupt firm holds ZEC for a later payout.
 
 ## Buy pressure: where new ZEC goes
 
-There is no programmatic buyback. No treasury or contract buys ZEC back from the market.
+**Programmatic buyback** is zero. No contract, treasury or company buys ZEC back for the network.
 
-The protocol fee row is new. Since Nov 6 2026, 60% of every transaction fee is taken out of circulation and set aside in a reserve, which the rules start paying back to miners from about February 2031. Zcash fees are tiny, so in its first two days this removed only **1.63 ZEC**, and at the current pace it takes out about **78 ZEC** in the next 90 days. That is less than one part in two thousand of new supply.
+**Protocol fee burn** is new. Since NU7, 60% of every transaction fee is taken out of circulation and parked in a reserve called the Network Sustainability Mechanism. That reserve is not a true burn: it starts paying the coins back to miners around 2031, after the current halvings have shrunk the reward. Fees on Zcash are tiny, so from Nov 5 to Nov 18 2026 the removal came to just **13.71 ZEC**. At that pace the next 90 days remove about **104 ZEC**, which offsets well under a tenth of one percent of new coins.
 
-Foundation buying is zero. No project group buys ZEC back, and listed companies and US spot funds that hold ZEC buy coins already in circulation, so their buying takes nothing out of the count. A new long-term lock is zero as well, even though one happened: the same upgrade turned off the oldest private pool, Sprout, and **12,224 ZEC** left inside can no longer move. Developers have discussed a way to recover those coins, and they are still counted as circulating, so the freeze does not shrink the count.
+**Foundation buy** is zero. No project group buys ZEC. Listed companies and funds that hold ZEC trade coins that already circulate, so their buying and selling leaves the count unchanged.
+
+**New long-term lock** is zero, with one thing worth knowing. NU7 also closed Sprout, the first private pool from 2016, with **12,224 ZEC** still inside. Those coins cannot move today, but they were not destroyed, they still count as issued, and a later upgrade could open a way out, so they stay in the count.
 
 ## Foundation and overhang
 
-Four pots hold ZEC on behalf of the project. The protocol lockbox held **74,836 ZEC** on Nov 8 2026 and grows by about **216 ZEC** a day; it cannot pay out until a future upgrade adds a way to do so. The coinholder fund's shared wallet, run by three Zcash groups, held **70,863 ZEC** after paying out a net **7,321 ZEC** in grants on Oct 16 2026. Zcash Community Grants holds about **91,500 ZEC**, and the Zcash Foundation reported about **79,000 ZEC** at Jun 30 2026.
+Four project pots hold ZEC that could be spent. The protocol lockbox, filled by the 12% share, held **76,997 ZEC** on Nov 18 2026 and has paid nothing out since the coin holders' fund was set up. That fund's own wallet held **70,863 ZEC** after it paid out about **7,320 ZEC** on Oct 16 2026. Zcash Community Grants held about **91,450 ZEC** in mid-November 2026, and the Zcash Foundation reported **85,412 ZEC** at its last report on Mar 31 2026.
 
-All four are already inside the circulating count, so a payout from any of them moves coins between holders and does not raise supply. We still check each balance every time we check this page: if one of these pots falls between checks, the drop is written into the foundation row at the next check, so a large sale cannot hide.
+Together that is roughly **325K ZEC**, close to 2% of all ZEC. None of it adds to supply when it is spent, because it was counted at mining. What it can add is selling: grants and salaries paid in ZEC often reach the market. A vote that runs until Dec 1 2026 asks whether Zcash Community Grants should hand **50,000 ZEC** to the fee reserve, which would take those coins out of circulation for years.
 
-## How ZEC compares to other proof-of-work capped-supply chains
+## How ZEC compares to other proof-of-work chains
 
-ZEC copies Bitcoin's money rules closely: the same **21M** cap and the same halving rhythm, with new supply cut in half about every four years. The next ZEC halving now falls around late November 2028, when new supply drops to roughly 900 ZEC a day. The big difference is where the new coins go. Bitcoin pays all of them to miners, while Zcash sends **20%** to project funding, 8% to a grants group and 12% to a holder-voted lockbox, until that halving.
+Zcash copies Bitcoin's design: a 21M cap, a halving every four years and no unlocks. The difference is the split. Bitcoin miners keep every new coin, while Zcash sends a fifth of each reward to community funds, so some new ZEC is spent on grants and development rather than mining costs. Zcash is also younger in its schedule: with about 81% of its cap mined, its 90-day growth of about 0.95% is several times Bitcoin's.
 
-Monero, the other large privacy coin, takes the opposite path: it has no cap and pays a small fixed reward forever, so its supply never stops growing. ZEC stops at 21M. Litecoin is another halving chain with a cap, but like Bitcoin it has no project funding and no fee removal.
-
-Since Nov 6 2026 Zcash also takes part of every fee out of circulation, a little like Ethereum's fee burn. The difference is that Zcash does not destroy those coins for good; it saves them and pays them back to miners later, so the 21M cap never rises. At today's fee levels the effect is close to nothing.
+Against Monero, the other big privacy coin, the shape is the opposite over the long run. Monero pays a small fixed reward forever, so its growth stays flat at a low level, while Zcash's growth is higher today but keeps halving toward zero. Zcash is also one of the few proof-of-work coins that now takes part of its fees out of circulation, though at today's fee levels that makes almost no difference to supply.
 
 ## What to watch in the next 90 days
 
-The grants funding fight is the biggest open item. On Nov 3 2026 Zcash Community Grants dropped its own plan to give up about 98,000 ZEC of current and future funding, and a rival draft backed by founder Zooko Wilcox and two other builders would end the 8% grants share and ask the group to move **50,000 ZEC** into the reserve. No vote or upgrade date is set; if it passes, that move would take more ZEC out of circulation than the fee removal does in decades.
+**Dec 1 2026:** the NU7.1 polls close. Coin holders and community panels are voting on four plans for Zcash Community Grants: wind it down, send its 8% share to a new locked fund and move 50,000 ZEC to the fee reserve, rename it, or keep it as it is. The same polls ask about cutting the block time from 25 to 20 seconds. None of it changes supply until a later upgrade, and none has a date yet.
 
-The fee removal gets its first full quarter, Nov 8 2026 to Feb 6 2027; about 78 ZEC is the expected total unless use of the chain jumps. The coinholder fund votes on grants every quarter, and the next payouts from its shared wallet will show in the foundation row at the next check. The lockbox keeps filling at about 216 ZEC a day with no way to pay out yet. And the 12,224 ZEC frozen in Sprout stays frozen unless a recovery plan reaches a future upgrade.
+**Fee levels after NU7:** the fee removal only matters if fees grow a lot. If private payments pick up, the 60% slice taken out each block will grow with them, but it starts from about a ZEC a day.
+
+**Grant and fund payouts:** the coin holders' fund last paid out on Oct 16 2026, and Zcash Community Grants keeps approving new grants. Large payouts do not add supply, but they put coins in hands that may sell.
+
+**The halving:** the next one lands around late November 2028, outside this window. Until then, expect about 1,790 new ZEC a day.
 
 ## Summary
 
-ZEC supply grew about **+0.95%** in the 90 days to Nov 8 2026 and is on course for about the same in the next 90 days, a supply-growing reading. Zcash mines about **161,164 ZEC** of new coins per 90 days, and the fee removal started on Nov 6 2026 takes back only about **78 ZEC**, so new supply wins easily. ZEC has a hard cap of 21M, no vesting and no buyback, and its next halving around late November 2028 cuts new supply in half. Other trackers show **+1.45%** only because of a one-day recount on Aug 11 2026, not because of new ZEC.
-
-*MrNasdog Pressure Framework analysis of ZEC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 8 2026.*
+Zcash supply grows about **0.95%** every 90 days, almost all of it from block rewards paid to miners and two community funds. The Nov 5 2026 upgrade made blocks three times faster but left the payout per day at about **1,790 ZEC**. A new fee removal takes out only about **104 ZEC** in the next 90 days, so it barely dents the count. About 325K ZEC sits in project pots, and a vote ending Dec 1 2026 could move 50,000 ZEC of it out of circulation, but nothing is scheduled yet.
