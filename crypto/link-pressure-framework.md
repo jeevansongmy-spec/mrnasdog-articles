@@ -1,6 +1,6 @@
 ---
 title: "LINK Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
-description: "LINK supply is growing: Chainlink released 18.75M held-back LINK on Oct 9 2026 and burned none, +2.45% in 90 days, and about 11.25M more due in December."
+description: "Chainlink mints no new LINK, yet the team let 18.75M held-back LINK out on Oct 9 2026: +2.45% in 90 days, with about 11.25M more expected in December."
 canonical_url: "https://mrnasdog.com/research/link/inflation"
 tags: ["crypto", "link", "chainlink", "oracles"]
 published: true
@@ -12,64 +12,70 @@ published: true
 <!-- main-page -->
 Looking for the buy-or-sell answer? It is on the LINK coin page, with demand and price drivers: [mrnasdog.com/research/link](https://mrnasdog.com/research/link)
 
-LINK supply is growing, and it should keep growing: circulating LINK rose **+2.45%** in the 90 days from Aug 11 to Nov 9 2026, and about **+1.47%** more is expected over the next 90 days. Chainlink never mints new LINK, so all of the growth comes from coins the team has held back since launch: **18.75M LINK** left those wallets on Oct 9 2026, and **0** LINK was burned. The supply is fixed at **1B** LINK, of which **766.85M** circulate, and other trackers show **+2.50%** for the same 90 days.
+*Checked Nov 19 2026*
+
+LINK supply is growing, and it will keep growing for a while. Chainlink never mints new LINK, because all **1B** coins were made in 2017, but the team still holds back **233.15M** LINK and lets them out in steps of about 7% of all LINK a year. On Oct 9 2026 it released **18.75M LINK**, nothing was burned or taken out, so supply grew about **+2.45%** in 90 days. Market trackers show about **+2.42%**, the same story, and the next 90 days should add about **+1.47%**.
 
 ## The verdict, in one paragraph
 
-Over the last 90 days LINK's circulating supply grew by a net **+2.45%**. Other trackers put the same stretch at **+2.50%**, a difference of only **0.05** percentage points, so the two readings agree and the coin page carries no warning note. For the next 90 days, to Feb 7 2027, the expected figure is **+1.47%**, all of it from one release that Chainlink has made every December for two years. The best short label for LINK is a fixed-supply token with a steady release from the team's held-back wallets.
+From Aug 21 to Nov 19 2026 the number of LINK on the market rose from about 748.1M to **766.85M**, a net rise of **+2.45%**. All of that came from one release by the Chainlink team on Oct 9 2026. Market trackers put the same 90 days at **+2.42%**, a gap of only **0.03** points, so the coin page carries no warning note. For Nov 19 2026 to Feb 17 2027 we expect about **11.25M LINK**, or **+1.47%**, from the team's usual December release. The label is simple: supply growing, and projected to keep growing until the held-back LINK runs out.
 
 ## Sell pressure: where new LINK comes from
 
-Protocol inflation is **0**. All 1B LINK were created when the token launched in 2017, and the LINK token contract has no function that can create more, so no validator, node operator or staker is ever paid in freshly made LINK.
+Protocol inflation is **zero**. LINK has no mining and no staking pay printed from nothing. The token code was written in 2017 with a fixed count of 1B, and it has no function that could ever add a coin.
 
-Vesting unlocks are **0**. The 2017 token sale coins have been free for years, and no vesting contract or investor lock is still paying out. Everything Chainlink still holds back sits in its own wallets, which are covered in the next paragraph.
+Vesting unlocks are also **zero**. LINK has no vesting contract and no dated unlock calendar for investors or staff. Everything that is still held back sits in wallets the Chainlink team controls, and those releases are counted in the next row instead.
 
-Releases from the held-back wallets were **18.75M LINK** in the last 90 days. Chainlink lists 33 wallets as not circulating, and they hold **233.15M LINK** today. Chainlink says it releases about 7% of all LINK a year, and on-chain that comes out as four steps of 21M, 18.75M, 11.25M and 19M, which add up to 70M. The latest step came on the evening of Oct 9 2026, when eight of the wallets let go of 18.75M LINK: **16.88M** reached Binance within hours and **1.88M** went to a team-run multisig wallet. The step after the autumn one was 11.25M on Dec 20 2024 and 11.25M again on Dec 19 2025, both on the third Friday of December, so about **11.25M LINK** is expected around Dec 18 2026.
+Team releases are the whole story. The Chainlink team lists **33** wallets as not circulating, and together they hold **233.15M** LINK, which is exactly the gap between all 1B LINK and the 766.85M that circulate. On Oct 9 2026, over about two hours in the evening, eight of those wallets sent out **18.75M LINK**. Of that, **16.88M** passed through a short-lived wallet to Binance the same evening, and **1.88M** went to a Chainlink team wallet that already holds more LINK.
 
-Long-term locked or bankruptcy supply is **0**. No bankrupt firm, court case or frozen hoard is sitting on LINK that could later be paid out.
+The releases follow a clear yearly rhythm: about **21M** in June, **18.75M** in September or October, **11.25M** in December and **19M** in March or April. That adds up to **70M** a year, the 7% the team itself publishes. The December step landed on Dec 20 2024 and Dec 19 2025, so we expect the next **11.25M LINK** around Dec 18 2026. The team does not announce the date in advance.
+
+Long-term locked or bankruptcy coins are **zero**. No court, trustee or failed firm is holding LINK for a later payout.
 
 ## Buy pressure: where new LINK goes
 
-Programmatic buybacks take out **0** LINK from the count, even though the buying is real. The Chainlink Reserve turns fees from Chainlink's services into LINK about once a week and keeps it. From Aug 11 to Nov 9 2026 it added **1.22M LINK**, including 94,500 in its latest buy, and it now holds **6.57M LINK**. The Reserve's wallet already counts as circulating, so these buys move coins from sellers to the Reserve without shrinking the circulating figure.
+Programmatic buyback books **zero**, even though real buying happens. The Chainlink Reserve turns service fees into LINK every week. From Aug 21 to Nov 19 2026 it bought **1.09M LINK** and now holds **6.68M**. The team says it expects no sales from the Reserve for several years, but the Reserve's coins still count as circulating, so the buying does not lower the count.
 
-The protocol fee burn is **0**. LINK has no burn: fees go to node operators and the Reserve, and the token itself has no way to destroy coins. Only a few stray coins sit in dead wallets.
+Protocol fee burn is **zero**. LINK has no burn at all: fees go to node operators or to the Reserve, and no coins are destroyed.
 
-Foundation buying is **0**. The team does not buy LINK on the market, and spot LINK funds and brokers, including Schwab, which opened LINK trading to its clients on Nov 9 2026, deal in coins that already circulate.
+Foundation buy is **zero**. Apart from the Reserve, the team does not buy LINK back. Spot funds in the US and large holders trade coins that are already circulating.
 
-New long-term locks are **0**. The community staking pool has been full at **40.88M LINK** for the whole window and node operators stake another 1.70M, but staked LINK still counts as circulating, so staking removes nothing.
+New long-term lock is **zero**. About **42.57M** LINK is staked to back the network, and the main staking pool held the same amount for the whole 90 days. Staked LINK still counts as circulating, and staking pay comes from coins that already exist, not from new ones.
 
 ## Foundation and overhang
 
-The big overhang is Chainlink's own held-back supply: **233.15M LINK** across the 33 wallets it lists as not circulating, with five of them holding 30M each. At the stated pace of about 70M a year, that is a little over three years of releases.
+The biggest overhang is the **233.15M LINK** still in the 33 held-back wallets. Seven of them hold **30M** each or close to it, one holds **22M** and one holds **3M**. At the published pace of 70M a year, that pool lasts a little over three more years.
 
-Three other team-linked wallets already count as circulating but are still worth watching. The team-run multisig that takes a slice of each release holds **10.32M LINK** and sends about 500,000 LINK onward most months. The Chainlink Reserve holds **6.57M LINK**, with withdrawals behind a time lock and none planned for years. The staking reward pot holds **3.16M LINK** and pays stakers over time.
+The Chainlink team wallet that received 1.88M LINK on Oct 9 2026 now holds **10.32M** LINK. Over the 90 days it also sent out about **1.61M** LINK, roughly half a million a month. The staking reward pot holds another **3.10M**. These coins already count as circulating, so their moves do not change the supply number, but they are LINK the team can spend.
 
-If any of these wallets' balances fall between checks, the outflow is added to the release row at the next check.
+The Chainlink Reserve holds **6.68M LINK**. It is meant to keep growing, not to sell, and any withdrawal must wait through a delay of several days, so a sale from it would be visible first.
 
-## How LINK compares to other oracle network tokens
+## How LINK compares to other oracle networks
 
-LINK sits in the fixed-supply camp. Like Pyth Network's PYTH, every LINK that will ever exist already exists, and new supply reaches the market only when held-back coins are released. The difference is the shape: PYTH opens large locked blocks once a year, while LINK comes out in four smaller steps, so LINK's supply rises in smaller, more frequent jumps.
+Pyth, the other large oracle network, also has a fixed supply, **10B** PYTH, and also prints nothing new. The difference is the shape of its releases. Pyth lets out its locked coins in one big step a year: about **2.13B** PYTH in May 2026, more than a third of what was circulating, with the last step due in May 2027. LINK does the opposite. Chainlink spreads its releases over four smaller steps a year, none bigger than about 3% of what circulates.
 
-Oracle tokens that pay stakers in newly created coins work the other way. There, staking rewards add to supply every day for as long as the network runs. LINK staking rewards come from coins that already exist, so staking never adds to the total.
-
-LINK is also unusual in having a buyer funded by its own fees: the Chainlink Reserve. Unlike a burn, though, Reserve buying does not shrink the circulating count, because the coins stay in a wallet that still counts.
+That makes LINK's supply growth slow and steady rather than sudden, but it lasts longer. Chainlink is also one of the few oracle projects that buys its own coin with fees, through the Reserve, though at today's pace the Reserve buys only a small share of what the team releases.
 
 ## What to watch in the next 90 days
 
-Around **Dec 18 2026**, watch for the December release of about 11.25M LINK from the held-back wallets; if it comes later than Feb 7 2027, the next-90-day figure drops to 0.00%.
+First, the December release. If the pattern holds, about **11.25M LINK** leaves the held-back wallets around Dec 18 2026, most likely to Binance. A larger or earlier step would push the 90-day figure up; no step before Feb 17 2027 would bring it to zero.
 
-Each week, watch the Chainlink Reserve's buys; it held 6.57M LINK on Nov 9 2026, and any withdrawal after its time lock would add to the release row.
+Second, the Reserve's weekly buys. In the last 90 days it bought 1.09M LINK, about a tenth of the expected December release. More paying users could make those buys larger; Polymarket, for one, said on Nov 17 2026 that its new short-term crypto markets will settle on Chainlink prices instead of Binance prices.
 
-Watch the team multisig's monthly payouts of about 500,000 LINK; they already count as circulating, but a much larger outflow would be news.
+Third, the spring release. The March or April step of about **19M LINK** falls just outside this window, after Feb 17 2027, so it shows up in the next 90-day count, not this one.
 
-Watch Chainlink's next quarterly review, after the Oct 21 2026 one, for any change to the 7% yearly release pace or to staking.
-
-The spring release, 19M LINK on Mar 14 2025 and on Apr 3 2026, should land after this window, in March or April 2027.
+Fourth, any change to the 7% a year pace. The team has kept it for more than two years; a change would be the first sign that the held-back pool is being managed differently.
 
 ## Summary
 
-LINK's supply is growing, and it should keep growing: **+2.45%** in the last 90 days and about **+1.47%** expected in the next 90. Chainlink cannot mint new LINK, so all new supply comes from the **233.15M LINK** the team still holds back, released at about 7% of all LINK a year in four steps. The Chainlink Reserve keeps buying with fee income, but nothing is burned, so the buying does not offset the releases in the count. The hard ceiling is **1B LINK**, about three years of releases away at today's pace.
+LINK has a fixed supply of 1B coins, and none are ever minted or burned.
+
+LINK supply still grows because the Chainlink team releases about 70M held-back LINK a year in four steps, and the Oct 9 2026 step of 18.75M LINK lifted supply about **+2.45%** in 90 days.
+
+The next 90 days should add about **+1.47%**, from an expected 11.25M LINK release around Dec 18 2026.
+
+The Chainlink Reserve buys LINK with fees and holds 6.68M, but those coins still count as circulating, and 233.15M LINK remains held back for future releases.
 
 ---
 
-*MrNasDog Pressure Framework analysis of LINK, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 9 2026.*
+*MrNasDog Pressure Framework analysis of LINK, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 19 2026.*

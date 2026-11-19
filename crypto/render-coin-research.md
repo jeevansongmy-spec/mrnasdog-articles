@@ -1,32 +1,32 @@
 ---
-title:         "Render Network (RENDER) Supply & Demand: +0.26% New Supply in 90 Days"
-description:   "Render Network (RENDER) supply changes +0.26% over the next 90 days and +0.79% over a year (checked Nov 9 2026)."
+title:         "Render Network (RENDER) Supply & Demand: +0.08% New Supply in 90 Days"
+description:   "Render Network (RENDER) supply changes +0.08% over the next 90 days and +0.33% over a year (checked Nov 19 2026)."
 canonical_url: "https://mrnasdog.com/research/render"
 content_type:  "coin_hub"
 tags:          ["crypto", "render", "rendernetwork", "should-i-buy"]
 published:     true
 ---
-# Render Network (RENDER) Supply & Demand: +0.26% New Supply in 90 Days
+# Render Network (RENDER) Supply & Demand: +0.08% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/render · checked Nov 17 2026*
+*Live page: https://mrnasdog.com/research/render · checked Nov 19 2026*
 
-Render Network (RENDER) supply changes **+0.26%** over the next 90 days and **+0.79%** over a year (checked Nov 9 2026).
+Render Network (RENDER) supply changes **+0.08%** over the next 90 days and **+0.33%** over a year (checked Nov 19 2026).
 
-- **Signal today:** mixed (by the law of supply and demand)
-- **MrNasDog score:** 6.5/10 — supply 3/5, demand 3.5/5
-- **New coins:** +0.26% in 90 days · +0.79% in a year
+- **Signal today:** positive (by the law of supply and demand)
+- **MrNasDog score:** 7/10 — supply 3.5/5, demand 3.5/5
+- **New coins:** +0.08% in 90 days · +0.33% in a year
 - **Demand:** strong (3.5/5)
 - **Drivers:** 0 ▲ price up · 0 ▼ price down
 
 ## Supply — new RENDER in the next 90 days
 
-Render mints new RENDER every month and the Foundation reserve lets more out, while every paid job burns RENDER: 1.69M in and 624,608 burned in 90 days, +0.20%.
+Render mints a fixed, shrinking batch of RENDER every month, and paid jobs burn more than a third of it back. Supply +0.19% in 90 days.
 
-Over the next 90 days RENDER supply changes +0.26%; across a full year, +0.79%. That puts supply at 3/5 (light).
+Over the next 90 days RENDER supply changes +0.08%; across a full year, +0.33%. That puts supply at 3.5/5 (steady).
 
 ## Demand today
 
-People's appetite for Render Network is **strong**: 3.5/5, ranked #20 of 109.
+People's appetite for Render Network is **strong**: 3.5/5, ranked #22 of 109.
 
 Members get the rest of the Render Network demand read on mrnasdog.com.
 
@@ -45,9 +45,9 @@ Good for the price: OTOY holds, no selling. Bad for it: OTOY moves more out.
 | Aug 31 2026 | 81.9 M RENDER |
 | Sep 30 2026 | 81.9 M RENDER |
 | Oct 31 2026 | 81.9 M RENDER |
-| Nov 17 2026 | 81.9 M RENDER |
+| Nov 20 2026 | 81.9 M RENDER |
 
-*Checked Nov 9 2026*
+*Checked Nov 19 2026*
 
 ### • AI compute push
 
@@ -66,37 +66,37 @@ Forth vote result not posted yet; Salad move still undated.
 | No date yet | Salad pays nodes RENDER (coming) |
 | No date yet | Salad fully on RENDER (coming) |
 
-*Checked Nov 9 2026*
+*Checked Nov 19 2026*
 
 ## Render Network (RENDER) supply: questions people ask
 
 ### Is Render Network (RENDER) inflationary or deflationary?
 
-As of Nov 9 2026, Render Network (RENDER) supply moves +0.26% in 90 days and +0.79% in a year, so RENDER is inflationary. New RENDER outweighs what is burned or bought back.
+As of Nov 19 2026, Render Network (RENDER) supply moves +0.08% in 90 days and +0.33% in a year, so RENDER is inflationary. New RENDER outweighs what is burned or bought back.
 
 ### What is the RENDER inflation rate in 2026?
 
-Render Network (RENDER) supply grows +0.79% over the next 12 months and +0.26% over the next 90 days (checked Nov 9 2026). That puts RENDER #64 of 100 coins we track for new supply (#1 = the most new supply).
+Render Network (RENDER) supply grows +0.33% over the next 12 months and +0.08% over the next 90 days (checked Nov 19 2026). That puts RENDER #73 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next RENDER token unlock?
 
-No dated Render Network (RENDER) unlock is scheduled in the next 90 days (checked Nov 9 2026). New RENDER still arrives: about 2.51M RENDER in 90 days.
+No dated Render Network (RENDER) unlock is scheduled in the next 90 days (checked Nov 19 2026). New RENDER still arrives: about 1.25M RENDER in 90 days.
 
 ### Does Render Network burn or buy back RENDER?
 
-Yes. In our count, about 1.12M RENDER is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 9 2026). How it works: Paid render and AI jobs buy RENDER and burn it: 624,608 RENDER from Aug 11 to Nov 9 2026, about 1.12M next 90 days with the new channel.
+Yes. In our count, about 802K RENDER is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 19 2026). How it works: Every paid render or AI job burns RENDER worth its dollar price: 655,677 RENDER in 90 days, 363,662 of it in October. At today's price the same dollars burn about 802K in the next 90 days.
 
 ### Where does new RENDER supply come from?
 
-In our count, about 2.51M new RENDER reaches the market over the next 90 days (checked Nov 9 2026). How it works: Monthly mints (492,132 now, 380,284 from Dec 20 2026, about 1.25M next 90 days), a new burn-and-mint channel (~459K), and Foundation reserve releases (~800K expected; the reserve holds 2.20M).
+In our count, about 1.25M new RENDER reaches the market over the next 90 days (checked Nov 19 2026). How it works: The network mints a fixed batch of RENDER every 30 days, 492,132 now and 380,284 from Dec 1 2026; the Foundation's reserve let out 185,736 more and Polygon upgrade refills added 55,000.
 
 ### How much RENDER is in circulation?
 
-Render Network (RENDER) has about 534M coins in circulation as of Nov 9 2026; the next 90 days change that by +0.26% (+0.79% over a year).
+Render Network (RENDER) has about 556M coins in circulation as of Nov 19 2026; the next 90 days change that by +0.08% (+0.33% over a year).
 
-### Does RENDER have more new supply than KCS, JUP or INJ?
+### Does RENDER have more new supply than ALGO, NIGHT or ATOM?
 
-Over the next 90 days (checked Nov 9 2026): RENDER +0.26%, KCS 0.00%, JUP 0.00%, INJ +0.81%. RENDER sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 19 2026): RENDER +0.08%, ALGO +0.43%, NIGHT 0.00%, ATOM +3.17%. RENDER sits in the middle of these 4 coins.
 
 ## Where to read the rest of RENDER
 
