@@ -1,6 +1,6 @@
 ---
 title:         "LTC Inflation Analysis · November 2026 · Mixed flows · supply roughly steady"
-description:   "Litecoin paid miners 325K new LTC in 90 days at 6.25 LTC a block, with no fee burn, no unlocks and an 84M cap. Supply up +0.42%; next halving July 2027."
+description:   "Litecoin paid miners 324K new LTC in 90 days at 6.25 LTC a block, with no fee burn, no unlocks and an 84M cap. Supply up +0.42%; next halving July 2027."
 canonical_url: "https://mrnasdog.com/research/ltc/inflation"
 tags:          ["crypto", "ltc", "litecoin", "pow"]
 published:     true
@@ -12,56 +12,76 @@ The Litecoin coin page has the score, the price drivers and every question answe
 
 # LTC Inflation Analysis · November 2026 · Mixed flows · supply roughly steady
 
-*Checked Nov 10 2026*
+*Checked Nov 20 2026*
 
-LTC supply grew about **+0.42%** in the 90 days from Aug 12 to Nov 10 2026, and it should grow about the same in the next 90 days: mixed flows, with supply roughly steady. Litecoin pays its miners **6.25 LTC** for every block, which came to **325,081 LTC** in the window, and it will never pass a hard cap of **84M LTC**. Nothing is burned by design; users destroyed only **4 LTC**, and other trackers show **+0.39%** for the same 90 days.
+Litecoin is **mildly inflationary**: miners are paid in brand-new LTC, and nothing in the network takes coins back out. Supply can never pass **84M LTC**, and about 77.85M already exist.
+
+From Aug 22 to Nov 20 2026 miners received **324,456 LTC**, while only **4.22 LTC** was destroyed. Net supply grew **+0.42%**, and the next 90 days should look the same. Other trackers show **+0.46%**, close to our figure.
 
 ## The verdict, in one paragraph
 
-From Aug 12 to Nov 10 2026 the LTC supply rose by a net **+0.42%**, and the next 90 days, at the same block pace, come to about **+0.42%** again. Other trackers show **+0.39%**, a difference of only **0.02 percentage points**, so the coin page carries no warning note. The picture is simple: one fixed reward paid to miners, no unlocks, no buyback and no fee burn. In one line: Litecoin is a capped proof-of-work coin that adds new LTC at a slow, fixed pace, and that pace halves again around late July 2027.
+LTC supply grew **+0.42%** in the 90 days to Nov 20 2026 and is set to grow about the same, **+0.42%**, in the 90 days to Feb 18 2027. Other trackers put the last 90 days at **+0.46%**, only **0.05 points** away, so the coin page carries no warning note. The label is **mixed flows, supply roughly steady**: Litecoin adds new coins every few minutes, but at well under 2% a year the pace is slow, and it only gets slower at each halving.
 
 ## Sell pressure: where new LTC comes from
 
-Protocol inflation is the only source of new LTC. Every block pays the miner who found it **6.25 LTC** of brand-new coins, and between Aug 12 and Nov 10 2026 miners found **52,013 blocks**, which adds up to **325,081 LTC**. Blocks came a touch faster than the two-and-a-half-minute target, about 578 a day instead of 576, because the network only resets its difficulty every few days. The reward is tied to the block count, not the calendar, so the next 90 days should bring roughly the same amount.
+**Mining pays 324,456 LTC.** Litecoin miners get **6.25 LTC** for every block they find, and a block arrives about every two and a half minutes, close to 576 a day. Between Aug 22 and Nov 20 2026 the network found **51,913 blocks**, slightly more than the 51,840 the clock alone would give, and paid out 324,456 new LTC. Miners usually sell a good part of that to pay for power and machines, so this is real new supply reaching the market.
 
-Vesting unlocks are zero. Litecoin launched in October 2011 with no coins set aside for a team, a company or investors, so there is no locked batch to open. Foundation and unscheduled unlocks are also zero: the Litecoin Foundation lives on donations, never received a share of the supply, and has announced no sale. The long-term locked row is zero too, because no court case or failed firm is holding LTC for a payout.
+**Vesting unlocks: none.** Litecoin started in October 2011 with no presale, no investor round and no team share. Every LTC in existence was mined, so there is no locked batch waiting for a release date.
+
+**Foundation and unscheduled unlocks: none booked.** The Litecoin Foundation lives on donations and was never handed a share of coins. About **85,034 LTC** created by the March 2026 MWEB bug sits frozen by the network's own rules, with no plan announced to release or burn it. Those coins are already counted, so the Litecoin total does not change either way.
+
+**Long-term locked or bankruptcy: none.** No court or failed company is holding LTC for a later payout. On Nov 1 2026 thieves drained LTC from shops running out-of-date BTCPay Server software. Those coins changed hands; none were created.
 
 ## Buy pressure: where new LTC goes
 
-There is no programmatic buyback. Litecoin has no protocol income and no treasury contract that could buy coins back. There is no protocol fee burn either: the roughly **706 LTC** users paid in fees during the window went to miners on top of the block reward, so those coins stay in circulation.
+**Buyback: none.** Litecoin has no treasury contract and no fee pool that spends money on LTC.
 
-The Foundation does not buy LTC for the network. Listed companies and spot funds buy coins that already circulate, so their buying takes nothing out of the count. There is no staking, so there is no new long-term lock. Coins moved into the privacy layer grew from about **505,024 LTC** to **547,282 LTC** over the window, but those coins are still part of the supply and can come back at any moment.
+**Fee burn: none.** Every transaction fee goes to the miner who finds the block. Fees are tiny anyway, well under one US cent for a normal payment in November 2026.
 
-The one small real removal is coins sent to outputs that can never be spent. Some users attach a little LTC to data-only outputs, and between Aug 12 and Nov 10 2026 that destroyed **4.04 LTC** across 163 outputs. Against 325,081 new LTC, that is far too small to change the picture.
+**Foundation buy: none.** The Litecoin Foundation does not buy LTC. Lite Strategy, a Nasdaq company that keeps LTC as its main asset, held **751,798 LTC** on Sep 30 2026, down from 832,716 LTC on Jun 30 2026. Lite Strategy bought its coins on the open market, so whether it buys or sells, the number of LTC in circulation stays the same.
+
+**New long-term lock: none.** Litecoin has no staking. Coins moved into MWEB, the private side of the chain, still count and can come back out at any time.
+
+**Coins sent where no one can spend them: 4.22 LTC.** A few users attach LTC to data-only outputs that can never be spent, which destroys those coins for good. Between Aug 22 and Nov 20 2026 that happened 140 times, on Aug 23, Oct 28 and Nov 17 2026, for 4.22 LTC in total. Against 324,456 new LTC, that is a rounding error.
 
 ## Foundation and overhang
 
-Litecoin has almost no overhang in the usual sense. The Litecoin Foundation publishes no LTC wallet and was never handed coins at launch. The largest single block of held coins we can name is the listed Litecoin treasury company, which held **751,798 LTC** on Sep 30 2026, down from **832,716 LTC** on Jun 30 2026, after it gave up coins on covered-call trades and used LTC to fund share buybacks. Those coins were bought on the open market, so a sale moves coins between holders and adds nothing new.
+Litecoin has almost no overhang in the usual sense, because no group was ever given a pile of coins. The Litecoin Foundation publishes no LTC balance and holds no protocol allocation; any coins it owns came from donations and are already circulating.
 
-The other named holding is the **85,034 LTC** recovered after the March 2026 privacy-layer bug. That output sits frozen inside the privacy layer and is already counted as circulating. No plan to release or destroy it has been announced as of Nov 10 2026.
+The one large pile tied to the project is the **85,034 LTC** recovery output from the March 2026 MWEB bug. Litecoin's developers froze it with a network rule after the attacker returned the funds, and it has not moved. If a future release ever unfroze it, those coins would reach the market, so it stays on the watch list.
 
-## How LTC compares to other proof-of-work Layer 1 chains
+Lite Strategy, with **751,798 LTC** on Sep 30 2026, is the largest known company holder. It is not part of the Litecoin team, and its coins were bought on the open market, so its moves never add new LTC.
 
-Litecoin copies Bitcoin's design at four times the speed and four times the coins: a fixed reward per block, a halving every 840,000 blocks, and a hard cap of 84M LTC against Bitcoin's 21M. Bitcoin already halved to 3.125 BTC per block in April 2024, and its supply rose about **+0.20%** over the same 90 days, so Litecoin is currently adding new coins about twice as fast as Bitcoin. That gap closes when Litecoin halves around late July 2027.
+## How LTC compares to other proof-of-work chains
 
-Dogecoin, which most Litecoin miners mine at the same time, works the other way: it pays a flat 10,000 DOGE per block with no cap, so its new supply never stops. Litecoin sits with Bitcoin on a fixed path that keeps cutting the reward until new coins stop. None of the three burns fees, so for all of them the reward schedule is the whole supply story.
+Litecoin copies Bitcoin's design closely: a hard cap, a reward that halves every four years, no presale and no burn. Bitcoin is one halving further along, so it adds new coins at roughly half Litecoin's pace today. Litecoin will close that gap in late July 2027, when its reward drops from 6.25 to 3.125 LTC per block.
+
+Dogecoin, which is mined together with Litecoin by the same machines, works the other way: it pays a fixed 10,000 DOGE per block forever, with no cap, so its supply never stops growing. Litecoin has a clear end point at 84M LTC, and about 92.7% of that already exists.
+
+Against Ethereum and other proof-of-stake chains, Litecoin has no staking rewards and no fee burn. Its supply moves in one direction only, up, but at a known and shrinking speed.
 
 ## What to watch in the next 90 days
 
-**Binance reopening LTC withdrawals.** After the Oct 29 2026 hack, Binance said on Nov 6 2026 it aims to reopen withdrawals on Litecoin's own network by the end of the following week. Coins will move, but none are created or destroyed.
+**LitVM mainnet, planned for late 2026.** LitVM is a separate smart-contract layer built on top of Litecoin. Its test network moved to new servers on Nov 12 2026, and its team says mainnet is next, but no date is set. It uses LTC and does not create any.
 
-**LitVM mainnet.** The smart-contract layer built on Litecoin has run a public test network since Apr 15 2026, with its main launch aimed at late 2026. LTC bridged into it stays part of the supply.
+**cLTC on Canton, aimed at the end of 2026.** The Litecoin Foundation signed an agreement on Oct 1 2026 for a token backed one-to-one by real LTC on the Canton Network, built for banks and funds. Backed tokens lock existing LTC rather than make new coins.
 
-**cLTC on Canton.** The Litecoin Foundation signed a plan on Oct 1 2026 for a version of LTC on the Canton Network, a Litecoin miner signed a non-binding letter on Oct 27 2026 to lock some of its coins behind it, and the launch is aimed at late 2026. Coins locked to back it stay counted.
+**The Grayscale Litecoin fund's exchange listing, still waiting.** Grayscale filed to turn its Litecoin trust into an exchange-traded fund on NYSE Arca, and the listing has not been approved as of Nov 20 2026. Funds buy coins that already exist.
 
-**The treasury company's next report.** Its quarter ending Dec 31 2026 should be reported around February 2027. Another drop in its holdings would show more of its coins going back to the market.
+**Lite Strategy's next quarterly report, around early February 2027.** It will show how many LTC the company still holds at Dec 31 2026, after it handed over coins on covered calls and bought back its own shares.
 
-**The fourth halving.** Block 3,360,000, expected around late July 2027, cuts the reward to 3.125 LTC. It falls after the next 90 days, so it does not change this count yet.
+**The halving, around Jul 27 2027.** Block 3,360,000 cuts the miner reward to 3.125 LTC. It falls after the next 90 days, but from then on new supply halves to about 162,000 LTC per 90 days.
 
 ## Summary
 
-Litecoin added **325,081 LTC** in the 90 days to Nov 10 2026, all of it as block rewards to miners, and destroyed only **4.04 LTC**. Net, supply grew **+0.42%**, and the next 90 days should look the same. Litecoin has no unlocks, no buyback and no fee burn, so the block reward is the whole story. The reward halves to 3.125 LTC around late July 2027, and supply can never pass 84M LTC.
+LTC supply grew **+0.42%** from Aug 22 to Nov 20 2026, and the next 90 days should match it.
+
+All of that growth is mining: **324,456 new LTC** to miners, against only 4.22 LTC destroyed and no burn, buyback or unlock of any kind.
+
+Litecoin has no team share or vesting, and its one frozen pile of 85,034 LTC has no release plan.
+
+The next real change in LTC supply is the halving around late July 2027, which cuts new coins in half.
 
 ---
 
-*MrNasDog Pressure Framework analysis of LTC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 10 2026.*
+*MrNasDog Pressure Framework analysis of LTC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 20 2026.*

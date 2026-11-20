@@ -1,6 +1,6 @@
 ---
 title:         "SUI Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
-description: "SUI supply is growing: 64.6M SUI from staking pay and monthly unlocks in 90 days against 129K SUI locked by storage fees, +1.56% net and about +1.46% next."
+description: "SUI supply keeps growing: 24.37M SUI of staking pay and 39.94M SUI in monthly releases in 90 days against 115K SUI locked away, +1.55% net, +1.46% next."
 canonical_url: "https://mrnasdog.com/research/sui/inflation"
 tags: ["crypto", "sui", "layer1", "vesting"]
 published: true
@@ -12,58 +12,60 @@ published: true
 
 # SUI Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 
-SUI supply is growing. Between Aug 12 and Nov 10 2026, **64.60M SUI** reached the market from staking pay and three monthly unlocks, while only **129,224 SUI** was locked away by storage fees, a net rise of **+1.56%**, the same **+1.56%** that market trackers show. Sui can never have more than 10B SUI, but only about 41% of that is unlocked today, so the float keeps widening for years, by about **+1.46%** in the next 90 days.
+**SUI** supply is growing and is set to keep growing: from Aug 22 to Nov 20 2026 the Sui network paid stakers **24.37M SUI** and released **39.94M SUI** to the team, the Sui Foundation and Mysten Labs, while only **115K SUI** was locked away for good. That is a net rise of **+1.55%** in 90 days, against **+1.68%** on other trackers, with **+1.46%** expected over the next 90 days. Total SUI is capped at 10B, and 4.14B of it is on the market today.
 
 ## The verdict, in one paragraph
 
-Over the 90 days to Nov 10 2026, the SUI that can trade grew by **+1.56%**, from new staking pay and the monthly unlocks of the early team, the Sui Foundation's community reserve and the Mysten Labs treasury. Market trackers measure **+1.56%** over the same 90 days, a gap of about **0.01 points**, so the two readings agree and the coin page carries no warning note. The next 90 days look much the same at about **+1.46%**, a little lower because the staking pay was cut on Oct 14 2026 and will be cut again in January 2027. Sui is a capped coin with a long unlock tail: inflationary by schedule on the tradable float, not by printing new coins.
+Over the 90 days to Nov 20 2026, SUI on the market grew by a net **+1.55%**. Other trackers show **+1.68%** for the same stretch, a gap of only **0.13 points**, so the two readings agree and the coin page carries no warning note. For the next 90 days, to Feb 18 2027, we expect about **+1.46%**, a little slower because the staking pay is cut again in January. In short, SUI is a **scheduled-release coin**: most of its new supply is coins that were created at launch and come out on a set monthly plan.
 
 ## Sell pressure: where new SUI comes from
 
-**Protocol inflation: 24.66M SUI.** Sui pays its stakers every day from a pot of SUI that was set aside at launch, so staking pay adds to the tradable supply without minting anything new. From Aug 12 to Nov 10 2026 the pot paid out 24.66M SUI, and its balance fell by exactly that much, to 221.9M SUI. The payout each day falls by 10% every 90 days. The last cut, on Oct 14 2026, took it to about 254,190 SUI a day, and the next, around Jan 12 2027, takes it to about 228,770 SUI a day, so the next 90 days should pay about **22.19M SUI**. The network fees stakers also earn come from users who already hold SUI, so they add nothing.
+**Protocol inflation: 24.37M SUI.** Sui pays its stakers every day from a pot that was set aside when the network started in May 2023, and each payout counts as new SUI on the market. From Aug 22 to Nov 20 2026 the pot paid out exactly **24,373,669 SUI**. The daily payment shrinks by 10% every 90 days: it fell to about **254,187 SUI** on Oct 14 2026 and falls again, to about 228,768 SUI, on Jan 12 2027. That puts the next 90 days at about **21.94M SUI**. No new SUI is ever created, since every coin already exists; the pot simply hands out coins it has been holding.
 
-**Vesting unlocks: 21.73M SUI.** Early team members and backers receive a batch of locked SUI on the 1st of every month. The Sep 1, Oct 1 and Nov 1 2026 batches came to 21.73M SUI, and the Dec 1 2026, Jan 1 2027 and Feb 1 2027 batches should add about **20.23M SUI** more. The two investor rounds finished unlocking in May 2026, which is why the monthly unlock is now well under half of what it was in early 2026.
+**Vesting unlocks: 21.73M SUI.** Early team members receive a slice of their SUI on the 1st of every month. The Sep 1, Oct 1 and Nov 1 2026 slices came to about 21.73M SUI, and each slice is a little smaller than the one before. The Dec 1 2026, Jan 1 2027 and Feb 1 2027 slices add about **20.23M SUI**. The early investors from the Series A and Series B rounds received their last coins in May 2026, which is why the monthly releases are less than half the size they were a year ago.
 
-**Foundation and unscheduled unlocks: 18.21M SUI.** On the same monthly dates the Sui Foundation's community reserve releases 4M SUI and the Mysten Labs treasury about 2.07M SUI, together 18.21M SUI over the last three months and the same again over the next three. These releases follow the Foundation's published schedule. No off-schedule release was found in the window.
+**Foundation and unscheduled unlocks: 18.21M SUI.** On the same monthly dates, the Sui Foundation's community reserve frees 4M SUI and the Mysten Labs treasury frees 2.07M SUI. Three months of that is 18.21M SUI, the same in the window behind us and the one ahead. The Foundation uses its reserve for grants, validator support and research, so these coins tend to reach builders and partners rather than sit still.
 
-**Long-term locked or bankruptcy: 0.** No court case or failed firm is holding SUI that it must later pay out, so nothing waits on a legal deadline.
+**Long-term locked or bankruptcy: 0.** No bankrupt firm or court holds SUI for a later payout, and no SUI is waiting on a legal case.
 
 ## Buy pressure: where new SUI goes
 
-**Programmatic buyback: 0.** The Sui Foundation buys SUI every day with the interest earned on stablecoins held on Sui, about 690,000 SUI for about $609,000 between Aug 12 and Nov 9 2026. The Foundation then hands those coins out to DeFi apps, validators and partners, so they come straight back to the market and remove nothing.
+**Programmatic buyback: 0.** The Sui Foundation turns the interest earned on stablecoins held on Sui into a small SUI purchase every day. From Aug 22 to Nov 19 2026 that bought about **691,700 SUI** for around $615,700. The Foundation then hands those coins out again to apps, validators and partners, so they never leave the market, and the buyback removes nothing from the count.
 
-**Protocol fee burn: 129,224 SUI.** Sui does not burn fees the way Ethereum does. Instead, every storage fee goes into a storage fund, and one part of that fund never pays anything back. That part grew by 129,224 SUI over the window to 1.38M SUI. The total supply still reads 10B SUI, so these coins are locked away rather than destroyed, and at about 1,436 SUI a day they barely dent the new supply.
+**Protocol fee burn: 115K SUI.** When someone stores data on Sui, part of the storage fee can never be paid back and stays in the network's storage fund for good. That locked part grew by **115,333 SUI** in the 90 days. Ordinary gas fees are not destroyed on Sui; they are paid to stakers together with their daily pay, about 329K SUI in the window. After Sui cut its gas price to a fifth in April 2026 and made stablecoin transfers free in May 2026, fees are a small stream.
 
-**Foundation buy: 0.** The US SUI funds and the listed company that holds SUI as its main asset buy coins that are already on the market, so their buying, and any selling, does not change the count.
+**Foundation buy: 0.** Apart from the daily buyback above, the Foundation does not buy SUI. SUI Group, a listed company, held **109.29M SUI** on Nov 2 2026, and spot SUI funds trade in the US, but both buy coins that are already on the market, so they move SUI between owners without changing the count.
 
-**New long-term lock: 0.** About 7.07B SUI is staked, more than the whole tradable supply, because locked team and reserve coins can stake too. Staked SUI still counts as tradable, and the refundable part of the storage fund shrank in the window as users deleted data, so no new lock took coins out.
+**New long-term lock: 0.** About 7.08B SUI is staked, but staked SUI still counts as on the market, and no new lock-up contract or staking cap was announced.
 
 ## Foundation and overhang
 
-About **5.86B SUI**, close to 59% of all SUI, is still locked. The biggest share, about 5.22B SUI, has no release date on the published schedule, which runs to mid 2030. The rest comes out on the published monthly schedule: early team batches of about 6.6M to 7.5M SUI, 4M SUI from the community reserve and about 2.07M SUI from the Mysten Labs treasury each month, plus the 221.9M SUI still in the staking pot. The locked coins are held by custodians rather than in a public contract, so we track them through the Foundation's published schedule, and the staking pot through the chain every day. The Foundation's buyback holds almost nothing, because it gives its coins away again. If any of these balances falls faster than the schedule between our checks, the outflow goes into the Foundation and unscheduled unlocks row at the next check.
+Of the 10B SUI, about **5.86B** is not on the market yet. The largest part, about **5.2B SUI**, has no release date before mid-2030, and much of it sits in the Sui Foundation's community reserve. On the monthly plan that runs to mid-2030, about 229M SUI is still due to early team members, about 172M SUI to the Foundation's community reserve and about 87M SUI to the Mysten Labs treasury. The staking pot still holds **219.36M SUI**, read straight from the chain each day.
+
+We check the monthly plan and the staking pot at every rebuild. If any of these holders releases SUI earlier or faster than the plan says, that release enters the Foundation and unscheduled unlocks row at the next check.
 
 ## How SUI compares to other proof-of-stake Layer 1 chains
 
-Most proof-of-stake Layer 1 chains pay their stakers with brand-new coins. Ethereum mints ETH for validators and burns part of every fee, and Solana mints SOL on a schedule that shrinks each year and also burns part of its fees. Sui works the other way round: all 10B SUI were created at launch, and staking pay comes from a pot that will run dry. That makes the SUI cap real, but it also means the inflation SUI holders feel comes from coins leaving locked pots, not from new minting.
+Most proof-of-stake chains, such as Ethereum or Solana, pay stakers by creating brand-new coins, so their supply has no fixed top. SUI works the other way: all 10B SUI were created at launch, and staking pay comes from a pot that empties a little more slowly every 90 days. That gives SUI a hard cap like Bitcoin's, but where new Bitcoin comes from mining on a fixed halving plan, new SUI on the market comes from a release calendar the Sui Foundation publishes.
 
-Aptos, the closest cousin as a Move-based chain, also has monthly unlocks for its team and backers, but it mints new APT for staking pay with no fixed cap. Sui's pot has a hard bottom, and its 10% cut every 90 days makes the staking side shrink step by step, while Aptos staking pay follows the size of the stake.
+The difference shows in the burn. Ethereum destroys part of every fee, which can offset some of its new coins on busy days. Sui burns no gas fees; its only lasting removal is the small non-refundable part of storage fees, about 115K SUI in 90 days against more than 64M SUI added. So the SUI supply story is about release timing, not about how busy the chain is.
 
-Where Sui is weaker is the buy side. Ethereum's base-fee burn and Solana's fee burn take coins out for good; Sui's only sink is the non-refundable part of the storage fund, about 129,224 SUI in 90 days, and the Foundation's buyback hands its coins back out. With 41% unlocked, SUI looks more like a young chain with a long unlock tail than like a mature, fully unlocked coin.
+At about **+1.55%** in 90 days, SUI adds new supply faster than most large Layer 1 coins whose supply is already fully out, and slower than younger chains with big investor unlocks still ahead. With the investor rounds finished, the pace now depends on the team, the Foundation and the shrinking staking pot.
 
 ## What to watch in the next 90 days
 
-**Dec 1 2026:** the next monthly unlock, about 12.97M SUI from the early team, the community reserve and the Mysten Labs treasury.
+**Dec 1 2026:** the next monthly release, about 12.97M SUI to early team members, the Foundation's community reserve and the Mysten Labs treasury.
 
-**Jan 1 2027:** the following monthly unlock, about 12.84M SUI.
+**Jan 1 2027:** another release of about 12.84M SUI, followed on **Jan 12 2027** by the next 10% cut in daily staking pay, to about 228,768 SUI a day.
 
-**Around Jan 12 2027:** the next 10% cut to staking pay, from about 254,190 to about 228,770 SUI a day.
+**Feb 1 2027:** a release of about 12.63M SUI, the last one inside this 90-day view.
 
-**Feb 1 2027:** the monthly unlock after that, about 12.63M SUI.
+**The DATA Network move:** on Oct 12 2026 the Sui Foundation said it would put $30M into DATA Network, an AI data project moving onto Sui. How it pays has not been shared; if it pays in SUI from its locked reserve, that would be a release outside the monthly plan.
 
-**Any time:** whether the Sui Foundation pays for deals such as its Oct 2026 DATA Network investment in locked SUI outside the schedule, and whether the stablecoin-funded buyback starts keeping or burning its coins instead of handing them out.
+**The daily buyback:** it bought about 9,400 SUI a day in mid-November 2026. If the Foundation ever starts keeping or destroying those coins instead of handing them out, the buyback would start to count.
 
 ## Summary
 
-Sui (SUI) supply grew **+1.56%** in the 90 days to Nov 10 2026 and should grow about **+1.46%** in the next 90 days. The new coins come from staking pay out of a launch pot and from monthly unlocks for the early team, the Sui Foundation's community reserve and the Mysten Labs treasury, while storage fees lock away only a small amount. The main risk for holders is the size of what is still locked, about 5.86B SUI, most of it with no release date yet. The 10B SUI cap is fixed, and the staking pay shrinks by 10% every 90 days, so the growth slows over time but does not stop for years.
+SUI supply grew by a net **+1.55%** from Aug 22 to Nov 20 2026 and is expected to grow about **+1.46%** in the next 90 days. All 10B SUI already exist, so the growth comes from staking pay drawn from a launch pot and from monthly releases to the Sui team, the Sui Foundation and Mysten Labs. The only lasting removal is a small slice of storage fees, and the Foundation's daily buyback hands its coins back out. The main risk for holders is the 5.86B SUI still held back, most of it with no release date before mid-2030.
 
-*MrNasdog Pressure Framework analysis of SUI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 10 2026.*
+*MrNasdog Pressure Framework analysis of SUI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 20 2026.*

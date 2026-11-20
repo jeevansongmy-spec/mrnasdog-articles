@@ -1,6 +1,6 @@
 ---
 title: "UNI Inflation Analysis · November 2026 · Supply was growing · trend cooling"
-description: "UNI supply in 90 days: 19M UNI from the Labs growth budget and a 1.55M Foundation sale against a 5.46M UNI fee burn, +2.48% net, about flat next 90 days."
+description: "UNI supply in 90 days: 19M UNI from the Labs growth budget and 1.52M from the Foundation against a 5.11M UNI fee burn, +2.54% net, and about −0.48% next."
 canonical_url: "https://mrnasdog.com/research/uni/inflation"
 tags: ["crypto", "uni", "uniswap", "defi"]
 published: true
@@ -12,60 +12,54 @@ Originally published at [https://mrnasdog.com/research/uni/inflation](https://mr
 <!-- main-page -->
 This is the long supply read. For the signal, the price drivers and the questions people ask about Uniswap, see [mrnasdog.com/research/uni](https://mrnasdog.com/research/uni).
 
-From Aug 12 to Nov 10 2026 the number of UNI in circulation grew by a net **+2.48%**, because the Uniswap Labs growth budget let out **19.00M UNI** and the Uniswap Foundation sold a net **1.55M UNI**, while the fee burn destroyed **5.46M UNI**. UNI has no hard cap: governance may mint up to 2% a year, but it never has. For the next 90 days only one **5M UNI** tranche is due, so the count should stay about flat at **−0.03%**; other trackers show **−2.62%** for the last 90 days.
+UNI supply on the market grew **+2.54%** between Aug 22 and Nov 20 2026, even though no new UNI was minted. Uniswap Labs passed **19.00M UNI** from its growth budget into the market and the Uniswap Foundation a net **1.52M UNI**, while trading fees paid to burn **5.11M UNI**. Other supply trackers show **−2.55%** for the same period because of a one-off change in their supply figure on Nov 3 2026, and for the next 90 days the burn is set to outrun the single **5M UNI** growth slice, for about **−0.48%**.
 
 ## The verdict, in one paragraph
 
-Between Aug 12 and Nov 10 2026, net new UNI came to about **15.09M**, or **+2.48%** of the 607.79M UNI now circulating. The next 90 days, to Feb 8 2027, look close to flat at **−0.03%**, since the Jan 1 2027 growth tranche of 5M UNI is about the size of the burn at today's pace and price. Other trackers show **−2.62%**, a difference of **5.11 percentage points**, so the coin page carries a warning note. That lower number comes from a supply figure that sat near 624M to 625M UNI from Aug 12 to Nov 2 2026 and then fell 17.31M UNI on Nov 3 2026, when the Uniswap Foundation and growth-budget wallets were taken out of the circulating count. No UNI was burned in that step. In one line: UNI is a fixed-mint governance token whose trading fees now burn UNI, and in this window the team's own payouts were bigger than the burn.
+Over the 90 days to Nov 20 2026, **20.52M UNI** reached the market from wallets held by Uniswap Labs and the Uniswap Foundation, and **5.11M UNI** was destroyed, so the UNI that can trade rose by **15.42M**, or **+2.54%**. Other supply trackers read **−2.55%**, a difference of **5.08 points**, so the UNI coin page carries a warning note. That lower figure comes from Nov 3 2026, when the trackers stopped counting the Foundation's wallets as circulating and their figure dropped by **17.31M UNI** in one day. No UNI was burned or locked in that step. The label for this quarter: a fixed-supply token whose team budget out-ran its fee burn.
 
 ## Sell pressure: where new UNI comes from
 
-**Protocol inflation.** Zero. Uniswap governance holds the right to mint up to 2% more UNI once a year, about 20M UNI at today's supply, and that right is live on-chain. It has never been used, total supply stayed at exactly 1B UNI through the window, and no vote to mint is open.
+Protocol inflation was **zero**. The full UNI count stayed at exactly **1B** across the window. The token can mint up to **2%** more a year, but only when a governance vote asks for it, and no such vote has been put forward.
 
-**Vesting unlocks.** **19.00M UNI**. Since Jan 1 2026 the DAO treasury pays Uniswap Labs a growth budget of 5M UNI each quarter through a vesting contract. The Labs budget wallet held 14.00M UNI on Aug 12, received the Oct 1 2026 tranche, and then sent everything on: 1M UNI on Sep 18, 1M on Sep 22 and about 17M on Oct 6 2026. About 15.36M of those coins still sat in the wallets that received them on Nov 10. The next tranche, **5M UNI**, opens on Jan 1 2027, inside the next 90 days, and 20M UNI is still set aside for the next four quarters.
+Vesting unlocks were the largest source, at **19.00M UNI**. Since Jan 1 2026 the DAO treasury has paid Uniswap Labs **5M UNI** each quarter as a growth budget, agreed in the UNIfication vote of December 2025. Labs' receiving wallet held **14.00M UNI** on Aug 22 2026 and took the Oct 1 2026 slice. It then sent everything on: **1M** on Sep 18, **1M** on Sep 22 and **17M** on Oct 6 2026. The next slice of **5M UNI** can be claimed on Jan 1 2027, and four more slices, **20M** in all, are approved for 2027.
 
-**Foundation and unscheduled unlocks.** **1.55M UNI**. The Uniswap Foundation sent 3.25M UNI out of its main wallet on Nov 4 and Nov 5 2026 and took 1.75M back on Nov 6, a net 1.55M UNI. Small grant payouts of a few thousand UNI went out across the window too. The Foundation has no public sales schedule, so nothing is booked for the next 90 days.
+Foundation and unscheduled unlocks added **1.52M UNI**. The Uniswap Foundation's main wallet sent out **3.25M UNI** on Nov 4 2026 and took **1.75M** back on Nov 6 2026, along with a few small grant payments. The Foundation has no public sale plan, so this sale is not repeated in the next 90 days.
 
-**Long-term locked or bankruptcy.** Zero. No court case or bankrupt firm is holding UNI for a payout. About 12.32M UNI left unclaimed from the 2020 airdrop was claimed during the window, most of it in late October 2026, but those coins were already counted as circulating, so they add nothing new.
+Long-term locked or bankruptcy supply was **zero**. No court or trustee holds UNI for a later payout, and the team and early-investor allocations finished vesting in 2024.
 
 ## Buy pressure: where new UNI goes
 
-**Programmatic buyback.** **5.46M UNI**. Since the UNIfication vote of December 2025, part of Uniswap's trading fees on Ethereum and a growing list of other chains collects in on-chain jars. Anyone can take a jar's contents, but only by burning a fixed amount of UNI, which is sent to a dead address on Ethereum. Between Aug 12 and Nov 10 2026 that destroyed 5,456,001 UNI, worth about **$34.8M** at the prices of the day. The pace fell from 2.38M UNI in the first 30 days to 1.13M UNI in the last 30, after a record run in early September. At today's price the same dollar flow would burn about **5.19M UNI** over the next 90 days.
+The fee-funded buyback destroyed **5.11M UNI**. Since the UNIfication vote, a share of Uniswap's trading fees collects in on-chain jars on Ethereum and a dozen other chains. Anyone can claim a jar by handing over **4,000 UNI**, and that UNI goes to a dead address where it can never be spent; on other chains it is first carried back to Ethereum. The coins burned in the window were worth about **$34.5M** on the days they burned.
 
-**Protocol fee burn.** Zero. The fees themselves are never destroyed; they go to whoever burns UNI, so all of the burning is counted once, in the row above.
+The pace slowed through the quarter. The first 30 days burned about **2.69M UNI**, the last 30 days about **1.23M**, because the UNI price climbed from around $4 to a peak near $10 in late September and trading cooled into November. With UNI now near **$4.36**, the same dollars of fees buy more coins, which is why the next 90 days point to about **7.91M UNI** burned.
 
-**Foundation buy.** Zero. The DAO treasury and the Labs growth wallet took in no UNI from the market. The 1.75M UNI the Foundation took back on Nov 6 2026 is already netted against its sale.
-
-**New long-term lock.** Zero. No new lock-up of UNI started in the window. A June 2026 forum idea to add UNI staking and cap the supply has not gone to a vote.
+The protocol fee burn row is **zero**, because the fees themselves are kept and only pay for the UNI burn above. Foundation buying is **zero**: neither Labs nor the Foundation bought UNI back. New long-term locks are **zero**, because UNI has no staking or lock that takes coins off the market.
 
 ## Foundation and overhang
 
-The biggest holder by far is the Uniswap DAO treasury, with **262.25M UNI**, about 30% of all UNI that still exists. Only governance votes can move it, and 20M of it is already approved for the growth budget at 5M UNI a quarter. The Uniswap Foundation holds **13.31M UNI** in its main wallet and **2.70M UNI** in a managed vault; its November sale shows those coins can come to market without notice. The Labs growth wallet was empty on Nov 10 2026. Together these team-held coins come to about **278.26M UNI**, nearly half as much as all the UNI in circulation.
+The DAO treasury is by far the largest holder, with **262.25M UNI** on Nov 20 2026. It falls by **5M UNI** each quarter while the growth budget runs, and governance can vote to spend more. The Uniswap Foundation holds **13.31M UNI** in its main wallet and **2.70M UNI** in a second wallet that did not move in the window. Labs' growth-budget wallet is empty after the Oct 6 2026 transfers and refills on Jan 1 2027. None of these coins counts as circulating yet. If the treasury or the Foundation wallets shrink between checks, the outflow enters the sell side at the next check.
 
 ## How UNI compares to other DEX tokens
 
-Most exchange tokens pay for growth by minting new coins. Curve and Aerodrome keep minting new tokens for liquidity providers and voters, so their supply rises by design, and PancakeSwap mints CAKE while burning part of it back each week. UNI works the other way: no new UNI is minted at all, and every coin that enters the market comes out of an existing pile, mainly the DAO treasury.
+UNI is a fixed-count token. Unlike chains that pay validators in new coins, Uniswap creates no UNI on a schedule, so all new market supply comes from coins already made and parked with the treasury, Labs or the Foundation. That puts UNI closer to other governance tokens with a large DAO treasury than to proof-of-stake coins, where issuance runs whether or not anyone votes.
 
-On the buy side, Uniswap now sits with the fee-funded designs. Hyperliquid spends exchange fees on HYPE in the market and keeps it; Uniswap makes the market burn UNI to claim its fees, so the coins are destroyed for good. What sets UNI apart is size: with the treasury holding more than 260M UNI, the growth budget and any Foundation sales can outweigh the burn in a given quarter, as they did here.
+The burn is what sets UNI apart. Many exchange tokens send fees to stakers or a treasury, and some buy their coin back and keep it. Uniswap turns a share of fees into a permanent burn that anyone can trigger, on every chain where the fee is switched on. The size of that burn moves with trading volume and with the UNI price, not with a fixed quarterly budget, so it can swing by half from one month to the next.
 
 ## What to watch in the next 90 days
 
-**Jan 1 2027: the next growth tranche.** 5M UNI moves from the treasury to the Labs growth wallet. In 2026 the wallet held some tranches for months and passed the October tranche on within days; how fast it moves the January coins decides when they reach the market.
+**Jan 1 2027:** the next **5M UNI** growth-budget slice can be claimed for Uniswap Labs. The last slice left Labs' wallet within five days.
 
-**The burn pace.** The burn fell by about half from September to October 2026. Fees were switched on for Circle's Arc chain by a vote executed on Oct 5 2026, and new routing hooks that send outside trades through Uniswap pools launched on Oct 22 2026. If those lift fees, the burn can climb back toward its September level.
+**Late November and December 2026:** two governance proposals posted on Nov 16 2026 would upgrade the v4 fee system and switch on v4 fees on Celo, Soneium, X Layer, World Chain and Zora. If they pass, more fees feed the burn.
 
-**Foundation sales.** The Foundation still holds about 16M UNI across two wallets. Another sale like the one on Nov 4 and Nov 5 2026 would add directly to new supply.
+**X Layer burns:** a proposal from Nov 6 2026 would replace the X Layer releaser after its bridge blocked fee burns from that chain.
 
-**Around Feb 1 2027: the warning note.** The tracker step of Nov 3 2026 leaves other trackers' 90-day count at about that date. After it, their figure should move back close to the one on this page, and the warning note can come off.
+**The Foundation wallets:** any further sale from the **13.31M UNI** main wallet after Nov 4 2026 would add to the sell side.
+
+**Around Feb 1 2027:** the gap with other trackers should close once their 90-day look-back passes the Nov 3 2026 change.
 
 ## Summary
 
-UNI supply grew a net **+2.48%** from Aug 12 to Nov 10 2026, as 19.00M UNI from the Labs growth budget and a 1.55M UNI Foundation sale outweighed a 5.46M UNI fee burn.
+UNI supply on the market grew **+2.54%** between Aug 22 and Nov 20 2026, because Uniswap Labs passed **19.00M UNI** from its growth budget into the market and the Foundation a net **1.52M**, more than the **5.11M UNI** the fee burn destroyed. UNI has no scheduled minting, so treasury, Labs and Foundation releases are the only source of new market supply and the fee burn is the only sink. The main risk is a larger treasury spend or more Foundation selling, while busier trading lifts the burn. For the next 90 days, one **5M UNI** slice against about **7.91M UNI** burned points to roughly **−0.48%**, and the **−2.55%** shown elsewhere comes from a change in how a supply figure counts the Foundation's wallets, not from burned UNI.
 
-No UNI is minted: every new coin in the market comes from the 262.25M UNI DAO treasury or the Foundation's roughly 16M UNI.
-
-The next 90 days look about flat at **−0.03%**, with one 5M UNI tranche on Jan 1 2027 set against a burn of about 5.19M UNI at today's pace and price.
-
-Other trackers show **−2.62%** because their supply figure was cut by 17.31M UNI on Nov 3 2026, so the coin page carries a warning note until about Feb 1 2027.
-
-*MrNasDog Pressure Framework analysis of UNI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 10 2026.*
+*MrNasDog Pressure Framework analysis of UNI, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 20 2026.*

@@ -1,21 +1,21 @@
 ---
-title:         "Is GRAM Inflationary? +3.42% New Supply in 90 Days"
-description:   "How much new GRAM is coming? +3.42% in the next 90 days, +12.86% in the next year — checked Nov 10 2026."
+title:         "Is GRAM Inflationary? +3.78% New Supply in 90 Days"
+description:   "How much new GRAM is coming? +3.78% in the next 90 days, +12.56% in the next year — checked Nov 20 2026."
 canonical_url: "https://mrnasdog.com/research/gram"
 content_type:  "coin_hub"
 tags:          ["crypto", "gram", "gram", "should-i-buy"]
 published:     true
 ---
-# Is GRAM Inflationary? +3.42% New Supply in 90 Days
+# Is GRAM Inflationary? +3.78% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/gram, updated Nov 17 2026*
+*From https://mrnasdog.com/research/gram, updated Nov 20 2026*
 
-How much new GRAM is coming? **+3.42%** in the next 90 days, **+12.86%** in the next year — checked Nov 10 2026.
+How much new GRAM is coming? **+3.78%** in the next 90 days, **+12.56%** in the next year — checked Nov 20 2026.
 
 - **Signal:** negative for Gram
-- **Score:** 2.5/10 — supply 1/5, demand 1.5/5
-- **Supply growth:** +3.42% in 90 days · +12.86% in a year
-- **How much people want it:** very weak (1.5/5)
+- **Score:** 3.5/10 — supply 1/5, demand 2.5/5
+- **Supply growth:** +3.78% in 90 days · +12.56% in a year
+- **How much people want it:** modest (2.5/5)
 - **Price drivers:** 2 ▲ price up · 0 ▼ price down
 
 ## What could move Gram's price
@@ -24,7 +24,7 @@ What the score misses: 2 drivers. Today 2 push GRAM's price up and 0 push it dow
 
 ### ▲ Durov's 7 steps
 
-700K Telegram wallets in 2 days; steps 5 to 7 still undated.
+1M+ Telegram wallets opened in 2 days; steps 5 to 7 undated.
 
 Good for the price: Telegram pushes Gram. Bad for it: Telegram steps back. Today: the price-up case.
 
@@ -36,10 +36,10 @@ Good for the price: Telegram pushes Gram. Bad for it: Telegram steps back. Today
 | Jun 1 2026 | Step 4: TON to Gram |
 | Aug 31 2026 | Gram Wallet rollout |
 | Oct 9 2026 | Wallet opens to all |
-| Nov 9 2026 | 700K wallets in 2 days |
+| Nov 11 2026 | 1M+ wallets in 2 days |
 | No date yet | Steps 5 to 7 (coming) |
 
-*Checked Nov 10 2026*
+*Checked Nov 20 2026*
 
 ### ▲ TON Strategy
 
@@ -54,17 +54,17 @@ Treasury keeps adding → price up · Treasury sells → price down. Now: ▲ up
 | Jun 30 2026 | 231 M GRAM |
 | Sep 30 2026 | 235 M GRAM |
 
-*Checked Nov 10 2026*
+*Checked Nov 20 2026*
 
 ## Where new Gram comes from
 
-Gram, called Toncoin until June 2026, pays validators a fixed reward per very fast block, so supply grows about 3.4% every 90 days. Telegram's wallet and the Believers Fund locker add more, and 1.08B frozen coins unlock on Feb 21 2027.
+Gram, formerly Toncoin, the coin of Telegram's TON chain. Fast blocks pay validators 51.47M new GRAM every 90 days, Telegram and the Believers Fund add 57.3M more, and the fee burn takes back almost nothing: supply up 3.79%.
 
-Gram adds +3.42% new supply in the next 90 days and +12.86% over a year — supply scores 1/5 (very heavy).
+Gram adds +3.78% new supply in the next 90 days and +12.56% over a year — supply scores 1/5 (very heavy).
 
 ## Demand: how much people want GRAM
 
-Demand reads **very weak** (1.5/5), #77 of 109 coins we track — that is how much people want GRAM now and how much buying could still come.
+Demand reads **modest** (2.5/5), #46 of 109 coins we track — that is how much people want GRAM now and how much buying could still come.
 
 (Members see more GRAM demand detail on the page; it is not repeated here.)
 
@@ -72,31 +72,31 @@ Demand reads **very weak** (1.5/5), #77 of 109 coins we track — that is how mu
 
 ### Is GRAM inflationary or deflationary?
 
-GRAM is inflationary right now: its supply changes +3.42% over the next 90 days and +12.86% over the next year (checked Nov 10 2026). More GRAM is added than removed.
+GRAM is inflationary right now: its supply changes +3.78% over the next 90 days and +12.56% over the next year (checked Nov 20 2026). More GRAM is added than removed.
 
 ### What is the GRAM inflation rate in 2026?
 
-About +12.86% a year: that is how much GRAM supply changes over the next 12 months, with +3.42% in the next 90 days (checked Nov 10 2026). That puts GRAM #21 of 100 coins we track for new supply (#1 = the most new supply).
+About +12.56% a year: that is how much GRAM supply changes over the next 12 months, with +3.78% in the next 90 days (checked Nov 20 2026). That puts GRAM #21 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next GRAM token unlock?
 
-No dated GRAM unlock is scheduled in the next 90 days (checked Nov 10 2026). New GRAM still arrives: about 97.8M GRAM in 90 days.
+The next GRAM unlock we track is on Dec 6 2026: about 36.6M GRAM, 1.27% of the GRAM in circulation (Believers Fund slice opens — opens to holders, claimed slowly). Checked Nov 20 2026.
 
 ### Is any GRAM burned or bought back?
 
-Yes. In our count, about 81.4K GRAM is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 10 2026). How it works: Half of every fee is burned, but fees are tiny, so only about 81,200 GRAM was removed in 90 days. No buyback, and staking does not take coins off the count.
+Yes. In our count, about 96.9K GRAM is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 20 2026). How it works: Fee burn of 96.74K GRAM; no buyback.
 
 ### Where does new GRAM supply come from?
 
-In our count, about 97.8M new GRAM reaches the market over the next 90 days (checked Nov 10 2026). How it works: Block rewards paid 51.47M new GRAM in 90 days, about 572,000 a day, because blocks got much faster in April 2026 with the same pay. Telegram's wallet released 30M more and Believers Fund holders claimed 16.33M.
+In our count, about 109M new GRAM reaches the market over the next 90 days (checked Nov 20 2026). How it works: 51.47M GRAM to validators, 40.00M from Telegram's wallet and 17.25M Believers Fund claims in 90 days.
 
 ### How much GRAM is in circulation?
 
-About 2.85B GRAM is in circulation (checked Nov 10 2026). Over the next 90 days that changes +3.42%, and over a year +12.86%.
+About 2.87B GRAM is in circulation (checked Nov 20 2026). Over the next 90 days that changes +3.78%, and over a year +12.56%.
 
-### Does GRAM have more new supply than SUI, HBAR or QNT?
+### Does GRAM have more new supply than AVAX, SUI or UNI?
 
-Over the next 90 days (checked Nov 10 2026): GRAM +3.42%, SUI +1.46%, HBAR +1.25%, QNT 0.00%. GRAM has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 20 2026): GRAM +3.78%, AVAX +0.92%, SUI +1.46%, UNI −0.48%. GRAM has the most new supply of these 4 coins.
 
 ## More on Gram
 
