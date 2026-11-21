@@ -1,6 +1,6 @@
 ---
 title:         "AAVE Inflation Analysis · November 2026 · Mixed flows · supply roughly steady"
-description:   "All 16M AAVE exist, yet the DAO reserve paid 12,180 AAVE to stakers and 5,882 to three streams in 90 days. Buybacks paused since April, so supply +0.12%."
+description:   "All 16M AAVE exist. In 90 days the DAO reserve paid 12,123 AAVE to stakers and 5,882 through streams, with buybacks paused: supply up +0.12%, same next."
 canonical_url: "https://mrnasdog.com/research/aave/inflation"
 tags:                    ["crypto", "aave", "defi", "tokenomics"]
 published:     true
@@ -12,48 +12,62 @@ Originally published at [AAVE Inflation Analysis · November 2026 · Mixed flows
 <!-- main-page -->
 ➜ Start with the Aave coin page for the short answer (should you buy AAVE?) and its price drivers: [mrnasdog.com/research/aave](https://mrnasdog.com/research/aave)
 
-AAVE supply grew about **+0.12%** in the 90 days from Aug 13 to Nov 11 2026, and the next 90 days come to about **+0.12%** as well: mixed flows, with supply roughly steady. No new AAVE is being made. All **16M** AAVE already exist, and the growth comes from the DAO's Ecosystem Reserve paying out **18,062 AAVE** to stakers and to three payment streams. Nothing took AAVE back in the window, because buybacks have been paused since Apr 19 2026 and AAVE has no burn. Other trackers show **+0.14%** for the same 90 days.
+AAVE is **roughly steady**: every one of the **16M** coins already exists, and new supply only reaches the market when the Aave DAO pays it out of its own reserve. From Aug 23 to Nov 21 2026 the reserve released **18,005 AAVE**, **12,123** to stakers and **5,882** through paid streams, while nothing was bought back or burned. Net, circulating supply grew **+0.12%**, other trackers show about **+0.10%**, and the next 90 days look about the same at **+0.12%**.
 
 ## The verdict, in one paragraph
 
-From Aug 13 to Nov 11 2026 the AAVE count in circulation rose by a net **+0.12%**, and the next 90 days, at the current pace of rewards and streams, come to about **+0.12%** again. Other trackers show **+0.14%**, a difference of only **0.03 percentage points**, so the coin page carries no warning note. The 16M AAVE cap is already reached, so the only new coins in circulation are coins the DAO hands out from its own reserve, and that reserve still holds about **559,211 AAVE**. In one line: AAVE is a fully minted governance coin with a slow, steady trickle out of the DAO's reserve and, for now, no buyer of its own.
+Over the 90 days to Nov 21 2026, AAVE's circulating supply grew by **+0.12%**, from about 15.42M to **15.44M** coins. Every new coin on the market came out of the Ecosystem Reserve, the DAO wallet that still holds **558,680 AAVE**. Other trackers put the same 90 days at about **+0.10%**, a gap of only **0.02** points, so the coin page carries no warning note. For the next 90 days we expect about **19,213 AAVE** to leave the reserve, or **+0.12%**. The label is mixed flows, supply roughly steady: a slow, steady drip out of a closed reserve, with no buyer on the other side while the buyback stays paused.
 
 ## Sell pressure: where new AAVE comes from
 
-Staking rewards are the largest flow. People who stake AAVE to back the protocol earn rewards paid from the Ecosystem Reserve at **150 AAVE a day**, a rate set by a May 2026 vote that cut it from 220 a day. Stakers collected **12,180 AAVE** between Aug 13 and Nov 11 2026, a little under the 13,500 AAVE that built up over those 90 days, so the next 90 days are booked at the same 12,180 AAVE.
+**Protocol inflation, about 12,123 AAVE.** The AAVE token cannot mint new coins. Instead, people who stake AAVE to back the protocol earn rewards paid from the Ecosystem Reserve. Staked AAVE earns **150 AAVE a day**, a rate the DAO cut from 220 a day in a May 2026 vote. Rewards only leave the reserve when stakers claim them, and between Aug 23 and Nov 21 2026 they claimed **12,123 AAVE**, a little under the **13,500** that built up over the same days. Most of it, **11,637 AAVE**, went to holders of staked AAVE. The rest was late claims on three older staking pools that no longer pay new rewards.
 
-Payment streams are the second flow. Aave Labs receives **75,000 AAVE** spread evenly over four years, from Apr 13 2026 to Apr 12 2030, under the "Aave Will Win" plan the DAO approved in April 2026. The risk firm LlamaRisk and the treasury firm TokenLogic each receive 5,000 AAVE over one year. Together the three streams paid out **5,882 AAVE** in the window: 4,674 AAVE to Aave Labs, 1,208 AAVE to LlamaRisk and none to TokenLogic, which has not drawn its stream yet. In the next 90 days about **7,089 AAVE** builds up across the three streams.
+Stakers have a backlog too. Older rewards that were earned but never claimed run to tens of thousands of AAVE, and on Sep 25 2026 the DAO raised the amount stakers can draw from the reserve to about **30,830 AAVE**. It plans to fund roughly **37,875 AAVE** more of that backlog in later steps, so the payout could run faster than 150 a day for a while. We book the pace that really happened.
 
-Foundation and unscheduled unlocks book zero. The reserve made no one-off payment in the window; its last one was a 40,000 AAVE grant on Mar 3 2026, and no new grant is set for the next 90 days. Long-term locks and bankruptcy estates also book zero. No court case or failed firm holds AAVE, and the old LEND swap contract closed in May 2026, sending its last 302,384 AAVE back into the reserve rather than out to the market.
+**Vesting unlocks, about 5,882 AAVE.** Three streams pay AAVE out of the reserve second by second. The largest is the **75,000 AAVE** grant to Aave Labs, approved on Apr 12 2026 and paid out evenly until Apr 12 2030. Aave Labs drew **4,674 AAVE** from it in this window, on Sep 29 and Oct 30 2026. The risk firm LlamaRisk has a **5,000 AAVE** stream that ends on May 27 2027 and drew **1,208 AAVE**. The treasury manager TokenLogic has its own **5,000 AAVE** stream, running to Jun 27 2027, and has not drawn a single coin yet. Over the next 90 days the three streams release about **7,089 AAVE**, which is why the forward figure sits a little higher than the last one.
+
+**Foundation and unscheduled unlocks, 0.** The reserve only moves by DAO vote, and in this window it paid nothing beyond staking rewards and the three streams. **Long-term locks or bankruptcy, 0.** No court case or bankrupt firm holds AAVE for a later payout.
 
 ## Buy pressure: where new AAVE goes
 
-The buyback row is zero. The DAO bought AAVE every week from April 2025, but it paused on Apr 19 2026, the day after the rsETH bridge hack, to keep cash on hand. In June 2026 founder Stani Kulechov announced "Aavenomics 3.0" with automatic buybacks, yet no AAVE flowed back into the reserve in the window and the DAO wallet that holds past buybacks kept the same **240,502 AAVE** from start to end. That wallet counts as circulating, so a restart that parks coins there would still not shrink the count.
+**Programmatic buyback, 0.** The DAO bought back more than 205,000 AAVE between April 2025 and April 2026, then stopped on Apr 19 2026, after a bridge exploit pushed unbacked rsETH into Aave markets. It has not bought since. Aave's founder has talked since June 2026 about automatic buybacks and possibly a burn, but no vote, start date or size exists, and the November 2026 funding plan spends DAO money on its stablecoin runway, not on AAVE.
 
-The burn row is zero because AAVE has no burn. The supply read 16M AAVE at both ends of the window, and the token as it stands today has no way to make or destroy coins. A burn has been floated by the founder but no vote exists. The foundation buy row is zero: a fund tied to Payward, the company behind Kraken, said on Nov 5 2026 that it and its clients bought AAVE, but those coins were bought on the open market and were already circulating. The new lock row is zero too. The stake grew by 5,715 AAVE to about 2.46M AAVE, but staked AAVE still counts as circulating.
+**Protocol fee burn, 0.** AAVE has no burn, and the token contract has no function that destroys coins. The total stayed at exactly **16,000,000** through the window.
+
+**Foundation buy, 0.** No Aave body bought AAVE in this window. A fund tied to Kraken's parent company and its clients bought AAVE on the open market in early November 2026, but those coins were already circulating, so the count does not change.
+
+**New long-term lock, 0.** Staked AAVE rose by about **31,021** to **2.48M**. Stakers can leave after a short cooldown, so staked AAVE still counts as circulating.
 
 ## Foundation and overhang
 
-The one large holder outside circulation is the DAO's Ecosystem Reserve, with **559,211 AAVE** on Nov 11 2026, down from 577,310 AAVE on Aug 13 2026. About 72,600 AAVE of it is already promised to the three streams, and stakers are owed a further backlog of rewards that the DAO is funding in stages. The DAO also holds its past buybacks, **240,502 AAVE**, and Aave Labs holds **10,271 AAVE** drawn from its stream and not sold. Both of those are already counted as circulating, so selling them would weigh on the price but would not raise the count. We read the reserve balance at every check; if it pays out more than the staking rewards and the three streams, the extra is added as new supply at the next check.
+The Ecosystem Reserve is the one big pool of AAVE that is not yet circulating. It held **576,686 AAVE** on Aug 23 2026 and **558,680 AAVE** on Nov 21 2026. About **72,629 AAVE** of that is already promised to the three streams, and the staking backlog sits on top. The rest can only move if token holders vote for it.
 
-## How AAVE compares to other DeFi governance tokens
+Some wallets the DAO and its partners control hold AAVE that already counts as circulating. The Aave Finance Committee keeps **240,502 AAVE** from the old buybacks, deposited in Aave itself, and did not move it during the window. Aave Labs had about **1,098 AAVE** of its stream ready to draw on Nov 21 2026, LlamaRisk about **332**, and TokenLogic **2,008**. If any of these wallets sold, it would add selling pressure, but it would not create new AAVE.
 
-Many DeFi tokens pay their users by minting new coins on a schedule, so their supply keeps rising for years. AAVE works differently: every coin was created long ago, the cap of 16M is already reached, and new circulating coins can only come from the DAO's reserve. That puts a hard ceiling on future selling from the protocol, about 559K AAVE, or 3.6% of today's circulating supply, and the current pace of about 19K AAVE every 90 days would take years to use it up.
+## How AAVE compares to other DeFi lending tokens
 
-The other half of the comparison is the buy side. Tokens with a working buyback or burn take coins back out of circulation as the protocol earns fees, and can shrink their supply in a busy quarter. AAVE had that kind of buyer until April 2026, when the weekly purchases stopped. Today AAVE sits in the middle group: a small, predictable outflow from a capped reserve, with no programme of its own taking coins back.
+Many DeFi tokens still release large unlocked batches to early investors and teams, and some print new coins for users every week. AAVE is past both stages. Its whole supply was created in 2020, when LEND holders swapped into AAVE, so it has no investor unlock calendar at all. What remains is a small, governed drip: staking rewards and a few paid streams, all out of one reserve that token holders control.
+
+The flip side is that AAVE has no steady buyer right now. Lending rivals that run fee-funded buybacks or burns can take back part of what they release. AAVE did that until April 2026. With the buyback paused, the drip is small, but nothing offsets it.
 
 ## What to watch in the next 90 days
 
-**Aavenomics 3.0.** Automatic buybacks were announced in June 2026, and on Oct 23 2026 the community opened a debate on whether staking should share in them. A real start, especially one that sends coins back to the reserve or burns them, would add the first buy row since April 2026.
+**The Aavenomics 3.0 vote, no date yet.** If token holders approve automatic buybacks or a burn, AAVE would gain a buyer again. A burn would cut the 16M total for the first time.
 
-**The next staking allowance top-up.** The DAO tops up the reserve's allowance for staking rewards about every three months, the last one in September 2026. The next, due around December 2026, can let more of the owed backlog be claimed, which would lift the staking row above 150 AAVE a day.
+**The next staking allowance top-up, likely around late December 2026.** The DAO now refreshes it every quarter. The size of the next step shows how fast the old staking backlog will reach the market.
 
-**Aave Labs draws, around Nov 30 and Dec 30 2026.** Aave Labs has drawn its stream near the end of each month, about 1,560 AAVE at a time. Draws on that rhythm keep the stream row on its expected path.
+**Stream draws from Aave Labs, LlamaRisk and TokenLogic.** Aave Labs drew near the end of September and October 2026. TokenLogic's first draw, with **2,008 AAVE** waiting, would push the next figure toward our forward estimate.
 
-**The TokenLogic stream.** TokenLogic has drawn nothing since its stream began on Jun 27 2026, so close to 1,900 AAVE has built up. One draw would add that amount at once.
+**The Umbrella reward renewal on Dec 2 2026.** The DAO plans to extend the rewards for its newer safety pools to Apr 2 2027. Those rewards are paid in deposit tokens, not in AAVE, so they do not change the AAVE count.
 
 ## Summary
 
-AAVE's supply grew about **+0.12%** from Aug 13 to Nov 11 2026, a mixed reading with supply roughly steady, and the next 90 days look about the same. All 16M AAVE already exist, so the growth is the DAO's Ecosystem Reserve paying **12,180 AAVE** in staking rewards and **5,882 AAVE** to Aave Labs, LlamaRisk and TokenLogic. Nothing takes AAVE back today, because buybacks have been paused since Apr 19 2026 and the token has no burn. The ceiling on future protocol selling is the reserve itself, about 559K AAVE.
+All 16M AAVE already exist, and the only new supply is what the DAO pays out of its Ecosystem Reserve.
 
-*MrNasDog Pressure Framework analysis of AAVE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 11 2026.*
+From Aug 23 to Nov 21 2026 the reserve released 18,005 AAVE to stakers and paid streams, lifting circulating supply by +0.12%, close to the +0.10% other trackers show.
+
+Nothing came back the other way, because the DAO paused AAVE buybacks on Apr 19 2026 and AAVE has no burn.
+
+The next 90 days should look about the same, at +0.12%, unless a vote restarts buybacks or adds a burn.
+
+*MrNasDog Pressure Framework analysis of AAVE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 21 2026.*

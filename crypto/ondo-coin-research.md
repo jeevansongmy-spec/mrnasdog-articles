@@ -1,6 +1,6 @@
 ---
 title:         "Ondo Finance (ONDO) Supply & Demand: +35.12% New Supply in 90 Days"
-description:   "Ondo Finance (ONDO) supply changes +35.12% over the next 90 days and +35.12% over a year (checked Nov 11 2026)."
+description:   "Ondo Finance (ONDO) supply changes +35.12% over the next 90 days and +35.12% over a year (checked Nov 21 2026)."
 canonical_url: "https://mrnasdog.com/research/ondo"
 content_type:  "coin_hub"
 tags:          ["crypto", "ondo", "ondofinance", "should-i-buy"]
@@ -10,7 +10,7 @@ published:     true
 
 *Live page: https://mrnasdog.com/research/ondo · checked Nov 21 2026*
 
-Ondo Finance (ONDO) supply changes **+35.12%** over the next 90 days and **+35.12%** over a year (checked Nov 11 2026).
+Ondo Finance (ONDO) supply changes **+35.12%** over the next 90 days and **+35.12%** over a year (checked Nov 21 2026).
 
 - **Long-run signal:** negative (by the law of supply and demand)
 - **Score:** 2.5/10 — supply 0/5, demand 2.5/5
@@ -24,18 +24,18 @@ Besides supply and demand, we track 2 price drivers for Ondo Finance: 1 ▲ and 
 
 ### ▲ Ondo tokenized assets
 
-Tokenized stocks hit a new high near $1.4B; treasuries flat.
+Tokenized stocks dipped from a Nov 12 high; treasuries flat.
 
 More money tokenized → price up · Money leaves → price down. Right now it points up.
 
 | Date | Treasury tokens (USDY+OUSG) | Tokenized stocks |
 |---|---|---|
+| Aug 31 2026 | $2.55B | $1.03B |
 | Sep 30 2026 | $2.51B | $1.29B |
 | Oct 31 2026 | $2.7B | $1.37B |
-| Nov 10 2026 | — | $1.44B |
-| Nov 11 2026 | $2.71B | — |
+| Nov 21 2026 | $2.69B | $1.36B |
 
-*Checked Nov 11 2026*
+*Checked Nov 21 2026*
 
 ### ▼ Who runs Ondo
 
@@ -52,11 +52,11 @@ Good for the price: Clear, stable leadership. Bad for it: Long court fight. Now:
 | Sep 24 2026 | Sale report; Ondo denies |
 | No date yet | Delaware court ruling (coming) |
 
-*Checked Nov 11 2026*
+*Checked Nov 21 2026*
 
 ## Supply: how much new ONDO is coming
 
-Ondo Finance's ONDO: a flat 90 days, then the yearly unlock of 1.71B ONDO on Jan 18 2027 adds about 35%, with nothing buying coins back.
+Ondo Finance's ONDO had a flat quarter, but 1.71B ONDO unlock on Jan 18 2027, about 35% more in circulation, and nothing buys ONDO back.
 
 Over the next 90 days ONDO supply changes +35.12%; across a full year, +35.12%. That puts supply at 0/5 (extreme), #2 of 100 for new supply.
 
@@ -70,31 +70,31 @@ Extra Ondo Finance demand detail for members stays on the live page.
 
 ### Is Ondo Finance (ONDO) inflationary or deflationary?
 
-As of Nov 11 2026, Ondo Finance (ONDO) supply moves +35.12% in 90 days and +35.12% in a year, so ONDO is inflationary. New ONDO outweighs what is burned or bought back.
+As of Nov 21 2026, Ondo Finance (ONDO) supply moves +35.12% in 90 days and +35.12% in a year, so ONDO is inflationary. New ONDO outweighs what is burned or bought back.
 
 ### What is the ONDO inflation rate in 2026?
 
-Ondo Finance (ONDO) supply grows +35.12% over the next 12 months and +35.12% over the next 90 days (checked Nov 11 2026). That puts ONDO #2 of 100 coins we track for new supply (#1 = the most new supply).
+Ondo Finance (ONDO) supply grows +35.12% over the next 12 months and +35.12% over the next 90 days (checked Nov 21 2026). That puts ONDO #2 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next ONDO token unlock?
 
-The next Ondo Finance (ONDO) unlock we track is on Jan 18 2027: about 1.71B ONDO, 35.12% of the ONDO in circulation (Yearly unlock: ecosystem fund, Foundation, investors). Checked Nov 11 2026.
+The next Ondo Finance (ONDO) unlock we track is on Jan 18 2027: about 1.71B ONDO, 35.12% of the ONDO in circulation (Yearly ONDO unlock — About 35% more ONDO in circulation). Checked Nov 21 2026.
 
 ### Does Ondo Finance burn or buy back ONDO?
 
-Not in a way that removes ONDO today: nothing takes ONDO off the market over the next 90 days (checked Nov 11 2026). No buyback, no burn and no staking lock. The Foundation's 300M payouts in August and September used coins already counted.
+Not in a way that removes ONDO today: nothing takes ONDO off the market over the next 90 days (checked Nov 21 2026). No buyback, no burn and no staking lock. The Foundation's 150M payout on Sep 23 2026 used coins already counted.
 
 ### Where does new ONDO supply come from?
 
-In our count, about 1.71B new ONDO reaches the market over the next 90 days (checked Nov 11 2026). How it works: No mint and no unlock from Aug 13 to Nov 11 2026. The yearly unlock on Jan 18 2027 opens 1.71B ONDO, about 35% more coins in circulation.
+In our count, about 1.71B new ONDO reaches the market over the next 90 days (checked Nov 21 2026). How it works: No mint and no unlock from Aug 23 to Nov 21 2026. The yearly unlock on Jan 18 2027 opens 1.71B ONDO, about 35% more coins in circulation.
 
 ### How much ONDO is in circulation?
 
-Ondo Finance (ONDO) has about 4.87B coins in circulation as of Nov 11 2026; the next 90 days change that by +35.12% (+35.12% over a year).
+Ondo Finance (ONDO) has about 4.87B coins in circulation as of Nov 21 2026; the next 90 days change that by +35.12% (+35.12% over a year).
 
-### Does ONDO have more new supply than OKB, ASTER or PUMP?
+### Does ONDO have more new supply than WLFI, SKY or ENA?
 
-Over the next 90 days (checked Nov 11 2026): ONDO +35.12%, OKB 0.00%, ASTER +0.26%, PUMP −4.31%. ONDO has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 21 2026): ONDO +35.12%, WLFI −0.30%, SKY −0.24%, ENA +2.08%. ONDO has the most new supply of these 4 coins.
 
 ## More on Ondo Finance
 

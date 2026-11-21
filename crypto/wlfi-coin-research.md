@@ -1,32 +1,32 @@
 ---
-title:         "World Liberty Financial (WLFI) Inflation Rate: +0.01% New Supply in 90 Days"
-description:   "WLFI creates no new coins and most of its supply stays locked until May 2028, so circulating supply grew only about 0.01% in 90 days, all from late early-buyer claims."
+title:         "World Liberty Financial (WLFI) Inflation Rate: −0.30% Supply in 90 Days"
+description:   "WLFI mints no new coins and most of its supply is locked until May 2028. A new buyback burned 100M WLFI on Nov 20 2026, so circulating supply fell about 0.30% in 90 days."
 canonical_url: "https://mrnasdog.com/research/wlfi"
 content_type:  "coin_hub"
 tags:          ["crypto", "wlfi", "worldlibertyfinancia", "should-i-buy"]
 published:     true
 ---
-# World Liberty Financial (WLFI) Inflation Rate: +0.01% New Supply in 90 Days
+# World Liberty Financial (WLFI) Inflation Rate: −0.30% Supply in 90 Days
 
 *Source: https://mrnasdog.com/research/wlfi — numbers checked Nov 21 2026*
 
-**+0.01%** in 90 days, **+0.05%** in a year: that is how fast World Liberty Financial (WLFI) supply changes as of Nov 12 2026.
+**−0.30%** in 90 days, **−1.21%** in a year: that is how fast World Liberty Financial (WLFI) supply changes as of Nov 21 2026.
 
 - **Long-run signal:** mixed — WLFI, read by supply and demand
-- **Score:** 7.5/10 — supply 4/5, demand 3.5/5
-- **New supply:** +0.01% in 90 days · +0.05% in a year
+- **Score:** 8.5/10 — supply 5/5, demand 3.5/5
+- **New supply:** −0.30% in 90 days · −1.21% in a year
 - **Demand:** strong (3.5/5)
 - **Price drivers:** 0 ▲ price up · 1 ▼ price down
 
 ## Supply — new WLFI in the next 90 days
 
-WLFI creates no new coins and most of its supply stays locked until May 2028, so circulating supply grew only about 0.01% in 90 days, all from late early-buyer claims.
+WLFI mints no new coins and most of its supply is locked until May 2028. A new buyback burned 100M WLFI on Nov 20 2026, so circulating supply fell about 0.30% in 90 days.
 
-Expect +0.01% more WLFI in 90 days (+0.05% over the year). On supply alone World Liberty Financial gets 4/5 — tight, #75 of 100 for new supply.
+Expect −0.30% more WLFI in 90 days (−1.21% over the year). On supply alone World Liberty Financial gets 5/5 — shrinking, #100 of 100 for new supply.
 
 ## Demand today
 
-How much do people want WLFI? **strong** — 3.5 out of 5, #20 of 109.
+How much do people want WLFI? **strong** — 3.5 out of 5, #21 of 109.
 
 The members-only part of WLFI's demand section is not included.
 
@@ -36,7 +36,7 @@ World Liberty Financial has 2 price drivers. Right now: 0 up, 1 down.
 
 ### ▼ USD1 size
 
-USD1 keeps shrinking, now far below its Jan 2026 high.
+USD1 keeps shrinking; now under $3B, far below Jan 2026.
 
 ▲ Price up if: More USD1 in use. ▼ Price down if: USD1 shrinks. Now: ▼ down side.
 
@@ -45,13 +45,13 @@ USD1 keeps shrinking, now far below its Jan 2026 high.
 | Aug 31 2026 | $4.2B |
 | Sep 30 2026 | $4.43B |
 | Oct 31 2026 | $3.89B |
-| Nov 21 2026 | $2.9B |
+| Nov 22 2026 | $2.88B |
 
-*Checked Nov 12 2026*
+*Checked Nov 21 2026*
 
 ### • Bank charter fight
 
-Bank has an early OK; Democrats in Congress now plan probes.
+Bank has early OK; House Democrats told WLFI owners to keep records.
 
 Trust bank opens → price up · Charter blocked → price down.
 
@@ -60,43 +60,43 @@ Trust bank opens → price up · Charter blocked → price down.
 | Jan 2026 | Applies for trust bank |
 | Aug 14 2026 | OCC: early bank OK |
 | Oct 2 2026 | Banks sue OCC charters |
-| Oct 22 2026 | Circle holder sues WLFI |
 | Nov 3 2026 | Sun seeks sanctions |
 | Nov 3 2026 | Democrats win Congress |
+| Nov 18 2026 | House: keep WLFI records |
 | Soon (no date) | WLFI app launch (coming) |
 | No date yet | Bank opens, issues USD1 (coming) |
 
-*Checked Nov 12 2026*
+*Checked Nov 21 2026*
 
 ## World Liberty Financial supply questions, answered
 
 ### Is World Liberty Financial (WLFI) inflationary or deflationary?
 
-As of Nov 12 2026, World Liberty Financial (WLFI) supply moves +0.01% in 90 days and +0.05% in a year, so WLFI is inflationary. New WLFI outweighs what is burned or bought back.
+As of Nov 21 2026, World Liberty Financial (WLFI) supply moves −0.30% in 90 days and −1.21% in a year, so WLFI is deflationary. Burns or buybacks take out more WLFI than is created.
 
 ### What is the WLFI inflation rate in 2026?
 
-World Liberty Financial (WLFI) supply grows +0.05% over the next 12 months and +0.01% over the next 90 days (checked Nov 12 2026). That puts WLFI #75 of 100 coins we track for new supply (#1 = the most new supply).
+World Liberty Financial (WLFI) supply shrinks −1.21% over the next 12 months and −0.30% over the next 90 days (checked Nov 21 2026). That puts WLFI #100 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next WLFI token unlock?
 
-No dated World Liberty Financial (WLFI) unlock is scheduled in the next 90 days (checked Nov 12 2026). New WLFI still arrives: about 4.27M WLFI in 90 days.
+No dated World Liberty Financial (WLFI) unlock is scheduled in the next 90 days (checked Nov 21 2026). New WLFI still arrives: about 4.02M WLFI in 90 days.
 
 ### Does World Liberty Financial burn or buy back WLFI?
 
-Not in a way that removes WLFI today: nothing takes WLFI off the market over the next 90 days (checked Nov 12 2026). Nothing took WLFI out of circulation in 90 days. The one burn, 20M WLFI on Sep 7 2026, came from an insider's locked coins, and the buyback that began on Nov 9 2026 has no size or burn promise yet.
+Yes. In our count, about 100M WLFI is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 21 2026). How it works: World Liberty bought back WLFI and burned 100M on Nov 20 2026, paid partly from USD1 reserve income. It set no size or schedule; we count about the same 100M for the next 90 days.
 
 ### Where does new WLFI supply come from?
 
-In our count, about 4.27M new WLFI reaches the market over the next 90 days (checked Nov 12 2026). How it works: No WLFI is created. The only new coins are early buyers taking their first 20%: 4.27M WLFI left the unlock contract in 90 days, and about the same is due next. Everything else stays locked until May 6 2028.
+In our count, about 4.02M new WLFI reaches the market over the next 90 days (checked Nov 21 2026). How it works: No WLFI is minted. The only new coins are early buyers claiming their first 20%: 4.02M WLFI left the vesting contract in 90 days, and about the same is due next. The rest stays locked until May 6 2028.
 
 ### How much WLFI is in circulation?
 
-World Liberty Financial (WLFI) has about 31.8B coins in circulation as of Nov 12 2026; the next 90 days change that by +0.01% (+0.05% over a year).
+World Liberty Financial (WLFI) has about 31.7B coins in circulation as of Nov 21 2026; the next 90 days change that by −0.30% (−1.21% over a year).
 
-### Does WLFI have more new supply than PUMP, DOT or ICP?
+### Does WLFI have more new supply than MORPHO, ONDO or SKY?
 
-Over the next 90 days (checked Nov 12 2026): WLFI +0.01%, PUMP −4.31%, DOT +0.81%, ICP +0.61%. WLFI sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 21 2026): WLFI −0.30%, MORPHO +6.15%, ONDO +35.12%, SKY −0.24%. WLFI has the least new supply of these 4 coins.
 
 ## Go deeper on World Liberty Financial
 
