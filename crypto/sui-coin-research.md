@@ -8,11 +8,11 @@ published:     true
 ---
 # Sui Network (SUI) Tokenomics: +1.46% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/sui (checked Nov 20 2026)*
+*Originally published at https://mrnasdog.com/research/sui (checked Nov 21 2026)*
 
 As of Nov 20 2026, new Sui Network supply runs at **+1.46%** over 90 days and **+5.24%** over 12 months.
 
-- **Signal today:** mixed (Nov 20 2026)
+- **Signal today:** mixed (Nov 21 2026)
 - **MrNasDog score:** 4/10 — supply 1.5/5, demand 2.5/5
 - **New coins:** +1.46% in 90 days · +5.24% in a year
 - **Demand:** modest (2.5/5)
@@ -61,7 +61,7 @@ New SUI: +1.46% in 90 days, +5.24% in a year. Supply score 1.5/5, "heavy", #37 o
 
 ## SUI demand
 
-Sui Network demand: 2.5/5 (**modest**), place #46 among 109 coins — interest today plus the buying that could come later.
+Sui Network demand: 2.5/5 (**modest**), place #45 among 109 coins — interest today plus the buying that could come later.
 
 Extra Sui Network demand detail for members stays on the live page.
 

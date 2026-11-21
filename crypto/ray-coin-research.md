@@ -8,7 +8,7 @@ published:     true
 ---
 # Raydium (RAY) Inflation Rate: +0.16% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/ray — numbers checked Nov 19 2026*
+*Source: https://mrnasdog.com/research/ray — numbers checked Nov 21 2026*
 
 **+0.16%** in 90 days, **+0.63%** in a year: that is how fast Raydium (RAY) supply changes as of Nov 19 2026.
 

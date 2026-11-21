@@ -8,7 +8,7 @@ published:     true
 ---
 # Flare (FLR) Inflation Rate: +1.01% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/flr — numbers checked Nov 17 2026*
+*Source: https://mrnasdog.com/research/flr — numbers checked Nov 21 2026*
 
 **+1.01%** in 90 days, **+4.11%** in a year: that is how fast Flare (FLR) supply changes as of Nov 15 2026.
 
@@ -56,7 +56,7 @@ Expect +1.01% more FLR in 90 days (+4.11% over the year). On supply alone Flare 
 
 ## Demand today
 
-How much do people want FLR? **very weak** — 1.5 out of 5, #77 of 109.
+How much do people want FLR? **very weak** — 1.5 out of 5, #76 of 109.
 
 (Members see more FLR demand detail on the page; it is not repeated here.)
 
@@ -75,7 +75,7 @@ More XRP comes in → price up · XRP leaves Flare → price down. Now: ▼ down
 | Aug 31 2026 | 147 M FXRP |
 | Sep 30 2026 | 144 M FXRP |
 | Oct 31 2026 | 144 M FXRP |
-| Nov 17 2026 | 145 M FXRP |
+| Nov 21 2026 | 145 M FXRP |
 
 *Checked Nov 15 2026*
 

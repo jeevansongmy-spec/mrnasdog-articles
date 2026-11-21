@@ -8,7 +8,7 @@ published:     true
 ---
 # Is GRAM Inflationary? +3.78% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/gram, updated Nov 20 2026*
+*From https://mrnasdog.com/research/gram, updated Nov 21 2026*
 
 How much new GRAM is coming? **+3.78%** in the next 90 days, **+12.56%** in the next year — checked Nov 20 2026.
 
@@ -64,7 +64,7 @@ Gram adds +3.78% new supply in the next 90 days and +12.56% over a year — supp
 
 ## Demand: how much people want GRAM
 
-Demand reads **modest** (2.5/5), #46 of 109 coins we track — that is how much people want GRAM now and how much buying could still come.
+Demand reads **modest** (2.5/5), #45 of 109 coins we track — that is how much people want GRAM now and how much buying could still come.
 
 (Members see more GRAM demand detail on the page; it is not repeated here.)
 

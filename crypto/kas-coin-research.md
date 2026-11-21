@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Kaspa (KAS) Inflationary? +0.51% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/kas, updated Nov 17 2026*
+*From https://mrnasdog.com/research/kas, updated Nov 21 2026*
 
 How much new KAS is coming? **+0.51%** in the next 90 days, **+1.61%** in the next year — checked Nov 13 2026.
 
@@ -50,7 +50,7 @@ Good for the price: Miners return. Bad for it: Miners leave.
 | Aug 31 2026 | 326 PH/s |
 | Sep 30 2026 | 346 PH/s |
 | Oct 31 2026 | 365 PH/s |
-| Nov 17 2026 | 328 PH/s |
+| Nov 21 2026 | 306 PH/s |
 
 *Checked Nov 13 2026*
 
@@ -62,7 +62,7 @@ Kaspa adds +0.51% new supply in the next 90 days and +1.61% over a year — supp
 
 ## Demand: how much people want KAS
 
-Demand reads **moderate** (3/5), #37 of 109 coins we track — that is how much people want KAS now and how much buying could still come.
+Demand reads **moderate** (3/5), #36 of 109 coins we track — that is how much people want KAS now and how much buying could still come.
 
 The members-only part of KAS's demand section is not included.
 

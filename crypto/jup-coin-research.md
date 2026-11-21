@@ -8,11 +8,11 @@ published:     true
 ---
 # Jupiter (JUP) Tokenomics: −0.01% Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/jup (checked Nov 19 2026)*
+*Originally published at https://mrnasdog.com/research/jup (checked Nov 21 2026)*
 
 As of Nov 19 2026, new Jupiter supply runs at **−0.01%** over 90 days and **−0.05%** over 12 months.
 
-- **Long-run signal:** positive (Nov 19 2026)
+- **Long-run signal:** positive (Nov 21 2026)
 - **Score:** 8/10 — supply 4.5/5, demand 3.5/5
 - **New supply:** −0.01% in 90 days · −0.05% in a year
 - **Demand:** strong (3.5/5)
@@ -26,7 +26,7 @@ New JUP: −0.01% in 90 days, −0.05% in a year. Supply score 4.5/5, "shrinking
 
 ## Who wants Jupiter right now
 
-Jupiter demand: 3.5/5 (**strong**), place #22 among 109 coins — interest today plus the buying that could come later.
+Jupiter demand: 3.5/5 (**strong**), place #20 among 109 coins — interest today plus the buying that could come later.
 
 A deeper JUP demand breakdown is on the page for members.
 
@@ -60,7 +60,7 @@ Lending keeps growing → price up · Deposits leave → price down. Now: ▲ up
 | Aug 31 2026 | $1.08B | $1.24B |
 | Sep 30 2026 | $1.17B | $1.42B |
 | Oct 31 2026 | $0.93B | $1.23B |
-| Nov 20 2026 | $0.956B | $1.15B |
+| Nov 21 2026 | $0.943B | $1.13B |
 
 *Checked Nov 19 2026*
 

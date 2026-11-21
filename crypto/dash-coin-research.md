@@ -8,7 +8,7 @@ published:     true
 ---
 # DASH Supply & Demand: +0.72% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/dash · checked Nov 17 2026*
+*Live page: https://mrnasdog.com/research/dash · checked Nov 21 2026*
 
 DASH supply changes **+0.72%** over the next 90 days and **+2.89%** over a year (checked Nov 14 2026).
 
@@ -22,11 +22,11 @@ DASH supply changes **+0.72%** over the next 90 days and **+2.89%** over a year 
 
 Dash pays miners, masternodes and a voted treasury in new DASH, and its app layer moves coins in and out. Supply grew +0.72% in 90 days, about the same next.
 
-Over the next 90 days DASH supply changes +0.72%; across a full year, +2.89%. That puts supply at 2.5/5 (moderate) (place 55 of 100).
+Over the next 90 days DASH supply changes +0.72%; across a full year, +2.89%. That puts supply at 2.5/5 (moderate) (place 54 of 100).
 
 ## DASH demand
 
-People's appetite for Dash is **modest**: 2.5/5, ranked #47 of 109.
+People's appetite for Dash is **modest**: 2.5/5, ranked #45 of 109.
 
 The members-only part of DASH's demand section is not included.
 
@@ -78,7 +78,7 @@ As of Nov 14 2026, DASH supply moves +0.72% in 90 days and +2.89% in a year, so 
 
 ### What is the DASH inflation rate in 2026?
 
-DASH supply grows +2.89% over the next 12 months and +0.72% over the next 90 days (checked Nov 14 2026). That puts DASH #55 of 100 coins we track for new supply (#1 = the most new supply).
+DASH supply grows +2.89% over the next 12 months and +0.72% over the next 90 days (checked Nov 14 2026). That puts DASH #54 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next DASH token unlock?
 

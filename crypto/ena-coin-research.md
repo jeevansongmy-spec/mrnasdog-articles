@@ -8,7 +8,7 @@ published:     true
 ---
 # Ethena (ENA) Supply & Demand: +2.08% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/ena · checked Nov 17 2026*
+*Live page: https://mrnasdog.com/research/ena · checked Nov 21 2026*
 
 Ethena (ENA) supply changes **+2.08%** over the next 90 days and **+8.33%** over a year (checked Nov 11 2026).
 
@@ -26,7 +26,7 @@ Over the next 90 days ENA supply changes +2.08%; across a full year, +8.33%. Tha
 
 ## How strong is Ethena demand?
 
-People's appetite for Ethena is **weak**: 2/5, ranked #63 of 109.
+People's appetite for Ethena is **weak**: 2/5, ranked #64 of 109.
 
 The members-only part of ENA's demand section is not included.
 
@@ -45,7 +45,7 @@ Good for the price: More USDe in use. Bad for it: USDe shrinks. Now: ▲ up side
 | Aug 31 2026 | 4.08 B USDe |
 | Sep 30 2026 | 4.9 B USDe |
 | Oct 31 2026 | 4.53 B USDe |
-| Nov 17 2026 | 4.87 B USDe |
+| Nov 21 2026 | 4.9 B USDe |
 
 *Checked Nov 11 2026*
 
@@ -91,9 +91,9 @@ In our count, about 281M new ENA reaches the market over the next 90 days (check
 
 Ethena (ENA) has about 13.5B coins in circulation as of Nov 11 2026; the next 90 days change that by +2.08% (+8.33% over a year).
 
-### Does ENA have more new supply than CRO, OKB or PEPE?
+### Does ENA have more new supply than CRO, PEPE or M?
 
-Over the next 90 days (checked Nov 11 2026): ENA +2.08%, CRO +7.18%, OKB 0.00%, PEPE 0.00%. ENA sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 11 2026): ENA +2.08%, CRO +7.01%, PEPE 0.00%, M +1.45%. ENA sits in the middle of these 4 coins.
 
 ## Where to read the rest of ENA
 

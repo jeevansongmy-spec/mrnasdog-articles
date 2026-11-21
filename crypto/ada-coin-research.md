@@ -8,7 +8,7 @@ published:     true
 ---
 # Cardano (ADA) Inflation Rate: +0.29% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/ada — numbers checked Nov 19 2026*
+*Source: https://mrnasdog.com/research/ada — numbers checked Nov 21 2026*
 
 **+0.29%** in 90 days, **+1.12%** in a year: that is how fast Cardano (ADA) supply changes as of Nov 19 2026.
 
@@ -33,7 +33,7 @@ Small, careful payouts → price up · Big payouts get sold → price down. Toda
 | Aug 31 2026 | 1.34 B ADA |
 | Sep 30 2026 | 1.37 B ADA |
 | Oct 31 2026 | 1.39 B ADA |
-| Nov 20 2026 | 1.43 B ADA |
+| Nov 21 2026 | 1.43 B ADA |
 
 *Checked Nov 19 2026*
 

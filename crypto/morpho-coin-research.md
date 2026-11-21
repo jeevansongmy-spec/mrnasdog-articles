@@ -8,7 +8,7 @@ published:     true
 ---
 # Is MORPHO Inflationary? +6.15% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/morpho, updated Nov 17 2026*
+*From https://mrnasdog.com/research/morpho, updated Nov 21 2026*
 
 How much new MORPHO is coming? **+6.15%** in the next 90 days, **+24.58%** in the next year — checked Nov 12 2026.
 
@@ -26,7 +26,7 @@ Morpho adds +6.15% new supply in the next 90 days and +24.58% over a year — su
 
 ## MORPHO demand
 
-Demand reads **very weak** (1.5/5), #77 of 109 coins we track — that is how much people want MORPHO now and how much buying could still come.
+Demand reads **very weak** (1.5/5), #76 of 109 coins we track — that is how much people want MORPHO now and how much buying could still come.
 
 Extra Morpho demand detail for members stays on the live page.
 
@@ -45,7 +45,7 @@ More Coinbase loans → price up · Coinbase pulls back → price down. Now: ▲
 | Aug 31 2026 | $1,353M |
 | Sep 30 2026 | $1,496M |
 | Oct 31 2026 | $1,616M |
-| Nov 17 2026 | $1,530M |
+| Nov 21 2026 | $1,470M |
 
 *Checked Nov 12 2026*
 

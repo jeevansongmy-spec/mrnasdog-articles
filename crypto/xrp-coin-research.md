@@ -8,7 +8,7 @@ published:     true
 ---
 # XRP Supply & Demand: +1.42% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/xrp · checked Nov 18 2026*
+*Live page: https://mrnasdog.com/research/xrp · checked Nov 21 2026*
 
 XRP supply changes **+1.42%** over the next 90 days and **+5.67%** over a year (checked Nov 18 2026).
 
@@ -33,9 +33,9 @@ Besides supply and demand, we track 3 price drivers for XRP: 0 ▲ and 2 ▼ rig
 | Aug 31 2026 | 32 B XRP |
 | Sep 30 2026 | 31.7 B XRP |
 | Oct 31 2026 | 31.4 B XRP |
-| Nov 19 2026 | 31.1 B XRP |
+| Nov 21 2026 | 31.1 B XRP |
 
-*Checked Nov 19 2026*
+*Checked Nov 21 2026*
 
 ### ▼ US crypto law
 
@@ -74,7 +74,7 @@ ETFs hold more → price up · ETFs hold less → price down. Today: the price-d
 
 No XRP is ever minted, but Ripple paid 996.64M XRP into the market in 90 days from its monthly escrow openings, against a tiny fee burn. Supply +1.57% in 90 days.
 
-Over the next 90 days XRP supply changes +1.42%; across a full year, +5.67%. That puts supply at 2/5 (growing) (place 39 of 100).
+Over the next 90 days XRP supply changes +1.42%; across a full year, +5.67%. That puts supply at 2/5 (growing) (place 40 of 100).
 
 ## How strong is XRP demand?
 
@@ -90,7 +90,7 @@ As of Nov 18 2026, XRP supply moves +1.42% in 90 days and +5.67% in a year, so X
 
 ### What is the XRP inflation rate in 2026?
 
-XRP supply grows +5.67% over the next 12 months and +1.42% over the next 90 days (checked Nov 18 2026). That puts XRP #39 of 100 coins we track for new supply (#1 = the most new supply).
+XRP supply grows +5.67% over the next 12 months and +1.42% over the next 90 days (checked Nov 18 2026). That puts XRP #40 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next XRP token unlock?
 

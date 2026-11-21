@@ -8,7 +8,7 @@ published:     true
 ---
 # Is PIEVERSE Inflationary? +19.87% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/pieverse, updated Nov 17 2026*
+*From https://mrnasdog.com/research/pieverse, updated Nov 21 2026*
 
 How much new PIEVERSE is coming? **+19.87%** in the next 90 days, **+104.16%** in the next year — checked Nov 15 2026.
 
@@ -63,7 +63,7 @@ Real users and payments → price up · Products stay unused → price down.
 
 ## Demand: how much people want PIEVERSE
 
-Demand reads **very weak** (1.5/5), #77 of 109 coins we track — that is how much people want PIEVERSE now and how much buying could still come.
+Demand reads **very weak** (1.5/5), #76 of 109 coins we track — that is how much people want PIEVERSE now and how much buying could still come.
 
 The members-only part of PIEVERSE's demand section is not included.
 
@@ -93,9 +93,9 @@ In our count, about 54.6M new PIEVERSE reaches the market over the next 90 days 
 
 About 275M PIEVERSE is in circulation (checked Nov 15 2026). Over the next 90 days that changes +19.87%, and over a year +104.16%.
 
-### Does PIEVERSE have more new supply than RAY, DASH or BLIFE?
+### Does PIEVERSE have more new supply than ETHFI, DASH or BLIFE?
 
-Over the next 90 days (checked Nov 15 2026): PIEVERSE +19.87%, RAY +0.16%, DASH +0.72%, BLIFE 0.00%. PIEVERSE has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 15 2026): PIEVERSE +19.87%, ETHFI 0.00%, DASH +0.72%, BLIFE 0.00%. PIEVERSE has the most new supply of these 4 coins.
 
 ## Next steps for PIEVERSE
 

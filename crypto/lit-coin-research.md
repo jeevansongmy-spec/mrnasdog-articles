@@ -8,14 +8,14 @@ published:     true
 ---
 # Is Lighter (LIT) Inflationary? +8.94% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/lit, updated Nov 17 2026*
+*From https://mrnasdog.com/research/lit, updated Nov 21 2026*
 
 How much new LIT is coming? **+8.94%** in the next 90 days, **+58.77%** in the next year — checked Nov 13 2026.
 
 - **Signal:** negative for Lighter
-- **Score:** 4/10 — supply 0.5/5, demand 3.5/5
+- **Score:** 4.5/10 — supply 0.5/5, demand 4/5
 - **Supply growth:** +8.94% in 90 days · +58.77% in a year
-- **How much people want it:** strong (3.5/5)
+- **How much people want it:** strong (4/5)
 - **Price drivers:** 1 ▲ price up · 2 ▼ price down
 
 ## Lighter (LIT) supply: questions people ask
@@ -44,9 +44,9 @@ In our count, about 22.4M new LIT reaches the market over the next 90 days (chec
 
 About 250M LIT is in circulation (checked Nov 13 2026). Over the next 90 days that changes +8.94%, and over a year +58.77%.
 
-### Does LIT have more new supply than KAS, ALGO or NIGHT?
+### Does LIT have more new supply than KAS, ALGO or RENDER?
 
-Over the next 90 days (checked Nov 13 2026): LIT +8.94%, KAS +0.51%, ALGO +0.43%, NIGHT 0.00%. LIT has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 13 2026): LIT +8.94%, KAS +0.51%, ALGO +0.43%, RENDER +0.08%. LIT has the most new supply of these 4 coins.
 
 ## Where new Lighter comes from
 
@@ -56,7 +56,7 @@ Lighter adds +8.94% new supply in the next 90 days and +58.77% over a year — s
 
 ## How strong is Lighter demand?
 
-Demand reads **strong** (3.5/5), #20 of 109 coins we track — that is how much people want LIT now and how much buying could still come.
+Demand reads **strong** (4/5), #9 of 109 coins we track — that is how much people want LIT now and how much buying could still come.
 
 A deeper LIT demand breakdown is on the page for members.
 
@@ -75,7 +75,7 @@ Down by half since Dec 2025; slipping again since Sep 30.
 | Aug 31 2026 | $591M |
 | Sep 30 2026 | $656M |
 | Oct 31 2026 | $582M |
-| Nov 17 2026 | $491M |
+| Nov 21 2026 | $481M |
 
 *Checked Nov 13 2026*
 
@@ -90,7 +90,7 @@ Good for the price: Robinhood users add money. Bad for it: Robinhood users pull 
 | Aug 31 2026 | $47.6M |
 | Sep 30 2026 | $107M |
 | Oct 31 2026 | $112M |
-| Nov 17 2026 | $102M |
+| Nov 21 2026 | $97.9M |
 
 *Checked Nov 13 2026*
 

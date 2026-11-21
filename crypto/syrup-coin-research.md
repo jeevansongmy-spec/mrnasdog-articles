@@ -1,6 +1,6 @@
 ---
 title:         "Maple Finance (SYRUP) Tokenomics: +0.82% New Supply in 90 Days"
-description:   "As of Nov 7 2026, new Maple Finance supply runs at +0.82% over 90 days and +3.28% over 12 months."
+description:   "As of Nov 17 2026, new Maple Finance supply runs at +0.82% over 90 days and +3.33% over 12 months."
 canonical_url: "https://mrnasdog.com/research/syrup"
 content_type:  "coin_hub"
 tags:          ["crypto", "syrup", "maplefinance", "should-i-buy"]
@@ -8,52 +8,52 @@ published:     true
 ---
 # Maple Finance (SYRUP) Tokenomics: +0.82% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/syrup (checked Nov 17 2026)*
+*Originally published at https://mrnasdog.com/research/syrup (checked Nov 21 2026)*
 
-As of Nov 7 2026, new Maple Finance supply runs at **+0.82%** over 90 days and **+3.28%** over 12 months.
+As of Nov 17 2026, new Maple Finance supply runs at **+0.82%** over 90 days and **+3.33%** over 12 months.
 
-- **Signal today:** mixed (Nov 17 2026)
+- **Signal today:** mixed (Nov 21 2026)
 - **MrNasDog score:** 5.5/10 — supply 2.5/5, demand 3/5
-- **New coins:** +0.82% in 90 days · +3.28% in a year
+- **New coins:** +0.82% in 90 days · +3.33% in a year
 - **Demand:** moderate (3/5)
-- **Drivers:** 1 ▲ price up · 1 ▼ price down
+- **Drivers:** 0 ▲ price up · 1 ▼ price down
 
 ## New SYRUP hitting the market
 
-Maple Finance stopped minting SYRUP on Oct 1 2026, but its treasury still pays about 3M SYRUP a month into the market: supply up 0.84% in 90 days.
+SYRUP minting ended on Oct 1 2026, but Maple's treasury still pays about 3M SYRUP into the market each month, so supply grows about 0.84% per 90 days; buybacks are kept, not burned.
 
-New SYRUP: +0.82% in 90 days, +3.28% in a year. Supply score 2.5/5, "moderate" (place 50 of 100).
+New SYRUP: +0.82% in 90 days, +3.33% in a year. Supply score 2.5/5, "moderate" (place 50 of 100).
 
 ## Who wants Maple Finance right now
 
-Maple Finance demand: 3/5 (**moderate**), place #37 among 109 coins — interest today plus the buying that could come later.
+Maple Finance demand: 3/5 (**moderate**), place #36 among 109 coins — interest today plus the buying that could come later.
 
 The members-only part of SYRUP's demand section is not included.
 
 ## Big wallets, votes and dates behind SYRUP
 
-2 things outside the score can move SYRUP's price — today 1 ▲ up, 1 ▼ down.
+2 things outside the score can move SYRUP's price — today 0 ▲ up, 1 ▼ down.
 
 ### ▼ Maple AUM
 
-AUM about 12% under its Aug 31 2026 record, still slipping.
+AUM about 19% under its Aug 31 2026 record, still falling.
 
 Good for the price: More money to lend. Bad for it: Lenders pull money out. Today: the price-down case.
 
 | Date | Maple AUM |
 |---|---|
-| Aug 31 2026 | $4.85B |
 | Sep 30 2026 | $4.73B |
 | Oct 31 2026 | $4.43B |
-| Nov 7 2026 | $4.26B |
+| Nov 7 2026 | $4.25B |
+| Nov 17 2026 | $3.94B |
 
-*Checked Nov 7 2026*
+*Checked Nov 17 2026*
 
-### ▲ Big partners
+### • Big partners
 
-Partners keep arriving; IRACE bank joined on Oct 6 2026.
+No new big partner since IRACE bank on Oct 6 2026.
 
-New big partners join → price up · Partners leave or default → price down. Now: ▲ up side.
+New big partners join → price up · Partners leave or default → price down.
 
 | Date | What happened / what is coming |
 |---|---|
@@ -66,37 +66,37 @@ New big partners join → price up · Partners leave or default → price down. 
 | Oct 6 2026 | IRACE bank for fiat |
 | Oct 13 2026 | Q3 results call |
 
-*Checked Nov 7 2026*
+*Checked Nov 17 2026*
 
 ## Questions about SYRUP supply
 
 ### Is Maple Finance (SYRUP) inflationary or deflationary?
 
-Maple Finance (SYRUP) is inflationary right now: its supply changes +0.82% over the next 90 days and +3.28% over the next year (checked Nov 7 2026). More SYRUP is added than removed.
+Maple Finance (SYRUP) is inflationary right now: its supply changes +0.82% over the next 90 days and +3.33% over the next year (checked Nov 17 2026). More SYRUP is added than removed.
 
 ### What is the SYRUP inflation rate in 2026?
 
-About +3.28% a year: that is how much Maple Finance (SYRUP) supply changes over the next 12 months, with +0.82% in the next 90 days (checked Nov 7 2026). That puts SYRUP #50 of 100 coins we track for new supply (#1 = the most new supply).
+About +3.33% a year: that is how much Maple Finance (SYRUP) supply changes over the next 12 months, with +0.82% in the next 90 days (checked Nov 17 2026). That puts SYRUP #50 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next SYRUP token unlock?
 
-No dated Maple Finance (SYRUP) unlock is scheduled in the next 90 days (checked Nov 7 2026). New SYRUP still arrives: about 9.58M SYRUP in 90 days.
+No dated Maple Finance (SYRUP) unlock is scheduled in the next 90 days (checked Nov 17 2026). New SYRUP still arrives: about 9.58M SYRUP in 90 days.
 
 ### Does Maple Finance burn or buy back SYRUP?
 
-Not in a way that removes SYRUP today: nothing takes SYRUP off the market over the next 90 days (checked Nov 7 2026). A monthly buyback from revenue bought 2.05M SYRUP in 90 days, but keeps the coins in a counted wallet.
+Not in a way that removes SYRUP today: nothing takes SYRUP off the market over the next 90 days (checked Nov 17 2026). Maple buys back SYRUP each month with 10-30% of revenue (3.13M in 90 days), but keeps the coins in a wallet that still counts as circulating, so nothing is burned or locked.
 
 ### Where does new SYRUP supply come from?
 
-In our count, about 9.58M new SYRUP reaches the market over the next 90 days (checked Nov 7 2026). How it works: Maple's treasury pays about 3M SYRUP a month into the market; minting ended Oct 1 2026.
+In our count, about 9.58M new SYRUP reaches the market over the next 90 days (checked Nov 17 2026). How it works: Minting ended Oct 1 2026, so new SYRUP now comes only from Maple's treasury: it paid 9.77M into the market in 90 days, about once a month, and still holds 90.9M.
 
 ### How much SYRUP is in circulation?
 
-About 1.17B SYRUP is in circulation (checked Nov 7 2026). Over the next 90 days that changes +0.82%, and over a year +3.28%.
+About 1.17B SYRUP is in circulation (checked Nov 17 2026). Over the next 90 days that changes +0.82%, and over a year +3.33%.
 
 ### Does SYRUP have more new supply than JTO, IMX or PONS?
 
-Over the next 90 days (checked Nov 7 2026): SYRUP +0.82%, JTO +1.92%, IMX +2.21%, PONS −20.87%. SYRUP sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 17 2026): SYRUP +0.82%, JTO +2.01%, IMX +2.21%, PONS −20.87%. SYRUP sits in the middle of these 4 coins.
 
 ## Read more on SYRUP
 

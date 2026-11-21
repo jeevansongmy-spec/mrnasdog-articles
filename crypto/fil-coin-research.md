@@ -8,14 +8,14 @@ published:     true
 ---
 # Filecoin (FIL) Tokenomics: +1.53% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/fil (checked Nov 17 2026)*
+*Originally published at https://mrnasdog.com/research/fil (checked Nov 21 2026)*
 
 As of Nov 14 2026, new Filecoin supply runs at **+1.53%** over 90 days and **+6.04%** over 12 months.
 
-- **Signal:** negative (Nov 17 2026)
-- **Score:** 3.5/10 — supply 1.5/5, demand 2/5
+- **Signal:** negative (Nov 21 2026)
+- **Score:** 3/10 — supply 1.5/5, demand 1.5/5
 - **Supply growth:** +1.53% in 90 days · +6.04% in a year
-- **How much people want it:** weak (2/5)
+- **How much people want it:** very weak (1.5/5)
 - **Price drivers:** 0 ▲ price up · 1 ▼ price down
 
 ## New FIL hitting the market
@@ -26,7 +26,7 @@ New FIL: +1.53% in 90 days, +6.04% in a year. Supply score 1.5/5, "heavy", #35 o
 
 ## Demand: how much people want FIL
 
-Filecoin demand: 2/5 (**weak**), place #63 among 109 coins — interest today plus the buying that could come later.
+Filecoin demand: 1.5/5 (**very weak**), place #76 among 109 coins — interest today plus the buying that could come later.
 
 Extra Filecoin demand detail for members stays on the live page.
 
@@ -45,7 +45,7 @@ More data stored → price up · Storage keeps shrinking → price down. Now: �
 | Aug 31 2026 | 1.38 EiB |
 | Sep 27 2026 | 1.34 EiB |
 | Oct 31 2026 | 1.21 EiB |
-| Nov 17 2026 | 1.11 EiB |
+| Nov 21 2026 | 1.11 EiB |
 
 *Checked Nov 14 2026*
 

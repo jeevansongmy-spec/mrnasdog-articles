@@ -8,7 +8,7 @@ published:     true
 ---
 # Is SPX6900 (SPX) Inflationary? 0.00% Supply in 90 Days
 
-*From https://mrnasdog.com/research/spx, updated Nov 17 2026*
+*From https://mrnasdog.com/research/spx, updated Nov 21 2026*
 
 How much new SPX is coming? **0.00%** in the next 90 days, **0.00%** in the next year — checked Nov 16 2026.
 
@@ -57,7 +57,7 @@ SPX6900 adds 0.00% new supply in the next 90 days and 0.00% over a year — supp
 
 ## Demand: how much people want SPX
 
-Demand reads **modest** (2.5/5), #47 of 109 coins we track — that is how much people want SPX now and how much buying could still come.
+Demand reads **modest** (2.5/5), #45 of 109 coins we track — that is how much people want SPX now and how much buying could still come.
 
 (Members see more SPX demand detail on the page; it is not repeated here.)
 
@@ -87,9 +87,9 @@ Almost no new SPX reaches the market over the next 90 days (checked Nov 16 2026)
 
 About 931M SPX is in circulation (checked Nov 16 2026). Over the next 90 days that changes 0.00%, and over a year 0.00%.
 
-### Does SPX have more new supply than XTZ, SEI or TRUMP?
+### Does SPX have more new supply than SUN, SEI or TRUMP?
 
-Over the next 90 days (checked Nov 16 2026): SPX 0.00%, XTZ +0.72%, SEI +4.14%, TRUMP +11.93%. SPX has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 16 2026): SPX 0.00%, SUN −0.04%, SEI +4.14%, TRUMP +11.93%. SPX sits in the middle of these 4 coins.
 
 ## Where to read the rest of SPX
 

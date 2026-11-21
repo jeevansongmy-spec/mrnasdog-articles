@@ -8,7 +8,7 @@ published:     true
 ---
 # Is AAVE Inflationary? +0.12% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/aave, updated Nov 17 2026*
+*From https://mrnasdog.com/research/aave, updated Nov 21 2026*
 
 How much new AAVE is coming? **+0.12%** in the next 90 days, **+0.49%** in the next year — checked Nov 11 2026.
 
@@ -33,7 +33,7 @@ Deposits shrank in the last 30 days; far below the 2025 peak.
 | Aug 31 2026 | $17.7B |
 | Sep 30 2026 | $19.1B |
 | Oct 31 2026 | $16B |
-| Nov 17 2026 | $15.1B |
+| Nov 21 2026 | $15.7B |
 
 *Checked Nov 11 2026*
 
@@ -91,7 +91,7 @@ AAVE is inflationary right now: its supply changes +0.12% over the next 90 days 
 
 ### What is the AAVE inflation rate in 2026?
 
-About +0.49% a year: that is how much AAVE supply changes over the next 12 months, with +0.12% in the next 90 days (checked Nov 11 2026). That puts AAVE #73 of 100 coins we track for new supply (#1 = the most new supply).
+About +0.49% a year: that is how much AAVE supply changes over the next 12 months, with +0.12% in the next 90 days (checked Nov 11 2026). That puts AAVE #72 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next AAVE token unlock?
 
@@ -109,9 +109,9 @@ In our count, about 19.3K new AAVE reaches the market over the next 90 days (che
 
 About 15.4M AAVE is in circulation (checked Nov 11 2026). Over the next 90 days that changes +0.12%, and over a year +0.49%.
 
-### Does AAVE have more new supply than PEPE, M or ONDO?
+### Does AAVE have more new supply than M, OKB or ONDO?
 
-Over the next 90 days (checked Nov 11 2026): AAVE +0.12%, PEPE 0.00%, M +1.45%, ONDO +35.12%. AAVE sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 11 2026): AAVE +0.12%, M +1.45%, OKB 0.00%, ONDO +35.12%. AAVE sits in the middle of these 4 coins.
 
 ## Read more on AAVE
 

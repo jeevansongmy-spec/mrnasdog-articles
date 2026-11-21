@@ -8,7 +8,7 @@ published:     true
 ---
 # Uniswap (UNI) Supply & Demand: −0.48% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/uni · checked Nov 20 2026*
+*Live page: https://mrnasdog.com/research/uni · checked Nov 21 2026*
 
 Uniswap (UNI) supply changes **−0.48%** over the next 90 days and **−1.92%** over a year (checked Nov 20 2026).
 

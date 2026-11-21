@@ -8,12 +8,12 @@ published:     true
 ---
 # Ethereum (ETH) Tokenomics: +0.21% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/eth (checked Nov 17 2026)*
+*Originally published at https://mrnasdog.com/research/eth (checked Nov 21 2026)*
 
 As of Nov 16 2026, new Ethereum supply runs at **+0.21%** over 90 days and **+0.86%** over 12 months.
 
-- **Signal today:** mixed (Nov 17 2026)
-- **MrNasDog score:** 7/10 — supply 3.5/5, demand 3.5/5
+- **Signal today:** mixed (Nov 21 2026)
+- **MrNasDog score:** 6.5/10 — supply 3/5, demand 3.5/5
 - **New coins:** +0.21% in 90 days · +0.86% in a year
 - **Demand:** strong (3.5/5)
 - **Drivers:** 1 ▲ price up · 2 ▼ price down
@@ -22,7 +22,7 @@ As of Nov 16 2026, new Ethereum supply runs at **+0.21%** over 90 days and **+0.
 
 Ethereum pays validators about 267K new ETH every 90 days and burns only 6.6K in fees, so supply rises about 0.21% per 90 days with no cap and no unlocks.
 
-New ETH: +0.21% in 90 days, +0.86% in a year. Supply score 3.5/5, "steady" (place 66 of 100).
+New ETH: +0.21% in 90 days, +0.86% in a year. Supply score 3/5, "light" (place 65 of 100).
 
 ## Demand today
 
@@ -90,7 +90,7 @@ Ethereum (ETH) is inflationary right now: its supply changes +0.21% over the nex
 
 ### What is the ETH inflation rate in 2026?
 
-About +0.86% a year: that is how much Ethereum (ETH) supply changes over the next 12 months, with +0.21% in the next 90 days (checked Nov 16 2026). That puts ETH #66 of 100 coins we track for new supply (#1 = the most new supply).
+About +0.86% a year: that is how much Ethereum (ETH) supply changes over the next 12 months, with +0.21% in the next 90 days (checked Nov 16 2026). That puts ETH #65 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next ETH token unlock?
 
@@ -110,7 +110,7 @@ About 122M ETH is in circulation (checked Nov 16 2026). Over the next 90 days th
 
 ### Does ETH have more new supply than BTC, BNB or XRP?
 
-Over the next 90 days (checked Nov 16 2026): ETH +0.21%, BTC +0.20%, BNB −1.19%, XRP +1.42%. ETH sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 16 2026): ETH +0.21%, BTC +0.20%, BNB −1.27%, XRP +1.42%. ETH sits in the middle of these 4 coins.
 
 ## Where to read the rest of ETH
 

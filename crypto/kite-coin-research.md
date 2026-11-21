@@ -8,7 +8,7 @@ published:     true
 ---
 # Is KITE Inflationary? +22.04% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/kite, updated Nov 17 2026*
+*From https://mrnasdog.com/research/kite, updated Nov 21 2026*
 
 How much new KITE is coming? **+22.04%** in the next 90 days, **+88.14%** in the next year — checked Nov 16 2026.
 
@@ -26,7 +26,7 @@ Kite adds +22.04% new supply in the next 90 days and +88.14% over a year — sup
 
 ## Demand today
 
-Demand reads **weak** (2/5), #63 of 109 coins we track — that is how much people want KITE now and how much buying could still come.
+Demand reads **weak** (2/5), #64 of 109 coins we track — that is how much people want KITE now and how much buying could still come.
 
 A deeper KITE demand breakdown is on the page for members.
 
@@ -45,7 +45,7 @@ Tens of thousands of transactions a day; over 4.4M since Dec 2025.
 | Nov 12 2026 | 67,107 txs |
 | Nov 13 2026 | 84,131 txs |
 | Nov 14 2026 | 81,483 txs |
-| Nov 17 2026 | 52,212 txs |
+| Nov 21 2026 | 3,334 txs |
 
 *Checked Nov 16 2026*
 
@@ -92,9 +92,9 @@ In our count, about 527M new KITE reaches the market over the next 90 days (chec
 
 About 2.39B KITE is in circulation (checked Nov 16 2026). Over the next 90 days that changes +22.04%, and over a year +88.14%.
 
-### Does KITE have more new supply than FET, BTT or GNO?
+### Does KITE have more new supply than FET, BTT or BSV?
 
-Over the next 90 days (checked Nov 16 2026): KITE +22.04%, FET +7.55%, BTT −2.56%, GNO 0.00%. KITE has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 16 2026): KITE +22.04%, FET +7.55%, BTT −2.56%, BSV +0.20%. KITE has the most new supply of these 4 coins.
 
 ## More on Kite
 

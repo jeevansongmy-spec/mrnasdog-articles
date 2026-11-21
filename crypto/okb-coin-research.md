@@ -8,7 +8,7 @@ published:     true
 ---
 # OKB Inflation Rate: 0.00% Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/okb — numbers checked Nov 19 2026*
+*Source: https://mrnasdog.com/research/okb — numbers checked Nov 21 2026*
 
 **0.00%** in 90 days, **0.00%** in a year: that is how fast OKB supply changes as of Nov 19 2026.
 
@@ -44,9 +44,9 @@ Almost no new OKB reaches the market over the next 90 days (checked Nov 19 2026)
 
 OKB has about 21M coins in circulation as of Nov 19 2026; the next 90 days change that by 0.00% (0.00% over a year).
 
-### Does OKB have more new supply than AAVE, M or ONDO?
+### Does OKB have more new supply than AAVE, ONDO or ASTER?
 
-Over the next 90 days (checked Nov 19 2026): OKB 0.00%, AAVE +0.12%, M +1.45%, ONDO +35.12%. OKB has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 19 2026): OKB 0.00%, AAVE +0.12%, ONDO +35.12%, ASTER +0.26%. OKB has the least new supply of these 4 coins.
 
 ## OKB supply
 

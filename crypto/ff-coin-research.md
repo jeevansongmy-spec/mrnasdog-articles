@@ -8,7 +8,7 @@ published:     true
 ---
 # Falcon Finance (FF) Supply & Demand: +17.18% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/ff · checked Nov 17 2026*
+*Live page: https://mrnasdog.com/research/ff · checked Nov 21 2026*
 
 Falcon Finance (FF) supply changes **+17.18%** over the next 90 days and **+68.71%** over a year (checked Nov 16 2026).
 
@@ -26,7 +26,7 @@ Over the next 90 days FF supply changes +17.18%; across a full year, +68.71%. Th
 
 ## Demand: how much people want FF
 
-People's appetite for Falcon Finance is **very low**: 0.5/5, ranked #100 of 109.
+People's appetite for Falcon Finance is **very low**: 0.5/5, ranked #99 of 109.
 
 Members get the rest of the Falcon Finance demand read on mrnasdog.com.
 
@@ -45,7 +45,7 @@ Good for the price: More USDf minted. Bad for it: USDf shrinks. Now: ▼ down si
 | Aug 31 2026 | $1,179M |
 | Sep 30 2026 | $1,213M |
 | Oct 31 2026 | $1,728M |
-| Nov 17 2026 | $1,488M |
+| Nov 21 2026 | $1,613M |
 
 *Checked Nov 16 2026*
 
@@ -90,9 +90,9 @@ In our count, about 609M new FF reaches the market over the next 90 days (checke
 
 Falcon Finance (FF) has about 3.55B coins in circulation as of Nov 16 2026; the next 90 days change that by +17.18% (+68.71% over a year).
 
-### Does FF have more new supply than VET, TIA or CRV?
+### Does FF have more new supply than RAY, TIA or CRV?
 
-Over the next 90 days (checked Nov 16 2026): FF +17.18%, VET 0.00%, TIA +2.30%, CRV +1.96%. FF has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 16 2026): FF +17.18%, RAY +0.16%, TIA +2.30%, CRV +1.96%. FF has the most new supply of these 4 coins.
 
 ## Where to read the rest of FF
 

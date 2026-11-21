@@ -8,7 +8,7 @@ published:     true
 ---
 # PONS Inflation Rate: −20.87% Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/pons — numbers checked Nov 17 2026*
+*Source: https://mrnasdog.com/research/pons — numbers checked Nov 21 2026*
 
 **−20.87%** in 90 days, **−83.49%** in a year: that is how fast PONS supply changes as of Nov 12 2026.
 
@@ -26,7 +26,7 @@ Expect −20.87% more PONS in 90 days (−83.49% over the year). On supply alone
 
 ## Demand today
 
-How much do people want PONS? **very strong** — 4.5 out of 5, #5 of 109.
+How much do people want PONS? **very strong** — 4.5 out of 5, #6 of 109.
 
 A deeper PONS demand breakdown is on the page for members.
 
@@ -60,7 +60,7 @@ Chain meme trading cooled from its September peak; PONS moves with it
 | Aug 31 2026 | $19.1B |
 | Sep 30 2026 | $56B |
 | Oct 31 2026 | $27.8B |
-| Nov 17 2026 | $19.4B |
+| Nov 21 2026 | $18.6B |
 
 *Checked Nov 12 2026*
 

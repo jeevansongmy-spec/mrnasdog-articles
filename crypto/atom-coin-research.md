@@ -8,11 +8,11 @@ published:     true
 ---
 # Cosmos Hub (ATOM) Tokenomics: +3.17% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/atom (checked Nov 17 2026)*
+*Originally published at https://mrnasdog.com/research/atom (checked Nov 21 2026)*
 
 As of Nov 13 2026, new Cosmos Hub supply runs at **+3.17%** over 90 days and **+13.51%** over 12 months.
 
-- **Long-run signal:** negative (Nov 17 2026)
+- **Long-run signal:** negative (Nov 21 2026)
 - **Score:** 3.5/10 — supply 1/5, demand 2.5/5
 - **New supply:** +3.17% in 90 days · +13.51% in a year
 - **Demand:** modest (2.5/5)
@@ -68,7 +68,7 @@ New ATOM: +3.17% in 90 days, +13.51% in a year. Supply score 1/5, "very heavy" (
 
 ## Demand today
 
-Cosmos Hub demand: 2.5/5 (**modest**), place #47 among 109 coins — interest today plus the buying that could come later.
+Cosmos Hub demand: 2.5/5 (**modest**), place #45 among 109 coins — interest today plus the buying that could come later.
 
 Members get the rest of the Cosmos Hub demand read on mrnasdog.com.
 

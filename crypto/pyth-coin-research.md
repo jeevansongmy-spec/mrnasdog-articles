@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Pyth Network (PYTH) Inflationary? 0.00% Supply in 90 Days
 
-*From https://mrnasdog.com/research/pyth, updated Nov 17 2026*
+*From https://mrnasdog.com/research/pyth, updated Nov 21 2026*
 
 How much new PYTH is coming? **0.00%** in the next 90 days, **+26.98%** in the next year — checked Nov 15 2026.
 
@@ -30,7 +30,7 @@ About +26.98% a year: that is how much Pyth Network (PYTH) supply changes over t
 
 ### When is the next PYTH token unlock?
 
-No dated Pyth Network (PYTH) unlock is scheduled in the next 90 days (checked Nov 15 2026).
+The next Pyth Network (PYTH) unlock we track is on May 20 2027: about 2.13B PYTH, 26.98% of the PYTH in circulation (Final locked tranche (85% launch lock)). Checked Nov 15 2026.
 
 ### Does Pyth Network burn or buy back PYTH?
 
@@ -56,7 +56,7 @@ Pyth Network adds 0.00% new supply in the next 90 days and +26.98% over a year �
 
 ## Demand: how much people want PYTH
 
-Demand reads **very weak** (1.5/5), #77 of 109 coins we track — that is how much people want PYTH now and how much buying could still come.
+Demand reads **very weak** (1.5/5), #76 of 109 coins we track — that is how much people want PYTH now and how much buying could still come.
 
 Members get the rest of the Pyth Network demand read on mrnasdog.com.
 

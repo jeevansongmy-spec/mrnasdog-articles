@@ -8,14 +8,14 @@ published:     true
 ---
 # Celestia (TIA) Supply & Demand: +2.30% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/tia · checked Nov 17 2026*
+*Live page: https://mrnasdog.com/research/tia · checked Nov 21 2026*
 
 Celestia (TIA) supply changes **+2.30%** over the next 90 days and **+9.03%** over a year (checked Nov 15 2026).
 
-- **Signal:** mixed (by the law of supply and demand)
-- **Score:** 4/10 — supply 1/5, demand 3/5
+- **Signal:** negative (by the law of supply and demand)
+- **Score:** 3.5/10 — supply 1/5, demand 2.5/5
 - **Supply growth:** +2.30% in 90 days · +9.03% in a year
-- **How much people want it:** moderate (3/5)
+- **How much people want it:** modest (2.5/5)
 - **Price drivers:** 1 ▲ price up · 0 ▼ price down
 
 ## Celestia (TIA) supply: questions people ask
@@ -56,7 +56,7 @@ Over the next 90 days TIA supply changes +2.30%; across a full year, +9.03%. Tha
 
 ## Who wants Celestia right now
 
-People's appetite for Celestia is **moderate**: 3/5, ranked #37 of 109.
+People's appetite for Celestia is **modest**: 2.5/5, ranked #45 of 109.
 
 (Members see more TIA demand detail on the page; it is not repeated here.)
 

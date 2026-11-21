@@ -8,7 +8,7 @@ published:     true
 ---
 # Is LayerZero (ZRO) Inflationary? +17.56% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/zro, updated Nov 17 2026*
+*From https://mrnasdog.com/research/zro, updated Nov 21 2026*
 
 How much new ZRO is coming? **+17.56%** in the next 90 days, **+46.33%** in the next year — checked Nov 13 2026.
 
@@ -81,7 +81,7 @@ About +46.33% a year: that is how much LayerZero (ZRO) supply changes over the n
 
 ### When is the next ZRO token unlock?
 
-The next LayerZero (ZRO) unlock we track is on Nov 20 2026: about 23.3M ZRO, 5.83% of the ZRO in circulation (Monthly release to investors and team — Sell). Checked Nov 13 2026.
+The next LayerZero (ZRO) unlock we track is on Dec 20 2026: about 23.3M ZRO, 5.83% of the ZRO in circulation (Monthly release to investors and team — Sell). Checked Nov 13 2026.
 
 ### Does LayerZero burn or buy back ZRO?
 

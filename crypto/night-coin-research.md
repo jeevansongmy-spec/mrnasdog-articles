@@ -8,7 +8,7 @@ published:     true
 ---
 # Midnight (NIGHT) Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/night · checked Nov 17 2026*
+*Live page: https://mrnasdog.com/research/night · checked Nov 21 2026*
 
 Midnight (NIGHT) supply changes **0.00%** over the next 90 days and **+2.28%** over a year (checked Nov 13 2026).
 
@@ -68,7 +68,7 @@ Big promises come true → price up · Hype fades, goals slip → price down. To
 
 ## Who wants Midnight right now
 
-People's appetite for Midnight is **modest**: 2.5/5, ranked #47 of 109.
+People's appetite for Midnight is **modest**: 2.5/5, ranked #45 of 109.
 
 Members get the rest of the Midnight demand read on mrnasdog.com.
 
@@ -98,9 +98,9 @@ Almost no new NIGHT reaches the market over the next 90 days (checked Nov 13 202
 
 Midnight (NIGHT) has about 16.6B coins in circulation as of Nov 13 2026; the next 90 days change that by 0.00% (+2.28% over a year).
 
-### Does NIGHT have more new supply than ALGO, ATOM or NEXO?
+### Does NIGHT have more new supply than RENDER, ATOM or NEXO?
 
-Over the next 90 days (checked Nov 13 2026): NIGHT 0.00%, ALGO +0.43%, ATOM +3.17%, NEXO 0.00%. NIGHT sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 13 2026): NIGHT 0.00%, RENDER +0.08%, ATOM +3.17%, NEXO 0.00%. NIGHT sits in the middle of these 4 coins.
 
 ## Where to read the rest of NIGHT
 

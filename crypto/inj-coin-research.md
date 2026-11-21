@@ -8,11 +8,11 @@ published:     true
 ---
 # Injective (INJ) Tokenomics: +0.81% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/inj (checked Nov 17 2026)*
+*Originally published at https://mrnasdog.com/research/inj (checked Nov 21 2026)*
 
 As of Nov 13 2026, new Injective supply runs at **+0.81%** over 90 days and **+3.25%** over 12 months.
 
-- **Signal today:** mixed (Nov 17 2026)
+- **Signal today:** mixed (Nov 21 2026)
 - **MrNasDog score:** 6/10 — supply 2.5/5, demand 3.5/5
 - **New coins:** +0.81% in 90 days · +3.25% in a year
 - **Demand:** strong (3.5/5)
@@ -96,7 +96,7 @@ About 129M INJ is in circulation (checked Nov 13 2026). Over the next 90 days th
 
 ### Does INJ have more new supply than JUP, PI or KAS?
 
-Over the next 90 days (checked Nov 13 2026): INJ +0.81%, JUP 0.00%, PI +4.21%, KAS +0.51%. INJ sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 13 2026): INJ +0.81%, JUP −0.01%, PI +4.21%, KAS +0.51%. INJ sits in the middle of these 4 coins.
 
 ## More on Injective
 

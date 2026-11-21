@@ -8,7 +8,7 @@ published:     true
 ---
 # NEAR Protocol (NEAR) Inflation Rate: +0.61% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/near — numbers checked Nov 19 2026*
+*Source: https://mrnasdog.com/research/near — numbers checked Nov 21 2026*
 
 **+0.61%** in 90 days, **+2.37%** in a year: that is how fast NEAR Protocol (NEAR) supply changes as of Nov 19 2026.
 
@@ -26,7 +26,7 @@ Expect +0.61% more NEAR in 90 days (+2.37% over the year). On supply alone NEAR 
 
 ## Who wants NEAR Protocol right now
 
-How much do people want NEAR? **strong** — 3.5 out of 5, #22 of 109.
+How much do people want NEAR? **strong** — 3.5 out of 5, #20 of 109.
 
 (Members see more NEAR demand detail on the page; it is not repeated here.)
 
@@ -94,9 +94,9 @@ In our count, about 8.03M new NEAR reaches the market over the next 90 days (che
 
 NEAR Protocol (NEAR) has about 1.31B coins in circulation as of Nov 19 2026; the next 90 days change that by +0.61% (+2.37% over a year).
 
-### Does NEAR have more new supply than XLM, BCH or UNI?
+### Does NEAR have more new supply than XLM, BCH or LTC?
 
-Over the next 90 days (checked Nov 19 2026): NEAR +0.61%, XLM +2.45%, BCH +0.20%, UNI −0.03%. NEAR sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 19 2026): NEAR +0.61%, XLM +2.45%, BCH +0.20%, LTC +0.42%. NEAR sits in the middle of these 4 coins.
 
 ## Go deeper on NEAR Protocol
 

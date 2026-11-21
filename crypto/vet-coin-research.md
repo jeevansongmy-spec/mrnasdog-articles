@@ -8,11 +8,11 @@ published:     true
 ---
 # VeChain (VET) Tokenomics: 0.00% Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/vet (checked Nov 17 2026)*
+*Originally published at https://mrnasdog.com/research/vet (checked Nov 21 2026)*
 
 As of Nov 14 2026, new VeChain supply runs at **0.00%** over 90 days and **0.00%** over 12 months.
 
-- **Signal today:** positive (Nov 17 2026)
+- **Signal today:** positive (Nov 21 2026)
 - **MrNasDog score:** 7/10 — supply 4.5/5, demand 2.5/5
 - **New coins:** 0.00% in 90 days · 0.00% in a year
 - **Demand:** modest (2.5/5)
@@ -61,7 +61,7 @@ Good for the price: Upgrades ship smoothly. Bad for it: Delays or bugs. Today: t
 
 ## Demand today
 
-VeChain demand: 2.5/5 (**modest**), place #47 among 109 coins — interest today plus the buying that could come later.
+VeChain demand: 2.5/5 (**modest**), place #45 among 109 coins — interest today plus the buying that could come later.
 
 Extra VeChain demand detail for members stays on the live page.
 
@@ -91,9 +91,9 @@ Almost no new VET reaches the market over the next 90 days (checked Nov 14 2026)
 
 About 86B VET is in circulation (checked Nov 14 2026). Over the next 90 days that changes 0.00%, and over a year 0.00%.
 
-### Does VET have more new supply than APT, FF or TIA?
+### Does VET have more new supply than APT, RAY or FF?
 
-Over the next 90 days (checked Nov 14 2026): VET 0.00%, APT +2.02%, FF +17.18%, TIA +2.30%. VET has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 14 2026): VET 0.00%, APT +2.02%, RAY +0.16%, FF +17.18%. VET has the least new supply of these 4 coins.
 
 ## More on VeChain
 

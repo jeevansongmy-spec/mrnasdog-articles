@@ -8,7 +8,7 @@ published:     true
 ---
 # Bittensor (TAO) Inflation Rate: +2.67% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/tao — numbers checked Nov 20 2026*
+*Source: https://mrnasdog.com/research/tao — numbers checked Nov 21 2026*
 
 **+2.67%** in 90 days, **+10.81%** in a year: that is how fast Bittensor (TAO) supply changes as of Nov 20 2026.
 

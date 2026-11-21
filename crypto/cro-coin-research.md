@@ -8,7 +8,7 @@ published:     true
 ---
 # Cronos (CRO) Supply & Demand: +7.01% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/cro · checked Nov 20 2026*
+*Live page: https://mrnasdog.com/research/cro · checked Nov 21 2026*
 
 Cronos (CRO) supply changes **+7.01%** over the next 90 days and **+27.78%** over a year (checked Nov 20 2026).
 
@@ -26,7 +26,7 @@ Over the next 90 days CRO supply changes +7.01%; across a full year, +27.78%. Th
 
 ## CRO demand
 
-People's appetite for Cronos is **strong**: 3.5/5, ranked #22 of 109.
+People's appetite for Cronos is **strong**: 3.5/5, ranked #20 of 109.
 
 (Members see more CRO demand detail on the page; it is not repeated here.)
 

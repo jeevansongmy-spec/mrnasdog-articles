@@ -8,14 +8,14 @@ published:     true
 ---
 # ether.fi (ETHFI) Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/ethfi · checked Nov 17 2026*
+*Live page: https://mrnasdog.com/research/ethfi · checked Nov 21 2026*
 
 ether.fi (ETHFI) supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 14 2026).
 
 - **Long-run signal:** positive (by the law of supply and demand)
-- **Score:** 8/10 — supply 4.5/5, demand 3.5/5
+- **Score:** 7.5/10 — supply 4.5/5, demand 3/5
 - **New supply:** 0.00% in 90 days · 0.00% in a year
-- **Demand:** strong (3.5/5)
+- **Demand:** moderate (3/5)
 - **Price drivers:** 2 ▲ price up · 0 ▼ price down
 
 ## Supply — new ETHFI in the next 90 days
@@ -26,7 +26,7 @@ Over the next 90 days ETHFI supply changes 0.00%; across a full year, 0.00%. Tha
 
 ## Demand today
 
-People's appetite for ether.fi is **strong**: 3.5/5, ranked #20 of 109.
+People's appetite for ether.fi is **moderate**: 3/5, ranked #36 of 109.
 
 Extra ether.fi demand detail for members stays on the live page.
 
@@ -60,7 +60,7 @@ Good for the price: More money in Cash. Bad for it: Users pull money. Now: ▲ u
 | Aug 31 2026 | $203M |
 | Sep 30 2026 | $242M |
 | Oct 31 2026 | $242M |
-| Nov 17 2026 | $221M |
+| Nov 21 2026 | $214M |
 
 *Checked Nov 14 2026*
 
@@ -90,9 +90,9 @@ Almost no new ETHFI reaches the market over the next 90 days (checked Nov 14 202
 
 ether.fi (ETHFI) has about 999M coins in circulation as of Nov 14 2026; the next 90 days change that by 0.00% (0.00% over a year).
 
-### Does ETHFI have more new supply than STX, RAY or PIEVERSE?
+### Does ETHFI have more new supply than STX, PIEVERSE or DASH?
 
-Over the next 90 days (checked Nov 14 2026): ETHFI 0.00%, STX +1.25%, RAY +0.16%, PIEVERSE +19.87%. ETHFI has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 14 2026): ETHFI 0.00%, STX +1.25%, PIEVERSE +19.87%, DASH +0.72%. ETHFI has the least new supply of these 4 coins.
 
 ## Read more on ETHFI
 

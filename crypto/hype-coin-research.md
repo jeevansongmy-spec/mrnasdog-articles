@@ -8,7 +8,7 @@ published:     true
 ---
 # Hyperliquid (HYPE) Supply & Demand: −0.15% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/hype · checked Nov 18 2026*
+*Live page: https://mrnasdog.com/research/hype · checked Nov 21 2026*
 
 Hyperliquid (HYPE) supply changes **−0.15%** over the next 90 days and **−0.59%** over a year (checked Nov 18 2026).
 
@@ -26,7 +26,7 @@ As of Nov 18 2026, Hyperliquid (HYPE) supply moves −0.15% in 90 days and −0.
 
 ### What is the HYPE inflation rate in 2026?
 
-Hyperliquid (HYPE) supply shrinks −0.59% over the next 12 months and −0.15% over the next 90 days (checked Nov 18 2026). That puts HYPE #99 of 100 coins we track for new supply (#1 = the most new supply).
+Hyperliquid (HYPE) supply shrinks −0.59% over the next 12 months and −0.15% over the next 90 days (checked Nov 18 2026). That puts HYPE #98 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next HYPE token unlock?
 
@@ -44,19 +44,19 @@ In our count, about 3.18M new HYPE reaches the market over the next 90 days (che
 
 Hyperliquid (HYPE) has about 238M coins in circulation as of Nov 18 2026; the next 90 days change that by −0.15% (−0.59% over a year).
 
-### Does HYPE have more new supply than TRX, ZEC or DOGE?
+### Does HYPE have more new supply than TRX, ZEC or XMR?
 
-Over the next 90 days (checked Nov 18 2026): HYPE −0.15%, TRX +0.14%, ZEC +0.95%, DOGE +0.78%. HYPE has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 18 2026): HYPE −0.15%, TRX +0.14%, ZEC +0.95%, XMR +0.21%. HYPE has the least new supply of these 4 coins.
 
 ## Supply: how much new HYPE is coming
 
 Hyperliquid buys back HYPE with nearly all its trading fees. This quarter a 3.75M team sale outran the buyback, so supply rose 1.00%; next quarter it should edge down.
 
-Over the next 90 days HYPE supply changes −0.15%; across a full year, −0.59%. That puts supply at 4.5/5 (shrinking), #99 of 100 for new supply.
+Over the next 90 days HYPE supply changes −0.15%; across a full year, −0.59%. That puts supply at 4.5/5 (shrinking), #98 of 100 for new supply.
 
 ## Who wants Hyperliquid right now
 
-People's appetite for Hyperliquid is **very strong**: 4.5/5, ranked #5 of 109.
+People's appetite for Hyperliquid is **very strong**: 4.5/5, ranked #6 of 109.
 
 Members get the rest of the Hyperliquid demand read on mrnasdog.com.
 
@@ -66,7 +66,7 @@ Besides supply and demand, we track 2 price drivers for Hyperliquid: 2 ▲ and 0
 
 ### ▲ Treasury company
 
-Owns 12.9% of HYPE in the market; +1.8M HYPE in 30 days.
+Owns 12.9% of HYPE in the market; +1.9M HYPE in 30 days.
 
 Company buys → price up · Company sells → price down. Right now it points up.
 
@@ -75,9 +75,9 @@ Company buys → price up · Company sells → price down. Right now it points u
 | Sep 17 2026 | 35.1 M HYPE |
 | Sep 24 2026 | 37 M HYPE |
 | Oct 31 2026 | 38.9 M HYPE |
-| Nov 19 2026 | 38.9 M HYPE |
+| Nov 21 2026 | 38.9 M HYPE |
 
-*Checked Nov 19 2026*
+*Checked Nov 21 2026*
 
 ### ▲ Foundation votes
 
@@ -90,7 +90,7 @@ Good for the price: Power spread out. Bad for it: One group in control. Now: ▲
 | Jan 2025 | Hyper Foundation 81% · Others 19% |
 | Nov 2026 | Hyper Foundation 47.5% · Hyperliquid Strategies x Unit 8.9% · Others 43.6% |
 
-*Checked Nov 19 2026*
+*Checked Nov 21 2026*
 
 ## Where to read the rest of HYPE
 

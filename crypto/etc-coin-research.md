@@ -8,7 +8,7 @@ published:     true
 ---
 # Ethereum Classic (ETC) Supply & Demand: +0.59% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/etc · checked Nov 17 2026*
+*Live page: https://mrnasdog.com/research/etc · checked Nov 21 2026*
 
 Ethereum Classic (ETC) supply changes **+0.59%** over the next 90 days and **+2.41%** over a year (checked Nov 12 2026).
 
@@ -26,7 +26,7 @@ Over the next 90 days ETC supply changes +0.59%; across a full year, +2.41%. Tha
 
 ## How strong is Ethereum Classic demand?
 
-People's appetite for Ethereum Classic is **very weak**: 1.5/5, ranked #77 of 109.
+People's appetite for Ethereum Classic is **very weak**: 1.5/5, ranked #76 of 109.
 
 A deeper ETC demand breakdown is on the page for members.
 
@@ -60,7 +60,7 @@ More mining power → price up · Miners leave → price down. Today: the price-
 | Aug 31 2026 | 186 TH/s |
 | Sep 30 2026 | 182 TH/s |
 | Oct 31 2026 | 198 TH/s |
-| Nov 17 2026 | 178 TH/s |
+| Nov 21 2026 | 167 TH/s |
 
 *Checked Nov 12 2026*
 

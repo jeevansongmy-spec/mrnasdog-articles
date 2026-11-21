@@ -8,7 +8,7 @@ published:     true
 ---
 # Zcash (ZEC) Supply & Demand: +0.95% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/zec · checked Nov 18 2026*
+*Live page: https://mrnasdog.com/research/zec · checked Nov 21 2026*
 
 Zcash (ZEC) supply changes **+0.95%** over the next 90 days and **+3.84%** over a year (checked Nov 18 2026).
 
@@ -48,9 +48,9 @@ Good for the price: Old pool empties. Bad for it: Old pool grows. Today: the pri
 | Aug 31 2026 | 0.471 M ZEC | 3.84 M ZEC |
 | Sep 30 2026 | 0.379 M ZEC | 4.06 M ZEC |
 | Oct 31 2026 | 0.344 M ZEC | 4.18 M ZEC |
-| Nov 19 2026 | 0.32 M ZEC | 4.19 M ZEC |
+| Nov 21 2026 | 0.32 M ZEC | 4.18 M ZEC |
 
-*Checked Nov 18 2026*
+*Checked Nov 20 2026*
 
 ### ▲ Privacy-coin rules
 
@@ -109,9 +109,9 @@ In our count, about 161K new ZEC reaches the market over the next 90 days (check
 
 Zcash (ZEC) has about 17M coins in circulation as of Nov 18 2026; the next 90 days change that by +0.95% (+3.84% over a year).
 
-### Does ZEC have more new supply than HYPE, DOGE or XMR?
+### Does ZEC have more new supply than HYPE, XMR or DOGE?
 
-Over the next 90 days (checked Nov 18 2026): ZEC +0.95%, HYPE −0.15%, DOGE +0.78%, XMR +0.21%. ZEC has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 18 2026): ZEC +0.95%, HYPE −0.15%, XMR +0.21%, DOGE +0.78%. ZEC has the most new supply of these 4 coins.
 
 ## Where to read the rest of ZEC
 

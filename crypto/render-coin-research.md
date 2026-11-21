@@ -8,7 +8,7 @@ published:     true
 ---
 # Render Network (RENDER) Supply & Demand: +0.08% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/render · checked Nov 19 2026*
+*Live page: https://mrnasdog.com/research/render · checked Nov 21 2026*
 
 Render Network (RENDER) supply changes **+0.08%** over the next 90 days and **+0.33%** over a year (checked Nov 19 2026).
 
@@ -26,7 +26,7 @@ Over the next 90 days RENDER supply changes +0.08%; across a full year, +0.33%. 
 
 ## Demand today
 
-People's appetite for Render Network is **strong**: 3.5/5, ranked #22 of 109.
+People's appetite for Render Network is **strong**: 3.5/5, ranked #20 of 109.
 
 Members get the rest of the Render Network demand read on mrnasdog.com.
 
@@ -45,7 +45,7 @@ Good for the price: OTOY holds, no selling. Bad for it: OTOY moves more out.
 | Aug 31 2026 | 81.9 M RENDER |
 | Sep 30 2026 | 81.9 M RENDER |
 | Oct 31 2026 | 81.9 M RENDER |
-| Nov 20 2026 | 81.9 M RENDER |
+| Nov 21 2026 | 81.9 M RENDER |
 
 *Checked Nov 19 2026*
 

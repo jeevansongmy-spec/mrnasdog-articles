@@ -8,12 +8,12 @@ published:     true
 ---
 # Monero (XMR) Tokenomics: +0.21% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/xmr (checked Nov 18 2026)*
+*Originally published at https://mrnasdog.com/research/xmr (checked Nov 21 2026)*
 
 As of Nov 18 2026, new Monero supply runs at **+0.21%** over 90 days and **+0.84%** over 12 months.
 
-- **Long-run signal:** positive (Nov 18 2026)
-- **Score:** 7/10 — supply 3.5/5, demand 3.5/5
+- **Long-run signal:** mixed (Nov 21 2026)
+- **Score:** 6.5/10 — supply 3/5, demand 3.5/5
 - **New supply:** +0.21% in 90 days · +0.84% in a year
 - **Demand:** strong (3.5/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
@@ -22,11 +22,11 @@ As of Nov 18 2026, new Monero supply runs at **+0.21%** over 90 days and **+0.84
 
 Monero pays miners a fixed 0.6 XMR per block with no cap and burns nothing, so supply rises a steady 0.21% every 90 days.
 
-New XMR: +0.21% in 90 days, +0.84% in a year. Supply score 3.5/5, "steady" (place 67 of 100).
+New XMR: +0.21% in 90 days, +0.84% in a year. Supply score 3/5, "light" (place 66 of 100).
 
 ## Demand today
 
-Monero demand: 3.5/5 (**strong**), place #22 among 109 coins — interest today plus the buying that could come later.
+Monero demand: 3.5/5 (**strong**), place #20 among 109 coins — interest today plus the buying that could come later.
 
 Extra Monero demand detail for members stays on the live page.
 
@@ -55,7 +55,7 @@ Good for the price: Exchanges list XMR. Bad for it: More delistings. Today: the 
 
 ### ▲ Mining attacks
 
-Hashrate at a record 6.56 GH/s; worst attack was Sep 14 2025.
+Hashrate 6.3 GH/s, record 6.5; worst attack was Sep 14 2025.
 
 Strong, no attacks → price up · An attack → price down. Now: ▲ up side.
 
@@ -64,9 +64,9 @@ Strong, no attacks → price up · An attack → price down. Now: ▲ up side.
 | Aug 31 2026 | 5.87 GH/s |
 | Sep 30 2026 | 6.17 GH/s |
 | Oct 31 2026 | 6.5 GH/s |
-| Nov 19 2026 | 6.56 GH/s |
+| Nov 21 2026 | 6.3 GH/s |
 
-*Checked Nov 19 2026*
+*Checked Nov 21 2026*
 
 ### • FCMP++ upgrade
 
@@ -93,7 +93,7 @@ Monero (XMR) is inflationary right now: its supply changes +0.21% over the next 
 
 ### What is the XMR inflation rate in 2026?
 
-About +0.84% a year: that is how much Monero (XMR) supply changes over the next 12 months, with +0.21% in the next 90 days (checked Nov 18 2026). That puts XMR #67 of 100 coins we track for new supply (#1 = the most new supply).
+About +0.84% a year: that is how much Monero (XMR) supply changes over the next 12 months, with +0.21% in the next 90 days (checked Nov 18 2026). That puts XMR #66 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next XMR token unlock?
 
@@ -111,9 +111,9 @@ In our count, about 38.9K new XMR reaches the market over the next 90 days (chec
 
 About 18.8M XMR is in circulation (checked Nov 18 2026). Over the next 90 days that changes +0.21%, and over a year +0.84%.
 
-### Does XMR have more new supply than DOGE, LEO or LINK?
+### Does XMR have more new supply than ZEC, DOGE or LEO?
 
-Over the next 90 days (checked Nov 18 2026): XMR +0.21%, DOGE +0.78%, LEO −0.06%, LINK +1.47%. XMR sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 18 2026): XMR +0.21%, ZEC +0.95%, DOGE +0.78%, LEO −0.06%. XMR sits in the middle of these 4 coins.
 
 ## Where to read the rest of XMR
 

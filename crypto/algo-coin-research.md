@@ -8,14 +8,14 @@ published:     true
 ---
 # Is Algorand (ALGO) Inflationary? +0.43% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/algo, updated Nov 17 2026*
+*From https://mrnasdog.com/research/algo, updated Nov 21 2026*
 
 How much new ALGO is coming? **+0.43%** in the next 90 days, **+1.69%** in the next year — checked Nov 13 2026.
 
 - **Long-run signal:** negative for Algorand
-- **Score:** 4/10 — supply 3/5, demand 1/5
+- **Score:** 4.5/10 — supply 3/5, demand 1.5/5
 - **New supply:** +0.43% in 90 days · +1.69% in a year
-- **Demand:** low (1/5)
+- **Demand:** very weak (1.5/5)
 - **Price drivers:** 0 ▲ price up · 2 ▼ price down
 
 ## Algorand supply questions, answered
@@ -44,9 +44,9 @@ In our count, about 38.8M new ALGO reaches the market over the next 90 days (che
 
 About 9.08B ALGO is in circulation (checked Nov 13 2026). Over the next 90 days that changes +0.43%, and over a year +1.69%.
 
-### Does ALGO have more new supply than LIT, NIGHT or ATOM?
+### Does ALGO have more new supply than LIT, RENDER or NIGHT?
 
-Over the next 90 days (checked Nov 13 2026): ALGO +0.43%, LIT +8.94%, NIGHT 0.00%, ATOM +3.17%. ALGO sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 13 2026): ALGO +0.43%, LIT +8.94%, RENDER +0.08%, NIGHT 0.00%. ALGO sits in the middle of these 4 coins.
 
 ## How fast Algorand supply grows
 
@@ -56,7 +56,7 @@ Algorand adds +0.43% new supply in the next 90 days and +1.69% over a year — s
 
 ## How strong is Algorand demand?
 
-Demand reads **low** (1/5), #92 of 109 coins we track — that is how much people want ALGO now and how much buying could still come.
+Demand reads **very weak** (1.5/5), #76 of 109 coins we track — that is how much people want ALGO now and how much buying could still come.
 
 (Members see more ALGO demand detail on the page; it is not repeated here.)
 
