@@ -8,7 +8,7 @@ published:     true
 ---
 # Internet Computer (ICP) Inflation Rate: +0.61% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/icp — numbers checked Nov 21 2026*
+*Source: https://mrnasdog.com/research/icp — numbers checked Nov 22 2026*
 
 **+0.61%** in 90 days, **+2.46%** in a year: that is how fast Internet Computer (ICP) supply changes as of Nov 12 2026.
 
@@ -26,7 +26,7 @@ Expect +0.61% more ICP in 90 days (+2.46% over the year). On supply alone Intern
 
 ## Demand: how much people want ICP
 
-How much do people want ICP? **strong** — 3.5 out of 5, #20 of 109.
+How much do people want ICP? **strong** — 3.5 out of 5, #21 of 109.
 
 (Members see more ICP demand detail on the page; it is not repeated here.)
 
@@ -45,7 +45,7 @@ More ICP stays locked → price up · More ICP unstakes → price down. Right no
 | Aug 31 2026 | 289 M ICP | 243 M ICP |
 | Sep 30 2026 | 290 M ICP | 244 M ICP |
 | Oct 31 2026 | 287 M ICP | 243 M ICP |
-| Nov 21 2026 | 287 M ICP | 243 M ICP |
+| Nov 22 2026 | 287 M ICP | 243 M ICP |
 
 *Checked Nov 12 2026*
 
@@ -60,7 +60,7 @@ Good for the price: More apps running. Bad for it: App growth stalls.
 | Aug 31 2026 | 1.16 M apps |
 | Sep 30 2026 | 1.16 M apps |
 | Oct 31 2026 | 1.17 M apps |
-| Nov 21 2026 | 1.17 M apps |
+| Nov 22 2026 | 1.18 M apps |
 
 *Checked Nov 12 2026*
 
@@ -90,9 +90,9 @@ In our count, about 3.53M new ICP reaches the market over the next 90 days (chec
 
 Internet Computer (ICP) has about 558M coins in circulation as of Nov 12 2026; the next 90 days change that by +0.61% (+2.46% over a year).
 
-### Does ICP have more new supply than DOT, MNT or MORPHO?
+### Does ICP have more new supply than AAVE, PEPE or MORPHO?
 
-Over the next 90 days (checked Nov 12 2026): ICP +0.61%, DOT +0.81%, MNT 0.00%, MORPHO +6.15%. ICP sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 12 2026): ICP +0.61%, AAVE +0.12%, PEPE 0.00%, MORPHO +6.15%. ICP sits in the middle of these 4 coins.
 
 ## Read more on ICP
 

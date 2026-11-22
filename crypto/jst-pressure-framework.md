@@ -1,6 +1,6 @@
 ---
 title:         "JST Inflation Analysis · November 2026 · Supply shrinking · projected to keep shrinking"
-description:   "JST is shrinking: no new coins, and the JUST DAO buyback burned 170.72M JST in 90 days, supply −2.13%. About 98.16M more burn in January 2027: −1.22%."
+description:   "JST is shrinking: no new coins, and the JUST DAO buyback burned 170.72M JST in 90 days, supply −2.13%. About 98.54M more burn by mid-January 2027: −1.23%."
 canonical_url: "https://mrnasdog.com/research/jst/inflation"
 tags:                    ["crypto", "jst", "just", "defi"]
 published:     true
@@ -11,56 +11,67 @@ Originally published at [JST Inflation Analysis · November 2026 · Supply shrin
 
 <!-- main-page -->
 This is the long supply read. For the signal, the price drivers and the questions people ask about JUST, see [mrnasdog.com/research/jst](https://mrnasdog.com/research/jst).
-JST, the coin of JUST on TRON, is shrinking: no new JST was made in the last 90 days, while the JUST DAO buyback sent **170.72M JST** to the dead address on Oct 16 2026. Net supply fell about **2.13%** between Aug 14 and Nov 12 2026, close to the **−2.05%** other trackers show. The next quarterly burn, expected around Jan 15 2027, should remove about **98.16M JST**, or **1.22%** more.
+
+JST is shrinking. No new JST was created between Aug 24 and Nov 22 2026, while JUST DAO burned **170.72M JST** in one round on Oct 16 2026. That takes **2.13%** off the supply in 90 days.
+
+The next round is expected around mid-January 2027 and should burn about **98.54M JST**, a further **1.23%**. Other trackers show about **2.04%** for the last 90 days, close to the same result, so the coin page carries no warning note.
 
 ## The verdict, in one paragraph
 
-Over the 90 days from Aug 14 to Nov 12 2026, JST supply moved by **−2.13%**: zero new JST in, and **170.72M JST** burned. Other trackers read **−2.05%** for the same stretch, a gap of only **0.08 points**, so the coin page carries no warning note. For the next 90 days we expect about **−1.22%**, smaller than the last burn because the old saved income that topped up earlier rounds has now been spent. JST is a deflationary coin by income-funded buyback: nothing is minted, and every quarter part of the JUST group's income buys JST and burns it.
+JST is a coin whose supply only goes down. All **9.9B** JST were created at once in April 2020, and after five burn rounds about **8.02B** are left. In the 90 days to Nov 22 2026 no coin was added and **170.72M** were burned, so the supply fell **2.13%**. Over the next 90 days we expect one more round of about **98.54M JST**, or **1.23%**. Other trackers read **2.04%** for the same 90 days, a gap of only **0.09** points, so there is no warning on the page. The label: supply shrinking, and projected to keep shrinking, though at a slower pace than before.
 
 ## Sell pressure: where new JST comes from
 
-Protocol inflation is **0**. All 9.9B JST were created in a single mint in April 2020, and the JST contract has not created a single coin since. The contract still has an owner who could mint, which is why we call the JST supply unchanged rather than fixed forever, but that power has sat unused for more than six years.
+**Protocol inflation: 0.** JST pays no staking rewards and has no emission. The contract recorded exactly one creation of coins, the full 9.9B in April 2020. The owner of the contract could still create more, which is why we never call the supply fixed, but that power has not been used in more than six years.
 
-Vesting unlocks are **0**. The team, sale and ecosystem shares of JST finished their release plan in 2023, so no locked batch of JST is waiting to open in the coming months.
+**Vesting unlocks: 0.** The shares for the team, early investors and the ecosystem finished unlocking on Mar 30 2023. No locked batch is waiting to be released.
 
-Foundation and unscheduled unlocks are **0**. The JUST Treasury holds about **500M JST** and moved coins during the window: 200M JST out on Aug 16 2026 and the same 200M back on Aug 24 2026, then a refill with bought JST on burn day. Every JST in the Treasury already counts as circulating, so none of those moves added new JST to the market count.
+**Foundation and unscheduled unlocks: 0.** The JUST Treasury, the wallet that pays for each burn, moves large amounts around, but those coins already count as circulating. Moving them does not add a single new JST to the market count.
 
-Long-term locked or bankruptcy supply is **0**. No court case or failed firm is holding JST to pay out later. About 700M JST sit inside the JUST voting wrapper, but those JST belong to holders and are already counted as circulating.
+**Long-term locked or bankruptcy: 0.** No court case or bankrupt firm holds JST for a later payout.
 
 ## Buy pressure: where new JST goes
 
-The programmatic buyback removed **170.72M JST** in the window. On Oct 16 2026 JUST DAO bought JST on the market, moved it to the JUST Treasury and sent it to the TRON dead address in one public transfer, a round worth about **$23.5M**. It was the fifth JST buyback and burn since October 2025, and together the five rounds have destroyed about **1.88B JST**, roughly 19% of the 9.9B JST first made.
+**Programmatic buyback: 170.72M JST in the last 90 days.** JUST DAO, the group that runs the JustLend lending market, the USDD stablecoin and the GasFree transfer service, uses part of their income to buy JST on the market and send it to the dead address, where it can never move again. The fifth round, on Oct 16 2026, burned **170,723,144 JST**, worth about **$23.5M** at the time. It was paid with **$9.28M** of income from the third quarter of 2026 and the last **$10.34M** of income the project had saved up from earlier years.
 
-That fifth round also closed the first phase of the JST buyback. On Oct 23 2026 JUST moved the programme under JUST DAO and widened its money sources: income from JustLend lending and staking, income from the GasFree transfer service from the fourth quarter of 2026, and USDD stablecoin income above $10M once it gets there. A surplus of **$20.34M** will be paid into buybacks in four parts from the fourth quarter of 2026, while at least $50M stays in reserve. At today's JST price that points to about **98.16M JST** burned in the next round, expected around Jan 15 2027.
+That saved-up money is now gone, so the rounds get smaller. On Oct 23 2026 JUST DAO set new rules: each round is paid from that quarter's income, a surplus of about **$20.34M** is added in four parts starting in late 2026, and at least **$50M** stays in the treasury as a safety reserve. Income at the third-quarter level plus one surplus part, about **$14.37M**, would buy about **98.54M JST** at today's price of roughly **$0.146**. The five past rounds landed between 14 and 19 days after each quarter ended, which points to around Jan 15 2027. Income from GasFree and USDD could make the round bigger, but no figure for it has been published, so it is not counted.
 
-Protocol fee burn is **0**. Using JustLend or USDD does not burn JST on its own. A separate one-off burn of **106.66M JST** from old USDJ stablecoin fees happened on Jul 17 2026, before this window, and no repeat is planned.
+**Protocol fee burn: 0.** There is no burn on every transaction. A one-time burn of **106.66M JST** from old stablecoin fees happened on Jul 17 2026, before this window, and no repeat is planned.
 
-Foundation buy is **0**, because all JST buying runs through the buyback above and the Treasury does not keep what it buys. New long-term lock is **0**: JST locked for voting or lent out on JustLend still counts as circulating, so more locking takes nothing off the count.
+**Foundation buy: 0.** Apart from the burn rounds, no team wallet buys JST to hold it.
+
+**New long-term lock: 0.** Holders who wrap JST to vote still count as circulating, so wrapping takes nothing out of the market.
 
 ## Foundation and overhang
 
-The JUST Treasury is the one team-controlled JST wallet that matters. It holds about **500M JST**, around 6.2% of circulating JST, and it is the wallet that pays every burn. After each burn it has been refilled with newly bought JST, so its balance has stayed near 500M JST. We read its balance every day on-chain. If the JUST Treasury's balance falls between checks and the JST does not go to the dead address, that outflow enters Sell #3 at the next check.
+The JUST Treasury held about **300M JST** on Nov 22 2026. It receives the coins bought on the market and sends them to the dead address on burn day. Over the last few months it has also lent out **200M JST** at a time and taken it back, for example out on Aug 16 2026 and back on Aug 24, and on Nov 22 2026 it moved **200M JST** into the JST wrapper. These coins already sit in the circulating count, so they are not a hidden pile that could suddenly add new supply. If the Treasury ever sold them on the market instead of burning them, that would show up as selling, and we would track it here.
 
-The JST contract owner, who can still mint, is the second thing we watch. One mint has happened in the life of JST, in April 2020, and we check the mint record each day. Several large wallets hold hundreds of millions of JST without a public name; they count as circulating and are not shown as team wallets.
+The other overhang is the mint power itself. The contract owner can still create JST. It has not done so since April 2020, and the project's whole plan runs the other way, but the power exists and we keep watching for it.
 
-## How JST compares to other DeFi buyback tokens
+## How JST compares to other DeFi lending tokens
 
-JST belongs to the group of tokens that mint nothing new and shrink through a buyback paid from real income. That makes JST different from proof-of-stake chain coins, which pay validators in new coins every day and can only offset that with a fee burn. With no new JST coming in, every JST burn counts in full against the supply.
+Most lending-protocol tokens still release coins to their teams, investors or users who supply loans, so their supply grows even when the protocol earns well. JST is different on both sides. Its unlocks ended in 2023, and it pays no rewards in new coins, so nothing pushes the supply up.
 
-Inside the TRON ecosystem, JST now sits alongside SUN, BTT and WIN, which all moved to quarterly buyback-and-burn rounds; in the third quarter of 2026 the four burned close to $35M together, and the JST round of about $23.5M was the biggest part. Compared with BNB, whose quarterly burn size is set by a fixed plan, the JST burn size follows how much income the JUST products earned, so it can rise or fall from one quarter to the next. Compared with tokens whose buybacks sit in a treasury, JST burns what it buys, so the coins cannot come back.
+On the buy side, JST's burn is large for its size. About **19%** of the original 9.9B has been burned across five rounds since October 2025. Few lending tokens remove that much. The catch is that the early rounds leaned on years of saved income. From now on, each round depends on what JUST DAO earns in that quarter. That makes JST more like a share whose buyback rises and falls with profit than a coin with a fixed burn schedule.
 
 ## What to watch in the next 90 days
 
-The quarterly JST buyback and burn, expected around **Jan 15 2027**: the last five rounds landed two to three weeks after a quarter ended, and its size will show what the new income mix really brings in.
+**Around Jan 15 2027: the sixth burn.** No date has been announced yet. A round near **98.54M JST** would match the new rules; a much smaller one would mean fourth-quarter income fell.
 
-The first of the four **$20.34M** surplus payments, due from the fourth quarter of 2026, and whether JUST DAO publishes the size of each part.
+**By Dec 31 2026: the first surplus part.** JUST DAO said the **$20.34M** surplus starts in the fourth quarter of 2026. Whether that money is spent before the January round, or added to it, changes how many coins are burned.
 
-The first quarter of GasFree income inside the JST buyback, from Oct 1 2026, and whether USDD income crosses the $10M line that lets it join.
+**Late January 2027: the fourth-quarter report.** It should show how much GasFree and USDD now add to each round, the one part of the new plan that has no number yet.
 
-The JUST Treasury's 500M JST and the contract owner's mint power: any outflow that is not a burn, or any new mint, would change the reading at once.
+**Any day: Treasury moves.** Coins moving out of the JUST Treasury to an exchange, rather than to the dead address, would be the first sign of selling.
 
 ## Summary
 
-JST supply shrank by about **2.13%** in the 90 days to Nov 12 2026, because the JUST DAO buyback burned **170.72M JST** on Oct 16 2026 and no new JST was made. The JST burn is paid from the income of JustLend, GasFree and USDD, plus a **$20.34M** surplus spread over four quarters, so the next round, expected around Jan 15 2027, should take out about **98.16M JST**, or about **1.22%**. The main risk is the source of that money: if JUST income falls, the burn shrinks with it. The 9.9B JST first minted is the ceiling, and the contract owner's unused mint power is the one way it could ever go higher.
+JST added no new coins in the 90 days to Nov 22 2026, and JUST DAO burned **170.72M JST**, cutting the supply by **2.13%**.
 
-*MrNasDog Pressure Framework analysis of JST, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 12 2026.*
+The next round, expected around mid-January 2027, should burn about **98.54M JST**, or **1.23%**, because the project's saved income has now been spent.
+
+From now on, the size of each JST burn follows the quarterly income of the JustLend, USDD and GasFree products.
+
+The contract owner can still create JST, so the supply is not fixed, but that power has not been used since April 2020.
+
+*Checked Nov 22 2026. Data and explanation only, not financial advice.*

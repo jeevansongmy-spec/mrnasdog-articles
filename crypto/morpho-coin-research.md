@@ -8,7 +8,7 @@ published:     true
 ---
 # Is MORPHO Inflationary? +6.15% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/morpho, updated Nov 21 2026*
+*From https://mrnasdog.com/research/morpho, updated Nov 22 2026*
 
 How much new MORPHO is coming? **+6.15%** in the next 90 days, **+24.58%** in the next year — checked Nov 12 2026.
 
@@ -26,7 +26,7 @@ Morpho adds +6.15% new supply in the next 90 days and +24.58% over a year — su
 
 ## MORPHO demand
 
-Demand reads **very weak** (1.5/5), #76 of 109 coins we track — that is how much people want MORPHO now and how much buying could still come.
+Demand reads **very weak** (1.5/5), #77 of 109 coins we track — that is how much people want MORPHO now and how much buying could still come.
 
 Extra Morpho demand detail for members stays on the live page.
 
@@ -45,7 +45,7 @@ More Coinbase loans → price up · Coinbase pulls back → price down. Now: ▲
 | Aug 31 2026 | $1,353M |
 | Sep 30 2026 | $1,496M |
 | Oct 31 2026 | $1,616M |
-| Nov 21 2026 | $1,470M |
+| Nov 22 2026 | $1,416M |
 
 *Checked Nov 12 2026*
 
@@ -80,7 +80,7 @@ About +24.58% a year: that is how much MORPHO supply changes over the next 12 mo
 
 ### When is the next MORPHO token unlock?
 
-The next MORPHO unlock we track is on Nov 21 2026: about 9.13M MORPHO, 1.30% of the MORPHO in circulation (Monthly founder and partner unlock). Checked Nov 12 2026.
+The next MORPHO unlock we track is on Dec 21 2026: about 9.13M MORPHO, 1.30% of the MORPHO in circulation (Monthly founder and partner unlock). Checked Nov 12 2026.
 
 ### Is any MORPHO burned or bought back?
 
@@ -94,9 +94,9 @@ In our count, about 43.3M new MORPHO reaches the market over the next 90 days (c
 
 About 704M MORPHO is in circulation (checked Nov 12 2026). Over the next 90 days that changes +6.15%, and over a year +24.58%.
 
-### Does MORPHO have more new supply than MNT, SKY or WLD?
+### Does MORPHO have more new supply than PEPE, WLFI or ONDO?
 
-Over the next 90 days (checked Nov 12 2026): MORPHO +6.15%, MNT 0.00%, SKY −0.24%, WLD +3.19%. MORPHO has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 12 2026): MORPHO +6.15%, PEPE 0.00%, WLFI −0.30%, ONDO +35.12%. MORPHO sits in the middle of these 4 coins.
 
 ## Where to read the rest of MORPHO
 

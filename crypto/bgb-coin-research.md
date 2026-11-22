@@ -8,11 +8,11 @@ published:     true
 ---
 # Bitget Token (BGB) Tokenomics: 0.00% Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/bgb (checked Nov 21 2026)*
+*Originally published at https://mrnasdog.com/research/bgb (checked Nov 22 2026)*
 
 As of Nov 12 2026, new Bitget Token supply runs at **0.00%** over 90 days and **0.00%** over 12 months.
 
-- **Signal:** mixed (Nov 21 2026)
+- **Signal:** mixed (Nov 22 2026)
 - **Score:** 5/10 — supply 4.5/5, demand 0.5/5
 - **Supply growth:** 0.00% in 90 days · 0.00% in a year
 - **How much people want it:** very low (0.5/5)
@@ -45,7 +45,7 @@ Good for the price: Reserves grow. Bad for it: Money leaves Bitget.
 | Aug 31 2026 | $5.38B |
 | Sep 30 2026 | $5.42B |
 | Oct 31 2026 | $5.83B |
-| Nov 21 2026 | $5.01B |
+| Nov 22 2026 | $5.12B |
 
 *Checked Nov 12 2026*
 
@@ -72,7 +72,7 @@ Bitget Token (BGB) is flat, neither inflationary nor deflationary right now: its
 
 ### What is the BGB inflation rate in 2026?
 
-About 0.00% a year: that is how much Bitget Token (BGB) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 12 2026). That puts BGB #77 of 100 coins we track for new supply (#1 = the most new supply).
+About 0.00% a year: that is how much Bitget Token (BGB) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 12 2026). That puts BGB #76 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next BGB token unlock?
 
@@ -90,9 +90,9 @@ Almost no new BGB reaches the market over the next 90 days (checked Nov 12 2026)
 
 About 700M BGB is in circulation (checked Nov 12 2026). Over the next 90 days that changes 0.00%, and over a year 0.00%.
 
-### Does BGB have more new supply than WLD, JST or ETC?
+### Does BGB have more new supply than MNT, JST or DOT?
 
-Over the next 90 days (checked Nov 12 2026): BGB 0.00%, WLD +3.19%, JST −1.22%, ETC +0.59%. BGB sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 12 2026): BGB 0.00%, MNT 0.00%, JST −1.22%, DOT +0.80%. BGB sits in the middle of these 4 coins.
 
 ## Read more on BGB
 

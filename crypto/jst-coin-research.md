@@ -8,7 +8,7 @@ published:     true
 ---
 # Is JUST (JST) Inflationary? −1.22% Supply in 90 Days
 
-*From https://mrnasdog.com/research/jst, updated Nov 21 2026*
+*From https://mrnasdog.com/research/jst, updated Nov 22 2026*
 
 How much new JST is coming? **−1.22%** in the next 90 days, **−4.90%** in the next year — checked Nov 12 2026.
 
@@ -33,7 +33,7 @@ More money deposited → price up · Deposits leave → price down. Now: ▼ dow
 | Aug 31 2026 | $3.69B |
 | Sep 30 2026 | $3.87B |
 | Oct 31 2026 | $3.59B |
-| Nov 21 2026 | $2.91B |
+| Nov 22 2026 | $2.95B |
 
 *Checked Nov 12 2026*
 
@@ -64,7 +64,7 @@ JUST adds −1.22% new supply in the next 90 days and −4.90% over a year — s
 
 ## Demand: how much people want JST
 
-Demand reads **weak** (2/5), #64 of 109 coins we track — that is how much people want JST now and how much buying could still come.
+Demand reads **weak** (2/5), #62 of 109 coins we track — that is how much people want JST now and how much buying could still come.
 
 A deeper JST demand breakdown is on the page for members.
 
@@ -94,9 +94,9 @@ Almost no new JST reaches the market over the next 90 days (checked Nov 12 2026)
 
 About 8.02B JST is in circulation (checked Nov 12 2026). Over the next 90 days that changes −1.22%, and over a year −4.90%.
 
-### Does JST have more new supply than BGB, ETC or ARB?
+### Does JST have more new supply than BGB, DOT or ETC?
 
-Over the next 90 days (checked Nov 12 2026): JST −1.22%, BGB 0.00%, ETC +0.59%, ARB +6.11%. JST has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 12 2026): JST −1.22%, BGB 0.00%, DOT +0.80%, ETC +0.59%. JST has the least new supply of these 4 coins.
 
 ## More on JUST
 

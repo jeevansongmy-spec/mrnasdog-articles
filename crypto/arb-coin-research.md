@@ -8,11 +8,11 @@ published:     true
 ---
 # Arbitrum (ARB) Tokenomics: +6.11% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/arb (checked Nov 21 2026)*
+*Originally published at https://mrnasdog.com/research/arb (checked Nov 22 2026)*
 
 As of Nov 12 2026, new Arbitrum supply runs at **+6.11%** over 90 days and **+9.35%** over 12 months.
 
-- **Signal:** mixed (Nov 21 2026)
+- **Signal:** mixed (Nov 22 2026)
 - **Score:** 4.5/10 — supply 0.5/5, demand 4/5
 - **Supply growth:** +6.11% in 90 days · +9.35% in a year
 - **How much people want it:** strong (4/5)
@@ -45,7 +45,7 @@ Robinhood Chain grows → price up · Robinhood Chain fades → price down. Toda
 | Aug 31 2026 | $0.714B |
 | Sep 30 2026 | $1.01B |
 | Oct 31 2026 | $1.09B |
-| Nov 21 2026 | $0.946B |
+| Nov 22 2026 | $0.949B |
 
 *Checked Nov 12 2026*
 

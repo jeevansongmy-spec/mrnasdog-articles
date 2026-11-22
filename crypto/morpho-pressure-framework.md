@@ -1,69 +1,71 @@
 ---
 title:         "MORPHO Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
-description:   "MORPHO supply is growing with no minting: 27.38M of founder and partner unlocks and 15.92M of Association payouts give +6.15% in 90 days, same again next."
+description:   "MORPHO supply grew 6.03% in 90 days: 27.0M MORPHO from founder and partner unlocks plus 15.58M paid out by the Morpho Association. No buyback, no burn."
 canonical_url: "https://mrnasdog.com/research/morpho/inflation"
 tags:          ["crypto", "morpho", "defi", "ethereum"]
 published:     true
 ---
-*Originally published at [mrnasdog.com/research/morpho/inflation](https://mrnasdog.com/research/morpho/inflation)*
+*Originally published at [mrnasdog.com/research/morpho/inflation](https://mrnasdog.com/research/morpho/inflation).*
 
 <!-- main-page -->
 ➜ Start with the Morpho coin page for the short answer (should you buy MORPHO?) and its price drivers: [mrnasdog.com/research/morpho](https://mrnasdog.com/research/morpho)
 
 # MORPHO Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 
-**MORPHO supply is growing, and it is set to keep growing.** No MORPHO was minted in the window, but locked coins reach the market every month: **27.38M MORPHO** of founder and partner unlocks and **15.92M** paid out by the Morpho Association between Aug 14 and Nov 12 2026, against **0** bought back or burned. That is **+6.15%** net in 90 days, under the **+7.08%** other trackers show, inside a stated maximum of **1 billion MORPHO**.
+MORPHO supply is growing, and it is set to keep growing at the same pace. Between Aug 24 and Nov 22 2026, the founders and a batch of strategic partners unlocked **27.0M MORPHO**, and the Morpho Association paid out **15.58M MORPHO** from its grant, while nothing bought or burned any MORPHO. That is **+6.03%** of the circulating supply in 90 days, against **+7.20%** on other trackers, inside a stated maximum of **1B MORPHO**.
 
 ## The verdict, in one paragraph
 
-Over the 90 days from Aug 14 to Nov 12 2026, **43.29M MORPHO** reached the market, or **+6.15%** of the **704.38M** MORPHO in circulation. The market-wide supply figure moved **+7.08%** over the same days, a gap of **0.93 points**, so the coin page carries a warning note: that figure jumped about **30.41M MORPHO** on Sep 1 2026 with no matching coin movement on-chain. The next 90 days look the same, with three more monthly unlocks booked and the Association still paying out. Morpho is a **governance token in its unlock phase, with no buyer of its own**.
+Over the 90 days to Nov 22 2026, about **42.58M** new MORPHO reached the market against about **706.1M** already circulating, a net change of **+6.03%**. The next 90 days look the same, **+6.03%**, because the founder and partner unlocks run day by day until Nov 21 2027 and the Association has paid out every month since its grant arrived. Other trackers show **+7.20%**, a gap of **1.17 points**, because their count jumped **30.41M MORPHO** on Sep 1 2026 with no matching coin movement on-chain. The coin page carries a warning note about that gap. The label for MORPHO today: an unlock-driven token with no buyer built into it.
 
 ## Sell pressure: where new MORPHO comes from
 
-**Protocol inflation is 0.** MORPHO has no block rewards and no set emission, and the on-chain total of the traded MORPHO token read the same 1 billion on Aug 14 and Nov 12 2026. The Morpho DAO's multisig can still mint more if a vote asks for it. The DAO also paid lenders and borrowers **4.38M MORPHO** in rewards in the window, but those coins came from a treasury already counted as circulating, so the rewards add nothing new.
+Protocol inflation added **0 MORPHO**. The MORPHO token contract held the same total supply at both ends of the window, just under **1B**, so no new MORPHO was created. The MORPHO contract does keep a mint function that only the Morpho DAO's multisig can use, so the DAO could create more MORPHO after a vote, but none has done so. The lending rewards that Morpho pays to users come out of MORPHO the DAO already holds: its rewards wallet sent out about **2.27M MORPHO** in the window, and those coins were already counted as circulating, so they add nothing new.
 
-**Vesting unlocks added 27.38M MORPHO.** The founders' 152M MORPHO and a 67M strategic-partner group both unlock in equal monthly steps from Nov 21 2025 to Nov 21 2027, about **9.13M MORPHO** on the 21st of each month. The window held three of those steps, on Aug 21, Sep 21 and Oct 21 2026.
+Vesting unlocks added **27.0M MORPHO**, the largest source of new supply. The Morpho founders hold **152M MORPHO** and the third group of strategic partners holds **67M MORPHO**. Both batches sat behind a one-year lock that ended on Nov 21 2025, and both now unlock evenly every day until Nov 21 2027. That comes to roughly **300K MORPHO a day**, or **27.0M MORPHO** in every 90 days, and about **109M MORPHO** of the two batches is still locked. Every other early group, including the first two partner groups and the early contributors, finished unlocking by the end of 2025.
 
-**Foundation and unscheduled unlocks added 15.92M MORPHO.** The Morpho Association, the non-profit behind Morpho's development, paid out **15.92M MORPHO** from its main wallet, most of it **9.52M** to two wallets on Sep 16 2026, plus dozens of smaller monthly payments. Those coins come from the **150M MORPHO** grant the Morpho DAO voted to the Association in April 2026 for its 2026 to 2030 work, so the payouts are expected to keep coming.
+Foundation and unscheduled unlocks added **15.58M MORPHO**. In April 2026 the Morpho DAO voted a **150M MORPHO** grant to the Morpho Association for its 2026 to 2030 support program, and the coins arrived on Apr 30 2026. Since then the Association has paid out MORPHO every month. Between Aug 24 and Nov 22 2026 it sent out **15.58M MORPHO**, including **9.52M MORPHO** to two wallets on Sep 16 2026, and smaller monthly payments to dozens of wallets. In the 90 days before that, the Association sent out about **21.45M MORPHO**, so the payouts are steady rather than one-off.
 
-**Long-term locked or bankruptcy supply is 0.** No court case or failed firm holds MORPHO waiting to be paid out.
+Long-term locked or bankruptcy supply added **0 MORPHO**. No bankrupt firm, court or trustee holds MORPHO for a later payout, and no long lock is set to open in the next 90 days.
 
 ## Buy pressure: where new MORPHO goes
 
-**Programmatic buyback is 0.** Morpho does not buy MORPHO back. The Morpho DAO can switch on a fee of up to 25% of borrower interest, but the fee switch is still off and no vote to turn it on has been made.
+Programmatic buyback removed **0 MORPHO**. Morpho has never bought MORPHO back on the market, and no buyback proposal has gone to a vote.
 
-**Protocol fee burn is 0.** Nothing in Morpho burns MORPHO; the burn address gained less than one coin in the window and the on-chain total did not fall.
+Protocol fee burn removed **0 MORPHO**. On Morpho, borrowers pay interest to lenders, and none of that interest reaches the MORPHO token. Morpho has a fee switch that could take up to a quarter of the interest, but the fee switch is still off, and the MORPHO burn address barely moved in the window.
 
-**Foundation buy is 0.** Neither the DAO nor the Association buys MORPHO. Apollo agreed on Feb 13 2026 that it may buy up to **90M MORPHO** over 48 months, but that buying uses coins already on the market, so it does not shrink the count.
+Foundation buy removed **0 MORPHO**. Neither the Morpho DAO nor the Morpho Association bought MORPHO on the market. Apollo has held the right since Feb 13 2026 to buy up to **90M MORPHO** over four years, but those purchases would use MORPHO that already circulates, and no purchase has been made public.
 
-**New long-term lock is 0.** MORPHO has no staking and no lock-up for holders, so no coins are being taken off the market this way.
+New long-term lock removed **0 MORPHO**. MORPHO has no staking and no lock-up program, so nothing takes MORPHO off the market for a long stretch.
 
 ## Foundation and overhang
 
-The **Morpho Association** holds about **89.70M MORPHO**, what is left of its 150M grant plus older reserves. It pays out every month, and each payout reaches the market, which is why it sits in the sell side above. The **Morpho DAO treasury** holds about **270.72M MORPHO** and moves only by governance vote. Two wallets the DAO filled on Nov 6 and Nov 11 2026 hold **12.80M** and **26.00M MORPHO**, and the DAO's rewards wallet holds about **1.62M**. Those DAO coins already count as circulating, so moving them does not add to the count, but they can still be sold.
+The Morpho Association still holds about **88.6M MORPHO** from its grant, and its payouts are the second source of new supply above. The founders and the third partner group still have about **109M MORPHO** locked, which will keep unlocking day by day until Nov 21 2027.
 
-On top of these, more than **100M MORPHO** of founder and partner coins still wait to unlock by Nov 21 2027. We re-read each of these wallets at every rebuild: if the Association's balance falls between checks, the outflow is added to the sell side at the next check.
+The Morpho DAO treasury holds about **270.7M MORPHO**. On Nov 6 and Nov 11 2026 the DAO sent **20.28M MORPHO** to two multisig wallets it funds, which now hold **38.8M MORPHO** between them. Two contributor-grant wallets hold about **52.8M MORPHO** and paid out about **0.85M MORPHO** in the window, and the DAO's rewards wallet holds about **1.6M MORPHO**. All of these DAO wallets already count as circulating, so their moves add nothing to the supply count. We read every one of these wallets on-chain at each rebuild. If the Association's balance or the locked batches fall faster between rebuilds, that extra outflow enters the ledger at the next rebuild.
 
-## How MORPHO compares to other DeFi governance tokens
+## How MORPHO compares to other DeFi lending tokens
 
-Most DeFi governance tokens fall into two groups. One group pays protocol fees into buybacks or burns, so some of the new supply is matched by coins taken back. The other group has no fee link, so supply only rises as team, investor and treasury coins are released. **MORPHO sits firmly in the second group**: its fee switch is off, so the growth of the Morpho lending network does not turn into buying of MORPHO.
+MORPHO is a lending-network governance token with a stated maximum of **1B** and no ongoing mint, so its new supply comes from unlocks, not from inflation. That puts MORPHO closer to young venture-backed tokens than to tokens with a printing schedule: the pressure comes from insiders and grant holders receiving coins, and it ends when the last founder batch unlocks on Nov 21 2027.
 
-Against tokens that mint new coins every block, MORPHO minted nothing in the window and about 70% of its 1 billion coins are already out. Against tokens whose vesting ended long ago, MORPHO is still in its unlock phase. The founders' and partners' monthly steps run until Nov 21 2027, and the Association's 150M grant is spread to 2030, so a rate near **6% every 90 days** is the shape to expect while those run.
+The bigger difference is on the buy side. Some lending tokens send part of their protocol income to buy their own token back, which gives the token a steady buyer. Aave, for example, has been using part of its income to buy AAVE. Morpho keeps its fee switch off, so the interest that borrowers pay goes to lenders and vault curators, and none of it turns into demand for MORPHO. Lending tokens that pay user rewards from a treasury, as Morpho does, look calm on supply only as long as that treasury counts as circulating, which is the case for the Morpho DAO.
+
+In short, MORPHO sits at the heavier end of lending tokens for new supply in late 2026: about **6%** every 90 days, with no burn or buyback to offset it, until the fee switch is turned on or the unlocks run out.
 
 ## What to watch in the next 90 days
 
-**Nov 21 2026, Dec 21 2026 and Jan 21 2027:** the next three monthly founder and partner unlocks, about **9.13M MORPHO** each, **27.38M** in all.
+**Daily unlocks through Feb 20 2027.** About **300K MORPHO** a day keeps unlocking for the founders and the third partner group, around **27.0M MORPHO** over the next 90 days.
 
-**Mid-December 2026:** the two wallets that received Association payouts on Jun 3 and Sep 16 2026 would be due again if that spacing holds.
+**The Association's next large payout, likely around mid-December 2026.** Its two biggest payouts so far, on Jun 3 and Sep 16 2026, came about three months apart. A similar one in December would keep the Association line near the **15.58M MORPHO** booked here.
 
-**The two new DAO-funded wallets:** 26.00M and 12.80M MORPHO arrived on Nov 11 and Nov 6 2026; what they do next shows where that money is going.
+**The two DAO-funded wallets filled on Nov 6 and Nov 11 2026.** They hold **38.8M MORPHO**. Any payout from them would go to outside holders, and the next rebuild would show it.
 
-**Any fee switch or mint vote:** a Morpho DAO vote to turn on the fee of up to 25% of borrower interest would be the first route by which Morpho's revenue could buy MORPHO, and a mint vote would add new coins. Neither was open on Nov 12 2026.
+**A fee-switch vote.** None is scheduled as of Nov 22 2026. Turning the fee switch on is the one change that could give MORPHO a buyer.
+
+**Around Nov 30 2026.** The Sep 1 2026 jump leaves other trackers' 90-day window, so their figure should move closer to the **+6.03%** shown here.
 
 ## Summary
 
-MORPHO supply grew **+6.15%** in the 90 days to Nov 12 2026, from **27.38M MORPHO** of founder and partner unlocks and **15.92M** of Morpho Association payouts, with nothing bought back or burned. No MORPHO was minted, and the stated maximum is 1 billion. The main risk is what is still held back: about 89.70M MORPHO with the Association and more than 100M of founder and partner coins still to unlock, plus a 270.72M DAO treasury that can be sold. Until the founders' vesting ends on Nov 21 2027, MORPHO should keep adding roughly the same amount every 90 days.
+MORPHO supply grew **+6.03%** in the 90 days to Nov 22 2026 and is projected to grow about **+6.03%** again in the next 90 days. The new MORPHO comes from founder and partner unlocks of **27.0M** and Morpho Association payouts of **15.58M**, and nothing on the buy side takes any of it back, because Morpho has no buyback, no burn and its fee switch is off. The main risk is that the Association, which still holds about **88.6M MORPHO**, speeds up its payouts while the locked founder coins keep arriving every day until Nov 21 2027. MORPHO has a stated maximum of **1B**, but the Morpho DAO could still vote to mint more.
 
----
-
-*MrNasDog Pressure Framework analysis of MORPHO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 12 2026.*
+*MrNasDog Pressure Framework analysis of MORPHO, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 22 2026.*
