@@ -1,6 +1,6 @@
 ---
 title:         "KuCoin Token (KCS) Tokenomics: 0.00% Supply in 90 Days"
-description:   "As of Nov 13 2026, new KuCoin Token supply runs at 0.00% over 90 days and 0.00% over 12 months."
+description:   "As of Nov 23 2026, new KuCoin Token supply runs at 0.00% over 90 days and 0.00% over 12 months."
 canonical_url: "https://mrnasdog.com/research/kcs"
 content_type:  "coin_hub"
 tags:          ["crypto", "kcs", "kucointoken", "should-i-buy"]
@@ -8,11 +8,11 @@ published:     true
 ---
 # KuCoin Token (KCS) Tokenomics: 0.00% Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/kcs (checked Nov 21 2026)*
+*Originally published at https://mrnasdog.com/research/kcs (checked Nov 23 2026)*
 
-As of Nov 13 2026, new KuCoin Token supply runs at **0.00%** over 90 days and **0.00%** over 12 months.
+As of Nov 23 2026, new KuCoin Token supply runs at **0.00%** over 90 days and **0.00%** over 12 months.
 
-- **Long-run signal:** negative (Nov 21 2026)
+- **Long-run signal:** negative (Nov 23 2026)
 - **Score:** 4.5/10 — supply 4.5/5, demand 0/5
 - **New supply:** 0.00% in 90 days · 0.00% in a year
 - **Demand:** minimal (0/5)
@@ -39,7 +39,7 @@ Good for the price: Licenses won, bans lifted. Bad for it: More fines and bans. 
 | Oct 29 2026 | Exits Russia and Belarus |
 | Jan 2027 at the earliest | US ban may end (coming) |
 
-*Checked Nov 13 2026*
+*Checked Nov 23 2026*
 
 ### ▼ KuCoin users' BTC
 
@@ -54,13 +54,13 @@ Users bring BTC in → price up · Users pull BTC out → price down. Now: ▼ d
 | Sep 30 2026 | 7,359 BTC |
 | Oct 31 2026 | 7,521 BTC |
 
-*Checked Nov 13 2026*
+*Checked Nov 23 2026*
 
 ## New KCS hitting the market
 
-KuCoin Token is the KuCoin exchange coin. No new KCS is made and KuCoin has burned none since Dec 31 2025, so supply is flat at 0.00% over 90 days, while a 2022 lock wallet still holds 47.5M KCS that has not moved.
+KuCoin Token is the KuCoin exchange coin. No new KCS is made and KuCoin has burned none since Dec 31 2025, so supply is flat at 0.00% over 90 days, while a 2022 lock wallet still holds 47.5M KCS that has never moved.
 
-New KCS: 0.00% in 90 days, 0.00% in a year. Supply score 4.5/5, "flat" (place 81 of 100).
+New KCS: 0.00% in 90 days, 0.00% in a year. Supply score 4.5/5, "flat" (place 80 of 100).
 
 ## KCS demand
 
@@ -72,31 +72,31 @@ Members get the rest of the KuCoin Token demand read on mrnasdog.com.
 
 ### Is KuCoin Token (KCS) inflationary or deflationary?
 
-KuCoin Token (KCS) is flat, neither inflationary nor deflationary right now: its supply changes 0.00% over the next 90 days and 0.00% over the next year (checked Nov 13 2026). New KCS and removed KCS about cancel out.
+KuCoin Token (KCS) is flat, neither inflationary nor deflationary right now: its supply changes 0.00% over the next 90 days and 0.00% over the next year (checked Nov 23 2026). New KCS and removed KCS about cancel out.
 
 ### What is the KCS inflation rate in 2026?
 
-About 0.00% a year: that is how much KuCoin Token (KCS) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 13 2026). That puts KCS #81 of 100 coins we track for new supply (#1 = the most new supply).
+About 0.00% a year: that is how much KuCoin Token (KCS) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 23 2026). That puts KCS #80 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next KCS token unlock?
 
-No dated KuCoin Token (KCS) unlock is scheduled in the next 90 days (checked Nov 13 2026).
+No dated KuCoin Token (KCS) unlock is scheduled in the next 90 days (checked Nov 23 2026).
 
 ### Does KuCoin Token burn or buy back KCS?
 
-Not in a way that removes KCS today: nothing takes KCS off the market over the next 90 days (checked Nov 13 2026). No burn since the 20,240 KCS burn of Dec 31 2025 and no fee burn: KuCoin's monthly buy-and-burn has gone quiet.
+Not in a way that removes KCS today: nothing takes KCS off the market over the next 90 days (checked Nov 23 2026). Nothing burned since the 20,240 KCS burn of Dec 31 2025, and the chain has no fee burn: KuCoin's monthly buy-and-burn has gone quiet.
 
 ### Where does new KCS supply come from?
 
-Almost no new KCS reaches the market over the next 90 days (checked Nov 13 2026). No new KCS is made, and the 2022 lock wallet (47.5M KCS) has sent nothing since Mar 31 2022, so the Oct 1 2026 paper unlock adds no coins.
+Almost no new KCS reaches the market over the next 90 days (checked Nov 23 2026). No new KCS is made, and the 2022 lock wallet (47.5M KCS) has sent nothing since Mar 31 2022, so the Oct 1 2026 paper unlock added no coins.
 
 ### How much KCS is in circulation?
 
-About 140M KCS is in circulation (checked Nov 13 2026). Over the next 90 days that changes 0.00%, and over a year 0.00%.
+About 140M KCS is in circulation (checked Nov 23 2026). Over the next 90 days that changes 0.00%, and over a year 0.00%.
 
-### Does KCS have more new supply than POL, JUP or INJ?
+### Does KCS have more new supply than JUP, POL or NIGHT?
 
-Over the next 90 days (checked Nov 13 2026): KCS 0.00%, POL −0.32%, JUP −0.01%, INJ +0.81%. KCS sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 23 2026): KCS 0.00%, JUP −0.01%, POL −0.31%, NIGHT 0.00%. KCS has the most new supply of these 4 coins.
 
 ## Go deeper on KuCoin Token
 

@@ -1,28 +1,28 @@
 ---
-title:         "Is Pi Network (PI) Inflationary? +4.21% New Supply in 90 Days"
-description:   "How much new PI is coming? +4.21% in the next 90 days, +17.08% in the next year — checked Nov 13 2026."
+title:         "Is Pi Network (PI) Inflationary? +3.87% New Supply in 90 Days"
+description:   "How much new PI is coming? +3.87% in the next 90 days, +15.47% in the next year — checked Nov 23 2026."
 canonical_url: "https://mrnasdog.com/research/pi"
 content_type:  "coin_hub"
 tags:          ["crypto", "pi", "pinetwork", "should-i-buy"]
 published:     true
 ---
-# Is Pi Network (PI) Inflationary? +4.21% New Supply in 90 Days
+# Is Pi Network (PI) Inflationary? +3.87% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/pi, updated Nov 21 2026*
+*From https://mrnasdog.com/research/pi, updated Nov 23 2026*
 
-How much new PI is coming? **+4.21%** in the next 90 days, **+17.08%** in the next year — checked Nov 13 2026.
+How much new PI is coming? **+3.87%** in the next 90 days, **+15.47%** in the next year — checked Nov 23 2026.
 
 - **Signal today:** negative for Pi Network
-- **MrNasDog score:** 2/10 — supply 0.5/5, demand 1.5/5
-- **New coins:** +4.21% in 90 days · +17.08% in a year
+- **MrNasDog score:** 2.5/10 — supply 1/5, demand 1.5/5
+- **New coins:** +3.87% in 90 days · +15.47% in a year
 - **Demand:** very weak (1.5/5)
 - **Drivers:** 0 ▲ price up · 1 ▼ price down
 
 ## How fast Pi Network supply grows
 
-Pi Network created all 100B PI at launch and releases them over time: 337.85M mined PI reached the main chain and team and reserve wallets sent 144.42M to exchanges in 90 days, so supply grew about 4.21%, with only 2.81M PI taken out by fees.
+Pi Network created all 100B PI at launch, and the float grows as Pioneers migrate mined coins and team and reserve wallets send PI to exchanges. Supply grew +3.87% in 90 days and should grow about the same next, with only a small fee sink.
 
-Pi Network adds +4.21% new supply in the next 90 days and +17.08% over a year — supply scores 0.5/5 (flooding), #19 of 100 for new supply.
+Pi Network adds +3.87% new supply in the next 90 days and +15.47% over a year — supply scores 1/5 (very heavy), #20 of 100 for new supply.
 
 ## Big wallets, votes and dates behind PI
 
@@ -30,7 +30,7 @@ What the score misses: 2 drivers. Today 0 push PI's price up and 1 push it down.
 
 ### ▼ Big exchange listings
 
-Kraken listed PI Mar 13 2026; Binance and Coinbase still have not.
+Kraken and OKX US list PI; Binance and Coinbase still have not.
 
 ▲ Price up if: A top exchange lists PI. ▼ Price down if: Top exchanges stay away. Today: the price-down case.
 
@@ -40,31 +40,32 @@ Kraken listed PI Mar 13 2026; Binance and Coinbase still have not.
 | Feb 27 2025 | Binance poll: 86% yes |
 | Aug 27 2025 | Valour PI ETP, Sweden |
 | Mar 13 2026 | Kraken lists PI |
+| May 21 2026 | OKX opens PI to US |
 | No date yet | Binance or Coinbase? (coming) |
 
-*Checked Nov 13 2026*
+*Checked Nov 23 2026*
 
 ### • Core Team moves
 
-Summit Nov 17-19; Pi Next hackathon with $200K prize starts Nov 19.
+Summit Nov 17: DEX and AMM go to mainnet in Q1 2027.
 
 Good for the price: Real uses go live. Bad for it: Upgrades bring no use.
 
 | Date | What happened / what is coming |
 |---|---|
-| Aug 11 2026 | Protocol 26 deadline |
 | Sep 30 2026 | OUSD stablecoin deal |
 | Oct 13 2026 | Node update deadline |
 | Oct 16 2026 | Protocol 28 on mainnet |
 | Oct 30 2026 | Four dev tools launched |
-| Nov 17-19 2026 | Ecosystem Summit (coming) |
-| Nov 19 2026 | Pi Next hackathon starts (coming) |
+| Nov 17 2026 | Ecosystem Summit |
+| Nov 19 2026 | Pi Next hackathon starts |
+| Q1 2027 | DEX, AMM on mainnet (coming) |
 
-*Checked Nov 13 2026*
+*Checked Nov 23 2026*
 
 ## Who wants Pi Network right now
 
-Demand reads **very weak** (1.5/5), #76 of 109 coins we track — that is how much people want PI now and how much buying could still come.
+Demand reads **very weak** (1.5/5), #78 of 109 coins we track — that is how much people want PI now and how much buying could still come.
 
 (Members see more PI demand detail on the page; it is not repeated here.)
 
@@ -72,31 +73,31 @@ Demand reads **very weak** (1.5/5), #76 of 109 coins we track — that is how mu
 
 ### Is Pi Network (PI) inflationary or deflationary?
 
-Pi Network (PI) is inflationary right now: its supply changes +4.21% over the next 90 days and +17.08% over the next year (checked Nov 13 2026). More PI is added than removed.
+Pi Network (PI) is inflationary right now: its supply changes +3.87% over the next 90 days and +15.47% over the next year (checked Nov 23 2026). More PI is added than removed.
 
 ### What is the PI inflation rate in 2026?
 
-About +17.08% a year: that is how much Pi Network (PI) supply changes over the next 12 months, with +4.21% in the next 90 days (checked Nov 13 2026). That puts PI #19 of 100 coins we track for new supply (#1 = the most new supply).
+About +15.47% a year: that is how much Pi Network (PI) supply changes over the next 12 months, with +3.87% in the next 90 days (checked Nov 23 2026). That puts PI #20 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next PI token unlock?
 
-No dated Pi Network (PI) unlock is scheduled in the next 90 days (checked Nov 13 2026). New PI still arrives: about 482M PI in 90 days.
+No dated Pi Network (PI) unlock is scheduled in the next 90 days (checked Nov 23 2026). New PI still arrives: about 444M PI in 90 days.
 
 ### Does Pi Network burn or buy back PI?
 
-Yes. In our count, about 2.81M PI is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 13 2026). How it works: There is no buyback and no burn. Network fees fall into a pool no one can spend, which took 2.81M PI out of use in 90 days.
+Yes. In our count, about 3.07M PI is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 23 2026). How it works: No buyback. Fees took 3.07M PI into a network pool no one can spend, under one percent of what came in.
 
 ### Where does new PI supply come from?
 
-In our count, about 482M new PI reaches the market over the next 90 days (checked Nov 13 2026). How it works: Nothing new is minted, but 337.85M mined PI reached the main chain in 90 days, and Core Team, Foundation and liquidity-reserve wallets sent another 144.42M PI to exchange wallets. More than 80B PI still sits in project wallets.
+In our count, about 444M new PI reaches the market over the next 90 days (checked Nov 23 2026). How it works: Pioneers moved 311.9M mined PI onto the main chain in the last 90 days, and Core Team, Foundation and reserve wallets sent another 132.11M PI to exchanges; about the same is expected next.
 
 ### How much PI is in circulation?
 
-About 11.4B PI is in circulation (checked Nov 13 2026). Over the next 90 days that changes +4.21%, and over a year +17.08%.
+About 11.4B PI is in circulation (checked Nov 23 2026). Over the next 90 days that changes +3.87%, and over a year +15.47%.
 
-### Does PI have more new supply than INJ, KAS or LIT?
+### Does PI have more new supply than ATOM, NEXO or INJ?
 
-Over the next 90 days (checked Nov 13 2026): PI +4.21%, INJ +0.81%, KAS +0.51%, LIT +8.94%. PI sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 23 2026): PI +3.87%, ATOM +3.17%, NEXO 0.00%, INJ +0.78%. PI has the most new supply of these 4 coins.
 
 ## Where to read the rest of PI
 

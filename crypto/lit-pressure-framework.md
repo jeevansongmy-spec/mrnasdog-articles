@@ -1,6 +1,6 @@
 ---
 title:         "LIT Inflation Analysis · November 2026 · Mixed last 90D · projected to grow"
-description:   "LIT supply was flat over 90 days: the fee buyback stays in Lighter wallets and the burn came from the reserve. 22.36M team LIT unlock from Dec 27 2026."
+description:   "Lighter (LIT) supply was flat over 90 days, but team and investor unlocks of 13.89M LIT a month start in late December: about +11.1% in the next 90 days."
 canonical_url: "https://mrnasdog.com/research/lit/inflation"
 tags:          ["crypto", "lit", "lighter", "perpdex"]
 published:     true
@@ -12,50 +12,52 @@ published:     true
 
 # LIT Inflation Analysis · November 2026 · Mixed last 90D · projected to grow
 
-LIT, the coin of the Lighter perpetual futures exchange, added **no new coins** to the market between Aug 15 and Nov 13 2026, so supply held at **0.00%**, while other trackers read **−0.20%**. That calm ends soon: the 500M LIT held by the team and investors start to unlock around Dec 27 2026, about **22.36M LIT** by Feb 11 2027, which is **+8.94%** on the 250M LIT now circulating. LIT can never pass its 1B cap, and burns have already cut the total to about 981.91M.
+**LIT**, the coin of the Lighter trading exchange, added **no new coins** to the market between Aug 25 and Nov 23 2026, so its supply change was **0.00%**, against **−0.11%** on other trackers. That calm ends soon: from late December 2026 the team and investor allocations start paying out about **13.89M LIT** a month, about **27.78M LIT** or **+11.1%** in the next 90 days. Supply is capped at **1B** LIT, now about **981.91M** after burns.
 
 ## The verdict, in one paragraph
 
-Over the last 90 days LIT supply changed by **0.00%**: **0 LIT** of new sell pressure and **0 LIT** of buy pressure crossed into or out of the 250M LIT counted as circulating. Other trackers show **−0.20%** for the same 90 days, a gap of **0.20 points**, small enough that the coin page carries no warning note. The next 90 days look very different: **22.36M LIT** of team and investor coins are due, so supply is projected to grow by about **8.94%**. LIT is a quiet coin on a timer: flat today, inflationary by schedule from late December 2026.
+Over the last 90 days LIT's circulating supply moved by **0.00%**: nothing unlocked, nothing new was created, and the coins Lighter bought back and burned did not change the count on the market. Other trackers read **−0.11%** for the same 90 days, a gap of **0.11 points**, small enough that the coin page carries no warning note. The next 90 days look very different. The first two monthly payouts to Lighter's team and investors fall inside that window, and they add about **27.78M LIT** to **250M** circulating today, roughly **+11.1%**, with nothing on the buy side that removes coins from the count. LIT is a **quiet coin about to start a three-year unlock**.
 
 ## Sell pressure: where new LIT comes from
 
-Protocol inflation is **0**. Lighter does not create new LIT: the token supply on Ethereum stayed at exactly 1B at both ends of the window. Lighter stakers earn about 6% a year, paid in LIT; with about **101.77M LIT** staked, that is roughly 1.51M LIT every 90 days. That pay comes from Lighter's own treasury wallet, whose coins are already counted as circulating, so it moves LIT from one circulating wallet to another and adds nothing new.
+**Protocol inflation is zero.** LIT has a fixed supply of 1B coins, and the LIT token contract on Ethereum has no function that can create more. No new LIT appeared between Aug 25 and Nov 23 2026, and after 18.09M LIT were burned the total stands near **981.91M**.
 
-Vesting unlocks were **0** in the last 90 days and are the one big number ahead. Lighter gave 26% of LIT (260M) to its team and 24% (240M) to investors, locked for one year from the Dec 30 2025 launch and then released over three years. Unlock trackers put the first weekly release around Dec 27 2026 at about 3.19M LIT a week. Seven weekly releases fall before Feb 11 2027, about **22.36M LIT**. These coins sit in ordinary wallets with no on-chain lock, so once the date passes nothing in code stops them from moving.
+**Vesting unlocks are zero for the last 90 days and about 27.78M LIT for the next 90.** Lighter's team holds 260M LIT (26%) and its investors 240M LIT (24%). Both were locked for one year after the Dec 30 2025 launch and then pay out evenly over three years, which works out to about **13.89M LIT** a month: some 7.22M for the team and 6.67M for investors. The first payout is due around Dec 27–30 2026 and the second in late January 2027, both before Feb 21 2027, so the full **27.78M LIT** counts in the next 90 days. The third payout, in late February 2027, falls just after the window. The wallets that hold these allocations did not move at all between Aug 25 and Nov 23 2026.
 
-Foundation and unscheduled unlocks are **0**. The ecosystem reserve, about 231.81M LIT, has no release schedule, and its only move in the window was the 2.45M LIT it sent to be burned on Oct 9 2026. Nothing from it reached the market. Long-term locked or bankruptcy supply is also **0**: no court case or failed firm is holding LIT to pay out.
+**Foundation and unscheduled unlocks are zero.** Lighter's ecosystem reserve, about **231.81M LIT**, has no release schedule, and the only LIT it gave up this window were the coins it burned on Oct 9 2026. The LIT that Lighter spends on stakers, partners and campaigns comes from coins it bought back on the market, which were already counted as circulating, so handing them out adds nothing new.
+
+**Long-term locked or bankruptcy supply is zero.** No bankrupt firm or court holds LIT waiting to be paid out. The Nov 16 2026 theft from one trader's account on Lighter took dollars, not LIT, and released no new coins.
 
 ## Buy pressure: where new LIT goes
 
-The programmatic buyback books **0**, even though it is real. Every day Lighter spends trading fees on LIT. Between Aug 15 and Nov 13 2026 Lighter's buyback account bought about **2.93M LIT** for about $10.2M, with October the busiest month at about 1.28M LIT. Those coins are not destroyed. They stay in a Lighter account, then move to the treasury wallet that pays stakers and partners, all of it already counted as circulating. The coins leave the order book, but they do not leave the count.
+**The programmatic buyback books zero, even though it is real and large.** Lighter spends part of its trading fees on LIT every day through slow, all-day buy orders. From Aug 25 to Nov 23 2026 it bought **3.12M LIT** for about **$10.65M**, and on Nov 20 2026 it said its total since launch had passed **20M LIT**. The bought coins sit in Lighter's treasury account on its own exchange, about 2.30M LIT today, and are later moved to the wallet that pays stakers and partners. Because those coins never stop counting as circulating, the buyback does not shrink the LIT count.
 
-The burn also books **0**. On Oct 9 2026 Lighter burned 2.45M LIT, matching what it had bought from July to September. The burned coins came from the ecosystem reserve, not from the bought coins, which Lighter calls economically the same for holders. The reserve was never counted as circulating, so the burn shrank the reserve and the total supply, now about 18.09M LIT burned in all, but not the 250M LIT on the market.
+**The protocol fee burn books zero for the same reason in reverse.** On Oct 9 2026 Lighter burned **2,452,017 LIT**, matching what it bought back from July to September. The burned coins came out of the ecosystem reserve, which was never part of the circulating count, while the bought-back coins went on to Lighter's payout wallet. The LIT burn therefore lowers the 1B ceiling, now about 981.91M, but leaves the coins on the market unchanged.
 
-Foundation buying is **0**: there is no separate company or foundation buying LIT beyond the fee buyback. A new long-term lock is **0** as well: about 101.77M LIT is staked, but stakers can leave after a 3-day wait, and staked LIT still counts as circulating.
+**Foundation buys are zero.** Lighter makes no purchases beyond the fee buyback, and its 6% staking reward, about 150K LIT a week, is paid from bought-back coins rather than fresh buying. **New long-term locks are zero.** Staked LIT can be withdrawn after three days and still counts as circulating, so staking removes nothing.
 
 ## Foundation and overhang
 
-Four Lighter-controlled piles of LIT are worth watching. The largest is the team and investor allocation of **500M LIT**, untouched so far and due to start unlocking around Dec 27 2026. The second is the ecosystem reserve, about **231.81M LIT**, meant for future points seasons, partners and staking, with no schedule. The third is Lighter's treasury wallet, which fell from about 14.90M to **7.54M LIT** during the window as it paid stakers and partners; it is already counted as circulating. The fourth is the buyback account, about **1.75M LIT** bought since Oct 1 2026. We read every one of these balances on-chain each time we check the coin. If the reserve or the locked team and investor wallets fall between checks, that outflow will be added to the sell side at the next check.
+Lighter controls four piles of LIT. The largest is the **ecosystem reserve, about 231.81M LIT**, set aside for incentives and partnerships with no published schedule; it has only shrunk through burns. The second is the **team and investor allocation, 500M LIT**, which starts paying out in late December 2026. The third is the **payout wallet that holds bought-back LIT, 4.90M on Nov 23 2026**, which sent out about 12.3M LIT between Aug 25 and Nov 23 2026 to stakers, partners and exchange accounts. The fourth is the **treasury account on the exchange, about 2.30M LIT**, filled by the everyday buyback since Oct 1 2026 and waiting for the next quarterly burn. We keep watching the reserve and the vesting wallets; if the reserve's balance falls between checks, that outflow is added to the sell side at the next check.
 
-## How LIT compares to other perpetual exchange chains
+## How LIT compares to other perp exchange chains
 
-Lighter is most often compared with Hyperliquid and its HYPE token. Both exchanges spend trading fees buying their own coin. The difference is where the coins end up and when insiders unlock. Lighter's buyback coins return to a Lighter account and fund staking pay, while a matching amount from the reserve is burned each quarter, so the coins on the market do not fall. LIT also has a single large lock: half the supply, all team and investors, opens on one date and then streams out weekly for three years.
+Among trading-exchange coins, LIT sits in the group that turns fees into buybacks rather than paying holders directly. What sets Lighter apart is the swap at burn time: the exchange burns reserve coins equal to what it bought, then reuses the bought coins for staking rewards and incentives. The result is a smaller ceiling and a reserve that empties faster, but no fall in the LIT already trading. A design that burned the bought coins themselves would shrink the market count instead.
 
-Against exchange coins that burn bought coins directly, LIT's float looks flat rather than shrinking. Against older perpetual exchange tokens whose insider unlocks are already done, LIT is early in its life: less than a year old, with three-quarters of its supply still outside the market. In LIT's case the buyback is the brake and the unlock is the engine. At today's pace the fees buy about 3.15M LIT a quarter, while the unlock adds about 22.36M LIT in its first seven weeks alone.
+LIT also carries a heavier insider share than many rivals. Half of all LIT belongs to the team and investors, and all of it unlocks over the same three years, so from late December 2026 roughly 13.89M LIT a month joins a market of 250M. At the current pace of about 3.12M LIT bought every 90 days, the buyback covers a little over a tenth of that new supply. Exchange coins with a fixed cap and a long-finished vesting schedule face none of this; LIT is at the start of its unlock, not the end.
 
 ## What to watch in the next 90 days
 
-Around Dec 27 2026 the first weekly team and investor release is due, about 3.19M LIT, and it repeats every week after that. Watch whether those wallets send coins to exchanges in the first weeks.
+**Dec 27–30 2026:** the first monthly team and investor payout, about 13.89M LIT. Watch whether those coins head to exchanges or stay put.
 
-In early January 2027 Lighter is expected to burn the October to December buyback, which stood near 1.75M LIT on Nov 13 2026. If it again comes from the reserve, the circulating count does not change.
+**Early January 2027:** the burn for October to December buybacks, at least the 2.30M LIT already bought since Oct 1 2026. Whether it again comes from the reserve decides if it touches the coins on the market.
 
-During November 2026 Lighter has said it plans to apply for US trading and clearing licenses. Trading fees fund the buyback, so more volume means more buying, though not a smaller count.
+**Late January 2027:** the second monthly payout, another 13.89M LIT, taking the total unlocked to about 27.78M.
 
-The reserve, about 231.81M LIT, has no schedule. A new points season or partner program paid from it would add new LIT to the market.
+**Every week:** the 150K LIT staking payout and the payout wallet's other transfers, plus the ecosystem reserve's balance, the one pile with no schedule at all.
 
 ## Summary
 
-Lighter's LIT held its circulating supply flat at **0.00%** over the 90 days to Nov 13 2026, within **0.20 points** of other trackers. The fee buyback that runs every day, about 2.93M LIT in that time, and the 2.45M LIT burn on Oct 9 2026 are real, but the bought coins stay in Lighter's own circulating wallets and the burn came from the reserve. The key risk is the team and investor unlock starting around Dec 27 2026, about **22.36M LIT** by Feb 11 2027 or **+8.94%**. LIT's supply can never pass its 1B cap, and burns have already cut the total to about 981.91M LIT.
+LIT's circulating supply was flat over the 90 days to Nov 23 2026, at 250M coins out of a 1B cap now trimmed to about 981.91M by burns. Lighter's everyday fee buyback is real, 3.12M LIT in 90 days, but the bought coins stay in circulation and its burns come from the reserve, so neither shrinks the count on the market. The big change is the team and investor unlock: about 13.89M LIT a month from late December 2026, about 27.78M LIT or +11.1% in the next 90 days, and the same pace for three years after. For LIT, the unlock calendar now matters far more than the buyback.
 
-*MrNasDog Pressure Framework analysis of LIT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 13 2026.*
+*MrNasDog Pressure Framework analysis of LIT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 23 2026.*

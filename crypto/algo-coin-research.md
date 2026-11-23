@@ -1,62 +1,62 @@
 ---
-title:         "Is Algorand (ALGO) Inflationary? +0.43% New Supply in 90 Days"
-description:   "How much new ALGO is coming? +0.43% in the next 90 days, +1.69% in the next year — checked Nov 13 2026."
+title:         "Is Algorand (ALGO) Inflationary? +0.35% New Supply in 90 Days"
+description:   "How much new ALGO is coming? +0.35% in the next 90 days, +1.37% in the next year — checked Nov 23 2026."
 canonical_url: "https://mrnasdog.com/research/algo"
 content_type:  "coin_hub"
 tags:          ["crypto", "algo", "algorand", "should-i-buy"]
 published:     true
 ---
-# Is Algorand (ALGO) Inflationary? +0.43% New Supply in 90 Days
+# Is Algorand (ALGO) Inflationary? +0.35% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/algo, updated Nov 21 2026*
+*From https://mrnasdog.com/research/algo, updated Nov 23 2026*
 
-How much new ALGO is coming? **+0.43%** in the next 90 days, **+1.69%** in the next year — checked Nov 13 2026.
+How much new ALGO is coming? **+0.35%** in the next 90 days, **+1.37%** in the next year — checked Nov 23 2026.
 
 - **Long-run signal:** negative for Algorand
-- **Score:** 4.5/10 — supply 3/5, demand 1.5/5
-- **New supply:** +0.43% in 90 days · +1.69% in a year
-- **Demand:** very weak (1.5/5)
+- **Score:** 4/10 — supply 3/5, demand 1/5
+- **New supply:** +0.35% in 90 days · +1.37% in a year
+- **Demand:** low (1/5)
 - **Price drivers:** 0 ▲ price up · 2 ▼ price down
 
 ## Algorand supply questions, answered
 
 ### Is Algorand (ALGO) inflationary or deflationary?
 
-Algorand (ALGO) is inflationary right now: its supply changes +0.43% over the next 90 days and +1.69% over the next year (checked Nov 13 2026). More ALGO is added than removed.
+Algorand (ALGO) is inflationary right now: its supply changes +0.35% over the next 90 days and +1.37% over the next year (checked Nov 23 2026). More ALGO is added than removed.
 
 ### What is the ALGO inflation rate in 2026?
 
-About +1.69% a year: that is how much Algorand (ALGO) supply changes over the next 12 months, with +0.43% in the next 90 days (checked Nov 13 2026). That puts ALGO #61 of 100 coins we track for new supply (#1 = the most new supply).
+About +1.37% a year: that is how much Algorand (ALGO) supply changes over the next 12 months, with +0.35% in the next 90 days (checked Nov 23 2026). That puts ALGO #62 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next ALGO token unlock?
 
-No dated Algorand (ALGO) unlock is scheduled in the next 90 days (checked Nov 13 2026). New ALGO still arrives: about 38.8M ALGO in 90 days.
+No dated Algorand (ALGO) unlock is scheduled in the next 90 days (checked Nov 23 2026). New ALGO still arrives: about 31.6M ALGO in 90 days.
 
 ### Does Algorand burn or buy back ALGO?
 
-Yes. In our count, about 114K ALGO is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 13 2026). How it works: Nothing is burned and there is no buyback. Fees kept by the fee sink took back only 113,736 ALGO in 90 days, plus 187,208 ALGO returned to Foundation wallets on Nov 4 2026.
+Yes. In our count, about 115K ALGO is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 23 2026). How it works: Nothing is burned and there is no buyback. Fees kept by the network took back only 114,589 ALGO in 90 days, plus 187,135 ALGO sent back to Foundation wallets on Nov 4 2026.
 
 ### Where does new ALGO supply come from?
 
-In our count, about 38.8M new ALGO reaches the market over the next 90 days (checked Nov 13 2026). How it works: No ALGO is minted, but the Foundation releases it: 18.72M in staking payouts and 35.55M from its wallets in 90 days, including 14.97M of one-off payments still parked. About 920M ALGO is still held by the Foundation.
+In our count, about 31.6M new ALGO reaches the market over the next 90 days (checked Nov 23 2026). How it works: No ALGO is minted, but the Foundation releases it: 18.65M in staking pay and 28.41M from its wallets in 90 days, including 14.97M of one-off payments still unspent. The Foundation still holds about 917.57M ALGO.
 
 ### How much ALGO is in circulation?
 
-About 9.08B ALGO is in circulation (checked Nov 13 2026). Over the next 90 days that changes +0.43%, and over a year +1.69%.
+About 9.08B ALGO is in circulation (checked Nov 23 2026). Over the next 90 days that changes +0.35%, and over a year +1.37%.
 
-### Does ALGO have more new supply than LIT, RENDER or NIGHT?
+### Does ALGO have more new supply than KAS, GT or ATOM?
 
-Over the next 90 days (checked Nov 13 2026): ALGO +0.43%, LIT +8.94%, RENDER +0.08%, NIGHT 0.00%. ALGO sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 23 2026): ALGO +0.35%, KAS +0.50%, GT −3.06%, ATOM +3.17%. ALGO sits in the middle of these 4 coins.
 
 ## How fast Algorand supply grows
 
-Algorand never mints ALGO, yet supply grew 0.59% in 90 days as the Foundation paid stakers and spent from its wallets. Nothing is burned.
+Algorand never mints ALGO, yet supply grew 0.51% in 90 days as the Foundation paid stakers and spent from its wallets. Nothing is burned.
 
-Algorand adds +0.43% new supply in the next 90 days and +1.69% over a year — supply scores 3/5 (light), #61 of 100 for new supply.
+Algorand adds +0.35% new supply in the next 90 days and +1.37% over a year — supply scores 3/5 (light), #62 of 100 for new supply.
 
 ## How strong is Algorand demand?
 
-Demand reads **very weak** (1.5/5), #76 of 109 coins we track — that is how much people want ALGO now and how much buying could still come.
+Demand reads **low** (1/5), #91 of 109 coins we track — that is how much people want ALGO now and how much buying could still come.
 
 (Members see more ALGO demand detail on the page; it is not repeated here.)
 
@@ -77,7 +77,7 @@ Foundation ALGO fell from 1,891M to 1,036M since Mar 2024.
 | Mar 31 2026 | 1,079 M ALGO |
 | Jun 30 2026 | 1,036 M ALGO |
 
-*Checked Nov 13 2026*
+*Checked Nov 23 2026*
 
 ### ▼ Foundation roadmap
 
@@ -96,7 +96,7 @@ Good for the price: Upgrades ship on time. Bad for it: Delays, leadership churn.
 | Late 2026 | Falcon-512 support (coming) |
 | End of 2027 | Broad quantum safety (coming) |
 
-*Checked Nov 13 2026*
+*Checked Nov 23 2026*
 
 ## Where to read the rest of ALGO
 

@@ -1,6 +1,6 @@
 ---
 title:         "Midnight (NIGHT) Supply & Demand: 0.00% Supply in 90 Days"
-description:   "Midnight (NIGHT) supply changes 0.00% over the next 90 days and +2.28% over a year (checked Nov 13 2026)."
+description:   "Midnight (NIGHT) supply changes 0.00% over the next 90 days and +2.20% over a year (checked Nov 23 2026)."
 canonical_url: "https://mrnasdog.com/research/night"
 content_type:  "coin_hub"
 tags:          ["crypto", "night", "midnight", "should-i-buy"]
@@ -8,21 +8,21 @@ published:     true
 ---
 # Midnight (NIGHT) Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/night · checked Nov 21 2026*
+*Live page: https://mrnasdog.com/research/night · checked Nov 23 2026*
 
-Midnight (NIGHT) supply changes **0.00%** over the next 90 days and **+2.28%** over a year (checked Nov 13 2026).
+Midnight (NIGHT) supply changes **0.00%** over the next 90 days and **+2.20%** over a year (checked Nov 23 2026).
 
 - **Signal:** positive (by the law of supply and demand)
 - **Score:** 7/10 — supply 4.5/5, demand 2.5/5
-- **Supply growth:** 0.00% in 90 days · +2.28% in a year
+- **Supply growth:** 0.00% in 90 days · +2.20% in a year
 - **How much people want it:** modest (2.5/5)
 - **Price drivers:** 2 ▲ price up · 0 ▼ price down
 
 ## Supply — new NIGHT in the next 90 days
 
-Midnight made all 24B NIGHT at launch; 16.6B count as circulating. Supply was flat over 90 days, and the 6B Reserve that will pay block producers has not started paying.
+All 24B NIGHT were minted at launch and supply was flat for 90 days. The real change comes when the 6B reserve starts paying block producers.
 
-Over the next 90 days NIGHT supply changes 0.00%; across a full year, +2.28%. That puts supply at 4.5/5 (flat) (place 84 of 100).
+Over the next 90 days NIGHT supply changes 0.00%; across a full year, +2.20%. That puts supply at 4.5/5 (flat) (place 83 of 100).
 
 ## NIGHT price drivers the score does not count
 
@@ -30,7 +30,7 @@ Besides supply and demand, we track 2 price drivers for Midnight: 2 ▲ and 0 �
 
 ### ▲ Mainnet rollout
 
-Ledger 9 fork shipped Nov 6; staking still targets Mar 31 2027.
+First UK bank live Nov 17; staking aims Mar 31 2027.
 
 ▲ Price up if: Phases land on time. ▼ Price down if: Delays or more hacks. Now: ▲ up side.
 
@@ -39,36 +39,36 @@ Ledger 9 fork shipped Nov 6; staking still targets Mar 31 2027.
 | Mar 30 2026 | Mainnet live (federated) |
 | Jul 20 2026 | Wanchain bridge hacked |
 | Sep 28 2026 | Anyone can deploy apps |
-| Oct 14 2026 | New roadmap posted |
 | Nov 6 2026 | Ledger 9 hard fork |
+| Nov 17 2026 | Monument Bank goes live |
 | Late 2026 or later | Hua: hybrid apps (coming) |
 | Q4 2026 (roadmap) | Block rewards start (coming) |
 | Q1 2027 (roadmap) | Pool blocks + staking (coming) |
 
-*Checked Nov 13 2026*
+*Checked Nov 23 2026*
 
 ### ▲ Charles Hoskinson
 
-Now says NIGHT could outgrow Cardano; the hype keeps building.
+Shifts focus to Midnight; promises surprises at Dec 15 2026 talk.
 
 Big promises come true → price up · Hype fades, goals slip → price down. Today: the price-up case.
 
 | Date | What happened / what is coming |
 |---|---|
 | Sep 28 2026 | Says it'll top Zcash |
-| Oct 9 2026 | Repeats Zcash claim |
-| Oct 13 2026 | Teases AI agent trading |
 | Oct 17 2026 | Teases AI "Nightframes" |
 | Oct 19 2026 | Calls it his magnum opus |
 | Oct 21 2026 | Welcomes TRON in |
 | Nov 10 2026 | Says NIGHT can top ADA |
+| Nov 14 2026 | IO shifts focus to NIGHT |
+| Dec 15 2026 | Midnight talk, surprises (coming) |
 | Within 2 years (his goal) | Goal: bigger than Zcash (coming) |
 
-*Checked Nov 13 2026*
+*Checked Nov 23 2026*
 
 ## Who wants Midnight right now
 
-People's appetite for Midnight is **modest**: 2.5/5, ranked #45 of 109.
+People's appetite for Midnight is **modest**: 2.5/5, ranked #47 of 109.
 
 Members get the rest of the Midnight demand read on mrnasdog.com.
 
@@ -76,31 +76,31 @@ Members get the rest of the Midnight demand read on mrnasdog.com.
 
 ### Is Midnight (NIGHT) inflationary or deflationary?
 
-As of Nov 13 2026, Midnight (NIGHT) supply moves 0.00% in 90 days and +2.28% in a year, so NIGHT is about flat. What is created and what is removed roughly match.
+As of Nov 23 2026, Midnight (NIGHT) supply moves 0.00% in 90 days and +2.20% in a year, so NIGHT is about flat. What is created and what is removed roughly match.
 
 ### What is the NIGHT inflation rate in 2026?
 
-Midnight (NIGHT) supply grows +2.28% over the next 12 months and 0.00% over the next 90 days (checked Nov 13 2026). That puts NIGHT #84 of 100 coins we track for new supply (#1 = the most new supply).
+Midnight (NIGHT) supply grows +2.20% over the next 12 months and 0.00% over the next 90 days (checked Nov 23 2026). That puts NIGHT #83 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next NIGHT token unlock?
 
-No dated Midnight (NIGHT) unlock is scheduled in the next 90 days (checked Nov 13 2026).
+No dated Midnight (NIGHT) unlock is scheduled in the next 90 days (checked Nov 23 2026).
 
 ### Does Midnight burn or buy back NIGHT?
 
-Not in a way that removes NIGHT today: nothing takes NIGHT off the market over the next 90 days (checked Nov 13 2026). Nothing is burned or bought back: Midnight fees are paid in DUST, which holding NIGHT produces, so NIGHT itself is never spent.
+Not in a way that removes NIGHT today: nothing takes NIGHT off the market over the next 90 days (checked Nov 23 2026). Nothing is burned or bought back: Midnight fees are paid in DUST, which holding NIGHT produces, so NIGHT itself is never spent.
 
 ### Where does new NIGHT supply come from?
 
-Almost no new NIGHT reaches the market over the next 90 days (checked Nov 13 2026). No new NIGHT reached the market in 90 days. The 6B Reserve for block producer pay, the 1.2B Treasury and a 192.6M late-claim pool have not moved since Mar 13 2026; block pay is still a draft with no start date.
+Almost no new NIGHT reaches the market over the next 90 days (checked Nov 23 2026). No new NIGHT entered the count in 90 days. The 6B reserve for block rewards, the 1.2B treasury and a 192.6M late-claim pool have not moved since Mar 13 2026; block rewards are planned but have no start day.
 
 ### How much NIGHT is in circulation?
 
-Midnight (NIGHT) has about 16.6B coins in circulation as of Nov 13 2026; the next 90 days change that by 0.00% (+2.28% over a year).
+Midnight (NIGHT) has about 16.6B coins in circulation as of Nov 23 2026; the next 90 days change that by 0.00% (+2.20% over a year).
 
-### Does NIGHT have more new supply than RENDER, ATOM or NEXO?
+### Does NIGHT have more new supply than POL, ARB or RENDER?
 
-Over the next 90 days (checked Nov 13 2026): NIGHT 0.00%, RENDER +0.08%, ATOM +3.17%, NEXO 0.00%. NIGHT sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 23 2026): NIGHT 0.00%, POL −0.31%, ARB +4.59%, RENDER +0.08%. NIGHT sits in the middle of these 4 coins.
 
 ## Where to read the rest of NIGHT
 

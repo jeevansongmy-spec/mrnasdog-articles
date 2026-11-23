@@ -1,20 +1,20 @@
 ---
-title:         "Is LayerZero (ZRO) Inflationary? +17.56% New Supply in 90 Days"
-description:   "How much new ZRO is coming? +17.56% in the next 90 days, +46.33% in the next year — checked Nov 13 2026."
+title:         "Is LayerZero (ZRO) Inflationary? +17.38% New Supply in 90 Days"
+description:   "How much new ZRO is coming? +17.38% in the next 90 days, +42.62% in the next year — checked Nov 23 2026."
 canonical_url: "https://mrnasdog.com/research/zro"
 content_type:  "coin_hub"
 tags:          ["crypto", "zro", "layerzero", "should-i-buy"]
 published:     true
 ---
-# Is LayerZero (ZRO) Inflationary? +17.56% New Supply in 90 Days
+# Is LayerZero (ZRO) Inflationary? +17.38% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/zro, updated Nov 21 2026*
+*From https://mrnasdog.com/research/zro, updated Nov 23 2026*
 
-How much new ZRO is coming? **+17.56%** in the next 90 days, **+46.33%** in the next year — checked Nov 13 2026.
+How much new ZRO is coming? **+17.38%** in the next 90 days, **+42.62%** in the next year — checked Nov 23 2026.
 
 - **Signal today:** negative for LayerZero
 - **MrNasDog score:** 3.5/10 — supply 0/5, demand 3.5/5
-- **New coins:** +17.56% in 90 days · +46.33% in a year
+- **New coins:** +17.38% in 90 days · +42.62% in a year
 - **Demand:** strong (3.5/5)
 - **Drivers:** 1 ▲ price up · 1 ▼ price down
 
@@ -36,11 +36,11 @@ Good for the price: Fee switch turns on. Bad for it: Votes keep it off. Today: t
 | Jun 27 2026 | Vote 4: fee stays off |
 | Late 2026? | Vote 5 on fee switch (coming) |
 
-*Checked Nov 13 2026*
+*Checked Nov 23 2026*
 
 ### ▲ Zero and ATLAS
 
-Zero mainnet still set for Nov 30 2026; venues keep joining.
+Staking opened Nov 23; Zero mainnet still set for Nov 30 2026.
 
 Venues stake ZRO on ATLAS → price up · ATLAS finds no venues → price down. Now: ▲ up side.
 
@@ -50,18 +50,18 @@ Venues stake ZRO on ATLAS → price up · ATLAS finds no venues → price down. 
 | Aug 25 2026 | ATLAS exchange unveiled |
 | Sep 21 2026 | Anchorage picks LZ |
 | Oct 20 2026 | Nov 30 launch date set |
-| Nov 3 2026 | ZRO moved to OneSig |
 | Nov 4 2026 | 21X pilot: 10K matches/s |
 | Nov 9 2026 | Globe, Based join ATLAS |
+| Nov 23 2026 | ZRO staking opens |
 | Nov 30 2026 | Zero + ATLAS mainnet (coming) |
 
-*Checked Nov 13 2026*
+*Checked Nov 23 2026*
 
 ## Where new LayerZero comes from
 
-LayerZero's ZRO is capped at 1B, but monthly releases to early investors and the team grew supply about 18.7% in 90 days, far more than the Stargate buyback takes back.
+LayerZero's ZRO adds about 23.28M coins a month for early investors and the team, so supply grew about 18.7% in 90 days, far more than the Stargate buyback takes back.
 
-LayerZero adds +17.56% new supply in the next 90 days and +46.33% over a year — supply scores 0/5 (extreme).
+LayerZero adds +17.38% new supply in the next 90 days and +42.62% over a year — supply scores 0/5 (extreme).
 
 ## Demand today
 
@@ -73,31 +73,31 @@ The members-only part of ZRO's demand section is not included.
 
 ### Is LayerZero (ZRO) inflationary or deflationary?
 
-LayerZero (ZRO) is inflationary right now: its supply changes +17.56% over the next 90 days and +46.33% over the next year (checked Nov 13 2026). More ZRO is added than removed.
+LayerZero (ZRO) is inflationary right now: its supply changes +17.38% over the next 90 days and +42.62% over the next year (checked Nov 23 2026). More ZRO is added than removed.
 
 ### What is the ZRO inflation rate in 2026?
 
-About +46.33% a year: that is how much LayerZero (ZRO) supply changes over the next 12 months, with +17.56% in the next 90 days (checked Nov 13 2026). That puts ZRO #5 of 100 coins we track for new supply (#1 = the most new supply).
+About +42.62% a year: that is how much LayerZero (ZRO) supply changes over the next 12 months, with +17.38% in the next 90 days (checked Nov 23 2026). That puts ZRO #5 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next ZRO token unlock?
 
-The next LayerZero (ZRO) unlock we track is on Dec 20 2026: about 23.3M ZRO, 5.83% of the ZRO in circulation (Monthly release to investors and team — Sell). Checked Nov 13 2026.
+The next LayerZero (ZRO) unlock we track is on Dec 20 2026: about 23.3M ZRO, 5.82% of the ZRO in circulation (Monthly unlock for investors and team — new supply). Checked Nov 23 2026.
 
 ### Does LayerZero burn or buy back ZRO?
 
-Yes. In our count, about 528K ZRO is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 13 2026). How it works: All of Stargate's revenue buys ZRO each month, about 528K ZRO per 90 days at today's price, kept in a LayerZero wallet. No burn yet.
+Yes. In our count, about 717K ZRO is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 23 2026). How it works: All of Stargate's revenue buys ZRO each month, about 717K ZRO per 90 days at today's price, kept in a LayerZero wallet. The ATLAS buy-and-burn starts Nov 30 2026.
 
 ### Where does new ZRO supply come from?
 
-In our count, about 70.8M new ZRO reaches the market over the next 90 days (checked Nov 13 2026). How it works: About 23.3M ZRO opens up each month for early investors and the team until June 2027; STG swaps add a little until Dec 15 2026.
+In our count, about 70.2M new ZRO reaches the market over the next 90 days (checked Nov 23 2026). How it works: About 23.28M ZRO opens up each month for early investors and the team until June 2027; staking rewards in new ZRO start paying out on Mar 31 2027.
 
 ### How much ZRO is in circulation?
 
-About 400M ZRO is in circulation (checked Nov 13 2026). Over the next 90 days that changes +17.56%, and over a year +46.33%.
+About 400M ZRO is in circulation (checked Nov 23 2026). Over the next 90 days that changes +17.38%, and over a year +42.62%.
 
-### Does ZRO have more new supply than NEXO, XDC or CAKE?
+### Does ZRO have more new supply than DASH, BLIFE or STABLE?
 
-Over the next 90 days (checked Nov 13 2026): ZRO +17.56%, NEXO 0.00%, XDC +4.31%, CAKE −1.96%. ZRO has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 23 2026): ZRO +17.38%, DASH +0.72%, BLIFE 0.00%, STABLE 0.00%. ZRO has the most new supply of these 4 coins.
 
 ## Read more on ZRO
 

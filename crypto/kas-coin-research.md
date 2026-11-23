@@ -1,20 +1,20 @@
 ---
-title:         "Is Kaspa (KAS) Inflationary? +0.51% New Supply in 90 Days"
-description:   "How much new KAS is coming? +0.51% in the next 90 days, +1.61% in the next year — checked Nov 13 2026."
+title:         "Is Kaspa (KAS) Inflationary? +0.50% New Supply in 90 Days"
+description:   "How much new KAS is coming? +0.50% in the next 90 days, +1.58% in the next year — checked Nov 23 2026."
 canonical_url: "https://mrnasdog.com/research/kas"
 content_type:  "coin_hub"
 tags:          ["crypto", "kas", "kaspa", "should-i-buy"]
 published:     true
 ---
-# Is Kaspa (KAS) Inflationary? +0.51% New Supply in 90 Days
+# Is Kaspa (KAS) Inflationary? +0.50% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/kas, updated Nov 21 2026*
+*From https://mrnasdog.com/research/kas, updated Nov 23 2026*
 
-How much new KAS is coming? **+0.51%** in the next 90 days, **+1.61%** in the next year — checked Nov 13 2026.
+How much new KAS is coming? **+0.50%** in the next 90 days, **+1.58%** in the next year — checked Nov 23 2026.
 
 - **Signal today:** mixed for Kaspa
 - **MrNasDog score:** 6/10 — supply 3/5, demand 3/5
-- **New coins:** +0.51% in 90 days · +1.61% in a year
+- **New coins:** +0.50% in 90 days · +1.58% in a year
 - **Demand:** moderate (3/5)
 - **Drivers:** 0 ▲ price up · 0 ▼ price down
 
@@ -37,11 +37,11 @@ Token standards final Oct 21 2026; next goal 100 blocks/s.
 | Oct 21 2026 | Token standards final |
 | 2027 | Goal: 100 blocks/s (coming) |
 
-*Checked Nov 13 2026*
+*Checked Nov 23 2026*
 
 ### • Miner power
 
-Hashrate sits about 75% below its Jan 2025 peak.
+Hashrate sits over 70% below its Jan 2025 peak.
 
 Good for the price: Miners return. Bad for it: Miners leave.
 
@@ -50,19 +50,19 @@ Good for the price: Miners return. Bad for it: Miners leave.
 | Aug 31 2026 | 326 PH/s |
 | Sep 30 2026 | 346 PH/s |
 | Oct 31 2026 | 365 PH/s |
-| Nov 21 2026 | 306 PH/s |
+| Nov 24 2026 | 318 PH/s |
 
-*Checked Nov 13 2026*
+*Checked Nov 23 2026*
 
 ## How fast Kaspa supply grows
 
-Kaspa is a fair-launch proof-of-work coin: miners are the only source of new KAS, their pay shrinks every month, and about 96.9% of the 28.7B cap is already mined.
+Kaspa is a mined coin with no premine: miners got 163.63M new KAS in 90 days (+0.59%), nothing is burned, and the reward shrinks every month toward a 28.70B cap.
 
-Kaspa adds +0.51% new supply in the next 90 days and +1.61% over a year — supply scores 3/5 (light) (place 59 of 100).
+Kaspa adds +0.50% new supply in the next 90 days and +1.58% over a year — supply scores 3/5 (light) (place 59 of 100).
 
 ## Demand: how much people want KAS
 
-Demand reads **moderate** (3/5), #36 of 109 coins we track — that is how much people want KAS now and how much buying could still come.
+Demand reads **moderate** (3/5), #35 of 109 coins we track — that is how much people want KAS now and how much buying could still come.
 
 The members-only part of KAS's demand section is not included.
 
@@ -70,31 +70,31 @@ The members-only part of KAS's demand section is not included.
 
 ### Is Kaspa (KAS) inflationary or deflationary?
 
-Kaspa (KAS) is inflationary right now: its supply changes +0.51% over the next 90 days and +1.61% over the next year (checked Nov 13 2026). More KAS is added than removed.
+Kaspa (KAS) is inflationary right now: its supply changes +0.50% over the next 90 days and +1.58% over the next year (checked Nov 23 2026). More KAS is added than removed.
 
 ### What is the KAS inflation rate in 2026?
 
-About +1.61% a year: that is how much Kaspa (KAS) supply changes over the next 12 months, with +0.51% in the next 90 days (checked Nov 13 2026). That puts KAS #59 of 100 coins we track for new supply (#1 = the most new supply).
+About +1.58% a year: that is how much Kaspa (KAS) supply changes over the next 12 months, with +0.50% in the next 90 days (checked Nov 23 2026). That puts KAS #59 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next KAS token unlock?
 
-No dated Kaspa (KAS) unlock is scheduled in the next 90 days (checked Nov 13 2026). New KAS still arrives: about 141M KAS in 90 days.
+No dated Kaspa (KAS) unlock is scheduled in the next 90 days (checked Nov 23 2026). New KAS still arrives: about 138M KAS in 90 days.
 
 ### Does Kaspa burn or buy back KAS?
 
-Not in a way that removes KAS today: nothing takes KAS off the market over the next 90 days (checked Nov 13 2026). Nothing: no fee burn, no buyback, no staking lock. Every fee goes to miners.
+Not in a way that removes KAS today: nothing takes KAS off the market over the next 90 days (checked Nov 23 2026). Nothing: no fee burn, no buyback, no staking lock. Every fee goes to miners.
 
 ### Where does new KAS supply come from?
 
-In our count, about 141M new KAS reaches the market over the next 90 days (checked Nov 13 2026). How it works: Mining only: about 167M new KAS in the last 90 days and about 141M in the next 90, as miner pay per block drops about 5.6% every month. No premine, no unlocks.
+In our count, about 138M new KAS reaches the market over the next 90 days (checked Nov 23 2026). How it works: Mining only: about 164M new KAS in the last 90 days and about 138M in the next 90, as miner pay per block drops about 5.6% every month. No premine, no unlocks.
 
 ### How much KAS is in circulation?
 
-About 27.8B KAS is in circulation (checked Nov 13 2026). Over the next 90 days that changes +0.51%, and over a year +1.61%.
+About 27.8B KAS is in circulation (checked Nov 23 2026). Over the next 90 days that changes +0.50%, and over a year +1.58%.
 
-### Does KAS have more new supply than PI, LIT or ALGO?
+### Does KAS have more new supply than RENDER, ALGO or GT?
 
-Over the next 90 days (checked Nov 13 2026): KAS +0.51%, PI +4.21%, LIT +8.94%, ALGO +0.43%. KAS sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 23 2026): KAS +0.50%, RENDER +0.08%, ALGO +0.35%, GT −3.06%. KAS has the most new supply of these 4 coins.
 
 ## Where to read the rest of KAS
 
