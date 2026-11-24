@@ -1,6 +1,6 @@
 ---
 title:         "STABLE Inflation Analysis · November 2026 · Mixed flows · supply roughly steady"
-description:   "STABLE supply held flat at 0.00% over 90 days to Nov 14 2026: no minting, no burn, no unlocks. All 100B exist; 82B stay locked until at least Dec 8 2027."
+description:   "STABLE supply was flat in the 90 days to Nov 24 2026: no new coins, 82B STABLE locked until Dec 8 2027, and 25,000.5 STABLE burned by a withdrawn vote."
 canonical_url: "https://mrnasdog.com/research/stable/inflation"
 tags:          ["crypto", "stable", "layer1", "tokenomics"]
 published:     true
@@ -12,52 +12,54 @@ Looking for the buy-or-sell answer? It is on the STABLE coin page, with demand a
 
 # STABLE Inflation Analysis · November 2026 · Mixed flows · supply roughly steady
 
-STABLE supply held flat over the 90 days to Nov 14 2026: **0** new STABLE reached the market and **0** left it, for a net change of **0.00%**, and the next 90 days look the same. All **100B** STABLE were created at launch, only **18.0B** are unlocked, and the other **82.0B** sit in one lock that opens no earlier than **Dec 8 2027**. Other trackers show **−29.22%** for the same window because their supply figure was reset on Oct 20 2026, not because any STABLE disappeared.
+STABLE supply held **flat** over the 90 days from Aug 26 to Nov 24 2026, and it stays flat for the next 90 days. Stable never prints new STABLE: all **100B** coins were made at launch, and stakers are paid in USDT0 fees. **No new STABLE** reached the market, a withdrawn vote request burned **25,000.5 STABLE**, and the other **82B** stay locked until Dec 8 2027, while other supply trackers show **−30.13%**.
 
 ## The verdict, in one paragraph
 
-Over the 90 days from Aug 16 to Nov 14 2026, STABLE booked **0** sell pressure and **0** buy pressure against a circulating supply of **18.0B**, so the net reading is **0.00%**, and the projection for the 90 days to Feb 12 2027 is also **0.00%**. Other trackers report **−29.22%**, a gap of **29.22 points**, so the Stable coin page carries a warning note. That gap comes from how the unlocked count was kept, not from coins moving: the outside figure kept adding about 29.6M STABLE a day under the old release plan, from 25.44B on Aug 16 to 27.33B on Oct 19 2026, then dropped by 9.33B on Oct 20 2026 to match the new lock. On-chain, the locked STABLE never left the locked wallets. The label for STABLE today is a frozen float: no printing, no burning, and a very large locked pile that waits until late 2027.
+Over the 90 days to Nov 24 2026, STABLE supply changed by **−0.0001%**, which rounds to flat, and the next 90 days project **0.00%**. Other supply trackers show **−30.13%** for the same 90 days, a difference of **30.13 points**, so the coin page carries a warning note. That figure fell because on Oct 20 2026 those trackers stopped counting about **9.33B** Foundation STABLE that the old monthly plan had treated as released. Those coins never left the Foundation's locked wallets, so no STABLE left the market. The label for STABLE today: a fixed-supply coin with a long lock and nothing new for sale until late 2027.
 
 ## Sell pressure: where new STABLE comes from
 
-Protocol inflation is **0**. Stable minted all 100B STABLE at launch on Dec 8 2025, and the total supply read exactly 100B on Aug 16 2026 and again on Nov 14 2026. Stable pays its stakers a share of gas fees in USDT0, the dollar coin the chain uses for gas, so staking creates no new STABLE. The chain itself refuses any request to mint more STABLE, and a chain upgrade would be needed to change that.
+Protocol inflation is **zero**. Stable made all 100B STABLE once, on Dec 8 2025, and has no way to create more in normal running. Validators and the people who stake with them earn a share of network fees, and those fees are paid in USDT0, a dollar token, so rewarding stakers prints no STABLE at all.
 
-Vesting unlocks are **0**. The Stable whitepaper, version 2.0, replaced the old vesting plans with one Universal Lock that took effect on Oct 5 2026. It covers the team's 25B, the investors' and advisers' 25B, and the Stable Foundation's locked 32B, which includes an 11B share for validators. The first release, 4.1B STABLE, starts dripping on Dec 8 2027, and the last coins come out by Dec 8 2029. Some unlock trackers still show 888.89M STABLE opening on the 8th of every month under the old plan, but nothing left the locked wallets on Sep 8, Oct 8 or Nov 8 2026.
+Vesting unlocks are **zero** in both 90-day windows. In August 2026 Stable replaced the old team and investor vesting with one shared lock, the Universal Lock, which took effect on Oct 5 2026 and covers **82B STABLE**: 25B for the team, 25B for investors and advisors, and 32B held by the Foundation. Nothing in that lock is released before Dec 8 2027. The old plan's monthly release dates on Sep 8, Oct 8 and Nov 8 2026 moved no coins out of any locked wallet.
 
-Foundation and unscheduled unlocks are **0**. On Oct 29 and Nov 2 2026 about 70.98B locked STABLE moved from three old wallets into three new ones, holding 25B, 25B and 20.98B. That was a move between locked wallets, so no coin reached the market. Long-term locked or bankruptcy supply is **0**: no court case or failed company holds STABLE waiting to pay it out.
+Foundation and unscheduled unlocks are **zero**. On Oct 29 and Nov 2 2026 the locked coins moved from their old wallets into three new ones holding **25B**, **25B** and **20.98B** STABLE, but the coins stayed inside the locked group, so the move adds nothing to the market. Long-term locked or bankruptcy supply is also **zero**: no court or failed firm holds STABLE waiting to be paid out.
 
 ## Buy pressure: where new STABLE goes
 
-Programmatic buyback is **0**. Stable runs no buyback, because its fees are collected in USDT0 and handed to stakers in USDT0, so no fee money ever buys STABLE. Protocol fee burn is also **0**: STABLE has no burn, the chain blocks burning it, and no STABLE sits at a burn address.
+There is **no buyback**. No contract or treasury buys STABLE back, because the network's income goes to stakers in USDT0 rather than into the coin. There is also **no fee burn**: every fee on Stable is paid in USDT0, so heavy use of the chain does not burn any STABLE. The Foundation has announced **no plan to buy** STABLE either.
 
-Foundation buying is **0**. The Stable Foundation has announced no buyback plan, and the buying that followed the Oct 27 2026 Coinbase listing used STABLE that was already unlocked, so it removed nothing from the count. New long-term locks are **0**. The Universal Lock of Oct 5 2026 covered coins that were already held back, so it took nothing out of the market. The bonded staking pool holds about **11.0B** STABLE, nearly all of it the validator share inside the lock, and it grew by only about 94 STABLE in the 90 days.
+The new lock books **zero** as a buy. Under the August 2026 rules the Foundation took back about **9.33B STABLE** that the old plan had treated as freed since launch. Those coins had never left the Foundation's locked wallets, so locking them again takes nothing off the market.
+
+The one real removal in the window is small. On Nov 23 2026 a developer withdrew a vote request that asked the chain to send back 4,000 USDT0 sent to the wrong address by mistake. Stable's rules burn half of the deposit when a request is withdrawn, so **25,000.5 STABLE** of the 50,001 STABLE deposit was destroyed, and total supply now reads **99,999,974,999.5 STABLE**. That kind of burn only happens when a vote request is withdrawn or vetoed, so the next 90 days book none.
 
 ## Foundation and overhang
 
-The overhang is large next to the unlocked supply: **82.0B** locked STABLE against **18.0B** unlocked, more than four and a half to one. It sits in five places. Two new wallets hold **25B** STABLE each for the team and for investors and advisers. A third new wallet holds **20.98B** of the Stable Foundation's locked share, and its old wallet keeps about **20.5M**. The bonded staking pool holds about **11.0B**, the validator share.
+The largest overhang is the Universal Lock itself. Three wallets hold **25B**, **25B** and **20.98B** STABLE for the team, the investors and the Foundation, and each of the three is controlled by the same single key. No code on the chain stops an early release: the lock is the project's written promise, so we read these three wallets at every rebuild. Another **11.0B** locked STABLE is staked with the network's validators, and an old Foundation wallet still keeps **20.5M** STABLE.
 
-The three new wallets are shared-signature wallets set to need just one signature, and the same single signer runs all three. No time-lock code holds the coins back: the Universal Lock is a published promise, and only the project's word stands between those 70.98B STABLE and the market before Dec 8 2027. The Stable Foundation's day-one wallet holds about **7.54B** STABLE, which already counts as unlocked, so spending it on grants or campaigns adds nothing new. We read every one of these wallets on-chain at each refresh. If any of them falls between refreshes, the outflow enters the Foundation and unscheduled unlocks row at the next refresh.
+Outside the lock, the Foundation's launch wallet holds **7.54B STABLE**, the same amount on Aug 26 and Nov 24 2026. Those coins already count as circulating, so a sale from that wallet would add selling but no new supply. If any of the locked wallets falls between our checks, the coins that leave will show up as Foundation unlocks at the next rebuild.
 
 ## How STABLE compares to other proof-of-stake Layer 1 chains
 
-Most proof-of-stake Layer 1 chains pay their validators in brand-new coins, so their supply creeps up every day. Ethereum does that and then burns part of every fee, which leaves its supply growing a little. Plasma, another chain built around dollar coins, also plans to reward validators with new XPL. Stable takes a different path: validators and stakers are paid in USDT0 from gas fees, so STABLE has no issuance at all, and the chain blocks both minting and burning of STABLE.
+Most proof-of-stake Layer 1 coins pay validators by printing new coins every block, so their supply grows a few percent a year whether or not anyone uses the chain. STABLE works the other way. Stakers on Stable are paid from fees in USDT0, so the STABLE supply is fixed at 100B and the only thing that changes how many coins trade is the lock schedule. That makes STABLE closer to a fixed-supply coin with a vesting calendar than to an inflationary staking coin.
 
-That makes STABLE look more like a fixed-supply token with a big locked share than like a typical staking coin. Its supply risk is not steady inflation but a calendar: the Universal Lock's seven releases between Dec 8 2027 and Dec 8 2029. A price rule can push each release back three months, up to nine months in total, if the 30-day average price is below $0.025 on the day before it starts. Since the Coinbase listing, Coinbase prices count toward that average too.
+The trade-off is size and timing. Chains that print new coins add supply slowly and steadily. STABLE adds nothing now but has **82%** of its coins waiting, released in seven steps from Dec 8 2027 to Dec 8 2029. The first step is **4.1B** STABLE over 180 days, which is about 23% of today's circulating supply. A price rule can delay each step by up to nine months when the 30-day average price sits under $0.025, which slows the flow but never cancels it.
 
-The other difference is custody. Chains with large locked shares often hold them in vesting contracts that release on a timer. STABLE's lock lives in ordinary wallets with one signer, so the schedule is only as firm as the promise behind it, and on-chain checks of those wallets are the only early warning.
+Unlike chains that burn part of every fee, Stable has no built-in way to remove STABLE, so nothing offsets the future releases. Buying pressure has to come from people who want to stake for a share of the USDT0 fees or vote on the chain.
 
 ## What to watch in the next 90 days
 
-Watch Dec 8 2026, the first anniversary of the launch, which some trackers still list as a big unlock under the old plan. Under the Universal Lock nothing opens that day, and any STABLE that leaves the locked wallets would be a break from the published plan.
+**Dec 8 2026:** some unlock trackers still list a STABLE release on this date from the old monthly plan. Under the Universal Lock nothing is due, so a real outflow from a locked wallet that day would be news.
 
-Watch Jan 8 2027 and Feb 8 2027, the next monthly dates on the old tracker calendars. The same test applies: the locked wallets should not move.
+**Around Jan 18 2027:** the drop in other trackers' figures leaves their 90-day view, and their reading should come back near flat, closing the difference with ours.
 
-Watch the three new lock wallets and their single signer. A change in who signs, or a transfer out of any of them, would matter far more than any everyday flow on this chain.
+**The three lock wallets:** any outflow from the 25B, 25B or 20.98B wallets before Dec 8 2027 would break the published lock and enter the ledger as Foundation unlocks.
 
-Watch around Jan 18 2027, when the Oct 20 2026 reset drops out of other trackers' 90-day window. After that their reading should come back close to **0.00%** and the warning note on the Stable coin page should go away.
+**Governance votes:** a vote that changes how fees are paid or adds a way to create or burn STABLE would change the picture. None was open on Nov 24 2026.
 
 ## Summary
 
-STABLE supply was flat over the 90 days to Nov 14 2026, at **0.00%**, and should stay flat through Feb 12 2027, because Stable pays stakers in USDT0 and never mints or burns STABLE. All 100B STABLE already exist; **18.0B** are unlocked and **82.0B** sit in the Universal Lock, which releases nothing before Dec 8 2027 and everything by Dec 8 2029. The key risk is that 70.98B of the locked STABLE sits in wallets run by one signer, with no time-lock code behind the promise. The −29.22% shown elsewhere is a reset in how the unlocked count was kept on Oct 20 2026, not a real fall in supply.
+STABLE supply was flat over the 90 days to Nov 24 2026 and is set to stay flat for the next 90 days, because Stable never prints new coins and no locked STABLE is released before Dec 8 2027. Stakers are paid in USDT0 fees, so the 100B total can only shrink, and it shrank by just 25,000.5 STABLE when a vote request was withdrawn on Nov 23 2026. The key risk is the 82B STABLE held in three single-key wallets and with validators, released in seven steps from Dec 8 2027 to Dec 8 2029. Other trackers show −30.13% only because they stopped counting 9.33B Foundation coins on Oct 20 2026 that had never been sold.
 
-*MrNasDog Pressure Framework analysis of STABLE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 14 2026.*
+*MrNasDog Pressure Framework analysis of STABLE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 24 2026.*

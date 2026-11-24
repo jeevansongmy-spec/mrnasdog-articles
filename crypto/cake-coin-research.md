@@ -1,28 +1,28 @@
 ---
-title:         "PancakeSwap (CAKE) Supply & Demand: −1.96% Supply in 90 Days"
-description:   "PancakeSwap (CAKE) supply changes −1.96% over the next 90 days and −7.84% over a year (checked Nov 14 2026)."
+title:         "PancakeSwap (CAKE) Supply & Demand: −0.57% Supply in 90 Days"
+description:   "PancakeSwap (CAKE) supply changes −0.57% over the next 90 days and −2.29% over a year (checked Nov 24 2026)."
 canonical_url: "https://mrnasdog.com/research/cake"
 content_type:  "coin_hub"
 tags:          ["crypto", "cake", "pancakeswap", "should-i-buy"]
 published:     true
 ---
-# PancakeSwap (CAKE) Supply & Demand: −1.96% Supply in 90 Days
+# PancakeSwap (CAKE) Supply & Demand: −0.57% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/cake · checked Nov 21 2026*
+*Live page: https://mrnasdog.com/research/cake · checked Nov 24 2026*
 
-PancakeSwap (CAKE) supply changes **−1.96%** over the next 90 days and **−7.84%** over a year (checked Nov 14 2026).
+PancakeSwap (CAKE) supply changes **−0.57%** over the next 90 days and **−2.29%** over a year (checked Nov 24 2026).
 
 - **Signal:** positive (by the law of supply and demand)
 - **Score:** 8.5/10 — supply 5/5, demand 3.5/5
-- **Supply growth:** −1.96% in 90 days · −7.84% in a year
+- **Supply growth:** −0.57% in 90 days · −2.29% in a year
 - **How much people want it:** strong (3.5/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## Supply: how much new CAKE is coming
 
-PancakeSwap burns CAKE every week with trading fees: 6.40M CAKE in 90 days against 2.36M new and unlocked, so supply fell about 1.17%.
+Weekly fee buybacks burned 5.96M CAKE in 90 days against 2.36M paid out or unlocked, so supply fell 1.14%. The burn is shrinking after The Flip, but still outweighs new CAKE.
 
-Over the next 90 days CAKE supply changes −1.96%; across a full year, −7.84%. That puts supply at 5/5 (shrinking), #105 of 100 for new supply.
+Over the next 90 days CAKE supply changes −0.57%; across a full year, −2.29%. That puts supply at 5/5 (shrinking), #102 of 100 for new supply.
 
 ## Demand today
 
@@ -49,7 +49,7 @@ More BNB Chain trading → price up · Trading leaves BNB Chain → price down. 
 | Sep 2026 | $34.2B |
 | Oct 2026 | $27.1B |
 
-*Checked Nov 14 2026*
+*Checked Nov 24 2026*
 
 ### ▲ Market share
 
@@ -64,37 +64,37 @@ Good for the price: PancakeSwap wins more trades. Bad for it: Rivals take trades
 | Sep 30 2026 | 74.4% | 9.5% |
 | Oct 31 2026 | 76.1% | 9.4% |
 
-*Checked Nov 14 2026*
+*Checked Nov 24 2026*
 
 ## PancakeSwap supply questions, answered
 
 ### Is PancakeSwap (CAKE) inflationary or deflationary?
 
-As of Nov 14 2026, PancakeSwap (CAKE) supply moves −1.96% in 90 days and −7.84% in a year, so CAKE is deflationary. Burns or buybacks take out more CAKE than is created.
+As of Nov 24 2026, PancakeSwap (CAKE) supply moves −0.57% in 90 days and −2.29% in a year, so CAKE is deflationary. Burns or buybacks take out more CAKE than is created.
 
 ### What is the CAKE inflation rate in 2026?
 
-PancakeSwap (CAKE) supply shrinks −7.84% over the next 12 months and −1.96% over the next 90 days (checked Nov 14 2026).
+PancakeSwap (CAKE) supply shrinks −2.29% over the next 12 months and −0.57% over the next 90 days (checked Nov 24 2026).
 
 ### When is the next CAKE token unlock?
 
-No dated PancakeSwap (CAKE) unlock is scheduled in the next 90 days (checked Nov 14 2026). New CAKE still arrives: about 1.79M CAKE in 90 days.
+No dated PancakeSwap (CAKE) unlock is scheduled in the next 90 days (checked Nov 24 2026). New CAKE still arrives: about 1.78M CAKE in 90 days.
 
 ### Does PancakeSwap burn or buy back CAKE?
 
-Yes. In our count, about 8.54M CAKE is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 14 2026). How it works: Every week PancakeSwap buys CAKE with trading fees and burns it: 6.40M CAKE in 90 days, with the Nov 8 burn moved to Nov 16 2026.
+Yes. In our count, about 3.6M CAKE is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 24 2026). How it works: Every week PancakeSwap buys CAKE with trading fees and burns it: 5.96M CAKE in 90 days, smaller since Nov 12 2026 when most fees moved to liquidity providers.
 
 ### Where does new CAKE supply come from?
 
-In our count, about 1.79M new CAKE reaches the market over the next 90 days (checked Nov 14 2026). How it works: Farms and the team's growth fund got 1.61M new CAKE in 90 days, and holders claimed 751K CAKE from old locks; the huge weekly prints are burned again within days.
+In our count, about 1.78M new CAKE reaches the market over the next 90 days (checked Nov 24 2026). How it works: Farms and the team's growth fund got 1.61M new CAKE in 90 days, and holders took 748K CAKE out of old locks; the huge weekly prints are burned again within days.
 
 ### How much CAKE is in circulation?
 
-PancakeSwap (CAKE) has about 344M coins in circulation as of Nov 14 2026; the next 90 days change that by −1.96% (−7.84% over a year).
+PancakeSwap (CAKE) has about 317M coins in circulation as of Nov 24 2026; the next 90 days change that by −0.57% (−2.29% over a year).
 
-### Does CAKE have more new supply than XDC, FIL or STX?
+### Does CAKE have more new supply than XDC, STX or ZRO?
 
-Over the next 90 days (checked Nov 14 2026): CAKE −1.96%, XDC +4.31%, FIL +1.53%, STX +1.25%. CAKE has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 24 2026): CAKE −0.57%, XDC +4.31%, STX +1.26%, ZRO +17.38%. CAKE has the least new supply of these 4 coins.
 
 ## Go deeper on PancakeSwap
 

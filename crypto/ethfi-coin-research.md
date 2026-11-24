@@ -1,6 +1,6 @@
 ---
 title:         "ether.fi (ETHFI) Supply & Demand: 0.00% Supply in 90 Days"
-description:   "ether.fi (ETHFI) supply changes 0.00% over the next 90 days and 0.00% over a year (checked Nov 14 2026)."
+description:   "ether.fi (ETHFI) supply changes 0.00% over the next 90 days and 0.00% over a year (checked Nov 24 2026)."
 canonical_url: "https://mrnasdog.com/research/ethfi"
 content_type:  "coin_hub"
 tags:          ["crypto", "ethfi", "etherfi", "should-i-buy"]
@@ -8,25 +8,25 @@ published:     true
 ---
 # ether.fi (ETHFI) Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/ethfi · checked Nov 21 2026*
+*Live page: https://mrnasdog.com/research/ethfi · checked Nov 24 2026*
 
-ether.fi (ETHFI) supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 14 2026).
+ether.fi (ETHFI) supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 24 2026).
 
 - **Long-run signal:** positive (by the law of supply and demand)
-- **Score:** 7.5/10 — supply 4.5/5, demand 3/5
+- **Score:** 8/10 — supply 4.5/5, demand 3.5/5
 - **New supply:** 0.00% in 90 days · 0.00% in a year
-- **Demand:** moderate (3/5)
+- **Demand:** strong (3.5/5)
 - **Price drivers:** 2 ▲ price up · 0 ▼ price down
 
 ## Supply — new ETHFI in the next 90 days
 
-ETHFI has a fixed supply of 998.54M with no way to mint more. Supply was flat over 90 days; the weekly buyback mostly returns to users as cashback.
+ether.fi's ETHFI cannot mint new coins and every coin already counts as circulating, so supply held flat over 90 days. Team releases and a cashback-funded buyback only move coins already counted.
 
-Over the next 90 days ETHFI supply changes 0.00%; across a full year, 0.00%. That puts supply at 4.5/5 (flat), #79 of 100 for new supply.
+Over the next 90 days ETHFI supply changes 0.00%; across a full year, 0.00%. That puts supply at 4.5/5 (flat), #78 of 100 for new supply.
 
 ## Demand today
 
-People's appetite for ether.fi is **moderate**: 3/5, ranked #36 of 109.
+People's appetite for ether.fi is **strong**: 3.5/5, ranked #20 of 109.
 
 Extra ether.fi demand detail for members stays on the live page.
 
@@ -42,12 +42,12 @@ More ETH staked here → price up · ETH leaves ether.fi → price down. Right n
 
 | Date | ETH in ether.fi |
 |---|---|
-| Sep 30 2026 | 2.3 M ETH |
 | Oct 31 2026 | 2.29 M ETH |
 | Nov 4 2026 | 2.27 M ETH |
 | Nov 14 2026 | 2.28 M ETH |
+| Nov 24 2026 | 2.31 M ETH |
 
-*Checked Nov 14 2026*
+*Checked Nov 24 2026*
 
 ### ▲ Cash deposits
 
@@ -60,39 +60,39 @@ Good for the price: More money in Cash. Bad for it: Users pull money. Now: ▲ u
 | Aug 31 2026 | $203M |
 | Sep 30 2026 | $242M |
 | Oct 31 2026 | $242M |
-| Nov 21 2026 | $214M |
+| Nov 25 2026 | $221M |
 
-*Checked Nov 14 2026*
+*Checked Nov 24 2026*
 
 ## Questions about ETHFI supply
 
 ### Is ether.fi (ETHFI) inflationary or deflationary?
 
-As of Nov 14 2026, ether.fi (ETHFI) supply moves 0.00% in 90 days and 0.00% in a year, so ETHFI is about flat. What is created and what is removed roughly match.
+As of Nov 24 2026, ether.fi (ETHFI) supply moves 0.00% in 90 days and 0.00% in a year, so ETHFI is about flat. What is created and what is removed roughly match.
 
 ### What is the ETHFI inflation rate in 2026?
 
-ether.fi (ETHFI) supply grows 0.00% over the next 12 months and 0.00% over the next 90 days (checked Nov 14 2026). That puts ETHFI #79 of 100 coins we track for new supply (#1 = the most new supply).
+ether.fi (ETHFI) supply grows 0.00% over the next 12 months and 0.00% over the next 90 days (checked Nov 24 2026). That puts ETHFI #78 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next ETHFI token unlock?
 
-No dated ether.fi (ETHFI) unlock is scheduled in the next 90 days (checked Nov 14 2026).
+No dated ether.fi (ETHFI) unlock is scheduled in the next 90 days (checked Nov 24 2026).
 
 ### Does ether.fi burn or buy back ETHFI?
 
-Not in a way that removes ETHFI today: nothing takes ETHFI off the market over the next 90 days (checked Nov 14 2026). The Foundation buys about $225K of ETHFI a week, then pays almost all of it back out as card cashback. Nothing is burned.
+Not in a way that removes ETHFI today: nothing takes ETHFI off the market over the next 90 days (checked Nov 24 2026). A weekly buyback bought about 3.14M ETHFI since Sep 8 2026, then paid almost all of it back out as card cashback. Nothing is burned.
 
 ### Where does new ETHFI supply come from?
 
-Almost no new ETHFI reaches the market over the next 90 days (checked Nov 14 2026). No new ETHFI can be made. Core team coins still release 8.95M a month until March 2027, but they are already counted.
+Almost no new ETHFI reaches the market over the next 90 days (checked Nov 24 2026). No new ETHFI can be made. Core team coins still release about 8.95M a month until early 2027, but every ETHFI already counts as circulating.
 
 ### How much ETHFI is in circulation?
 
-ether.fi (ETHFI) has about 999M coins in circulation as of Nov 14 2026; the next 90 days change that by 0.00% (0.00% over a year).
+ether.fi (ETHFI) has about 999M coins in circulation as of Nov 24 2026; the next 90 days change that by 0.00% (0.00% over a year).
 
-### Does ETHFI have more new supply than STX, PIEVERSE or DASH?
+### Does ETHFI have more new supply than FIL, DASH or PYTH?
 
-Over the next 90 days (checked Nov 14 2026): ETHFI 0.00%, STX +1.25%, PIEVERSE +19.87%, DASH +0.72%. ETHFI has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 24 2026): ETHFI 0.00%, FIL +2.75%, DASH +0.70%, PYTH 0.00%. ETHFI sits in the middle of these 4 coins.
 
 ## Read more on ETHFI
 

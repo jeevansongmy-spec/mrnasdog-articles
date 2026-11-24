@@ -1,6 +1,6 @@
 ---
 title:         "HNT Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
-description:   "Helium's voted growth fund mints 196,000 HNT a day: 17.64M in 90 days plus 2.16M in rewards, against 1.30M HNT burned for data. Supply up 9.16% in 90 days."
+description:   "Helium mints 196,000 HNT a day for Nova Labs: 17.64M in 90 days plus 2.02M in rewards, against a 1.07M HNT data burn. Net supply is up 9.11% in 90 days."
 canonical_url: "https://mrnasdog.com/research/hnt/inflation"
 tags:          ["crypto", "hnt", "helium", "depin"]
 published:     true
@@ -12,64 +12,52 @@ published:     true
 
 # HNT Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 
-*Checked Nov 14 2026.*
-
-HNT supply is growing fast: about **+9.16%** in the 90 days to Nov 14 2026, and about the same in the next 90. The driver is a new mint of **196,000 HNT** a day for Nova Labs' operations and growth fund, which HNT holders voted in during July 2026; it added **17.64M HNT**, on top of **2.16M HNT** in network rewards, while data payments burned only **1.30M HNT**. The old 223M HNT ceiling no longer holds: the fund is set to mint about 141M HNT over three years, which lifts the long-run total to roughly 347M.
+Helium's supply is growing fast, and almost all of the growth comes from one new source. Since Aug 6 2026 the network mints **196,000 HNT** a day for Nova Labs and its oversight Council, on top of the usual hotspot rewards. From Aug 26 to Nov 24 2026 HNT gained **19.66M** new coins (**17.64M** from that supplement and **2.02M** from rewards) and lost only **1.07M** to the data burn, for a net **+9.11%** in 90 days. Other trackers show **+10.44%**, and the next 90 days look the same as the last.
 
 ## The verdict, in one paragraph
 
-Over the 90 days from Aug 16 to Nov 14 2026, Helium created **19.80M HNT** and destroyed **1.30M HNT**, so supply grew by about **18.50M HNT**, or **+9.16%** of today's 202.06M HNT. Other trackers show **+10.08%**, a gap of **0.93 points**. That gap comes from the starting point, not from missing coins: both readings see the same roughly 18.5M new HNT, and other trackers measure it against the smaller supply of mid-August. So the coin page carries no warning note. The next 90 days look the same, because the growth-fund mint runs at a flat rate until about Jul 31 2027. Label: inflationary by vote, with a fund mint that is eight times the hotspot rewards.
+Over the 90 days to Nov 24 2026, HNT supply grew by a net **+9.11%**, from about 185.45M to 204.04M coins. Other trackers put the same stretch at **+10.44%**, a gap of **1.33 points**. Both count the same new HNT; the trackers start from an Aug 26 2026 supply reading that sat below the count on the chain itself that day, so the higher figure reflects a lower starting point rather than extra coins, and the coin page carries no warning note. Nothing in the next 90 days changes the pace: the supplement mint stays flat until about Aug 1 2027. The label that fits HNT today is simple: **inflationary by design, funding one company's growth plan**.
 
 ## Sell pressure: where new HNT comes from
 
-Network rewards are the first source. Once a day, at midnight UTC, Helium mints new HNT for hotspot owners, service providers and people who lock HNT to vote. In the window that came to **2.16M HNT**. Since Aug 30 2026 the amount per day has held near **22,192 HNT**, set by Helium's halving schedule plus a small re-mint of burned coins. In the second half of August the price sat near $0.17, low enough that a pay floor for mobile hotspots switched on and added extra HNT each day; when the price rose at the end of August, the extra stopped.
+The first source is the network's own rewards. Every day at midnight UTC, Helium mints HNT for hotspot owners, veHNT stakers and its two sub-networks, Mobile and IoT. The base is a fixed 20,548 HNT a day, set by a halving schedule that last cut the rate on Aug 1 2025, plus up to 1,644 HNT a day that the network re-mints from coins burned earlier. On 8 days in the window a top-up for mobile data hosts added a little more. In total, network rewards came to **2.02M HNT** between Aug 26 and Nov 24 2026.
 
-Vesting adds nothing. Helium never sold a token batch on a lock-up schedule, so no locked HNT is waiting to open, and every coin ever minted already counts as circulating.
+HNT has no vesting. There is no team or investor batch still locked, so the vesting line is zero. Nova Labs and the Helium Foundation also hold no HNT outside the circulating count: every coin that exists is already counted, so when their wallets move or sell coins, no new HNT appears. That line is zero too, even though large amounts moved. No bankrupt firm or court holds HNT for a later payout, so the long-term locked line is zero as well.
 
-Foundation and company releases also add nothing new. Nova Labs and the network's swap pools hold HNT, but those coins are already part of the circulating count, so moving or selling them does not raise it.
-
-No court case or bankrupt estate holds HNT, so that row is zero too.
-
-The big one is the growth-fund mint. Since Aug 6 2026 the network has minted **196,000 HNT** a day for Nova Labs: **193,550** to Nova's fund vault and **2,450** to pay five community members of the oversight council. In the 90-day window that was **17.64M HNT**, about 89% of everything Helium minted. The rate is written into the network's code: flat for 360 days, then shrinking in a straight line to zero over the following 720 days, about 141M HNT in all. The fund is meant for carrier deals, programs for hotspot owners, engineering, grants and running costs.
+The big source is new. In July 2026 HNT holders approved a governance proposal, HIP-149, that adds a mint every day to fund operations and growth. It started on Aug 6 2026 and mints **196,000 HNT** every day: **193,550** into a vault run by Nova Labs, the company that builds Helium, and **2,450** to pay the five community members of the new Advisory Council. Over the 90 days that was **17.64M HNT**, nearly nine times the regular rewards. The whole program is about 141M HNT over three years: a flat year to about Aug 1 2027, then a steady taper to zero by mid-2029.
 
 ## Buy pressure: where new HNT goes
 
-There is no buyback. Nova Labs used Helium Mobile revenue to buy HNT in late 2025, then stopped on Jan 2 2026, and nothing has replaced it.
+HNT leaves the supply in one main way. To pay for data on the network, HNT is burned to create Data Credits, which are fixed in dollars. Between Aug 26 and Nov 24 2026 that burn removed **1.07M HNT**. The pace swung a lot. After the price per gigabyte that carriers pay was cut from $0.50 to about $0.10 in June 2026, burning slowed: it removed about 383K HNT from Aug 26 to Sep 25 and only about 109K from Sep 25 to Oct 25, then picked up to about 578K in the 30 days to Nov 24.
 
-The one way HNT leaves supply is the data burn. To use the network, a payer burns HNT to make Data Credits, which cost the same in dollars whatever HNT is worth. In the window, that burned **1.30M HNT**, mostly from mobile carriers paying for phone data carried by Helium hotspots. The pace was uneven: heavy in mid-August, close to nothing from late September to mid-October, then about 19,000 HNT a day in early November.
-
-No company or foundation buys HNT off the market for the network; Nova Labs gets its HNT from the new mint instead.
-
-Locking HNT to vote does not shrink supply either: locked HNT still counts as circulating, so new locks remove nothing.
+There is no buyback. The HNT buyback paid from Helium Mobile revenue stopped in January 2026, and Helium Mobile itself was sold in June 2026. Neither Nova Labs nor the Helium Foundation buys HNT back; Nova Labs is the one receiving new HNT. HNT locked for voting power still counts as circulating, so a larger lock removes nothing from the count either. The buy side is the data burn alone, and it covered about one coin in every eighteen minted.
 
 ## Foundation and overhang
 
-Every HNT counts as circulating, so no hidden locked pile can suddenly join the count. What matters is who holds coins that could be sold. Nova Labs' fund vault held only **193,550 HNT** on Nov 14 2026, because it is emptied every few days: **1,935,500 HNT** left it on Nov 9 and **774,200 HNT** on Nov 13, moving on to other addresses within hours. A linked Nova wallet holds about **788,454 HNT**. The council pay wallet held **2,450 HNT**. The MOBILE and IoT swap pools, which let old MOBILE and IOT holders trade into HNT, hold **5.28M** and **2.24M HNT**. We re-read these wallets at every rebuild. If any of them shrinks between checks, the outflow shows up in the foundation row at the next check, but because these coins are already counted, it would not raise supply.
+The wallet to watch is the Nova Labs supplement vault. It receives 193,550 HNT every day and does not keep it: it held **193,550 HNT** on Nov 24 2026, a single day's mint, after passing on **17.61M HNT** in 22 transfers between Aug 26 and Nov 24 2026. The wallets that received those coins hold no HNT now. Under HIP-149, Nova Labs has said it prefers private sales with lockups over exchange sales and reports its sales to the Council.
 
-## How HNT compares to other burn-and-mint DePIN tokens
+Three smaller holders sit beside it. The Council pay wallet held **2,450 HNT**, one day of Council pay, on Nov 24 2026. The two pools that swap the old MOBILE and IOT tokens into HNT held **5.28M** and **2.24M HNT**, paid out only as old holders convert. A Nova Labs operations wallet linked to the vault's transfers was empty on Nov 24 2026. All of these coins already count as circulating, so a transfer out of any of them adds nothing to the supply figures here. We re-read each balance at every check, and if any of them falls between checks, the outflow is named on the foundation line at the next check.
 
-Helium was built on a burn-and-mint design: users burn the token to pay for the service, and new tokens pay the people who run the hardware. Render works the same way, and in both the hope is that burning catches up with minting as use grows. Filecoin is different: storage providers earn new FIL as block rewards, much of it released slowly over months, and only network fees are burned.
+## How HNT compares to other DePIN burn-and-mint chains
 
-What sets HNT apart today is the growth-fund mint. Most burn-and-mint tokens send new supply to the people who run hardware. Since August 2026, about nine of every ten new HNT go to one company's fund instead. That makes Helium's supply growth a governance choice, not a reward for coverage, and it means the burn has to grow about fifteen times over before HNT supply stops rising.
+HNT was built as a burn-and-mint token, the model many physical-network tokens copied: users burn the token to buy fixed-price credits, and the network mints new tokens to pay the people who run the hardware. When usage is high, the burn can match or beat the mint and supply shrinks. HNT showed that this works: in the 90 days before the supplement started, burns outran rewards and supply fell by about 2.2M HNT.
 
-Helium also keeps a halving schedule, like Bitcoin: the base reward halves every two years, next on Aug 1 2027. But the halving does not touch the growth-fund mint, which runs on its own fixed timetable.
+What sets HNT apart now is a second mint that sits outside the burn-and-mint loop. Most DePIN tokens fund their developers from a treasury or a vesting schedule fixed at launch. Helium instead voted to mint a fresh 141M HNT, about three quarters of the supply at the time, to its main developer over three years. That moves HNT from a capped, halving coin with a ceiling near 206M to one with a ceiling near 347M, and for the next year it makes the mint about nine times the rewards the network pays its hotspots.
+
+Compared with an uncapped proof-of-stake chain that pays stakers a few percent a year, HNT's pace of about 9% a quarter is far higher, but it has a fixed end date written into the program. After about Aug 1 2027 the extra mint starts to shrink every day, and by mid-2029 it is gone, leaving the halving schedule and the burn to decide the supply again.
 
 ## What to watch in the next 90 days
 
-The growth-fund mint should keep running at **196,000 HNT** a day through Feb 12 2027, the end of the next 90-day window; the switch to a shrinking rate is not due until about Jul 31 2027.
+First, the supplement keeps running at 196,000 HNT a day through the whole window, to about Aug 1 2027, so roughly 17.64M HNT more should arrive by Feb 22 2027 unless HNT holders vote to cut it.
 
-The oversight council is due to publish where the fund's HNT went each quarter. Its first reports, and any sign that the council wants to cut the mint, matter most: a cut needs only a simple majority of voting holders and would take effect within seven days.
+Second, the Advisory Council can ask for a holder vote to reduce, pause or halt the supplement at any time, and such a vote needs only a simple majority; any move like that would be the single biggest change to HNT's supply.
 
-The burn: early November ran near 19,000 HNT a day, faster than the 90-day average. If that pace holds, the burn would remove about 1.7M HNT over the next 90 days instead of 1.30M.
+Third, HIP-149 asks Nova Labs to bring its first plan for lining up its interests with HNT holders within six months of the mint start, which points to about Feb 6 2027.
 
-The price floor for mobile hotspots: if HNT falls back toward the mid-August level of about $0.17, the extra hotspot pay could switch on again and add new HNT each day, capped by recent burns.
-
-The next base-reward halving is Aug 1 2027, outside this window.
+Fourth, the data burn: it rose to about 578K HNT in the last 30 days after a near stop in October, and a steady rise from new carrier and venue Wi-Fi traffic is the only thing on the buy side that can grow.
 
 ## Summary
 
-Helium's HNT supply grew about **+9.16%** in the 90 days to Nov 14 2026, and the next 90 days look the same. The main reason is a holder-approved mint of **196,000 HNT** a day for Nova Labs' operations and growth fund, which made up **17.64M** of the **19.80M HNT** created, while data burns removed only **1.30M HNT**. The fund's coins leave its vault within days of being minted, so the risk to watch is how much of that supply reaches the market. The old 223M HNT ceiling is gone; the long-run total now points to about 347M HNT, unless holders vote to cut the mint.
+Helium's HNT supply grew by a net **+9.11%** in the 90 days to Nov 24 2026, and the next 90 days look the same. Almost all of it comes from the HIP-149 supplement, which mints 196,000 HNT a day for Nova Labs and the Advisory Council, while network rewards add about 2.02M HNT and the Data Credit burn removes about 1.07M. The main risk for holders is that this new supply reaches the market faster than real network use can absorb it. The mint is capped at about 141M HNT in total and starts tapering around Aug 1 2027, which lifts HNT's effective ceiling from about 206M to about 347M coins.
 
----
-
-*MrNasdog Pressure Framework analysis of HNT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 14 2026.*
+*MrNasdog Pressure Framework analysis of HNT, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 24 2026.*

@@ -1,6 +1,6 @@
 ---
 title:         "FIL Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
-description:   "FIL is inflationary: +2.82% in 90 days from the last launch unlocks, freed storage deposits and block rewards. Unlocks ended Oct 14 2026; next +1.53%."
+description:   "FIL supply grew +3.34% in 90 days after vesting ended: Protocol Labs sent out 15.58M FIL and miners got 8.10M FIL of collateral back. About +2.75% next."
 canonical_url: "https://mrnasdog.com/research/fil/inflation"
 tags:          ["crypto", "fil", "filecoin", "storage"]
 published:     true
@@ -12,54 +12,58 @@ published:     true
 
 # FIL Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 
-FIL supply grew about **+2.82%** in the 90 days from Aug 16 to Nov 14 2026, and it should grow about **+1.53%** in the next 90 days: supply growing, and projected to keep growing, but more slowly now that the launch unlocks are over. Filecoin added **24.16M FIL** in the window, from the last launch unlocks, from storage deposits that providers took back and from block rewards, while the burn destroyed **293,141 FIL**. No more than 2B FIL can ever exist. Other trackers show **+3.31%** for the same 90 days, close to our figure.
+Filecoin's circulating FIL grew **+3.34%** from Aug 26 to Nov 24 2026 and should grow about **+2.75%** in the next 90 days. The six-year launch vesting ended on Oct 14 2026, but Protocol Labs sent **15.58M FIL** out of its wallets, storage providers got back **8.10M FIL** of locked collateral and new block rewards added **5.18M FIL**, against only **289,673 FIL** burned. FIL has a hard cap of **2B**, and market trackers show **+3.46%** for the same 90 days.
 
 ## The verdict, in one paragraph
 
-From Aug 16 to Nov 14 2026 the FIL supply rose by a net **+2.82%**, and the next 90 days come to about **+1.53%**. Other trackers show **+3.31%**, a difference of **0.49 percentage points**, so the two readings agree and the coin page carries no warning note. Almost half of the window's new FIL came from a source that has now stopped: the six-year launch schedule for Protocol Labs and the Filecoin Foundation, which ran out on Oct 14 2026. What is left is the steady block reward and the FIL that comes back to storage providers as the network shrinks. In one line: Filecoin is a capped storage network whose unlock era just ended, still inflating because its stored data is shrinking.
+Filecoin added **28.85M FIL** to the market and removed **289,673 FIL** between Aug 26 and Nov 24 2026, a net rise of **+3.34%** on a circulating base of **854.33M FIL**. Market trackers show **+3.46%** for the same window, a gap of only **0.12** points, so the FIL coin page carries no warning note. For the next 90 days we expect **+2.75%**: block rewards and returning collateral keep flowing, Protocol Labs has **10.50M FIL** left in its main sending wallet, and nothing is left to vest. In one line, FIL is a storage network whose supply still grows from team selling and freed collateral after its vesting ended.
 
 ## Sell pressure: where new FIL comes from
 
-Protocol inflation pays the storage providers who win blocks. They received **5,206,575 FIL** of new coins in the 90 days, about 57,850 FIL a day, and the reward per block shrinks a little every month by design. Since the Solstice upgrade went live on Oct 19 2026, the same reward is split: most still goes to the block winner, and a growing slice goes to service providers who bring paying customers to the network. The total made per block did not change, so the next 90 days look about the same.
+The first source is block rewards. Storage providers who win a block are paid in newly minted FIL, and from Aug 26 to Nov 24 2026 Filecoin minted **5,176,281 FIL**, roughly **57,500 FIL** a day. The reward shrinks slowly by design. Since the Solstice upgrade on Oct 19 2026 a small slice of each reward goes to paid storage services instead of block winners, but the total FIL minted did not change, so we expect about the same **5.18M FIL** in the next 90 days.
 
-Vesting unlocks were the largest flow in this window and are now finished. The six-year launch schedule, which covered 300M FIL for Protocol Labs and 100M FIL for the Filecoin Foundation, freed **10,888,382 FIL** between Aug 16 and its last day, Oct 14 2026. Every launch wallet is now fully unlocked, so this row books zero for the next 90 days.
+Vesting adds nothing to the count. The last launch schedule, **409.8M FIL** for Protocol Labs and the Filecoin Foundation over six years, finished on Oct 14 2026. About **9.13M FIL** unlocked during the window, but those coins stayed in the original launch wallets, and FIL held there is not counted as circulating until it moves. With the schedule over, no new FIL will unlock.
 
-Foundation and unscheduled unlocks book zero. The 282.93M FIL mining reserve did not move in the window and has been still since Aug 2024; it can only be spent through a network upgrade. Protocol Labs sent FIL out of its launch wallets, but those coins had already unlocked and already counted as circulating.
+The biggest source this quarter was Protocol Labs. Its main sending wallet paid out **15.02M FIL** between Aug 26 and Nov 24 2026, most of it in late October and November, and a smaller wallet that makes monthly payments sent another **555,608 FIL**. Together that is **15.58M FIL** reaching the market. The main wallet has sent FIL out in every month of the past year, **44.67M FIL** in total, and still holds **10.50M FIL**, so we count all of it in the next 90 days.
 
-Long-term locks gave back **8,061,717 FIL**. Storage providers put up FIL as a deposit for every sector of data they store, and 75% of each block reward stays locked for 180 days. When old sectors end and fewer new ones are added, more FIL comes out of these locks than goes in. The network's storage power fell about 14% in the window, and the release sped up near the end, with 5.12M FIL freed in the last 30 days alone.
+The last source is collateral coming back. Storage providers lock FIL as a deposit for the storage they offer, and part of every block reward stays locked for 180 days. As storage deals end, that FIL returns to them. After new deposits, **8.10M FIL** came back between Aug 26 and Nov 24 2026, and **57.12M FIL** is still locked. The pace is uneven: **2.84M FIL** came back between Oct 28 and Oct 31 2026, then only **0.59M FIL** from Nov 4 to Nov 24. We expect the same **8.10M FIL** again. No court or bankrupt firm holds FIL for a later payout.
 
 ## Buy pressure: where new FIL goes
 
-There is no programmatic buyback: no treasury or contract buys FIL back for the network.
+Filecoin has no buyback. No contract or treasury buys FIL from the market, and neither Protocol Labs nor the Filecoin Foundation plans to buy any; both have been sellers.
 
-The burn is the only built-in way FIL leaves circulation. Fees and penalties sent to the burn address destroyed **293,141 FIL** between Aug 16 and Nov 14 2026. Most of it came from charges and penalties that storage providers pay, because the basic transaction fee sits at its lowest possible level. For the next 90 days the burn is expected to rise slightly to about **301,970 FIL**, because Solstice starts burning a small, growing share of the block reward on Jan 18 2027, about 8.83K FIL by Feb 12 2027.
+The only built-in way FIL leaves the supply is the burn. Part of every transaction fee, and the penalties storage providers pay when they miss their proofs, go to an address nobody can spend from. That burn removed **289,673 FIL** from Aug 26 to Nov 24 2026, about **3,200 FIL** a day, bringing the all-time total burned to **43.17M FIL**. The burn is about one hundredth of what the network adds.
 
-Foundation buying is zero: neither Protocol Labs nor the Filecoin Foundation buys FIL back, and funds or trusts trade coins that already circulate. A new long-term lock is also zero this time, because storage deposits shrank rather than grew. If providers start adding storage faster than old sectors end, new deposits would take FIL out of circulation and this row would turn on.
+New deposits from storage providers are already subtracted inside the collateral figure above, so they are not counted a second time. Filecoin also has a **282.93M FIL** mining reserve. It has not moved and sits outside the circulating count, so it neither adds nor removes anything today.
 
 ## Foundation and overhang
 
-Protocol Labs' launch wallets hold about **13.50M FIL** after sending out 20.92M FIL during the window. The Filecoin Foundation's launch wallet holds **7.55M FIL**, the same as on Aug 16 2026. Both sets of coins are fully unlocked and already counted as circulating, so a sale would move existing coins rather than add new ones. The mining reserve holds **282.93M FIL** outside circulation; it has no keys and needs a network upgrade to move, and a community proposal to burn it has been under discussion since Feb 27 2026 without a vote. All three are re-read at every rebuild: if the reserve's balance falls between refreshes, the outflow enters the foundation and unscheduled row at the next refresh.
+Protocol Labs controls the largest pile of FIL that could still reach the market. Its four remaining large launch wallets hold **5.35M FIL**, one hundred smaller launch wallets hold another **8.15M FIL**, and its main sending wallet holds **10.50M FIL**. The launch wallets did not move between Aug 26 and Nov 24 2026; the main sending wallet did, and it is the one we expect to keep selling.
+
+The Filecoin Foundation holds **7.55M FIL** in its launch wallet and **10.00M FIL** in a second wallet that received coins on Jun 15 2026. The Foundation last sent FIL onward on Mar 6 2026 and has no public selling schedule, so we count nothing from it for the next 90 days. We re-read every one of these wallets at each rebuild: if any balance falls between rebuilds, the FIL that left is added to the Foundation and unscheduled unlocks row at the next rebuild.
 
 ## How FIL compares to other decentralized storage networks
 
-Filecoin works differently from most storage tokens because its supply is tied to the hardware that stores data. Providers must lock FIL to add storage and earn rewards, so a growing network pulls FIL out of circulation and a shrinking one pushes it back. In this window the network shrank, and the returned deposits added more new FIL than the block rewards did.
+Filecoin and Arweave both pay storage miners in new coins under a hard cap, Filecoin at **2B FIL** and Arweave at 66M AR. The difference is where the pressure comes from now. Filecoin's block rewards are small next to the FIL its team still holds and the collateral its storage providers get back, while Arweave sets aside part of every storage payment in an endowment instead of paying it all out at once.
 
-Arweave takes a different path: users pay once, up front, to store data forever, and most of that payment goes into an endowment that pays miners over time, under a fixed cap. Storj uses a token with a fixed supply that is not mined at all, so its count does not grow from rewards. Siacoin is mined with no cap and pays a fixed reward per block. Filecoin sits between them: a hard 2B cap like Arweave, rewards that shrink over time, and deposits that make its circulating supply rise and fall with how much storage the network holds.
+Storj has a fixed token supply and no block rewards at all; new tokens reach the market only when the company releases them from its reserve. Filecoin after Oct 14 2026 looks more like that than before: with vesting over, the main swing in supply is a team's decision to sell rather than a schedule. Sia, by contrast, has no cap and mints a fixed reward with every block, so its supply grows on a steady line.
+
+One feature is unique to Filecoin among these networks. Storage providers must lock FIL as collateral before they can store data, so FIL goes into deposits when the network grows and comes back out when it shrinks. Over the past year that deposit pool shrank from **108.84M FIL** to **57.12M FIL**, so it has been a source of new FIL rather than a sink.
 
 ## What to watch in the next 90 days
 
-Jan 18 2027 is the first dated event: the Solstice quarter ends, the service providers' share reaches 10%, and a small part of each block reward starts to be burned, about 8.83K FIL by Feb 12 2027.
+Protocol Labs' main sending wallet holds **10.50M FIL** after sending **8.83M FIL** in November alone; if it slows, the next 90 days come in under our **+2.75%**, and if the launch wallets refill it, over.
 
-The pace of returned storage deposits is the biggest swing factor. The last 30 days freed 5.12M FIL, faster than the 90-day average, and a large group of sectors is reaching its five-year limit.
+On Jan 18 2027 the Solstice upgrade enters its second quarter. If paid storage volume misses its dollar target, a growing slice of each block reward is burned instead of paid out, but by Feb 22 2027 that would remove at most about **18,500 FIL**.
 
-A proposal to let sectors live 10 years instead of 5 entered its last call on Nov 3 2026. If a network upgrade adopts it, providers could keep deposits locked longer instead of letting them come back.
+The pace at which locked collateral comes back: **57.12M FIL** is still locked, and the release slowed sharply after Nov 4 2026.
 
-Watch Protocol Labs' 13.50M FIL in launch wallets and the 282.93M FIL mining reserve. A sale from the first adds no new coins; a move from the second would need a network upgrade and would be booked at the next refresh.
+The next network upgrade, which has no date yet: FIP-0119, accepted on Nov 23 2026, lets sectors live up to 10 years, which keeps collateral locked longer, and FIP-0122, in last call since Nov 22 2026, would shrink fault penalties as block rewards shift toward paid storage, trimming the burn.
 
 ## Summary
 
-FIL supply grew about **+2.82%** in the 90 days to Nov 14 2026 and is on course for about **+1.53%** in the next 90 days, still growing but more slowly. The launch unlocks that drove almost half of the growth ended on Oct 14 2026, and what is left is block rewards of about 5.21M FIL and storage deposits coming back as the network shrinks, about 8.06M FIL. The burn removes only about 293,141 FIL per 90 days. Filecoin can never pass 2B FIL, and the main risk to this picture is that storage keeps leaving the network faster than new storage arrives.
+Filecoin's circulating FIL rose **+3.34%** from Aug 26 to Nov 24 2026 and should rise about **+2.75%** in the next 90 days, even though its six-year vesting ended on Oct 14 2026. Most of the new FIL came from Protocol Labs selling **15.58M FIL** from its wallets and from **8.10M FIL** of storage collateral returning, while block rewards added **5.18M FIL** and the burn took back only **289,673 FIL**. The key risk is Protocol Labs' remaining **10.50M FIL** in its main wallet and **13.50M FIL** in its launch wallets. FIL's supply can never pass **2B FIL**.
 
 ---
 
-*MrNasDog Pressure Framework analysis of FIL, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 14 2026.*
+*MrNasDog Pressure Framework analysis of FIL, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 24 2026.*

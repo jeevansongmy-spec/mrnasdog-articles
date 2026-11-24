@@ -1,28 +1,28 @@
 ---
-title:         "Is PIEVERSE Inflationary? +19.87% New Supply in 90 Days"
-description:   "How much new PIEVERSE is coming? +19.87% in the next 90 days, +104.16% in the next year — checked Nov 15 2026."
+title:         "Is PIEVERSE Inflationary? +23.66% New Supply in 90 Days"
+description:   "How much new PIEVERSE is coming? +23.66% in the next 90 days, +94.63% in the next year — checked Nov 24 2026."
 canonical_url: "https://mrnasdog.com/research/pieverse"
 content_type:  "coin_hub"
 tags:          ["crypto", "pieverse", "pieverse", "should-i-buy"]
 published:     true
 ---
-# Is PIEVERSE Inflationary? +19.87% New Supply in 90 Days
+# Is PIEVERSE Inflationary? +23.66% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/pieverse, updated Nov 21 2026*
+*From https://mrnasdog.com/research/pieverse, updated Nov 24 2026*
 
-How much new PIEVERSE is coming? **+19.87%** in the next 90 days, **+104.16%** in the next year — checked Nov 15 2026.
+How much new PIEVERSE is coming? **+23.66%** in the next 90 days, **+94.63%** in the next year — checked Nov 24 2026.
 
 - **Signal:** negative for Pieverse
 - **Score:** 1.5/10 — supply 0/5, demand 1.5/5
-- **Supply growth:** +19.87% in 90 days · +104.16% in a year
+- **Supply growth:** +23.66% in 90 days · +94.63% in a year
 - **How much people want it:** very weak (1.5/5)
 - **Price drivers:** 0 ▲ price up · 0 ▼ price down
 
 ## New PIEVERSE hitting the market
 
-Pieverse is an AI agent payment app. Its 1B coins already exist, but project wallets pay out every month and the team and investor lock ended Nov 14 2026, so supply grows fast.
+Pieverse, an AI-agent payments coin: only 27.5% of the 1B coins trade today, team and investor coins unlock monthly from Dec 14 2026, and nothing buys coins back.
 
-Pieverse adds +19.87% new supply in the next 90 days and +104.16% over a year — supply scores 0/5 (extreme).
+Pieverse adds +23.66% new supply in the next 90 days and +94.63% over a year — supply scores 0/5 (extreme).
 
 ## The things that move Pieverse
 
@@ -42,11 +42,11 @@ Good for the price: Bigger exchanges list it. Bad for it: Delistings.
 | Apr 20 2026 | Upbit KRW market opens |
 | May 20 2026 | Kraken spot listed |
 
-*Checked Nov 15 2026*
+*Checked Nov 24 2026*
 
 ### • Product rollout
 
-Agent-payment products keep shipping; user numbers are not public.
+Confidential Agents launched invite-only; user numbers still not public
 
 Real users and payments → price up · Products stay unused → price down.
 
@@ -57,13 +57,14 @@ Real users and payments → price up · Products stay unused → price down.
 | Mar 17 2026 | Purr-Fect Claw launch |
 | Aug 25 2026 | Staking goes live |
 | Sep 16 2026 | Added to Arc mainnet |
+| Nov 2026 | Confidential Agents beta |
 | Q4 2026 | Global compliance push (coming) |
 
-*Checked Nov 15 2026*
+*Checked Nov 24 2026*
 
 ## Demand: how much people want PIEVERSE
 
-Demand reads **very weak** (1.5/5), #76 of 109 coins we track — that is how much people want PIEVERSE now and how much buying could still come.
+Demand reads **very weak** (1.5/5), #78 of 109 coins we track — that is how much people want PIEVERSE now and how much buying could still come.
 
 The members-only part of PIEVERSE's demand section is not included.
 
@@ -71,31 +72,31 @@ The members-only part of PIEVERSE's demand section is not included.
 
 ### Is PIEVERSE inflationary or deflationary?
 
-PIEVERSE is inflationary right now: its supply changes +19.87% over the next 90 days and +104.16% over the next year (checked Nov 15 2026). More PIEVERSE is added than removed.
+PIEVERSE is inflationary right now: its supply changes +23.66% over the next 90 days and +94.63% over the next year (checked Nov 24 2026). More PIEVERSE is added than removed.
 
 ### What is the PIEVERSE inflation rate in 2026?
 
-About +104.16% a year: that is how much PIEVERSE supply changes over the next 12 months, with +19.87% in the next 90 days (checked Nov 15 2026). That puts PIEVERSE #4 of 100 coins we track for new supply (#1 = the most new supply).
+About +94.63% a year: that is how much PIEVERSE supply changes over the next 12 months, with +23.66% in the next 90 days (checked Nov 24 2026). That puts PIEVERSE #3 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next PIEVERSE token unlock?
 
-The next PIEVERSE unlock we track is on Dec 14 2026: about 16.7M PIEVERSE, 6.07% of the PIEVERSE in circulation (Team and investor monthly release — Sell). Checked Nov 15 2026.
+The next PIEVERSE unlock we track is on Dec 14 2026: about 16.7M PIEVERSE, 6.07% of the PIEVERSE in circulation (Team and investor monthly unlock — due to insiders). Checked Nov 24 2026.
 
 ### Is any PIEVERSE burned or bought back?
 
-Not in a way that removes PIEVERSE today: nothing takes PIEVERSE off the market over the next 90 days (checked Nov 15 2026). Nothing takes PIEVERSE back: no buyback and no burn. About 10.87M is staked for app points, but staked coins still count as circulating.
+Not in a way that removes PIEVERSE today: nothing takes PIEVERSE off the market over the next 90 days (checked Nov 24 2026). Nothing takes PIEVERSE back: no buyback and no burn. About 10.87M is staked for app points, but staked coins still count as circulating.
 
 ### Where does new PIEVERSE supply come from?
 
-In our count, about 54.6M new PIEVERSE reaches the market over the next 90 days (checked Nov 15 2026). How it works: Project wallets paid out 29.75M PIEVERSE in 90 days, and with the team and investor lock over since Nov 14 2026, about 16.67M more a month can follow.
+In our count, about 65M new PIEVERSE reaches the market over the next 90 days (checked Nov 24 2026). How it works: Project wallets paid out 10M PIEVERSE in 90 days, and with the team and investor lock over since Nov 14 2026, about 16.67M more a month is due from Dec 14.
 
 ### How much PIEVERSE is in circulation?
 
-About 275M PIEVERSE is in circulation (checked Nov 15 2026). Over the next 90 days that changes +19.87%, and over a year +104.16%.
+About 275M PIEVERSE is in circulation (checked Nov 24 2026). Over the next 90 days that changes +23.66%, and over a year +94.63%.
 
-### Does PIEVERSE have more new supply than ETHFI, DASH or BLIFE?
+### Does PIEVERSE have more new supply than ARB, RENDER or KAS?
 
-Over the next 90 days (checked Nov 15 2026): PIEVERSE +19.87%, ETHFI 0.00%, DASH +0.72%, BLIFE 0.00%. PIEVERSE has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 24 2026): PIEVERSE +23.66%, ARB +4.59%, RENDER +0.08%, KAS +0.50%. PIEVERSE has the most new supply of these 4 coins.
 
 ## Next steps for PIEVERSE
 

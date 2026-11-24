@@ -1,6 +1,6 @@
 ---
 title:         "APT Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
-description:   "Is APT inflationary? 27.16M APT of unlocks and 4.71M of staking pay vs a 399K gas burn: +3.54% in 90 days, about +2.02% next as the insider unlocks end."
+description:   "Is APT inflationary? 27.16M APT of unlocks and 4.73M of staking pay vs a 426K gas burn: +3.54% in 90 days, about +2.02% next as the insider unlocks end."
 canonical_url: "https://mrnasdog.com/research/apt/inflation"
 tags:          ["crypto", "apt", "aptos", "layer1"]
 published:     true
@@ -12,58 +12,60 @@ published:     true
 
 # APT Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 
-APT is inflationary, and the next 90 days should add new coins more slowly than the last 90. From Aug 16 to Nov 14 2026, monthly unlocks freed **27.16M APT** and stakers were paid **4,706,255 APT**, while the gas burn removed **398,780 APT**, a net rise of **+3.54%**. Other trackers show about **+3.68%** for the same stretch, close enough that the coin page carries no warning note.
+APT supply is growing, and it will keep growing next quarter, only more slowly. From Aug 26 to Nov 24 2026 the monthly unlocks released **27.16M APT** and staking pay created another **4.73M APT**, while the gas burn took back about **426K APT**. Net, circulating APT rose about **+3.54%**, and other trackers show **+3.65%**, close to our figure.
+
+The big change is that the team and early investor unlocks finished in October 2026. That cuts the monthly unlock from **11.31M** to **4.54M APT**, so the next 90 days should add about **+2.02%**. Aptos voted for a hard cap of **2.1B APT**, and about 1.21B exist today.
 
 ## The verdict, in one paragraph
 
-Aptos added about **31.47M APT** to the coins people can trade between Aug 16 and Nov 14 2026, which is **+3.54%** of the **889.00M APT** now circulating. Other trackers read **+3.68%**, a difference of about 0.14 points, so the coin page carries no warning note. The label is simple: supply is growing, and it is projected to keep growing. What changes is the speed. October 2026 was the last month the team and early investors received coins, so the next 90 days should add about **2.02%** instead, made of three smaller monthly unlocks plus the same staking pay.
+Over the last 90 days APT supply grew **+3.54%**, and other trackers show **+3.65%**. The two figures sit close together, so the coin page carries no warning note. The label is **supply growing, projected to keep growing**. Most of the growth came from locked coins opening on schedule, not from new coins being printed. That part now shrinks by about 60%, which is why the next 90 days look closer to **+2.02%**. The gas burn is real but small: it takes back less than a tenth of what staking pays out.
 
 ## Sell pressure: where new APT comes from
 
-Protocol inflation is the staking pay. Every two hours, at the end of each epoch, Aptos mints new APT for the people who stake. The yearly rate is **2.6%** on the roughly **766.6M APT** that is staked, and it already sits at the lowest level the rules allow. Over the 1,067 epochs between Aug 16 and Nov 14 2026, stakers received **4,706,255 APT**, about **52,290 APT** a day. Because the stake keeps growing slowly, this pay creeps up a little each month.
+**Protocol inflation: about 4.73M APT.** Every two hours Aptos pays the people who stake APT in freshly made coins. A March 2026 vote cut that pay from 5.19% to **2.6% a year**, and it has stayed there the whole window. About **754M APT** is staked, so stakers received close to **52.5K APT a day** from Aug 26 to Nov 24 2026. The next 90 days should bring about the same.
 
-Vesting unlocks were the bigger source. Three monthly unlocks landed in the window: **11.31M APT** on Sep 11 2026, another **11.31M APT** on Oct 11 2026, and **4.54M APT** on Nov 11 2026, a total of **27.16M APT**. The two big ones still held the monthly share of the core team and the early investors. The October payment was their last one, which is why the November unlock was so much smaller.
+**Vesting unlocks: about 27.16M APT.** Locked APT opens once a month. The September and October 2026 batches were **11.31M APT** each, and October was the final batch for the team and early investors. The November batch was only **4.54M APT**, all from the Community and Foundation pools. Three more of those land in the next 90 days, on Dec 11 2026, Jan 11 2027 and Feb 11 2027, for about **13.63M APT**.
 
-Foundation and unscheduled unlocks added nothing. The coins that are still locked come out only on the monthly calendar, and no early release was seen in the window.
+**Foundation and unscheduled unlocks: zero.** Every coin that opened in the window opened on the published calendar. Nothing left the locked pools early.
 
-Long-term locked or bankruptcy coins also added nothing. No court case or failed firm is waiting to pay out APT. Withdrawals of APT on Binance, paused after the exchange was hacked in late October, came back on Nov 8 2026, but those coins were already counted as circulating.
+**Long-term locked or bankruptcy: zero.** No bankrupt firm or court is holding APT for a later payout.
 
 ## Buy pressure: where new APT goes
 
-The programmatic buyback is zero. Aptos does not run one. The Aptos Foundation said in February 2026 that it was looking at a buyback, and no size or start date has followed.
+**Programmatic buyback: zero.** In February 2026 the Aptos Foundation said it is exploring a buyback or an APT reserve. As of Nov 24 2026 it has shared no wallet, size or start date, so nothing is bought back yet.
 
-The protocol fee burn is the one real removal. Every gas fee on Aptos is burned, and a March 2026 vote made gas ten times more expensive to speed the burn up. A small slice of the fees is paid back to validators at the end of each epoch. After that payback, the burn removed **398,780 APT** between Aug 16 and Nov 14 2026. That is real, but it cancels only about **8.5%** of the staking pay, and far less of the unlocks.
+**Protocol fee burn: about 426K APT.** Every Aptos transaction fee is burned when it is paid, and a March 2026 vote made fees ten times higher in APT. About a fifth of the burned fees is paid back to validators every two hours. From Aug 26 to Nov 24 2026 users burned about **530K APT** in fees and about **426K APT** stayed burned. Fees rose through November, but even on the busiest days the burn covers only a small slice of the staking pay.
 
-The Foundation buy is zero. The Foundation does not buy APT on the market. On Nov 10 2026 the custody firm BitGo said it had taken a position in APT, without giving a size, but that purchase moves coins that were already circulating and does not change the count.
+**Foundation buy: zero.** The Foundation has not bought APT on the market. BitGo said on Nov 10 2026 that it now holds APT on its own books, but it did not give a size, and those coins were already circulating.
 
-The new long-term lock is zero as well. The Foundation has promised to keep **210M APT** staked forever and never sell it. Staked APT still counts as circulating, so the promise lowers the risk of selling but takes nothing out of the supply.
+**New long-term lock: zero.** The Foundation has promised to keep **210M APT** staked for good and never sell it. Those coins already count as circulating, so the promise lowers selling risk but does not shrink the count.
 
 ## Foundation and overhang
 
-The largest overhang is the locked part of the community and Foundation pools. About **322.59M APT** is still waiting in them, and both are run by the Aptos Foundation. It comes out at about **4.54M APT** a month until October 2032, so the overhang shrinks steadily rather than arriving in one block. Separately, the Foundation's **210M APT** staking pledge sits inside the circulating supply. The Foundation has not named the wallets that hold it, so for now the pledge rests on its word. The hard cap of **2.1B APT**, voted in March 2026, leaves room for staking pay to continue for many years before it binds.
+The Aptos Foundation still runs about **322.58M APT** in the locked Community and Foundation pools. Those coins open at **4.54M APT a month** until October 2032, and that calendar is already counted in the vesting row. Separately, the Foundation has pledged **210M APT** of the coins it already holds to permanent staking. The Foundation earns staking pay on that pledge to fund its work instead of selling coins, so the pledge adds to the staking pay but removes a large potential seller.
 
 ## How APT compares to other proof-of-stake Layer 1 chains
 
-Ethereum has no unlocks left at all, so its new coins come only from validator pay, and its fee burn takes back a small part of that. Aptos looks like Ethereum on the staking side, with pay to stakers and a burn of every fee, but it still carries a vesting calendar on top. Sui, another Move chain launched around the same time, also still releases coins every month to its team, reserve and builders.
+Aptos works like most young proof-of-stake chains. Stakers are paid in new coins, a large share of the supply opens on a monthly calendar, and fees are burned. What sets Aptos apart in late 2026 is that its insider unlocks are over while the Community and Foundation unlocks run for six more years at a smaller pace. Chains whose team and investor unlocks are still running carry a heavier monthly calendar than Aptos now does.
 
-What sets Aptos apart is the change in its calendar. Until October 2026 it added about **11.31M APT** a month from unlocks. From November it adds about **4.54M**, a cut of roughly 60%. Its staking rate of 2.6% is already at its floor, and its hard cap gives holders a ceiling that Ethereum, for one, does not have. The weak spot is the burn: with fees still small, it removes far less than the chain creates.
+Ethereum has no unlocks left at all and pays validators with no cap, so its supply grows whenever its staking pay outruns its burn. Aptos halved its staking rate in March 2026, and it voted for a hard cap of 2.1B APT, which Ethereum does not have. Its fee burn is still small next to its staking pay, so for now the cap is far away and the monthly unlocks decide most of the supply growth.
 
 ## What to watch in the next 90 days
 
-**Dec 11 2026**: the next community and Foundation unlock, about **4.54M APT**. It will be the second month in a row with no team or investor coins in it.
+**Dec 11 2026:** the first of three monthly Community and Foundation unlocks in the window, about **4.54M APT**. The same amount follows on **Jan 11 2027** and **Feb 11 2027**. Any batch larger than that would be new selling pressure.
 
-**Jan 11 2027** and **Feb 11 2027**: two more unlocks of the same size. With Dec 11, they add **13.63M APT** in the next 90 days.
+**The buyback:** the Foundation said in February 2026 that it is exploring one. If it names a wallet and starts buying, that becomes the first steady buyer of APT.
 
-The burn pace: gas burned per epoch rose through the window, and it was at its highest in the last days. If trading on Aptos keeps growing, the burn could cover a bigger share of staking pay than the **8.5%** seen so far.
+**Fee growth:** stablecoins on Aptos rose from about $805M on Nov 15 2026 to about $957M on Nov 24 2026, and fees climbed through November. Only much busier trading would make the burn matter.
 
-The Foundation's next steps: whether it names the wallets behind the **210M APT** pledge, and whether the buyback it talked about in February 2026 gets a size and a date.
+**Staking pay:** the rate sits at its 2.6% floor. A new vote to lower it, or the code that enforces the 2.1B cap, would change the yearly count.
 
 ## Summary
 
-APT supply grew **+3.54%** between Aug 16 and Nov 14 2026, from **27.16M APT** of monthly unlocks and **4,706,255 APT** of staking pay.
+APT supply grew about **+3.54%** from Aug 26 to Nov 24 2026, mostly from monthly unlocks of **27.16M APT** and staking pay of **4.73M APT**.
 
-The gas burn removed **398,780 APT** in the same 90 days, a real but small offset.
+The gas burn removed about **426K APT**, less than a tenth of the staking pay, and no buyback runs yet.
 
-With the last team and investor unlock paid in October 2026, the next 90 days should add about **+2.02%**, from **13.63M APT** of community and Foundation unlocks plus staking pay.
+With team and investor unlocks finished in October 2026, monthly unlocks fall to **4.54M APT**, and supply should grow about **+2.02%** over the next 90 days.
 
-About **322.59M APT** is still locked in the community and Foundation pools and comes out monthly until October 2032, while the Foundation's **210M APT** pledge has no named wallets yet.
+About **322.58M APT** is still locked and opens on a monthly calendar until October 2032.
