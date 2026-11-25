@@ -8,7 +8,7 @@ published:     true
 ---
 # Is World (WLD) Inflationary? +3.15% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/wld, updated Nov 21 2026*
+*From https://mrnasdog.com/research/wld, updated Nov 25 2026*
 
 How much new WLD is coming? **+3.15%** in the next 90 days, **+19.56%** in the next year — checked Nov 21 2026.
 
@@ -39,7 +39,7 @@ More humans verify → price up · Sign-ups stall → price down. Right now it p
 | Jun 24 2026 | 18.1 M people |
 | Sep 29 2026 | 18.2 M people |
 | Oct 31 2026 | 18.2 M people |
-| Nov 22 2026 | 18.2 M people |
+| Nov 25 2026 | 18.2 M people |
 
 *Checked Nov 21 2026*
 
@@ -60,7 +60,7 @@ Eightco holds about 302M WLD, flat since Jul 27 2026.
 
 ## Who wants World right now
 
-Demand reads **very weak** (1.5/5), #76 of 109 coins we track — that is how much people want WLD now and how much buying could still come.
+Demand reads **very weak** (1.5/5), #77 of 109 coins we track — that is how much people want WLD now and how much buying could still come.
 
 A deeper WLD demand breakdown is on the page for members.
 
@@ -90,9 +90,9 @@ In our count, about 119M new WLD reaches the market over the next 90 days (check
 
 About 3.8B WLD is in circulation (checked Nov 21 2026). Over the next 90 days that changes +3.15%, and over a year +19.56%.
 
-### Does WLD have more new supply than KCS, PUMP or JUP?
+### Does WLD have more new supply than ETC, PUMP or JUP?
 
-Over the next 90 days (checked Nov 21 2026): WLD +3.15%, KCS 0.00%, PUMP −8.26%, JUP −0.01%. WLD has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 21 2026): WLD +3.15%, ETC +0.59%, PUMP −8.26%, JUP −0.01%. WLD has the most new supply of these 4 coins.
 
 ## Read more on WLD
 

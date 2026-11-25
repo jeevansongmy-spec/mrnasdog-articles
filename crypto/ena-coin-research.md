@@ -8,7 +8,7 @@ published:     true
 ---
 # Ethena (ENA) Supply & Demand: +2.08% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/ena · checked Nov 21 2026*
+*Live page: https://mrnasdog.com/research/ena · checked Nov 25 2026*
 
 Ethena (ENA) supply changes **+2.08%** over the next 90 days and **+8.33%** over a year (checked Nov 21 2026).
 
@@ -45,7 +45,7 @@ Good for the price: More USDe in use. Bad for it: USDe shrinks. Now: ▲ up side
 | Aug 31 2026 | 4.08 B USDe |
 | Sep 30 2026 | 4.9 B USDe |
 | Oct 31 2026 | 4.53 B USDe |
-| Nov 22 2026 | 4.88 B USDe |
+| Nov 25 2026 | 4.91 B USDe |
 
 *Checked Nov 21 2026*
 
@@ -74,7 +74,7 @@ As of Nov 21 2026, Ethena (ENA) supply moves +2.08% in 90 days and +8.33% in a y
 
 ### What is the ENA inflation rate in 2026?
 
-Ethena (ENA) supply grows +8.33% over the next 12 months and +2.08% over the next 90 days (checked Nov 21 2026). That puts ENA #31 of 100 coins we track for new supply (#1 = the most new supply).
+Ethena (ENA) supply grows +8.33% over the next 12 months and +2.08% over the next 90 days (checked Nov 21 2026). That puts ENA #32 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next ENA token unlock?
 
@@ -92,9 +92,9 @@ In our count, about 281M new ENA reaches the market over the next 90 days (check
 
 Ethena (ENA) has about 13.5B coins in circulation as of Nov 21 2026; the next 90 days change that by +2.08% (+8.33% over a year).
 
-### Does ENA have more new supply than SKY, ASTER or MNT?
+### Does ENA have more new supply than ONDO, VVV or ASTER?
 
-Over the next 90 days (checked Nov 21 2026): ENA +2.08%, SKY −0.24%, ASTER +0.26%, MNT 0.00%. ENA has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 21 2026): ENA +2.08%, ONDO +35.12%, VVV +2.82%, ASTER +0.26%. ENA sits in the middle of these 4 coins.
 
 ## Where to read the rest of ENA
 

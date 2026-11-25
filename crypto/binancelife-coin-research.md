@@ -8,7 +8,7 @@ published:     true
 ---
 # BinanceLife (BLIFE) Inflation Rate: 0.00% Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/binancelife — numbers checked Nov 21 2026*
+*Source: https://mrnasdog.com/research/binancelife — numbers checked Nov 25 2026*
 
 **0.00%** in 90 days, **0.00%** in a year: that is how fast BinanceLife (BLIFE) supply changes as of Nov 15 2026.
 
@@ -26,7 +26,7 @@ Expect 0.00% more BLIFE in 90 days (0.00% over the year). On supply alone Binanc
 
 ## Who wants BinanceLife right now
 
-How much do people want BLIFE? **weak** — 2 out of 5, #64 of 109.
+How much do people want BLIFE? **weak** — 2 out of 5, #63 of 109.
 
 Extra BinanceLife demand detail for members stays on the live page.
 
@@ -93,9 +93,9 @@ Almost no new BLIFE reaches the market over the next 90 days (checked Nov 15 202
 
 BinanceLife (BLIFE) has about 1B coins in circulation as of Nov 15 2026; the next 90 days change that by 0.00% (0.00% over a year).
 
-### Does BLIFE have more new supply than DASH, STABLE or AERO?
+### Does BLIFE have more new supply than ZRO, FIL or ETHFI?
 
-Over the next 90 days (checked Nov 15 2026): BLIFE 0.00%, DASH +0.72%, STABLE 0.00%, AERO +5.37%. BLIFE sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 15 2026): BLIFE 0.00%, ZRO +17.38%, FIL +2.75%, ETHFI 0.00%. BLIFE sits in the middle of these 4 coins.
 
 ## Next steps for BLIFE
 

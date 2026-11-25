@@ -8,14 +8,14 @@ published:     true
 ---
 # Starknet (STRK) Supply & Demand: +8.97% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/strk · checked Nov 21 2026*
+*Live page: https://mrnasdog.com/research/strk · checked Nov 25 2026*
 
 Starknet (STRK) supply changes **+8.97%** over the next 90 days and **+24.51%** over a year (checked Nov 15 2026).
 
 - **Signal today:** negative (by the law of supply and demand)
-- **MrNasDog score:** 2.5/10 — supply 0/5, demand 2.5/5
+- **MrNasDog score:** 2.5/10 — supply 0.5/5, demand 2/5
 - **New coins:** +8.97% in 90 days · +24.51% in a year
-- **Demand:** modest (2.5/5)
+- **Demand:** weak (2/5)
 - **Drivers:** 2 ▲ price up · 0 ▼ price down
 
 ## Questions about STRK supply
@@ -26,7 +26,7 @@ As of Nov 15 2026, Starknet (STRK) supply moves +8.97% in 90 days and +24.51% in
 
 ### What is the STRK inflation rate in 2026?
 
-Starknet (STRK) supply grows +24.51% over the next 12 months and +8.97% over the next 90 days (checked Nov 15 2026). That puts STRK #10 of 100 coins we track for new supply (#1 = the most new supply).
+Starknet (STRK) supply grows +24.51% over the next 12 months and +8.97% over the next 90 days (checked Nov 15 2026). That puts STRK #11 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next STRK token unlock?
 
@@ -52,11 +52,11 @@ Over the next 90 days (checked Nov 15 2026): STRK +8.97%, TRUMP +11.93%, GNO 0.0
 
 Starknet's STRK float grew +9.48% in 90 days from reserve hand-outs, monthly team and investor unlocks and staking pay, with nothing taking coins out.
 
-Over the next 90 days STRK supply changes +8.97%; across a full year, +24.51%. That puts supply at 0/5 (extreme) (place 10 of 100).
+Over the next 90 days STRK supply changes +8.97%; across a full year, +24.51%. That puts supply at 0.5/5 (flooding) (place 11 of 100).
 
 ## How strong is Starknet demand?
 
-People's appetite for Starknet is **modest**: 2.5/5, ranked #45 of 109.
+People's appetite for Starknet is **weak**: 2/5, ranked #63 of 109.
 
 (Members see more STRK demand detail on the page; it is not repeated here.)
 

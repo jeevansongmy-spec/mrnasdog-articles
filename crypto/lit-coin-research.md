@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Lighter (LIT) Inflationary? +11.11% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/lit, updated Nov 23 2026*
+*From https://mrnasdog.com/research/lit, updated Nov 25 2026*
 
 How much new LIT is coming? **+11.11%** in the next 90 days, **+61.11%** in the next year — checked Nov 23 2026.
 
@@ -44,9 +44,9 @@ In our count, about 27.8M new LIT reaches the market over the next 90 days (chec
 
 About 250M LIT is in circulation (checked Nov 23 2026). Over the next 90 days that changes +11.11%, and over a year +61.11%.
 
-### Does LIT have more new supply than INJ, CAKE or FIL?
+### Does LIT have more new supply than INJ, XDC or CAKE?
 
-Over the next 90 days (checked Nov 23 2026): LIT +11.11%, INJ +0.78%, CAKE −1.96%, FIL +1.53%. LIT has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 23 2026): LIT +11.11%, INJ +0.78%, XDC +4.31%, CAKE −0.57%. LIT has the most new supply of these 4 coins.
 
 ## Where new Lighter comes from
 
@@ -56,7 +56,7 @@ Lighter adds +11.11% new supply in the next 90 days and +61.11% over a year — 
 
 ## How strong is Lighter demand?
 
-Demand reads **strong** (4/5), #9 of 109 coins we track — that is how much people want LIT now and how much buying could still come.
+Demand reads **strong** (4/5), #10 of 109 coins we track — that is how much people want LIT now and how much buying could still come.
 
 A deeper LIT demand breakdown is on the page for members.
 
@@ -75,7 +75,7 @@ Down about two-thirds since Dec 2025; dropped after Nov 16 key leak.
 | Aug 31 2026 | $591M |
 | Sep 30 2026 | $656M |
 | Oct 31 2026 | $582M |
-| Nov 24 2026 | $497M |
+| Nov 25 2026 | $501M |
 
 *Checked Nov 23 2026*
 
@@ -90,7 +90,7 @@ Good for the price: Robinhood users add money. Bad for it: Robinhood users pull 
 | Aug 31 2026 | $47.6M |
 | Sep 30 2026 | $107M |
 | Oct 31 2026 | $112M |
-| Nov 24 2026 | $98.5M |
+| Nov 25 2026 | $97.5M |
 
 *Checked Nov 23 2026*
 

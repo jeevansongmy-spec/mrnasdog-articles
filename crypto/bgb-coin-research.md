@@ -1,6 +1,6 @@
 ---
 title:         "Bitget Token (BGB) Tokenomics: 0.00% Supply in 90 Days"
-description:   "As of Nov 12 2026, new Bitget Token supply runs at 0.00% over 90 days and 0.00% over 12 months."
+description:   "As of Nov 22 2026, new Bitget Token supply runs at 0.00% over 90 days and 0.00% over 12 months."
 canonical_url: "https://mrnasdog.com/research/bgb"
 content_type:  "coin_hub"
 tags:          ["crypto", "bgb", "bitgettoken", "should-i-buy"]
@@ -8,11 +8,11 @@ published:     true
 ---
 # Bitget Token (BGB) Tokenomics: 0.00% Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/bgb (checked Nov 22 2026)*
+*Originally published at https://mrnasdog.com/research/bgb (checked Nov 25 2026)*
 
-As of Nov 12 2026, new Bitget Token supply runs at **0.00%** over 90 days and **0.00%** over 12 months.
+As of Nov 22 2026, new Bitget Token supply runs at **0.00%** over 90 days and **0.00%** over 12 months.
 
-- **Signal:** mixed (Nov 22 2026)
+- **Signal:** mixed (Nov 25 2026)
 - **Score:** 5/10 — supply 4.5/5, demand 0.5/5
 - **Supply growth:** 0.00% in 90 days · 0.00% in a year
 - **How much people want it:** very low (0.5/5)
@@ -20,13 +20,13 @@ As of Nov 12 2026, new Bitget Token supply runs at **0.00%** over 90 days and **
 
 ## How fast Bitget Token supply grows
 
-Bitget Token's circulating supply was flat in 90 days, at 0.00%. No BGB is made, and the quarterly burns are paid from a Morph Foundation treasury that never circulated.
+Bitget's exchange coin cannot be minted. Quarterly burns are paid from a locked 207.88M BGB treasury, so total supply falls while the circulating count stays flat.
 
 New BGB: 0.00% in 90 days, 0.00% in a year. Supply score 4.5/5, "flat".
 
 ## How strong is Bitget Token demand?
 
-Bitget Token demand: 0.5/5 (**very low**), place #99 among 109 coins — interest today plus the buying that could come later.
+Bitget Token demand: 0.5/5 (**very low**), place #100 among 109 coins — interest today plus the buying that could come later.
 
 A deeper BGB demand breakdown is on the page for members.
 
@@ -36,7 +36,7 @@ A deeper BGB demand breakdown is on the page for members.
 
 ### • Bitget reserves
 
-Bitget's reserves remain below their level before the Sep 24 hack.
+Reserves dipped since Nov 13, still below the pre-hack level.
 
 Good for the price: Reserves grow. Bad for it: Money leaves Bitget.
 
@@ -45,54 +45,54 @@ Good for the price: Reserves grow. Bad for it: Money leaves Bitget.
 | Aug 31 2026 | $5.38B |
 | Sep 30 2026 | $5.42B |
 | Oct 31 2026 | $5.83B |
-| Nov 22 2026 | $5.12B |
+| Nov 25 2026 | $5.23B |
 
-*Checked Nov 12 2026*
+*Checked Nov 22 2026*
 
 ### ▲ User cash
 
-Stablecoins on Bitget bounced since Nov 1, still far below Sep.
+Dollar coins on Bitget more than doubled since Nov 1, below Sep.
 
 More user cash → price up · Cash leaves → price down. Now: ▲ up side.
 
 | Date | USDT + USDC on Bitget |
 |---|---|
-| Sep 30 2026 | $1.14B |
 | Oct 31 2026 | $0.456B |
 | Nov 3 2026 | $0.692B |
 | Nov 12 2026 | $0.888B |
+| Nov 22 2026 | $0.925B |
 
-*Checked Nov 12 2026*
+*Checked Nov 22 2026*
 
 ## Is BGB inflationary? Questions about Bitget Token supply
 
 ### Is Bitget Token (BGB) inflationary or deflationary?
 
-Bitget Token (BGB) is flat, neither inflationary nor deflationary right now: its supply changes 0.00% over the next 90 days and 0.00% over the next year (checked Nov 12 2026). New BGB and removed BGB about cancel out.
+Bitget Token (BGB) is flat, neither inflationary nor deflationary right now: its supply changes 0.00% over the next 90 days and 0.00% over the next year (checked Nov 22 2026). New BGB and removed BGB about cancel out.
 
 ### What is the BGB inflation rate in 2026?
 
-About 0.00% a year: that is how much Bitget Token (BGB) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 12 2026). That puts BGB #76 of 100 coins we track for new supply (#1 = the most new supply).
+About 0.00% a year: that is how much Bitget Token (BGB) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 22 2026). That puts BGB #76 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next BGB token unlock?
 
-No dated Bitget Token (BGB) unlock is scheduled in the next 90 days (checked Nov 12 2026).
+No dated Bitget Token (BGB) unlock is scheduled in the next 90 days (checked Nov 22 2026).
 
 ### Does Bitget Token burn or buy back BGB?
 
-Not in a way that removes BGB today: nothing takes BGB off the market over the next 90 days (checked Nov 12 2026). The Oct 19 2026 burn of 3.04M BGB came from the Foundation's own treasury, which never counted as circulating, so it took nothing out.
+Not in a way that removes BGB today: nothing takes BGB off the market over the next 90 days (checked Nov 22 2026). The Oct 19 2026 burn of 3.04M BGB came out of the Foundation's locked treasury, which never counted as circulating, so the coins people trade did not shrink.
 
 ### Where does new BGB supply come from?
 
-Almost no new BGB reaches the market over the next 90 days (checked Nov 12 2026). No new BGB can be made. The Morph Foundation's 207.88M BGB treasury may release up to 4.4M a month, but it released none in the last 90 days.
+Almost no new BGB reaches the market over the next 90 days (checked Nov 22 2026). No new BGB can be made. The Morph Foundation's 207.88M BGB treasury may release up to 4.4M a month, but it has sent coins only to the burn address, none to the market in the last 90 days.
 
 ### How much BGB is in circulation?
 
-About 700M BGB is in circulation (checked Nov 12 2026). Over the next 90 days that changes 0.00%, and over a year 0.00%.
+About 700M BGB is in circulation (checked Nov 22 2026). Over the next 90 days that changes 0.00%, and over a year 0.00%.
 
-### Does BGB have more new supply than MNT, JST or DOT?
+### Does BGB have more new supply than ICP, SKY or ETC?
 
-Over the next 90 days (checked Nov 12 2026): BGB 0.00%, MNT 0.00%, JST −1.22%, DOT +0.80%. BGB sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 22 2026): BGB 0.00%, ICP +0.57%, SKY −0.81%, ETC +0.59%. BGB sits in the middle of these 4 coins.
 
 ## Read more on BGB
 

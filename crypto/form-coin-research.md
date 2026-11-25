@@ -8,12 +8,12 @@ published:     true
 ---
 # Four (FORM) Inflation Rate: +0.01% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/form — numbers checked Nov 21 2026*
+*Source: https://mrnasdog.com/research/form — numbers checked Nov 25 2026*
 
 **+0.01%** in 90 days, **+0.05%** in a year: that is how fast Four (FORM) supply changes as of Nov 18 2026.
 
 - **Signal:** negative — FORM, read by supply and demand
-- **Score:** 4.5/10 — supply 4/5, demand 0.5/5
+- **Score:** 4/10 — supply 3.5/5, demand 0.5/5
 - **Supply growth:** +0.01% in 90 days · +0.05% in a year
 - **How much people want it:** very low (0.5/5)
 - **Price drivers:** 0 ▲ price up · 2 ▼ price down
@@ -48,7 +48,7 @@ Good for the price: More trading. Bad for it: Less trading. Now: ▼ down side.
 | Aug 31 2026 | $52.3M |
 | Sep 30 2026 | $33.4M |
 | Oct 31 2026 | $21.8M |
-| Nov 21 2026 | $18.3M |
+| Nov 25 2026 | $18.3M |
 
 *Checked Nov 18 2026*
 
@@ -56,11 +56,11 @@ Good for the price: More trading. Bad for it: Less trading. Now: ▼ down side.
 
 Four (FORM) supply fell about 0.09% in 90 days: a one-off buyback burn of 408,602 FORM outweighed 49,625 BNX of team payouts and old-coin swaps. A 580M cap, no unlock calendar, and about 190M BNX still in team wallets.
 
-Expect +0.01% more FORM in 90 days (+0.05% over the year). On supply alone Four gets 4/5 — tight, #76 of 100 for new supply.
+Expect +0.01% more FORM in 90 days (+0.05% over the year). On supply alone Four gets 3.5/5 — steady, #75 of 100 for new supply.
 
 ## Demand: how much people want FORM
 
-How much do people want FORM? **very low** — 0.5 out of 5, #99 of 109.
+How much do people want FORM? **very low** — 0.5 out of 5, #100 of 109.
 
 The members-only part of FORM's demand section is not included.
 
@@ -72,7 +72,7 @@ As of Nov 18 2026, Four (FORM) supply moves +0.01% in 90 days and +0.05% in a ye
 
 ### What is the FORM inflation rate in 2026?
 
-Four (FORM) supply grows +0.05% over the next 12 months and +0.01% over the next 90 days (checked Nov 18 2026). That puts FORM #76 of 100 coins we track for new supply (#1 = the most new supply).
+Four (FORM) supply grows +0.05% over the next 12 months and +0.01% over the next 90 days (checked Nov 18 2026). That puts FORM #75 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next FORM token unlock?
 
@@ -92,7 +92,7 @@ Four (FORM) has about 382M coins in circulation as of Nov 18 2026; the next 90 d
 
 ### Does FORM have more new supply than PONS, HNT or IMX?
 
-Over the next 90 days (checked Nov 18 2026): FORM +0.01%, PONS −20.87%, HNT +9.16%, IMX +2.21%. FORM sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 18 2026): FORM +0.01%, PONS −33.56%, HNT +9.11%, IMX +2.12%. FORM sits in the middle of these 4 coins.
 
 ## Go deeper on Four
 

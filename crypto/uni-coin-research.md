@@ -8,7 +8,7 @@ published:     true
 ---
 # Uniswap (UNI) Supply & Demand: −0.48% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/uni · checked Nov 21 2026*
+*Live page: https://mrnasdog.com/research/uni · checked Nov 25 2026*
 
 Uniswap (UNI) supply changes **−0.48%** over the next 90 days and **−1.92%** over a year (checked Nov 20 2026).
 
@@ -26,7 +26,7 @@ Over the next 90 days UNI supply changes −0.48%; across a full year, −1.92%.
 
 ## Demand: how much people want UNI
 
-People's appetite for Uniswap is **strong**: 4/5, ranked #9 of 109.
+People's appetite for Uniswap is **strong**: 4/5, ranked #10 of 109.
 
 A deeper UNI demand breakdown is on the page for members.
 
@@ -45,7 +45,7 @@ Treasury keeps its UNI → price up · Treasury pays out UNI → price down. Now
 | Aug 31 2026 | 267 M UNI |
 | Sep 30 2026 | 267 M UNI |
 | Oct 31 2026 | 262 M UNI |
-| Nov 21 2026 | 262 M UNI |
+| Nov 25 2026 | 262 M UNI |
 
 *Checked Nov 20 2026*
 
@@ -110,9 +110,9 @@ In our count, about 5M new UNI reaches the market over the next 90 days (checked
 
 Uniswap (UNI) has about 607M coins in circulation as of Nov 20 2026; the next 90 days change that by −0.48% (−1.92% over a year).
 
-### Does UNI have more new supply than SUI, QNT or HBAR?
+### Does UNI have more new supply than SUI, HBAR or SHIB?
 
-Over the next 90 days (checked Nov 20 2026): UNI −0.48%, SUI +1.46%, QNT 0.00%, HBAR +1.16%. UNI has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 20 2026): UNI −0.48%, SUI +1.46%, HBAR +1.16%, SHIB 0.00%. UNI has the least new supply of these 4 coins.
 
 ## Read more on UNI
 

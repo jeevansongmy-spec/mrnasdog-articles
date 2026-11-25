@@ -8,7 +8,7 @@ published:     true
 ---
 # Render Network (RENDER) Supply & Demand: +0.08% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/render · checked Nov 21 2026*
+*Live page: https://mrnasdog.com/research/render · checked Nov 25 2026*
 
 Render Network (RENDER) supply changes **+0.08%** over the next 90 days and **+0.33%** over a year (checked Nov 19 2026).
 
@@ -45,7 +45,7 @@ Good for the price: OTOY holds, no selling. Bad for it: OTOY moves more out.
 | Aug 31 2026 | 81.9 M RENDER |
 | Sep 30 2026 | 81.9 M RENDER |
 | Oct 31 2026 | 81.9 M RENDER |
-| Nov 21 2026 | 81.9 M RENDER |
+| Nov 25 2026 | 81.9 M RENDER |
 
 *Checked Nov 19 2026*
 
@@ -94,9 +94,9 @@ In our count, about 1.25M new RENDER reaches the market over the next 90 days (c
 
 Render Network (RENDER) has about 556M coins in circulation as of Nov 19 2026; the next 90 days change that by +0.08% (+0.33% over a year).
 
-### Does RENDER have more new supply than ALGO, NIGHT or ATOM?
+### Does RENDER have more new supply than PIEVERSE, KAS or ALGO?
 
-Over the next 90 days (checked Nov 19 2026): RENDER +0.08%, ALGO +0.43%, NIGHT 0.00%, ATOM +3.17%. RENDER sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 19 2026): RENDER +0.08%, PIEVERSE +23.66%, KAS +0.50%, ALGO +0.35%. RENDER has the least new supply of these 4 coins.
 
 ## Where to read the rest of RENDER
 

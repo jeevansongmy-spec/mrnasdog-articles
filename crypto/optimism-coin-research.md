@@ -8,7 +8,7 @@ published:     true
 ---
 # Optimism (OP) Inflation Rate: +0.96% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/optimism — numbers checked Nov 21 2026*
+*Source: https://mrnasdog.com/research/optimism — numbers checked Nov 25 2026*
 
 **+0.96%** in 90 days, **+2.03%** in a year: that is how fast Optimism (OP) supply changes as of Nov 17 2026.
 
@@ -62,7 +62,7 @@ More money on OP → price up · Money leaves → price down. Right now it point
 
 ## How strong is Optimism demand?
 
-How much do people want OP? **very weak** — 1.5 out of 5, #76 of 109.
+How much do people want OP? **very weak** — 1.5 out of 5, #77 of 109.
 
 A deeper OP demand breakdown is on the page for members.
 

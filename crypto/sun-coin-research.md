@@ -8,7 +8,7 @@ published:     true
 ---
 # SUN Supply & Demand: −0.04% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/sun · checked Nov 21 2026*
+*Live page: https://mrnasdog.com/research/sun · checked Nov 25 2026*
 
 SUN supply changes **−0.04%** over the next 90 days and **−0.17%** over a year (checked Nov 17 2026).
 
@@ -26,7 +26,7 @@ As of Nov 17 2026, SUN supply moves −0.04% in 90 days and −0.17% in a year, 
 
 ### What is the SUN inflation rate in 2026?
 
-SUN supply shrinks −0.17% over the next 12 months and −0.04% over the next 90 days (checked Nov 17 2026). That puts SUN #96 of 100 coins we track for new supply (#1 = the most new supply).
+SUN supply shrinks −0.17% over the next 12 months and −0.04% over the next 90 days (checked Nov 17 2026). That puts SUN #95 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next SUN token unlock?
 
@@ -52,11 +52,11 @@ Over the next 90 days (checked Nov 17 2026): SUN −0.04%, VIRTUAL +0.04%, SPX 0
 
 SUN has a fixed supply that its contract cannot raise. SUN.io turns part of its trading income into SUN and burns it every quarter, so supply slowly shrinks, about 0.04% in 90 days.
 
-Over the next 90 days SUN supply changes −0.04%; across a full year, −0.17%. That puts supply at 4.5/5 (shrinking), #96 of 100 for new supply.
+Over the next 90 days SUN supply changes −0.04%; across a full year, −0.17%. That puts supply at 4.5/5 (shrinking), #95 of 100 for new supply.
 
 ## Demand today
 
-People's appetite for SUN is **weak**: 2/5, ranked #64 of 109.
+People's appetite for SUN is **weak**: 2/5, ranked #63 of 109.
 
 Members get the rest of the SUN demand read on mrnasdog.com.
 

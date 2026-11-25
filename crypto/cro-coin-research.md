@@ -8,7 +8,7 @@ published:     true
 ---
 # Cronos (CRO) Supply & Demand: +7.01% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/cro · checked Nov 21 2026*
+*Live page: https://mrnasdog.com/research/cro · checked Nov 25 2026*
 
 Cronos (CRO) supply changes **+7.01%** over the next 90 days and **+27.78%** over a year (checked Nov 20 2026).
 
@@ -110,9 +110,9 @@ In our count, about 3.64B new CRO reaches the market over the next 90 days (chec
 
 Cronos (CRO) has about 52B coins in circulation as of Nov 20 2026; the next 90 days change that by +7.01% (+27.78% over a year).
 
-### Does CRO have more new supply than TAO, ENA or PEPE?
+### Does CRO have more new supply than QNT, M or OKB?
 
-Over the next 90 days (checked Nov 20 2026): CRO +7.01%, TAO +2.67%, ENA +2.08%, PEPE 0.00%. CRO has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 20 2026): CRO +7.01%, QNT 0.00%, M +1.45%, OKB 0.00%. CRO has the most new supply of these 4 coins.
 
 ## Read more on CRO
 

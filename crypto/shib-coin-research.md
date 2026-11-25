@@ -8,7 +8,7 @@ published:     true
 ---
 # Shiba Inu (SHIB) Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/shib · checked Nov 21 2026*
+*Live page: https://mrnasdog.com/research/shib · checked Nov 25 2026*
 
 Shiba Inu (SHIB) supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 20 2026).
 
@@ -58,7 +58,7 @@ Over the next 90 days SHIB supply changes 0.00%; across a full year, 0.00%. That
 
 ## SHIB demand
 
-People's appetite for Shiba Inu is **moderate**: 3/5, ranked #36 of 109.
+People's appetite for Shiba Inu is **moderate**: 3/5, ranked #37 of 109.
 
 A deeper SHIB demand breakdown is on the page for members.
 
@@ -88,9 +88,9 @@ Almost no new SHIB reaches the market over the next 90 days (checked Nov 20 2026
 
 Shiba Inu (SHIB) has about 589T coins in circulation as of Nov 20 2026; the next 90 days change that by 0.00% (0.00% over a year).
 
-### Does SHIB have more new supply than HBAR, TAO or CRO?
+### Does SHIB have more new supply than HBAR, TAO or QNT?
 
-Over the next 90 days (checked Nov 20 2026): SHIB 0.00%, HBAR +1.16%, TAO +2.67%, CRO +7.01%. SHIB has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 20 2026): SHIB 0.00%, HBAR +1.16%, TAO +2.67%, QNT 0.00%. SHIB sits in the middle of these 4 coins.
 
 ## Read more on SHIB
 

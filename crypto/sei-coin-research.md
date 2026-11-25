@@ -8,12 +8,12 @@ published:     true
 ---
 # Sei Network (SEI) Tokenomics: +4.14% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/sei (checked Nov 21 2026)*
+*Originally published at https://mrnasdog.com/research/sei (checked Nov 25 2026)*
 
 As of Nov 15 2026, new Sei Network supply runs at **+4.14%** over 90 days and **+16.63%** over 12 months.
 
-- **Long-run signal:** negative (Nov 21 2026)
-- **Score:** 2/10 — supply 1/5, demand 1/5
+- **Long-run signal:** negative (Nov 25 2026)
+- **Score:** 1.5/10 — supply 0.5/5, demand 1/5
 - **New supply:** +4.14% in 90 days · +16.63% in a year
 - **Demand:** low (1/5)
 - **Price drivers:** 1 ▲ price up · 2 ▼ price down
@@ -26,7 +26,7 @@ Sei Network (SEI) is inflationary right now: its supply changes +4.14% over the 
 
 ### What is the SEI inflation rate in 2026?
 
-About +16.63% a year: that is how much Sei Network (SEI) supply changes over the next 12 months, with +4.14% in the next 90 days (checked Nov 15 2026). That puts SEI #20 of 100 coins we track for new supply (#1 = the most new supply).
+About +16.63% a year: that is how much Sei Network (SEI) supply changes over the next 12 months, with +4.14% in the next 90 days (checked Nov 15 2026). That puts SEI #19 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next SEI token unlock?
 
@@ -52,7 +52,7 @@ Over the next 90 days (checked Nov 15 2026): SEI +4.14%, SPX 0.00%, TRUMP +11.93
 
 Sei added 4.34% to its circulating supply in 90 days, mostly from monthly team and investor unlocks, plus new SEI paid to stakers every day. Nothing is burned or bought back, and about 97.78M SEI unlocks again on Dec 15 2026.
 
-New SEI: +4.14% in 90 days, +16.63% in a year. Supply score 1/5, "very heavy".
+New SEI: +4.14% in 90 days, +16.63% in a year. Supply score 0.5/5, "flooding".
 
 ## Demand: how much people want SEI
 
@@ -113,7 +113,7 @@ Dollars on Sei fell by about two thirds since Dec 31 2025.
 | Aug 31 2026 | $44.7M |
 | Sep 30 2026 | $48M |
 | Oct 31 2026 | $39.1M |
-| Nov 21 2026 | $39.2M |
+| Nov 25 2026 | $40M |
 
 *Checked Nov 15 2026*
 

@@ -8,11 +8,11 @@ published:     true
 ---
 # Aerodrome (AERO) Tokenomics: +5.10% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/aero (checked Nov 24 2026)*
+*Originally published at https://mrnasdog.com/research/aero (checked Nov 25 2026)*
 
 As of Nov 24 2026, new Aerodrome supply runs at **+5.10%** over 90 days and **+20.68%** over 12 months.
 
-- **Long-run signal:** mixed (Nov 24 2026)
+- **Long-run signal:** mixed (Nov 25 2026)
 - **Score:** 4.5/10 — supply 0.5/5, demand 4/5
 - **New supply:** +5.10% in 90 days · +20.68% in a year
 - **Demand:** strong (4/5)
@@ -64,7 +64,7 @@ New AERO: +5.10% in 90 days, +20.68% in a year. Supply score 0.5/5, "flooding" (
 
 ## How strong is Aerodrome demand?
 
-Aerodrome demand: 4/5 (**strong**), place #9 among 109 coins — interest today plus the buying that could come later.
+Aerodrome demand: 4/5 (**strong**), place #10 among 109 coins — interest today plus the buying that could come later.
 
 A deeper AERO demand breakdown is on the page for members.
 

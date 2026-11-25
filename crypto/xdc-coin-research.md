@@ -8,7 +8,7 @@ published:     true
 ---
 # Is XDC Network (XDC) Inflationary? +4.31% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/xdc, updated Nov 23 2026*
+*From https://mrnasdog.com/research/xdc, updated Nov 25 2026*
 
 How much new XDC is coming? **+4.31%** in the next 90 days, **+4.58%** in the next year — checked Nov 23 2026.
 
@@ -26,7 +26,7 @@ XDC Network adds +4.31% new supply in the next 90 days and +4.58% over a year �
 
 ## Who wants XDC Network right now
 
-Demand reads **low** (1/5), #91 of 109 coins we track — that is how much people want XDC now and how much buying could still come.
+Demand reads **low** (1/5), #92 of 109 coins we track — that is how much people want XDC now and how much buying could still come.
 
 A deeper XDC demand breakdown is on the page for members.
 
@@ -64,7 +64,7 @@ Good for the price: More dollars settle on XDC. Bad for it: Dollars leave XDC. T
 | Aug 31 2026 | $72.7M |
 | Sep 30 2026 | $57.7M |
 | Oct 31 2026 | $60.4M |
-| Nov 24 2026 | $57M |
+| Nov 25 2026 | $57.7M |
 
 *Checked Nov 23 2026*
 
@@ -94,9 +94,9 @@ In our count, about 859M new XDC reaches the market over the next 90 days (check
 
 About 19.9B XDC is in circulation (checked Nov 23 2026). Over the next 90 days that changes +4.31%, and over a year +4.58%.
 
-### Does XDC have more new supply than FIL, STX or ETHFI?
+### Does XDC have more new supply than LIT, CAKE or STX?
 
-Over the next 90 days (checked Nov 23 2026): XDC +4.31%, FIL +1.53%, STX +1.25%, ETHFI 0.00%. XDC has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 23 2026): XDC +4.31%, LIT +11.11%, CAKE −0.57%, STX +1.26%. XDC sits in the middle of these 4 coins.
 
 ## More on XDC Network
 

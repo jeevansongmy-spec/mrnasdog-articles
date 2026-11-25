@@ -8,25 +8,25 @@ published:     true
 ---
 # Polkadot (DOT) Tokenomics: +0.80% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/dot (checked Nov 21 2026)*
+*Originally published at https://mrnasdog.com/research/dot (checked Nov 25 2026)*
 
 As of Nov 21 2026, new Polkadot supply runs at **+0.80%** over 90 days and **+3.26%** over 12 months.
 
-- **Signal today:** negative (Nov 21 2026)
-- **MrNasDog score:** 5/10 — supply 2.5/5, demand 2.5/5
+- **Signal today:** mixed (Nov 25 2026)
+- **MrNasDog score:** 5.5/10 — supply 2.5/5, demand 3/5
 - **New coins:** +0.80% in 90 days · +3.26% in a year
-- **Demand:** modest (2.5/5)
+- **Demand:** moderate (3/5)
 - **Drivers:** 0 ▲ price up · 1 ▼ price down
 
 ## How fast Polkadot supply grows
 
 Polkadot mints about 153,130 DOT a day at a fixed rate under a 2.1B cap and burns nothing, so supply grows about 0.80% every 90 days.
 
-New DOT: +0.80% in 90 days, +3.26% in a year. Supply score 2.5/5, "moderate", #52 of 100 for new supply.
+New DOT: +0.80% in 90 days, +3.26% in a year. Supply score 2.5/5, "moderate", #51 of 100 for new supply.
 
 ## Demand: how much people want DOT
 
-Polkadot demand: 2.5/5 (**modest**), place #45 among 109 coins — interest today plus the buying that could come later.
+Polkadot demand: 3/5 (**moderate**), place #37 among 109 coins — interest today plus the buying that could come later.
 
 The members-only part of DOT's demand section is not included.
 
@@ -45,7 +45,7 @@ Good for the price: ETF holds more DOT. Bad for it: ETF holders sell. Today: the
 | Oct 9 2026 | 9.62 M DOT |
 | Oct 12 2026 | 10.2 M DOT |
 | Oct 31 2026 | 10.1 M DOT |
-| Nov 22 2026 | 10 M DOT |
+| Nov 25 2026 | 10 M DOT |
 
 *Checked Nov 21 2026*
 
@@ -72,7 +72,7 @@ Polkadot (DOT) is inflationary right now: its supply changes +0.80% over the nex
 
 ### What is the DOT inflation rate in 2026?
 
-About +3.26% a year: that is how much Polkadot (DOT) supply changes over the next 12 months, with +0.80% in the next 90 days (checked Nov 21 2026). That puts DOT #52 of 100 coins we track for new supply (#1 = the most new supply).
+About +3.26% a year: that is how much Polkadot (DOT) supply changes over the next 12 months, with +0.80% in the next 90 days (checked Nov 21 2026). That puts DOT #51 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next DOT token unlock?
 
@@ -90,9 +90,9 @@ In our count, about 13.8M new DOT reaches the market over the next 90 days (chec
 
 About 1.71B DOT is in circulation (checked Nov 21 2026). Over the next 90 days that changes +0.80%, and over a year +3.26%.
 
-### Does DOT have more new supply than JST, ETC or ARB?
+### Does DOT have more new supply than JST, MORPHO or ICP?
 
-Over the next 90 days (checked Nov 21 2026): DOT +0.80%, JST −1.22%, ETC +0.59%, ARB +6.11%. DOT sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 21 2026): DOT +0.80%, JST −1.23%, MORPHO +6.03%, ICP +0.57%. DOT sits in the middle of these 4 coins.
 
 ## More on Polkadot
 

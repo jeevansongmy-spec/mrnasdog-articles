@@ -8,7 +8,7 @@ published:     true
 ---
 # Official Trump (TRUMP) Inflation Rate: +11.93% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/trump — numbers checked Nov 21 2026*
+*Source: https://mrnasdog.com/research/trump — numbers checked Nov 25 2026*
 
 **+11.93%** in 90 days, **+47.71%** in a year: that is how fast Official Trump (TRUMP) supply changes as of Nov 15 2026.
 
@@ -56,7 +56,7 @@ Expect +11.93% more TRUMP in 90 days (+47.71% over the year). On supply alone Of
 
 ## Who wants Official Trump right now
 
-How much do people want TRUMP? **modest** — 2.5 out of 5, #45 of 109.
+How much do people want TRUMP? **modest** — 2.5 out of 5, #47 of 109.
 
 (Members see more TRUMP demand detail on the page; it is not repeated here.)
 

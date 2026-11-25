@@ -8,7 +8,7 @@ published:     true
 ---
 # UNUS SED LEO (LEO) Inflation Rate: −0.06% Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/leo — numbers checked Nov 21 2026*
+*Source: https://mrnasdog.com/research/leo — numbers checked Nov 25 2026*
 
 **−0.06%** in 90 days, **−0.25%** in a year: that is how fast UNUS SED LEO (LEO) supply changes as of Nov 19 2026.
 
@@ -57,11 +57,11 @@ US sends BTC back → price up · Pile stays frozen → price down. Now: ▲ up 
 
 Bitfinex's exchange token: no new LEO is ever made, and a buyback paid from at least 27% of Bitfinex revenue burns coins. Burns are on hold since Sep 1 2026 with 500.5K LEO bought and waiting.
 
-Expect −0.06% more LEO in 90 days (−0.25% over the year). On supply alone UNUS SED LEO gets 4.5/5 — shrinking, #97 of 100 for new supply.
+Expect −0.06% more LEO in 90 days (−0.25% over the year). On supply alone UNUS SED LEO gets 4.5/5 — shrinking, #96 of 100 for new supply.
 
 ## How strong is UNUS SED LEO demand?
 
-How much do people want LEO? **very low** — 0.5 out of 5, #99 of 109.
+How much do people want LEO? **very low** — 0.5 out of 5, #100 of 109.
 
 Extra UNUS SED LEO demand detail for members stays on the live page.
 
@@ -73,7 +73,7 @@ As of Nov 19 2026, UNUS SED LEO (LEO) supply moves −0.06% in 90 days and −0.
 
 ### What is the LEO inflation rate in 2026?
 
-UNUS SED LEO (LEO) supply shrinks −0.25% over the next 12 months and −0.06% over the next 90 days (checked Nov 19 2026). That puts LEO #97 of 100 coins we track for new supply (#1 = the most new supply).
+UNUS SED LEO (LEO) supply shrinks −0.25% over the next 12 months and −0.06% over the next 90 days (checked Nov 19 2026). That puts LEO #96 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next LEO token unlock?
 

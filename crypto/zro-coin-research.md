@@ -8,7 +8,7 @@ published:     true
 ---
 # Is LayerZero (ZRO) Inflationary? +17.38% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/zro, updated Nov 23 2026*
+*From https://mrnasdog.com/research/zro, updated Nov 25 2026*
 
 How much new ZRO is coming? **+17.38%** in the next 90 days, **+42.62%** in the next year — checked Nov 23 2026.
 
@@ -95,9 +95,9 @@ In our count, about 70.2M new ZRO reaches the market over the next 90 days (chec
 
 About 400M ZRO is in circulation (checked Nov 23 2026). Over the next 90 days that changes +17.38%, and over a year +42.62%.
 
-### Does ZRO have more new supply than DASH, BLIFE or STABLE?
+### Does ZRO have more new supply than STX, BLIFE or FIL?
 
-Over the next 90 days (checked Nov 23 2026): ZRO +17.38%, DASH +0.72%, BLIFE 0.00%, STABLE 0.00%. ZRO has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 23 2026): ZRO +17.38%, STX +1.26%, BLIFE 0.00%, FIL +2.75%. ZRO has the most new supply of these 4 coins.
 
 ## Read more on ZRO
 

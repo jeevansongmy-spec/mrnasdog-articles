@@ -8,7 +8,7 @@ published:     true
 ---
 # BitTorrent (BTT) Supply & Demand: −2.56% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/btt · checked Nov 21 2026*
+*Live page: https://mrnasdog.com/research/btt · checked Nov 25 2026*
 
 BitTorrent (BTT) supply changes **−2.56%** over the next 90 days and **−10.23%** over a year (checked Nov 16 2026).
 

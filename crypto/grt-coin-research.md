@@ -8,11 +8,11 @@ published:     true
 ---
 # The Graph (GRT) Tokenomics: +1.06% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/grt (checked Nov 21 2026)*
+*Originally published at https://mrnasdog.com/research/grt (checked Nov 25 2026)*
 
 As of Nov 17 2026, new The Graph supply runs at **+1.06%** over 90 days and **+4.28%** over 12 months.
 
-- **Long-run signal:** negative (Nov 21 2026)
+- **Long-run signal:** negative (Nov 25 2026)
 - **Score:** 3.5/10 — supply 2/5, demand 1.5/5
 - **New supply:** +1.06% in 90 days · +4.28% in a year
 - **Demand:** very weak (1.5/5)
@@ -26,7 +26,7 @@ New GRT: +1.06% in 90 days, +4.28% in a year. Supply score 2/5, "growing" (place
 
 ## How strong is The Graph demand?
 
-The Graph demand: 1.5/5 (**very weak**), place #76 among 109 coins — interest today plus the buying that could come later.
+The Graph demand: 1.5/5 (**very weak**), place #77 among 109 coins — interest today plus the buying that could come later.
 
 A deeper GRT demand breakdown is on the page for members.
 

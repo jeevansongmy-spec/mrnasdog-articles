@@ -8,11 +8,11 @@ published:     true
 ---
 # Hedera (HBAR) Tokenomics: +1.16% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/hbar (checked Nov 21 2026)*
+*Originally published at https://mrnasdog.com/research/hbar (checked Nov 25 2026)*
 
 As of Nov 20 2026, new Hedera supply runs at **+1.16%** over 90 days and **+4.66%** over 12 months.
 
-- **Long-run signal:** negative (Nov 21 2026)
+- **Long-run signal:** negative (Nov 25 2026)
 - **Score:** 3.5/10 — supply 2/5, demand 1.5/5
 - **New supply:** +1.16% in 90 days · +4.66% in a year
 - **Demand:** very weak (1.5/5)
@@ -64,7 +64,7 @@ Apex Group joined Nov 11 2026; Hitachi left in October.
 
 ## HBAR demand
 
-Hedera demand: 1.5/5 (**very weak**), place #76 among 109 coins — interest today plus the buying that could come later.
+Hedera demand: 1.5/5 (**very weak**), place #77 among 109 coins — interest today plus the buying that could come later.
 
 Members get the rest of the Hedera demand read on mrnasdog.com.
 
@@ -94,9 +94,9 @@ In our count, about 516M new HBAR reaches the market over the next 90 days (chec
 
 About 44.3B HBAR is in circulation (checked Nov 20 2026). Over the next 90 days that changes +1.16%, and over a year +4.66%.
 
-### Does HBAR have more new supply than QNT, SHIB or TAO?
+### Does HBAR have more new supply than UNI, SHIB or TAO?
 
-Over the next 90 days (checked Nov 20 2026): HBAR +1.16%, QNT 0.00%, SHIB 0.00%, TAO +2.67%. HBAR sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 20 2026): HBAR +1.16%, UNI −0.48%, SHIB 0.00%, TAO +2.67%. HBAR sits in the middle of these 4 coins.
 
 ## Go deeper on Hedera
 

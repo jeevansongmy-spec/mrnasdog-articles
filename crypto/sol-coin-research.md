@@ -8,7 +8,7 @@ published:     true
 ---
 # Solana (SOL) Supply & Demand: +1.31% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/sol · checked Nov 21 2026*
+*Live page: https://mrnasdog.com/research/sol · checked Nov 25 2026*
 
 Solana (SOL) supply changes **+1.31%** over the next 90 days and **+5.21%** over a year (checked Nov 18 2026).
 
@@ -26,7 +26,7 @@ Over the next 90 days SOL supply changes +1.31%; across a full year, +5.21%. Tha
 
 ## Demand: how much people want SOL
 
-People's appetite for Solana is **strong**: 4/5, ranked #9 of 109.
+People's appetite for Solana is **strong**: 4/5, ranked #10 of 109.
 
 (Members see more SOL demand detail on the page; it is not repeated here.)
 
@@ -51,7 +51,7 @@ Good for the price: More big buyers. Bad for it: Fewer. Now: ▼ down side.
 
 ### ▲ Network stops
 
-Solana stopped 6 times by 2024. None in 1019 days.
+Solana stopped 6 times by 2024. None in 1023 days.
 
 ▲ Price up if: No stops. ▼ Price down if: A new stop. Today: the price-up case.
 
@@ -64,7 +64,7 @@ Solana stopped 6 times by 2024. None in 1019 days.
 | Jul 2025 | 0 stops |
 | Jul 2026 | 0 stops |
 
-*Checked Nov 21 2026*
+*Checked Nov 25 2026*
 
 ## Solana (SOL) supply: questions people ask
 

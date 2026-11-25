@@ -8,11 +8,11 @@ published:     true
 ---
 # Polygon (POL) Tokenomics: −0.31% Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/pol (checked Nov 23 2026)*
+*Originally published at https://mrnasdog.com/research/pol (checked Nov 25 2026)*
 
 As of Nov 23 2026, new Polygon supply runs at **−0.31%** over 90 days and **+0.03%** over 12 months.
 
-- **Long-run signal:** mixed (Nov 23 2026)
+- **Long-run signal:** mixed (Nov 25 2026)
 - **Score:** 7.5/10 — supply 5/5, demand 2.5/5
 - **New supply:** −0.31% in 90 days · +0.03% in a year
 - **Demand:** modest (2.5/5)
@@ -39,7 +39,7 @@ Dollars on Polygon grew about 2.5x since 2024, slipping since May.
 | Aug 31 2026 | $3.53B |
 | Sep 30 2026 | $3.42B |
 | Oct 31 2026 | $3.34B |
-| Nov 24 2026 | $3.41B |
+| Nov 25 2026 | $3.41B |
 
 *Checked Nov 23 2026*
 

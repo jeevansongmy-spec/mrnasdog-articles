@@ -8,7 +8,7 @@ published:     true
 ---
 # OKB Inflation Rate: 0.00% Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/okb — numbers checked Nov 21 2026*
+*Source: https://mrnasdog.com/research/okb — numbers checked Nov 25 2026*
 
 **0.00%** in 90 days, **0.00%** in a year: that is how fast OKB supply changes as of Nov 19 2026.
 
@@ -26,7 +26,7 @@ As of Nov 19 2026, OKB supply moves 0.00% in 90 days and 0.00% in a year, so OKB
 
 ### What is the OKB inflation rate in 2026?
 
-OKB supply grows 0.00% over the next 12 months and 0.00% over the next 90 days (checked Nov 19 2026). That puts OKB #85 of 100 coins we track for new supply (#1 = the most new supply).
+OKB supply grows 0.00% over the next 12 months and 0.00% over the next 90 days (checked Nov 19 2026). That puts OKB #84 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next OKB token unlock?
 
@@ -44,19 +44,19 @@ Almost no new OKB reaches the market over the next 90 days (checked Nov 19 2026)
 
 OKB has about 21M coins in circulation as of Nov 19 2026; the next 90 days change that by 0.00% (0.00% over a year).
 
-### Does OKB have more new supply than AAVE, ONDO or ASTER?
+### Does OKB have more new supply than M, AAVE or PEPE?
 
-Over the next 90 days (checked Nov 19 2026): OKB 0.00%, AAVE +0.12%, ONDO +35.12%, ASTER +0.26%. OKB has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 19 2026): OKB 0.00%, M +1.45%, AAVE +0.12%, PEPE 0.00%. OKB sits in the middle of these 4 coins.
 
 ## OKB supply
 
 OKB pays for gas on OKX's X Layer. Nothing was minted or burned in 90 days, so all 21M OKB stay put, and gas fees go to vaults instead of a burn.
 
-Expect 0.00% more OKB in 90 days (0.00% over the year). On supply alone OKB gets 4.5/5 — flat, #85 of 100 for new supply.
+Expect 0.00% more OKB in 90 days (0.00% over the year). On supply alone OKB gets 4.5/5 — flat, #84 of 100 for new supply.
 
 ## Demand today
 
-How much do people want OKB? **moderate** — 3 out of 5, #36 of 109.
+How much do people want OKB? **moderate** — 3 out of 5, #37 of 109.
 
 A deeper OKB demand breakdown is on the page for members.
 

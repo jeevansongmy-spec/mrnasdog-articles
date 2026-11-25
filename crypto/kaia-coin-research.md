@@ -8,7 +8,7 @@ published:     true
 ---
 # KAIA Inflation Rate: +1.04% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/kaia — numbers checked Nov 21 2026*
+*Source: https://mrnasdog.com/research/kaia — numbers checked Nov 25 2026*
 
 **+1.04%** in 90 days, **+4.22%** in a year: that is how fast KAIA supply changes as of Nov 18 2026.
 
@@ -45,7 +45,7 @@ More dollar coins on Kaia → price up · Dollar coins leave → price down. Tod
 | Aug 31 2026 | $207M |
 | Sep 30 2026 | $242M |
 | Oct 31 2026 | $201M |
-| Nov 21 2026 | $196M |
+| Nov 25 2026 | $196M |
 
 *Checked Nov 18 2026*
 

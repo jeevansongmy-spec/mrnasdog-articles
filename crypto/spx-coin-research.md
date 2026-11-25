@@ -8,7 +8,7 @@ published:     true
 ---
 # Is SPX6900 (SPX) Inflationary? 0.00% Supply in 90 Days
 
-*From https://mrnasdog.com/research/spx, updated Nov 21 2026*
+*From https://mrnasdog.com/research/spx, updated Nov 25 2026*
 
 How much new SPX is coming? **0.00%** in the next 90 days, **0.00%** in the next year — checked Nov 16 2026.
 
@@ -57,7 +57,7 @@ SPX6900 adds 0.00% new supply in the next 90 days and 0.00% over a year — supp
 
 ## Demand: how much people want SPX
 
-Demand reads **modest** (2.5/5), #45 of 109 coins we track — that is how much people want SPX now and how much buying could still come.
+Demand reads **modest** (2.5/5), #47 of 109 coins we track — that is how much people want SPX now and how much buying could still come.
 
 (Members see more SPX demand detail on the page; it is not repeated here.)
 

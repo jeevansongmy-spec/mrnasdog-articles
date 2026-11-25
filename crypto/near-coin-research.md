@@ -8,7 +8,7 @@ published:     true
 ---
 # NEAR Protocol (NEAR) Inflation Rate: +0.61% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/near — numbers checked Nov 21 2026*
+*Source: https://mrnasdog.com/research/near — numbers checked Nov 25 2026*
 
 **+0.61%** in 90 days, **+2.37%** in a year: that is how fast NEAR Protocol (NEAR) supply changes as of Nov 19 2026.
 

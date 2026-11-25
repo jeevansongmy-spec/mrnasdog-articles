@@ -8,7 +8,7 @@ published:     true
 ---
 # Raydium (RAY) Inflation Rate: +0.16% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/ray — numbers checked Nov 21 2026*
+*Source: https://mrnasdog.com/research/ray — numbers checked Nov 25 2026*
 
 **+0.16%** in 90 days, **+0.63%** in a year: that is how fast Raydium (RAY) supply changes as of Nov 19 2026.
 
@@ -90,9 +90,9 @@ In our count, about 425K new RAY reaches the market over the next 90 days (check
 
 Raydium (RAY) has about 270M coins in circulation as of Nov 19 2026; the next 90 days change that by +0.16% (+0.63% over a year).
 
-### Does RAY have more new supply than VET, FF or TIA?
+### Does RAY have more new supply than AERO, FF or TIA?
 
-Over the next 90 days (checked Nov 19 2026): RAY +0.16%, VET 0.00%, FF +17.18%, TIA +2.30%. RAY sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 19 2026): RAY +0.16%, AERO +5.10%, FF +17.18%, TIA +2.30%. RAY has the least new supply of these 4 coins.
 
 ## Go deeper on Raydium
 

@@ -8,7 +8,7 @@ published:     true
 ---
 # Helium (HNT) Supply & Demand: +9.11% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/hnt · checked Nov 24 2026*
+*Live page: https://mrnasdog.com/research/hnt · checked Nov 25 2026*
 
 Helium (HNT) supply changes **+9.11%** over the next 90 days and **+35.47%** over a year (checked Nov 24 2026).
 

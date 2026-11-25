@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Tezos (XTZ) Inflationary? +0.71% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/tezos, updated Nov 21 2026*
+*From https://mrnasdog.com/research/tezos, updated Nov 25 2026*
 
 How much new XTZ is coming? **+0.71%** in the next 90 days, **+2.85%** in the next year — checked Nov 17 2026.
 
@@ -33,7 +33,7 @@ Good for the price: More money on Etherlink. Bad for it: Money leaves Etherlink.
 | Aug 31 2026 | $14.9M |
 | Sep 30 2026 | $16.1M |
 | Oct 31 2026 | $17.4M |
-| Nov 21 2026 | $14.8M |
+| Nov 25 2026 | $14.8M |
 
 *Checked Nov 17 2026*
 
@@ -79,7 +79,7 @@ Tezos adds +0.71% new supply in the next 90 days and +2.85% over a year — supp
 
 ## How strong is Tezos demand?
 
-Demand reads **modest** (2.5/5), #45 of 109 coins we track — that is how much people want XTZ now and how much buying could still come.
+Demand reads **modest** (2.5/5), #47 of 109 coins we track — that is how much people want XTZ now and how much buying could still come.
 
 Extra Tezos demand detail for members stays on the live page.
 
@@ -91,7 +91,7 @@ Tezos (XTZ) is inflationary right now: its supply changes +0.71% over the next 9
 
 ### What is the XTZ inflation rate in 2026?
 
-About +2.85% a year: that is how much Tezos (XTZ) supply changes over the next 12 months, with +0.71% in the next 90 days (checked Nov 17 2026). That puts XTZ #55 of 100 coins we track for new supply (#1 = the most new supply).
+About +2.85% a year: that is how much Tezos (XTZ) supply changes over the next 12 months, with +0.71% in the next 90 days (checked Nov 17 2026). That puts XTZ #54 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next XTZ token unlock?
 

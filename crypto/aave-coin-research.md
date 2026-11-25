@@ -8,7 +8,7 @@ published:     true
 ---
 # Is AAVE Inflationary? +0.12% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/aave, updated Nov 21 2026*
+*From https://mrnasdog.com/research/aave, updated Nov 25 2026*
 
 How much new AAVE is coming? **+0.12%** in the next 90 days, **+0.49%** in the next year — checked Nov 21 2026.
 
@@ -33,7 +33,7 @@ Deposits shrank in the last 30 days; far below the 2025 peak.
 | Aug 31 2026 | $17.7B |
 | Sep 30 2026 | $19.1B |
 | Oct 31 2026 | $16B |
-| Nov 22 2026 | $16.3B |
+| Nov 25 2026 | $16.1B |
 
 *Checked Nov 21 2026*
 
@@ -80,7 +80,7 @@ Aave adds +0.12% new supply in the next 90 days and +0.49% over a year — suppl
 
 ## Demand today
 
-Demand reads **strong** (3.5/5), #21 of 109 coins we track — that is how much people want AAVE now and how much buying could still come.
+Demand reads **strong** (3.5/5), #20 of 109 coins we track — that is how much people want AAVE now and how much buying could still come.
 
 Members get the rest of the Aave demand read on mrnasdog.com.
 
@@ -110,9 +110,9 @@ In our count, about 19.2K new AAVE reaches the market over the next 90 days (che
 
 About 15.4M AAVE is in circulation (checked Nov 21 2026). Over the next 90 days that changes +0.12%, and over a year +0.49%.
 
-### Does AAVE have more new supply than OKB, ICP or PEPE?
+### Does AAVE have more new supply than OKB, PEPE or WLFI?
 
-Over the next 90 days (checked Nov 21 2026): AAVE +0.12%, OKB 0.00%, ICP +0.61%, PEPE 0.00%. AAVE sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 21 2026): AAVE +0.12%, OKB 0.00%, PEPE 0.00%, WLFI −0.30%. AAVE has the most new supply of these 4 coins.
 
 ## Read more on AAVE
 

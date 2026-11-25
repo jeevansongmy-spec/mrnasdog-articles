@@ -8,7 +8,7 @@ published:     true
 ---
 # Zcash (ZEC) Supply & Demand: +0.95% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/zec · checked Nov 21 2026*
+*Live page: https://mrnasdog.com/research/zec · checked Nov 25 2026*
 
 Zcash (ZEC) supply changes **+0.95%** over the next 90 days and **+3.84%** over a year (checked Nov 18 2026).
 
@@ -39,7 +39,7 @@ They hold more → price up · They sell → price down. Now: ▼ down side.
 
 ### ▲ Private pool bug
 
-320K ZEC still in the old pool; 4.2M moved safely.
+319K ZEC still in the old pool; 4.2M moved safely.
 
 Good for the price: Old pool empties. Bad for it: Old pool grows. Today: the price-up case.
 
@@ -48,9 +48,9 @@ Good for the price: Old pool empties. Bad for it: Old pool grows. Today: the pri
 | Aug 31 2026 | 0.471 M ZEC | 3.84 M ZEC |
 | Sep 30 2026 | 0.379 M ZEC | 4.06 M ZEC |
 | Oct 31 2026 | 0.344 M ZEC | 4.18 M ZEC |
-| Nov 21 2026 | 0.32 M ZEC | 4.18 M ZEC |
+| Nov 25 2026 | 0.319 M ZEC | 4.19 M ZEC |
 
-*Checked Nov 20 2026*
+*Checked Nov 24 2026*
 
 ### ▲ Privacy-coin rules
 

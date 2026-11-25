@@ -8,7 +8,7 @@ published:     true
 ---
 # Pump.fun (PUMP) Inflation Rate: −8.26% Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/pump — numbers checked Nov 21 2026*
+*Source: https://mrnasdog.com/research/pump — numbers checked Nov 25 2026*
 
 **−8.26%** in 90 days, **+0.82%** in a year: that is how fast Pump.fun (PUMP) supply changes as of Nov 21 2026.
 
@@ -91,9 +91,9 @@ In our count, about 1.88B new PUMP reaches the market over the next 90 days (che
 
 Pump.fun (PUMP) has about 353B coins in circulation as of Nov 21 2026; the next 90 days change that by −8.26% (+0.82% over a year).
 
-### Does PUMP have more new supply than WLD, JUP or INJ?
+### Does PUMP have more new supply than WLD, JUP or KCS?
 
-Over the next 90 days (checked Nov 21 2026): PUMP −8.26%, WLD +3.15%, JUP −0.01%, INJ +0.81%. PUMP has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 21 2026): PUMP −8.26%, WLD +3.15%, JUP −0.01%, KCS 0.00%. PUMP has the least new supply of these 4 coins.
 
 ## Go deeper on Pump.fun
 

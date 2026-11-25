@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Stacks (STX) Inflationary? +1.26% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/stx, updated Nov 24 2026*
+*From https://mrnasdog.com/research/stx, updated Nov 25 2026*
 
 How much new STX is coming? **+1.26%** in the next 90 days, **+5.51%** in the next year — checked Nov 24 2026.
 

@@ -8,11 +8,11 @@ published:     true
 ---
 # Bitcoin SV (BSV) Tokenomics: +0.20% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/bsv (checked Nov 21 2026)*
+*Originally published at https://mrnasdog.com/research/bsv (checked Nov 25 2026)*
 
 As of Nov 16 2026, new Bitcoin SV supply runs at **+0.20%** over 90 days and **+0.81%** over 12 months.
 
-- **Signal:** negative (Nov 21 2026)
+- **Signal:** negative (Nov 25 2026)
 - **Score:** 4.5/10 — supply 3.5/5, demand 1/5
 - **Supply growth:** +0.20% in 90 days · +0.81% in a year
 - **How much people want it:** low (1/5)
@@ -51,7 +51,7 @@ Miner power is down about two thirds since early 2024.
 | Aug 31 2026 | 180 PH/s |
 | Sep 30 2026 | 202 PH/s |
 | Oct 31 2026 | 190 PH/s |
-| Nov 21 2026 | 233 PH/s |
+| Nov 25 2026 | 228 PH/s |
 
 *Checked Nov 16 2026*
 

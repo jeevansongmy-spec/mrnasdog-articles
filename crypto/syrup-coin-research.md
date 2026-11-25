@@ -8,14 +8,14 @@ published:     true
 ---
 # Maple Finance (SYRUP) Tokenomics: +0.82% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/syrup (checked Nov 21 2026)*
+*Originally published at https://mrnasdog.com/research/syrup (checked Nov 25 2026)*
 
 As of Nov 17 2026, new Maple Finance supply runs at **+0.82%** over 90 days and **+3.33%** over 12 months.
 
-- **Signal today:** mixed (Nov 21 2026)
-- **MrNasDog score:** 5.5/10 — supply 2.5/5, demand 3/5
+- **Signal today:** mixed (Nov 25 2026)
+- **MrNasDog score:** 6/10 — supply 2.5/5, demand 3.5/5
 - **New coins:** +0.82% in 90 days · +3.33% in a year
-- **Demand:** moderate (3/5)
+- **Demand:** strong (3.5/5)
 - **Drivers:** 0 ▲ price up · 1 ▼ price down
 
 ## New SYRUP hitting the market
@@ -26,7 +26,7 @@ New SYRUP: +0.82% in 90 days, +3.33% in a year. Supply score 2.5/5, "moderate" (
 
 ## Who wants Maple Finance right now
 
-Maple Finance demand: 3/5 (**moderate**), place #36 among 109 coins — interest today plus the buying that could come later.
+Maple Finance demand: 3.5/5 (**strong**), place #20 among 109 coins — interest today plus the buying that could come later.
 
 The members-only part of SYRUP's demand section is not included.
 
@@ -96,7 +96,7 @@ About 1.17B SYRUP is in circulation (checked Nov 17 2026). Over the next 90 days
 
 ### Does SYRUP have more new supply than JTO, IMX or PONS?
 
-Over the next 90 days (checked Nov 17 2026): SYRUP +0.82%, JTO +2.01%, IMX +2.21%, PONS −20.87%. SYRUP sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 17 2026): SYRUP +0.82%, JTO +2.01%, IMX +2.12%, PONS −33.56%. SYRUP sits in the middle of these 4 coins.
 
 ## Read more on SYRUP
 

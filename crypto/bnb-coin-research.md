@@ -8,7 +8,7 @@ published:     true
 ---
 # BNB Supply & Demand: −1.27% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/bnb · checked Nov 21 2026*
+*Live page: https://mrnasdog.com/research/bnb · checked Nov 25 2026*
 
 BNB supply changes **−1.27%** over the next 90 days and **−5.08%** over a year (checked Nov 17 2026).
 
@@ -22,7 +22,7 @@ BNB supply changes **−1.27%** over the next 90 days and **−5.08%** over a ye
 
 No new BNB is minted, and two burns took 1.65M BNB away in 90 days, almost all in the Oct 19 2026 quarterly burn. Supply -1.26% in 90 days.
 
-Over the next 90 days BNB supply changes −1.27%; across a full year, −5.08%. That puts supply at 5/5 (shrinking) (place 104 of 100).
+Over the next 90 days BNB supply changes −1.27%; across a full year, −5.08%. That puts supply at 5/5 (shrinking) (place 105 of 100).
 
 ## BNB price drivers
 
@@ -64,7 +64,7 @@ They hold more → price up · They sell → price down. Right now it points up.
 
 ## Demand: how much people want BNB
 
-People's appetite for BNB is **strong**: 4/5, ranked #9 of 109.
+People's appetite for BNB is **strong**: 4/5, ranked #10 of 109.
 
 The members-only part of BNB's demand section is not included.
 

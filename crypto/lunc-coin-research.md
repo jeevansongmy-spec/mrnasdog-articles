@@ -8,7 +8,7 @@ published:     true
 ---
 # Terra Luna Classic (LUNC) Supply & Demand: −0.17% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/lunc · checked Nov 21 2026*
+*Live page: https://mrnasdog.com/research/lunc · checked Nov 25 2026*
 
 Terra Luna Classic (LUNC) supply changes **−0.17%** over the next 90 days and **−0.67%** over a year (checked Nov 17 2026).
 
@@ -57,11 +57,11 @@ Good for the price: Upgrades pass, USTC revives. Bad for it: Votes stall or fail
 
 Terra Classic makes no new LUNC, and a 1.5% transfer tax burned 8.27B in 90 days. Coins leaving staking kept the count about flat; about -0.17% expected next.
 
-Over the next 90 days LUNC supply changes −0.17%; across a full year, −0.67%. That puts supply at 4.5/5 (shrinking) (place 99 of 100).
+Over the next 90 days LUNC supply changes −0.17%; across a full year, −0.67%. That puts supply at 4.5/5 (shrinking) (place 98 of 100).
 
 ## LUNC demand
 
-People's appetite for Terra Luna Classic is **modest**: 2.5/5, ranked #45 of 109.
+People's appetite for Terra Luna Classic is **modest**: 2.5/5, ranked #47 of 109.
 
 Members get the rest of the Terra Luna Classic demand read on mrnasdog.com.
 
@@ -73,7 +73,7 @@ As of Nov 17 2026, Terra Luna Classic (LUNC) supply moves −0.17% in 90 days an
 
 ### What is the LUNC inflation rate in 2026?
 
-Terra Luna Classic (LUNC) supply shrinks −0.67% over the next 12 months and −0.17% over the next 90 days (checked Nov 17 2026). That puts LUNC #99 of 100 coins we track for new supply (#1 = the most new supply).
+Terra Luna Classic (LUNC) supply shrinks −0.67% over the next 12 months and −0.17% over the next 90 days (checked Nov 17 2026). That puts LUNC #98 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next LUNC token unlock?
 

@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Lido DAO (LDO) Inflationary? +4.36% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/ldo, updated Nov 21 2026*
+*From https://mrnasdog.com/research/ldo, updated Nov 25 2026*
 
 How much new LDO is coming? **+4.36%** in the next 90 days, **+0.41%** in the next year — checked Nov 16 2026.
 
@@ -33,7 +33,7 @@ Good for the price: More ETH staked. Bad for it: ETH leaves Lido. Right now it p
 | Aug 31 2026 | 9.63 M ETH |
 | Sep 30 2026 | 9.87 M ETH |
 | Oct 31 2026 | 9.69 M ETH |
-| Nov 21 2026 | 9.75 M ETH |
+| Nov 25 2026 | 9.71 M ETH |
 
 *Checked Nov 16 2026*
 
@@ -48,7 +48,7 @@ Staking yield holds up → price up · Staking yield gets cut → price down. To
 | Aug 31 2026 | 2.27% |
 | Sep 30 2026 | 2.25% |
 | Oct 31 2026 | 4.16% |
-| Nov 21 2026 | 2.39% |
+| Nov 25 2026 | 2.45% |
 
 *Checked Nov 16 2026*
 
@@ -60,7 +60,7 @@ Lido DAO adds +4.36% new supply in the next 90 days and +0.41% over a year — s
 
 ## Demand: how much people want LDO
 
-Demand reads **very weak** (1.5/5), #76 of 109 coins we track — that is how much people want LDO now and how much buying could still come.
+Demand reads **very weak** (1.5/5), #77 of 109 coins we track — that is how much people want LDO now and how much buying could still come.
 
 (Members see more LDO demand detail on the page; it is not repeated here.)
 

@@ -8,7 +8,7 @@ published:     true
 ---
 # DASH Supply & Demand: +0.70% New Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/dash · checked Nov 24 2026*
+*Live page: https://mrnasdog.com/research/dash · checked Nov 25 2026*
 
 DASH supply changes **+0.70%** over the next 90 days and **+2.81%** over a year (checked Nov 24 2026).
 

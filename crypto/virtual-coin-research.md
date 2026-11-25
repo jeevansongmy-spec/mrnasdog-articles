@@ -8,14 +8,14 @@ published:     true
 ---
 # Virtuals Protocol (VIRTUAL) Tokenomics: +0.04% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/virtual (checked Nov 21 2026)*
+*Originally published at https://mrnasdog.com/research/virtual (checked Nov 25 2026)*
 
 As of Nov 16 2026, new Virtuals Protocol supply runs at **+0.04%** over 90 days and **+0.04%** over 12 months.
 
-- **Signal:** mixed (Nov 21 2026)
-- **Score:** 6/10 — supply 3.5/5, demand 2.5/5
+- **Signal:** mixed (Nov 25 2026)
+- **Score:** 5.5/10 — supply 3.5/5, demand 2/5
 - **Supply growth:** +0.04% in 90 days · +0.04% in a year
-- **How much people want it:** modest (2.5/5)
+- **How much people want it:** weak (2/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## How fast Virtuals Protocol supply grows
@@ -26,7 +26,7 @@ New VIRTUAL: +0.04% in 90 days, +0.04% in a year. Supply score 3.5/5, "steady", 
 
 ## Who wants Virtuals Protocol right now
 
-Virtuals Protocol demand: 2.5/5 (**modest**), place #45 among 109 coins — interest today plus the buying that could come later.
+Virtuals Protocol demand: 2/5 (**weak**), place #63 among 109 coins — interest today plus the buying that could come later.
 
 (Members see more VIRTUAL demand detail on the page; it is not repeated here.)
 

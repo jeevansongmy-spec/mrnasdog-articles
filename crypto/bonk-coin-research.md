@@ -8,14 +8,14 @@ published:     true
 ---
 # BONK Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/bonk · checked Nov 21 2026*
+*Live page: https://mrnasdog.com/research/bonk · checked Nov 25 2026*
 
 BONK supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 17 2026).
 
 - **Signal today:** negative (by the law of supply and demand)
-- **MrNasDog score:** 3.5/10 — supply 1.5/5, demand 2/5
+- **MrNasDog score:** 4/10 — supply 1.5/5, demand 2.5/5
 - **New coins:** 0.00% in 90 days · 0.00% in a year
-- **Demand:** weak (2/5)
+- **Demand:** modest (2.5/5)
 - **Drivers:** 0 ▲ price up · 2 ▼ price down
 
 ## BONK price drivers
@@ -59,7 +59,7 @@ Over the next 90 days BONK supply changes 0.00%; across a full year, 0.00%. That
 
 ## Who wants Bonk right now
 
-People's appetite for Bonk is **weak**: 2/5, ranked #64 of 109.
+People's appetite for Bonk is **modest**: 2.5/5, ranked #47 of 109.
 
 The members-only part of BONK's demand section is not included.
 

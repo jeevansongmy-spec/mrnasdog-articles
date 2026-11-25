@@ -8,7 +8,7 @@ published:     true
 ---
 # Is MemeCore (M) Inflationary? +1.45% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/memecore, updated Nov 21 2026*
+*From https://mrnasdog.com/research/memecore, updated Nov 25 2026*
 
 How much new M is coming? **+1.45%** in the next 90 days, **+5.88%** in the next year — checked Nov 20 2026.
 
@@ -87,9 +87,9 @@ In our count, about 33.3M new M reaches the market over the next 90 days (checke
 
 About 2.3B M is in circulation (checked Nov 20 2026). Over the next 90 days that changes +1.45%, and over a year +5.88%.
 
-### Does M have more new supply than PEPE, AAVE or OKB?
+### Does M have more new supply than CRO, OKB or AAVE?
 
-Over the next 90 days (checked Nov 20 2026): M +1.45%, PEPE 0.00%, AAVE +0.12%, OKB 0.00%. M has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 20 2026): M +1.45%, CRO +7.01%, OKB 0.00%, AAVE +0.12%. M sits in the middle of these 4 coins.
 
 ## Where to read the rest of M
 

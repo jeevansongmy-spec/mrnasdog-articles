@@ -8,11 +8,11 @@ published:     true
 ---
 # ASTER Tokenomics: +0.26% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/aster (checked Nov 21 2026)*
+*Originally published at https://mrnasdog.com/research/aster (checked Nov 25 2026)*
 
 As of Nov 21 2026, new Aster supply runs at **+0.26%** over 90 days and **+2.08%** over 12 months.
 
-- **Signal:** mixed (Nov 21 2026)
+- **Signal:** mixed (Nov 25 2026)
 - **Score:** 6.5/10 — supply 3/5, demand 3.5/5
 - **Supply growth:** +0.26% in 90 days · +2.08% in a year
 - **How much people want it:** strong (3.5/5)
@@ -39,7 +39,7 @@ Open bets slid in the last 30 days after a September high.
 | Aug 31 2026 | $1.23B |
 | Sep 30 2026 | $1.41B |
 | Oct 31 2026 | $1.37B |
-| Nov 22 2026 | $1.09B |
+| Nov 25 2026 | $1.06B |
 
 *Checked Nov 21 2026*
 
@@ -64,7 +64,7 @@ Good for the price: US opens to Aster. Bad for it: Only rivals get US. Today: th
 
 ## Demand: how much people want ASTER
 
-Aster demand: 3.5/5 (**strong**), place #21 among 109 coins — interest today plus the buying that could come later.
+Aster demand: 3.5/5 (**strong**), place #20 among 109 coins — interest today plus the buying that could come later.
 
 Extra Aster demand detail for members stays on the live page.
 
@@ -94,9 +94,9 @@ In our count, about 6.75M new ASTER reaches the market over the next 90 days (ch
 
 About 2.57B ASTER is in circulation (checked Nov 21 2026). Over the next 90 days that changes +0.26%, and over a year +2.08%.
 
-### Does ASTER have more new supply than ENA, MNT or BGB?
+### Does ASTER have more new supply than VVV, MNT or JST?
 
-Over the next 90 days (checked Nov 21 2026): ASTER +0.26%, ENA +2.08%, MNT 0.00%, BGB 0.00%. ASTER sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 21 2026): ASTER +0.26%, VVV +2.82%, MNT 0.00%, JST −1.23%. ASTER sits in the middle of these 4 coins.
 
 ## Where to read the rest of ASTER
 

@@ -8,11 +8,11 @@ published:     true
 ---
 # Jupiter (JUP) Tokenomics: −0.01% Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/jup (checked Nov 21 2026)*
+*Originally published at https://mrnasdog.com/research/jup (checked Nov 25 2026)*
 
 As of Nov 19 2026, new Jupiter supply runs at **−0.01%** over 90 days and **−0.05%** over 12 months.
 
-- **Long-run signal:** positive (Nov 21 2026)
+- **Long-run signal:** positive (Nov 25 2026)
 - **Score:** 8/10 — supply 4.5/5, demand 3.5/5
 - **New supply:** −0.01% in 90 days · −0.05% in a year
 - **Demand:** strong (3.5/5)
@@ -60,7 +60,7 @@ Lending keeps growing → price up · Deposits leave → price down. Now: ▲ up
 | Aug 31 2026 | $1.08B | $1.24B |
 | Sep 30 2026 | $1.17B | $1.42B |
 | Oct 31 2026 | $0.93B | $1.23B |
-| Nov 21 2026 | $0.943B | $1.13B |
+| Nov 25 2026 | $0.935B | $1.1B |
 
 *Checked Nov 19 2026*
 
@@ -72,7 +72,7 @@ Jupiter (JUP) is deflationary right now: its supply changes −0.01% over the ne
 
 ### What is the JUP inflation rate in 2026?
 
-About −0.05% a year: that is how much Jupiter (JUP) supply changes over the next 12 months, with −0.01% in the next 90 days (checked Nov 19 2026). That puts JUP #94 of 100 coins we track for new supply (#1 = the most new supply).
+About −0.05% a year: that is how much Jupiter (JUP) supply changes over the next 12 months, with −0.01% in the next 90 days (checked Nov 19 2026). That puts JUP #93 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next JUP token unlock?
 
@@ -90,9 +90,9 @@ Almost no new JUP reaches the market over the next 90 days (checked Nov 19 2026)
 
 About 3.32B JUP is in circulation (checked Nov 19 2026). Over the next 90 days that changes −0.01%, and over a year −0.05%.
 
-### Does JUP have more new supply than KCS, INJ or PI?
+### Does JUP have more new supply than PUMP, KCS or POL?
 
-Over the next 90 days (checked Nov 19 2026): JUP −0.01%, KCS 0.00%, INJ +0.81%, PI +4.21%. JUP has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 19 2026): JUP −0.01%, PUMP −8.26%, KCS 0.00%, POL −0.31%. JUP sits in the middle of these 4 coins.
 
 ## Read more on JUP
 

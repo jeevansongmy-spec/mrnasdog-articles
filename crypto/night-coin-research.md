@@ -8,7 +8,7 @@ published:     true
 ---
 # Midnight (NIGHT) Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/night · checked Nov 23 2026*
+*Live page: https://mrnasdog.com/research/night · checked Nov 25 2026*
 
 Midnight (NIGHT) supply changes **0.00%** over the next 90 days and **+2.20%** over a year (checked Nov 23 2026).
 
@@ -98,9 +98,9 @@ Almost no new NIGHT reaches the market over the next 90 days (checked Nov 23 202
 
 Midnight (NIGHT) has about 16.6B coins in circulation as of Nov 23 2026; the next 90 days change that by 0.00% (+2.20% over a year).
 
-### Does NIGHT have more new supply than POL, ARB or RENDER?
+### Does NIGHT have more new supply than POL, ARB or PIEVERSE?
 
-Over the next 90 days (checked Nov 23 2026): NIGHT 0.00%, POL −0.31%, ARB +4.59%, RENDER +0.08%. NIGHT sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 23 2026): NIGHT 0.00%, POL −0.31%, ARB +4.59%, PIEVERSE +23.66%. NIGHT sits in the middle of these 4 coins.
 
 ## Where to read the rest of NIGHT
 

@@ -8,11 +8,11 @@ published:     true
 ---
 # Filecoin (FIL) Tokenomics: +2.75% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/fil (checked Nov 24 2026)*
+*Originally published at https://mrnasdog.com/research/fil (checked Nov 25 2026)*
 
 As of Nov 24 2026, new Filecoin supply runs at **+2.75%** over 90 days and **+8.84%** over 12 months.
 
-- **Signal:** negative (Nov 24 2026)
+- **Signal:** negative (Nov 25 2026)
 - **Score:** 3/10 — supply 1/5, demand 2/5
 - **Supply growth:** +2.75% in 90 days · +8.84% in a year
 - **How much people want it:** weak (2/5)

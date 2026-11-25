@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Mantle (MNT) Inflationary? 0.00% Supply in 90 Days
 
-*From https://mrnasdog.com/research/mnt, updated Nov 21 2026*
+*From https://mrnasdog.com/research/mnt, updated Nov 25 2026*
 
 How much new MNT is coming? **0.00%** in the next 90 days, **+1.33%** in the next year — checked Nov 21 2026.
 
@@ -45,7 +45,7 @@ Good for the price: More dollars on Mantle. Bad for it: Dollars leave Mantle.
 | Aug 31 2026 | $591M |
 | Sep 30 2026 | $549M |
 | Oct 31 2026 | $546M |
-| Nov 22 2026 | $507M |
+| Nov 25 2026 | $508M |
 
 *Checked Nov 21 2026*
 
@@ -57,7 +57,7 @@ Mantle adds 0.00% new supply in the next 90 days and +1.33% over a year — supp
 
 ## How strong is Mantle demand?
 
-Demand reads **low** (1/5), #91 of 109 coins we track — that is how much people want MNT now and how much buying could still come.
+Demand reads **low** (1/5), #92 of 109 coins we track — that is how much people want MNT now and how much buying could still come.
 
 Extra Mantle demand detail for members stays on the live page.
 
@@ -87,9 +87,9 @@ Almost no new MNT reaches the market over the next 90 days (checked Nov 21 2026)
 
 About 3.31B MNT is in circulation (checked Nov 21 2026). Over the next 90 days that changes 0.00%, and over a year +1.33%.
 
-### Does MNT have more new supply than ASTER, BGB or JST?
+### Does MNT have more new supply than ASTER, JST or DOT?
 
-Over the next 90 days (checked Nov 21 2026): MNT 0.00%, ASTER +0.26%, BGB 0.00%, JST −1.22%. MNT sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 21 2026): MNT 0.00%, ASTER +0.26%, JST −1.23%, DOT +0.80%. MNT sits in the middle of these 4 coins.
 
 ## Next steps for MNT
 

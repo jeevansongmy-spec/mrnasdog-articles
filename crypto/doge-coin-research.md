@@ -8,11 +8,11 @@ published:     true
 ---
 # Dogecoin (DOGE) Tokenomics: +0.78% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/doge (checked Nov 21 2026)*
+*Originally published at https://mrnasdog.com/research/doge (checked Nov 25 2026)*
 
 As of Nov 19 2026, new Dogecoin supply runs at **+0.78%** over 90 days and **+3.18%** over 12 months.
 
-- **Signal:** mixed (Nov 21 2026)
+- **Signal:** mixed (Nov 25 2026)
 - **Score:** 5.5/10 — supply 1.5/5, demand 4/5
 - **Supply growth:** +0.78% in 90 days · +3.18% in a year
 - **How much people want it:** strong (4/5)
@@ -41,7 +41,7 @@ Musk's X Money adds $1 tips, still with no DOGE.
 
 ### • Robinhood's wallet
 
-Down 5.8B DOGE since Jan 2024; flat for 417 days.
+Down 5.8B DOGE since Jan 2024; flat for 421 days.
 
 Good for the price: Wallet grows. Bad for it: Wallet shrinks.
 
@@ -50,9 +50,9 @@ Good for the price: Wallet grows. Bad for it: Wallet shrinks.
 | Aug 31 2026 | 27.2 B DOGE |
 | Sep 30 2026 | 27.2 B DOGE |
 | Oct 31 2026 | 27.2 B DOGE |
-| Nov 21 2026 | 27.2 B DOGE |
+| Nov 25 2026 | 27.2 B DOGE |
 
-*Checked Nov 20 2026*
+*Checked Nov 24 2026*
 
 ## How fast Dogecoin supply grows
 
@@ -62,7 +62,7 @@ New DOGE: +0.78% in 90 days, +3.18% in a year. Supply score 1.5/5, "meme coin".
 
 ## Demand today
 
-Dogecoin demand: 4/5 (**strong**), place #9 among 109 coins — interest today plus the buying that could come later.
+Dogecoin demand: 4/5 (**strong**), place #10 among 109 coins — interest today plus the buying that could come later.
 
 (Members see more DOGE demand detail on the page; it is not repeated here.)
 

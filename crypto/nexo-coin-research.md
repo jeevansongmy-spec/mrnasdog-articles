@@ -8,7 +8,7 @@ published:     true
 ---
 # NEXO Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/nexo · checked Nov 21 2026*
+*Live page: https://mrnasdog.com/research/nexo · checked Nov 25 2026*
 
 NEXO supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 15 2026).
 
@@ -59,7 +59,7 @@ Case still fights over jurisdiction; no hearing date is public.
 
 A fixed 1B NEXO: nothing new is made and nothing is burned, so supply stays flat. The open question is what Nexo does with the large share it still holds.
 
-Over the next 90 days NEXO supply changes 0.00%; across a full year, 0.00%. That puts supply at 4.5/5 (flat) (place 83 of 100).
+Over the next 90 days NEXO supply changes 0.00%; across a full year, 0.00%. That puts supply at 4.5/5 (flat) (place 82 of 100).
 
 ## Demand today
 
@@ -75,7 +75,7 @@ As of Nov 15 2026, NEXO supply moves 0.00% in 90 days and 0.00% in a year, so NE
 
 ### What is the NEXO inflation rate in 2026?
 
-NEXO supply grows 0.00% over the next 12 months and 0.00% over the next 90 days (checked Nov 15 2026). That puts NEXO #83 of 100 coins we track for new supply (#1 = the most new supply).
+NEXO supply grows 0.00% over the next 12 months and 0.00% over the next 90 days (checked Nov 15 2026). That puts NEXO #82 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next NEXO token unlock?
 
@@ -93,9 +93,9 @@ Almost no new NEXO reaches the market over the next 90 days (checked Nov 15 2026
 
 NEXO has about 1B coins in circulation as of Nov 15 2026; the next 90 days change that by 0.00% (0.00% over a year).
 
-### Does NEXO have more new supply than ATOM, ZRO or XDC?
+### Does NEXO have more new supply than PI, INJ or LIT?
 
-Over the next 90 days (checked Nov 15 2026): NEXO 0.00%, ATOM +3.17%, ZRO +17.56%, XDC +4.31%. NEXO has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 15 2026): NEXO 0.00%, PI +3.87%, INJ +0.78%, LIT +11.11%. NEXO has the least new supply of these 4 coins.
 
 ## Next steps for NEXO
 

@@ -8,7 +8,7 @@ published:     true
 ---
 # Is Pyth Network (PYTH) Inflationary? 0.00% Supply in 90 Days
 
-*From https://mrnasdog.com/research/pyth, updated Nov 21 2026*
+*From https://mrnasdog.com/research/pyth, updated Nov 25 2026*
 
 How much new PYTH is coming? **0.00%** in the next 90 days, **+26.98%** in the next year — checked Nov 15 2026.
 
@@ -26,7 +26,7 @@ Pyth Network (PYTH) is flat, neither inflationary nor deflationary right now: it
 
 ### What is the PYTH inflation rate in 2026?
 
-About +26.98% a year: that is how much Pyth Network (PYTH) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 15 2026). That puts PYTH #87 of 100 coins we track for new supply (#1 = the most new supply).
+About +26.98% a year: that is how much Pyth Network (PYTH) supply changes over the next 12 months, with 0.00% in the next 90 days (checked Nov 15 2026). That puts PYTH #86 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next PYTH token unlock?
 
@@ -44,19 +44,19 @@ Almost no new PYTH reaches the market over the next 90 days (checked Nov 15 2026
 
 About 7.87B PYTH is in circulation (checked Nov 15 2026). Over the next 90 days that changes 0.00%, and over a year +26.98%.
 
-### Does PYTH have more new supply than AERO, FLR or APT?
+### Does PYTH have more new supply than DASH, FLR or STABLE?
 
-Over the next 90 days (checked Nov 15 2026): PYTH 0.00%, AERO +5.37%, FLR +1.01%, APT +2.02%. PYTH has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 15 2026): PYTH 0.00%, DASH +0.70%, FLR +1.01%, STABLE 0.00%. PYTH sits in the middle of these 4 coins.
 
 ## New PYTH hitting the market
 
 Pyth Network's supply is flat: no new coins, no unlock until May 2027, and the DAO's buybacks stay in its treasury.
 
-Pyth Network adds 0.00% new supply in the next 90 days and +26.98% over a year — supply scores 4.5/5 (flat), #87 of 100 for new supply.
+Pyth Network adds 0.00% new supply in the next 90 days and +26.98% over a year — supply scores 4.5/5 (flat), #86 of 100 for new supply.
 
 ## Demand: how much people want PYTH
 
-Demand reads **very weak** (1.5/5), #76 of 109 coins we track — that is how much people want PYTH now and how much buying could still come.
+Demand reads **very weak** (1.5/5), #77 of 109 coins we track — that is how much people want PYTH now and how much buying could still come.
 
 Members get the rest of the Pyth Network demand read on mrnasdog.com.
 

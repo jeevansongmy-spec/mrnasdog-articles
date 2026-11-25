@@ -8,11 +8,11 @@ published:     true
 ---
 # Monad (MON) Tokenomics: +150.08% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/monad (checked Nov 21 2026)*
+*Originally published at https://mrnasdog.com/research/monad (checked Nov 25 2026)*
 
 As of Nov 17 2026, new Monad supply runs at **+150.08%** over 90 days and **+225.99%** over 12 months.
 
-- **Signal:** mixed (Nov 21 2026)
+- **Signal:** mixed (Nov 25 2026)
 - **Score:** 4/10 — supply 0/5, demand 4/5
 - **Supply growth:** +150.08% in 90 days · +225.99% in a year
 - **How much people want it:** strong (4/5)
@@ -58,7 +58,7 @@ Foundation keeps holding → price up · Foundation sells → price down. Right 
 
 ## MON demand
 
-Monad demand: 4/5 (**strong**), place #9 among 109 coins — interest today plus the buying that could come later.
+Monad demand: 4/5 (**strong**), place #10 among 109 coins — interest today plus the buying that could come later.
 
 Members get the rest of the Monad demand read on mrnasdog.com.
 
@@ -74,7 +74,7 @@ About +225.99% a year: that is how much Monad (MON) supply changes over the next
 
 ### When is the next MON token unlock?
 
-The next Monad (MON) unlock we track is on Nov 24 2026: about 15.6B MON, 132.18% of the MON in circulation (Team + investor unlock (first year ends)). Checked Nov 17 2026.
+The next Monad (MON) unlock we track is on Dec 24 2026: about 863M MON, 7.30% of the MON in circulation (Monthly team + investor unlock). Checked Nov 17 2026.
 
 ### Does Monad burn or buy back MON?
 

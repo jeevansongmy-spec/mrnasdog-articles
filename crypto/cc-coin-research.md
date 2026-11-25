@@ -8,7 +8,7 @@ published:     true
 ---
 # Canton Coin (CC) Inflation Rate: +1.43% New Supply in 90 Days
 
-*Source: https://mrnasdog.com/research/cc — numbers checked Nov 21 2026*
+*Source: https://mrnasdog.com/research/cc — numbers checked Nov 25 2026*
 
 **+1.43%** in 90 days, **+5.79%** in a year: that is how fast Canton Coin (CC) supply changes as of Nov 20 2026.
 

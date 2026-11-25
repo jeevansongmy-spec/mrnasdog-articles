@@ -8,7 +8,7 @@ published:     true
 ---
 # Is KITE Inflationary? +22.04% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/kite, updated Nov 21 2026*
+*From https://mrnasdog.com/research/kite, updated Nov 25 2026*
 
 How much new KITE is coming? **+22.04%** in the next 90 days, **+88.14%** in the next year — checked Nov 16 2026.
 
@@ -22,11 +22,11 @@ How much new KITE is coming? **+22.04%** in the next 90 days, **+88.14%** in the
 
 Kite is a Layer 1 for AI agent payments with a fixed 10B KITE cap. About 1.23B KITE unlocked on paper in 90 days but stayed in the project's wallets, and the plan frees 526.91M more by Feb 3 2027.
 
-Kite adds +22.04% new supply in the next 90 days and +88.14% over a year — supply scores 0/5 (extreme) (place 3 of 100).
+Kite adds +22.04% new supply in the next 90 days and +88.14% over a year — supply scores 0/5 (extreme) (place 4 of 100).
 
 ## Demand today
 
-Demand reads **weak** (2/5), #64 of 109 coins we track — that is how much people want KITE now and how much buying could still come.
+Demand reads **weak** (2/5), #63 of 109 coins we track — that is how much people want KITE now and how much buying could still come.
 
 A deeper KITE demand breakdown is on the page for members.
 
@@ -45,7 +45,7 @@ Tens of thousands of transactions a day; over 4.4M since Dec 2025.
 | Nov 12 2026 | 67,107 txs |
 | Nov 13 2026 | 84,131 txs |
 | Nov 14 2026 | 81,483 txs |
-| Nov 21 2026 | 3,334 txs |
+| Nov 25 2026 | 47,356 txs |
 
 *Checked Nov 16 2026*
 
@@ -74,7 +74,7 @@ KITE is inflationary right now: its supply changes +22.04% over the next 90 days
 
 ### What is the KITE inflation rate in 2026?
 
-About +88.14% a year: that is how much KITE supply changes over the next 12 months, with +22.04% in the next 90 days (checked Nov 16 2026). That puts KITE #3 of 100 coins we track for new supply (#1 = the most new supply).
+About +88.14% a year: that is how much KITE supply changes over the next 12 months, with +22.04% in the next 90 days (checked Nov 16 2026). That puts KITE #4 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next KITE token unlock?
 
