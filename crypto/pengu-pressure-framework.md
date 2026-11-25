@@ -1,9 +1,9 @@
 ---
-title:         "PENGU Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
-description:   "PENGU supply is growing: 1.63B PENGU left team and company wallets in 90 days, +2.60% net, no mint, burn or buyback. Three more payouts due by Jan 2027."
+title: "PENGU Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
+description: "PENGU supply is growing: team and company wallets paid out 1.40B PENGU in 90 days (+2.23%), 1.37B more due by Feb 2027, no buyback, burn or new minting."
 canonical_url: "https://mrnasdog.com/research/pengu/inflation"
-tags:          ["crypto", "pengu", "solana", "memecoin"]
-published:     true
+tags: ["crypto", "pengu", "solana", "memecoin"]
+published: true
 ---
 # PENGU Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 
@@ -12,58 +12,52 @@ published:     true
 <!-- main-page -->
 The Pudgy Penguins coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/pengu](https://mrnasdog.com/research/pengu). Below: supply, line by line.
 
-PENGU supply is growing, and it should keep growing at about the same pace. No new PENGU can ever be made, but the team and company share opens every month, and between Aug 17 and Nov 15 2026 **1.63B PENGU** left the team and company wallets while nothing was bought back or burned, for a net **+2.60%** in 90 days. Other trackers show about **0%**, because the circulating figure they use has not moved in more than a year.
+PENGU supply is growing, and it will keep growing until the team and company tokens run out. No new PENGU can ever be minted, but the **26.03B PENGU** set aside for the Pudgy Penguins team and company is being paid out of locked wallets every month. From Aug 27 to Nov 25 2026 those payouts added **1.40B PENGU** to the market, **+2.23%** of the circulating supply, with nothing bought back or burned; about **1.37B PENGU** (**+2.18%**) is due in the next 90 days, while other trackers show **+0.01%**.
 
 ## The verdict, in one paragraph
 
-Over the 90 days to Nov 15 2026, PENGU supply in the market grew by **+2.60%**, and the next 90 days look the same at **+2.60%**. Other trackers read **−0.03%** for the same stretch, a gap of **2.63 points**, so the PENGU coin page carries a warning note. The circulating figure those trackers use has stood at 62.86B PENGU since at least Nov 2025. It leaves out the whole 26.03B team and company share, still counts the 12.17B PENGU burned on Feb 5 2025, and never rises when a monthly payout reaches the market. The label that fits PENGU today: a fixed-supply coin that is still inflationary on its float, by insider unlock.
+Over the 90 days from Aug 27 to Nov 25 2026, PENGU supply in the market grew by **+2.23%**, and the next 90 days point to **+2.18%**. Other trackers show **+0.01%** for the same window, a gap of **2.22 percentage points**, so the PENGU coin page carries a warning note. The gap has a plain cause: the circulating figure those trackers use has stayed near **62.86B PENGU** since at least Nov 2025, while the team and company wallets kept paying out on-chain. PENGU is a fixed-supply meme coin that is still inflationary on its active float, because insider tokens are still reaching the market every month.
 
 ## Sell pressure: where new PENGU comes from
 
-Protocol inflation is zero. The right to create new PENGU was given up on-chain, so the total can never rise above the 76.72B PENGU that exist today.
+Protocol inflation is zero and always will be. PENGU lives on Solana, and the key that could create new PENGU was removed at launch, so the **88.89B PENGU** minted in December 2024 is the most that will ever exist. Burns of unclaimed launch tokens have since cut the total to **76.72B PENGU**.
 
-Vesting unlocks are the one source of new PENGU in the market: **1.63B PENGU** in the last 90 days. The team and company share, 26.03B PENGU at launch, sat behind a one-year wait and now opens in 36 monthly steps of about 723M, from Dec 17 2025 to Nov 17 2028. The wallets that hold this share paid out about 188M PENGU in August, 980M in September and 465M in October 2026, less than the 2.17B the three steps would allow, with the main payouts landing around Aug 17, Sep 17 and Oct 19. The next three payouts fall around Nov 17 2026, Dec 17 2026 and Jan 17 2027, so the next 90 days should see about the same **1.63B PENGU**.
+Vesting unlocks are the whole story. At launch the Pudgy Penguins team received **17.8%** of the supply and the company **11.48%**, together **26.03B PENGU**, locked for one year and then paid out over three. That money sits in a set of holding wallets: a company reserve wallet and twelve team wallets, each one a slice of a team member's grant. The reserve wallet pays out about **183M PENGU** a month, and the team wallets pay their holders about **273M PENGU** a month. From Aug 27 to Nov 25 2026 they paid out **1.40B PENGU** in total: about **547M** from the company reserve and **854M** to team members, including a double payout on Sep 17 2026. The next payouts are due around **Dec 17 2026**, **Jan 17 2027** and **Feb 17 2027**, roughly **456M PENGU** each, for about **1.37B PENGU** in the next 90 days.
 
-Foundation and unscheduled unlocks add nothing on top. The team and company wallets could pay out faster than the calendar, since they hold more than it still keeps locked, but no such extra payout has happened, so this row stays at zero and the balances are listed below. The launch wallet holds 5.00B PENGU that already counts as circulating, so its small monthly sends of about 3.7M PENGU add nothing.
+On paper the schedule is faster. Spreading 26.03B PENGU over three years comes to about **723M PENGU** a month, and unlock calendars list the next unlock near **704M PENGU**. The wallets have been paying out less than that, and the November team payout had not arrived by Nov 25 2026. PENGU counts what actually left the wallets, not the paper amount.
 
-Long-term locked or bankruptcy coins are zero too. No court case or failed firm holds PENGU waiting to be paid out, and the small share set aside for former FTX holders went out at launch.
+Foundation and unscheduled unlocks add nothing new. A distribution wallet for the community pools still holds **4.92B PENGU** and last sent **85.5M PENGU** on Nov 17 2026, and a company spending wallet holds **608M PENGU**, but both hold coins that were already released, so moving them does not grow the supply. Long-term locks and bankruptcy are zero too: no court or bankruptcy estate holds PENGU, and the small launch share for FTT holders was paid in full on day one.
 
 ## Buy pressure: where new PENGU goes
 
-There is no programmatic buyback. Igloo, the company behind Pudgy Penguins, has never set one up, and when it shut down its Abstract chain plan on Oct 6 2026 it said its focus would return to Pudgy Penguins and PENGU, without naming any buyback.
+Nothing takes PENGU off the market. There is no buyback: the money Pudgy Penguins earns from toys, candy and licensing stays with the company and is not used to buy PENGU. There is no fee burn, because PENGU is a plain token that charges no fees of its own; holders sometimes burn a few leftover PENGU when they close a wallet, which is too small to count. The company has never bought PENGU on the market, and any fund buying PENGU would trade coins already circulating. There is no staking or lock-up either, so the buy side of the PENGU ledger is zero in both windows.
 
-There is no protocol fee burn. PENGU charges no fees of its own, so nothing is destroyed as people use it. The one large burn was a one-off on Feb 5 2025, when about 12.17B unclaimed airdrop coins were destroyed; since then holders have burned only tiny amounts.
-
-There is no foundation buy. The company receives coins from the schedule and does not buy any back, and funds or traders who buy PENGU take coins that are already circulating, so their buying removes nothing from the count.
-
-There is no new long-term lock. PENGU has no staking. About 448M PENGU sits on the Abstract chain, which closes on Dec 15 2026; those coins are already counted, so moving them off, or leaving them behind, adds or removes nothing here.
+One date could strand some coins. Abstract, the network run by Pudgy Penguins' parent company Igloo, shuts down on Dec 15 2026, and coins left there after that day would be stuck. About **407M PENGU** still sat on Abstract on Nov 25 2026, but holders are moving coins out, so nothing is counted yet.
 
 ## Foundation and overhang
 
-The team and company wallets together hold **19.83B PENGU**, about 1.76B more than the calendar still keeps locked. The largest is the main payout wallet, which received the whole team and company share at launch and still holds **7.19B PENGU**; it pays team members around the 17th of each month. Another 51 smaller wallets, one or more per team member plus the company's own, hold **12.64B PENGU** between them. The launch wallet, with 5.00B PENGU, sits outside this group because its coins already count as circulating. Every one of these balances is re-read from the chain at each rebuild. If any team or company balance falls faster than the monthly payouts explain, the extra outflow goes into the foundation and unscheduled unlock row at the next refresh.
+The PENGU overhang is large and easy to see. The company reserve wallet holds **7.01B PENGU**, down from 7.56B on Aug 27 2026. Twelve team wallets hold **8.46B PENGU**: five of them are paying out each month, and seven are untouched, holding later slices of the team grants. Two smaller team grants hold another **365M PENGU**. Together that is about **15.84B PENGU** still to come, a quarter of today's circulating supply. On top of that, the community distribution wallet holds **4.92B PENGU** and the company spending wallet **608M PENGU**, both already released. Every one of these wallets is read on-chain at each rebuild. If any balance falls between refreshes, the outflow is counted as new PENGU supply at the next refresh.
 
 ## How PENGU compares to other meme coins
 
-Most big meme coins sit at one of two ends. Dogecoin has no cap and creates 10,000 new DOGE with every block, so its supply grows forever at a slowly falling percentage. Pepe and Shiba Inu released their whole supply long ago, so neither has a team share left to open, and their supply only moves when holders burn coins.
+Most meme coins fall into two groups. Coins like Dogecoin add new coins forever: Dogecoin pays miners 10,000 DOGE a block with no cap, so its supply grows by a steady amount every year. Coins like Shiba Inu and Pepe are fixed: no new coins, no team schedule, and holders can only shrink supply by burning. PENGU sits between them. Its supply is capped and can only fall, like Shiba Inu, but almost a third of it was handed to insiders on a schedule, so the market float keeps growing for years, like a mined coin.
 
-PENGU sits in a third group: a fixed total, like Pepe, but with a large insider share that opens on a calendar, much like Official Trump. That makes PENGU's growth temporary but steady. It runs at about 2.6% a quarter today and ends when the last step opens on Nov 17 2028, after which PENGU supply can only stay flat or shrink.
+The closest match is the Official Trump coin, where most of the supply sits with the creators and is released over three years. PENGU's insider share is smaller, about **29%** at launch, and its payouts are monthly rather than every day. The difference between PENGU and a pure meme coin is the overhang: about **15.84B PENGU** still waits in team and company wallets, and it reaches the market at roughly **456M PENGU** a month at the current pace.
 
-Unlike Shiba Inu or Bonk, PENGU has no burn of any kind feeding back into the count, so nothing offsets the payouts. Every coin that leaves the team and company wallets stays in the market.
+PENGU also has something few meme coins have: a business behind the brand, with toys in big US stores and new candy at IT'SUGAR. That business does not touch the PENGU supply. No sales revenue buys PENGU or burns it, so for supply purposes PENGU behaves like any meme coin with an insider unlock schedule.
 
 ## What to watch in the next 90 days
 
-Nov 17 2026: the next monthly step opens about 723M PENGU for the team and company; recent payouts have reached the market around the same day or a couple of days later.
+The next team and company payout is due around **Dec 17 2026**, which is also the second anniversary of the PENGU launch; if the skipped November team payout arrives with it, December could be larger than **456M PENGU**.
 
-Dec 15 2026: the Abstract chain closes. About 448M PENGU sits there today; how much of it is moved off does not change this count, but it is a large block of coins changing hands.
+Abstract shuts down on **Dec 15 2026**; any PENGU left on that network after the deadline would be stuck, which would quietly remove coins from the market; about 407M PENGU was still there on Nov 25 2026.
 
-Dec 17 2026 and Jan 17 2027: two more monthly steps. If payouts climb back toward the full 723M a month, the next 90 days would come in above **+2.60%**, closer to +3.45%.
+The next two monthly payouts fall around **Jan 17 2027** and **Feb 17 2027**; a jump toward the paper pace of about 723M PENGU a month would lift the forecast.
 
-Any buyback or burn plan from Igloo. None exists today; a funded one, with a size and a date, would be the first thing to take PENGU out of the market.
+The company reserve wallet's balance, **7.01B PENGU** on Nov 25 2026, is the single number to follow: any month it falls by much more than about 183M PENGU, the company is paying out faster than it has so far.
 
 ## Summary
 
-PENGU supply grew **+2.60%** in the 90 days to Nov 15 2026 and should grow about the same in the next 90 days, as 1.63B PENGU left the team and company wallets and nothing was bought back or burned. No new PENGU can be created, so this growth comes only from the 26.03B team and company share opening month by month until Nov 17 2028. The team and company wallets still hold 19.83B PENGU, the main risk for holders, and they hold more than the calendar keeps locked. Other trackers show about 0% because their circulating figure has not moved in over a year.
+PENGU is a fixed-supply Solana meme coin whose supply in the market still grows by about **2.2%** every 90 days, because the Pudgy Penguins team and company are paid out of locked wallets every month. From Aug 27 to Nov 25 2026 those payouts added **1.40B PENGU**, and about **1.37B PENGU** more is due by Feb 2027, with no buyback or burn to offset it. The key risk is the overhang: about **15.84B PENGU** still sits in team and company wallets. The cap is firm, since no new PENGU can ever be minted, so the growth ends when those wallets are empty.
 
----
-
-*MrNasdog Pressure Framework analysis of PENGU, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 15 2026.*
+*MrNasDog Pressure Framework analysis of PENGU, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 25 2026.*

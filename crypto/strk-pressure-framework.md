@@ -1,6 +1,6 @@
 ---
 title:         "STRK Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
-description:   "STRK supply grew +9.48% in 90 days: 433.55M STRK from reserve wallets, 254M from monthly unlocks and 39M new to stakers, with no burn. About +8.97% next."
+description:   "STRK supply grew +10.91% in 90 days: 433.55M STRK from Foundation wallets, 381M from monthly unlocks and 40.3M to stakers, no burn. About +8.79% next."
 canonical_url: "https://mrnasdog.com/research/strk/inflation"
 tags:          ["crypto", "strk", "starknet", "layer2"]
 published:     true
@@ -12,58 +12,62 @@ Originally published at [STRK Inflation Analysis · November 2026 · Supply grow
 <!-- main-page -->
 This is the long supply read. For the signal, the price drivers and the questions people ask about Starknet, see [mrnasdog.com/research/strk](https://mrnasdog.com/research/strk).
 
-STRK supply is growing fast, and it is set to keep growing. Between Aug 17 and Nov 15 2026 about **726.55M** STRK joined the circulating supply, an increase of **+9.48%**, with **433.55M** from reserve wallets, **254M** from two monthly team and investor unlocks and **39M** newly created for stakers. Nothing took STRK out, and other trackers show **+9.88%**, so both readings agree on a float that grows close to a tenth every quarter.
+STRK supply is growing fast. Between Aug 27 and Nov 25 2026 about **854.85M** new STRK reached the market: **433.55M** from Starknet Foundation reserve wallets, **381M** from three monthly team and investor unlocks, and **40.3M** newly created to pay stakers. Nothing was burned or bought back, so the float grew about **+10.91%**, with about **+8.79%** expected over the next 90 days.
 
 ## The verdict, in one paragraph
 
-Starknet's STRK supply grew **+9.48%** in the 90 days to Nov 15 2026, and we expect about **+8.97%** more in the 90 days to Feb 13 2027. Other trackers read **+9.88%** for the same stretch, a gap of only **0.40 points**, so the coin page carries no warning note. Every bit of that growth is selling pressure: STRK has no burn and no buyback to soak any of it up. The label that fits STRK today is **inflationary by unlocks and reserve hand-outs, with no sink**.
+STRK is a coin with a lot of supply still on its way out. The circulating count stood at **7.83B** STRK on Nov 25 2026, and **854.85M** of that arrived in the last 90 days, a net rise of **+10.91%**. Other trackers show about **+12.32%** for the same 90 days; the difference comes from which day's count the rise is compared with, not from any missing coins, so the coin page carries no warning note. The label is simple: supply growing, and projected to keep growing, at about **688.91M** STRK or **+8.79%** in the next 90 days.
 
 ## Sell pressure: where new STRK comes from
 
-**Protocol inflation added 39.0M STRK.** Starknet pays the people who stake STRK with brand-new coins. The amount follows a fixed curve tied to how much STRK is staked, so a bigger stake means faster creation. Between Aug 17 and Nov 15 2026 the new STRK arrived in **30** batches of **1.3M** each, about one every three days. The stake rose from about **1.41B** STRK in August to about **1.76B** today, near 17% of all STRK, so this pay is slowly speeding up. The next 90 days should bring about the same **39.0M**.
+**Protocol inflation.** Starknet pays the people who stake STRK with brand-new coins. The total count of STRK rose from **10.156B** on Aug 27 2026 to **10.196B** on Nov 25 2026, an addition of **40.3M** STRK, or about 450K a day, sent out in batches every two to three days. The pay follows a curve that rises with the share of STRK staked, and the stake climbed to about **1.83B** STRK by late November, so this stream edges up rather than down.
 
-**Vesting unlocks added 254M STRK.** Early Starknet team members and investors receive **127M** STRK on the 15th of every month, a schedule that runs until Mar 15 2027. The Sep 15 and Oct 15 2026 batches fell inside the last 90 days. The next 90 days hold three batches, Nov 15 and Dec 15 2026 and Jan 15 2027, or **381M** STRK. Once the Nov 15 2026 batch is out, about **508M** STRK is still locked for this group, to be released in four more steps.
+**Vesting unlocks.** Early team members and investors receive up to **127M** STRK on the 15th of every month. Sep 15, Oct 15 and Nov 15 2026 all fell inside the window, for **381M** STRK. The same amount is due on Dec 15 2026, Jan 15 2027 and Feb 15 2027. After Nov 15 2026 there is **508M** STRK left in this lock-up, and the final batch opens on Mar 15 2027, after which this source of supply ends.
 
-**Foundation and unscheduled unlocks added 433.55M STRK.** A chain of large reserve wallets, most likely the Starknet Foundation's, hands STRK out to the market and to its programs. Those coins do not count as circulating until they leave. In the last 90 days the reserve let out **200M** on Sep 10, **150M** on Oct 17 and **83.55M** on Oct 27 2026. There is no published calendar for these releases, but coins left the reserve in 10 of the last 12 months, about **1.09B** STRK in a year. At that pace about **267.61M** more STRK leaves in the next 90 days.
+**Foundation and unscheduled releases.** This is the largest stream and the least predictable one. Starknet Foundation reserve wallets sent out **200M** STRK on Sep 10 2026, **150M** on Oct 17 2026 and **83.55M** on Oct 27 2026, a total of **433.55M**. The Foundation counts its coins as circulating only once they leave these wallets for grants, rewards and other programmes. Over the last 12 months the same wallets let out about **1.09B** STRK, which works out to roughly **268M** every 90 days, and that pace is the forward figure for this row. There is no public calendar, so a single month can bring much more or nothing at all.
 
-**Long-term locked or bankruptcy coins added nothing.** No court case, failed exchange or wound-down fund holds STRK waiting to be paid out, and no other long lock ends in the window.
+**Long-term locked or bankruptcy.** No court case, bankrupt firm or long-dated lock holds STRK for a later release. This row is zero.
 
 ## Buy pressure: where new STRK goes
 
-**Programmatic buyback: 0.** Nobody buys STRK back on Starknet's behalf. There is no buyback contract, no buyback plan and no vote for one.
+**Programmatic buyback.** Zero. No contract, treasury or approved vote buys STRK on the market. Users pay their fees in STRK to StarkWare, the company that runs the network, and part of those fees is swapped for ETH to pay for posting Starknet data to Ethereum.
 
-**Protocol fee burn: 0.** Starknet users pay their fees in STRK, but those fees go to the company that runs the network, and none of it is destroyed. Not a single STRK was burned between Aug 17 and Nov 15 2026.
+**Protocol fee burn.** Zero. Starknet destroys no part of its fees, and the total count of STRK moved only upward across the window.
 
-**Foundation buy: 0.** The Starknet Foundation hands STRK out; it does not buy STRK back. No company or fund has a public plan to keep buying STRK.
+**Foundation buy.** Zero. The Foundation and StarkWare hand out STRK; neither has a plan to buy it back. Trading by exchanges and funds moves coins that already circulate, so it changes nothing here.
 
-**New long-term lock: 0.** About **1.76B** STRK is staked, but stakers can leave after a **7-day** wait and their coins still count as circulating, so a bigger stake takes nothing out of the count.
+**New long-term lock.** Zero. Staked STRK can be withdrawn after a **7-day** wait, so it still counts as circulating. The stake grew from about **1.64B** in late October 2026 to **1.83B** STRK, which raises staking pay but takes no coins out.
 
 ## Foundation and overhang
 
-The reserve still holds about **1.80B** STRK, more than a sixth of all STRK. About **1.00B** sits in one safe that has not moved since April 2026, when it passed **1.5B** STRK to a second wallet. That second wallet now holds **800M** STRK and is the one that pays out: it sent the Sep 10 and Oct 17 2026 batches. The **150M** STRK sent on Oct 17 2026 is still parked in a go-between wallet that has always passed coins on, so it is already part of the float and will not be counted twice when it moves.
+Two Starknet Foundation reserve wallets on Ethereum still hold coins that are not yet counted as circulating: a reserve safe with **1.00B** STRK, untouched since Apr 21 2026, and the paying wallet that feeds the monthly hand-outs, down from **1.15B** to **800M** STRK over the window. Together that is about **1.80B** STRK, close to a quarter of today's float. Add the **508M** STRK still inside the team and investor lock-up and roughly **2.31B** STRK sits behind the circulating count. Every coin of it becomes new supply the day it moves out.
 
-The other big block is the **508M** STRK still locked for early team members and investors after the Nov 15 2026 batch, which opens on a fixed calendar through Mar 15 2027. Any further STRK the reserve lets out adds to the Foundation release line.
+One more wallet that took part of the October hand-out still holds **150M** STRK. Those coins already count as circulating, so when they move again nothing new is added.
 
-## How STRK compares to other Ethereum layer 2 chains
+## How STRK compares to other Ethereum Layer 2 chains
 
-Among Ethereum layer 2 coins, STRK is the one that does everything at once. Arbitrum's ARB also opens a team and investor batch every month and has a Foundation that spends coins, but ARB has a fixed supply and does not pay stakers, so no new ARB has been created. Mantle's MNT and Immutable's IMX are similar: a fixed supply, with growth only when the treasury pays out. STRK adds a third source on top of unlocks and treasury spending: new coins for stakers that grow as the stake grows.
+STRK stands out among Ethereum Layer 2 coins because it carries three supply streams at once. Arbitrum's ARB also releases a fixed amount each month to its team and investors, about **92.65M** ARB on the 15th until early 2027, but ARB has no staking pay, so its count is mostly a calendar. STRK adds two more layers on top of its calendar: a staking curve that creates new coins every few days, and Foundation hand-outs that in this window were larger than the calendar itself.
 
-Polygon's POL is the closest match on minting, since it creates new POL every day for stakers and a community treasury. But POL has finished vesting and saves up its base fees to burn, so part of its new supply has a way out. STRK has neither: its fees are not burned, and its monthly unlocks keep running until Mar 15 2027.
-
-That mix makes STRK one of the fastest-growing supplies among large layer 2 coins today. The growth comes mostly from coins that were made long ago and are now being released, not from new minting, so it should slow once the investor calendar ends in March 2027 and if the reserve slows its hand-outs.
+Ethereum, the chain Starknet settles on, burns part of every fee, which offsets some of the new ETH paid to its validators. Starknet has no such burn, and its fees go to the operator rather than back to the coin. That leaves STRK with no built-in force pulling supply down, which is why its 90-day rise is many times larger than that of most large chains.
 
 ## What to watch in the next 90 days
 
-**Dec 15 2026 and Jan 15 2027:** two more **127M** STRK team and investor batches are due, on top of the one released on Nov 15 2026.
+**Dec 15 2026, Jan 15 2027 and Feb 15 2027:** three more team and investor unlocks of up to **127M** STRK each, already counted in the forward figure.
 
-**The reserve wallets:** about **1.80B** STRK sits in the reserve, and the **150M** parked since Oct 17 2026 is the first batch likely to move. A month with no release would pull the next reading down; a large one would push it up.
+**Nov 27 to Dec 4 2026:** the vote on SNIP-45, which would let validators vote with the STRK staked through them unless the owners vote themselves. It changes no supply, but it shapes who decides any future change to staking pay or Foundation spending.
 
-**The staking curve:** the stake keeps rising, and the new-coin batches came every two to three days in November 2026 instead of every three. Any change to the curve's setting has to be announced on the community forum two weeks before it takes effect.
+**The Foundation paying wallet:** it holds **800M** STRK and has let out coins in most months of the past year. A large move from it, or from the **1.00B** STRK reserve safe, would push the next 90 days above the forward figure.
 
-**The layer 1 plan:** holders backed research into turning Starknet into its own base chain in a non-binding vote that closed on Oct 22 2026. A real move would need a second, binding vote, and a new base chain could bring new rewards that change how STRK is created.
+**Mar 15 2027:** the last lock-up batch. After that date the monthly team and investor unlocks stop, and Foundation releases plus staking pay become the only sources of new STRK.
+
+**The layer 1 research:** holders backed research into turning Starknet into its own base chain in a poll that closed on Oct 22 2026. No change to fees, burns or staking pay has been proposed yet; any such plan would change this picture.
 
 ## Summary
 
-Starknet's STRK supply grew **+9.48%** in the 90 days to Nov 15 2026, and we expect about **+8.97%** in the next 90 days, close to the **+9.88%** other trackers show. The growth comes from three places: reserve wallets that hand out STRK most months, a **127M** STRK unlock for early team members and investors on the 15th of every month until Mar 15 2027, and new STRK paid to stakers. Nothing removes STRK, because fees are not burned and nobody buys coins back. The main risk is the **1.80B** STRK still in the reserve, which has no published release schedule.
+STRK supply grew **+10.91%** between Aug 27 and Nov 25 2026, adding about **854.85M** STRK to a float now near **7.83B**.
 
-*MrNasdog Pressure Framework analysis of STRK, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 15 2026.*
+The biggest source was Starknet Foundation reserve wallets at **433.55M** STRK, followed by **381M** from monthly team and investor unlocks and **40.3M** newly created for stakers.
+
+Starknet has no burn and no buyback, so nothing offsets the new coins, and about **688.91M** more STRK, or **+8.79%**, is expected in the next 90 days.
+
+About **2.31B** STRK still sits in Foundation wallets and the lock-up, so STRK supply keeps growing well into 2027 even after the last monthly unlock on Mar 15 2027.

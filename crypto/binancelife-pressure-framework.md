@@ -1,6 +1,6 @@
 ---
 title: "BLIFE Inflation Analysis · November 2026 · Mixed flows · supply roughly steady"
-description: "BinanceLife (BLIFE, 币安人生) supply in 90 days: 0.00%. A fixed 1B meme coin on BNB Chain with no owner, no minting, no unlocks and no burn, flat to Feb 2027."
+description: "BinanceLife (BLIFE, 币安人生) supply in 90 days: 0.00%. All 1B coins were made at launch; no mint, no owner, no unlocks, no burn. Flat again to Feb 23 2027."
 canonical_url: "https://mrnasdog.com/research/binancelife/inflation"
 tags: ["crypto", "blife", "binancelife", "memecoin"]
 published: true
@@ -12,62 +12,54 @@ Originally published at [BLIFE Inflation Analysis · November 2026 · Mixed flow
 <!-- main-page -->
 Looking for the buy-or-sell answer? It is on the BLIFE coin page, with demand and price drivers: [mrnasdog.com/research/binancelife](https://mrnasdog.com/research/binancelife)
 
-BLIFE supply did not move in the 90 days from Aug 17 to Nov 15 2026, a net **0.00%**, and it cannot move in the next 90 days either: mixed flows in name, a frozen supply in fact. BinanceLife (币安人生) is a meme coin on BNB Chain whose **1B** coins were all made on launch day, Oct 4 2025, by a contract that now has no owner and no way to make more. Nothing was added, nothing was burned, and other trackers read about **−0.01%** for the same 90 days, which is the same flat line.
+BLIFE supply did not move at all in the last 90 days: **0 BLIFE** were created and **0 BLIFE** were removed between Aug 27 and Nov 25 2026, a net change of **0.00%**, and the next 90 days look the same. BinanceLife (币安人生) is a meme coin on BNB Chain whose full supply of **1B** was created on its launch day, Oct 4 2025, and sold to the public with no team or investor share. Other trackers show **+0.0032%** for the same 90 days, a rounding-sized difference.
 
 ## The verdict, in one paragraph
 
-From Aug 17 to Nov 15 2026 the BLIFE supply changed by a net **0.00%**, and the next 90 days, to Feb 13 2027, also come to **0.00%**, because no new coin can be made and no coin is waiting to unlock. Other trackers show **−0.01%**, a difference of **0.01 percentage points**, so the coin page carries no warning note. The total on the chain read exactly 1,000,000,000 BLIFE at the start of the window, at its end, and again on Nov 15 2026. In one line: BinanceLife is a finished, fixed-supply meme coin, where the price is set only by who buys and who sells the coins that already exist.
+BLIFE's net 90-day supply change is **0.00%**, and the next 90 days, from Nov 25 2026 to Feb 23 2027, are also **0.00%**. Other trackers read **+0.0032%**, a gap of **0.003 points**, so the coin page carries no warning note. Every one of the 1B BLIFE has been trading since launch, the contract can no longer make new coins, and nothing takes coins away. The label that fits BLIFE is **a fixed, fully unlocked meme coin with no supply flows**: whatever moves its price comes from trading, not from new coins or burns.
 
 ## Sell pressure: where new BLIFE comes from
 
-Protocol inflation is **0**. The BLIFE contract made all 1B coins once, when it was set up through a BNB Chain meme launchpad. The only code path that ever made coins now refuses to run again, and the owner role was given up, so nobody holds a key that could print more. There is no staking reward, no mining and no reward pool paying out new BLIFE.
+Protocol inflation is **0**. BinanceLife created all 1B BLIFE in a one-time setup on Oct 4 2025, and that setup now refuses to run a second time. The BLIFE contract has no mint function and no owner, and the total supply read exactly 1B both on Aug 27 2026 and on Nov 25 2026.
 
-Vesting unlocks are **0**. BinanceLife launched the meme-coin way: anyone could buy from the first minute, and no share was held back for a team, investors or a treasury. The wallet that started the coin bought in the open like everyone else and holds no BLIFE today, so there is no cliff and no monthly release to wait for.
+Vesting unlocks are **0**. BLIFE launched on the Four.meme launchpad, where every coin is sold to the public from the first trade. No team, adviser or investor allocation was ever held back, so no unlock calendar exists.
 
-Foundation and unscheduled unlocks are **0**. There is no foundation, company or DAO behind BLIFE. Every one of the 1B coins already counts as circulating, so even when a large holder sells, that is a coin changing hands, not a new coin reaching the market.
+Foundation and unscheduled unlocks are **0**. BinanceLife has no team, company or foundation wallet, and the wallet that created the coin holds none. The coins that sit in large wallets are already counted as circulating, so moving or selling them adds no new BLIFE.
 
-Long-term locked or bankruptcy supply is **0**. No court case, failed firm or long lock is holding BLIFE to release later.
+Long-term locked or bankruptcy supply is **0**. No court case, bankrupt firm or long lock holds BLIFE for a later release.
 
 ## Buy pressure: where new BLIFE goes
 
-A programmatic buyback is **0**. BLIFE has no product that earns fees and no treasury, so there is nothing to fund a buyback.
+Programmatic buyback is **0**. BinanceLife earns no fees and keeps no treasury, so nothing buys BLIFE back.
 
-A protocol fee burn is **0**. The contract has no burn function and no transfer tax. About **433.08K BLIFE** sit in a well-known dead address, a wallet nobody can spend from, and almost all of them were sent there before Aug 17 2026; only about 6 more BLIFE arrived during the 90 days. The on-chain total did not fall, and those coins are still counted inside the 1B circulating figure, so they take nothing out of the count.
+Protocol fee burn is **0**. The BLIFE contract has no burn function. Holders sent about **5.79 BLIFE** to the dead address between Aug 27 and Nov 25 2026, where some **433.08K BLIFE** now sit, but the 1B total did not change, so those coins still count as circulating.
 
-A foundation buy is **0**. No company or fund buys BLIFE for a reserve. Exchanges hold about two thirds of all coins, but they hold them for their users, so that balance is the market itself, not coins taken off it.
+Foundation buying is **0**. No team or foundation exists to buy BLIFE, and buying by traders or exchanges only moves coins that already circulate.
 
-A new long-term lock is **0**. BLIFE has no staking and no lock-up, and no plan to lock or burn coins has been announced.
+New long-term locks are **0**. BLIFE has no staking and no lock contract, so no coins leave circulation that way.
 
 ## Foundation and overhang
 
-BinanceLife has no team-controlled overhang. There is no foundation, company, DAO or reserve wallet, and the wallet that launched the coin held **0 BLIFE** on both Aug 17 and Nov 15 2026. The launchpad that sold the first coins keeps only about **615 BLIFE**.
+BinanceLife has no team-controlled overhang: no foundation, no company, no treasury and no creator balance. The largest holder is Binance. Two Binance wallets held about **665.83M BLIFE** on Nov 25 2026, roughly two thirds of all coins, for the exchange's customers. Those coins belong to the people who deposited them, so they are not an overhang of the project, but they do show how much of BLIFE trades on one exchange. The main trading pool on BNB Chain held about **7.34M BLIFE** on the same day.
 
-The big balances belong to exchanges and to private buyers. Two Binance wallets held about **662.39M BLIFE** together on Nov 15 2026, around two thirds of the supply, a little below the 664.35M they held on Aug 17 2026, and a third Binance wallet that held about 1.25M BLIFE was emptied in the same weeks. The main BLIFE trading pool on BNB Chain held about **7.57M BLIFE**. At least 18 private wallets that have never sent a single transaction hold about **249.29M BLIFE**, a quarter of the supply, and not one of them moved between Aug 17 and Nov 15 2026. These are not team coins, so they do not count as supply waiting to come out, but a large private wallet selling would still weigh on the price.
-
-We read these wallets again at every rebuild. If a team-held wallet is ever found and its balance falls between checks, the coins it sends out will be counted in Foundation and unscheduled unlocks at the next check.
+These wallets are checked again at every rebuild. If a wallet tied to a BinanceLife team ever appears and its balance falls between checks, the outflow enters Sell #3 at the next refresh.
 
 ## How BLIFE compares to other BNB Chain meme coins
 
-Most meme coins launched on BNB Chain launchpads share BLIFE's shape: a fixed supply made once at launch, an owner role given up, no vesting and no tax. Within that group BLIFE stands out only for its size and for where its coins sit. Because it is listed on the largest exchange, most of its coins live in exchange wallets rather than in the trading pool, so its supply story is the same as its peers' but its trading happens mainly off the chain.
+BLIFE sits in the simplest group of meme coins: fixed supply, fully sold at launch, no tax, no burn. That puts it next to launchpad coins that came out of the same BNB Chain meme wave, and to fair-launch coins such as PEPE, whose supply was also created once and never added to. For every coin in that group, supply pressure is zero by design, and the price is driven only by who buys and who sells.
 
-Against meme coins on other chains, the difference is the mechanism. Dogecoin has no cap and adds new coins to miners every minute, so its supply grows a little every year. Some meme coins run a burn, so their supply slowly shrinks when people send coins to be destroyed. BLIFE has neither: no new coins and no built-in burn, so its supply line is flat by design.
+Dogecoin is the opposite case. Dogecoin has no supply cap and miners receive new DOGE with every block, so Dogecoin holders absorb fresh coins all the time. BLIFE holders face none of that.
 
-Against BNB, the chain's own coin, the gap is bigger still. BNB runs a regular burn tied to a schedule, so its supply falls over time. BLIFE has nothing like that, and nothing on the supply side will help or hurt the price; all of the pressure comes from demand.
+Some meme coins add machinery on top: a trading tax that funds buybacks, a burn portal, or large team and ecosystem wallets that unlock over years. Those coins can show supply shrinking or growing from one quarter to the next. BLIFE has none of those parts, which makes its supply easy to read but also means no built-in buyer ever steps in.
 
 ## What to watch in the next 90 days
 
-Binance withdrawals: after the Oct 29 2026 hack, Binance said on Nov 12 2026 that affected users were fully repaid and, on Nov 14 2026, that it aimed to reopen all withdrawals within about a week. With about two thirds of all BLIFE in Binance wallets, coins leaving the exchange would change who holds BLIFE, but not how many exist.
-
-Large private wallets: the biggest private holders have not moved in months. A first move from any of them would be the clearest sign of selling to come, even though it adds no new supply.
-
-Trading venues: Binance removed the BLIFE cross-margin pair on Oct 30 2026, while spot trading continued. Any further change to where BLIFE trades would matter for demand, not for supply.
-
-The next check: by Feb 13 2027 the supply should still read exactly 1B BLIFE. Any change there would mean the contract can do something we have not found, and we would say so at once.
+The next re-check of the BLIFE ledger is due around **Dec 5 2026**; it will again read the total supply, the dead address and the largest wallets. BLIFE marks one year on Binance's spot market on **Jan 7 2027**, and any exchange review that changes that listing would hit trading, not supply. Large moves out of the two Binance wallets that hold about 665.83M BLIFE are worth watching, because they would show coins moving into private hands. A Korean market report on **Nov 25 2026** found that BNB Chain meme coins are losing trading money, with Chinese meme coins among the few still holding up. The current 90-day forward window closes on **Feb 23 2027**.
 
 ## Summary
 
-BLIFE supply was flat at **0.00%** in the 90 days to Nov 15 2026 and will stay flat in the next 90 days, because all **1B** BinanceLife coins were made on Oct 4 2025 and the contract cannot make more. There is no vesting, no team wallet, no buyback and no burn, so nothing on the supply side pushes the price up or down. The real risk sits with holders: about two thirds of the coins are on one exchange and a few large private wallets hold a big share of the rest. For BinanceLife, the whole price story is demand.
+BinanceLife (BLIFE, 币安人生) is a fixed-supply meme coin on BNB Chain: all **1B BLIFE** were created at launch on Oct 4 2025 and every coin already trades. Between Aug 27 and Nov 25 2026, BLIFE supply changed by **0.00%**, and the next 90 days are also **0.00%**, because the contract cannot mint and nothing burns or buys back coins. The main risk is not new supply but concentration: about two thirds of all BLIFE sits with one exchange, and the coin has no product or buyer of its own. Supply can never rise above the 1B cap.
 
 ---
 
-*MrNasdog Pressure Framework analysis of BLIFE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 15 2026.*
+*MrNasdog Pressure Framework analysis of BLIFE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 25 2026.*

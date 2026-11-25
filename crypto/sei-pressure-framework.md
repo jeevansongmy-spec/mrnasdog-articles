@@ -1,6 +1,6 @@
 ---
 title:     "SEI Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
-description:  "SEI supply is growing: 251.11M SEI from team and investor unlocks plus 40.80M new SEI for stakers in 90 days, +4.34% net, with no burn and no buyback."
+description:  "SEI supply keeps growing: 293.33M SEI from monthly team and investor unlocks plus 40.80M new SEI for stakers in 90 days, +4.96% net, with no burn at all."
 canonical_url: "https://mrnasdog.com/research/sei/inflation"
 tags:     ["crypto", "sei", "layer1", "staking"]
 published:   true
@@ -11,58 +11,62 @@ published:   true
 This is the long supply read. For the signal, the price drivers and the questions people ask about Sei Network, see [mrnasdog.com/research/sei](https://mrnasdog.com/research/sei).
 # SEI Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 
-SEI supply grew about **+4.34%** in the 90 days from Aug 17 to Nov 15 2026, and it should grow about **+4.14%** in the next 90 days: supply growing, and projected to keep growing. Two things add SEI. Team members and private-sale investors unlock coins on the 15th of every month, which released **251.11M SEI** in the window, and the chain pays stakers new coins every day, **40.80M SEI** in the same 90 days. Nothing takes SEI back, and no more than 10B SEI can ever exist. Other trackers show about **0%**, because the circulating figure they use has not moved since July.
+*Checked Nov 25 2026*
+
+SEI supply grew by a net **+4.96%** from Aug 27 to Nov 25 2026, and the next 90 days look almost the same at about **+4.97%**: supply growing, and projected to keep growing. Two streams feed it. Monthly unlocks for the team and private-sale investors freed **293.33M SEI**, and the chain paid stakers **40.80M** brand-new SEI. Nothing takes SEI back, and the total can never pass **10B SEI**. Other trackers still show about **0%**.
 
 ## The verdict, in one paragraph
 
-From Aug 17 to Nov 15 2026 the SEI that counts as circulating grew by a net **+4.34%**, and the next 90 days come to about **+4.14%**. Other trackers show close to **0%**, a difference of about **4.33 percentage points**, so the coin page carries a warning note. Their circulating figure has stayed at exactly 6,733,333,333 SEI since at least Jul 19 2026, while the chain kept paying stakers every day and the monthly unlocks kept arriving. That flat figure is not a sign that SEI stopped growing. In one line: SEI is a capped proof-of-stake coin still in its unlock years, where every month adds about 1.6% more coins and nothing removes any.
+Over the 90 days from Aug 27 to Nov 25 2026, Sei added **334.13M SEI** to the coins that can be traded, a net **+4.96%** on the **6.73B SEI** counted as circulating, with nothing removed. The next 90 days hold three more monthly unlocks and the same staking pay, about **+4.97%**. Other trackers show close to **0%**, a difference of about **4.94 percentage points**, so the coin page carries a warning note. The reason is simple: the circulating figure they use has stood at exactly 6,733,333,333 SEI every day since Mar 15 2026, while the chain kept paying stakers and the monthly unlocks kept landing. SEI is a capped coin still deep in its unlock years, and right now it grows by roughly a fifth every year with no brake on the other side.
 
 ## Sell pressure: where new SEI comes from
 
-Protocol inflation pays stakers. The chain follows a ten-year plan written into its own settings, which creates 1.5B SEI in total between August 2023 and August 2033, a little less each year. In the year that began on Aug 15 2026 the chain makes about **453,297 SEI** a day, which came to **40.80M SEI** over the 90 days. The rate stays the same until Aug 14 2027 and then drops to about 370,879 SEI a day.
+**Protocol inflation.** Sei pays its stakers by creating new SEI once a day, following a ten-year calendar built into the chain that ends in 2033. The calendar adds **1.5B SEI** on top of the 8.5B created at launch, and the yearly share shrinks over time. The year that started on Aug 15 2026 carries 165M SEI, about 453,297 a day, so the window held **40.80M SEI**. The amount per day stays put until Aug 15 2027, when the year's share drops to 135M.
 
-Vesting unlocks are the bigger source. Private-sale investors bought 2B SEI before launch and receive **55.56M SEI** on the 15th of each month until Aug 15 2027. Their Sep 15, Oct 15 and Nov 15 2026 batches add up to **166.67M SEI**. The team's 2B SEI sits in two locked contracts on the chain that pay **42.22M SEI** a month between them. They paid out the Sep 15 and Oct 15 batches, **84.44M SEI**, inside the window. The Nov 15 team batch is unlocked but was still inside the contracts on Nov 15 2026, so it counts in the next 90 days. Together, unlocks released **251.11M SEI**.
+**Vesting unlocks.** This is the big one. On the 15th of every month a batch of team and investor coins unlocks. Sep 15, Oct 15 and Nov 15 2026 released **293.33M SEI**: 55.56M a month to private-sale investors and 42.22M a month from the two team vesting contracts, which paid every batch out to the team's wallet. The same **97.78M SEI** lands on Dec 15 2026, Jan 15 2027 and Feb 15 2027.
 
-Foundation and unscheduled unlocks add nothing this time. The Foundation and the ecosystem fund hold roughly 1.11B SEI outside circulation in wallets that are not labeled on-chain, and no release from them was seen in the window. Long-term locked or bankruptcy holdings add nothing either: no court case or failed firm holds SEI.
+**Foundation and unscheduled unlocks.** Zero. The Foundation's own share finished unlocking in 2025, and no wallet tied to the project released coins outside the monthly calendar in the window.
+
+**Long-term locked or bankruptcy.** Zero. No court or bankrupt firm holds SEI for a later payout.
 
 ## Buy pressure: where new SEI goes
 
-There is no programmatic buyback. No contract or treasury buys SEI back from the market.
+**Programmatic buyback.** Zero. Sei has no contract or treasury that buys SEI back, and it has never announced one.
 
-There is no protocol fee burn. Fees on Sei go to validators and stakers, and the chain's total supply grew by exactly the staking pay and nothing more, so no SEI was destroyed.
+**Protocol fee burn.** Zero. Unlike Ethereum, Sei does not destroy the base fee; every fee goes to validators and the people who stake with them. Since launch in 2023 the chain has lost only about 1,000 SEI in total, far too little to matter.
 
-There is no Foundation buy. Staked SEI funds and other large buyers buy coins that already circulate, so their buying does not shrink the count.
+**Foundation buy.** Zero. Neither the Foundation nor the team buys SEI on the market. Fund managers have filed to run US funds that would hold and stake SEI, but any coins they buy are already circulating, so they would not change the count.
 
-There is no new long-term lock. About **4.08B SEI** is staked, but staked SEI still counts as circulating, so staking removes nothing. Buy pressure for the window is **0 SEI**.
+**New long-term lock.** Zero. About **4.09B SEI** is staked, yet staked SEI still counts as circulating, so staking takes nothing out of the market. A draft plan would shorten the wait to unstake from 21 days to 7.
 
 ## Foundation and overhang
 
-The team's first locked contract holds **222.86M SEI**, paid out monthly until Aug 15 2027. The team's second contract holds **680M SEI**, paid out at 20M SEI a month until Aug 15 2029. Both contracts keep most of their coins staked and pay to one team wallet, which held about 7.58M SEI on Nov 15 2026.
+The largest overhang is the team's. Its two vesting contracts still hold **860.63M SEI**, all of it staked: the first holds 200.63M and pays about 22.22M a month until Aug 2027, the second holds 660M and pays 20M a month until Aug 2029. The team's payout wallet keeps only about 7.58M SEI loose, which means the monthly batches do not pile up there.
 
-The Foundation and the ecosystem fund hold roughly **1.11B SEI** outside circulation, spread across wallets that are not labeled on-chain and with no public release schedule. These coins add nothing to the count until they move, but they are the largest stock of SEI that could reach the market without a fixed date. Separately, the staking plan still has about 752.84M SEI left to create over the years to August 2033.
+Private-sale investors have **500M SEI** still to unlock, in nine monthly batches of 55.56M that end on Aug 15 2027. The staking calendar has another **748.31M SEI** to create between now and 2033. The project's own count also releases about 22M SEI a month from its ecosystem reserve, but no wallet shows those coins moving yet, so they sit as a watched overhang, not as new supply. Add it up and about **2.18B SEI**, close to a fifth of the 10B cap, is still to reach the market.
 
 ## How SEI compares to other proof-of-stake Layer 1 chains
 
-Most young proof-of-stake chains look alike in their first years: a large share of coins locked for the team and early investors, released month by month, plus new coins for stakers. SEI fits that pattern, with one difference in the staking pay. Many chains pay stakers by a yearly rate that rises with the supply. Sei pays by a fixed calendar that shrinks every August, so the new coins for stakers fall each year whatever the price or the stake.
+Ethereum pays validators in new ETH but burns part of every fee, and it has no unlock calendar left, so its supply grew only **+0.21%** in its latest 90 days. Sei has neither a burn nor finished unlocks, which is why its number is more than twenty times larger.
 
-What SEI lacks is anything on the other side. Ethereum burns part of every fee, and some other Layer 1 chains burn fees or buy back coins with network income. Sei sends its fees to validators and stakers, and fee income on Sei is small, so even a burn would take back very little. For now the only thing that slows SEI's growth is the calendar: the private-sale unlocks end on Aug 15 2027, and after that the team's second contract and the shrinking staking pay are what is left.
+The closer peers are the chains that launched with big team and investor batches on a monthly calendar. Aptos grew about **+3.54%** in its latest 90 days and Sui about **+1.55%**, both with large shares still locked. Sei grows faster than both because its investor schedule is short, three years after a one-year wait, so the batches are big and close together until Aug 2027. That month both the private sale and the first team contract finish, the monthly batch falls to 20M SEI, and the pace should drop by nearly three quarters.
 
 ## What to watch in the next 90 days
 
-The Nov 15 2026 team batch of **42.22M SEI** is unlocked and waiting inside the team contracts. It can be paid out on any day now, and it is already part of the next 90-day count.
+**Dec 15 2026, Jan 15 2027 and Feb 15 2027:** three monthly unlocks of about **97.78M SEI** each, the bulk of the next 90 days' new supply. A batch that stays in the team's contracts instead of being paid out would show up here first.
 
-On Dec 15 2026 the next monthly unlock releases about **97.78M SEI**: 55.56M for private-sale investors and 42.22M for the team.
+**SIP-7, the shorter unstaking wait:** a draft from Oct 26 2026 that would cut the exit time from 21 days to 7 with one vote. It moves no coins by itself, but it makes it quicker for stakers to sell.
 
-On Jan 15 2027 the same **97.78M SEI** unlock comes again. The Feb 15 2027 batch falls two days after this 90-day window ends.
+**Autobahn and Giga:** governance passed the Autobahn upgrade on Nov 5 2026 and the chain moved to version 6.8 on Nov 24 2026. Neither changes the staking calendar or adds a burn, so both are about speed, not supply.
 
-A draft plan dated Oct 26 2026 would cut the wait to unstake SEI from 21 days to 7. It has no vote date yet. It would not create or remove any SEI, but it would let stakers, the team contracts included, sell more quickly after they decide to.
+**The staked SEI funds:** fund managers have filed to list US funds that would hold and stake SEI. A launch would add a new buyer of coins already circulating; it would not change the supply count.
 
 ## Summary
 
-SEI supply grew about **+4.34%** in the 90 days to Nov 15 2026 and is set to grow about **+4.14%** in the next 90 days.
+SEI supply grew **+4.96%** from Aug 27 to Nov 25 2026, and the next 90 days look about the same at **+4.97%**.
 
-Monthly unlocks for the team and private-sale investors released **251.11M SEI**, and the chain paid stakers **40.80M** new SEI.
+Monthly team and investor unlocks of about 97.78M SEI do most of the work, and staking pay adds about 453,297 SEI more.
 
-Sei has no fee burn and no buyback, so none of that new supply is taken back.
+Sei has no fee burn and no buyback, so nothing offsets the new coins, and about 2.18B SEI is still to come before the 10B cap.
 
-The private-sale unlocks end on Aug 15 2027, and until then every month adds about 97.78M SEI on top of the staking pay.
+Other trackers show about 0% only because their circulating figure has not moved since Mar 15 2026; the coin page carries a warning note for that.

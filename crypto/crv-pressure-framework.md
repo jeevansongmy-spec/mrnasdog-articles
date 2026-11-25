@@ -1,6 +1,6 @@
 ---
 title: "CRV Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
-description: "CRV supply is growing: 23.99M new CRV to liquidity providers and 11.56M out of ended veCRV locks vs 2.64M newly locked, +2.42% net in 90 days. No buyback."
+description: "CRV supply is growing: 24.08M new CRV to liquidity providers and 11.31M out of ended veCRV locks vs 2.56M newly locked, +2.42% net in 90 days. No buyback."
 canonical_url: "https://mrnasdog.com/research/crv/inflation"
 tags: ["crypto", "crv", "curve", "defi"]
 published: true
@@ -12,54 +12,69 @@ Originally published at [CRV Inflation Analysis · November 2026 · Supply growi
 <!-- main-page -->
 The Curve DAO coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/crv](https://mrnasdog.com/research/crv). Below: supply, line by line.
 
-CRV supply is growing. Between Aug 17 and Nov 15 2026 about **41.13M CRV** reached the market, from liquidity rewards, ended veCRV locks and old airdrop claims, while only **2.65M CRV** left it, so the circulating count rose a net **+2.42%**, close to the **+2.49%** that other trackers show. Curve DAO has a hard cap of **3.03B CRV**, but it is years away, and the next 90 days look like about **+1.96%** more.
+
+CRV supply is growing, and it is set to keep growing. Curve pays its liquidity providers in new CRV every second, old locks keep ending, and nothing buys CRV back or burns it, so new locking is the only thing pulling the other way. From Aug 27 to Nov 25 2026 about **40.96M CRV** reached the market and about **2.56M CRV** left it, for a net rise of **+2.42%**. The next 90 days look a little calmer at about **+1.95%**, and market trackers show about **+2.48%** for the past 90 days.
 
 ## The verdict, in one paragraph
 
-Over the 90 days to Nov 15 2026, CRV supply in circulation grew **+2.42%**. Other trackers put the same stretch at **+2.49%**, a gap of only **0.06 points**, so the two readings agree and the CRV coin page carries no warning note. For the next 90 days we expect about **+1.96%**: a little less, because the Oct 19 2026 airdrop claim was a one-off, but still well above zero. Label: **inflationary by design, with the lock as the only brake**.
+Between Aug 27 and Nov 25 2026 the number of CRV in circulation rose by about **38.40M**, or **+2.42%**. Market trackers put the same 90 days at **+2.48%**, which is close to our figure, so the coin page carries no warning note. For the next 90 days, to Feb 23 2027, we expect about **+1.95%**. The label is simple: CRV is an inflationary coin. The supply grows a little under 2% a quarter, mostly from rewards, and the coins that leave the market are only a small slice of the coins that arrive.
 
 ## Sell pressure: where new CRV comes from
 
-The biggest source is liquidity rewards. The CRV contract releases a fixed amount every second, and the Curve DAO vote decides which pools receive it. From Aug 17 to Nov 15 2026 liquidity providers claimed **23.99M** brand-new CRV. The rate has been **3.08 CRV a second** since the yearly cut on Aug 12 2026, about 16% below the year before, so the next 90 days print about **23.96M CRV**. The next cut is not due until August 2027.
+The biggest source is protocol inflation. Curve releases a fixed amount of CRV every second to the pools that holders vote for, and people collect it as a reward for adding liquidity. Since the yearly cut on Aug 12 2026 the rate has been about **266,200 CRV a day**. From Aug 27 to Nov 25 2026, **24.08M CRV** was created this way, slightly more than the rate alone, because some rewards earned earlier were collected in the window. For the next 90 days the rate gives about **23.96M CRV**. The next cut, which lowers the rate by about 16%, comes on Aug 12 2027.
 
-The second source is an old airdrop. Curve's earliest users were given 151.5M CRV in 2020, fully vested since August 2021, but each owner has to claim it. **5.57M CRV** was claimed in this window, and 5.29M CRV of that went out on Oct 19 2026 alone, when one account claimed for 200 owners in a row. About **4.73M CRV** is still waiting. Ordinary claims run near **0.28M CRV** per 90 days, and that is all we expect next, unless someone pushes another large batch.
+The second source is old vesting. When Curve started in 2020, early users of its pools were given CRV that finished vesting in August 2021, yet a part of it was never collected. In the window, **5.57M CRV** was collected. Almost all of it, **5.29M CRV**, came on Oct 19 2026, when a single address collected on behalf of 200 wallets in a row. Normal collecting is much slower, near 278K CRV every 90 days, and that is what we expect next. About **4.73M CRV** is still waiting to be collected.
 
-The Curve DAO community fund, the third source, paid nothing out. It holds only **845.14K CRV** today, after years of grants, so it can no longer add much.
+The Curve DAO community fund, its treasury and the grant contracts paid nothing new into the market. The community fund still holds **845,144 CRV**, and it only pays out when holders vote for a grant.
 
-The fourth source is ended veCRV locks. Holders lock CRV for up to four years to vote and earn fees, and when a lock ends the coins can come back out. **11.56M CRV** did between Aug 17 and Nov 15 2026. Another **14.08M CRV** sits in locks that have already ended, and **7.08M CRV** of locks end in the next 90 days, 5.44M CRV of them on Jan 7 2027. Lately about 45% of the CRV that could leave did leave, which points to roughly **9.54M CRV** coming out next. No court case or bankrupt firm holds CRV waiting to be paid out.
+The third source is ended locks. Holders lock CRV as veCRV for up to four years to vote and to earn a share of the fees. When a lock ends, the owner can take the coins back. From Aug 27 to Nov 25 2026, **11.31M CRV** came out this way, most of it in late September, when four large holders withdrew about 7.85M between them. Another **14.05M CRV** has finished its lock but is still sitting in place, and **7.01M CRV** more reaches its end date by Feb 23 2027. At the pace seen this autumn, about **9.39M CRV** should come out in the next 90 days.
 
 ## Buy pressure: where new CRV goes
 
-Curve runs no buyback. Trading and lending fees go to veCRV holders, paid in crvUSD, Curve's own dollar coin, so the fee money never buys CRV. A Curve DAO vote opened on Nov 13 2026 would change how Curve sells the fees it collects for crvUSD, not what that money buys. No part of the fees is burned either, and the Curve DAO did not buy CRV on the market.
+There is no buyback. Curve pays its fees to veCRV holders in crvUSD, its own stablecoin, so none of that money is spent on CRV. On Nov 20 2026 founder Michael Egorov said a buyback would achieve little at today's fee level.
 
-The one real buyer is the lock. Holders put **2.64M CRV** into new veCRV locks in the window, which takes those coins out of circulation for years. That is a fraction of what the lock gave back. In total **841.89M CRV** is locked, and three yield platforms, Convex, StakeDAO and Yearn, hold **628.33M CRV** of it, all kept at the full four years. A small amount also vanished for good: **12.78K CRV** was burned by holders or sent by mistake to the CRV token's own address.
+There is no fee burn either. On Nov 10 2026 an attacker took about $38,200 of fees from the contract that turns fees into crvUSD, and a DAO vote on Nov 13 2026 set up a replacement. Both tools sell fee tokens for crvUSD; neither destroys CRV.
+
+Neither the DAO nor Swiss Stake, the company that builds Curve, buys CRV on the market. The DAO pays its helpers in CRV it already holds.
+
+New locking is the one real buyer. From Aug 27 to Nov 25 2026, new veCRV locks took **2.56M CRV** off the market, and about 2.02M of that came from Convex, which locks the CRV its users hand in and never unlocks it. We expect a similar amount in the next 90 days.
+
+A tiny amount disappears by mistake. People sent **5,740 CRV** to the CRV token's own address, where it can never move again, and burned another 132 CRV by hand.
 
 ## Foundation and overhang
 
-Curve has no foundation. The coins the Curve side controls sit with the Curve DAO and the company that builds Curve. The community fund holds **845.14K CRV** and is the only one left outside the circulating count. The Curve Treasury holds **5.73M CRV**, filled from the DAO multisig on Aug 26 and Sep 3 2026, and that multisig holds **1.47M CRV** more.
+Curve has no foundation in the usual sense. The Curve DAO, run by veCRV votes, controls the money. Its community fund holds **845,144 CRV** that is not yet counted as circulating, so any new grant from it would add to the supply on the day it is paid.
 
-Vesting contracts hold **2.24M CRV** left of the 17.45M CRV grant to Swiss Stake, the company that builds Curve, funded on Dec 29 2025; **1.86M CRV** and **3.75M CRV** in two contracts the DAO funded in March and April 2026; and **456.41K CRV** in the yRisk risk-team grant that started in September 2026. All of these already count as circulating, so their spending adds no new supply. Holders, not the team, also own the **4.73M CRV** of unclaimed airdrop and the **14.08M CRV** in ended locks. We read every one of these balances again at each rebuild. If the community fund's balance falls between two checks, that outflow enters the foundation row at the next check.
+Several grant pots are already counted as circulating, so when they pay out nothing new reaches the market. The Swiss Stake grant of 17.45M CRV, voted in two halves in December 2025 and April 2026, has **1.92M CRV** left to collect. A grants wallet voted in April 2026 holds **3.75M CRV** and has paid nothing out yet, and the LlamaRisk stream holds **1.86M CRV**. The DAO treasury holds **5.73M CRV**, and in September 2026 it began paying 568,181 CRV over a year to yRisk, the new risk adviser.
 
-## How CRV compares to other DEX governance tokens
+The larger overhang belongs to holders, not to Curve. The **14.05M CRV** in ended veCRV locks can come out on any day, the **4.73M CRV** of early-user CRV can be collected at any time, and one wallet's **5.35M CRV** lock ends on Jan 7 2027.
 
-CRV set the pattern that many exchange tokens later copied: pay liquidity providers in new coins and let holders lock the coin for votes. Aerodrome's AERO works much the same way, with weekly emissions and four-year vote locks. CRV's version is older and slower: its emission never stops, it only shrinks by about 16% each August, and the veCRV lock is the main way coins leave the market.
+## How CRV compares to other vote-locked DeFi exchange tokens
 
-That design makes CRV's supply depend on how much people want to lock. When lockers are keen, new CRV is soaked up almost as fast as it is printed. In this window the lock took in 2.64M CRV and gave back 11.56M CRV, so it added to supply instead of slowing it. Tokens that buy themselves back with fees, such as Hyperliquid's HYPE, have a buyer that grows with use. CRV has none: Curve's fees reach lockers in crvUSD, so busy markets help CRV holders who lock, but they do not reduce the amount of CRV.
+CRV started the model that many exchanges later copied: lock the token to vote, and the votes steer new rewards to chosen pools. Aerodrome's AERO works the same way, paying weekly rewards to the pools that its lockers vote for. The weakness shared by this design is that the rewards keep coming whether or not trading grows.
 
-Against Bitcoin-style coins with halvings, CRV's schedule is smoother: a yearly cut instead of a halving every four years, and a cap of 3.03B CRV that the curve only creeps toward. About **2.43B CRV** exists today, so the cap leaves plenty of room for years of new coins.
+Other exchange tokens take a different route. Uniswap's UNI pays no rewards in new coins and now destroys part of its fees. PancakeSwap's CAKE burns coins every week. Next to those, CRV has the weakest pull on its own supply: its fees go out as a stablecoin, and the only thing that takes CRV off the market is people choosing to lock it.
+
+CRV does have two things in its favour. The reward rate falls every August, by about 16% each time, and a large share of all CRV is locked by Convex, StakeDAO and Yearn, which together hold **628.33M** of the **841.86M CRV** now locked and rarely let any go.
 
 ## What to watch in the next 90 days
 
-On Jan 7 2027 about **5.44M CRV** of veCRV locks end in a single week, the biggest batch in the window. If the owners renew, little reaches the market; if they withdraw, it lands in the sell column.
+On Dec 29 2026 the Swiss Stake grant reaches the end of its year. The last **1.92M CRV** is already counted as circulating, so it changes nothing in the count, but it shows how much the builders sell.
 
-The 17.45M CRV Swiss Stake grant runs out around late December 2026, with 2.24M CRV left to pay. Watch for a new grant vote from the Curve DAO, which could move more CRV out of the community fund or the Treasury.
+On Jan 7 2027 locks worth **5.44M CRV** end, and **5.35M** of that belongs to one wallet. If that owner withdraws instead of locking again, the next 90 days could run above our **+1.95%**.
 
-The pre-CRV airdrop still holds 4.73M CRV. Another batch claim like the one on Oct 19 2026 would add several million CRV in one day.
+By Feb 23 2027 a total of **7.01M CRV** in locks reaches its end date, on top of the **14.05M CRV** that has already ended. Watch how much of it is withdrawn.
 
-Watch the weekly fee payouts to veCRV holders and the new LlamaLend markets now in Curve DAO votes. If they lift the reward for locking, new locks could finally outrun the ended ones.
+The **4.73M CRV** of early-user CRV that is still waiting can be collected at any time. Another bulk collection like the one on Oct 19 2026 would add to the supply at once.
+
+Further out, on Aug 12 2027, the reward rate falls again, to about **223,800 CRV a day**.
 
 ## Summary
 
-CRV supply grew **+2.42%** in the 90 days to Nov 15 2026, in line with the **+2.49%** other trackers show, and we expect about **+1.96%** in the next 90 days. Curve DAO mints about 23.96M CRV every 90 days for liquidity providers, and ended veCRV locks and old airdrop claims add millions more. The only brake is new locking, which took in just 2.64M CRV, because Curve pays its fees in crvUSD instead of buying CRV back. The 3.03B CRV cap is far off, so CRV stays inflationary unless locking demand rises sharply.
+CRV supply grew **+2.42%** from Aug 27 to Nov 25 2026, and we expect about **+1.95%** in the next 90 days.
 
-*MrNasDog Pressure Framework analysis of CRV, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 15 2026.*
+New rewards of about **24M CRV** a quarter are the main source, with ended veCRV locks and old early-user CRV adding more.
+
+Curve neither buys back nor burns CRV, so new locking of about **2.56M CRV** a quarter is the only real offset.
+
+The dates to watch are the **5.35M CRV** lock that ends on Jan 7 2027 and the next cut in rewards on Aug 12 2027.
