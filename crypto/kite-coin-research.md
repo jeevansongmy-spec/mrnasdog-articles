@@ -8,7 +8,7 @@ published:     true
 ---
 # Is KITE Inflationary? +22.04% New Supply in 90 Days
 
-*From https://mrnasdog.com/research/kite, updated Nov 25 2026*
+*From https://mrnasdog.com/research/kite, updated Nov 26 2026*
 
 How much new KITE is coming? **+22.04%** in the next 90 days, **+88.14%** in the next year — checked Nov 16 2026.
 
@@ -45,7 +45,7 @@ Tens of thousands of transactions a day; over 4.4M since Dec 2025.
 | Nov 12 2026 | 67,107 txs |
 | Nov 13 2026 | 84,131 txs |
 | Nov 14 2026 | 81,483 txs |
-| Nov 25 2026 | 47,356 txs |
+| Nov 26 2026 | 34,785 txs |
 
 *Checked Nov 16 2026*
 

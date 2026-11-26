@@ -7,6 +7,9 @@ published: true
 ---
 > Originally published at **[mrnasdog.com/research/bsv/inflation](https://mrnasdog.com/research/bsv/inflation)** by MrNasDog.
 
+<!-- main-page -->
+➜ Start with the Bitcoin SV coin page for the short answer (should you buy BSV?) and its price drivers: [mrnasdog.com/research/bsv](https://mrnasdog.com/research/bsv)
+
 # BSV Inflation Analysis · November 2026 · Mixed flows · supply roughly steady
 
 **Bitcoin SV (BSV)** grew its supply by about **0.20%** in the 90 days to Nov 26 2026, and the same pace is expected for the next 90 days. Every new BSV comes from mining: miners found **12,920** blocks at **3.125 BSV** each, which made **40,375 BSV**, while **0 BSV** was burned or bought back. BSV has a fixed cap of **21M**, **20.12M** are already mined, and the outside supply tracker reads **+0.23%** for the same 90 days.

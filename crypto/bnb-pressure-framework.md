@@ -7,6 +7,9 @@ published:     true
 ---
 *Originally published at [https://mrnasdog.com/research/bnb/inflation](https://mrnasdog.com/research/bnb/inflation)*
 
+<!-- main-page -->
+➜ Start with the BNB coin page for the short answer (should you buy BNB?) and its price drivers: [mrnasdog.com/research/bnb](https://mrnasdog.com/research/bnb)
+
 # BNB Inflation Analysis · November 2026 · Supply shrinking · projected to keep shrinking
 
 **BNB** is deflationary: from Aug 28 to Nov 26 2026 the supply fell by **1.26%**, and the next 90 days should take off about **1.27%** more. No new BNB is ever minted, so the only movement is down, through two burns: the quarterly Auto-Burn, which destroyed **1,646,196 BNB** on Oct 19 2026, and the fee burn on BNB Smart Chain, which destroyed **6,492 BNB**. The supply started at 200M BNB and the burns stop once it reaches 100M BNB; it stands at **131.51M BNB** today.

@@ -7,6 +7,9 @@ published: true
 ---
 *Originally published at [https://mrnasdog.com/research/btt/inflation](https://mrnasdog.com/research/btt/inflation)*
 
+<!-- main-page -->
+The BitTorrent coin page has the score, the price drivers and every question answered — [mrnasdog.com/research/btt](https://mrnasdog.com/research/btt). Below: supply, line by line.
+
 # BTT Inflation Analysis · November 2026 · Supply shrinking · projected to keep shrinking
 
 BitTorrent (BTT) is shrinking. Between Aug 28 and Nov 26 2026 no new BTT reached the market, while the first quarterly revenue buyback burned **21.62T BTT**, so the circulating supply of **968.37T BTT** fell by about **2.23%**. BTT has a fixed supply of 990T that the token contract cannot raise, and the next buyback batch, due around mid-January 2027, should burn about **25.33T BTT** more at today's price, for about **−2.62%** over the next 90 days. Other trackers show **−1.86%** for the same window.

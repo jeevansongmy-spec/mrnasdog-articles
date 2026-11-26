@@ -8,7 +8,7 @@ published:     true
 ---
 # BNB Supply & Demand: −1.27% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/bnb · checked Nov 25 2026*
+*Live page: https://mrnasdog.com/research/bnb · checked Nov 26 2026*
 
 BNB supply changes **−1.27%** over the next 90 days and **−5.08%** over a year (checked Nov 17 2026).
 
