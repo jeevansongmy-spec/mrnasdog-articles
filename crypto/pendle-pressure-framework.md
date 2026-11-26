@@ -1,6 +1,6 @@
 ---
 title:         "PENDLE Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
-description:   "PENDLE supply rose +1.07% in 90 days with no new coins minted: project wallets sent 1.21M and old vePENDLE locks freed 665.60K. 3.28M more locks end soon."
+description:   "No new PENDLE minted since March 2025, yet project wallets and ended vePENDLE locks added 1.76M PENDLE in 90 days, +1.01%. Next: +2.62% as 3.27M locks end."
 canonical_url: "https://mrnasdog.com/research/pendle/inflation"
 tags:          ["crypto", "pendle", "defi", "inflation"]
 published:     true
@@ -12,56 +12,56 @@ Originally published at [PENDLE Inflation Analysis · November 2026 · Supply gr
 <!-- main-page -->
 ➜ Start with the Pendle coin page for the short answer (should you buy PENDLE?) and its price drivers: [mrnasdog.com/research/pendle](https://mrnasdog.com/research/pendle)
 
-PENDLE supply is growing even though no new PENDLE was created: between Aug 18 and Nov 16 2026 project wallets sent **1.21M PENDLE** into the market and ending vePENDLE locks freed **665.60K PENDLE**, so circulating supply rose **+1.07%** in 90 days. The next 90 days look bigger, about **+2.49%**, because **3.28M PENDLE** of old locks end between Nov 16 2026 and Feb 14 2027. Pendle's fee buyback bought **592.88K PENDLE** but hands it to stakers instead of burning it, and other trackers show **+1.41%** for the same window.
+PENDLE's circulating supply is growing even though no new PENDLE has been created since March 2025: between Aug 28 and Nov 26 2026 **1.76M PENDLE** reached the market from project wallets and ended vePENDLE locks, against **0** removed, for a net **+1.01%**, close to the **+0.66%** other trackers show. The total stays at **281.53M**, and the next 90 days look bigger, about **4.57M PENDLE** or **+2.62%**, because **3.27M** of old locks end by Feb 24 2027.
 
 ## The verdict, in one paragraph
 
-Over the 90 days to Nov 16 2026, **1.87M PENDLE** moved from locked or project-held balances into circulation, a net rise of **+1.07%** on a circulating supply of **174.16M PENDLE**, and the next 90 days project **+2.49%**, or **4.34M PENDLE**. Other trackers print **+1.41%**, a gap of **0.34 points**, so the coin page carries no warning note. Total supply did not move at all: it stayed at **281.53M PENDLE** for the whole window. PENDLE is a release-driven coin: its circulating supply grows as old locks end and the project spends its treasury, not because the token mints.
+Over the 90 days to Nov 26 2026, PENDLE's float grew **+1.01%**. Other trackers show **+0.66%** for the same stretch, a gap of **0.35 points**, small enough that the coin page carries no warning note. The next 90 days are set to add **+2.62%**, led by dated lock ends on Dec 24 and Dec 31 2026 and Jan 28 2027. The label that fits: a capped-looking token with no fresh minting whose float still grows from treasury payouts and expiring locks.
 
 ## Sell pressure: where new PENDLE comes from
 
-Protocol inflation added **0 PENDLE**. The token can mint a weekly emission, but only when Pendle's incentives wallet claims it, and the last claim was in March 2025. Rewards for liquidity pools are paid from coins minted long ago, and Pendle said on Sep 18 2026 that its new reward model had cut emissions by about 92% since the start of the year.
+**Protocol inflation** was **0**. The PENDLE token still has its weekly emission built in, but those weekly coins are only created when Pendle's incentives wallet claims them, and that wallet has not claimed since March 2025. The total supply read exactly **281,527,448 PENDLE** at the start and the end of the window. Pool rewards are now handed out from PENDLE the treasury already holds.
 
-Vesting unlocks added **0 PENDLE**. The team, investor and advisor coins finished unlocking in September 2024, so there is no vesting calendar left.
+**Vesting unlocks** were **0**. Every team and investor allocation finished vesting by September 2024, so there is no insider unlock calendar left.
 
-Project wallets added **1.21M PENDLE**. Pendle's governance multisig sent 600K PENDLE to an exchange on Sep 8 2026 and 500K PENDLE to a payout wallet run by one of its own signers on Sep 13 2026. The team multisig sent 70K PENDLE on Aug 26 and 35K PENDLE on Oct 26 2026, both passed on to an exchange. Over the last year these two wallets paid out at a steady pace, so the next 90 days carry about **1.06M PENDLE** more from them.
+**Foundation and unscheduled unlocks** came to **1.14M PENDLE**. The governance wallet sent out **1.1M**: 600K on Sep 8 2026, which reached an exchange within the hour, and 500K on Sep 13 2026 to a wallet that pays contributors and partners. The team wallet paid out **35K** on Oct 26 2026. These two wallets have paid out every one or two months for more than two years, about **5.27M PENDLE** in the last 12 months, so the next 90 days are expected to bring about **1.3M** more.
 
-Long-term locks released **665.60K PENDLE**. Holders of old vePENDLE locks took that much out after their locks ended, and no new vePENDLE locks have been allowed since Jan 29 2026. The next 90 days bring **3.28M PENDLE** of lock ends, with the biggest weeks on Dec 24 2026, Dec 31 2026 and Jan 28 2027. No bankruptcy estate or court case holds PENDLE.
+**Long-term locked coins** added **622.04K PENDLE**. vePENDLE, the old two-year lock, stopped taking new coins on Jan 29 2026 when sPENDLE replaced it, so it only shrinks as locks end and owners withdraw. Locks holding **3.27M PENDLE** end in the next 90 days, most of them in three weeks: **644.62K** on Dec 24 2026, **1.13M** on Dec 31 2026 and **1.10M** on Jan 28 2027.
 
 ## Buy pressure: where new PENDLE goes
 
-The buyback removed **0 PENDLE** from circulation, even though it is real buying. Pendle sends 80% of its yield and swap fees to a buyback contract every two weeks, and that contract bought **592.88K PENDLE** between Aug 18 and Nov 16 2026. Every one of those coins was staked as sPENDLE and paid to active stakers, who can leave after 14 days, so the coins stay in circulation.
+**The programmatic buyback** books **0** even though it is real and steady. Pendle sends 80% of its yield and swap fees to a buyback that bought **609.79K PENDLE** between Aug 28 and Nov 26 2026, roughly half the **1.18M** it bought in the 90 days before, because fees fell. Every bought coin is handed to active sPENDLE stakers as sPENDLE, and staked PENDLE is still counted as circulating, so the buyback adds a buyer without taking coins out of the count.
 
-The fee burn removed **0 PENDLE**, because PENDLE has no burn: the token's burn switch is turned off. The project made no treasury purchases, so the foundation-buy line is also zero. New long-term locks added nothing either: vePENDLE no longer takes new locks, and the **30.65M PENDLE** staked as sPENDLE still counts as circulating because it can be withdrawn in two weeks.
+**The fee burn** is **0**: burning is switched off in the PENDLE token itself, and no fee is destroyed. **Foundation buying** is **0**: the team and governance wallets only paid PENDLE out. **New long-term locks** are **0**: vePENDLE no longer accepts new locks, and the **30.56M PENDLE** staked in sPENDLE can be withdrawn after 14 days, so it stays in the circulating count.
 
 ## Foundation and overhang
 
-Four project-linked balances sit outside the circulating count. The governance multisig holds **19.75M PENDLE** and pays out every month or two. The ecosystem fund holds **16.12M PENDLE** and last paid out on Apr 30 2026. The team multisig holds **7.73M PENDLE** and sends small amounts to an exchange every month or two. The vePENDLE lock still holds **63.16M PENDLE** for its users, of which **1.88M PENDLE** has already come free but has not been taken out, and most of the rest ends in early 2028.
+Four project-controlled piles sit outside the circulating count. The **governance wallet** holds **19.75M PENDLE** and pays out every month or two. The **ecosystem fund** holds **16.12M PENDLE** and has not paid out since Apr 30 2026. The **team wallet** holds **7.73M PENDLE** and pays out roughly every two months. The **vePENDLE lock** holds **63.15M PENDLE** of holders' coins, of which **1.9M** has already ended and can be withdrawn any day, and **32.18M** ends on Jan 20 2028.
 
-On top of that, about **10.28M PENDLE** of weekly emission has built up unclaimed and could be minted on the day the incentives wallet claims it; the last claim went straight to the governance multisig. These balances are read on-chain at every refresh, and if any of them falls between refreshes, the outflow enters the project-wallet line at the next refresh.
+The largest pile that does not exist yet is the unclaimed weekly emission: about **10.5M PENDLE** could be created in one go if the incentives wallet claimed it today, and that figure grows by about **111K** a week. Pendle has set no date for a claim. If any of these balances falls between checks, that outflow joins the sell side at the next update.
 
-## How PENDLE compares to other DeFi fee-sharing tokens
+## How PENDLE compares to other DeFi tokens with fee buybacks
 
-Most DeFi tokens that share fees grow their supply by minting rewards for liquidity. Curve's CRV, for example, mints new coins every week for its pools and asks holders to lock for up to four years to share in fees. PENDLE started with the same design and the same kind of vote-lock, but in 2026 it stopped minting in practice, paid rewards from older coins and replaced long locks with sPENDLE, which can be left in 14 days. That means PENDLE's new supply now comes from locks ending and the treasury spending, not from a mint.
+Many DeFi tokens now spend fees on their own coin. The difference is where the bought coins end up. Some protocols burn what they buy, which shrinks supply for good. Others park the coins in a treasury the market already counts. Pendle pays every bought coin to its stakers, and those stakers can leave within 14 days, so the PENDLE it buys stays in circulation. The buyback is a steady buyer in the market, but it never lowers the supply count.
 
-On the buy side, fee-sharing tokens split into two groups: those that burn what they buy back, which shrinks supply, and those that hand the coins to holders or keep them in a treasury, which does not. Aave, for example, buys AAVE and holds it in its own treasury. Pendle sits in the second group: its buyback is steady and large next to its fees, but it pays stakers in PENDLE, so it supports demand rather than cutting the count.
-
-The real difference is the overhang. A coin with a running mint shows its inflation every week; PENDLE carries a large mint that has simply not been claimed yet, plus a vote-lock that empties on a fixed calendar. Both are visible on-chain, which makes PENDLE's future supply easier to read than most, but also lumpier.
+On emissions, PENDLE also differs from the classic vote-lock tokens. Those mint new coins every week on a fixed curve and pay them to liquidity pools. PENDLE has the same weekly curve written into its token, but it has stopped claiming it and now pays pool rewards from coins already minted. That keeps total supply flat, while the unclaimed emission keeps growing as a backlog. The old lock is also winding down instead of absorbing new coins, so over the next two years it releases its **63.15M** PENDLE back to holders on a known calendar.
 
 ## What to watch in the next 90 days
 
-**Dec 24 2026**: about 644.62K PENDLE of old vePENDLE locks end and can be withdrawn.
+**Dec 24 2026:** vePENDLE locks holding **644.62K PENDLE** end.
 
-**Dec 31 2026**: the biggest lock-end week of the window, about 1.13M PENDLE; the same day, PendleLoop's free period for non-principal-token loops ends, which could change how much fee money reaches the buyback.
+**Dec 31 2026:** the biggest lock end of the window, **1.13M PENDLE**, opens up.
 
-**Jan 28 2027**: another 1.10M PENDLE of lock ends, the second-biggest week before Feb 14 2027.
+**Jan 28 2027:** another **1.10M PENDLE** of vePENDLE locks ends.
 
-Any day: a claim of the 10.28M PENDLE emission backlog would add brand-new coins to total supply for the first time since March 2025, and payouts from the 19.75M PENDLE governance multisig would show up in the project-wallet line.
+**Every month or two:** the next payout from the governance or team wallet, which has run at about **1.3M PENDLE** a quarter; a larger send straight to an exchange would show up first here.
+
+**Any day:** a claim of the unclaimed weekly emission, about **10.5M PENDLE** today, which would raise the total supply for the first time since March 2025. Also watch the buyback size after each two-week fee harvest; it halved this quarter.
 
 ## Summary
 
-PENDLE's circulating supply grew **+1.07%** in the 90 days to Nov 16 2026 without a single new coin being minted, because project wallets sent out **1.21M PENDLE** and old vePENDLE locks freed **665.60K PENDLE**. The next 90 days project **+2.49%**, led by **3.28M PENDLE** of lock ends between Dec 24 2026 and Jan 28 2027. Pendle's fee buyback of **592.88K PENDLE** is real buying, but it pays stakers instead of burning, so it does not lower the count. The main risk is the **10.28M PENDLE** emission backlog, which can be minted on any day, and there is no hard cap on total supply.
+PENDLE's supply grew **+1.01%** in the 90 days to Nov 26 2026 without a single new coin being minted, because project wallets paid out **1.14M PENDLE** and old vePENDLE locks released **622.04K**. Pendle's fee buyback bought **609.79K PENDLE**, but it pays those coins to stakers, so it supports demand rather than cutting the count. The next 90 days should add about **+2.62%**, mainly from **3.27M PENDLE** of lock ends on Dec 24 and Dec 31 2026 and Jan 28 2027. The main risk is the **10.5M PENDLE** of unclaimed weekly emission, which can be created whenever Pendle chooses, with no cap above the current **281.53M** total.
 
 ---
 
-*MrNasDog Pressure Framework analysis of PENDLE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 16 2026.*
+*MrNasDog Pressure Framework analysis of PENDLE, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 26 2026.*
