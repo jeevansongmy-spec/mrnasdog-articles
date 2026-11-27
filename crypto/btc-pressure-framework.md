@@ -1,6 +1,6 @@
 ---
 title:         "BTC Inflation Analysis · November 2026 · Mixed flows · supply roughly steady"
-description:   "Bitcoin supply grew +0.20% in 90 days: miners created 40,975 BTC at 3.125 BTC per block, with no burn, no token unlocks and a fixed hard cap of 21M BTC."
+description:   "Bitcoin supply grew +0.21% in 90 days: miners created 41,356 BTC at 3.125 BTC a block, with no burn, no buyback, no unlocks and a fixed cap of 21M BTC."
 canonical_url: "https://mrnasdog.com/research/btc/inflation"
 tags:          ["crypto", "btc", "bitcoin", "proof-of-work"]
 published:     true
@@ -12,56 +12,56 @@ This is the long supply read. For the signal, the price drivers and the question
 
 # BTC Inflation Analysis · November 2026 · Mixed flows · supply roughly steady
 
-Bitcoin's supply is growing slowly and on a fixed timetable. From Aug 20 to Nov 18 2026 miners created **40,975 BTC** and nothing took any BTC out, so supply rose **+0.20%** in 90 days, with about the same expected over the next 90. Every new BTC is a block reward of **3.125 BTC**, the hard cap stays at **21M BTC**, and other trackers read **+0.22%** for the same stretch.
+Bitcoin supply is roughly steady: BTC grew **+0.21%** in the 90 days from Aug 29 to Nov 27 2026, and the next 90 days should look about the same. The only source of new BTC is the block reward, which paid miners **41,356 BTC**; Bitcoin has no burn and no buyback, so **0 BTC** left the supply. The protocol caps Bitcoin at **21M BTC**, and other trackers read the same 90 days at **+0.19%**.
 
 ## The verdict, in one paragraph
 
-Bitcoin added **40,975 BTC** to a circulating supply of **20.11M BTC** between Aug 20 and Nov 18 2026, a net change of **+0.20%**. Other trackers put the same 90 days at **+0.22%**, a difference of only **0.01 percentage points**, so the Bitcoin coin page carries no warning note. Bitcoin has no vesting, no burn, no buyback and no treasury, which means its supply line is set almost entirely by the mining schedule written into the protocol in 2009. The label that fits: a steady, capped proof-of-work chain, mildly inflationary by design and getting less so with each halving.
+Over the 90 days to Nov 27 2026, the BTC supply grew by a net **+0.21%**, from new block rewards alone. Other trackers put the same window at **+0.19%**, a gap of only **0.02 percentage points**, so the Bitcoin coin page carries no warning note. Every one of the 8 ledger rows except the block reward is zero: no unlocks, no foundation, no court releases that add coins, no burn, no buyback and no lock. The next 90 days project the same **+0.21%**, because the reward stays at 3.125 BTC per block until the next halving in 2028. In one line: Bitcoin is a fixed-schedule, slowly inflating chain whose new supply comes only from mining and shrinks by half every four years.
 
 ## Sell pressure: where new BTC comes from
 
-**Protocol inflation is the only source of new BTC: 40,975 BTC in 90 days.** Each block pays the miner who finds it **3.125 BTC** of freshly created coins. Between Aug 20 and Nov 18 2026 miners found **13,112 blocks**, about 146 a day instead of the 144 the design aims for, because computing power kept arriving faster than the difficulty reset every 2,016 blocks could absorb. That pace works out to roughly **455 BTC a day**. The reward halves to 1.5625 BTC at block 1,050,000, which at today's pace lands around April 2028, well after this window.
+**Block reward: 41,356 BTC.** Every time a miner finds a valid Bitcoin block, the protocol lets it pay itself 3.125 brand-new BTC. Between Aug 29 and Nov 27 2026 miners found **13,234 blocks**, about 2% more than the 12,960 the 10-minute target would give, because more mining power joined faster than the difficulty could catch up. That adds up to **41,356 BTC**, about **460 BTC a day**. Bitcoin raises or lowers its mining difficulty every 2,016 blocks, roughly every two weeks, so block times drift back toward 10 minutes and the reward per day stays close to 450 BTC over time.
 
-**Vesting unlocks are zero.** Bitcoin never sold tokens to investors, never set aside a team share and never ran a funding round. Every BTC that exists was mined in public, starting with the first block on Jan 3 2009, so there is no locked batch waiting for a cliff date.
+**Vesting unlocks: 0 BTC.** Bitcoin launched on Jan 3 2009 with no presale, no team allocation and no investor tranche. Every BTC in existence was mined, so no locked batch of BTC is waiting to open.
 
-**Foundation and unscheduled unlocks are zero.** Bitcoin has no foundation, company or treasury holding a reserve. All **20.11M** mined BTC already count as circulating, so when a miner, a fund or a government sells, it is selling coins that were already part of the supply.
+**Foundation and unscheduled unlocks: 0 BTC.** Bitcoin has no foundation, no company and no treasury that holds BTC for the network, so there is no reserve that could be released.
 
-**Long-term locked or bankruptcy coins add zero.** The Mt. Gox estate still holds about **34,400 BTC**, and on Oct 16 2026 its trustee moved the payout deadline from Oct 31 2026 to **Oct 31 2027**. In Germany, a Leipzig court has put forward a deal in which the operator of the old Movie2k film site would hand over **40,000 BTC**. Both piles were mined more than a decade ago and already sit inside the circulating count, so paying them out or selling them changes who holds Bitcoin, not how much Bitcoin exists.
+**Long-term locked or bankruptcy: 0 BTC.** Large BTC piles sit with courts and governments, and any of them could be sold, but none of them would add new BTC. The Mt. Gox trustee still holds about **34,400 BTC**, and its payout deadline has moved to Oct 31 2027. Wallets tied to the US government hold about **306,795 BTC**, the UK holds **61,245 BTC**, and a German court may take **40,000 BTC** in the Movie2k case. All of those coins were mined years ago and already count as circulating BTC.
 
 ## Buy pressure: where new BTC goes
 
-**Programmatic buyback is zero.** No contract, company or treasury buys BTC back on behalf of the Bitcoin network, and nothing in the code takes coins out of supply.
+**Programmatic buyback: 0 BTC.** Bitcoin has no buyback. No contract, foundation or fee stream buys BTC on the network's behalf.
 
-**Protocol fee burn is zero.** Unlike Ethereum, Bitcoin does not destroy any part of its fees: every fee goes to the miner who finds the block. People can still send coins to addresses no one can spend from, but the best-known of those received less than **0.01 BTC** between Aug 20 and Nov 18 2026, far too little to matter.
+**Protocol fee burn: 0 BTC.** Bitcoin burns no fees. Every transaction fee goes to the miner who found the block, on top of the block reward. Coins left unclaimed or sent to unspendable outputs between Aug 29 and Nov 27 2026 came to only a few hundredths of a BTC, too small to move the count.
 
-**Foundation buy is zero.** There is no Bitcoin foundation to buy coins. Strategy, the largest company holder, said on Nov 16 2026 it bought **485 more BTC**, taking its pile to about **850,800 BTC**, and spot funds buy and sell every trading day. All of that buying uses coins already circulating, so it changes the price people pay, not the supply count.
+**Foundation buy: 0 BTC.** There is no Bitcoin foundation to buy. Strategy, the largest listed holder, owns about **851,310 BTC** after adding 457 BTC in the week to Nov 23 2026, while US spot bitcoin funds saw record withdrawals in November. Both trade BTC that is already circulating, so neither changes the Bitcoin supply.
 
-**New long-term lock is zero.** Bitcoin has no staking, so the protocol locks nothing. A draft proposal, BIP-361, would one day freeze coins that future quantum computers could steal, but it is still a draft with no vote and no activation date.
+**New long-term lock: 0 BTC.** Bitcoin has no staking. A US bill that would bar the government from selling its BTC for 20 years reached the full House on Nov 24 2026, but it is not law and those coins are already counted. A draft Bitcoin proposal to freeze coins that quantum computers could one day steal has no activation date.
 
 ## Foundation and overhang
 
-Bitcoin has no team-controlled overhang. There is no foundation wallet, no company treasury, no team multisig and no buyback wallet, and the circulating supply equals the total mined supply, so no holder sits outside the count. The large balances people watch belong to third parties: the Mt. Gox estate with about **34,400 BTC** and a deadline of Oct 31 2027, governments holding seized coins, the **40,000 BTC** at stake in the Movie2k case, Strategy with about 850,800 BTC, and the spot funds. We re-check these balances at every rebuild. If any team-controlled wallet ever appeared and its balance fell between refreshes, the outflow would enter the Foundation and unscheduled unlocks row at the next refresh.
+Bitcoin has no team-controlled overhang. There is no foundation wallet, no developer fund, no investor escrow and no unlock contract, so no group can release new BTC into the market. The piles worth watching belong to outsiders: the Mt. Gox trustee with about **34,400 BTC**, the US government with about **306,795 BTC**, the UK with **61,245 BTC** and the **40,000 BTC** in the Movie2k case. Their sales can push the BTC price around, but they move coins that already exist. If any of them ever destroyed coins, or if new BTC ever appeared outside the block reward, it would enter the Bitcoin ledger at the next check.
 
 ## How BTC compares to other proof-of-work chains
 
-Bitcoin belongs to the family of halving-model proof-of-work chains with a hard cap. Litecoin follows the same shape with four times as many coins: a cap of 84M LTC, a block every 2.5 minutes and a reward of 6.25 LTC that also halves every four years. Bitcoin Cash copies Bitcoin's schedule exactly, with the same 21M cap and the same 3.125-coin reward since its 2024 halving. For all three, new supply shrinks in steps and stops near the cap.
+Bitcoin set the model that most proof-of-work coins copy: a fixed block reward that halves every 210,000 blocks and a hard cap of 21M BTC. Bitcoin Cash split from Bitcoin, and Bitcoin SV from Bitcoin Cash, and both kept the same schedule, so they also pay 3.125 coins per block today and halve on a similar timetable. Litecoin uses the same halving design with a cap of 84M coins and blocks every 2.5 minutes. In all of these chains, new supply falls in steps and never gets bought back or burned.
 
-Other proof-of-work chains chose the opposite path. Dogecoin pays a flat 10,000 DOGE every minute with no cap, so its coin count grows forever while its percentage rate slowly falls. Monero switched to a small permanent tail reward of 0.6 XMR per block, so it will never stop issuing either. Bitcoin, by contrast, has no tail: after the last halving, miners will live on fees alone.
-
-Against Ethereum, the gap is the burn. Ethereum pays validators in new ETH but destroys part of every fee, so its net supply can fall in busy weeks. Bitcoin has no burn, so its supply only ever goes up, but the rise is small, known years ahead, and halves roughly every four years.
+Monero takes a different path: after its main emission ended, it pays a small fixed reward forever, so Monero never reaches a cap. Ethereum, now proof of stake, has no cap either but burns part of every fee, so its supply can grow or shrink with usage. Bitcoin sits at the strict end: no burn to offset new BTC, but a schedule that nobody can change without a network-wide upgrade, and only about **882,000 BTC** left to mine before the 21M BTC cap.
 
 ## What to watch in the next 90 days
 
-**Around Nov 27 2026, the difficulty reset at block 977,760.** With the BTC price near half its all-time high and some miners selling coins to repay loans, a drop in computing power would slow blocks and trim new BTC a little; a rise would do the opposite.
+**Dec 3 2026: the Movie2k hearing in Leipzig.** A German judge has offered to drop the case if the defendant hands **40,000 BTC** to the authorities; a later sale would move existing BTC, not create any.
 
-**Dec 3 2026, the Movie2k hearing in Leipzig.** If the deal goes ahead, about 40,000 BTC would pass to the German state. Those coins already count as circulating, so even a later sale would not change the supply count.
+**By Jan 3 2027: the end of the current US Congress.** The Strategic Bitcoin Reserve bill, H.R. 8957, needs a House vote, a Senate vote and a signature before then, or it must start over.
 
-**The Mt. Gox wallets, deadline Oct 31 2027.** The estate still holds about 34,400 BTC. Any move toward exchanges would matter for traders, but not for supply.
+**Every two weeks: the Bitcoin difficulty change.** If mining power keeps rising faster than difficulty, blocks come a little quicker and the 90-day block reward edges above 41,356 BTC; if miners switch off after the price fall, it edges lower.
 
-**The quantum drafts, BIP-360 and BIP-361.** Both are still drafts with no date. A plan to freeze old coins would be the first rule change in years that touches how many BTC can actually move, so any step toward a vote is worth following.
+**Mt. Gox payouts before Oct 31 2027.** The trustee can pay creditors at any time before the deadline; payouts move about **34,400 BTC** that already circulate.
+
+**The quantum debate.** Bitcoin developers are still discussing draft proposals to move coins to quantum-safe addresses and freeze the ones that never move. None has an activation date.
 
 ## Summary
 
-Bitcoin's supply grew **+0.20%** from Aug 20 to Nov 18 2026, all of it from the **40,975 BTC** paid to miners as block rewards, and the next 90 days should look the same. Bitcoin has no vesting, no burn, no buyback and no treasury, so the mining schedule alone sets its supply. The main things to watch are big third-party holders such as the Mt. Gox estate and seized government coins, which can sell but cannot add a single new BTC. With a hard cap of 21M BTC and the next halving expected around April 2028, Bitcoin's new supply only gets smaller from here.
+Bitcoin supply grew **+0.21%** in the 90 days to Nov 27 2026, roughly steady, and the next 90 days should match it. All new BTC comes from the block reward of 3.125 BTC per block, which paid miners **41,356 BTC** in the window, while Bitcoin burns nothing and buys nothing back. The main risk to the BTC price from supply is not new coins but large existing piles held by Mt. Gox and governments changing hands. With a hard cap of **21M BTC** and the next halving in 2028, Bitcoin's new supply can only get smaller from here.
 
-*MrNasDog Pressure Framework analysis of BTC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 18 2026.*
+*MrNasDog Pressure Framework analysis of BTC, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 27 2026.*
