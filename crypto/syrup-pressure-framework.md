@@ -1,6 +1,6 @@
 ---
 title:         "SYRUP Inflation Analysis · November 2026 · Supply growing · projected to keep growing"
-description:   "SYRUP minting ended Oct 1 2026, but Maple's treasury paid 9.77M SYRUP into the market in 90 days: +0.84% net. Buybacks of 3.13M stay in a spendable wallet."
+description:   "SYRUP supply is growing: printing ended Oct 1 2026, yet Maple's treasury paid 9.69M SYRUP to the market in 90 days, +0.83% net; the buyback removed none."
 canonical_url: "https://mrnasdog.com/research/syrup/inflation"
 tags:          ["crypto", "syrup", "maple", "defi"]
 published:     true
@@ -9,65 +9,60 @@ Originally published at [SYRUP Inflation Analysis · November 2026 · Supply gro
 
 # SYRUP Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 
-<!-- main-page -->
-Looking for the buy-or-sell answer? It is on the SYRUP coin page, with demand and price drivers: [mrnasdog.com/research/syrup](https://mrnasdog.com/research/syrup)
-
-SYRUP stopped minting new coins on **Oct 1 2026**, yet the number of SYRUP in the market still grew, because Maple's treasury pays coins out about once a month and there is no burn. From Aug 19 to Nov 17 2026 the treasury released **9.77M SYRUP** while the buyback took out nothing that stays out, so supply grew **+0.84%** in 90 days and should grow about **+0.82%** in the next 90. Other trackers show about **+0.01%**.
+SYRUP supply is growing, even though Maple Finance stopped printing new SYRUP on Oct 1 2026. Between Aug 29 and Nov 27 2026 the Maple treasury paid **9,687,942 SYRUP** into the market, and nothing was burned or locked away, so the circulating supply grew **+0.83%** in 90 days, with about **+0.81%** expected over the next 90 days. Other trackers show only **+0.03%**, because the circulating figure they use has barely moved since Aug 12 2026.
 
 ## The verdict, in one paragraph
 
-SYRUP is the token of Maple Finance, a lender that makes loans to trading firms and other crypto companies and pays the interest to people who deposit dollars in its Syrup pools. Over the 90 days to Nov 17 2026 the SYRUP in circulation rose by about **+0.84%**, all of it coins the treasury handed out, and the same pace is likely to hold to mid-February 2027, at about **+0.82%**. The label is "supply growing", but slowly. Other trackers read about **+0.01%**, a gap of about **0.82** points, because the circulating figure they use has not moved since Aug 22 2026 while Maple kept paying coins out. The coin page carries a warning note that explains this difference.
+Over the 90 days from Aug 29 to Nov 27 2026, SYRUP added **9.69M** coins to the market against **0** coins taken out, a net change of **+0.83%** of the **1.17B** SYRUP in circulation. For the next 90 days we expect about **9.44M** more, or **+0.81%**. Other trackers read **+0.03%**, a gap of **0.80 percentage points**, so the Maple Finance coin page carries a warning note explaining the difference: their circulating figure has hardly changed since Aug 12 2026 while the Maple treasury kept paying out SYRUP. The label for SYRUP today: a finished printing plan, a treasury that still feeds the market, and a buyback that does not remove coins.
 
 ## Sell pressure: where new SYRUP comes from
 
-Protocol inflation adds nothing in the window. Maple ran a three-year plan of about 5% new SYRUP a year, and that plan ended on **Oct 1 2026**. Its last batch, **23.2M SYRUP**, was minted on Oct 9 2026 straight into the treasury, which brought total supply to **1,267,875,000**, the figure Maple had promised from the start. Coins in the treasury are not counted as circulating, so that batch only matters when Maple spends it.
+Protocol inflation books **0**. SYRUP came from a three-year plan that printed about 5% a year for the Maple treasury, and that plan ended on Oct 1 2026. Its last batch, **23.2M SYRUP**, was printed on Oct 9 2026 and went straight into the treasury, which is not counted as circulating. Those coins only reach the market when Maple pays them out, so they are counted in the treasury row below, not here. The total supply now stands at **1,267,875,000 SYRUP**, the exact end figure the plan promised. No new batch is planned, but SYRUP has no maximum supply, so a token-holder vote could start one.
 
-Vesting unlocks are zero. The team and investor allocations from the 2021 launch vested long ago. Maple does pay its staff in SYRUP through a vesting contract, which handed out **10.82M SYRUP** in the window, but those coins had already been counted when they left the treasury, so counting them again would double the number.
+Vesting unlocks book **0**. The team, advisor and investor grants from the 2021 launch of Maple Finance finished vesting long ago, and no SYRUP vesting cliff falls in the next 90 days. Maple staff are still paid partly in SYRUP through a claim wallet, but those coins are counted when they leave the treasury.
 
-Treasury releases are the one real source of new SYRUP. Between Aug 19 and Nov 17 2026 the main DAO safe and the operations wallet sent **9.77M SYRUP** out: about 86K on Aug 21, 3.01M on Aug 31, 2.32M on Sep 29, 358K on Oct 8 and 4.0M on Oct 13. Most of it went on to pay staff and running costs. Over the last twelve months the treasury has released coins every single month, about **3.19M** on average, so we expect roughly **9.58M SYRUP** more by mid-February 2027.
+Foundation and unscheduled unlocks are the whole SYRUP sell side: **9,687,942 SYRUP** in the last 90 days. The Maple operations wallet sent out **5.69M SYRUP** on Aug 31, Sep 29 and Oct 8 2026, most of it to the staff claim wallet, and the main Maple DAO wallet sent **4.0M SYRUP** to a second operations wallet on Oct 13 2026, a few days after the last printed batch arrived. Across the past 12 months the treasury released about **38.27M SYRUP**, with a payout almost every month, which points to about **9.44M SYRUP** in the next 90 days.
 
-Long-term locks and bankruptcy payouts are zero. No court case or bankrupt firm holds SYRUP for a later release.
+Long-term locked or bankruptcy supply books **0**. No court case or bankrupt firm holds SYRUP for a later payout, and the wallet once used to swap old MPL tokens into SYRUP is empty.
 
 ## Buy pressure: where new SYRUP goes
 
-Maple does buy SYRUP back. A rule passed in July 2026 sends 10%, 20% or 30% of each month's revenue to buybacks, depending on how big the month was. Between Aug 19 and Nov 17 2026 that bought **3.13M SYRUP** for about **$608K**, in three lots on Sep 8, Oct 8 and Nov 13. The October lot was smaller because revenue fell just under the line for the middle rate.
+The programmatic buyback books **0**, even though it is real. Since July 2026 Maple spends 10% to 30% of each month's revenue on SYRUP, with the share rising as revenue grows. Three buys landed in the window: **676,290 SYRUP** on Sep 8, **1,371,166 SYRUP** on Oct 8 and **1,083,390 SYRUP** on Nov 13 2026, about **3.13M SYRUP** for roughly **$607.7K**. Every lot went to a Maple buyback wallet that is already counted as circulating, and that wallet sent **2.38M SYRUP** on to other wallets in the same period. The bought SYRUP never left the market, so it does not reduce supply.
 
-Still, the buyback row books zero. The bought coins sit in a Maple fund wallet that counts as circulating, and that wallet has already passed **2.38M SYRUP** on to other wallets. Nothing is burned or locked, so the coins can come back to the market at any time. Maple says the buyback is a use of revenue, not a promise to holders.
+The protocol fee burn books **0**. SYRUP has no burn: not one SYRUP was destroyed between Aug 29 and Nov 27 2026, and the total supply moved only once, when the last printed batch arrived.
 
-There is no fee burn: no SYRUP was destroyed in the window, and total supply moved only with the Oct 9 2026 mint. There is no separate treasury purchase beyond the buyback. Staking rewards ended under a 2025 vote, and the staking pool shrank from **175.98M** to **144.60M SYRUP** in the window; staked SYRUP counts as circulating anyway, so it removes nothing.
+Foundation buys book **0**. Apart from the revenue buyback, Maple bought no SYRUP in the window and has announced no other purchase plan.
+
+New long-term locks book **0**. SYRUP staking rewards ended in November 2025, and staked SYRUP has been shrinking since: from **169.70M** to **144.08M** in this window. Staked SYRUP was always counted as circulating, so leaving it adds nothing either.
 
 ## Foundation and overhang
 
-Maple's main DAO safe holds **42.29M SYRUP**, most of it the final batch minted in October 2026. This is the wallet that feeds the monthly payouts. A second Maple reserve safe holds **48.62M SYRUP**; it last sent coins out on Jan 27 2026 and has not moved since. The operations wallet that passes coins on each month was empty on Nov 17 2026. Together that is **90.9M SYRUP**, close to 8% of what circulates today, held by Maple and not yet in the market.
+Maple still holds **90.9M SYRUP** outside the market, the pool that feeds every future payout. The main Maple DAO wallet holds **42.29M SYRUP**, up from 23.09M at the start of the window because the last printed batch landed there. A Maple reserve wallet holds **48.62M SYRUP**; it has not moved since January 2026. The Maple operations wallet that made most of the payouts is now empty at **0**.
 
-With minting over, this pile is now the only place new SYRUP can come from. At the past year's pace the DAO safe alone covers about a year of payouts. When it runs low, Maple must either draw on the reserve safe, fund staff from buybacks, or ask holders to vote for new minting.
+Three more Maple wallets are already counted as circulating, so their moves add nothing: the buyback wallet with **4.50M SYRUP**, a second operations wallet with **1.05M SYRUP** and the staff claim wallet with **11.86M SYRUP** waiting to be claimed. We read every one of these Maple wallets at each rebuild. If the DAO wallet or the reserve wallet falls between rebuilds, the SYRUP that left is added to the treasury row at the next rebuild.
 
 ## How SYRUP compares to other DeFi lending tokens
 
-Most lending tokens share a pattern: a fixed or finished supply, a treasury that pays contributors, and a buyback funded by protocol income. SYRUP now fits that pattern. Its minting ended on schedule, and its supply growth now comes only from treasury spending.
+Most DeFi lending tokens fall into two groups. Some keep printing new tokens to pay users or stakers, so their supply grows by design for as long as the rewards run. Others have a fixed supply and spend part of their revenue on buybacks that they hold or burn. SYRUP now sits between the two: Maple Finance has stopped printing, like the fixed-supply group, but its treasury still holds about 7% of all SYRUP and pays some of it out every month, so the circulating supply keeps growing.
 
-Where SYRUP differs is what happens to bought coins. Some lending protocols burn what they buy or lock it away, so each purchase shrinks the supply for good. Maple keeps its coins in a wallet that can spend them, so the buyback supports demand on the day it happens but does not cut supply. Against monthly treasury payouts of about 3M SYRUP, the buyback of roughly 1M a month covers about a third of the new coins, but only while the fund holds on to what it buys.
+The SYRUP buyback is also weaker than the word suggests. Lending tokens that run a buyback usually send the coins to a burn address or to a reserve that is not counted as circulating, so each buy shrinks the float. Maple keeps its bought SYRUP in a wallet that is counted as circulating and moves some of it on, so in supply terms the buyback changes ownership, not size. In the last 90 days the buyback bought about a third as much SYRUP as the treasury paid out.
+
+SYRUP also has no maximum supply. A lending token with a hard cap can only dilute holders up to that cap; SYRUP can only add new supply through a token-holder vote, which protects holders today but is not a hard limit.
 
 ## What to watch in the next 90 days
 
-Late November and late December 2026: the monthly treasury payouts. A month with no payout, or one far above 3.19M SYRUP, would change the forward number more than anything else.
+Mid-December 2026: the buyback funded by November revenue. Maple's revenue decides whether the rate is 10%, 20% or 30%, and October revenue of about $1.47M sat in the lowest tier.
 
-Nov 27 2026: Maple's chief operating officer leaves, two weeks after co-founder Joe Flanagan said on Nov 11 2026 that he is stepping away over a split on strategy. We will check whether the December payout is larger than usual.
+Late December 2026 and late January 2027: the next treasury payouts to staff, which have come near the end of each month (Aug 31, Sep 29, Oct 29 and Nov 25 2026). A large transfer out of the DAO wallet or the reserve wallet would raise the sell side.
 
-Early December 2026 and early January 2027: the buybacks for November and December revenue. The current rule was set for six months of revenue, July to December 2026, so the January lot is the last one unless holders renew it.
+Mid-January 2027: the buyback for December revenue, the last month of the current six-month buyback plan. Maple will need a new vote to keep buying after that.
 
-January 2027: Maple's next quarterly update, and any vote to renew the buyback, burn or lock the bought coins, or start new minting. Any of those would move SYRUP's supply path.
+Any time: a community proposal posted on Nov 10 2026 asks Maple to burn half of all bought-back SYRUP and to set a maximum supply. If a version of it passes, SYRUP would get its first real burn.
+
+Nov 27 2026 and the weeks after: Maple's chief operating officer leaves on Nov 27 2026, and a co-founder who left as chairman on Nov 11 2026 helps until the end of the year. A new team could change how the treasury is used.
 
 ## Summary
 
-SYRUP's new minting ended on Oct 1 2026, with a last batch of 23.2M SYRUP minted into the treasury on Oct 9 2026.
+SYRUP supply grew **+0.83%** in the 90 days to Nov 27 2026 and is expected to grow about **+0.81%** in the next 90 days. Maple Finance printed its last new SYRUP on Oct 9 2026, so all of that growth comes from the Maple treasury paying out coins it already holds, **9.69M SYRUP** in the last 90 days. The revenue buyback bought **3.13M SYRUP** but kept it in a wallet counted as circulating, so it removed nothing. The main risk is the **90.9M SYRUP** still held by Maple outside the market, and the main limit is that SYRUP has no maximum supply.
 
-Maple's treasury still released 9.77M SYRUP into the market between Aug 19 and Nov 17 2026, so supply in circulation grew about +0.84%, with about +0.82% expected over the next 90 days.
-
-Maple bought back 3.13M SYRUP in the same window, but those coins sit in a wallet that counts as circulating, so they do not shrink supply.
-
-Maple still holds about 90.9M SYRUP in two safes, and that pile is now the only source of new SYRUP.
-
----
-
-*MrNasDog Pressure Framework analysis of SYRUP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 17 2026.*
+*MrNasdog Pressure Framework analysis of SYRUP, Metric 1 — Inflation. Data + explanation only. Not financial advice. Checked Nov 27 2026.*
