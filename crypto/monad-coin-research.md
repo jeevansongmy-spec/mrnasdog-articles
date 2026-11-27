@@ -1,28 +1,28 @@
 ---
-title:         "Monad (MON) Tokenomics: +150.08% New Supply in 90 Days"
-description:   "As of Nov 17 2026, new Monad supply runs at +150.08% over 90 days and +225.99% over 12 months."
+title:         "Monad (MON) Tokenomics: +11.44% New Supply in 90 Days"
+description:   "As of Nov 27 2026, new Monad supply runs at +11.44% over 90 days and +46.16% over 12 months."
 canonical_url: "https://mrnasdog.com/research/monad"
 content_type:  "coin_hub"
 tags:          ["crypto", "mon", "monad", "should-i-buy"]
 published:     true
 ---
-# Monad (MON) Tokenomics: +150.08% New Supply in 90 Days
+# Monad (MON) Tokenomics: +11.44% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/monad (checked Nov 25 2026)*
+*Originally published at https://mrnasdog.com/research/monad (checked Nov 27 2026)*
 
-As of Nov 17 2026, new Monad supply runs at **+150.08%** over 90 days and **+225.99%** over 12 months.
+As of Nov 27 2026, new Monad supply runs at **+11.44%** over 90 days and **+46.16%** over 12 months.
 
-- **Signal:** mixed (Nov 25 2026)
+- **Signal:** mixed (Nov 27 2026)
 - **Score:** 4/10 — supply 0/5, demand 4/5
-- **Supply growth:** +150.08% in 90 days · +225.99% in a year
+- **Supply growth:** +11.44% in 90 days · +46.16% in a year
 - **How much people want it:** strong (4/5)
 - **Price drivers:** 1 ▲ price up · 1 ▼ price down
 
 ## New MON hitting the market
 
-Monad pays 18 new MON per block and its Foundation pays out MON every week or two, while a small fee burn takes some back. The first-year unlock on Nov 24 2026 opens more MON than trades today.
+Monad's first-year unlock more than doubled the MON on the market, and monthly team and investor unlocks keep adding about 0.86B MON a month until 2029.
 
-New MON: +150.08% in 90 days, +225.99% in a year. Supply score 0/5, "extreme", #1 of 100 for new supply.
+New MON: +11.44% in 90 days, +46.16% in a year. Supply score 0/5, "extreme", #6 of 100 for new supply.
 
 ## The things that move Monad
 
@@ -30,7 +30,7 @@ New MON: +150.08% in 90 days, +225.99% in a year. Supply score 0/5, "extreme", #
 
 ### ▼ Money on Monad
 
-DeFi money down about 16% from its Oct 5 2026 high.
+DeFi money down about 23% from its Oct 5 2026 high.
 
 Good for the price: More money arrives. Bad for it: Money leaves. Now: ▼ down side.
 
@@ -39,13 +39,13 @@ Good for the price: More money arrives. Bad for it: Money leaves. Now: ▼ down 
 | Aug 31 2026 | $949M | $755M |
 | Sep 30 2026 | $966M | $701M |
 | Oct 31 2026 | $823M | $656M |
-| Nov 17 2026 | $824M | $635M |
+| Nov 27 2026 | $759M | $592M |
 
-*Checked Nov 17 2026*
+*Checked Nov 27 2026*
 
 ### ▲ Foundation pile
 
-Foundation steers most unlocked MON and says it sold none.
+Foundation steers most early unlocked MON; no sale reported.
 
 Foundation keeps holding → price up · Foundation sells → price down. Right now it points up.
 
@@ -54,7 +54,7 @@ Foundation keeps holding → price up · Foundation sells → price down. Right 
 | All 100B MON | Monad Foundation 38.5% · Others 61.5% |
 | Unlocked at launch | Monad Foundation 77.9% · Others 22.1% |
 
-*Checked Nov 17 2026*
+*Checked Nov 27 2026*
 
 ## MON demand
 
@@ -66,31 +66,31 @@ Members get the rest of the Monad demand read on mrnasdog.com.
 
 ### Is Monad (MON) inflationary or deflationary?
 
-Monad (MON) is inflationary right now: its supply changes +150.08% over the next 90 days and +225.99% over the next year (checked Nov 17 2026). More MON is added than removed.
+Monad (MON) is inflationary right now: its supply changes +11.44% over the next 90 days and +46.16% over the next year (checked Nov 27 2026). More MON is added than removed.
 
 ### What is the MON inflation rate in 2026?
 
-About +225.99% a year: that is how much Monad (MON) supply changes over the next 12 months, with +150.08% in the next 90 days (checked Nov 17 2026). That puts MON #1 of 100 coins we track for new supply (#1 = the most new supply).
+About +46.16% a year: that is how much Monad (MON) supply changes over the next 12 months, with +11.44% in the next 90 days (checked Nov 27 2026). That puts MON #6 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next MON token unlock?
 
-The next Monad (MON) unlock we track is on Dec 24 2026: about 863M MON, 7.30% of the MON in circulation (Monthly team + investor unlock). Checked Nov 17 2026.
+The next Monad (MON) unlock we track is on Dec 24 2026: about 409M MON, 1.59% of the MON in circulation (Monthly investor unlock). Checked Nov 27 2026.
 
 ### Does Monad burn or buy back MON?
 
-Yes. In our count, about 42.8M MON is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 17 2026). How it works: The base-fee burn is the only removal: about 42.8M MON in 90 days, a quarter of the new MON reaching the market. Category Labs may buy up to $80M of MON by end-2026 but has not said it bought any.
+Yes. In our count, about 44.1M MON is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 27 2026). How it works: The base-fee burn is the only removal: about 44.1M MON in 90 days, a tenth of the new MON from blocks and grants. Category Labs may buy up to $80M of MON by Dec 31 2026 but has shown no purchase.
 
 ### Where does new MON supply come from?
 
-In our count, about 17.8B new MON reaches the market over the next 90 days (checked Nov 17 2026). How it works: Every block makes 18 new MON; 172M reached stakers outside the Foundation in 90 days and Foundation wallets paid out 266M more. On Nov 24 2026 about 15.63B team and investor MON unlocks, then about 863M a month.
+In our count, about 3B new MON reaches the market over the next 90 days (checked Nov 27 2026). How it works: The Nov 24 2026 first-year unlock freed 15.61B MON for the team and investors. Every block also makes 18 new MON; 178.6M reached stakers outside the Foundation in 90 days, and Foundation wallets paid out 255.7M more. Next: 409M MON to investors each month plus team MON every day.
 
 ### How much MON is in circulation?
 
-About 11.8B MON is in circulation (checked Nov 17 2026). Over the next 90 days that changes +150.08%, and over a year +225.99%.
+About 25.8B MON is in circulation (checked Nov 27 2026). Over the next 90 days that changes +11.44%, and over a year +46.16%.
 
-### Does MON have more new supply than GRT, CFX or OP?
+### Does MON have more new supply than SUN, PENGU or SPX?
 
-Over the next 90 days (checked Nov 17 2026): MON +150.08%, GRT +1.06%, CFX +0.44%, OP +0.96%. MON has the most new supply of these 4 coins.
+Over the next 90 days (checked Nov 27 2026): MON +11.44%, SUN −0.04%, PENGU +2.18%, SPX 0.00%. MON has the most new supply of these 4 coins.
 
 ## More on Monad
 

@@ -1,28 +1,28 @@
 ---
-title:         "Jito (JTO) Tokenomics: +2.01% New Supply in 90 Days"
-description:   "As of Nov 17 2026, new Jito supply runs at +2.01% over 90 days and +1.83% over 12 months."
+title:         "Jito (JTO) Tokenomics: +0.63% New Supply in 90 Days"
+description:   "As of Nov 27 2026, new Jito supply runs at +0.63% over 90 days and +0.47% over 12 months."
 canonical_url: "https://mrnasdog.com/research/jto"
 content_type:  "coin_hub"
 tags:          ["crypto", "jto", "jito", "should-i-buy"]
 published:     true
 ---
-# Jito (JTO) Tokenomics: +2.01% New Supply in 90 Days
+# Jito (JTO) Tokenomics: +0.63% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/jto (checked Nov 25 2026)*
+*Originally published at https://mrnasdog.com/research/jto (checked Nov 27 2026)*
 
-As of Nov 17 2026, new Jito supply runs at **+2.01%** over 90 days and **+1.83%** over 12 months.
+As of Nov 27 2026, new Jito supply runs at **+0.63%** over 90 days and **+0.47%** over 12 months.
 
-- **Signal today:** negative (Nov 25 2026)
-- **MrNasDog score:** 4.5/10 — supply 1.5/5, demand 3/5
-- **New coins:** +2.01% in 90 days · +1.83% in a year
+- **Signal today:** mixed (Nov 27 2026)
+- **MrNasDog score:** 5.5/10 — supply 2.5/5, demand 3/5
+- **New coins:** +0.63% in 90 days · +0.47% in a year
 - **Demand:** moderate (3/5)
 - **Drivers:** 1 ▲ price up · 2 ▼ price down
 
 ## Where new Jito comes from
 
-Jito's governance token: the last team and backer unlock lands Dec 7 2026, while JTX fees and a rare burn take back only a sliver.
+Jito's governance token: team and investor vesting runs out on Dec 7 2026, while trading-fee buybacks and a rare burn take back only a sliver.
 
-New JTO: +2.01% in 90 days, +1.83% in a year. Supply score 1.5/5, "heavy" (place 34 of 100).
+New JTO: +0.63% in 90 days, +0.47% in a year. Supply score 2.5/5, "moderate" (place 54 of 100).
 
 ## JTO demand
 
@@ -36,18 +36,18 @@ Extra Jito demand detail for members stays on the live page.
 
 ### ▼ JitoSOL size
 
-Half the 2025 peak left; slipping again in the last 30 days.
+Half the 2025 peak gone; still slipping in the last 30 days.
 
 ▲ Price up if: More SOL staked. ▼ Price down if: SOL leaves JitoSOL. Right now it points down.
 
 | Date | SOL in JitoSOL |
 |---|---|
-| Aug 31 2026 | 10.1 M SOL |
 | Sep 30 2026 | 10.4 M SOL |
 | Oct 31 2026 | 10.3 M SOL |
 | Nov 17 2026 | 10.1 M SOL |
+| Nov 27 2026 | 10.1 M SOL |
 
-*Checked Nov 17 2026*
+*Checked Nov 27 2026*
 
 ### ▲ BAM adoption
 
@@ -62,7 +62,7 @@ Good for the price: More validators run BAM. Bad for it: Validators drop BAM. To
 | Oct 5 2026 | 37% |
 | Nov 15 2026 | 40.5% |
 
-*Checked Nov 17 2026*
+*Checked Nov 27 2026*
 
 ### ▼ JitoSOL ETF
 
@@ -78,37 +78,37 @@ Good for the price: ETF approved. Bad for it: ETF rejected. Now: ▼ down side.
 | Sep 9 2026 | SEC extends 60 days |
 | Oct 14 2026 | Nasdaq withdraws filing |
 
-*Checked Nov 17 2026*
+*Checked Nov 27 2026*
 
 ## Questions about JTO supply
 
 ### Is Jito (JTO) inflationary or deflationary?
 
-Jito (JTO) is inflationary right now: its supply changes +2.01% over the next 90 days and +1.83% over the next year (checked Nov 17 2026). More JTO is added than removed.
+Jito (JTO) is inflationary right now: its supply changes +0.63% over the next 90 days and +0.47% over the next year (checked Nov 27 2026). More JTO is added than removed.
 
 ### What is the JTO inflation rate in 2026?
 
-About +1.83% a year: that is how much Jito (JTO) supply changes over the next 12 months, with +2.01% in the next 90 days (checked Nov 17 2026). That puts JTO #34 of 100 coins we track for new supply (#1 = the most new supply).
+About +0.47% a year: that is how much Jito (JTO) supply changes over the next 12 months, with +0.63% in the next 90 days (checked Nov 27 2026). That puts JTO #54 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next JTO token unlock?
 
-The next Jito (JTO) unlock we track is on Dec 7 2026: about 11.3M JTO, 2.08% of the JTO in circulation (Final team and backer unlock — last monthly batch, then the schedule ends). Checked Nov 17 2026.
+The next Jito (JTO) unlock we track is on Dec 7 2026: about 3.72M JTO, 0.68% of the JTO in circulation (Last day of team and investor unlocks — added to market by then, then this flow stops). Checked Nov 27 2026.
 
 ### Does Jito burn or buy back JTO?
 
-Yes. In our count, about 640K JTO is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 17 2026). How it works: JTX trading fees sent 639,633 JTO to the DAO treasury, which keeps it, and a DAO buyback group burned 681,971 JTO on Nov 6 2026.
+Yes. In our count, about 583K JTO is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 27 2026). How it works: Trading fees on Jito's JTX app bought 582,962 JTO that the DAO treasury keeps off the market, and a DAO buyback group burned 681,971 JTO on Nov 6 2026.
 
 ### Where does new JTO supply come from?
 
-In our count, about 11.6M new JTO reaches the market over the next 90 days (checked Nov 17 2026). How it works: No new JTO can be minted, but team and investor vesting added 33.93M JTO in 90 days and the DAO paid out 380K more; one last batch of 11.31M lands Dec 7 2026, then vesting ends.
+In our count, about 4.02M new JTO reaches the market over the next 90 days (checked Nov 27 2026). How it works: No new JTO can be minted, but team and investor vesting added 33.46M JTO in 90 days and a DAO incentive wallet paid out 300K more; only about 3.72M is left before vesting ends on Dec 7 2026.
 
 ### How much JTO is in circulation?
 
-About 545M JTO is in circulation (checked Nov 17 2026). Over the next 90 days that changes +2.01%, and over a year +1.83%.
+About 549M JTO is in circulation (checked Nov 27 2026). Over the next 90 days that changes +0.63%, and over a year +0.47%.
 
-### Does JTO have more new supply than FLOKI, SYRUP or IMX?
+### Does JTO have more new supply than OP, SYRUP or IMX?
 
-Over the next 90 days (checked Nov 17 2026): JTO +2.01%, FLOKI −0.04%, SYRUP +0.82%, IMX +2.12%. JTO sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 27 2026): JTO +0.63%, OP +0.35%, SYRUP +0.81%, IMX +2.12%. JTO sits in the middle of these 4 coins.
 
 ## Next steps for JTO
 

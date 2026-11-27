@@ -1,6 +1,6 @@
 ---
 title:         "BONK Supply & Demand: 0.00% Supply in 90 Days"
-description:   "BONK supply changes 0.00% over the next 90 days and 0.00% over a year (checked Nov 17 2026)."
+description:   "BONK supply changes 0.00% over the next 90 days and 0.00% over a year (checked Nov 27 2026)."
 canonical_url: "https://mrnasdog.com/research/bonk"
 content_type:  "coin_hub"
 tags:          ["crypto", "bonk", "bonk", "should-i-buy"]
@@ -8,9 +8,9 @@ published:     true
 ---
 # BONK Supply & Demand: 0.00% Supply in 90 Days
 
-*Live page: https://mrnasdog.com/research/bonk · checked Nov 25 2026*
+*Live page: https://mrnasdog.com/research/bonk · checked Nov 27 2026*
 
-BONK supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 17 2026).
+BONK supply changes **0.00%** over the next 90 days and **0.00%** over a year (checked Nov 27 2026).
 
 - **Signal today:** negative (by the law of supply and demand)
 - **MrNasDog score:** 4/10 — supply 1.5/5, demand 2.5/5
@@ -24,7 +24,7 @@ Besides supply and demand, we track 2 price drivers for Bonk: 0 ▲ and 2 ▼ ri
 
 ### ▼ Bonk Inc stash
 
-Bonk Inc handed 1.6T BONK to a lender for a $3M loan.
+1.6T BONK sits with a lender; company cash fell to $90K.
 
 ▲ Price up if: Company buys more. ▼ Price down if: Company sells BONK. Now: ▼ down side.
 
@@ -34,7 +34,7 @@ Bonk Inc handed 1.6T BONK to a lender for a $3M loan.
 | Jun 30 2026 | 2,469 B BONK | 2,469 B BONK |
 | Sep 30 2026 | 2,469 B BONK | 869 B BONK |
 
-*Checked Nov 17 2026*
+*Checked Nov 27 2026*
 
 ### ▼ Launchpad share
 
@@ -49,17 +49,17 @@ Share grows → price up · Share shrinks → price down. Today: the price-down 
 | Jun 2026 | 0.86% |
 | Sep 2026 | 0.38% |
 
-*Checked Nov 17 2026*
+*Checked Nov 27 2026*
 
 ## Supply — new BONK in the next 90 days
 
-Bonk is Solana's best-known meme coin. No new BONK can be minted and every coin is unlocked; small daily burns shave the supply by about 0.0003% a quarter.
+Bonk is Solana's dog meme coin. No new BONK can be minted and every coin is unlocked; small burns trimmed the supply by about 0.0003% in 90 days.
 
 Over the next 90 days BONK supply changes 0.00%; across a full year, 0.00%. That puts supply at 1.5/5 (meme coin).
 
 ## Who wants Bonk right now
 
-People's appetite for Bonk is **modest**: 2.5/5, ranked #47 of 109.
+People's appetite for Bonk is **modest**: 2.5/5, ranked #48 of 109.
 
 The members-only part of BONK's demand section is not included.
 
@@ -67,31 +67,31 @@ The members-only part of BONK's demand section is not included.
 
 ### Is BONK inflationary or deflationary?
 
-As of Nov 17 2026, BONK supply moves 0.00% in 90 days and 0.00% in a year, so BONK is about flat. What is created and what is removed roughly match.
+As of Nov 27 2026, BONK supply moves 0.00% in 90 days and 0.00% in a year, so BONK is about flat. What is created and what is removed roughly match.
 
 ### What is the BONK inflation rate in 2026?
 
-BONK supply shrinks 0.00% over the next 12 months and 0.00% over the next 90 days (checked Nov 17 2026).
+BONK supply shrinks 0.00% over the next 12 months and 0.00% over the next 90 days (checked Nov 27 2026).
 
 ### When is the next BONK token unlock?
 
-No dated BONK unlock is scheduled in the next 90 days (checked Nov 17 2026).
+No dated BONK unlock is scheduled in the next 90 days (checked Nov 27 2026).
 
 ### Is any BONK burned or bought back?
 
-Yes. In our count, about 247M BONK is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 17 2026). How it works: Burns removed 294.42M BONK in 90 days, worth under $1,000; one buy-and-burn wallet did 47.53M of it on Sep 21 2026.
+Yes. In our count, about 245M BONK is expected to leave the market over the next 90 days through burns, buybacks or locks (checked Nov 27 2026). How it works: Burns removed 292.17M BONK from Aug 29 to Nov 27 2026, worth about $890; one buy-and-burn wallet did 47.53M of it on Sep 21 2026.
 
 ### Where does new BONK supply come from?
 
-Almost no new BONK reaches the market over the next 90 days (checked Nov 17 2026). No new BONK can ever be made: the mint key is off for good, nothing vests, and the coins Bonk, Inc. and the drained BonkDAO hold already count.
+Almost no new BONK reaches the market over the next 90 days (checked Nov 27 2026). No new BONK can ever be made: the power to mint was given up on-chain, vesting ended Dec 31 2025, and the coins held by Bonk, Inc. and the emptied BonkDAO treasury already count as circulating.
 
 ### How much BONK is in circulation?
 
-BONK has about 88T coins in circulation as of Nov 17 2026; the next 90 days change that by 0.00% (0.00% over a year).
+BONK has about 88T coins in circulation as of Nov 27 2026; the next 90 days change that by 0.00% (0.00% over a year).
 
-### Does BONK have more new supply than XPL, KAIA or GRT?
+### Does BONK have more new supply than PENDLE, KAIA or LDO?
 
-Over the next 90 days (checked Nov 17 2026): BONK 0.00%, XPL +14.35%, KAIA +1.04%, GRT +1.06%. BONK has the least new supply of these 4 coins.
+Over the next 90 days (checked Nov 27 2026): BONK 0.00%, PENDLE +2.62%, KAIA +1.04%, LDO +5.08%. BONK has the least new supply of these 4 coins.
 
 ## Go deeper on Bonk
 

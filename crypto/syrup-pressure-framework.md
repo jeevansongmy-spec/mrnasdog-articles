@@ -9,6 +9,9 @@ Originally published at [SYRUP Inflation Analysis · November 2026 · Supply gro
 
 # SYRUP Inflation Analysis · November 2026 · Supply growing · projected to keep growing
 
+<!-- main-page -->
+Looking for the buy-or-sell answer? It is on the SYRUP coin page, with demand and price drivers: [mrnasdog.com/research/syrup](https://mrnasdog.com/research/syrup)
+
 SYRUP supply is growing, even though Maple Finance stopped printing new SYRUP on Oct 1 2026. Between Aug 29 and Nov 27 2026 the Maple treasury paid **9,687,942 SYRUP** into the market, and nothing was burned or locked away, so the circulating supply grew **+0.83%** in 90 days, with about **+0.81%** expected over the next 90 days. Other trackers show only **+0.03%**, because the circulating figure they use has barely moved since Aug 12 2026.
 
 ## The verdict, in one paragraph

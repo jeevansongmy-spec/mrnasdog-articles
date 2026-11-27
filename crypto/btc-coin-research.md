@@ -1,20 +1,20 @@
 ---
-title:         "Bitcoin (BTC) Tokenomics: +0.20% New Supply in 90 Days"
-description:   "As of Nov 18 2026, new Bitcoin supply runs at +0.20% over 90 days and +0.83% over 12 months."
+title:         "Bitcoin (BTC) Tokenomics: +0.21% New Supply in 90 Days"
+description:   "As of Nov 27 2026, new Bitcoin supply runs at +0.21% over 90 days and +0.83% over 12 months."
 canonical_url: "https://mrnasdog.com/research/btc"
 content_type:  "coin_hub"
 tags:          ["crypto", "btc", "bitcoin", "should-i-buy"]
 published:     true
 ---
-# Bitcoin (BTC) Tokenomics: +0.20% New Supply in 90 Days
+# Bitcoin (BTC) Tokenomics: +0.21% New Supply in 90 Days
 
-*Originally published at https://mrnasdog.com/research/btc (checked Nov 25 2026)*
+*Originally published at https://mrnasdog.com/research/btc (checked Nov 27 2026)*
 
-As of Nov 18 2026, new Bitcoin supply runs at **+0.20%** over 90 days and **+0.83%** over 12 months.
+As of Nov 27 2026, new Bitcoin supply runs at **+0.21%** over 90 days and **+0.83%** over 12 months.
 
-- **Signal today:** positive (Nov 25 2026)
+- **Signal today:** positive (Nov 27 2026)
 - **MrNasDog score:** 8.5/10 — supply 3.5/5, demand 5/5
-- **New coins:** +0.20% in 90 days · +0.83% in a year
+- **New coins:** +0.21% in 90 days · +0.83% in a year
 - **Demand:** exceptional (5/5)
 - **Drivers:** 1 ▲ price up · 1 ▼ price down
 
@@ -28,26 +28,26 @@ since the Apr 2024 halving · next halving about Apr 2028
 
 Bottom zone (day ~900) → price up · Top zone (day ~530) → price down. Now: ▲ up side.
 
-*Checked Nov 24 2026*
+*Checked Nov 27 2026*
 
 ### ▼ Big buyers
 
-ETFs sold ~39K BTC since Oct 20; Strategy added only 2,332.
+ETFs sold ~88K BTC since Oct 20; Strategy added only 2,788.
 
 ▲ Price up if: They keep buying. ▼ Price down if: They sell. Right now it points down.
 
 | Date | ETFs | Strategy |
 |---|---|---|
-| Nov 6 2026 | 1,271,578 BTC | — |
-| Nov 8 2026 | — | 850,364 BTC |
 | Nov 15 2026 | — | 850,849 BTC |
 | Nov 17 2026 | 1,251,983 BTC | — |
+| Nov 22 2026 | — | 851,305 BTC |
+| Nov 26 2026 | 1,203,390 BTC | — |
 
-*Checked Nov 18 2026*
+*Checked Nov 27 2026*
 
 ### • Possible sellers
 
-Binance hacker still holds ~18K BTC; US moves to seize $1.2B.
+Hacker's 18K BTC still parked; House bill would lock US coins.
 
 ▲ Price up if: Coins stay put. ▼ Price down if: Coins sent to sell.
 
@@ -58,13 +58,13 @@ Binance hacker still holds ~18K BTC; US moves to seize $1.2B.
 | Sep 30 2026 | 34,388 BTC | 324,552 BTC |
 | Oct 31 2026 | 34,388 BTC | — |
 
-*Checked Nov 24 2026*
+*Checked Nov 27 2026*
 
 ## New BTC hitting the market
 
-Bitcoin adds about 0.20% new supply every 90 days, all of it paid to miners, with nothing burned or bought back and a hard cap of 21M BTC.
+Bitcoin adds about 0.21% new supply every 90 days, all of it paid to miners, with nothing burned or bought back and a hard cap of 21M BTC.
 
-New BTC: +0.20% in 90 days, +0.83% in a year. Supply score 3.5/5, "steady".
+New BTC: +0.21% in 90 days, +0.83% in a year. Supply score 3.5/5, "steady".
 
 ## Who wants Bitcoin right now
 
@@ -76,31 +76,31 @@ Members get the rest of the Bitcoin demand read on mrnasdog.com.
 
 ### Is Bitcoin (BTC) inflationary or deflationary?
 
-Bitcoin (BTC) is inflationary right now: its supply changes +0.20% over the next 90 days and +0.83% over the next year (checked Nov 18 2026). More BTC is added than removed.
+Bitcoin (BTC) is inflationary right now: its supply changes +0.21% over the next 90 days and +0.83% over the next year (checked Nov 27 2026). More BTC is added than removed.
 
 ### What is the BTC inflation rate in 2026?
 
-About +0.83% a year: that is how much Bitcoin (BTC) supply changes over the next 12 months, with +0.20% in the next 90 days (checked Nov 18 2026). That puts BTC #67 of 100 coins we track for new supply (#1 = the most new supply).
+About +0.83% a year: that is how much Bitcoin (BTC) supply changes over the next 12 months, with +0.21% in the next 90 days (checked Nov 27 2026). That puts BTC #67 of 100 coins we track for new supply (#1 = the most new supply).
 
 ### When is the next BTC token unlock?
 
-No dated Bitcoin (BTC) unlock is scheduled in the next 90 days (checked Nov 18 2026). New BTC still arrives: about 41K BTC in 90 days.
+No dated Bitcoin (BTC) unlock is scheduled in the next 90 days (checked Nov 27 2026). New BTC still arrives: about 41.4K BTC in 90 days.
 
 ### Does Bitcoin burn or buy back BTC?
 
-Not in a way that removes BTC today: nothing takes BTC off the market over the next 90 days (checked Nov 18 2026). No buyback, no fee burn, no foundation. Funds, companies, governments, the Mt. Gox estate and the Movie2k coins are already counted, so buying or selling them removes nothing.
+Not in a way that removes BTC today: nothing takes BTC off the market over the next 90 days (checked Nov 27 2026). No buyback, no fee burn, no foundation. Funds, Strategy, governments, the Mt. Gox estate and the Movie2k coins are already counted, so buying or selling them removes nothing.
 
 ### Where does new BTC supply come from?
 
-In our count, about 41K new BTC reaches the market over the next 90 days (checked Nov 18 2026). How it works: Mining is the only new supply: 3.125 BTC a block, about 40.98K BTC over 90 days at the measured 146 blocks a day. The next halving, around April 2028, cuts it to 1.5625 BTC a block.
+In our count, about 41.4K new BTC reaches the market over the next 90 days (checked Nov 27 2026). How it works: Mining is the only new supply: 3.125 BTC a block, 41.36K BTC over the last 90 days at the measured 147 blocks a day. The next halving, at block 1,050,000 in 2028, cuts it to 1.5625 BTC a block.
 
 ### How much BTC is in circulation?
 
-About 20.1M BTC is in circulation (checked Nov 18 2026). Over the next 90 days that changes +0.20%, and over a year +0.83%.
+About 20.1M BTC is in circulation (checked Nov 27 2026). Over the next 90 days that changes +0.21%, and over a year +0.83%.
 
 ### Does BTC have more new supply than ETH, BNB or XRP?
 
-Over the next 90 days (checked Nov 18 2026): BTC +0.20%, ETH +0.21%, BNB −1.27%, XRP +1.42%. BTC sits in the middle of these 4 coins.
+Over the next 90 days (checked Nov 27 2026): BTC +0.21%, ETH +0.21%, BNB −1.27%, XRP +1.42%. BTC sits in the middle of these 4 coins.
 
 ## Where to read the rest of BTC
 

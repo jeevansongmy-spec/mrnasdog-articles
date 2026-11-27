@@ -7,6 +7,9 @@ published:     true
 ---
 *Originally published at [https://mrnasdog.com/research/lunc/inflation](https://mrnasdog.com/research/lunc/inflation)*
 
+<!-- main-page -->
+This is the long supply read. For the signal, the price drivers and the questions people ask about Terra Luna Classic, see [mrnasdog.com/research/lunc](https://mrnasdog.com/research/lunc).
+
 # LUNC Inflation Analysis · November 2026 · Mixed flows · supply roughly steady
 
 Terra Classic (LUNC) shrank slightly over the last 90 days: net supply moved **−0.20%**, and we expect about **−0.17%** over the next 90 days. Terra Classic prints no new LUNC at all, and a **1.5%** tax on every on-chain transfer burned **9.05B LUNC** from Aug 29 to Nov 27 2026, against only **534.92M LUNC** paid out of the community pool. There is no supply cap, but with minting set to zero, total LUNC can only go down.
